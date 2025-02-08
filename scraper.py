@@ -15,6 +15,8 @@ chrome_options.add_argument("--disable-gpu")
 chrome_options.add_argument("--start-maximized")
 chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")
 
+print("Inizio")
+
 # Avvia il WebDriver
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
 
@@ -29,6 +31,8 @@ time.sleep(5)
 
 # Ottieni il codice HTML della pagina
 html_content = driver.page_source
+
+print(html_content)
 
 # Chiudi il browser
 driver.quit()
