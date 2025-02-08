@@ -1,32 +1,37 @@
-name: Aggiorna Notizie
+name: Aggiorna scraper ogni 6 ore
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # Esegui ogni 6 ore
-  workflow_dispatch: # Permette di eseguire manualmente
+    - cron: "0 */6 * * *"  # Esegui ogni 6 ore
+  workflow_dispatch:  # Permette di eseguirlo manualmente
 
 jobs:
-  update-news:
+  scrape:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout del repository
+        uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
+      - name: Imposta Python
+        uses: actions/setup-python@v4
         with:
-          node-version: 18
+          python-version: '3.x'
 
-      - name: Install dependencies
-        run: npm install axios cheerio dotenv
-
-      - name: Esegui lo script di scraping
-        run: node scraper.js
-
-      - name: Commit & Push se ci sono modifiche
+      - name: Installa le dipendenze
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add public/notizie.json
-          git commit -m "Aggiornate le notizie" || echo "Nessuna modifica"
-          git push
+          python -m pip install --upgrade pip
+          pip install selenium webdriver-manager beautifulsoup4
+
+      - name: Esegui lo scraper
+        run: python scraper.py
+
+      - name: Configura Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit e Push se ci sono modifiche
+        run: |
+          git add pagina.txt data.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Aggiornamento dati scraper" && git push)
