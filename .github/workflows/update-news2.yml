@@ -1,0 +1,41 @@
+name: Aggiorna scraper ogni 6 ore
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Esegui ogni 6 ore
+  workflow_dispatch:  # Permette di eseguirlo manualmente
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout del repository
+        uses: actions/checkout@v4
+
+      - name: Imposta Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Installa le dipendenze
+        run: |
+          python -m pip install --upgrade pip
+          pip install selenium webdriver-manager beautifulsoup4 requests
+
+      - name: Esegui lo scraper
+        run: python scraper.py
+
+      - name: Configura Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit changes
+        run: |
+          git add data.json immagini/
+          git commit -m "Aggiornamento dati scraper" || echo "Nessun cambiamento da commettere"  # Crea il commit con il messaggio
+
+      - name: Push changes
+        run: |
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:${{ github.ref }}
