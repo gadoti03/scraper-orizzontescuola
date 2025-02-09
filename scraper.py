@@ -32,6 +32,7 @@ time.sleep(5)
 # Ottieni il codice HTML della pagina
 html_content = driver.page_source
 print("Pagina caricata. Estrazione del contenuto HTML...")
+print(html_content)
 
 # Chiudi il browser (non serve più)
 driver.quit()
