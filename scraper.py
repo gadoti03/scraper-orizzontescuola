@@ -57,6 +57,10 @@ with open("pagina.txt", "w", encoding="utf-8") as file:
     for article in articles:
         # Cerca la categoria dell'articolo
         category_tag = article.find("span", class_="category")
+
+        # Se la categoria è "Corsi", non aggiungere l'articolo al JSON
+        if category_tag == "Corsi":
+                continue  # Salta il ciclo corrente (l'articolo non verrà aggiunto)
         
         # Cerca il titolo e il link dell'articolo
         title_tag = article.find("h2", class_="entry-title")
