@@ -24,7 +24,7 @@ jobs:
           pip install selenium webdriver-manager beautifulsoup4 requests
 
       - name: Esegui lo scraper
-        run: python scraper.py
+        run: python scraper2.py
 
       - name: Configura Git
         run: |
