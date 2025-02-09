@@ -87,7 +87,7 @@ with open("pagina.txt", "w", encoding="utf-8") as file:
             date, time = datetime_str.split(" - ", 1)  # Separiamo la data dall'orario
             
             # Estrai il link dell'immagine, se disponibile
-            image_link = image_tag["src"] if image_tag else "N/A"
+            image_link = image_tag["data-src"] if image_tag else "N/A"
             
             # Scrivi i dati nel file di testo
             file.write(f"Categoria: {category}\n")
