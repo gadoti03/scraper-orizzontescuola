@@ -1,10 +1,20 @@
 import time
 import json
+import requests
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
+
+# La tua API Key di ScraperAPI
+api_key = '7c6778d034e0c8d4e75558693e631511'
+
+# URL del sito che desideri fare scraping
+target_url = 'https://www.orizzontescuola.it/'
+
+# Costruisci l'URL per ScraperAPI
+scraper_api_url = f'http://api.scraperapi.com?api_key={api_key}&url={target_url}'
 
 # Imposta le opzioni di Chrome per l'esecuzione in modalità headless (senza interfaccia grafica)
 chrome_options = Options()
@@ -19,20 +29,16 @@ chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
 print("Avvio del browser...")
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
 
-# URL della pagina che vogliamo analizzare
-url = "https://www.orizzontescuola.it/"
-
-# Carica la pagina
-print(f"Caricamento della pagina: {url}")
-driver.get(url)
+# Usa ScraperAPI per caricare la pagina
+print(f"Caricamento della pagina tramite ScraperAPI: {scraper_api_url}")
+driver.get(scraper_api_url)
 
 # Aspetta che la pagina sia completamente caricata
 time.sleep(5)
 
 # Ottieni il codice HTML della pagina
 html_content = driver.page_source
-print("Pagina caricata. Estrazione del contenuto HTML...")
-print(html_content)
+print("Pagina caricata tramite ScraperAPI. Estrazione del contenuto HTML...")
 
 # Chiudi il browser (non serve più)
 driver.quit()
