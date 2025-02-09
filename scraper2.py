@@ -7,6 +7,7 @@ from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
 import os
+import random  # Per gli intervalli casuali di tempo
 
 # La tua API Key di ScraperAPI
 api_key = '7c6778d034e0c8d4e75558693e631511'
@@ -94,16 +95,29 @@ for article in articles:
         # Estrai il link dell'immagine, se disponibile
         image_link = image_tag["data-src"] if image_tag else "N/A"
         
-        # Se c'è un link dell'immagine, scaricala
+        # Se c'è un link dell'immagine, scaricala tramite ScraperAPI
         if image_link != "N/A":
             try:
-                # Scarica l'immagine
-                img_response = requests.get(image_link)
-                img_name = f"immagini/img{img_counter}.jpg"  # Nome del file immagine
-                with open(img_name, "wb") as img_file:
-                    img_file.write(img_response.content)
-                img_counter += 1
-                image_link = img_name  # Assegna il nome dell'immagine nel JSON
+                # Costruisci l'URL per ScraperAPI per scaricare l'immagine
+                img_scraper_url = f'http://api.scraperapi.com?api_key={api_key}&url={image_link}'
+                
+                # Scarica l'immagine utilizzando ScraperAPI
+                img_response = requests.get(img_scraper_url)
+                
+                # Verifica che la risposta sia corretta
+                if img_response.status_code == 200:
+                    img_name = f"immagini/img{img_counter}.jpg"  # Nome del file immagine
+                    with open(img_name, "wb") as img_file:
+                        img_file.write(img_response.content)
+                    img_counter += 1
+                    image_link = img_name  # Assegna il nome dell'immagine nel JSON
+                else:
+                    print(f"Errore nel download dell'immagine: {img_response.status_code}")
+                    image_link = "Errore nel download"
+                
+                # Aggiungi un intervallo casuale tra i download delle immagini (1-3 secondi)
+                time.sleep(random.randint(1, 3))
+                
             except Exception as e:
                 print(f"Errore nel download dell'immagine: {e}")
                 image_link = "Errore nel download"
