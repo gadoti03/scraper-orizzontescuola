@@ -64,6 +64,9 @@ with open("pagina.txt", "w", encoding="utf-8") as file:
         # Cerca la data e l'orario dell'articolo
         date_tag = article.find("time", class_="entry-date")
         
+        # Cerca l'immagine dell'articolo (tag <img>)
+        image_tag = article.find("img")
+        
         # Verifica che tutti i dettagli siano presenti
         if category_tag and title_tag and date_tag:
             category = category_tag.get_text(strip=True)
@@ -81,12 +84,16 @@ with open("pagina.txt", "w", encoding="utf-8") as file:
             datetime_str = date_tag.get_text(strip=True)
             date, time = datetime_str.split(" - ", 1)  # Separiamo la data dall'orario
             
+            # Estrai il link dell'immagine, se disponibile
+            image_link = image_tag["src"] if image_tag else "N/A"
+            
             # Scrivi i dati nel file di testo
             file.write(f"Categoria: {category}\n")
             file.write(f"Titolo: {title}\n")
             file.write(f"Link: {link}\n")
             file.write(f"Data: {date}\n")
             file.write(f"Orario: {time}\n")
+            file.write(f"Link Immagine: {image_link}\n")
             file.write("-" * 80 + "\n")
             
             # Aggiungi i dati all'elenco per il salvataggio in formato JSON
@@ -95,7 +102,8 @@ with open("pagina.txt", "w", encoding="utf-8") as file:
                 "title": title,
                 "link": link,
                 "date": date,
-                "time": time
+                "time": time,
+                "image_link": image_link  # Aggiungi il link dell'immagine
             })
 
 # Salva i dati degli articoli nel file JSON
