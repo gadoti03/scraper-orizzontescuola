@@ -1,6 +1,6 @@
 import time
 import json
-from selenium import webdriver
+import undetected_chromedriver.v2 as uc  # Usa undetected_chromedriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
@@ -15,9 +15,9 @@ chrome_options.add_argument("--disable-gpu")  # Disabilita la GPU, non necessari
 chrome_options.add_argument("--start-maximized")  # Avvia il browser a schermo intero
 chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")  # Imposta un user-agent personalizzato per simulare un browser
 
-# Avvia il WebDriver di Chrome con le opzioni configurate
+# Avvia il WebDriver di Chrome con le opzioni configurate utilizzando undetected-chromedriver
 print("Avvio del browser...")
-driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
+driver = uc.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
 
 # URL della pagina che vogliamo analizzare
 url = "https://www.orizzontescuola.it/"
