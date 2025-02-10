@@ -16,74 +16,158 @@ target_url = 'https://www.orizzontescuola.it/'
 # Costruisci l'URL per ScraperAPI
 scraper_api_url = f'http://api.scraperapi.com?api_key={api_key}&url={target_url}'
 
-# Imposta le opzioni di Chrome
+# Imposta le opzioni di Chrome per l'esecuzione in modalità headless (senza interfaccia grafica)
 chrome_options = Options()
-chrome_options.add_argument("--no-sandbox")
-chrome_options.add_argument("--disable-dev-shm-usage")
-chrome_options.add_argument("--headless")
-chrome_options.add_argument("--disable-gpu")
-chrome_options.add_argument("--start-maximized")
-chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")
+chrome_options.add_argument("--no-sandbox")  # Ottimizzazione per ambienti con restrizioni di sicurezza
+chrome_options.add_argument("--disable-dev-shm-usage")  # Risolve un problema con la memoria nei container
+chrome_options.add_argument("--headless")  # Esegui senza finestra grafica
+chrome_options.add_argument("--disable-gpu")  # Disabilita la GPU, non necessaria in modalità headless
+chrome_options.add_argument("--start-maximized")  # Avvia il browser a schermo intero
+chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")  # Imposta un user-agent personalizzato per simulare un browser
 
-# Avvia il WebDriver
-driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
+# Avvia il WebDriver di Chrome con le opzioni configurate
 print("Avvio del browser...")
+driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
+
+# Usa ScraperAPI per caricare la pagina
+print(f"Caricamento della pagina tramite ScraperAPI: {scraper_api_url}")
 driver.get(scraper_api_url)
+
+# Aspetta che la pagina sia completamente caricata
 time.sleep(5)
+
+# Ottieni il codice HTML della pagina
 html_content = driver.page_source
+print("Pagina caricata tramite ScraperAPI. Estrazione del contenuto HTML...")
+
+# Chiudi il browser (non serve più)
 driver.quit()
 
-# Analizza il contenuto HTML
+# Usa BeautifulSoup per analizzare il contenuto HTML
 soup = BeautifulSoup(html_content, "html.parser")
 
-# Dizionario per contenere i gruppi di articoli
-articles_groups = {
-    "inevidenza": soup.find_all("div", class_="newsblock two-col inevidenza"),
-    "one_col": soup.find_all(".site-main .newsblock.one-col"),
-    "b_left": soup.find_all(".site-main .two-col-blocks .b-left"),
-    "rssblock": soup.find_all(".site-main .two-col-blocks .b-right .rssblock.small-thumb"),
-    "inbreve": soup.find_all(".site-main .two-col-blocks .b-right .newsblock.one-col.inbreve"),
-    "chiediloalalla": soup.find_all(".site-main .two-col-blocks .b-right .newsblock.one-col.chiediloalalla"),
-    "diventareinsegnanti": soup.find_all(".noside.desktop .newsblock.three-col.diventareinsegnanti"),
-    "notizieata": soup.find_all(".noside.desktop .newsblock.three-col.notizieata"),
-    "didattica": soup.find_all(".noside.desktop .newsblock.three-col.didattica"),
-    "lettereinredazione": soup.find_all(".noside.desktop .newsblock.three-col.lettereinredazione"),
+# Dati separati in base ai gruppi specificati
+grouped_articles = {
+    "group_1": [],
+    "group_2": [],
+    "group_3": [],
+    "group_4": [],
+    "group_5": [],
+    "group_6": [],
+    "group_7": [],
+    "group_8": [],
+    "group_9": [],
+    "group_10": []
 }
 
-# Funzione per estrarre i dettagli degli articoli
-def extract_articles(articles):
-    extracted_data = []
-    for article in articles:
-        title_tag = article.find("h2", class_="entry-title")
-        date_tag = article.find("time", class_="entry-date")
-        image_tag = article.find("img")
+# Funzione per estrarre e raccogliere gli articoli
+def extract_articles(group_name, articles_list):
+    for article in articles_list:
+        # Cerca la categoria dell'articolo
         category_tag = article.find("span", class_="category")
         
-        if title_tag and date_tag and category_tag:
+        # Cerca il titolo e il link dell'articolo
+        title_tag = article.find("h2", class_="entry-title")
+        
+        # Cerca la data e l'orario dell'articolo
+        date_tag = article.find("time", class_="entry-date")
+        
+        # Cerca l'immagine dell'articolo (tag <img>)
+        image_tag = article.find("img")
+
+        # Verifica che tutti i dettagli siano presenti
+        if category_tag and title_tag and date_tag:
             category = category_tag.get_text(strip=True)
+
+            # Se la categoria è "Corsi", non aggiungere l'articolo al JSON
             if category == "Corsi":
-                continue
+                continue  # Salta il ciclo corrente (l'articolo non verrà aggiunto)
+            
+            # Verifica se c'è un link all'interno del titolo
             anchor_tag = title_tag.find("a")
-            title = anchor_tag.get_text(strip=True) if anchor_tag else "N/A"
-            link = anchor_tag["href"] if anchor_tag else "N/A"
+            if anchor_tag:
+                title = anchor_tag.get_text(strip=True)
+                link = anchor_tag["href"]
+            else:
+                title = "N/A (Link non trovato)"
+                link = "N/A"
+            
+            # Estrai la data e l'orario
             datetime_str = date_tag.get_text(strip=True)
-            date, time = datetime_str.split(" - ", 1)
+            date, time = datetime_str.split(" - ", 1)  # Separiamo la data dall'orario
+            
+            # Estrai il link dell'immagine, se disponibile
             image_link = image_tag["data-src"] if image_tag else "N/A"
-            extracted_data.append({
+            
+            # Aggiungi i dati all'elenco per il gruppo
+            articles_list.append({
                 "category": category,
                 "title": title,
                 "link": link,
                 "date": date,
                 "time": time,
-                "image_link": image_link
+                "image_link": image_link  # Aggiungi il link dell'immagine
             })
-    return extracted_data
 
-# Estrarre gli articoli per ogni gruppo
-grouped_articles = {group: extract_articles(articles) for group, articles in articles_groups.items()}
+# Estrai articoli dal primo gruppo: "newsblock two-col inevidenza"
+group_1 = soup.find_all("div", class_="newsblock two-col inevidenza")
+extract_articles("group_1", grouped_articles["group_1"])
 
-# Salva i dati nel file JSON
+# Estrai articoli dal secondo gruppo: "site-main" -> "newsblock one-col"
+group_2 = soup.find_all("div", class_="site-main")
+group_2 = [g for g in group_2 if g.find("div", class_="newsblock one-col")]
+extract_articles("group_2", grouped_articles["group_2"])
+
+# Estrai articoli dal terzo gruppo: "site-main" -> "two-col-blocks" -> "b-left"
+group_3 = soup.find_all("div", class_="site-main")
+group_3 = [g for g in group_3 if g.find("div", class_="two-col-blocks")]
+group_3 = [g for g in group_3 if g.find("div", class_="b-left")]
+extract_articles("group_3", grouped_articles["group_3"])
+
+# Estrai articoli dal quarto gruppo: "site-main" -> "two-col-blocks" -> "b-right" -> "rssblock small-thumb"
+group_4 = soup.find_all("div", class_="site-main")
+group_4 = [g for g in group_4 if g.find("div", class_="two-col-blocks")]
+group_4 = [g for g in group_4 if g.find("div", class_="b-right")]
+group_4 = [g for g in group_4 if g.find("div", class_="rssblock small-thumb")]
+extract_articles("group_4", grouped_articles["group_4"])
+
+# Estrai articoli dal quinto gruppo: "site-main" -> "two-col-blocks" -> "b-right" -> "newsblock one-col inbreve"
+group_5 = soup.find_all("div", class_="site-main")
+group_5 = [g for g in group_5 if g.find("div", class_="two-col-blocks")]
+group_5 = [g for g in group_5 if g.find("div", class_="b-right")]
+group_5 = [g for g in group_5 if g.find("div", class_="newsblock one-col inbreve")]
+extract_articles("group_5", grouped_articles["group_5"])
+
+# Estrai articoli dal sesto gruppo: "site-main" -> "two-col-blocks" -> "b-right" -> "newsblock one-col chiediloalalla"
+group_6 = soup.find_all("div", class_="site-main")
+group_6 = [g for g in group_6 if g.find("div", class_="two-col-blocks")]
+group_6 = [g for g in group_6 if g.find("div", class_="b-right")]
+group_6 = [g for g in group_6 if g.find("div", class_="newsblock one-col chiediloalalla")]
+extract_articles("group_6", grouped_articles["group_6"])
+
+# Estrai articoli dal settimo gruppo: "noside desktop" -> "newsblock three-col diventareinsegnanti"
+group_7 = soup.find_all("div", class_="noside desktop")
+group_7 = [g for g in group_7 if g.find("div", class_="newsblock three-col diventareinsegnanti")]
+extract_articles("group_7", grouped_articles["group_7"])
+
+# Estrai articoli dall'ottavo gruppo: "noside desktop" -> "newsblock three-col notizieata"
+group_8 = soup.find_all("div", class_="noside desktop")
+group_8 = [g for g in group_8 if g.find("div", class_="newsblock three-col notizieata")]
+extract_articles("group_8", grouped_articles["group_8"])
+
+# Estrai articoli dal nono gruppo: "noside desktop" -> "newsblock three-col didattica"
+group_9 = soup.find_all("div", class_="noside desktop")
+group_9 = [g for g in group_9 if g.find("div", class_="newsblock three-col didattica")]
+extract_articles("group_9", grouped_articles["group_9"])
+
+# Estrai articoli dal decimo gruppo: "noside desktop" -> "newsblock three-col lettereinredazione"
+group_10 = soup.find_all("div", class_="noside desktop")
+group_10 = [g for g in group_10 if g.find("div", class_="newsblock three-col lettereinredazione")]
+extract_articles("group_10", grouped_articles["group_10"])
+
+# Salva i dati degli articoli nel file JSON
 with open("data.json", "w", encoding="utf-8") as json_file:
     json.dump(grouped_articles, json_file, indent=4, ensure_ascii=False)
 
-print("I dati sono stati estratti e salvati in 'data.json'.")
+# Messaggio finale per indicare che i dati sono stati salvati correttamente
+print("I dati sono stati estratti e salvati nel file 'data.json'.")
