@@ -1,6 +1,6 @@
 {
     "group_1": {
-        "title": "Evidenza",
+        "title": "Notizie in Evidenza",
         "articles": [
             {
                 "category": "Diventare Insegnanti",
@@ -14,7 +14,7 @@
         ]
     },
     "group_2": {
-        "title": "Ultime Notizie Monocolonna",
+        "title": "Ultimi Aggiornamenti",
         "articles": [
             {
                 "category": "Cronaca",
@@ -140,7 +140,7 @@
         ]
     },
     "group_3": {
-        "title": "Ultime Notizie Colonna Sinistra",
+        "title": "Ultime Notizie",
         "articles": [
             null,
             {
