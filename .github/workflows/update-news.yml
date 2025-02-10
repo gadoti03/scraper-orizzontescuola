@@ -1,8 +1,8 @@
-name: Aggiorna scraper ogni 4 ore specifiche
+name: Aggiorna scraper ogni 6 ore
 
 on:
   schedule:
-    - cron: "0 8,12,16,20 * * *"  # Esegui alle 8:00, 12:00, 16:00, 20:00 UTC
+    - cron: "0 */6 * * *"  # Esegui ogni 6 ore
   workflow_dispatch:  # Permette di eseguirlo manualmente
 
 jobs:
@@ -33,9 +33,12 @@ jobs:
 
       - name: Commit changes
         run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add pagina.txt data.json  # Aggiungi i file modificati
-          git commit -m "Aggiornamento dati scraper" || echo "Nessuna modifica da committare"
+          git commit -m "Aggiornamento dati scraper"  # Crea il commit con il messaggio
     
+      # 6. Esegui il push delle modifiche nel repository
       - name: Push changes
         run: |
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:${{ github.ref }} || echo "Nessuna modifica da pushare"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:${{ github.ref }}
