@@ -1,4 +1,4 @@
-oimport time
+import time
 import json
 import re
 import requests
