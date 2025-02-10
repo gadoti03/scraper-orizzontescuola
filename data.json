@@ -17,6 +17,14 @@
         "title": "Ultime Notizie Monocolonna",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "“Noi, giovani, indipendenti e realizzati nonostante la disabilità”. Un lavoro a tempo indeterminato per Francesco e Silvia",
+                "link": "https://www.orizzontescuola.it/noi-giovani-indipendenti-e-realizzati-nonostante-la-disabilita-un-lavoro-a-tempo-indeterminato-per-francesco-e-silvia/",
+                "date": "10 Feb 2025",
+                "time": "14:28",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/475322932_1644289479750224_7270002634301853480_n-e1739186277258.jpg"
+            },
+            {
                 "category": "Pensioni",
                 "title": "Pensioni Opzione donna e Quota 103 docenti e ATA, domande riaperte fino al 28 febbraio",
                 "link": "https://www.orizzontescuola.it/pensioni-opzione-donna-e-quota-103-docenti-e-ata-domande-riaperte-fino-al-28-febbraio/",
@@ -128,13 +136,13 @@
                 "time": "8:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_1051414388.jpg"
             },
-            null,
             null
         ]
     },
     "group_3": {
         "title": "Ultime Notizie Colonna Sinistra",
         "articles": [
+            null,
             {
                 "category": "Cronaca",
                 "title": "“Pappina pronta o assistente allo studio?” Il dilemma dell’IA tra i banchi: “Strumento integrativo, non sostitutivo. Educare all’uso, non solo vietare”",
@@ -263,20 +271,20 @@
                 "time": "7:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2507996211.jpg"
             },
-            null,
-            {
-                "category": "Cronaca",
-                "title": "Studenti con epilessia: no esclusione dalle gite scolastiche, somministrazione dei farmaci e formazione personale. Il Disegno di Legge",
-                "link": "https://www.orizzontescuola.it/studenti-con-epilessia-no-esclusione-dalle-gite-scolastiche-somministrazione-dei-farmaci-e-formazione-personale-il-disegno-di-legge-898/",
-                "date": "8 Feb 2025",
-                "time": "18:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2321948323.jpg"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "“Abbiamo investito anni e sacrifici, ora siamo scavalcati”, a Bari docenti di sostegno si inginocchiano davanti ad una chiesa: “Fateci la grazia”",
+                "link": "https://www.orizzontescuola.it/abbiamo-investito-anni-e-sacrifici-ora-siamo-scavalcati-a-bari-docenti-di-sostegno-si-inginocchiano-davanti-ad-una-chiesa-fateci-la-grazia/",
+                "date": "10 Feb 2025",
+                "time": "13:33",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Padre e figlio, docenti nella stessa classe: l’incredibile caso in un istituto a Belluno. Il loro racconto: “È più facile fare un terno al lotto, ma è bellissimo”",
@@ -411,14 +419,6 @@
                 "link": "https://www.orizzontescuola.it/a-carpi-studente-minorenne-brutalmente-picchiato-alluscita-di-scuola-indagini-in-corso-della-polizia/",
                 "date": "9 Feb 2025",
                 "time": "18:07",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Indennità di sede da almeno 1.000 euro l’anno e punteggio aggiuntivo per docenti e Ata che lavorano nelle scuole di montagna, Anief non demorde",
-                "link": "https://www.orizzontescuola.it/indennita-di-sede-da-almeno-1-000-euro-lanno-e-punteggio-aggiuntivo-per-docenti-e-ata-che-lavorano-nelle-scuole-di-montagna-anief-non-demorde/",
-                "date": "9 Feb 2025",
-                "time": "17:19",
                 "image_link": "N/A"
             }
         ]
