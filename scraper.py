@@ -1,4 +1,4 @@
-import time
+oimport time
 import json
 import re
 import requests
@@ -57,7 +57,7 @@ articles_data = {
     "group_2": {"title": "Ultimi Aggiornamenti", "articles": []},
     "group_3": {"title": "Ultime Notizie", "articles": []},
     "group_4": {"title": "In Breve", "articles": []},
-    "group_5": {"title": "Colonna Destra - Dillo a Lalla", "articles": []},
+    "group_5": {"title": "Chiedilo a Lalla", "articles": []},
     "group_6": {"title": "Diventare Insegnanti", "articles": []},
     "group_7": {"title": "Notizie ATA", "articles": []},
     "group_8": {"title": "Didattica", "articles": []},
