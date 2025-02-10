@@ -39,15 +39,15 @@ soup = BeautifulSoup(html_content, "html.parser")
 # Dizionario per contenere i gruppi di articoli
 articles_groups = {
     "inevidenza": soup.find_all("div", class_="newsblock two-col inevidenza"),
-    "one_col": soup.select(".site-main .newsblock.one-col"),
-    "b_left": soup.select(".site-main .two-col-blocks .b-left"),
-    "rssblock": soup.select(".site-main .two-col-blocks .b-right .rssblock.small-thumb"),
-    "inbreve": soup.select(".site-main .two-col-blocks .b-right .newsblock.one-col.inbreve"),
-    "chiediloalalla": soup.select(".site-main .two-col-blocks .b-right .newsblock.one-col.chiediloalalla"),
-    "diventareinsegnanti": soup.select(".noside.desktop .newsblock.three-col.diventareinsegnanti"),
-    "notizieata": soup.select(".noside.desktop .newsblock.three-col.notizieata"),
-    "didattica": soup.select(".noside.desktop .newsblock.three-col.didattica"),
-    "lettereinredazione": soup.select(".noside.desktop .newsblock.three-col.lettereinredazione"),
+    "one_col": soup.find_all(".site-main .newsblock.one-col"),
+    "b_left": soup.find_all(".site-main .two-col-blocks .b-left"),
+    "rssblock": soup.find_all(".site-main .two-col-blocks .b-right .rssblock.small-thumb"),
+    "inbreve": soup.find_all(".site-main .two-col-blocks .b-right .newsblock.one-col.inbreve"),
+    "chiediloalalla": soup.find_all(".site-main .two-col-blocks .b-right .newsblock.one-col.chiediloalalla"),
+    "diventareinsegnanti": soup.find_all(".noside.desktop .newsblock.three-col.diventareinsegnanti"),
+    "notizieata": soup.find_all(".noside.desktop .newsblock.three-col.notizieata"),
+    "didattica": soup.find_all(".noside.desktop .newsblock.three-col.didattica"),
+    "lettereinredazione": soup.find_all(".noside.desktop .newsblock.three-col.lettereinredazione"),
 }
 
 # Funzione per estrarre i dettagli degli articoli
