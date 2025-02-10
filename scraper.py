@@ -16,7 +16,7 @@ api_key = '7c6778d034e0c8d4e75558693e631511'
 target_url = 'https://www.orizzontescuola.it/'
 
 # Costruisci l'URL per ScraperAPI
-scraper_api_url = f'http://api.scraperapi.com?api_key={api_key}&url={target_url}'
+scraper_api_url = f'http://api.scraperapi.com?api_key={api_key}&url={target_url}&nocache=true'
 
 # Imposta le opzioni di Chrome per l'esecuzione in modalità headless (senza interfaccia grafica)
 chrome_options = Options()
