@@ -53,9 +53,9 @@ soup = BeautifulSoup(html_content, "html.parser")
 
 # Struttura aggiornata per articles_data, ora ogni gruppo è un oggetto con titolo e lista di articoli
 articles_data = {
-    "group_1": {"title": "Evidenza", "articles": []},
-    "group_2": {"title": "Ultime Notizie Monocolonna", "articles": []},
-    "group_3": {"title": "Ultime Notizie Colonna Sinistra", "articles": []},
+    "group_1": {"title": "Notizie in Evidenza", "articles": []},
+    "group_2": {"title": "Ultimi Aggiornamenti", "articles": []},
+    "group_3": {"title": "Ultime Notizie", "articles": []},
     "group_4": {"title": "In Breve", "articles": []},
     "group_5": {"title": "Colonna Destra - Dillo a Lalla", "articles": []},
     "group_6": {"title": "Diventare Insegnanti", "articles": []},
