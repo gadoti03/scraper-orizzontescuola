@@ -71,7 +71,7 @@ with open("pagina.txt", "w", encoding="utf-8") as file:
         # Cerca l'immagine dell'articolo (tag <img>)
         image_tag = article.find("img")
 
-        print(image_tag)
+        print(category_tag)
         
         # Verifica che tutti i dettagli siano presenti
         if category_tag and title_tag and date_tag:
