@@ -44,11 +44,6 @@ print("Pagina caricata tramite ScraperAPI. Estrazione del contenuto HTML...")
 
 # Usa BeautifulSoup per formattare il codice HTML
 soup = BeautifulSoup(html_content, 'html.parser')
-formatted_html = soup.prettify()  # Rende l'HTML più leggibile
-
-# Salva il contenuto HTML formattato in un file di testo
-with open("pagina_formattata.html", "w", encoding="utf-8") as file:
-    file.write(formatted_html)  # Scrive l'HTML formattato
 
 # Chiudi il browser (non serve più)
 driver.quit()
