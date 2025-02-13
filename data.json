@@ -23,6 +23,7 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
             {
                 "category": "Scuole",
                 "title": "Appalti, Anac: “Va esclusa dalla gara l’impresa che non applica il CCNL indicato dalla stazione appaltante”",
@@ -142,7 +143,12 @@
                 "date": "12 Feb 2025",
                 "time": "13:14",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/12/shutterstock_1708897081.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Politica scolastica",
                 "title": "Abuso contratti a termine per i docenti e ATA precari, procedura d’infrazione Ue contro l’Italia: due mesi per rimediare",
@@ -150,12 +156,7 @@
                 "date": "12 Feb 2025",
                 "time": "12:57",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_1073116349-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR2, quante domande per INFANZIA e PRIMARIA, che percentuale di vincere il concorso? In Campania 1253 candidati per 5 posti",
@@ -277,15 +278,7 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_150697772.jpg"
             },
             null,
-            null,
-            {
-                "category": "Politica scolastica",
-                "title": "Piano di semplificazione normativa con innovazione organizzativa e tecnologica. Atto di Indirizzo Ministero per il 2025: “Creare sistema più efficiente e trasparente”",
-                "link": "https://www.orizzontescuola.it/piano-di-semplificazione-normativa-con-innovazione-organizzativa-e-tecnologica-atto-di-indirizzo-ministero-2025-creare-sistema-piu-efficiente-e-trasparente/",
-                "date": "11 Feb 2025",
-                "time": "18:58",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/shutterstock_1842229174.jpg"
-            }
+            null
         ]
     },
     "group_4": {
