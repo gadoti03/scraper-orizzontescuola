@@ -25,6 +25,14 @@
         "articles": [
             {
                 "category": "Politica scolastica",
+                "title": "Decreto Milleproroghe: ok dal Senato, il testo passa alla Camera per la conversione in legge. Le novità per la scuola",
+                "link": "https://www.orizzontescuola.it/decreto-milleproroghe-ok-dal-senato-il-testo-passa-alla-camera-per-la-conversione-in-legge-le-novita-per-la-scuola/",
+                "date": "13 Feb 2025",
+                "time": "21:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/Senato.jpeg"
+            },
+            {
+                "category": "Politica scolastica",
                 "title": "Scuole di montagna in crisi? Valditara: “Così le salveremo, sostegno ai prof con punteggio aggiuntivo nelle GPS e credito d’imposta per gli affitti”",
                 "link": "https://www.orizzontescuola.it/scuole-di-montagna-in-crisi-valditara-cosi-le-salveremo-sostegno-ai-prof-con-punteggio-aggiuntivo-nelle-gps-e-credito-dimposta-per-gli-affitti/",
                 "date": "13 Feb 2025",
@@ -142,7 +150,12 @@
                 "date": "13 Feb 2025",
                 "time": "12:02",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_559570993.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Politica scolastica",
                 "title": "Fondo povertà educativa: 9 milioni di euro fino al 2027. Approvato emendamento bipartisan al decreto Milleproroghe",
@@ -150,12 +163,7 @@
                 "date": "13 Feb 2025",
                 "time": "11:32",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/12/senato.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Docenti vincitori non abilitati concorso PNRR1 e sede di ruolo: cosa succede in caso di dimensionamento?",
@@ -270,13 +278,36 @@
             },
             null,
             null,
-            null,
             null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Scuole",
+                "title": "Fiera Didacta 2025, dal 12 al 14 marzo: possibile fruire dell’esonero e della Carta del docente. NOTA e programma",
+                "link": "https://www.orizzontescuola.it/fiera-didacta-2025-dal-12-al-14-marzo-possibile-fruire-dellesonero-e-della-carta-del-docente-nota-e-programma/",
+                "date": "13 Feb 2025",
+                "time": "21:14",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "Viaggi nel ricordo, per promuovere la conoscenza delle foibe: le scuole beneficiarie delle risorse. DECRETO",
+                "link": "https://www.orizzontescuola.it/viaggi-nel-ricordo-per-promuovere-la-conoscenza-delle-foibe-le-scuole-beneficiarie-delle-risorse-decreto/",
+                "date": "13 Feb 2025",
+                "time": "21:02",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "Premio “Pandolfo-Roscioli”, concorso per studenti sull’Intelligenza Artificiale nel turismo: scadenza 15 aprile",
+                "link": "https://www.orizzontescuola.it/premio-pandolfo-roscioli-concorso-per-studenti-sullintelligenza-artificiale-nel-turismo-scadenza-15-aprile/",
+                "date": "13 Feb 2025",
+                "time": "20:55",
+                "image_link": "N/A"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Dl Milleproroghe, sì Commissione del Senato ad emendamenti per la scuola, ma non sono quelli chiesti da Anief: irrisolti i nodi su organico aggiuntivo Ata, docenti idonei e servizio licenziati, mobilità, prof religione in organico autonomia",
@@ -374,30 +405,6 @@
                 "link": "https://www.orizzontescuola.it/proroga-fondo-poverta-educativa-soddisfatto-il-pd-per-il-lavoro-di-squadra-con-noi-moderati/",
                 "date": "13 Feb 2025",
                 "time": "11:39",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Crepet: “I social rendono cattivi, indifferenti e obbligato all’ossessione di visibilità. Vietarli fino ai 16 anni”",
-                "link": "https://www.orizzontescuola.it/crepet-i-social-rendono-cattivi-indifferenti-e-obbligato-allossessione-di-visibilita-vietarli-fino-ai-16-anni/",
-                "date": "13 Feb 2025",
-                "time": "9:00",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Schettini: “Suono il violino anche durante le mie lezioni di fisica a teatro”. Le prime esibizioni? “Avevo paura, mi tremava l’archetto”",
-                "link": "https://www.orizzontescuola.it/schettini-suono-il-violino-anche-durante-le-mie-lezioni-di-fisica-a-teatro-le-prime-esibizioni-avevo-paura-mi-tremava-larchetto/",
-                "date": "13 Feb 2025",
-                "time": "8:41",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Prevenzione nelle scuole, un obbligo sociale”: l’appello del presidente dei pediatri italiani: “Obbligatoria l’educazione sanitaria”",
-                "link": "https://www.orizzontescuola.it/prevenzione-nelle-scuole-un-obbligo-sociale-lappello-del-presidente-dei-pediatri-italiani-obbligatoria-leducazione-sanitaria/",
-                "date": "13 Feb 2025",
-                "time": "7:42",
                 "image_link": "N/A"
             }
         ]
