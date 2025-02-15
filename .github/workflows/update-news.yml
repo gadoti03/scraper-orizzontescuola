@@ -2,7 +2,7 @@ name: Aggiorna scraper ogni 6 ore
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Esegui ogni 6 ore
+    - cron: "0 */4 * * *"  # Esegui ogni 4 ore
   workflow_dispatch:  # Permette di eseguirlo manualmente
 
 jobs:
