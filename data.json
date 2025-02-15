@@ -24,6 +24,22 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze 2024/25, gli INTERPELLI alla ricerca di docenti [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "15 Feb 2025",
+                "time": "16:08",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1907915515.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Scuole riducono ora di lezione da 60 a 50 minuti: quando si deve recuperare e quando no",
+                "link": "https://www.orizzontescuola.it/scuole-riducono-ora-di-lezione-da-60-a-50-minuti-quando-si-deve-recuperare-e-quando-no/",
+                "date": "15 Feb 2025",
+                "time": "15:34",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_1716775192.jpg"
+            },
+            {
                 "category": "Dirigenti scolastici",
                 "title": "Concorso ordinario dirigenti scolastici, candidati ammessi alla prova orale e convocazioni [AGGIORNATO con Marche]",
                 "link": "https://www.orizzontescuola.it/concorso-dirigenti-scolastici-ecco-i-candidati-ammessi-alla-prova-orale-in-aggiornamento/",
@@ -105,14 +121,6 @@
             },
             {
                 "category": "Diventare Insegnanti",
-                "title": "Supplenze 2024/25, gli INTERPELLI alla ricerca di docenti [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
-                "date": "14 Feb 2025",
-                "time": "16:21",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1907915515.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
                 "title": "Concorso PNRR2 per sostegno infanzia e primaria, tanti posti pochi candidati in Lombardia, Piemonte, Liguria. Vittoria “più facile”?",
                 "link": "https://www.orizzontescuola.it/concorso-pnrr2-per-sostegno-infanzia-e-primaria-tanti-posti-pochi-candidati-in-lombardia-piemonte-liguria-vittoria-piu-facile/",
                 "date": "14 Feb 2025",
@@ -142,7 +150,12 @@
                 "date": "14 Feb 2025",
                 "time": "13:02",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/struttura-concorso-docenti.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso insegnanti PNRR2: ho ricevuto la convocazione ma.… i dubbi degli ultimi giorni su pagamento 10 euro, CFU, svolgimento della prova",
@@ -150,12 +163,7 @@
                 "date": "14 Feb 2025",
                 "time": "12:19",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1416375236.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR2: ecco quante domande Regione per Regione e per classe di concorso. SCARICA LE TABELLE",
@@ -277,20 +285,45 @@
                 "date": "13 Feb 2025",
                 "time": "18:28",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_145510552.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Mobilità docenti 2025: precedenze, deroghe, vincoli. RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/mobilita-docenti-2025-precedenze-deroghe-vincoli-risposte-ai-quesiti/",
-                "date": "13 Feb 2025",
-                "time": "17:23",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_1875061333.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            null,
+            {
+                "category": "Comunicati stampa",
+                "title": "Anief: “Docenti e Ata che lavorano in sedi disagiate devono avere 1.000 euro l’anno di indennità”",
+                "link": "https://www.orizzontescuola.it/anief-docenti-e-ata-che-lavorano-in-sedi-disagiate-devono-avere-1-000-euro-lanno-di-indennita/",
+                "date": "15 Feb 2025",
+                "time": "17:26",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Incendio in un’aula scolastica per anomalia di un condizionatore: tanta paura, ma nessun ferito",
+                "link": "https://www.orizzontescuola.it/incendio-in-unaula-scolastica-per-anomalia-di-un-condizionatore-tanta-paura-ma-nessun-ferito/",
+                "date": "15 Feb 2025",
+                "time": "16:27",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Milleproroghe, Anief: “Pochi emendamenti scuola approvati da prima Commissione Senato. Tra le conferme: docenti tutor e orientatori”",
+                "link": "https://www.orizzontescuola.it/milleproroghe-anief-pochi-emendamenti-scuola-approvati-da-prima-commissione-senato-tra-le-conferme-docenti-tutor-e-orientatori/",
+                "date": "15 Feb 2025",
+                "time": "16:22",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Crepet: “A scuola non devono entrare i genitori. Ci abbiamo provato, non aiuta. Sull’intelligenza artificiale non sapremo mai come finirà”",
+                "link": "https://www.orizzontescuola.it/crepet-a-scuola-non-devono-entrare-i-genitori-ci-abbiamo-provato-non-aiuta-sullintelligenza-artificiale-non-sapremo-mai-come-finira/",
+                "date": "15 Feb 2025",
+                "time": "14:09",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "21 Marzo, appuntamento a Trapani per la Giornata della Memoria e dell’Impegno in ricordo delle vittime innocenti delle mafie. I materiali per le scuole",
@@ -386,46 +419,6 @@
                 "link": "https://www.orizzontescuola.it/docenti-idonei-non-assunti-anief-gli-accordi-con-bruxelles-vanno-superati-inserendo-nelle-graduatorie-di-merito-coloro-che-superano-le-prove/",
                 "date": "14 Feb 2025",
                 "time": "17:03",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Se uno di noi è minacciato, lo siamo tutti”, preside lancia l’allarme contro il bullismo",
-                "link": "https://www.orizzontescuola.it/se-uno-di-noi-e-minacciato-lo-siamo-tutti-preside-lancia-lallarme-contro-il-bullismo/",
-                "date": "14 Feb 2025",
-                "time": "16:15",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso straordinario insegnanti di religione cattolica, convocazioni: in Emilia Romagna prove secondaria dal 4 marzo [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/concorso-straordinario-insegnanti-di-religione-cattolica-al-via-le-convocazioni-per-la-prova-orale/",
-                "date": "14 Feb 2025",
-                "time": "15:52",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Legittimo il taglio alla rivalutazione delle pensioni”, la decisione della Consulta: “Legittimo quanto deciso dal governo nel 2023”",
-                "link": "https://www.orizzontescuola.it/legittimo-il-taglio-alla-rivalutazione-delle-pensioni-la-decisione-della-consulta-legittimo-quanto-deciso-dal-governo-nel-2023/",
-                "date": "14 Feb 2025",
-                "time": "15:07",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Iscrizioni 2025/26, in Emilia Romagna più iscritti ai tecnici e ai professionali. Cresce la filiera 4+2",
-                "link": "https://www.orizzontescuola.it/iscrizioni-2025-26-in-emilia-romagna-piu-iscritti-ai-tecnici-e-ai-professionali-che-ai-licei-cresce-la-filiera-42/",
-                "date": "14 Feb 2025",
-                "time": "12:19",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Stipendio",
-                "title": "NoiPA: da marzo la nuova versione dell’App",
-                "link": "https://www.orizzontescuola.it/noipa-da-marzo-la-nuova-versione-dellapp/",
-                "date": "14 Feb 2025",
-                "time": "12:04",
                 "image_link": "N/A"
             }
         ]
@@ -552,6 +545,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Concorso scuola PNRR 2, quadro di riferimento prova scritta: 50 quesiti, due punti per risposta corretta, zero per quella errata e non data",
+                "link": "https://www.orizzontescuola.it/concorso-scuola-pnrr-2-50-quesiti-quattro-opzione-di-risposta-due-punti-per-risposta-corretta-zero-per-quella-errata-e-non-data-si-passa-allorale-con-almeno-70-100/",
+                "date": "11 Feb 2025",
+                "time": "17:47",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_2260125901.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Concorso PNRR2 docenti scuola infanzia/primaria e secondaria: come si svolge la prova scritta. VIDEO tutorial Ministero",
                 "link": "https://www.orizzontescuola.it/concorso-pnrr2-docenti-scuola-infanzia-primaria-e-secondaria-come-si-svolge-la-prova-scritta-video-tutorial-ministero/",
                 "date": "11 Feb 2025",
@@ -589,14 +590,6 @@
                 "date": "11 Feb 2025",
                 "time": "10:12",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2091133108.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti da 60, 30 e 36 CFU per il 2024/25: le PAGINE delle UNIVERSITÀ con le classi di concorso richieste [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-da-60-30-e-36-cfu-per-il-2024-25-ci-saranno-tutte-le-classi-di-concorso-quando-i-bandi-ecco-cosa-dicono-le-universita/",
-                "date": "10 Feb 2025",
-                "time": "21:06",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2120807768.jpg"
             }
         ]
     },
@@ -711,6 +704,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Per una scuola nuova serve un cambio di prospettiva. Lettera",
+                "link": "https://www.orizzontescuola.it/per-una-scuola-nuova-serve-un-cambio-di-prospettiva-lettera/",
+                "date": "15 Feb 2025",
+                "time": "19:04",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "Scuola in difficoltà perché il rapporto tra genitori e insegnanti è un problema che non si riesce ad arginare. Lettera",
                 "link": "https://www.orizzontescuola.it/se-la-scuola-e-in-difficolta-e-perche-il-rapporto-tra-genitori-e-insegnanti-e-un-problema-che-non-si-riesce-ad-arginare-lettera/",
                 "date": "14 Feb 2025",
@@ -747,14 +748,6 @@
                 "link": "https://www.orizzontescuola.it/educare-a-prendersi-il-proprio-tempo-e-i-propri-spazi-oggi-e-una-grande-sfida-lettera/",
                 "date": "8 Feb 2025",
                 "time": "16:44",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "L’impianto del disegno di riforma dei programmi è destinato a fallire nell’epoca della mondializzazione. Lettera",
-                "link": "https://www.orizzontescuola.it/limpianto-del-disegno-di-riforma-dei-programmi-e-destinato-a-fallire-nellepoca-della-mondializzazione-lettera/",
-                "date": "8 Feb 2025",
-                "time": "15:49",
                 "image_link": "N/A"
             }
         ]
