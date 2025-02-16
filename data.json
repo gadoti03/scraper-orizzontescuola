@@ -24,8 +24,24 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Consulenza fiscale",
+                "title": "Bonus 2025 per le famiglie, ecco tutti quelli con e senza Isee",
+                "link": "https://www.orizzontescuola.it/bonus-2025-per-le-famiglie-ecco-tutti-quelli-con-e-senza-isee/",
+                "date": "16 Feb 2025",
+                "time": "19:34",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/09/Bonus-casa-ristrutturazione-edilizia-1200x797.png"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Concorso PNRR 2, ci siamo: ecco la prova scritta. Chiarimenti, consigli e non solo. QUESTION TIME con Cannas. LIVE Lunedì 17 febbraio alle 14:30",
+                "link": "https://www.orizzontescuola.it/concorso-pnrr-2-ci-siamo-ecco-la-prova-scritta-chiarimenti-consigli-e-non-solo-question-time-con-cannas-live-lunedi-17-febbraio-alle-1430/",
+                "date": "16 Feb 2025",
+                "time": "18:05",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-16-at-11.31.49.jpeg"
+            },
+            {
                 "category": "Cronaca",
-                "title": "Alunno spinse compagno ferendolo, scuola condannata: deve pagare 17mila euro. I giudici: “Il docente deve garantire la vigilanza anche durante la ricreazione”",
+                "title": "Alunno spinse compagno ferendolo, scuola condannata al risarcimento da 17mila euro. I giudici: il docente deve garantire la vigilanza anche durante la ricreazione",
                 "link": "https://www.orizzontescuola.it/alunno-spinse-compagno-ferendolo-scuola-condannata-deve-pagare-17mila-euro-docenti-devono-vigilare-anche-nei-momenti-fuori-dalle-lezioni/",
                 "date": "16 Feb 2025",
                 "time": "17:18",
@@ -33,7 +49,7 @@
             },
             {
                 "category": "Politica scolastica",
-                "title": "“Stress cronico e burnout tra i docenti: serve una legge per tutelarli”, avverte Pacifico (Anief). “Pensione a 60 anni e riscatto gratuito della laurea”",
+                "title": "“Stress cronico e burnout tra i docenti: serve una legge per tutelarli”, avverte Pacifico (Anief) che rilancia: “Pensione a 60 anni e riscatto gratuito della laurea”",
                 "link": "https://www.orizzontescuola.it/stress-cronico-e-burnout-tra-i-docenti-serve-una-legge-per-tutelarli-avverte-pacifico-anief-pensione-a-60-anni-e-riscatto-gratuito-della-laurea/",
                 "date": "16 Feb 2025",
                 "time": "17:12",
@@ -127,7 +143,12 @@
                 "time": "7:51",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_1702576117.jpg"
             },
-            null,
+            null
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Scuole riducono ora di lezione da 60 a 50 minuti: quando si deve recuperare e quando no",
@@ -143,12 +164,7 @@
                 "date": "15 Feb 2025",
                 "time": "12:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/shutterstock_1727747233-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Mobilità 2025/26: deroghe permettono di presentare la domanda ma non superano il vincolo quinquennale sostegno",
@@ -276,28 +292,44 @@
                 "date": "14 Feb 2025",
                 "time": "11:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/Valditara.webp"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Inclusione scolastica: in Italia il più alto tasso d’Europa (97%), ma solo 29,5% tra i 18 e i 24 anni ha al massimo il diploma di primo grado",
-                "link": "https://www.orizzontescuola.it/inclusione-scolastica-in-italia-il-piu-alto-tasso-deuropa-97-ma-solo-295-tra-i-18-e-i-24-anni-ha-al-massimo-il-diploma-di-primo-grado/",
-                "date": "14 Feb 2025",
-                "time": "11:27",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_310986524.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "TFR, le Tabelle Stanizzi e la gestione su Passweb: guida pratica per i collaboratori",
-                "link": "https://www.orizzontescuola.it/tfr-le-stanizzi-e-la-gestione-su-passweb-guida-pratica-per-gli-operatori/",
-                "date": "14 Feb 2025",
-                "time": "11:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_661886722.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "In Lombardia nasce il Comitato “Diritto Mensa”: famiglie contro i rincari",
+                "link": "https://www.orizzontescuola.it/in-lombardia-nasce-il-comitato-diritto-mensa-famiglie-contro-i-rincari/",
+                "date": "16 Feb 2025",
+                "time": "18:52",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Giuseppe Ungaretti, ad Alessandria d’Egitto esposte le sue pagelle: prendeva solo 7 in italiano. 10, invece, in aritmetica",
+                "link": "https://www.orizzontescuola.it/giuseppe-ungaretti-ad-alessandria-degitto-esposte-le-sue-pagelle-prendeva-solo-7-in-italiano-10-invece-in-aritmetica/",
+                "date": "16 Feb 2025",
+                "time": "18:33",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Terremoto ai Campi Flegrei, “verifiche necessarie dopo la scossa, scuole chiuse a Pozzuoli”, dichiara il sindaco Manzoni",
+                "link": "https://www.orizzontescuola.it/terremoto-ai-campi-flegrei-verifiche-necessarie-dopo-la-scossa-scuole-chiuse-a-pozzuoli-dichiara-il-sindaco-manzoni/",
+                "date": "16 Feb 2025",
+                "time": "18:16",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Pellai: “Adolescenti i più fragili degli ultimi 60 anni”. L’allarme del pedagogista: “Genitori iperprotettivi crescono una generazione ansiosa”",
+                "link": "https://www.orizzontescuola.it/pellai-adolescenti-i-piu-fragili-degli-ultimi-60-anni-lallarme-del-pedagogista-genitori-iperprotettivi-crescono-una-generazione-ansiosa/",
+                "date": "16 Feb 2025",
+                "time": "17:47",
+                "image_link": "N/A"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Organico aggiuntivo Ata e docenti idonei concorso Pnrr 2023, strada in salita ma Anief non si arrende",
@@ -401,38 +433,6 @@
                 "link": "https://www.orizzontescuola.it/crepet-a-scuola-non-devono-entrare-i-genitori-ci-abbiamo-provato-non-aiuta-sullintelligenza-artificiale-non-sapremo-mai-come-finira/",
                 "date": "15 Feb 2025",
                 "time": "14:09",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "21 Marzo, appuntamento a Trapani per la Giornata della Memoria e dell’Impegno in ricordo delle vittime innocenti delle mafie. I materiali per le scuole",
-                "link": "https://www.orizzontescuola.it/21-marzo-appuntamento-a-trapani-per-la-giornata-della-memoria-e-dellimpegno-in-ricordo-delle-vittime-innocenti-delle-mafie-i-materiali-per-le-scuole/",
-                "date": "15 Feb 2025",
-                "time": "12:53",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Assistente amministrativo reintegrato nella scuola di provenienza. Era stato trasferito dopo il dimensionamento. Soddisfatta la Snals/Confsal Puglia",
-                "link": "https://www.orizzontescuola.it/assistente-amministrativo-reintegrato-nella-scuola-di-provenienza-era-stato-trasferito-dopo-il-dimensionamento-soddisfatta-la-snals-confsal-puglia/",
-                "date": "15 Feb 2025",
-                "time": "12:30",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Fuori i cani dalla scuola”, la direttiva di un Istituto scolastico nel bolognese",
-                "link": "https://www.orizzontescuola.it/fuori-i-cani-dalla-scuola-la-direttiva-di-un-istituto-scolastico-nel-bolognese/",
-                "date": "15 Feb 2025",
-                "time": "10:31",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Morta a 96 anni, Jacqueline Sanders-Van Maarsen, amica e compagna di classe di Anna Frank",
-                "link": "https://www.orizzontescuola.it/morta-a-96-anni-jacqueline-sanders-van-maarsen-amica-e-compagna-di-classe-di-anna-frank/",
-                "date": "15 Feb 2025",
-                "time": "10:03",
                 "image_link": "N/A"
             }
         ]
