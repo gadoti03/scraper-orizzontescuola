@@ -24,6 +24,62 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "Servizio Civile Universale, 62.549 posti: proroga al 27 febbraio per la presentazione delle domande",
+                "link": "https://www.orizzontescuola.it/servizio-civile-universale-proroga-al-27-febbraio-per-la-presentazione-delle-domande/",
+                "date": "17 Feb 2025",
+                "time": "20:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/11/giovani.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Dimensionamento, con i risparmi s’incrementa l’indennità dei DSGA. Approvato emendamento al decreto PNRR sexies",
+                "link": "https://www.orizzontescuola.it/dimensionamento-con-i-risparmi-sincrementa-lindennita-dei-dsga-approvato-emendamento-al-decreto-pnrr-sexies/",
+                "date": "17 Feb 2025",
+                "time": "19:46",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1350370946.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Posizioni economiche ATA, diversi esclusi a Milano e Palermo per aver chiesto la prima, essendo già beneficiari",
+                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-diversi-esclusi-a-milano-e-palermo-per-aver-chiesto-la-prima-essendo-gia-beneficiari/",
+                "date": "17 Feb 2025",
+                "time": "18:51",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2331500305.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Sostegno infanzia e primaria, i posti vuoti da concorso PNRR2 potranno essere coperti da GPS. Ecco come",
+                "link": "https://www.orizzontescuola.it/sostegno-infanzia-e-primaria-i-posti-vuoti-da-concorso-pnrr2-potranno-essere-coperti-da-gps-ecco-come/",
+                "date": "17 Feb 2025",
+                "time": "18:48",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_1950311173.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“L’intelligenza artificiale è una risorsa, non un sostituto dello studio”, il monito di una preside: “Gli studenti la usano per fare i compiti e poi non sanno spiegare cosa hanno fatto”",
+                "link": "https://www.orizzontescuola.it/lintelligenza-artificiale-e-una-risorsa-non-un-sostituto-dello-studio-il-monito-di-una-preside-gli-studenti-la-usano-per-fare-i-compiti-e-poi-non-sanno-spiegare-cosa-hanno-fatto/",
+                "date": "17 Feb 2025",
+                "time": "18:43",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Modello-immagine-sito-7.png"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Mobilità docenti 25/26: spieghiamo la norma del passaggio su sostegno senza abilitazione",
+                "link": "https://www.orizzontescuola.it/mobilita-docenti-25-26-spieghiamo-la-norma-del-passaggio-su-sostegno-senza-abilitazione/",
+                "date": "17 Feb 2025",
+                "time": "18:27",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1155516358.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Compagnia aerea blocca gita scolastica: a Malpensa 49 studenti a terra perché con solo tre adulti accompagnatori",
+                "link": "https://www.orizzontescuola.it/compagnia-aerea-blocca-gita-scolastica-a-malpensa-49-studenti-a-terra-perche-solo-tre-adulti-accompagnatori/",
+                "date": "17 Feb 2025",
+                "time": "17:01",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2332947793.jpg"
+            },
+            {
                 "category": "Scuole",
                 "title": "La violazione degli obblighi dichiarativi e il principio della fiducia nell’affidamento degli appalti: la sentenza del TAR",
                 "link": "https://www.orizzontescuola.it/la-violazione-degli-obblighi-dichiarativi-e-il-principio-della-fiducia-nellaffidamento-degli-appalti-la-sentenza-del-tar/",
@@ -94,7 +150,12 @@
                 "date": "17 Feb 2025",
                 "time": "12:32",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Modello-immagine-sito-13.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Nuove Indicazioni Nazionali: “In classe deve valere la coercizione, c’è un obbligo di imparare”. Le parole di Perla: “La Bibbia è la fonte di tutta la nostra letteratura”",
@@ -150,12 +211,7 @@
                 "date": "17 Feb 2025",
                 "time": "11:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2384785201.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Comunicati stampa",
                 "title": "Stati Generali della scuola Digitale 2025: il programma ufficiale di un’edizione da record, con oltre 4.000 iscrizioni",
@@ -243,54 +299,52 @@
                 "date": "17 Feb 2025",
                 "time": "8:29",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_599592353.jpg"
-            },
-            {
-                "category": "Guide",
-                "title": "Violazione dei dati personali, quando il Dirigente deve informare gli interessati e come. La scheda",
-                "link": "https://www.orizzontescuola.it/violazione-dei-dati-personali-quando-il-dirigente-deve-informare-gli-interessati-e-come-la-scheda/",
-                "date": "17 Feb 2025",
-                "time": "8:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2317938317.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Comunicazione preventiva di assenza per motivi personali o familiari: in allegato i modelli",
-                "link": "https://www.orizzontescuola.it/comunicazione-preventiva-di-assenza-per-motivi-personali-o-familiari-in-allegato-i-modelli/",
-                "date": "17 Feb 2025",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_622540964.jpg"
-            },
-            null,
-            null,
-            {
-                "category": "Consulenza fiscale",
-                "title": "Bonus 2025 per le famiglie, ecco tutti quelli con e senza Isee",
-                "link": "https://www.orizzontescuola.it/bonus-2025-per-le-famiglie-ecco-tutti-quelli-con-e-senza-isee/",
-                "date": "16 Feb 2025",
-                "time": "19:34",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/09/Bonus-casa-ristrutturazione-edilizia-1200x797.png"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Alunno spinse compagno ferendolo, scuola condannata al risarcimento da 17mila euro. I giudici: il docente deve garantire la vigilanza anche durante la ricreazione",
-                "link": "https://www.orizzontescuola.it/alunno-spinse-compagno-ferendolo-scuola-condannata-deve-pagare-17mila-euro-docenti-devono-vigilare-anche-nei-momenti-fuori-dalle-lezioni/",
-                "date": "16 Feb 2025",
-                "time": "17:18",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/03/giustizia.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "“Stress cronico e burnout tra i docenti: serve una legge per tutelarli”, avverte Pacifico (Anief) che rilancia: “Pensione a 60 anni e riscatto gratuito della laurea”",
-                "link": "https://www.orizzontescuola.it/stress-cronico-e-burnout-tra-i-docenti-serve-una-legge-per-tutelarli-avverte-pacifico-anief-pensione-a-60-anni-e-riscatto-gratuito-della-laurea/",
-                "date": "16 Feb 2025",
-                "time": "17:12",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/WhatsApp.Image_.2023.03.29.at_.18.20.04.1.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Spray al peperoncino a scuola, dodici studenti e una collaboratrice scolastica in ospedale. La Gilda: “Basta buonismo”",
+                "link": "https://www.orizzontescuola.it/spray-al-peperoncino-a-scuola-dodici-studenti-e-una-collaboratrice-scolastica-in-ospedale-la-gilda-basta-buonismo/",
+                "date": "17 Feb 2025",
+                "time": "21:17",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Studenti assenti da scuola senza giustificazione, ammonimento del sindaco: i genitori rischiano un anno di carcere",
+                "link": "https://www.orizzontescuola.it/studenti-assenti-da-scuola-senza-giustificazione-i-genitori-rischiano-un-anno-di-carcere/",
+                "date": "17 Feb 2025",
+                "time": "19:41",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Graduatorie di merito Concorsi PNRR, Pittoni (Lega): “Tutto si decide nel dialogo con Bruxelles. C’è ottimismo”",
+                "link": "https://www.orizzontescuola.it/graduatorie-di-merito-concorsi-pnrr-pittoni-lega-tutto-si-decide-nel-dialogo-con-bruxelles-ce-ottimismo/",
+                "date": "17 Feb 2025",
+                "time": "18:48",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Genitori",
+                "title": "Assegno unico febbraio 2025: quando arriva l’accredito? Le ultime notizie",
+                "link": "https://www.orizzontescuola.it/assegno-unico-febbraio-2025-quando-arriva-laccredito-le-ultime-notizie/",
+                "date": "17 Feb 2025",
+                "time": "18:03",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Concorso scuola PNRR 1 da rifare in cinque regioni per la classe B022, è scontro politico. L’opposizione all’attacco: “Doverosi chiarimenti da parte di Valditara”",
+                "link": "https://www.orizzontescuola.it/concorso-scuola-pnrr-1-da-rifare-in-cinque-regioni-per-la-classe-b022-e-scontro-politico-lopposizione-allattacco-doverosi-chiarimenti-da-parte-di-valditara/",
+                "date": "17 Feb 2025",
+                "time": "17:44",
+                "image_link": "N/A"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorsi scuola PNRR2, ulteriore interpello alla ricerca di commissari [AGGIORNATO]",
@@ -305,14 +359,6 @@
                 "link": "https://www.orizzontescuola.it/i-cantautori-nella-letteratura-se-non-se-ne-fa-carico-la-scuola-allora-chi-il-dibattito-sulla-musica-in-classe-con-le-canzoni-come-strumento-didattico/",
                 "date": "17 Feb 2025",
                 "time": "17:04",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Compagnia aerea blocca gita scolastica: a Malpensa 49 studenti a terra perché solo tre adulti accompagnatori",
-                "link": "https://www.orizzontescuola.it/compagnia-aerea-blocca-gita-scolastica-a-malpensa-49-studenti-a-terra-perche-solo-tre-adulti-accompagnatori/",
-                "date": "17 Feb 2025",
-                "time": "17:01",
                 "image_link": "N/A"
             },
             {
@@ -345,14 +391,6 @@
                 "link": "https://www.orizzontescuola.it/elly-schlein-non-ammessa-in-una-scuola-dellaquila-vietato-laccesso-agli-estranei-lega-e-fratelli-ditalia-allattacco/",
                 "date": "17 Feb 2025",
                 "time": "15:57",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Graduatorie di merito Concorsi PNRR, Pittoni (Lega): “Tutto si decide nel dialogo con Bruxelles. C’è ottimismo”",
-                "link": "https://www.orizzontescuola.it/graduatorie-di-merito-concorsi-pnrr-pittoni-lega-tutto-si-decide-nel-dialogo-con-bruxelles-ce-ottimismo/",
-                "date": "17 Feb 2025",
-                "time": "15:48",
                 "image_link": "N/A"
             },
             {
@@ -409,30 +447,6 @@
                 "link": "https://www.orizzontescuola.it/donne-nella-scienza-leuropa-fa-progressi-ma-litalia-resta-indietro-e-il-fanalino-di-coda-male-il-sud/",
                 "date": "17 Feb 2025",
                 "time": "11:49",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Leggere per crescere”, il progetto per contrastare l’abuso del digitale. Oggi la proposta di legge al Senato",
-                "link": "https://www.orizzontescuola.it/leggere-per-crescere-il-progetto-per-contrastare-labuso-del-digitale-oggi-la-proposta-di-legge-al-senato/",
-                "date": "17 Feb 2025",
-                "time": "11:40",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Permessi retribuiti e conservazione del posto: la nuova proposta di legge per il personale scolastico. Potrà richiedere lavoro agile ed essere sostituito",
-                "link": "https://www.orizzontescuola.it/permessi-retribuiti-e-conservazione-del-posto-la-nuova-proposta-di-legge-per-il-personale-scolastico-potra-richiedere-lavoro-agile-ed-essere-sostituito/",
-                "date": "17 Feb 2025",
-                "time": "11:31",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "100 milioni per tutor e orientatori nel Milleproroghe, Gilda: “Inutili risorse aggiuntive. Misura spot”",
-                "link": "https://www.orizzontescuola.it/100-milioni-per-tutor-e-orientatori-nel-milleproroghe-gilda-inutili-risorse-aggiuntive-misura-spot/",
-                "date": "17 Feb 2025",
-                "time": "11:04",
                 "image_link": "N/A"
             }
         ]
@@ -559,6 +573,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Concorso insegnanti PNRR2: ho ricevuto la convocazione ma.… i dubbi degli ultimi giorni su pagamento 10 euro, CFU, svolgimento della prova",
+                "link": "https://www.orizzontescuola.it/concorso-insegnanti-pnrr2-ho-ricevuto-la-convocazione-ma-i-dubbi-degli-ultimi-giorni-su-pagamento-10-euro-cfu-svolgimento-della-prova/",
+                "date": "14 Feb 2025",
+                "time": "12:19",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1416375236.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR2: ecco quante domande Regione per Regione e per classe di concorso. SCARICA LE TABELLE",
                 "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr2-ecco-quante-domande-regione-per-regione-e-per-classe-di-concorso-scarica-le-tabelle/",
                 "date": "14 Feb 2025",
@@ -596,14 +618,6 @@
                 "date": "13 Feb 2025",
                 "time": "16:32",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_124813171.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Graduatorie supplenti GPS prima fascia, elenchi aggiuntivi: dal 14 al 29 aprile (da confermare). Solo modalità telematica",
-                "link": "https://www.orizzontescuola.it/graduatorie-supplenti-gps-e-seconda-fascia-gi-dal-14-al-29-aprile-da-confermare-solo-modalita-telematica/",
-                "date": "13 Feb 2025",
-                "time": "8:38",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_275152664.jpg"
             }
         ]
     },
