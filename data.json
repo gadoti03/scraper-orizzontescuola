@@ -25,6 +25,62 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Graduatorie GaE, domande scioglimento riserva e inserimento titolo sostegno dal 16 giugno al 2 luglio. DECRETO",
+                "link": "https://www.orizzontescuola.it/graduatorie-gae-domande-scioglimento-riserva-e-inserimento-titolo-sostegno-dal-16-giugno-al-2-luglio-decreto/",
+                "date": "20 Feb 2025",
+                "time": "12:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_2153640081.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Percorsi abilitanti secondo ciclo 2024/25: bando dell’Università di Trieste. Ci sono posti ordinari e sovrannumerari",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-secondo-ciclo-2024-25-bando-delluniversita-di-trieste-ci-sono-posti-ordinari-e-sovrannumerari/",
+                "date": "20 Feb 2025",
+                "time": "11:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_302086268.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Un euro di stipendio per un mese di lavoro: la denuncia di un’insegnante precaria",
+                "link": "https://www.orizzontescuola.it/un-euro-di-stipendio-per-un-mese-di-lavoro-la-denuncia-di-uninsegnante-precaria/",
+                "date": "20 Feb 2025",
+                "time": "11:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_423892516.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "L’APE sociale, cos’è e chi può usufruirne: la proroga della legge di bilancio 2025",
+                "link": "https://www.orizzontescuola.it/lape-sociale-cose-e-chi-puo-usufruirne-la-proroga-della-legge-di-bilancio-2025/",
+                "date": "20 Feb 2025",
+                "time": "11:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_1840194367.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Agenda Sud seconda annualità, adesioni scuole entro il 21 febbraio",
+                "link": "https://www.orizzontescuola.it/agenda-sud-seconda-annualita-adesioni-scuole-entro-il-21-febbraio/",
+                "date": "20 Feb 2025",
+                "time": "10:21",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2282044199.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Mobilità 25/26: docenti neoassunti possono chiedere trasferimento su sostegno?",
+                "link": "https://www.orizzontescuola.it/mobilita-25-26-docenti-neoassunti-possono-chiedere-trasferimento-su-sostegno/",
+                "date": "20 Feb 2025",
+                "time": "9:46",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/05/rails-253134_960_720.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Piani di dimensionamento scolastico 2025/26 approvati dalle Regioni: AGGIORNATO con Toscana",
+                "link": "https://www.orizzontescuola.it/piani-di-dimensionamento-scolastico-2025-26-approvati-in-aggiornamento-non-ce-deroga-ad-accorpamenti-61-ds-in-meno/",
+                "date": "20 Feb 2025",
+                "time": "9:28",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_1853707816-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR2: ecco le lettere estratte per la prova orale. AVVISI in aggiornamento",
                 "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr2-quando-comincera-la-prova-orale-estrazione-lettera-di-avvio-comunicazioni/",
                 "date": "20 Feb 2025",
@@ -87,7 +143,12 @@
                 "time": "7:44",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_2260125901.jpg"
             },
-            null,
+            null
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             null,
             null,
             {
@@ -129,12 +190,7 @@
                 "date": "19 Feb 2025",
                 "time": "17:34",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2456270825.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Decreto Caivano, Valditara: “Misure analoghe anche per i quartieri più disagiati di Napoli. Gli studenti stanno tornando in classe, punteremo anche sulla formazione dei docenti”",
@@ -222,68 +278,100 @@
                 "date": "19 Feb 2025",
                 "time": "11:07",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2331500305.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "La gestione degli infortuni scolastici: le procedure operative per la scuola, i docenti e il DS",
-                "link": "https://www.orizzontescuola.it/la-gestione-degli-infortuni-scolastici-le-procedure-operative-per-la-scuola-i-docenti-e-il-ds/",
-                "date": "19 Feb 2025",
-                "time": "11:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2581171817.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Orientatori e tutor: arrivano più fondi, ma rimangono difficoltà. Tra numeri eccessivi di studenti, Piattaforma INDIRE ancora chiusa e Avvisi pubblici in ritardo",
-                "link": "https://www.orizzontescuola.it/orientatori-e-tutor-arrivano-piu-fondi-ma-rimangono-difficolta-tra-numeri-eccessivi-di-studenti-piattaforma-indire-ancora-chiusa-e-avvisi-pubblici-in-ritardo/",
-                "date": "19 Feb 2025",
-                "time": "10:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_1049423483.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Dal liceo classico alla laurea a 20 anni con 110 e lode: “Latino e greco non sono lingue morte, insegnano a ragionare”. Camilla è la più giovane laureata",
-                "link": "https://www.orizzontescuola.it/dal-liceo-classico-alla-laurea-a-20-anni-con-110-e-lode-latino-e-greco-non-sono-lingue-morte-insegnano-a-ragionare-camilla-e-la-piu-giovane-laureata/",
-                "date": "19 Feb 2025",
-                "time": "10:26",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/b531fc94-395f-4f0d-b6e8-f27a5c40da8c.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Nuove Indicazioni Nazionali: “In classe deve valere la coercizione, c’è un obbligo di imparare”. Le parole di Perla che poi precisa: “Non ho mai parlato di questo”",
-                "link": "https://www.orizzontescuola.it/nuove-indicazioni-nazionali-bisogna-far-capire-che-nelle-aule-deve-valere-la-coercizione-ce-un-obbligo-di-imparare-le-parole-di-perla-la-bibbia-e-la-fonte-di-tutta-la/",
-                "date": "19 Feb 2025",
-                "time": "10:26",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/shutterstock_2384798953.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Mobilità docenti 25/26: continuità di servizio si perde con assegnazione provvisoria",
-                "link": "https://www.orizzontescuola.it/mobilita-docenti-25-26-continuita-di-servizio-si-perde-con-assegnazione-provvisoria/",
-                "date": "19 Feb 2025",
-                "time": "9:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2016/12/ccsd1rjfvwq-mike-wilson-1200x800.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Pizzo (Uil Scuola): “Incarichi sostituzione DSGA assegnati dal DS senza possibilità di rinuncia, uno dei motivi per cui non abbiamo firmato il CCNL”",
-                "link": "https://www.orizzontescuola.it/pizzo-uil-scuola-incarichi-sostituzione-dsga-assegnati-dal-ds-senza-possibilita-di-rinuncia-uno-dei-motivi-per-cui-non-abbiamo-firmato-il-ccnl/",
-                "date": "19 Feb 2025",
-                "time": "9:26",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/IMG-20250219-WA0007.jpg"
-            },
-            {
-                "category": "DSGA",
-                "title": "DSGA assente per meno di 15 giorni: può essere sostituito, valuta il dirigente scolastico. Orientamento ARAN",
-                "link": "https://www.orizzontescuola.it/dsga-assente-per-meno-di-15-giorni-puo-essere-sostituito-valuta-il-dirigente-scolastico-orientamento-aran/",
-                "date": "19 Feb 2025",
-                "time": "8:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_1070096513.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Assicurazione sanitaria integrativa per docenti e ATA, Serafini (Snals): “Importante misura di welfare da rendere subito concreta”",
+                "link": "https://www.orizzontescuola.it/assicurazione-sanitaria-integrativa-per-docenti-e-ata-serafini-snals-importante-misura-di-welfare-da-rendere-subito-concreta/",
+                "date": "20 Feb 2025",
+                "time": "13:21",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "I 200 anni del Braille, Valditara: “Investire nella formazione dei docenti e potenziare il sostegno scolastico per garantire a tutti l’accesso allo studio”",
+                "link": "https://www.orizzontescuola.it/i-200-anni-del-braille-valditara-investire-nella-formazione-dei-docenti-e-potenziare-il-sostegno-scolastico-per-garantire-a-tutti-laccesso-allo-studio/",
+                "date": "20 Feb 2025",
+                "time": "12:15",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Alunni plusdotati, l’esperta: “Non chiamiamoli genietti, evitiamoli di considerarli solo ‘eccellenti in tutto'”",
+                "link": "https://www.orizzontescuola.it/alunni-plusdotati-lesperta-non-chiamiamoli-genietti-evitiamoli-di-considerarli-solo-eccellenti-in-tutto/",
+                "date": "20 Feb 2025",
+                "time": "12:15",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Riccardo Muti: “Non si studia la musica nelle scuole, ci vorrebbe uno tsunami culturale. Bullismo e violenza? Colpa della mancanza di formazione musicale”",
+                "link": "https://www.orizzontescuola.it/riccardo-muti-non-si-studia-la-musica-nelle-scuole-ci-vorrebbe-uno-tsunami-culturale-bullismo-e-violenza-colpa-della-mancanza-di-formazione-musicale/",
+                "date": "20 Feb 2025",
+                "time": "12:11",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "Filiera tecnologico-professionale 4+2: avvio della piattaforma INDIRE per la sperimentazione. La nota del Ministero",
+                "link": "https://www.orizzontescuola.it/filiera-tecnologico-professionale-42-avvio-della-formazione-indire-per-la-sperimentazione-la-nota-del-ministero/",
+                "date": "20 Feb 2025",
+                "time": "12:11",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Assicurazione sanitaria per la scuola: un punto di partenza per la Gilda. Castellana: “Con quelle risorse potevamo aumentare gli stipendi, se sistema sanitario avesse tempi più brevi”",
+                "link": "https://www.orizzontescuola.it/assicurazione-sanitaria-per-la-scuola-un-punto-di-partenza-per-la-gilda-castellana-con-quelle-risorse-potevamo-aumentare-gli-stipendi-se-sistema-sanitario-avesse-tempi-piu-brevi/",
+                "date": "20 Feb 2025",
+                "time": "11:53",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Assicurazione sanitaria integrativa del personale scolastico, soddisfatta Bucalo (FdI): “Ristori oggettivi a quasi 1 milione di famiglie”",
+                "link": "https://www.orizzontescuola.it/assicurazione-sanitaria-integrativa-del-personale-scolastico-soddisfatta-bucalo-fdi-ristori-oggettivi-a-quasi-1-milione-di-famiglie/",
+                "date": "20 Feb 2025",
+                "time": "11:46",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Fondo povertà educativa, Rossi Doria (Fondazione Con i Bambini): “Importante il suo ripristino. Lo Stato non deve essere lasciato da solo”",
+                "link": "https://www.orizzontescuola.it/fondo-poverta-educativa-rossi-doria-fondazione-con-i-bambini-importante-il-suo-ripristino-lo-stato-non-deve-essere-lasciato-da-solo/",
+                "date": "20 Feb 2025",
+                "time": "11:35",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "L’8 aprile tornano per gli studenti le Olimpiadi Digitali dei Diritti Umani della RFK Italia",
+                "link": "https://www.orizzontescuola.it/l8-aprile-tornano-per-gli-studenti-le-olimpiadi-digitali-dei-diritti-umani-della-rfk-italia/",
+                "date": "20 Feb 2025",
+                "time": "11:08",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso straordinario insegnanti di religione cattolica, convocazioni: in Campania prove da marzo a giugno [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/concorso-straordinario-insegnanti-di-religione-cattolica-al-via-le-convocazioni-per-la-prova-orale/",
+                "date": "20 Feb 2025",
+                "time": "9:35",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Algoritmo bocciato, docente risarcita con 10 mila euro. Parente (UIL Lombardia): “Ministero la smetta di scaricare le proprie responsabilità su docenti e scuola”",
+                "link": "https://www.orizzontescuola.it/algoritmo-bocciato-docente-risarcita-con-10-mila-euro-parente-uil-lombardia-ministero-la-smetta-di-scaricare-le-proprie-responsabilita-su-docenti-e-scuola/",
+                "date": "20 Feb 2025",
+                "time": "9:30",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Intelligenza Artificiale per insegnare l’antico: ciclo di incontri per docenti",
@@ -339,93 +427,20 @@
                 "date": "19 Feb 2025",
                 "time": "20:05",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Poche settimane al rinnovo Rsu. 1,3 milioni di docenti, Ata e amministrativi al voto, Anief: “Importante portare le proprie ragioni in tutte le sedi”",
-                "link": "https://www.orizzontescuola.it/poche-settimane-al-rinnovo-rsu-13-milioni-di-docenti-ata-e-amministrativi-al-voto-anief-importante-portare-le-proprie-ragioni-in-tutte-le-sedi/",
-                "date": "19 Feb 2025",
-                "time": "19:29",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Giornata Mondiale della Giustizia Sociale, gli eventi del 20 febbraio",
-                "link": "https://www.orizzontescuola.it/giornata-mondiale-della-giustizia-sociale-gli-eventi-del-20-febbraio/",
-                "date": "19 Feb 2025",
-                "time": "19:21",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Stipendi, sempre più bassi quelli del comparto istruzione e ricerca. Anief chiede un’inversione di marcia per ridare dignità e onore con specifici finanziamenti",
-                "link": "https://www.orizzontescuola.it/stipendi-sempre-piu-bassi-quelli-del-comparto-istruzione-e-ricerca-anief-chiede-uninversione-di-marcia-per-ridare-dignita-e-onore-con-specifici-finanziamenti/",
-                "date": "19 Feb 2025",
-                "time": "18:49",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Assicurazione sanitaria per docenti e ATA, D’Aprile (Uil Scuola Rua): “Fatto positivo quando si interviene per il personale, ma ci riserviamo di verificarne meglio i contenuti”",
-                "link": "https://www.orizzontescuola.it/assicurazione-sanitaria-per-docenti-e-ata-daprile-uil-scuola-rua-fatto-positivo-quando-si-interviene-per-il-personale-ma-ci-riserviamo-di-verificarne-meglio-i-contenuti/",
-                "date": "19 Feb 2025",
-                "time": "18:43",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Sicurezza sul lavoro tra gli argomenti di educazione civica, Calderone: “Si punta alla formazione dei lavoratori e degli imprenditori di domani”",
-                "link": "https://www.orizzontescuola.it/sicurezza-sul-lavoro-tra-gli-argomenti-di-educazione-civica-calderone-si-punta-alla-formazione-dei-lavoratori-e-degli-imprenditori-di-domani/",
-                "date": "19 Feb 2025",
-                "time": "18:23",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Milleproroghe, alla Camera le opposizioni chiedono la reintroduzione dell’Organico aggiuntivo ATA come aveva proposto Anief",
-                "link": "https://www.orizzontescuola.it/milleproroghe-alla-camera-le-opposizioni-chiedono-la-reintroduzione-dellorganico-aggiuntivo-ata-come-aveva-proposto-anief/",
-                "date": "19 Feb 2025",
-                "time": "17:52",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "San Marino multa TikTok: 3,5 milioni di euro per mancata verifica dell’età",
-                "link": "https://www.orizzontescuola.it/san-marino-multa-tiktok-35-milioni-di-euro-per-mancata-verifica-delleta/",
-                "date": "19 Feb 2025",
-                "time": "17:32",
-                "image_link": "N/A"
-            },
-            null,
-            {
-                "category": "Cronaca",
-                "title": "Fiammetta Borsellino agli studenti di una scuola a Palermo: “Sin da piccoli si può scegliere da che parte stare”",
-                "link": "https://www.orizzontescuola.it/fiammetta-borsellino-agli-studenti-di-una-scuola-a-palermo-sin-da-piccoli-si-puo-scegliere-da-che-parte-stare/",
-                "date": "19 Feb 2025",
-                "time": "17:09",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Studente con disabilità cadde da carrozzina e poi morì. Accompagnatore patteggia pena per omicidio colposo: un anno (pena sospesa)",
-                "link": "https://www.orizzontescuola.it/studente-con-disabilita-cadde-da-carrozzina-e-poi-mori-accompagnatore-patteggia-pena-per-omicidio-colposo-un-anno-pena-sospesa/",
-                "date": "19 Feb 2025",
-                "time": "16:33",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Nessuna categoria",
-                "title": "Passaporti “sprint” per la gita scolastica: la Questura agevola gli studenti di un liceo",
-                "link": "https://www.orizzontescuola.it/passaporti-sprint-per-la-gita-scolastica-la-questura-agevola-gli-studenti-di-un-liceo/",
-                "date": "19 Feb 2025",
-                "time": "16:27",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Mobilità docenti 25/26: continuità di servizio si perde con assegnazione provvisoria",
+                "link": "https://www.orizzontescuola.it/mobilita-docenti-25-26-continuita-di-servizio-si-perde-con-assegnazione-provvisoria/",
+                "date": "19 Feb 2025",
+                "time": "9:42",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Mobilità 25/26: no esigenze famiglia nei trasferimenti comunali. Diverso il caso del trasferimento da sostegno a posto comune",
@@ -528,14 +543,6 @@
                 "link": "https://www.orizzontescuola.it/mobilita-neoassunti-pnrr-confermati-su-sede-supplenza-quando-possono-e-quando-devono-presentare-domanda/",
                 "date": "12 Feb 2025",
                 "time": "9:14",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Mobilità 2025 docenti: attenzione puntata alle deroghe. RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/mobilita-2025-docenti-attenzione-puntata-alle-deroghe-risposte-ai-quesiti/",
-                "date": "11 Feb 2025",
-                "time": "16:30",
                 "image_link": "N/A"
             }
         ]
