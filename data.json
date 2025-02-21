@@ -24,6 +24,46 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Docenti",
+                "title": "Docenti scuole all’estero: bando MAECI in Gazzetta Ufficiale il 4 marzo. Requisiti",
+                "link": "https://www.orizzontescuola.it/docenti-scuole-allestero-bando-maeci-in-gazzetta-ufficiale-il-4-marzo-requisiti/",
+                "date": "21 Feb 2025",
+                "time": "21:17",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_2025845477.jpg"
+            },
+            {
+                "category": "Dirigenti scolastici",
+                "title": "Concorso ordinario dirigenti scolastici, candidati ammessi alla prova orale e convocazioni [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/concorso-dirigenti-scolastici-ecco-i-candidati-ammessi-alla-prova-orale-in-aggiornamento/",
+                "date": "21 Feb 2025",
+                "time": "18:22",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1350370946.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorsi docenti PNRR2, convocazioni prova scritta secondaria. Ancora variazioni di sede, AVVISI",
+                "link": "https://www.orizzontescuola.it/concorsi-docenti-convocazioni-prova-scritta-pnrr2-avvisi-degli-uffici-scolastici-aggiornato-con-piemonte-e-basilicata/",
+                "date": "21 Feb 2025",
+                "time": "17:36",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1904033662.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Graduatoria interna di istituto 25/26: il docente che perde posto avrà precedenza per rientro. Condizioni",
+                "link": "https://www.orizzontescuola.it/graduatoria-interna-di-istituto-25-26-il-docente-che-perde-posto-avra-precedenza-per-rientro-condizioni/",
+                "date": "21 Feb 2025",
+                "time": "17:32",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/aumentare-punteggio-graduatorie-ata.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Rinnovo contratto scuola, Pacifico (Anief): “Al tavolo per la parità tra precari e ruolo e stipendi europei”",
+                "link": "https://www.orizzontescuola.it/rinnovo-contratto-scuola-pacifico-anief-al-tavolo-per-la-parita-tra-precari-e-ruolo-e-stipendi-europei/",
+                "date": "21 Feb 2025",
+                "time": "17:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/Pacifico.jpeg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Percorsi abilitanti, a quante classi di concorso ci si può iscrivere e in quanti Atenei?",
                 "link": "https://www.orizzontescuola.it/percorsi-abilitanti-a-quante-classi-di-concorso-ci-si-puo-iscrivere-e-in-quanti-atenei/",
@@ -62,14 +102,6 @@
                 "date": "21 Feb 2025",
                 "time": "13:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1785502850-scaled.jpg"
-            },
-            {
-                "category": "Dirigenti scolastici",
-                "title": "Concorso ordinario dirigenti scolastici, candidati ammessi alla prova orale e convocazioni [AGGIORNATO con Sardegna]",
-                "link": "https://www.orizzontescuola.it/concorso-dirigenti-scolastici-ecco-i-candidati-ammessi-alla-prova-orale-in-aggiornamento/",
-                "date": "21 Feb 2025",
-                "time": "13:06",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1350370946.jpg"
             },
             {
                 "category": "Diventare Insegnanti",
@@ -118,7 +150,12 @@
                 "date": "21 Feb 2025",
                 "time": "11:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1866000118.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Mobilità 25/26: chi è stato trasferito su preferenza sintetica può presentare di nuovo domanda",
@@ -150,12 +187,7 @@
                 "date": "21 Feb 2025",
                 "time": "10:17",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/WhatsApp-Image-2023-05-11-at-11.22.51.jpeg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Guide",
                 "title": "Lavoro nella scuola: posso fare l’amministratore di una società? Posso essere socio di capitale? I divieti per i pubblici dipendenti",
@@ -174,7 +206,7 @@
             },
             {
                 "category": "Chiedilo a Lalla",
-                "title": "Graduatoria interna di istituto: perdenti posto Ed. motoria primaria, passaggio cattedra e punteggio continuità, servizio partitaria. Risposte ai quesiti",
+                "title": "Graduatoria interna di istituto: perdenti posto Ed. motoria primaria, passaggio cattedra e punteggio continuità, servizio paritaria. Risposte ai quesiti",
                 "link": "https://www.orizzontescuola.it/graduatoria-interna-di-istituto-perdenti-posto-ed-motoria-primaria-passaggio-cattedra-e-punteggio-continuita-servizio-partitaria-risposte-ai-quesiti/",
                 "date": "21 Feb 2025",
                 "time": "8:49",
@@ -253,37 +285,36 @@
                 "date": "20 Feb 2025",
                 "time": "18:47",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/tfa-sostegno-IX-ciclo.png"
-            },
-            {
-                "category": "Docenti",
-                "title": "Il docente coordinatore di classe può ricoprire contemporaneamente l’incarico di segretario, ma a determinate condizioni",
-                "link": "https://www.orizzontescuola.it/il-docente-coordinatore-di-classe-puo-ricoprire-contemporaneamente-lincarico-di-segretario-ma-a-determinate-condizioni/",
-                "date": "20 Feb 2025",
-                "time": "17:05",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/shutterstock_346619372.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Nessun limite di spesa per l’inclusione scolastica degli alunni con disabilità. La sentenza del TAR Emilia-Romagna",
-                "link": "https://www.orizzontescuola.it/nessun-limite-di-spesa-per-linclusione-scolastica-degli-alunni-con-disabilita-la-sentenza-del-tar-emilia-romagna/",
-                "date": "20 Feb 2025",
-                "time": "17:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_1713676327.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Volevo essere un duro merita di essere letta in classe. Lucio Corsi, ti aspettiamo a scuola per parlare con gli studenti”: l’appello di una prof al cantautore",
-                "link": "https://www.orizzontescuola.it/volevo-essere-un-duro-merita-di-essere-letta-in-classe-lucio-corsi-ti-aspettiamo-a-scuola-per-parlare-con-gli-studenti-lappello-di-una-prof-al-cantautore/",
-                "date": "20 Feb 2025",
-                "time": "16:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/IMG-20250220-WA0003.jpg"
-            },
-            null
+            }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Riforma della disabilità: dal 30 settembre al via la sperimentazione in altre 11 province",
+                "link": "https://www.orizzontescuola.it/riforma-della-disabilita-dal-30-settembre-al-via-la-sperimentazione-in-altre-11-province/",
+                "date": "21 Feb 2025",
+                "time": "20:44",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "50% in più di risorse per gli studenti con disabilità, più investimenti per infanzia e genitorialità: il piano dell’Emilia Romagna",
+                "link": "https://www.orizzontescuola.it/50-in-piu-di-risorse-per-gli-studenti-con-disabilita-piu-investimenti-per-infanzia-e-genitorialita-il-piano-dellemilia-romagna/",
+                "date": "21 Feb 2025",
+                "time": "20:31",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Blitz in una scuola a Benevento: studente 16enne trovato con 17 grammi di hashish in classe",
+                "link": "https://www.orizzontescuola.it/blitz-in-una-scuola-a-benevento-studente-16enne-trovato-con-17-grammi-di-hashish-in-classe/",
+                "date": "21 Feb 2025",
+                "time": "19:35",
+                "image_link": "N/A"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "D’Aprile (Uil Scuola Rua): “Abbiamo i docenti migliori d’Europa, ma dobbiamo valorizzarli sia socialmente che economicamente”",
@@ -395,30 +426,6 @@
                 "link": "https://www.orizzontescuola.it/scrive-un-libro-di-250-pagine-in-3-ore-lautrice-e-lucrez-ia-il-titolo-dialoghi-con-il-futuro-riflessioni-sullera-dellia-generativa/",
                 "date": "21 Feb 2025",
                 "time": "10:43",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Settimana corta a scuola, la preside: “Più riposo per gli studenti migliora la concentrazione e la produttività”",
-                "link": "https://www.orizzontescuola.it/settimana-corta-a-scuola-la-preside-piu-riposo-per-gli-studenti-migliora-la-concentrazione-e-la-produttivita/",
-                "date": "21 Feb 2025",
-                "time": "10:33",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Torna il Sicilia Express per studenti e lavoratori fuori sede: ci sarà per Pasqua e il 25 Aprile",
-                "link": "https://www.orizzontescuola.it/torna-il-sicilia-express-per-studenti-e-lavoratori-fuori-sede-ci-sara-per-pasqua-e-il-25-aprile/",
-                "date": "21 Feb 2025",
-                "time": "9:45",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Federazione Scuole Materne: “Fare squadra, scuola e famiglia non possono fare a meno l’una dell’altra”",
-                "link": "https://www.orizzontescuola.it/federazione-scuole-materne-fare-squadra-scuola-e-famiglia-non-possono-fare-a-meno-luna-dellaltra/",
-                "date": "21 Feb 2025",
-                "time": "9:44",
                 "image_link": "N/A"
             }
         ]
@@ -545,14 +552,6 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
-                "title": "Concorsi docenti PNRR2, convocazioni prova scritta. Ancora variazioni di sede, avviso USR Sicilia",
-                "link": "https://www.orizzontescuola.it/concorsi-docenti-convocazioni-prova-scritta-pnrr2-avvisi-degli-uffici-scolastici-aggiornato-con-piemonte-e-basilicata/",
-                "date": "19 Feb 2025",
-                "time": "17:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1904033662.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
                 "title": "Elenchi aggiuntivi prima fascia GPS docenti 2025: chi può inserirsi, quando, in quale provincia [LO SPECIALE]",
                 "link": "https://www.orizzontescuola.it/elenchi-aggiuntivi-prima-fascia-gps-docenti-2025-chi-puo-inserirsi-quando-in-quale-provincia-lo-speciale/",
                 "date": "19 Feb 2025",
@@ -590,6 +589,14 @@
                 "date": "18 Feb 2025",
                 "time": "12:16",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2518506853.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Sostegno infanzia e primaria, i posti vuoti da concorso PNRR2 potranno essere coperti da GPS. Ecco come",
+                "link": "https://www.orizzontescuola.it/sostegno-infanzia-e-primaria-i-posti-vuoti-da-concorso-pnrr2-potranno-essere-coperti-da-gps-ecco-come/",
+                "date": "17 Feb 2025",
+                "time": "18:48",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_1950311173.jpg"
             }
         ]
     },
