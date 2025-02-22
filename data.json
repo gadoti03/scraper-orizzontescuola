@@ -17,6 +17,14 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "ATA",
+                "title": "Graduatorie terza fascia ATA, il servizio da collaboratore scolastico dà stesso punteggio al nuovo profilo di operatore",
+                "link": "https://www.orizzontescuola.it/graduatorie-terza-fascia-ata-il-servizio-da-collaboratore-scolastico-da-stesso-punteggio-al-nuovo-profilo-di-operatore/",
+                "date": "22 Feb 2025",
+                "time": "17:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_2023734317-scaled.jpg"
+            },
+            {
                 "category": "Pensioni",
                 "title": "Nuovo limite età per collocamento a riposo d’ufficio, domande pensione docenti e ATA entro il 28 febbraio. Nuovi chiarimenti MIM",
                 "link": "https://www.orizzontescuola.it/nuovo-limite-eta-per-collocamento-a-riposo-dufficio-domande-pensione-docenti-e-ata-entro-il-28-febbraio-nuovi-chiarimenti-mim/",
@@ -66,7 +74,7 @@
             },
             {
                 "category": "ATA",
-                "title": "Pulizia, lavaggio alunni e cambio pannolino spettano al collaboratore scolastico",
+                "title": "Mansioni personale ATA: pulizia, lavaggio alunni e cambio pannolino spettano al collaboratore scolastico",
                 "link": "https://www.orizzontescuola.it/pulizia-lavaggio-alunni-e-cambio-pannolino-spetta-al-collaboratore-scolastico/",
                 "date": "22 Feb 2025",
                 "time": "11:09",
@@ -128,7 +136,12 @@
                 "date": "22 Feb 2025",
                 "time": "7:55",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/shutterstock_1733804996.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Stati Generali della Scuola Digitale: Bardi: “Ascoltiamo docenti e studenti per costruire il futuro”. INTERVISTA",
@@ -136,12 +149,7 @@
                 "date": "22 Feb 2025",
                 "time": "7:48",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Screenshot-2025-02-21-alle-14.53.34.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             null,
             null,
             {
@@ -263,20 +271,36 @@
                 "date": "21 Feb 2025",
                 "time": "11:34",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2198683335.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Sostituzione del DSGA assente: cosa deve fare il DS? I criteri del CCNL e l’orientamento ARAN",
-                "link": "https://www.orizzontescuola.it/sostituzione-del-dsga-assente-cosa-deve-fare-il-ds-i-criteri-del-ccnl-e-lorientamento-aran/",
-                "date": "21 Feb 2025",
-                "time": "11:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1866000118.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Studenti",
+                "title": "Borse di studio studenti ITS, domande entro il 24 febbraio",
+                "link": "https://www.orizzontescuola.it/borse-di-studio-studenti-its-domande-entro-il-24-febbraio/",
+                "date": "22 Feb 2025",
+                "time": "18:47",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Autonomia differenziata, Calderoli: “Alcune materie trasferite alle Regioni entro l’anno”",
+                "link": "https://www.orizzontescuola.it/autonomia-differenziata-calderoli-alcune-materie-trasferite-alle-regioni-entro-lanno/",
+                "date": "22 Feb 2025",
+                "time": "18:04",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Studente di 12 anni in classe con un coltello nello zaino: paura in una scuola",
+                "link": "https://www.orizzontescuola.it/studente-di-12-anni-a-scuola-con-un-coltello-paura-in-un-istituto-di-bolzano/",
+                "date": "22 Feb 2025",
+                "time": "17:52",
+                "image_link": "N/A"
+            },
             {
                 "category": "Comunicati stampa",
                 "title": "Concorso docenti PNRR2, Anief: selezioni inutili se non si inseriscono gli idonei nelle graduatorie e non si torna al doppio canale con assunzioni da Gps",
@@ -396,24 +420,7 @@
                 "date": "21 Feb 2025",
                 "time": "15:24",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Diagnosi precoce e supporto per studenti universitari con DSA: l’importanza di un intervento tempestivo. Le parole di Adelia Lucattini",
-                "link": "https://www.orizzontescuola.it/diagnosi-precoce-e-supporto-per-studenti-universitari-con-dsa-limportanza-di-un-intervento-tempestivo-le-parole-di-adelia-lucattini/",
-                "date": "21 Feb 2025",
-                "time": "15:06",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Alunna di sei anni investita da un SUV mentre attraversava la strada per prendere lo scuolabus: è grave",
-                "link": "https://www.orizzontescuola.it/alunna-di-sei-anni-investita-da-un-suv-mentre-attraversava-la-strada-per-prendere-lo-scuolabus-e-grave/",
-                "date": "21 Feb 2025",
-                "time": "14:52",
-                "image_link": "N/A"
-            },
-            null
+            }
         ]
     },
     "group_5": {
@@ -644,6 +651,14 @@
         "articles": [
             {
                 "category": "Didattica",
+                "title": "Plusdotazione cognitiva più disturbi del neurosviluppo, come si opera con bambini e ragazzi “2e”? INTERVISTA alla Dottoressa Lara Milan",
+                "link": "https://www.orizzontescuola.it/plusdotazione-cognitiva-piu-disturbi-del-neurosviluppo-come-si-opera-con-bambini-e-ragazzi-2e-intervista-alla-dottoressa-lara-milan/",
+                "date": "1 Feb 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Plusdotazione-e.png"
+            },
+            {
+                "category": "Didattica",
                 "title": "Una lezione d’Amore a scuola: dall’amore romantico all’amore disfunzionale",
                 "link": "https://www.orizzontescuola.it/una-lezione-damore-a-scuola-dallamore-romantico-allamore-disfunzionale/",
                 "date": "28 Gen 2025",
@@ -681,14 +696,6 @@
                 "date": "15 Gen 2025",
                 "time": "8:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2506561831.jpg"
-            },
-            {
-                "category": "Didattica",
-                "title": "Mathway: una app gratuita, utile per la didattica della matematica. Cosa fa",
-                "link": "https://www.orizzontescuola.it/mathway-una-app-gratuita-utile-per-la-didattica-della-matematica-cosa-fa/",
-                "date": "5 Gen 2025",
-                "time": "8:57",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2195689529.jpg"
             }
         ]
     },
