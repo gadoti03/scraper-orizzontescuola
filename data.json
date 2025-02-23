@@ -3,26 +3,50 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "Politica scolastica",
+                "title": "Rinnovo contratto scuola: aumenti del 2% per tutti, ma fino al 20% dello stipendio per i docenti meritevoli, ecco come. Fondi aggiuntivi per l’offerta formativa. Cosa c’è sul piatto",
+                "link": "https://www.orizzontescuola.it/rinnovo-contratto-scuola-aumenti-del-2-per-tutti-ma-fino-al-20-dello-stipendio-per-i-docenti-meritevoli-ecco-come-fondi-aggiuntivi-per-lofferta-formativa-cosa-ce-sul-piatto/",
+                "date": "23 Feb 2025",
+                "time": "9:23",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Screenshot-2025-02-23-092033.png"
+            },
+            {
                 "category": "Docenti",
                 "title": "Mobilità 2025/26: domande docenti dal 5 marzo, ATA dal 14. Online la pagina del MIM",
                 "link": "https://www.orizzontescuola.it/mobilita-2025-26-domande-docenti-dal-5-marzo-ata-dal-14-online-la-pagina-del-mim/",
                 "date": "22 Feb 2025",
                 "time": "22:35",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1904033662.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti 60, 30 e 36 CFU: ecco lo SCHEMA dei percorsi da attivare nel 2024/25. Chi potrà partecipare",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-60-30-e-36-cfu-ecco-lo-schema-dei-percorsi-da-attivare-nel-2024-25-chi-potra-partecipare/",
-                "date": "20 Feb 2025",
-                "time": "19:37",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Mobilità docenti 2025:  quando la legge 104 permette solo di superare i vincoli e quando di avere anche la precedenza",
+                "link": "https://www.orizzontescuola.it/mobilita-docenti-25-26-deroga-e-104-per-suocero-precedenza-e-104-personale/",
+                "date": "23 Feb 2025",
+                "time": "12:08",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/10/london-1128803_1280-1200x780.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Mobilità 2025/26: richiesta e modalità assegnazione cattedre orario esterne",
+                "link": "https://www.orizzontescuola.it/mobilita-2025-26-richiesta-e-modalita-assegnazione-cattedre-orario-esterne/",
+                "date": "23 Feb 2025",
+                "time": "9:58",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/02/busy-modern-office_925x.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Galimberti: “Troppi alunni con diagnosi, la scuola sembra una clinica psichiatrica”. Sui social è bufera: “Superficiale”, “con cinismo ha detto una grande verità”",
+                "link": "https://www.orizzontescuola.it/galimberti-troppi-alunni-con-diagnosi-la-scuola-sembra-una-clinica-psichiatrica-sui-social-e-bufera-superficiale-con-cinismo-ha-detto-una-grande-verita/",
+                "date": "23 Feb 2025",
+                "time": "9:23",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/Galimberti.png"
+            },
             {
                 "category": "Cronaca",
                 "title": "“Non è più tollerabile che si dica ai ragazzi che Internet fa male, se poi ci rivolgiamo ai social prima che ai parlamenti. C’è incoerenza nel mondo degli adulti”. INTERVISTA a Lancini",
@@ -112,7 +136,12 @@
                 "date": "22 Feb 2025",
                 "time": "11:09",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_617913341.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Dirigenti scolastici",
                 "title": "Valutazione dei dirigenti scolastici al via, emanato il decreto: ecco come si articola. Valditara: “Momento storico”",
@@ -136,12 +165,7 @@
                 "date": "22 Feb 2025",
                 "time": "9:45",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/09/shutterstock_2114059190.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             null,
             {
                 "category": "Diventare Insegnanti",
@@ -240,30 +264,6 @@
                 "date": "21 Feb 2025",
                 "time": "17:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_1568622799.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi 30 e 36 CFU vincitori di concorso PNRR1, ecco le classi di concorso “critiche” e le regioni interessate [SCARICA ALLEGATO]",
-                "link": "https://www.orizzontescuola.it/percorsi-30-e-36-cfu-vincitori-di-concorso-pnrr1-ecco-le-classi-di-concorso-critiche-e-in-quali-regioni-non-sono-attivate-scarica-allegato/",
-                "date": "21 Feb 2025",
-                "time": "16:27",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_1448118503.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "129 guide normative per “Gestire la scuola” senza sbagliare. AGGIUNTA LA GUIDA: “La valutazione nel primo ciclo di istruzione: una guida pratica e normativa”",
-                "link": "https://www.orizzontescuola.it/75-guide-normative-per-dirigere-la-scuola-senza-sbagliare-aggiunta-la-guida-la-gestione-del-fondo-economale-per-le-minute-spese-nelle-istituzioni-scolastiche/",
-                "date": "21 Feb 2025",
-                "time": "15:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Shutterstock_2310359315-1-1.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Dimensionamento: acquisizione titolarità e perdenti posto in caso di accorpamento di plessi ad altra scuola",
-                "link": "https://www.orizzontescuola.it/dimensionamento-acquisizione-titolarita-e-perdenti-posto-in-caso-di-accorpamento-di-plessi-ad-altra-scuola/",
-                "date": "21 Feb 2025",
-                "time": "13:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1785502850-scaled.jpg"
             }
         ]
     },
@@ -421,6 +421,14 @@
         "articles": [
             {
                 "category": "Chiedilo a Lalla",
+                "title": "Dimensionamento: acquisizione titolarità e perdenti posto in caso di accorpamento di plessi ad altra scuola",
+                "link": "https://www.orizzontescuola.it/dimensionamento-acquisizione-titolarita-e-perdenti-posto-in-caso-di-accorpamento-di-plessi-ad-altra-scuola/",
+                "date": "21 Feb 2025",
+                "time": "13:50",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
                 "title": "Mobilità 25/26: chi è stato trasferito su preferenza sintetica può presentare di nuovo domanda",
                 "link": "https://www.orizzontescuola.it/mobilita-25-26-chi-e-stato-trasferito-su-preferenza-sintetica-puo-presentare-di-nuovo-domanda/",
                 "date": "21 Feb 2025",
@@ -522,20 +530,28 @@
                 "date": "17 Feb 2025",
                 "time": "10:18",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Mobilità 25/26: quando si può esprimere la scuola di titolarità. Sì anche nei passaggi di cattedra se non si è vincolati",
-                "link": "https://www.orizzontescuola.it/mobilita-25-26-quando-si-puo-esprimere-la-scuola-di-titolarita-si-anche-nei-passaggi-di-cattedra-se-non-si-e-vincolati/",
-                "date": "16 Feb 2025",
-                "time": "10:17",
-                "image_link": "N/A"
             }
         ]
     },
     "group_6": {
         "title": "Diventare Insegnanti",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Un euro di stipendio per un mese di lavoro: la denuncia di un’insegnante precaria",
+                "link": "https://www.orizzontescuola.it/un-euro-di-stipendio-per-un-mese-di-lavoro-la-denuncia-di-uninsegnante-precaria/",
+                "date": "20 Feb 2025",
+                "time": "11:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_423892516.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR 2, come è andata la prova? “Più difficile del primo”, “Domande di inglese toste”, “Era necessario conoscere gli argomenti”. I commenti",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr-2-come-e-andata-la-prova-piu-difficile-del-primo-non-si-tira-a-indovinare-domande-di-inglese-toste-era-necessario-conoscere-gli-argomenti-i-commenti/",
+                "date": "20 Feb 2025",
+                "time": "7:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_2260125901.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Percorsi abilitanti 60, 30 e 36 CFU: ci sarà ancora il vincolo della domanda in un solo Ateneo e selezione per titoli e servizio?",
@@ -567,22 +583,6 @@
                 "date": "19 Feb 2025",
                 "time": "8:15",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Screenshot-2025-02-19-073406.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso PNRR2, oggi PROVA SCRITTA scuola di infanzia e primaria. 8.355 posti per il ruolo",
-                "link": "https://www.orizzontescuola.it/concorso-pnrr2-per-scuola-di-infanzia-e-primaria-domani-19-febbraio-la-prova-scritta-per-8-355-posti-istruzioni-candidati/",
-                "date": "19 Feb 2025",
-                "time": "7:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/03/studenti-in-classe-messa-a-disposizione.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorsi scuola PNRR2, prova scritta unica per tutte le classi di concorso indicate nella domanda ma accesso a prova orale non garantito per tutte. Come funziona",
-                "link": "https://www.orizzontescuola.it/concorsi-scuola-pnrr2-prova-scritta-unica-per-tutte-le-classi-di-concorso-indicate-nella-domanda-ma-accesso-a-prova-orale-non-garantito-per-tutte-come-funziona/",
-                "date": "18 Feb 2025",
-                "time": "12:16",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2518506853.jpg"
             }
         ]
     },
@@ -697,6 +697,22 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Quanto è realmente utile l’anno scolastico all’estero. Lettera",
+                "link": "https://www.orizzontescuola.it/quanto-e-realmente-utile-lanno-scolastico-allestero-lettera/",
+                "date": "23 Feb 2025",
+                "time": "9:59",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
+                "title": "Vergognosa riduzione delle ore di sostegno. Lettera",
+                "link": "https://www.orizzontescuola.it/vergognosa-riduzione-delle-ore-di-sostegno-lettera/",
+                "date": "23 Feb 2025",
+                "time": "9:29",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "Perché i banchi a rotelle? Lettera",
                 "link": "https://www.orizzontescuola.it/perche-i-banchi-a-rotelle-lettera/",
                 "date": "21 Feb 2025",
@@ -725,22 +741,6 @@
                 "link": "https://www.orizzontescuola.it/elenchi-aggiuntivi-gps-favoriscono-chi-puo-scegliere-la-provincia-con-maggiori-opportunita-di-lavoro-lettera/",
                 "date": "18 Feb 2025",
                 "time": "20:26",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "A scuola comandiamo noi, forse. Lettera aperta di un giovane insegnante",
-                "link": "https://www.orizzontescuola.it/a-scuola-comandiamo-noi-forse-lettera-aperta-di-un-giovane-insegnante/",
-                "date": "18 Feb 2025",
-                "time": "18:47",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Valorizzare le potenzialità dell’intelligenza artificiale. Lettera",
-                "link": "https://www.orizzontescuola.it/valorizzare-le-potenzialita-dellintelligenza-artificiale-lettera/",
-                "date": "16 Feb 2025",
-                "time": "15:42",
                 "image_link": "N/A"
             }
         ]
