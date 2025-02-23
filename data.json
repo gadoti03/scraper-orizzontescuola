@@ -25,6 +25,22 @@
         "articles": [
             {
                 "category": "Chiedilo a Lalla",
+                "title": "Percorsi abilitanti 30, 36 e 60 CFU: tra primo e secondo ciclo, facciamo il punto. QUESTION TIME con Cannas. LIVE Lunedì 24 febbraio alle 14:30",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-30-36-e-60-cfu-tra-primo-e-secondo-ciclo-facciamo-il-punto-question-time-con-cannas-live-lunedi-24-febbraio-alle-1430/",
+                "date": "23 Feb 2025",
+                "time": "16:21",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-23-at-11.33.50.jpeg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "GPS docenti, elenchi aggiuntivi prima fascia 2025/26: quali titoli daranno punteggio. Scarica le TABELLE",
+                "link": "https://www.orizzontescuola.it/gps-docenti-elenchi-aggiuntivi-prima-fascia-2025-26-quali-titoli-daranno-punteggio-scarica-le-tabelle/",
+                "date": "23 Feb 2025",
+                "time": "15:48",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/09/shutterstock_1240130032.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
                 "title": "Mobilità docenti 2025:  quando la legge 104 permette solo di superare i vincoli e quando di avere anche la precedenza",
                 "link": "https://www.orizzontescuola.it/mobilita-docenti-25-26-deroga-e-104-per-suocero-precedenza-e-104-personale/",
                 "date": "23 Feb 2025",
@@ -120,7 +136,12 @@
                 "date": "22 Feb 2025",
                 "time": "12:05",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2550511773.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR 2: dal 25 al 27 febbraio PROVA SCRITTA scuola secondaria. Istruzioni e documenti da portare",
@@ -136,12 +157,7 @@
                 "date": "22 Feb 2025",
                 "time": "11:09",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_617913341.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Dirigenti scolastici",
                 "title": "Valutazione dei dirigenti scolastici al via, emanato il decreto: ecco come si articola. Valditara: “Momento storico”",
@@ -248,28 +264,36 @@
                 "date": "21 Feb 2025",
                 "time": "17:24",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/Pacifico.jpeg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti, a quante classi di concorso ci si può iscrivere e in quanti Atenei?",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-a-quante-classi-di-concorso-ci-si-puo-iscrivere-e-in-quanti-atenei/",
-                "date": "21 Feb 2025",
-                "time": "17:19",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_275152664.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Richiesta di ritiro dalla frequenza scolastica per studenti della scuola secondaria superiore: in allegato due tipologie di modelli",
-                "link": "https://www.orizzontescuola.it/richiesta-di-ritiro-dalla-frequenza-scolastica-per-studenti-della-scuola-secondaria-superiore-in-allegato-due-tipologie-di-modelli/",
-                "date": "21 Feb 2025",
-                "time": "17:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_1568622799.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Comunicati stampa",
+                "title": "Mobilità docenti, educatori e Ata. Interessati oltre 100mila lavoratori. Anief: “Aumento deroghe conquistate e novità per calcolare punteggi. Webinar il 28 febbraio”",
+                "link": "https://www.orizzontescuola.it/mobilita-docenti-educatori-e-ata-interessati-oltre-100mila-lavoratori-anief-aumento-deroghe-conquistate-e-novita-per-calcolare-punteggi-webinar-il-28-febbraio/",
+                "date": "23 Feb 2025",
+                "time": "17:12",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Voto per i fuori sede. Piantedosi dice no, manifestano gli studenti: “Legge da approvare a garanzia del diritto”",
+                "link": "https://www.orizzontescuola.it/voto-per-i-fuori-sede-piantedosi-dice-no-manifestano-gli-studenti-legge-da-approvare-a-garanzia-del-diritto/",
+                "date": "23 Feb 2025",
+                "time": "16:55",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Petizione per la “Settimana corta a scuola”: 15.000 firme già raccolte da docenti, studenti e genitori",
+                "link": "https://www.orizzontescuola.it/petizione-per-la-settimana-corta-a-scuola-15-000-firme-gia-raccolte-da-docenti-studenti-e-genitori/",
+                "date": "23 Feb 2025",
+                "time": "16:20",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Paolo Crepet: “Chi è sempre felice è un idiota”",
@@ -388,30 +412,6 @@
                 "link": "https://www.orizzontescuola.it/50-in-piu-di-risorse-per-gli-studenti-con-disabilita-piu-investimenti-per-infanzia-e-genitorialita-il-piano-dellemilia-romagna/",
                 "date": "21 Feb 2025",
                 "time": "20:31",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Blitz in una scuola a Benevento: studente 16enne trovato con 17 grammi di hashish in classe",
-                "link": "https://www.orizzontescuola.it/blitz-in-una-scuola-a-benevento-studente-16enne-trovato-con-17-grammi-di-hashish-in-classe/",
-                "date": "21 Feb 2025",
-                "time": "19:35",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "D’Aprile (Uil Scuola Rua): “Abbiamo i docenti migliori d’Europa, ma dobbiamo valorizzarli sia socialmente che economicamente”",
-                "link": "https://www.orizzontescuola.it/daprile-uil-scuola-rua-abbiamo-i-docenti-migliori-deuropa-ma-dobbiamo-valorizzarli-sia-socialmente-che-economicamente/",
-                "date": "21 Feb 2025",
-                "time": "16:18",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Mantegazza: “Perché è meritevole solo uno studente che prende 10 e lode e non quello che parte da 4 e arriva alla media del 7”?",
-                "link": "https://www.orizzontescuola.it/mantegazza-perche-e-meritevole-solo-uno-studente-che-prende-10-e-lode-e-non-quello-che-parte-da-4-e-arriva-alla-media-del-7/",
-                "date": "21 Feb 2025",
-                "time": "16:14",
                 "image_link": "N/A"
             }
         ]
@@ -537,6 +537,14 @@
         "title": "Diventare Insegnanti",
         "articles": [
             {
+                "category": "Diventare Insegnanti",
+                "title": "Percorsi abilitanti secondo ciclo 2024/25: bando dell’Università di Trieste. Ci sono posti ordinari e sovrannumerari",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-secondo-ciclo-2024-25-bando-delluniversita-di-trieste-ci-sono-posti-ordinari-e-sovrannumerari/",
+                "date": "20 Feb 2025",
+                "time": "11:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_302086268.jpg"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Un euro di stipendio per un mese di lavoro: la denuncia di un’insegnante precaria",
                 "link": "https://www.orizzontescuola.it/un-euro-di-stipendio-per-un-mese-di-lavoro-la-denuncia-di-uninsegnante-precaria/",
@@ -575,14 +583,6 @@
                 "date": "19 Feb 2025",
                 "time": "11:11",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_1135342076.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "“Volete diventare insegnanti in Italia? Leva mano! Percorso ad ostacoli e costoso”. Lo sfogo su TikTok di Ilaria Romano",
-                "link": "https://www.orizzontescuola.it/volete-diventare-insegnanti-in-italia-leva-mano-percorso-ad-ostacoli-e-costoso-lo-sfogo-su-tiktok-di-ilaria-romano/",
-                "date": "19 Feb 2025",
-                "time": "8:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Screenshot-2025-02-19-073406.png"
             }
         ]
     },
@@ -697,6 +697,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Educazione all’intelligenza emotiva: una proposta per il futuro della scuola. Lettera",
+                "link": "https://www.orizzontescuola.it/educazione-allintelligenza-emotiva-una-proposta-per-il-futuro-della-scuola-lettera/",
+                "date": "23 Feb 2025",
+                "time": "15:49",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "Quanto è realmente utile l’anno scolastico all’estero. Lettera",
                 "link": "https://www.orizzontescuola.it/quanto-e-realmente-utile-lanno-scolastico-allestero-lettera/",
                 "date": "23 Feb 2025",
@@ -733,14 +741,6 @@
                 "link": "https://www.orizzontescuola.it/alla-scuola-italiana-manca-la-fantasia-lettera/",
                 "date": "20 Feb 2025",
                 "time": "9:01",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Elenchi aggiuntivi GPS docenti favoriscono chi può scegliere la provincia con maggiori opportunità di supplenze. Lettera",
-                "link": "https://www.orizzontescuola.it/elenchi-aggiuntivi-gps-favoriscono-chi-puo-scegliere-la-provincia-con-maggiori-opportunita-di-lavoro-lettera/",
-                "date": "18 Feb 2025",
-                "time": "20:26",
                 "image_link": "N/A"
             }
         ]
