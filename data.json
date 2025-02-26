@@ -24,6 +24,62 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Chiedilo a Lalla",
+                "title": "Graduatoria interna di istituto 25/26: neoassunto straordinario bis va in coda. Chi sarà perdente posto",
+                "link": "https://www.orizzontescuola.it/graduatoria-interna-di-istituto-25-26-neoassunto-straordinario-bis-va-in-coda-chi-sara-perdente-posto/",
+                "date": "26 Feb 2025",
+                "time": "20:21",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/11/graduatorie-593x443.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Giudizi sintetici Scuola Primaria, Nigris: “Non bisogna etichettare gli studenti. La valutazione non può che essere descrittiva. Non basta un numero, neanche un colloquio”",
+                "link": "https://www.orizzontescuola.it/giudizi-sintetici-scuola-primaria-nigris-non-bisogna-etichettare-gli-studenti-la-valutazione-non-puo-che-essere-descrittiva-non-basta-un-numero-neanche-un-colloquio/",
+                "date": "26 Feb 2025",
+                "time": "19:54",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/Elisabetta_nigris.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "L’amore per gli studenti, vocazione o limite professionale? Docenti divisi su Threads: “L’amore non è professionalità”, “Li amo tutti come una mamma”",
+                "link": "https://www.orizzontescuola.it/lamore-per-gli-studenti-vocazione-o-limite-professionale-docenti-divisi-su-threads-lamore-non-e-professionalita-li-amo-tutti-come-una-mamma/",
+                "date": "26 Feb 2025",
+                "time": "19:27",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/07/shutterstock_708151714.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso infanzia e primaria PNRR2, ecco il VOTO minimo per accedere alla prova orale per ogni posto [IN AGGIORNAMENTO]",
+                "link": "https://www.orizzontescuola.it/concorso-infanzia-e-primaria-ecco-il-voto-minimo-per-accedere-alla-prova-orale-per-ogni-posto-in-aggiornamento/",
+                "date": "26 Feb 2025",
+                "time": "18:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_34528768.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze 2024/25, gli INTERPELLI alla ricerca di docenti [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "26 Feb 2025",
+                "time": "18:37",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso scuola infanzia e primaria PNRR 2, prova scritta: oltre 32mila docenti hanno ottenuto almeno 70/100. Tutti i dati regione per regione",
+                "link": "https://www.orizzontescuola.it/concorso-scuola-pnrr-2-oltre-32mila-docenti-superano-la-prova-scritta-per-infanzia-e-primaria-tutti-i-dati-regione-per-regione/",
+                "date": "26 Feb 2025",
+                "time": "18:19",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/manuali-concorso-ds-2023.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Immissioni in ruolo docenti 2025/26: ecco quanti candidati ancora in graduatoria [Aggiornato con Piemonte]",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2025-26-ecco-quanti-candidati-ancora-in-graduatoria-aggiornato-con-piemonte/",
+                "date": "26 Feb 2025",
+                "time": "17:41",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2151065023.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso infanzia e primaria PNRR2, quando le prove orali e dove si svolgerà? Intanto ecco le Commissioni (con le prime rinunce)",
                 "link": "https://www.orizzontescuola.it/concorso-infanzia-e-primaria-pnrr2-quando-le-prove-orali-e-dove-si-svolgera-intanto-ecco-le-commissioni-con-le-prime-rinunce/",
@@ -94,7 +150,12 @@
                 "date": "26 Feb 2025",
                 "time": "14:07",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/tfa-sostegno-IX-ciclo.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Politica scolastica",
                 "title": "Decreto PNRR VI è legge, le novità previste: riforma degli istituti tecnici con provvedimento ministeriale in vista del prossimo anno scolastico",
@@ -150,12 +211,7 @@
                 "date": "26 Feb 2025",
                 "time": "11:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2477656059.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Preside scrive post contro il governo, la Lega ne chiede il licenziamento. Cosa si può scrivere sui social",
@@ -229,68 +285,45 @@
                 "date": "25 Feb 2025",
                 "time": "20:43",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/gazzetta.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Viaggi d’istruzione, webinar MIM-Consip per supportare le scuole nelle procedure di acquisto. NOTA",
-                "link": "https://www.orizzontescuola.it/viaggi-distruzione-webinar-mim-consip-per-supportare-le-scuole-nelle-procedure-di-acquisto/",
-                "date": "25 Feb 2025",
-                "time": "19:54",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1916116798.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso PNRR 2, prove più selettive rispetto al passato: candidati segnalano difficoltà con quesiti specifici",
-                "link": "https://www.orizzontescuola.it/concorso-pnrr-2-prove-piu-selettive-rispetto-al-passato-candidati-segnalano-difficolta-con-quesiti-specifici/",
-                "date": "25 Feb 2025",
-                "time": "17:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_2260125901.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Riforma degli istituti tecnici: le prime misure attuative per l’anno scolastico 2025/2026",
-                "link": "https://www.orizzontescuola.it/riforma-degli-istituti-tecnici-le-prime-misure-attuative-per-lanno-scolastico-2025-2026/",
-                "date": "25 Feb 2025",
-                "time": "17:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_1971213722.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR1 da rifare, reinsediata la commissione B022 dell’USR Marche. La nuova graduatoria avrà effetto dal 2025/26",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr1-da-rifare-reinsediata-la-commissione-b022-dellusr-marche-la-nuova-graduatoria-avra-effetto-dal-2025-26/",
-                "date": "25 Feb 2025",
-                "time": "16:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/shutterstock_213616528.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Supplenze docenti 2025/26: chi ha abbandonato il servizio su posto comune potrà ottenere supplenza su sostegno dai nuovi elenchi aggiuntivi?",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-26-chi-ha-abbandonato-il-servizio-su-posto-comune-potra-ottenere-supplenza-su-sostegno-dai-nuovi-elenchi-aggiuntivi/",
-                "date": "25 Feb 2025",
-                "time": "16:18",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/convocazioni-graduatorie-esaurite.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso infanzia e primaria PNRR2, ecco il VOTO minimo per accedere alla prova orale per ogni posto [IN AGGIORNAMENTO]",
-                "link": "https://www.orizzontescuola.it/concorso-infanzia-e-primaria-ecco-il-voto-minimo-per-accedere-alla-prova-orale-per-ogni-posto-in-aggiornamento/",
-                "date": "25 Feb 2025",
-                "time": "16:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_34528768.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Posizioni economiche ATA, Collaboratori: simulatore e video lezioni per superare la prova finale",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-collaboratori-simulatore-e-video-lezioni-per-superare-la-prova-finale/",
-                "date": "25 Feb 2025",
-                "time": "15:33",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Posizioni-economiche-ATA-Collaboratori-scolastici.png"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Valditara: “Didattica personalizzata e intelligenza artificiale sono il futuro della scuola, ma il ruolo del docente resterà centrale”",
+                "link": "https://www.orizzontescuola.it/valditara-didattica-personalizzata-e-intelligenza-artificiale-sono-il-futuro-della-scuola-ma-il-ruolo-del-docente-restera-centrale/",
+                "date": "26 Feb 2025",
+                "time": "19:41",
+                "image_link": "N/A"
+            },
+            null,
+            {
+                "category": "Cronaca",
+                "title": "Beni confiscati alla criminalità, firmata convenzione tra Agenzia nazionale e Demanio: potranno diventare anche scuole e alloggi per studenti",
+                "link": "https://www.orizzontescuola.it/beni-confiscati-alla-criminalita-firmata-convenzione-tra-agenzia-nazionale-e-demanio-potranno-diventare-anche-scuole-e-alloggi-per-studenti/",
+                "date": "26 Feb 2025",
+                "time": "18:16",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Costumi di Carnevale per i bimbi, esplode la polemica sui social: “Non ho tempo di ritagliare cartoncini”. Quando la scuola chiede aiuto alle famiglie",
+                "link": "https://www.orizzontescuola.it/costumi-di-carnevale-per-i-bimbi-esplode-la-polemica-sui-social-non-ho-tempo-di-ritagliare-cartoncini-quando-la-scuola-chiede-aiuto-alle-famiglie/",
+                "date": "26 Feb 2025",
+                "time": "18:02",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Genitori",
+                "title": "Bonus bebè 2025, carta nuovi nati da 1200 euro: un aiuto per le famiglie con ISEE fino a 40mila euro",
+                "link": "https://www.orizzontescuola.it/bonus-bebe-2025-carta-nuovi-nati-da-1200-euro-un-aiuto-per-le-famiglie-con-isee-fino-a-40mila-euro/",
+                "date": "26 Feb 2025",
+                "time": "17:30",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "“Troppi alunni con DSA”, le parole di Galimberti fanno discutere. L’esperta: “I piani didattici personalizzati non sono scorciatoie. Le certificazioni non sono vantaggi, ma anche fonte di disagio per bimbi e famiglie”",
@@ -387,52 +420,20 @@
                 "date": "26 Feb 2025",
                 "time": "11:38",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "A Verona muore un senzatetto: trovato senza vita vicino a una scuola. Era un ex collaboratore scolastico",
-                "link": "https://www.orizzontescuola.it/a-verona-muore-un-senzatetto-trovato-senza-vita-vicino-a-una-scuola-era-un-ex-collaboratore-scolastico/",
-                "date": "26 Feb 2025",
-                "time": "11:33",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Gite scolastiche, dramma in Campania: docente muore durante viaggio, fatale un malore",
-                "link": "https://www.orizzontescuola.it/gite-scolastiche-dramma-in-campania-docente-muore-durante-viaggio-fatale-un-malore/",
-                "date": "26 Feb 2025",
-                "time": "10:56",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Da manager a docente: “Ora sono papà e marito a tempo pieno. Precario ma felice”",
-                "link": "https://www.orizzontescuola.it/da-manager-a-docente-ora-sono-papa-e-marito-a-tempo-pieno-precario-ma-felice/",
-                "date": "26 Feb 2025",
-                "time": "10:32",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "TFA Sostegno, la truffa corre online, due docenti raggirati: “Con mille euro ti abilito io”",
-                "link": "https://www.orizzontescuola.it/tfa-sostegno-la-truffa-corre-online-due-docenti-raggirati-con-mille-euro-ti-abilito-io/",
-                "date": "26 Feb 2025",
-                "time": "10:09",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Bus gratuito per chi accompagna i bambini a scuola: l’iniziativa del Comune di Bologna",
-                "link": "https://www.orizzontescuola.it/bus-gratuito-per-chi-accompagna-i-bambini-a-scuola-liniziatica-del-comune-di-bologna/",
-                "date": "26 Feb 2025",
-                "time": "9:14",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Supplenze docenti 2025/26: chi ha abbandonato il servizio su posto comune potrà ottenere supplenza su sostegno dai nuovi elenchi aggiuntivi?",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-26-chi-ha-abbandonato-il-servizio-su-posto-comune-potra-ottenere-supplenza-su-sostegno-dai-nuovi-elenchi-aggiuntivi/",
+                "date": "25 Feb 2025",
+                "time": "16:18",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Mobilità 2025/26, anche docenti tutor possono presentare domanda trasferimento. Se si ottiene si rinuncia al punteggio aggiuntivo",
@@ -536,20 +537,28 @@
                 "date": "19 Feb 2025",
                 "time": "12:23",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Mobilità docenti 25/26: continuità di servizio si perde con assegnazione provvisoria",
-                "link": "https://www.orizzontescuola.it/mobilita-docenti-25-26-continuita-di-servizio-si-perde-con-assegnazione-provvisoria/",
-                "date": "19 Feb 2025",
-                "time": "9:42",
-                "image_link": "N/A"
             }
         ]
     },
     "group_6": {
         "title": "Diventare Insegnanti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Percorsi abilitanti, a quante classi di concorso ci si può iscrivere e in quanti Atenei?",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-a-quante-classi-di-concorso-ci-si-puo-iscrivere-e-in-quanti-atenei/",
+                "date": "21 Feb 2025",
+                "time": "17:19",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_275152664.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Percorsi 30 e 36 CFU vincitori di concorso PNRR1, ecco le classi di concorso “critiche” e le regioni interessate [SCARICA ALLEGATO]",
+                "link": "https://www.orizzontescuola.it/percorsi-30-e-36-cfu-vincitori-di-concorso-pnrr1-ecco-le-classi-di-concorso-critiche-e-in-quali-regioni-non-sono-attivate-scarica-allegato/",
+                "date": "21 Feb 2025",
+                "time": "16:27",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_1448118503.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Graduatorie docenti, novità: saranno evidenziate riserve, precedenze e preferenze. Valditara: “Trasparenza assunzioni”",
@@ -581,22 +590,6 @@
                 "date": "20 Feb 2025",
                 "time": "19:37",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti secondo ciclo 2024/25: bando dell’Università di Trieste. Ci sono posti ordinari e sovrannumerari",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-secondo-ciclo-2024-25-bando-delluniversita-di-trieste-ci-sono-posti-ordinari-e-sovrannumerari/",
-                "date": "20 Feb 2025",
-                "time": "11:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_302086268.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Un euro di stipendio per un mese di lavoro: la denuncia di un’insegnante precaria",
-                "link": "https://www.orizzontescuola.it/un-euro-di-stipendio-per-un-mese-di-lavoro-la-denuncia-di-uninsegnante-precaria/",
-                "date": "20 Feb 2025",
-                "time": "11:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_423892516.jpg"
             }
         ]
     },
@@ -711,6 +704,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Troppe le attività scolastiche non curriculari. Lettera",
+                "link": "https://www.orizzontescuola.it/troppe-le-attivita-scolastiche-non-curriculari-lettera/",
+                "date": "26 Feb 2025",
+                "time": "21:11",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "Graduatorie interne di istituto dei docenti di ruolo: nuovi punteggi rischiano di stravolgerle inutilmente. Lettera",
                 "link": "https://www.orizzontescuola.it/graduatorie-interne-di-istituto-dei-docenti-di-ruolo-nuovi-punteggi-rischiano-di-stravolgerle-inutilmente-lettera/",
                 "date": "26 Feb 2025",
@@ -747,14 +748,6 @@
                 "link": "https://www.orizzontescuola.it/educazione-allintelligenza-emotiva-una-proposta-per-il-futuro-della-scuola-lettera/",
                 "date": "23 Feb 2025",
                 "time": "15:49",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Quanto è realmente utile l’anno scolastico all’estero. Lettera",
-                "link": "https://www.orizzontescuola.it/quanto-e-realmente-utile-lanno-scolastico-allestero-lettera/",
-                "date": "23 Feb 2025",
-                "time": "9:59",
                 "image_link": "N/A"
             }
         ]
