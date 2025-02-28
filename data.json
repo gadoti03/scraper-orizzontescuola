@@ -3,12 +3,12 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
-                "category": "Didattica",
-                "title": "Scuola senza voti, gli studenti: “Ho vinto la timidezza. Ho raggiunto la consapevolezza di non essere un voto. Gli errori diventano una cosa autentica”. Le esperienze [VIDEO]",
-                "link": "https://www.orizzontescuola.it/scuola-senza-voti-gli-studenti-ho-vinto-la-timidezza-ho-raggiunto-la-consapevolezza-di-non-essere-un-voto-gli-errori-diventano-una-cosa-autentica-le-esperienze-video/",
+                "category": "Politica scolastica",
+                "title": "“Aumenti? Priorità assoluta. No a valutazione docente da enti esterni. CCNL 2019-21 non è tutto da buttare”. Intervista a Giuseppe D’Aprile (UIL Scuola) [VIDEO]",
+                "link": "https://www.orizzontescuola.it/aumenti-priorita-assoluta-no-a-valutazione-docente-da-enti-esterni-ccnl-2019-21-non-e-tutto-da-buttare-intervista-a-giuseppe-daprile-uil-scuola-video/",
                 "date": "28 Feb 2025",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Screenshot-2025-02-27-062020.png"
+                "time": "17:37",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Template_iprotagonisti_1000x500-2.png"
             },
             null
         ]
@@ -16,6 +16,30 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Guide",
+                "title": "Chi sono i Docenti Tutor: PCTO, orientamento, corsi PNRR, neoimmessi, PFI e PFP. Retribuzione per l’incarico specifico [GUIDA]",
+                "link": "https://www.orizzontescuola.it/chi-sono-i-docenti-tutor-pcto-orientamento-corsi-pnrr-neoimmessi-pfi-e-pfp-retribuzione-per-lincarico-specifico-guida/",
+                "date": "28 Feb 2025",
+                "time": "19:29",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti scuola secondaria PNRR2: ecco per quali classi di concorso si svolgerà sia prova pratica che orale",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-scuola-secondaria-pnrr2-ecco-per-quali-classi-di-concorso-si-svolgera-sia-prova-pratica-che-orale/",
+                "date": "28 Feb 2025",
+                "time": "18:03",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/09/shutterstock_1123411049.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Mobilità docenti 2025: precedenza per assistenza familiare, come funziona. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/mobilita-precedenza-per-assistenza-familiare-come-funziona-pillole-di-question-time/",
+                "date": "28 Feb 2025",
+                "time": "17:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/09/shutterstock_604854476.jpg"
+            },
             {
                 "category": "Scuole",
                 "title": "Il valore giuridico dei registri scolastici: tra atto pubblico e documento amministrativo",
@@ -26,7 +50,7 @@
             },
             {
                 "category": "Docenti",
-                "title": "Mobilità e graduatoria interna d’Istituto: hai perso il posto? Ecco come mantenere la continuità",
+                "title": "Mobilità e graduatoria interna d’Istituto: hai perso il posto? Ecco come mantenere la continuità. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/mobilita-e-graduatoria-interna-distituto-hai-perso-il-posto-ecco-come-mantenere-la-continuita/",
                 "date": "28 Feb 2025",
                 "time": "16:45",
@@ -119,7 +143,12 @@
                 "date": "28 Feb 2025",
                 "time": "12:25",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_503283772.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Percorsi abilitanti 2024/25: si concluderanno entro il 30 giugno per l’iscrizione nell’elenco aggiuntivo alle GPS?",
@@ -143,12 +172,7 @@
                 "date": "28 Feb 2025",
                 "time": "10:55",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1071472322.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze 2024/25, gli INTERPELLI alla ricerca di docenti [AGGIORNATO]",
@@ -268,29 +292,28 @@
                 "date": "28 Feb 2025",
                 "time": "8:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_1767364361.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Nel 2100 in Italia calo popolazione del 52%, in Germania meno 37%. A salvare l’Europa l’emigrazione. Quanto incide?",
-                "link": "https://www.orizzontescuola.it/nel-2100-in-italia-calo-popolazione-del-52-in-germania-meno-37-a-salvare-leuropa-lemigrazione-quanto-incide/",
-                "date": "28 Feb 2025",
-                "time": "8:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_229819552.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Opzione Donna e pensione anticipata flessibile: le novità per il 2025. Aggiornato con la procedura operativa",
-                "link": "https://www.orizzontescuola.it/opzione-donna-e-pensione-anticipata-flessibile-le-novita-per-il-2025-aggiornato-con-la-procedura-operativa/",
-                "date": "28 Feb 2025",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_1818524411-scaled.jpg"
-            },
-            null
+            }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "La morte di Jllen Camugino, docente in servizio a Frascati. Il ricordo della sua collega: “Umile e brillante, un porto sicuro per gli studenti, una perdita per l’intera comunità”",
+                "link": "https://www.orizzontescuola.it/la-morte-di-jllen-camugino-docente-in-servizio-a-frascati-il-ricordo-della-sua-collega-umile-e-brillante-un-porto-sicuro-per-gli-studenti-una-perdita-per-lintera-comunita/",
+                "date": "28 Feb 2025",
+                "time": "19:19",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Decreto bollette, via libera dal governo: da giugno fino a 500 euro per ISEE fino a 9530 euro, fino a 200 euro per ISEE fino a 25mila euro. La scheda",
+                "link": "https://www.orizzontescuola.it/decreto-bollette-via-libera-dal-governo-200-euro-nel-trimestre-per-famiglie-con-isee-fino-a-25mila-euro/",
+                "date": "28 Feb 2025",
+                "time": "17:52",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Maxi operazione della polizia in tutta Italia contro la criminalità giovanile: ispezionate anche due scuole. 73 gli arresti",
@@ -397,14 +420,6 @@
             },
             {
                 "category": "Cronaca",
-                "title": "Decreto bollette, via libera dal governo: fino a 500 euro per ISEE fino a 9530 euro, fino a 200 euro per ISEE fino a 25mila euro",
-                "link": "https://www.orizzontescuola.it/decreto-bollette-via-libera-dal-governo-200-euro-nel-trimestre-per-famiglie-con-isee-fino-a-25mila-euro/",
-                "date": "28 Feb 2025",
-                "time": "12:52",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
                 "title": "I bimbi e il Carnevale, i consigli della psicoanalista Lucattini ai genitori: “Lasciate che vostro figlio scelga il proprio travestimento senza criticarlo”",
                 "link": "https://www.orizzontescuola.it/i-bimbi-e-il-carnevale-i-consigli-della-psicoanalista-lucattini-ai-genitori-lasciate-che-vostro-figlio-scelga-il-proprio-travestimento-senza-criticarlo/",
                 "date": "28 Feb 2025",
@@ -425,14 +440,6 @@
                 "link": "https://www.orizzontescuola.it/in-argentina-il-governo-riabilita-termini-offensivi-per-le-persone-con-disabilita-idioti-e-imbecilli-tornano-nei-documenti-ufficiali/",
                 "date": "28 Feb 2025",
                 "time": "11:46",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Studente sorpreso a scuola con coltello di 28 cm nello zaino: sospeso per 2 settimane, farà lavori socialmente utili",
-                "link": "https://www.orizzontescuola.it/studente-sorpreso-a-scuola-con-coltello-di-28-cm-nello-zaino-sospeso-per-2-settimane-fara-lavori-socialmente-utili/",
-                "date": "28 Feb 2025",
-                "time": "11:23",
                 "image_link": "N/A"
             }
         ]
