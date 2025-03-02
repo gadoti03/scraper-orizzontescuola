@@ -10,19 +10,47 @@
                 "time": "8:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
             },
-            {
-                "category": "Plus",
-                "title": "Abbonamento a “Gestire la scuola” + 3 webinar: Sicurezza nei laboratori Labs, Accordi quadro PA e MEPA, DPO privacy e buone pratiche",
-                "link": "https://www.orizzontescuola.it/abbonamento-a-gestire-la-scuola-3-webinar-sicurezza-nei-laboratori-labs-accordi-quadro-pa-e-mepa-dpo-privaci-e-buone-pratiche/",
-                "date": "28 Feb 2025",
-                "time": "21:03",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Gestire-la-scuola-Cartaceo-online.png"
-            }
+            null
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Collaboratore scolastico con finto diploma dovrà restituire solo 24mila su 47mila euro percepiti. Il motivo? Ha svolto anche mansioni manuali",
+                "link": "https://www.orizzontescuola.it/collaboratore-scolastico-con-finto-diploma-dovra-restituire-solo-24mila-su-47mila-euro-percepiti-il-motivo-ha-svolto-anche-mansioni-manuali/",
+                "date": "2 Mar 2025",
+                "time": "9:08",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_675123196.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Stipendi docenti, 1.500 euro a Milano o a Bari? “Non sono la stessa cosa: stesso contratto, diverse realtà”. Il dibattito sui social",
+                "link": "https://www.orizzontescuola.it/stipendi-docenti-1-500-euro-a-milano-o-a-bari-non-sono-la-stessa-cosa-stesso-contratto-diverse-realta-il-dibattito-sui-social/",
+                "date": "2 Mar 2025",
+                "time": "8:59",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/06/shutterstock_1897472932.jpg"
+            },
+            {
+                "category": "Guide",
+                "title": "Docente precario con documentazione falsa, può essere licenziato anche dopo la conclusione della supplenza? Sì, ecco perché",
+                "link": "https://www.orizzontescuola.it/docente-precario-con-documentazione-falsa-puo-essere-licenziato-anche-a-conclusione-della-supplenza-ecco-cosa-hanno-detto-i-giudici/",
+                "date": "2 Mar 2025",
+                "time": "8:57",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_1135342076.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "DSA, realtà da affrontare e non etichette. Andreoli risponde a Galimberti: “Disturbi dell’apprendimento sottovalutati, non sovrastimati”",
+                "link": "https://www.orizzontescuola.it/dsa-realta-da-affrontare-e-non-etichette-andreoli-risponde-a-galimberti-disturbi-dellapprendimento-sottovalutati-non-sovrastimati/",
+                "date": "2 Mar 2025",
+                "time": "8:18",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/shutterstock_2384798953.jpg"
+            },
+            null,
+            null,
+            null,
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Graduatoria interna di istituto: part-time non evita di perdere il posto. Cosa è previsto per docenti Ed. motoria alla primaria",
@@ -94,7 +122,12 @@
                 "date": "1 Mar 2025",
                 "time": "9:15",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/prof.-Vincenzo-Schettini-la-fisica-che-ci-piace-ci-vuole-un-fisico-bestiale-2.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR2: alla prova orale si accede per punteggio, non valgono le riserve",
@@ -143,12 +176,7 @@
                 "date": "1 Mar 2025",
                 "time": "8:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_294556553.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Decreto Bollette in Gazzetta Ufficiale [scarica PDF], stanziati 3 miliardi contro il caro energia. Sostegni mirati per famiglie vulnerabili e proroga del mercato tutelato",
@@ -191,6 +219,14 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_95097202.jpg"
             },
             {
+                "category": "Plus",
+                "title": "Abbonamento a “Gestire la scuola” + 3 webinar: Sicurezza nei laboratori Labs, Accordi quadro PA e MEPA, DPO privacy e buone pratiche",
+                "link": "https://www.orizzontescuola.it/abbonamento-a-gestire-la-scuola-3-webinar-sicurezza-nei-laboratori-labs-accordi-quadro-pa-e-mepa-dpo-privaci-e-buone-pratiche/",
+                "date": "28 Feb 2025",
+                "time": "21:03",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Gestire-la-scuola-Cartaceo-online.png"
+            },
+            {
                 "category": "Guide",
                 "title": "Chi sono i Docenti Tutor: PCTO, orientamento, corsi PNRR, neoimmessi, PFI e PFP. Retribuzione per l’incarico specifico [GUIDA]",
                 "link": "https://www.orizzontescuola.it/chi-sono-i-docenti-tutor-pcto-orientamento-corsi-pnrr-neoimmessi-pfi-e-pfp-retribuzione-per-lincarico-specifico-guida/",
@@ -221,76 +257,44 @@
                 "date": "28 Feb 2025",
                 "time": "17:37",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Template_iprotagonisti_1000x500-2.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "Il valore giuridico dei registri scolastici: tra atto pubblico e documento amministrativo",
-                "link": "https://www.orizzontescuola.it/il-valore-giuridico-dei-registri-scolastici-tra-atto-pubblico-e-documento-amministrativo/",
-                "date": "28 Feb 2025",
-                "time": "17:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_659327395.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Mobilità e graduatoria interna d’Istituto: hai perso il posto? Ecco come mantenere la continuità. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/mobilita-e-graduatoria-interna-distituto-hai-perso-il-posto-ecco-come-mantenere-la-continuita/",
-                "date": "28 Feb 2025",
-                "time": "16:45",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2518506853.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Mobilità per i vincitori di concorso: assegnazione della sede e scelta delle province. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/mobilita-per-i-vincitori-di-concorso-assegnazione-della-sede-e-scelta-delle-province-il-question-time-in-pillole/",
-                "date": "28 Feb 2025",
-                "time": "16:32",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Immagine-2025-02-28-163056.png"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Graduatoria interna di istituto e mobilità 25/26: continuità di servizio si perde se si accetta supplenza da GPS",
-                "link": "https://www.orizzontescuola.it/graduatoria-interna-di-istituto-e-mobilita-25-26-continuita-di-servizio-si-perde-se-si-accetta-supplenza-da-gps/",
-                "date": "28 Feb 2025",
-                "time": "15:45",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/09/mad-invio-gratuito-4-ottobre.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "135 guide normative per “Gestire la scuola” senza sbagliare. AGGIUNTA LA GUIDA: “I Bisogni Educativi Speciali (BES), una guida normativa”",
-                "link": "https://www.orizzontescuola.it/75-guide-normative-per-dirigere-la-scuola-senza-sbagliare-aggiunta-la-guida-la-gestione-del-fondo-economale-per-le-minute-spese-nelle-istituzioni-scolastiche/",
-                "date": "28 Feb 2025",
-                "time": "15:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Shutterstock_2310359315-3.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Prove Invalsi 2025: nelle seconde classi delle superiori debuttano le competenze digitali",
-                "link": "https://www.orizzontescuola.it/prove-invalsi-2025-nelle-seconde-classi-delle-superiori-debuttano-le-competenze-digitali/",
-                "date": "28 Feb 2025",
-                "time": "14:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/shutterstock_131910761.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso infanzia e primaria PNRR2, ecco il VOTO minimo per accedere alla prova orale per ogni posto [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/concorso-infanzia-e-primaria-ecco-il-voto-minimo-per-accedere-alla-prova-orale-per-ogni-posto-in-aggiornamento/",
-                "date": "28 Feb 2025",
-                "time": "13:59",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_34528768.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Anno di prova docente neoassunto: si può svolgere in assegnazione provvisoria?",
-                "link": "https://www.orizzontescuola.it/anno-di-prova-docente-neoassunto-si-puo-svolgere-in-assegnazione-provvisoria/",
-                "date": "28 Feb 2025",
-                "time": "13:32",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/09/shutterstock_1240130032.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Dispersione scolastica, la Sicilia stanzia 53 milioni: finanziati 209 progetti, ecco quali",
+                "link": "https://www.orizzontescuola.it/dispersione-scolastica-la-sicilia-stanzia-53-milioni-finanziati-209-progetti-ecco-quali/",
+                "date": "2 Mar 2025",
+                "time": "8:46",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "L’Italia ha un problema: gli adulti con poche competenze. L’allarme di Gavosto e Romano",
+                "link": "https://www.orizzontescuola.it/litalia-ha-un-problema-gli-adulti-con-poche-competenze-lallarme-di-gavosto-e-romano/",
+                "date": "2 Mar 2025",
+                "time": "8:36",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Pornostar esclusa da incontro scolastico: “Volevo parlare di prevenzione e bullismo, non di film hard”",
+                "link": "https://www.orizzontescuola.it/pornostar-esclusa-da-incontro-scolastico-volevo-parlare-di-prevenzione-e-bullismo-non-di-film-hard/",
+                "date": "2 Mar 2025",
+                "time": "8:12",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Bradisismo nei Campi Flegrei: chiude una scuola a Pozzuoli. Livelli di anidride carbonica oltre la soglia di sicurezza",
+                "link": "https://www.orizzontescuola.it/bradisismo-nei-campi-flegrei-chiude-una-scuola-a-pozzuoli-livelli-di-anidride-carbonica-oltre-la-soglia-di-sicurezza/",
+                "date": "2 Mar 2025",
+                "time": "8:03",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Guida Save The Children per educare al digitale i bambini tra 5 e 8 anni: “PC e tablet siano veri strumenti educativi integrati nell’attività didattica”",
@@ -402,44 +406,28 @@
                 "date": "1 Mar 2025",
                 "time": "12:12",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Stop al cellulare in classe in un Liceo nel Padovano. Regolamento valido anche per palestra e laboratorio",
-                "link": "https://www.orizzontescuola.it/stop-al-cellulare-in-classe-in-un-liceo-padovano-regolamento-valido-anche-per-palestra-e-laboratorio/",
-                "date": "1 Mar 2025",
-                "time": "11:31",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Dal 5 marzo 2025 cambia il calcolo dell’ISEE: escluse alcune tipologie di risparmio. Chi lo ha già presentato deve aggiornarlo",
-                "link": "https://www.orizzontescuola.it/dal-5-marzo-2025-cambia-il-calcolo-dellisee-escluse-alcune-tipologie-di-risparmio-chi-lo-ha-gia-presentato-deve-aggiornarlo/",
-                "date": "1 Mar 2025",
-                "time": "11:18",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Antonio Ricci agli studenti: “La cultura è essere bastardi”. La lezione al PoliMi con Renzo Piano",
-                "link": "https://www.orizzontescuola.it/antonio-ricci-agli-studenti-la-cultura-e-essere-bastardi-la-lezione-al-polimi-con-renzo-piano/",
-                "date": "1 Mar 2025",
-                "time": "10:57",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Scritte contro il preside in un liceo milanese. Gli studenti si dissociano: “Non ci riconosciamo in queste azioni”",
-                "link": "https://www.orizzontescuola.it/scritte-contro-il-preside-in-un-liceo-milanese-gli-studenti-si-dissociano-non-ci-riconosciamo-in-queste-azioni/",
-                "date": "1 Mar 2025",
-                "time": "10:21",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Graduatoria interna di istituto e mobilità 25/26: continuità di servizio si perde se si accetta supplenza da GPS",
+                "link": "https://www.orizzontescuola.it/graduatoria-interna-di-istituto-e-mobilita-25-26-continuita-di-servizio-si-perde-se-si-accetta-supplenza-da-gps/",
+                "date": "28 Feb 2025",
+                "time": "15:45",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Anno di prova docente neoassunto: si può svolgere in assegnazione provvisoria?",
+                "link": "https://www.orizzontescuola.it/anno-di-prova-docente-neoassunto-si-puo-svolgere-in-assegnazione-provvisoria/",
+                "date": "28 Feb 2025",
+                "time": "13:32",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Mobilità 25/26: trasferimento da posto comune a posto di lingua nella stessa scuola, continuità e graduatorie interna. Cosa c’è da sapere",
@@ -535,28 +523,36 @@
                 "date": "25 Feb 2025",
                 "time": "13:11",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Mobilità e graduatoria interna 25/26: titolo di sostegno non dà punteggio, nemmeno se per grado diverso da quello di titolarità",
-                "link": "https://www.orizzontescuola.it/mobilita-e-graduatoria-interna-25-26-titolo-di-sostegno-non-da-punteggio-nemmeno-se-per-grado-diverso-da-quello-di-titolarita/",
-                "date": "25 Feb 2025",
-                "time": "9:31",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Mobilità 25/26: docenti immessi in ruolo 2022/23 non hanno vincolo neoassunti. Quando non possono presentare domanda",
-                "link": "https://www.orizzontescuola.it/mobilita-25-26-immessi-in-ruolo-2022-23-non-hanno-vincolo-neoassunti-quando-non-possono-presentare-domanda/",
-                "date": "24 Feb 2025",
-                "time": "12:30",
-                "image_link": "N/A"
             }
         ]
     },
     "group_6": {
         "title": "Diventare Insegnanti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Percorsi abilitanti da 60 CFU per laureati e laureandi. I 24 CFU conseguiti entro il 31 ottobre 2022 vengono riconosciuti",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-da-60-cfu-per-laureati-e-laureandi-i-24-cfu-conseguiti-entro-il-31-ottobre-2022-vengono-riconosciuti/",
+                "date": "28 Feb 2025",
+                "time": "10:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1071472322.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorsi docenti PNRR2: USR pubblicano voto minimo per la prova orale, candidati possono vederlo nell’area riservata. NOTA",
+                "link": "https://www.orizzontescuola.it/concorsi-docenti-pnrr2-usr-pubblicano-voto-minimo-per-la-prova-orale-candidati-possono-vederlo-nellarea-riservata-nota/",
+                "date": "28 Feb 2025",
+                "time": "9:16",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_341870168-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Stipendio docenti e ATA, importo marzo 2025 visibile su NoiPA",
+                "link": "https://www.orizzontescuola.it/stipendio-docenti-e-ata-importo-marzo-2025-visibile-su-noipa/",
+                "date": "28 Feb 2025",
+                "time": "9:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2016/12/euro-1647400_960_720.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Mobilità scuola 2025-2026, in arrivo Ordinanza e presentazione domande. RISPOSTE AI QUESITI",
@@ -580,30 +576,6 @@
                 "date": "27 Feb 2025",
                 "time": "14:31",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/concorso-docenti-cosa-studiare.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso insegnanti infanzia e primaria PNRR2, ecco i Quadri di riferimento per la PROVA ORALE",
-                "link": "https://www.orizzontescuola.it/concorso-insegnanti-infanzia-e-primaria-pnrr2-ecco-i-quadri-di-riferimento-per-la-prova-orale/",
-                "date": "27 Feb 2025",
-                "time": "14:02",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_130754711.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Infanzia e Primaria, il concorso non basta: 3.864 i posti di sostegno che non saranno coperti. Ci penseranno le GPS, come funziona. Le tabelle con i posti vacanti",
-                "link": "https://www.orizzontescuola.it/concorso-infanzia-e-primaria-il-concorso-non-basta-3-864-i-posti-di-sostegno-che-non-saranno-coperti-ci-penseranno-le-gps-come-funziona-le-tabelle-con-i-posti-vacanti/",
-                "date": "27 Feb 2025",
-                "time": "7:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Sottotitolo-2-3.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR 2: ultimo giorno PROVA SCRITTA scuola secondaria. Punteggio si visualizza a schermo e poi nella Piattaforma personale",
-                "link": "https://www.orizzontescuola.it/concorso-pnrr-2-posti-requisiti-di-accesso-prove-da-superare-valutazione-titoli-graduatorie-assunzioni-lo-speciale/",
-                "date": "27 Feb 2025",
-                "time": "6:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_1996119905.jpg"
             }
         ]
     },
