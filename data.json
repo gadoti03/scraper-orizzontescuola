@@ -3,12 +3,12 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
-                "category": "Diventare Insegnanti",
-                "title": "Carta del docente ai precari: è un diritto (ma non per tutti), le somme non spese non possono essere annullate, nessuna penalizzazione per mancata richiesta",
-                "link": "https://www.orizzontescuola.it/carta-del-docente-ai-precari-e-un-diritto-ma-non-per-tutti-le-somme-non-spese-non-possono-essere-annullate-nessuna-penalizzazione-per-mancata-richiesta/",
-                "date": "1 Mar 2025",
+                "category": "Politica scolastica",
+                "title": "Ianes: “Una diagnosi di dislessia non patologizza ma aiuta lo studente. Un educatore di plesso che affianca l’attività del docente di sostegno, ecco la sperimentazione”. INTERVISTA",
+                "link": "https://www.orizzontescuola.it/ianes-una-diagnosi-di-dislessia-non-patologizza-ma-aiuta-lo-studente-un-educatore-di-plesso-che-affianca-lattivita-del-docente-di-sostegno-ecco-la-sperimentazione-intervista/",
+                "date": "3 Mar 2025",
                 "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Progetto-senza-titolo.png"
             },
             null
         ]
@@ -16,6 +16,40 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Specializzazione sul sostegno Indire, 6 marzo sindacati convocati al Ministero: c’è chi ne chiede lo stop e chi un secondo ciclo. Le posizioni",
+                "link": "https://www.orizzontescuola.it/specializzazione-sul-sostegno-indire-6-marzo-sindacati-convocati-al-ministero-ce-chi-ne-chiede-lo-stop-e-chi-un-secondo-ciclo-le-posizioni/",
+                "date": "3 Mar 2025",
+                "time": "8:51",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_1029430381.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Scatti stipendiali anche ai precari, procedura di infrazione comunicata alle Commissioni Parlamentari. Cosa prevede la norma e cosa dovrà fare l’Italia",
+                "link": "https://www.orizzontescuola.it/scatti-stipendiali-anche-ai-precari-procedura-di-infrazione-comunicata-alle-commissioni-parlamentari-cosa-prevede-la-norma-e-cosa/",
+                "date": "3 Mar 2025",
+                "time": "8:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_275152664.jpg"
+            },
+            {
+                "category": "Didattica",
+                "title": "Perché i Cinesi sono bravi in matematica? Ecco i quattro insegnamenti chiave dei maestri cinesi in matematica",
+                "link": "https://www.orizzontescuola.it/perche-i-cinesi-sono-brai-in-matematica-ecco-i-quattro-insegnamenti-chiave-dei-maestri-cinesi-in-matematica/",
+                "date": "3 Mar 2025",
+                "time": "8:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_1887872830.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Comunicazione spese scolastiche ed erogazioni liberali su PagOnline: come fare ed entro quando. La guida per immagini",
+                "link": "https://www.orizzontescuola.it/comunicazione-spese-scolastiche-ed-erogazioni-liberali-su-pagonline-come-fare-ed-entro-quando-la-guida-per-immagini/",
+                "date": "3 Mar 2025",
+                "time": "7:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1416375236.jpg"
+            },
+            null,
+            null,
             {
                 "category": "Docenti",
                 "title": "Mobilità e graduatorie interne d’istituto docenti 2025: posti disponibili, deroghe, prima preferenza, Allegati. LE RISPOSTE AI QUESITI",
@@ -47,14 +81,6 @@
                 "date": "2 Mar 2025",
                 "time": "15:44",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_695632537.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Corsi sostegno INDIRE 30 CFU: giovedì 6 marzo informativa sui decreti al Ministero con i sindacati. L’annuncio di Pittoni (Lega)",
-                "link": "https://www.orizzontescuola.it/corsi-indire-30-cfu-scatta-il-conto-alla-rovescia-giovedi-6-marzo-informativa-al-ministero-con-i-sindacati-lannuncio-di-pittoni-lega/",
-                "date": "2 Mar 2025",
-                "time": "14:35",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/WhatsApp-Image-2025-03-02-at-16.01.50.jpeg"
             },
             {
                 "category": "Chiedilo a Lalla",
@@ -103,7 +129,12 @@
                 "date": "2 Mar 2025",
                 "time": "12:41",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_282701687.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             null,
             {
                 "category": "Cronaca",
@@ -136,12 +167,7 @@
                 "date": "2 Mar 2025",
                 "time": "10:12",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_1819849748.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             null,
             {
                 "category": "Chiedilo a Lalla",
@@ -217,52 +243,28 @@
                 "date": "1 Mar 2025",
                 "time": "13:59",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/02/shutterstock_1533479405.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti da 60, 30 e 36 CFU per il 2024/25: ecco i primi BANDI [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-da-60-30-e-36-cfu-per-il-2024-25-ci-saranno-tutte-le-classi-di-concorso-quando-i-bandi-ecco-cosa-dicono-le-universita/",
-                "date": "1 Mar 2025",
-                "time": "12:06",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2120807768.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze 2024/25, gli INTERPELLI alla ricerca di docenti [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
-                "date": "1 Mar 2025",
-                "time": "11:08",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Mobilità e graduatorie interne docenti 25/26, punteggio servizio ruolo e pre-ruolo: casi in cui si raddoppia",
-                "link": "https://www.orizzontescuola.it/mobilita-e-graduatorie-interne-docenti-25-26-punteggio-servizio-ruolo-e-pre-ruolo-casi-in-cui-si-raddoppia/",
-                "date": "1 Mar 2025",
-                "time": "11:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/02/highway-lights-at-night_925x.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Mobilità docenti 2025, puoi presentare tre diversi tipi di domanda: ecco quali sono e quale priorità dare",
-                "link": "https://www.orizzontescuola.it/mobilita-docenti-2025-puoi-presentare-tre-diversi-tipi-di-domanda-ecco-quali-sono-e-quale-priorita-dare/",
-                "date": "1 Mar 2025",
-                "time": "10:14",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2120807768.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Ad otto anni vedevo film pornografici sul cellulare”, Schettini: “Sono sconvolto, così uccidiamo la loro immaginazione. Colpa degli adulti”",
-                "link": "https://www.orizzontescuola.it/ad-otto-anni-vedevo-film-pornografici-sul-cellulare-schettini-sono-sconvolto-cosi-uccidiamo-la-loro-immaginazione-colpa-degli-adulti/",
-                "date": "1 Mar 2025",
-                "time": "9:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/prof.-Vincenzo-Schettini-la-fisica-che-ci-piace-ci-vuole-un-fisico-bestiale-2.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Pornostar incatenato per protesta: “Messaggio sbagliato: si può essere discriminati per il proprio lavoro”. Applausi dagli studenti",
+                "link": "https://www.orizzontescuola.it/pornostar-incatenato-per-protesta-messaggio-sbagliato-agli-studenti-si-puo-essere-discriminati-per-il-proprio-lavoro-applausi-dagli-studenti/",
+                "date": "3 Mar 2025",
+                "time": "9:24",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "Sciopero scuola sabato 8 marzo: avviso Ministero",
+                "link": "https://www.orizzontescuola.it/sciopero-scuola-sabato-8-marzo-avviso-ministero/",
+                "date": "3 Mar 2025",
+                "time": "9:22",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Pornostar esclusa da incontro scolastico: “Volevo parlare di prevenzione e bullismo, non di film hard”. Poi l’annuncio: “Domani mi incateno dinanzi alla scuola”",
@@ -285,6 +287,14 @@
                 "link": "https://www.orizzontescuola.it/stop-allarabo-in-una-scuola-di-bologna-la-denuncia-su-x-veniva-utilizzato-per-escludere-e-offendere-docenti-e-studenti/",
                 "date": "2 Mar 2025",
                 "time": "15:02",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Corsi sostegno INDIRE 30 CFU: giovedì 6 marzo informativa sui decreti al Ministero con i sindacati. L’annuncio di Pittoni (Lega)",
+                "link": "https://www.orizzontescuola.it/corsi-indire-30-cfu-scatta-il-conto-alla-rovescia-giovedi-6-marzo-informativa-al-ministero-con-i-sindacati-lannuncio-di-pittoni-lega/",
+                "date": "2 Mar 2025",
+                "time": "14:35",
                 "image_link": "N/A"
             },
             {
@@ -381,30 +391,6 @@
                 "link": "https://www.orizzontescuola.it/polemica-a-gallarate-annullato-lincontro-in-un-istituto-professionale-con-un-attore-porno-doveva-parlare-di-educazione-sessuale/",
                 "date": "1 Mar 2025",
                 "time": "17:00",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Concorso Pnrr 2, 20mila candidati docenti raggiungono il punteggio minimo ma non potranno fare l’orale: per Anief è illegittimo e irragionevole, si va in Tribunale",
-                "link": "https://www.orizzontescuola.it/concorso-pnrr-2-20mila-candidati-docenti-raggiungono-il-punteggio-minimo-ma-non-potranno-fare-lorale-per-anief-e-illegittimo-e-irragionevole-si-va-in-tribunale-anche-per-tutelare-i-diritti/",
-                "date": "1 Mar 2025",
-                "time": "16:55",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Inizia il Ramadan, senza linee guida nazionali le scuole agiscono tra autonomia e frammentazione. Una docente: “Studenti fisicamente provati, attenzione a fissare le verifiche in classe”",
-                "link": "https://www.orizzontescuola.it/inizia-il-ramadan-senza-linee-guida-nazionali-le-scuole-agiscono-tra-autonomia-e-frammentazione-una-docente-studenti-fisicamente-provati-attenzione-a-fissare-le-verifiche-in-classe/",
-                "date": "1 Mar 2025",
-                "time": "16:29",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Allarme violenza giovanile nel Salento: coltelli e baby gang tra gli studenti della scuola media. L’appello di un preside",
-                "link": "https://www.orizzontescuola.it/allarme-violenza-giovanile-nel-salento-coltelli-e-baby-gang-tra-gli-studenti-della-scuola-media-lappello-di-un-preside/",
-                "date": "1 Mar 2025",
-                "time": "16:23",
                 "image_link": "N/A"
             }
         ]
@@ -531,6 +517,22 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Concorso infanzia e primaria PNRR2, ecco il VOTO minimo per accedere alla prova orale per ogni posto [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/concorso-infanzia-e-primaria-ecco-il-voto-minimo-per-accedere-alla-prova-orale-per-ogni-posto-in-aggiornamento/",
+                "date": "28 Feb 2025",
+                "time": "13:59",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_34528768.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR2: ecco le lettere estratte per la prova orale. IN AGGIORNAMENTO",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr2-quando-comincera-la-prova-orale-estrazione-lettera-di-avvio-comunicazioni/",
+                "date": "28 Feb 2025",
+                "time": "13:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/shutterstock_213616528.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Carta del docente: posso usarla per iscrivermi ai corsi abilitanti e al TFA sostegno?",
                 "link": "https://www.orizzontescuola.it/carta-del-docente-posso-usarla-per-iscrivermi-ai-corsi-abilitanti-e-al-tfa-sostegno/",
                 "date": "28 Feb 2025",
@@ -560,22 +562,6 @@
                 "date": "28 Feb 2025",
                 "time": "12:05",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/03/shutterstock_1938714370.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti da 60 CFU per laureati e laureandi. I 24 CFU conseguiti entro il 31 ottobre 2022 vengono riconosciuti",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-da-60-cfu-per-laureati-e-laureandi-i-24-cfu-conseguiti-entro-il-31-ottobre-2022-vengono-riconosciuti/",
-                "date": "28 Feb 2025",
-                "time": "10:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1071472322.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorsi docenti PNRR2: USR pubblicano voto minimo per la prova orale, candidati possono vederlo nell’area riservata. NOTA",
-                "link": "https://www.orizzontescuola.it/concorsi-docenti-pnrr2-usr-pubblicano-voto-minimo-per-la-prova-orale-candidati-possono-vederlo-nellarea-riservata-nota/",
-                "date": "28 Feb 2025",
-                "time": "9:16",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_341870168-scaled.jpg"
             }
         ]
     },
