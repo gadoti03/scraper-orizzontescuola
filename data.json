@@ -3,19 +3,69 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "Docenti",
+                "title": "Graduatoria interna di istituto: le novità. Scarica modelli per l’aggiornamento delle graduatorie",
+                "link": "https://www.orizzontescuola.it/graduatoria-interna-di-istituto-le-novita-scarica-modelli-per-laggiornamento-delle-graduatorie/",
+                "date": "5 Mar 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_735971875.jpg"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Pacifico (Anief): “CCNL 2022-24, priorità ripristino fascia 3-8 anni: aumento di 150 euro”. Indennità di trasferta, buoni pasto e riconoscimento del burnout le proposte [VIDEO]",
                 "link": "https://www.orizzontescuola.it/pacifico-anief-dal-2016-stipendi-piu-bassi-di-6-000-euro-rispetto-al-ministero-ccnl-22-24-indennita-di-trasferta-buoni-pasto-e-riconoscimento-del-burnout-video/",
                 "date": "4 Mar 2025",
                 "time": "18:51",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/I-protagonisti-ipotesi-1-1000-x-500-px-2.png"
-            },
-            null
+            }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Mobilità 25/26 domanda perdente posto: preferenze provinciali e interprovinciali. Conseguenze trasferimento in altra provincia",
+                "link": "https://www.orizzontescuola.it/mobilita-25-26-domanda-perdente-posto-preferenze-provinciali-e-interprovinciali-conseguenze-trasferimento-in-altra-provincia/",
+                "date": "5 Mar 2025",
+                "time": "9:08",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_2153640081.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Usare lo smartphone troppo presto compromette l’apprendimento",
+                "link": "https://www.orizzontescuola.it/usare-lo-smartphone-troppo-presto-compromette-lapprendimento/",
+                "date": "5 Mar 2025",
+                "time": "8:51",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2480897743.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Si può introdurre la settimana corta in corso d’anno? Ecco cosa hanno detto i giudici",
+                "link": "https://www.orizzontescuola.it/si-puo-introdurre-la-settimana-corta-in-corso-danno-ecco-cosa-hanno-detto-i-giudici/",
+                "date": "5 Mar 2025",
+                "time": "8:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2229533495.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Valutazione dei Dirigenti Scolastici: obiettivi, punteggi e impatti sulla retribuzione",
+                "link": "https://www.orizzontescuola.it/valutazione-dei-dirigenti-scolastici-obiettivi-punteggi-e-impatti-sulla-retribuzione/",
+                "date": "5 Mar 2025",
+                "time": "7:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2445571389.jpg"
+            },
+            null,
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR 2: la PROVA ORALE. Convocazione, estrazione traccia, lezione simulata + domanda disciplinare",
+                "link": "https://www.orizzontescuola.it/concorso-pnrr-2-posti-requisiti-di-accesso-prove-da-superare-valutazione-titoli-graduatorie-assunzioni-lo-speciale/",
+                "date": "5 Mar 2025",
+                "time": "7:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_1996119905.jpg"
+            },
+            null,
+            null,
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Graduatoria interna di istituto docenti: 104 per suocera non comporta esclusione",
@@ -56,7 +106,6 @@
                 "time": "19:41",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_695632537.jpg"
             },
-            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR2 infanzia e primaria, iniziano prove orali. Dal 20 marzo in Lombardia. La convocazione",
@@ -80,7 +129,12 @@
                 "date": "4 Mar 2025",
                 "time": "17:39",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2016/11/highway-1761825_960_720.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Liceo Made in Italy: il regolamento con orari e laboratori mirati",
@@ -136,12 +190,7 @@
                 "date": "4 Mar 2025",
                 "time": "15:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "136 guide normative per “Gestire la scuola” senza sbagliare. AGGIUNTA LA GUIDA: “Educandati e convitti nazionali: la nuova organizzazione e la gestione contabile. Una guida normativa”",
@@ -229,68 +278,36 @@
                 "date": "4 Mar 2025",
                 "time": "11:44",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_302086268.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "2855 ricorsi pendenti per carta docente, il Tar Piemonte in crisi perché Ministero non rispetta le sentenze",
-                "link": "https://www.orizzontescuola.it/2855-ricorsi-pendenti-per-carta-docente-il-tar-piemonte-in-crisi-perche-ministero-non-rispetta-le-sentenze/",
-                "date": "4 Mar 2025",
-                "time": "11:31",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Modello-immagine-sito-22.png"
-            },
-            {
-                "category": "Docenti",
-                "title": "Mobilità docenti 2025: chi ha diritto alla precedenza tra deroga per genitore over 65 e assistenza con Legge 104? Pillole di QuestionTime",
-                "link": "https://www.orizzontescuola.it/mobilita-docenti-2025-chi-ha-diritto-alla-precedenza-tra-deroga-per-genitore-over-65-e-assistenza-con-legge-104-pillole-di-questiontime/",
-                "date": "4 Mar 2025",
-                "time": "11:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2502187265.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Somministrazione delle Prove INVALSI, la circolare per le classi quinte di secondaria superiore",
-                "link": "https://www.orizzontescuola.it/somministrazione-delle-prove-invalsi-la-circolare-per-le-classi-quinte-di-secondaria-superiore/",
-                "date": "4 Mar 2025",
-                "time": "11:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/01/shutterstock_253592404.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Graduatoria interna istituto docenti 2025, servizio preruolo in scuola paritaria continua a non valere. Punti per sostegno, scuole di montagna, ITP e personale educativo",
-                "link": "https://www.orizzontescuola.it/graduatoria-interna-istituto-docenti-2025-il-servizio-preruolo-in-scuola-paritaria-continua-a-non-valere-punti-per-sostegno-scuole-di-montagna-itp-e-personale-educativo/",
-                "date": "4 Mar 2025",
-                "time": "10:45",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_1089555017.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Contributi alle scuole per abbonamenti a giornali: richieste entro il 10 marzo",
-                "link": "https://www.orizzontescuola.it/contributi-alle-scuole-per-abbonamenti-a-giornali-richieste-entro-il-10-marzo/",
-                "date": "4 Mar 2025",
-                "time": "10:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_196788749.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Funzionari assunti dagli ITS Academy, più merito, valutazioni delle performance”. La ricetta del Ministro Zangrillo per rendere attrattiva la PA",
-                "link": "https://www.orizzontescuola.it/funzionari-assunti-dagli-its-academy-piu-merito-valutazioni-delle-performance-la-ricetta-del-ministro-zangrillo-per-rendere-attrattiva-la-pa/",
-                "date": "4 Mar 2025",
-                "time": "10:35",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/Zangrillo.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti da 30, 36 e 60 CFU, Università pubblicano i primi BANDI ma ancora tante incertezze soprattutto per i vincitori di concorso. RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-da-30-36-e-60-cfu-universita-pubblicano-i-primi-bandi-ma-ancora-tante-incertezze-soprattutto-per-i-vincitori-di-concorso-risposte-ai-quesiti/",
-                "date": "4 Mar 2025",
-                "time": "10:24",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2090710285.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Tasso disoccupazione giovanile in Italia al 22,8%, quello femminile all’8,2. I dati",
+                "link": "https://www.orizzontescuola.it/tasso-disoccupazione-giovanile-in-italia-al-228-quello-femminile-all82-i-dati/",
+                "date": "5 Mar 2025",
+                "time": "9:16",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "A Palermo, il Museo va a scuola e la scuola al Museo: esperienza “Kounellis” dal quartiere Sperone al RISO",
+                "link": "https://www.orizzontescuola.it/a-palermo-il-museo-va-a-scuola-e-la-scuola-al-museo-esperienza-kounellis-dal-quartiere-sperone-al-riso/",
+                "date": "5 Mar 2025",
+                "time": "7:55",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Addio a Bruno Pizzul, storico telecronista. Quando disse: “Insegnare era un mestiere stupendo, ti dava quel senso di utilità unico”",
+                "link": "https://www.orizzontescuola.it/addio-a-bruno-pizzul-storico-telecronista-quando-disse-insegnare-era-un-mestiere-stupendo-ti-dava-quel-senso-di-utilita-unico/",
+                "date": "5 Mar 2025",
+                "time": "7:27",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Disabilità, istituito Tavolo interministeriale per la cura avanzata di bambini e adulti negli ospedali",
@@ -403,36 +420,20 @@
                 "date": "4 Mar 2025",
                 "time": "14:14",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Essenzializzazione del curricolo: selezionare ciò che è davvero formativo per gli studenti. Il modello scuola in Alto Adige",
-                "link": "https://www.orizzontescuola.it/essenzializzazione-del-curricolo-selezionare-cio-che-e-davvero-formativo-per-gli-studenti-il-modello-scuola-in-alto-adige/",
-                "date": "4 Mar 2025",
-                "time": "14:02",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Giornata per la consapevolezza dell’Autismo, l’iniziativa #iopensoinblu per gli studenti",
-                "link": "https://www.orizzontescuola.it/giornata-per-la-consapevolezza-dellautismo-liniziativa-iopensoinblu-per-gli-studenti/",
-                "date": "4 Mar 2025",
-                "time": "13:10",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Furti a scuola, denunciati cinque studenti minorenni: bottino di quasi 1000 euro",
-                "link": "https://www.orizzontescuola.it/furti-a-scuola-denunciati-cinque-studenti-minorenni-bottino-di-quasi-1000-euro/",
-                "date": "4 Mar 2025",
-                "time": "12:34",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Graduatoria interna istituto docenti 2025, servizio preruolo in scuola paritaria continua a non valere. Punti per sostegno, scuole di montagna, ITP e personale educativo",
+                "link": "https://www.orizzontescuola.it/graduatoria-interna-istituto-docenti-2025-il-servizio-preruolo-in-scuola-paritaria-continua-a-non-valere-punti-per-sostegno-scuole-di-montagna-itp-e-personale-educativo/",
+                "date": "4 Mar 2025",
+                "time": "10:45",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Cattedre orario esterne (COE): quando si mantengono e quando si assegnano annualmente",
@@ -536,20 +537,20 @@
                 "date": "28 Feb 2025",
                 "time": "9:28",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Graduatorie interne docenti di ruolo 2025: come e quando si valuta il CLIL (da non confondere con i corsi di perfezionamento)",
-                "link": "https://www.orizzontescuola.it/graduatorie-interne-docenti-di-ruolo-2025-come-e-quando-si-valuta-il-clil-da-non-confondere-con-i-corsi-di-perfezionamento/",
-                "date": "27 Feb 2025",
-                "time": "12:35",
-                "image_link": "N/A"
             }
         ]
     },
     "group_6": {
         "title": "Diventare Insegnanti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Corsi Indire per chi ha 3 anni di servizio: 40 CFU, titolo entro fine 2025",
+                "link": "https://www.orizzontescuola.it/corsi-indire-per-chi-ha-3-anni-di-servizio-40-cfu-titolo-entro-fine-2025-durata-minima-4-mesi/",
+                "date": "3 Mar 2025",
+                "time": "10:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/insegnanti-mad-sostegno-2022-3.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Specializzazione sul sostegno Indire, 6 marzo sindacati convocati al Ministero: c’è chi ne chiede lo stop e chi un secondo ciclo. Le posizioni",
@@ -589,14 +590,6 @@
                 "date": "1 Mar 2025",
                 "time": "9:12",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/03/shutterstock_422744323.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Corsi Indire per specializzazione su sostegno: i docenti esclusi per il limite di 120 giorni chiedono un secondo ciclo",
-                "link": "https://www.orizzontescuola.it/corsi-indire-per-la-specializzazione-sul-sostegno-i-docenti-esclusi-per-il-limite-di-120-giorni-chiedono-un-secondo-ciclo/",
-                "date": "1 Mar 2025",
-                "time": "8:51",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/03/shutterstock_141294310.jpg"
             }
         ]
     },
@@ -711,6 +704,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Scoprire l’intelligenza artificiale: un laboratorio didattico. Lettera",
+                "link": "https://www.orizzontescuola.it/scoprire-lintelligenza-artificiale-un-laboratorio-didattico-lettera/",
+                "date": "5 Mar 2025",
+                "time": "8:47",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "La vocazione è un valore aggiunto, non un alibi per giustificare stipendi indegni. Lettera",
                 "link": "https://www.orizzontescuola.it/la-vocazione-e-un-valore-aggiunto-non-un-alibi-per-giustificare-stipendi-indegni-lettera/",
                 "date": "4 Mar 2025",
@@ -747,14 +748,6 @@
                 "link": "https://www.orizzontescuola.it/competenza-una-parola-due-visioni-lettera/",
                 "date": "27 Feb 2025",
                 "time": "9:44",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Troppe le attività scolastiche non curriculari. Lettera",
-                "link": "https://www.orizzontescuola.it/troppe-le-attivita-scolastiche-non-curriculari-lettera/",
-                "date": "26 Feb 2025",
-                "time": "21:11",
                 "image_link": "N/A"
             }
         ]
