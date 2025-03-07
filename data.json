@@ -1,38 +1,755 @@
 {
     "group_1": {
         "title": "Notizie in Evidenza",
-        "articles": []
+        "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Corsi specializzazione INDIRE: circa 70.000 docenti con tre anni di servizio (conterà anche 2024/25) e 10.000 titolo estero potranno presentare domanda",
+                "link": "https://www.orizzontescuola.it/corsi-specializzazione-indire-circa-70-000-docenti-con-tre-anni-di-servizio-contera-anche-2024-25-e-10-000-titolo-estero-potranno-presentare-domanda/",
+                "date": "7 Mar 2025",
+                "time": "8:09",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_1448118503.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Corsi sostegno INDIRE: requisiti, CFU, ci sarà differenza tra titoli rilasciati da Università e da Indire. Costi tra 900 e 1500 euro. Chi è esonerato dal Tirocinio?",
+                "link": "https://www.orizzontescuola.it/corsi-sostegno-indire-requisiti-cfu-tirocinio-ci-sara-differenza-tra-titoli-rilasciati-da-universita-e-da-indire-costi-tra-900-e-1500-euro-chi-e-esonerato-dal-tirocinio/",
+                "date": "6 Mar 2025",
+                "time": "15:03",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_1029430381.jpg"
+            }
+        ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
-        "articles": []
+        "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "VIDEO TUTORIAL IN DIRETTA | Mobilità docenti 2025, la domanda passo dopo passo. LIVE Venerdì 7 marzo alle 14:30",
+                "link": "https://www.orizzontescuola.it/video-tutorial-in-diretta-mobilita-docenti-2025-la-domanda-passo-dopo-passo-live-venerdi-7-marzo-alle-1430/",
+                "date": "7 Mar 2025",
+                "time": "13:27",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Template_guidepassodopopasso_1000x500-Presentazione.png"
+            },
+            {
+                "category": "Scuole",
+                "title": "Piani di dimensionamento scolastico 2025/26 approvati dalle Regioni: AGGIORNATO",
+                "link": "https://www.orizzontescuola.it/piani-di-dimensionamento-scolastico-2025-26-approvati-in-aggiornamento-non-ce-deroga-ad-accorpamenti-61-ds-in-meno/",
+                "date": "7 Mar 2025",
+                "time": "13:09",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_1853707816-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso infanzia e primaria PNRR2, ecco il VOTO minimo per accedere alla prova orale per ogni posto [AGGIORNATO con Puglia]",
+                "link": "https://www.orizzontescuola.it/concorso-infanzia-e-primaria-ecco-il-voto-minimo-per-accedere-alla-prova-orale-per-ogni-posto-in-aggiornamento/",
+                "date": "7 Mar 2025",
+                "time": "13:04",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_34528768.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR2 infanzia e primaria, iniziano prove orali. Ecco le CONVOCAZIONI",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr2-infanzia-e-primaria-iniziano-prove-orali-dal-20-marzo-in-lombardia-per-posto-comune-primaria-la-convocazione/",
+                "date": "7 Mar 2025",
+                "time": "13:01",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_482600299.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Mobilità docenti 2025 e punteggio: come viene valutato il servizio preruolo su sostegno senza titolo di specializzazione",
+                "link": "https://www.orizzontescuola.it/mobilita-docenti-2025-e-punteggio-come-viene-valutato-il-servizio-preruolo-su-sostegno-senza-titolo-di-specializzazione/",
+                "date": "7 Mar 2025",
+                "time": "12:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_695632537.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Lavoratrici scuola tra le più a rischio per aggressioni e violenze. + 11,9% gli infortuni degli studenti. DOSSIER donne Inail 2025",
+                "link": "https://www.orizzontescuola.it/lavoratrici-scuola-tra-le-piu-a-rischio-per-aggressioni-e-violenze-119-gli-infortuni-degli-studenti-dossier-donne-inail-2025/",
+                "date": "7 Mar 2025",
+                "time": "12:06",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1904033662.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Graduatoria interna di istituto 25/26, anno pre-ruolo con servizi in gradi di istruzione diversi: si valuta quello di maggior durata",
+                "link": "https://www.orizzontescuola.it/graduatoria-interna-di-istituto-25-26-anno-pre-ruolo-con-servizi-in-gradi-di-istruzione-diversi-si-valuta-quello-di-maggior-durata/",
+                "date": "7 Mar 2025",
+                "time": "11:48",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2016/10/graduatorie_insegnanti.jpeg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Intelligenza artificiale a scuola: Maragliano: “L’IA può essere un valido supporto per gli studenti, grazie alla sua pazienza e disponibilità costante”. INTERVISTA",
+                "link": "https://www.orizzontescuola.it/intelligenza-artificiale-a-scuola-maragliano-instaurare-un-dialogo-non-sia-solo-unenciclopedia-per-i-docenti-intervista/",
+                "date": "7 Mar 2025",
+                "time": "11:35",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Screenshot-2025-02-21-alle-14.54.36.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "DSA, i dati rispondono allo stigma? “La scuola non è una clinica psichiatrica” la risposta della Fondazione Irene a Galimberti",
+                "link": "https://www.orizzontescuola.it/dsa-i-dati-rispondono-allo-stigma-la-scuola-non-e-una-clinica-psichiatrica-la-risposta-della-fondazione-irene-a-galimberti/",
+                "date": "7 Mar 2025",
+                "time": "11:21",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/DSA-ADHD-formazione-completa.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Adozioni dei libri di testo: in allegato modello di circolare per l’anno 2025-2026",
+                "link": "https://www.orizzontescuola.it/adozioni-dei-libri-di-testo-in-allegato-modello-di-circolare-per-lanno-2025-2026/",
+                "date": "7 Mar 2025",
+                "time": "11:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1416794660.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Mobilità docenti 2025: deroghe, vincoli e precedenze: ecco come compilare la DOMANDA. Risposte ai quesiti",
+                "link": "https://www.orizzontescuola.it/mobilita-docenti-2025-deroghe-vincoli-e-precedenze-ecco-come-compilare-la-domanda-risposte-ai-quesiti/",
+                "date": "7 Mar 2025",
+                "time": "10:39",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2176731709.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Percorsi abilitanti 2024/25, a quale percorso devono iscriversi i candidati concorso PNRR2 che hanno “superato” prova scritta",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-2024-25-a-quale-percorso-devono-iscriversi-i-candidati-concorso-pnrr2-che-hanno-superato-prova-scritta/",
+                "date": "7 Mar 2025",
+                "time": "10:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Pubblicità nei registri elettronici? Valditara dice “No” e pensa ad un registro scolastico unico. Risponde Assoscuola: “Ci vorrebbero anni di lavoro. Rispettare autonomia delle scuole”",
+                "link": "https://www.orizzontescuola.it/pubblicita-nei-registri-elettronici-valditara-dice-no-e-pensa-ad-un-registro-scolastico-unico-risponde-assoscuola-ci-vorrebbero-anni-di-lavoro-rispettare-autonomia-delle-scuole/",
+                "date": "7 Mar 2025",
+                "time": "9:34",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/Registro.jpeg"
+            },
+            {
+                "category": "Plus",
+                "title": "Mobilità docenti ed ATA 2025/26: consulenza personalizzata. Prenota la tua data, disponibilità limitata",
+                "link": "https://www.orizzontescuola.it/mobilita-docenti-ed-ata-2025-26-consulenza-personalizzata-prenota-la-tua-data-disponibilita-limitata/",
+                "date": "7 Mar 2025",
+                "time": "9:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Mobilita-202526-1-1.png"
+            },
+            {
+                "category": "Docenti",
+                "title": "Mobilità docenti 25/26, domanda con precedenza 104 personale o per assistenza. Cosa indicare e allegare",
+                "link": "https://www.orizzontescuola.it/mobilita-docenti-25-26-domanda-con-precedenza-104-personale-o-per-assistenza-cosa-indicare-e-allegare/",
+                "date": "7 Mar 2025",
+                "time": "9:18",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/10/london-1128803_1280-1200x780.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Mobilità 25/26, docenti con deroga: va indicato comune di residenza o viciniore dell’assistito o del familiare cui ricongiungersi",
+                "link": "https://www.orizzontescuola.it/mobilita-25-26-docenti-con-deroga-va-indicato-comune-di-residenza-o-viciniore-dellassistito-o-del-familiare-cui-ricongiungersi/",
+                "date": "7 Mar 2025",
+                "time": "9:09",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1927950590.jpg"
+            }
+        ]
     },
     "group_3": {
         "title": "Ultime Notizie",
-        "articles": []
+        "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Percorsi abilitanti, secondo ciclo: gli atenei pubblicano i bandi. QUESTION TIME con Bufanini. LIVE Venerdì 7 marzo alle 16:00",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-secondo-ciclo-gli-atenei-pubblicano-i-bandi-question-time-con-bufanini-live-venerdi-7-marzo-alle-1600/",
+                "date": "7 Mar 2025",
+                "time": "9:09",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Template_questiontime_1920x1080-2.png"
+            },
+            {
+                "category": "Docenti",
+                "title": "Mobilità docenti 2025/26, al via le domande. GUIDE Ministero e tutto quello che c’è da sapere",
+                "link": "https://www.orizzontescuola.it/mobilita-2025-26-al-via-domande-dei-docenti-dal-7-marzo-ata-dal-14-marzo-date-ufficiali/",
+                "date": "7 Mar 2025",
+                "time": "9:03",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Progetto-senza-titolo-1-1.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Stati Generali Scuola Digitale, Panai: “IA e giovani, il problema è il tempo e il senso, occorrono regole per tutelare i più piccoli”. INTERVISTA",
+                "link": "https://www.orizzontescuola.it/stati-generali-scuola-digitale-panai-ia-e-giovani-il-problema-e-il-tempo-e-il-senso-occorrono-regola-per-tutelare-i-piu-piccoli-intervista/",
+                "date": "7 Mar 2025",
+                "time": "8:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Screenshot-2025-02-22-alle-13.50.37.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Le 10 regole degli esperti per applicare l’Intelligenza Artificiale nell’Istruzione",
+                "link": "https://www.orizzontescuola.it/le-10-regole-degli-esperti-per-applicare-lintelligenza-artificiale-nellistruzione/",
+                "date": "7 Mar 2025",
+                "time": "8:27",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/2025_02_Campaign-image.jpg_low.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Abilitazione sostegno INDIRE: Come si svolgeranno le lezioni? In cosa consisterà l’esame finale?",
+                "link": "https://www.orizzontescuola.it/abilitazione-sostegno-indire-come-si-svolgeranno-le-lezioni-in-cosa-consistera-lesame-finale/",
+                "date": "7 Mar 2025",
+                "time": "8:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_34528768.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "L’adozione dei libri di testo: normative, procedure e indicazioni operative",
+                "link": "https://www.orizzontescuola.it/ladozione-dei-libri-di-testo-normative-procedure-e-indicazioni-operative/",
+                "date": "7 Mar 2025",
+                "time": "8:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_146694977.jpg"
+            },
+            null,
+            {
+                "category": "Scuole",
+                "title": "Salta la supplenza perché non gli viene riconosciuto il punteggio di un titolo e chiede accesso agli atti, ma la scuola lo nega. È lecito? Ecco cosa hanno detto i giudici",
+                "link": "https://www.orizzontescuola.it/salta-la-supplenza-perche-non-gli-viene-riconosciuto-il-punteggio-di-un-titolo-e-chiede-accesso-agli-atti-ma-la-scuola-lo-nega-e-lecito-ecco-cosa-hanno-detto-i-giudici/",
+                "date": "7 Mar 2025",
+                "time": "8:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_2311370459.jpg"
+            },
+            null,
+            null,
+            null,
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Percorsi abilitanti da 60, 30 e 36 CFU per il 2024/25: ecco BANDI, pochi giorni per le iscrizioni [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-da-60-30-e-36-cfu-per-il-2024-25-ci-saranno-tutte-le-classi-di-concorso-quando-i-bandi-ecco-cosa-dicono-le-universita/",
+                "date": "6 Mar 2025",
+                "time": "20:25",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2120807768.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Gite scolastiche, ANAC: “Per importi fino a 5.000 euro non esiste obbligo di acquisto tramite MEPA”",
+                "link": "https://www.orizzontescuola.it/gite-scolastiche-anac-per-importi-fino-a-5-000-euro-non-esiste-obbligo-di-acquisto-tramite-mepa/",
+                "date": "6 Mar 2025",
+                "time": "19:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_1530295199.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Graduatoria interna di istituto 2025/26: scuole al lavoro sui nuovi punteggi. Pubblicazione entro il 9 aprile per i docenti [LO SPECIALE]",
+                "link": "https://www.orizzontescuola.it/graduatoria-interna-di-istituto-2025-26-nuovi-punteggi-e-nuove-regole-per-i-docenti-chi-perde-il-posto-lo-speciale/",
+                "date": "6 Mar 2025",
+                "time": "18:56",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2120807768.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Corsi sostegno INDIRE, riunione di confronto martedì 11 marzo.  I commenti dei sindacati alle BOZZE dei testi",
+                "link": "https://www.orizzontescuola.it/corsi-sostegno-indire-riunione-di-confronto-martedi-11-marzo-i-commenti-dei-sindacati-alle-bozze-dei-testi/",
+                "date": "6 Mar 2025",
+                "time": "18:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_302086268.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Riforma 4+2, Valditara: “Quasi 10mila iscritti. Mense scolastiche KM0 per valorizzare produzioni italiane”",
+                "link": "https://www.orizzontescuola.it/riforma-4-2-valditara-quasi-10mila-iscritti-mense-scolastiche-km0-per-valorizzare-produzioni-italiane/",
+                "date": "6 Mar 2025",
+                "time": "18:19",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/Valditara.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Identità di genere a scuola, certificati medici per chi si identifica con sesso diverso da quello anagrafico e bagni solo per maschi e femmine. Stop agli asterischi e allo schwa. Proposta di legge della Lega",
+                "link": "https://www.orizzontescuola.it/identita-di-genere-a-scuola-la-lega-propone-nuove-regole-certificati-medici-per-chi-si-identifica-con-sesso-diverso-da-quello-anagrafico-e-bagni-solo-per-maschi-e-femmine-stop-agli-asterischi-e-all/",
+                "date": "6 Mar 2025",
+                "time": "18:16",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_1205245405.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Appalti, soccorso integrativo e sanante per i requisiti di partecipazione. La sentenza del Consiglio di Stato",
+                "link": "https://www.orizzontescuola.it/appalti-soccorso-integrativo-e-sanante-per-i-requisiti-di-partecipazione-la-sentenza-del-consiglio-di-stato/",
+                "date": "6 Mar 2025",
+                "time": "17:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_1713676327.jpg"
+            }
+        ]
     },
     "group_4": {
         "title": "In Breve",
-        "articles": []
+        "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Bradisismo Campi Flegrei: riprese le lezioni nella scuola con valori CO₂ elevati, ogni mattina le misurazioni",
+                "link": "https://www.orizzontescuola.it/bradisismo-campi-flegrei-riprese-le-lezioni-nella-scuola-con-valori-co%e2%82%82-elevati-ogni-mattina-le-misurazioni/",
+                "date": "7 Mar 2025",
+                "time": "13:22",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Paura in Lombardia, pullman con 44 studenti tampona un camion: gravissimo l’autista, in codice giallo due insegnanti e due bambini",
+                "link": "https://www.orizzontescuola.it/paura-a-milano-pullman-con-44-studenti-tampona-un-camion-grave-autista-in-ospedale-anche-2-bambine/",
+                "date": "7 Mar 2025",
+                "time": "12:44",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Graduatorie ATA prima fascia, AtaCom: “Riconoscere anche il periodo morto tra il 16 Aprile 2024 e la stipula dei contratti”",
+                "link": "https://www.orizzontescuola.it/graduatorie-ata-prima-fascia-atacom-riconoscere-anche-il-periodo-morto-tra-il-16-aprile-2024-e-la-stipula-dei-contratti/",
+                "date": "7 Mar 2025",
+                "time": "12:40",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Rivoluzione nella scuola in Thailandia: libertà per i capelli degli studenti, potranno andare in classe anche con lunghe acconciature",
+                "link": "https://www.orizzontescuola.it/rivoluzione-nella-scuola-in-thailandia-liberta-per-i-capelli-degli-studenti-potranno-andare-in-classe-anche-con-lunghe-acconciature/",
+                "date": "7 Mar 2025",
+                "time": "12:20",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Rinnovo CCNL, FISM ai Sindacati: “Pronti a recepire le richieste ma siate parte attiva con noi presso Governo e Parlamento”",
+                "link": "https://www.orizzontescuola.it/rinnovo-ccnl-fism-ai-sindacati-pronti-a-recepire-le-richieste-ma-siate-parte-attiva-con-noi-presso-governo-e-parlamento2/",
+                "date": "7 Mar 2025",
+                "time": "12:10",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Studenti",
+                "title": "Gli studenti dormono solo 6,5 ore, ma dormire meno di 7,7 ore aumenta il rischio di ipertensione. Cosa fare: i consigli degli esperti",
+                "link": "https://www.orizzontescuola.it/gli-studenti-dormono-solo-65-ore-ma-dormire-meno-di-77-ore-aumenta-il-rischio-di-ipertensione-cosa-fare-i-consigli-degli-esperti/",
+                "date": "7 Mar 2025",
+                "time": "11:54",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Sciopero 8 marzo, coinvolta la scuola ma anche trasporti e sanità",
+                "link": "https://www.orizzontescuola.it/sciopero-8-marzo-coinvolta-la-scuola-ma-anche-trasporti-e-sanita/",
+                "date": "7 Mar 2025",
+                "time": "11:47",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Lagarde (BCE): “Istruzione finanziaria delle donne cruciale per inflazione e produttività”",
+                "link": "https://www.orizzontescuola.it/lagarde-bce-istruzione-finanziaria-delle-donne-cruciale-per-inflazione-e-produttivita/",
+                "date": "7 Mar 2025",
+                "time": "11:41",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Union of Skills: la nuova strategia UE per potenziare le competenze e rafforzare la competitività europea",
+                "link": "https://www.orizzontescuola.it/union-of-skills-la-nuova-strategia-europea-per-potenziare-le-competenze-e-rafforzare-la-competitivita-europea/",
+                "date": "7 Mar 2025",
+                "time": "11:32",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "A Pavia rivoluzione nella mensa scolastica: meno carne e un giorno vegano a settimana. La Lega: “Ideologia green imposta ai bimbi”",
+                "link": "https://www.orizzontescuola.it/a-pavia-rivoluzione-nella-mensa-scolastica-meno-carne-e-un-giorno-vegano-a-settimana-la-lega-ideologia-green-imposta-ai-bimbi/",
+                "date": "7 Mar 2025",
+                "time": "11:23",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Musei siciliani gratuiti lunedì 10 marzo per ricordare Sebastiano Tusa: l’omaggio all’archeologo a sei anni dalla morte",
+                "link": "https://www.orizzontescuola.it/musei-siciliani-gratuiti-lunedi-10-marzo-per-ricordare-sebastiano-tusa-lomaggio-allarcheologo-a-sei-anni-dalla-morte/",
+                "date": "7 Mar 2025",
+                "time": "11:13",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Genitori",
+                "title": "Codice fiscale per i neonati, addio code in ufficio: ecco il nuovo servizio online dell’Agenzia delle Entrate",
+                "link": "https://www.orizzontescuola.it/codice-fiscale-per-i-neonati-addio-code-in-ufficio-ecco-il-nuovo-servizio-online-dellagenzia-delle-entrate/",
+                "date": "7 Mar 2025",
+                "time": "11:08",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "8 Marzo, “C’è ancora domani” proiettato in 8 città svizzere. Ministro Tajani: “Istruzione è centrale per l’emancipazione femminile”",
+                "link": "https://www.orizzontescuola.it/8-marzo-ce-ancora-domani-proiettato-in-8-citta-svizzere-ministro-tajani-istruzione-e-centrale-per-lemancipazione-femminile/",
+                "date": "7 Mar 2025",
+                "time": "11:08",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Pari opportunità e divari di genere: serviranno 200 anni per ottenere la parità occupazionale. I dati di Legacoop, Ipsos e ILO",
+                "link": "https://www.orizzontescuola.it/pari-opportunita-e-divari-di-genere-serviranno-200-anni-per-ottenere-la-parita-occupazionale-i-dati-di-legacoop-ipsos-e-ilo/",
+                "date": "7 Mar 2025",
+                "time": "10:56",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“Basta con i pregiudizi sugli istituti professionali, non è una scuola di Serie B”, sui social divampa la polemica: “Sbagliato l’orientamento scolastico”",
+                "link": "https://www.orizzontescuola.it/basta-con-i-pregiudizi-sugli-istituti-professionali-non-e-un-istituto-di-serie-b-sui-social-divampa-la-polemica-sbagliato-lorientamento-scolastico/",
+                "date": "7 Mar 2025",
+                "time": "10:47",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Emozioni in classe, collaboratrice scolastica va in pensione: commossa dal gesto dei piccoli alunni. Littizzetto: “Coltivare il valore della riconoscenza”",
+                "link": "https://www.orizzontescuola.it/emozioni-in-classe-collaboratrice-scolastica-va-in-pensione-commossa-dal-gesto-dei-piccoli-alunni-littizzetto-coltivare-il-valore-della-riconoscenza/",
+                "date": "7 Mar 2025",
+                "time": "10:27",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Rinnovo contratto 2022-24, il 26 marzo riprende la trattativa: Anief vuole ripartire dai diversi vantaggi economici ottenuti con l’ultimo Ccnl",
+                "link": "https://www.orizzontescuola.it/rinnovo-contratto-2022-24-il-26-marzo-riprende-la-trattativa-anief-vuole-ripartire-dai-diversi-vantaggi-economici-ottenuti-con-lultimo-ccnl/",
+                "date": "7 Mar 2025",
+                "time": "9:32",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Il filosofo Walzer: “Trump odia la scuola pubblica, per lui forma i futuri elettori della sinistra. Vuole favorire l’istruzione privata e religiosa”",
+                "link": "https://www.orizzontescuola.it/il-filosofo-walzer-trump-odia-la-scuola-pubblica-per-lui-forma-i-futuri-elettori-della-sinistra-vuole-favorire-listruzione-privata-e-religiosa/",
+                "date": "7 Mar 2025",
+                "time": "8:24",
+                "image_link": "N/A"
+            }
+        ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
-        "articles": []
+        "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Graduatorie GPS sostegno prima fascia 2025: punteggio abilitazione prescinde dal titolo di accesso al corso (diploma o laurea)",
+                "link": "https://www.orizzontescuola.it/graduatorie-gps-sostegno-prima-fascia-2025-punteggio-abilitazione-prescinde-dal-titolo-di-accesso-al-corso-diploma-o-laurea/",
+                "date": "6 Mar 2025",
+                "time": "10:00",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Mobilità 25/26: docenti assunti concorso straordinario bis 22/23 possono presentare domanda",
+                "link": "https://www.orizzontescuola.it/mobilita-25-26-docenti-assunti-concorso-straordinario-bis-22-23-possono-presentare-domanda/",
+                "date": "6 Mar 2025",
+                "time": "9:18",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Mobilità 25/26, richiesta corsi serali scuole secondaria: COI e COE. Come procedere e come viene assegnata scuola",
+                "link": "https://www.orizzontescuola.it/mobilita-25-26-richiesta-corsi-serali-scuole-secondaria-coi-e-coe-come-procedere-e-come-viene-assegnata-scuola/",
+                "date": "6 Mar 2025",
+                "time": "9:09",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Mobilità docenti 25/26: si può chiedere passaggio di cattedra e trasferimento. Si sceglie a quale domanda dare priorità",
+                "link": "https://www.orizzontescuola.it/mobilita-docenti-25-26-si-puo-chiedere-passaggio-di-cattedra-e-trasferimento-si-sceglie-a-quale-domanda-dare-priorita/",
+                "date": "5 Mar 2025",
+                "time": "19:19",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Mobilità 25/26 domanda perdente posto: preferenze provinciali e interprovinciali. Conseguenze trasferimento in altra provincia",
+                "link": "https://www.orizzontescuola.it/mobilita-25-26-domanda-perdente-posto-preferenze-provinciali-e-interprovinciali-conseguenze-trasferimento-in-altra-provincia/",
+                "date": "5 Mar 2025",
+                "time": "9:08",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Graduatoria interna di istituto docenti: 104 per suocera non comporta esclusione",
+                "link": "https://www.orizzontescuola.it/graduatoria-interna-di-istituto-docenti-104-per-suocera-non-comporta-esclusione/",
+                "date": "4 Mar 2025",
+                "time": "21:00",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Passaggio di un docente da sostegno secondo grado a primo grado e poi ritorno: vincolo quinquennale riparte da capo",
+                "link": "https://www.orizzontescuola.it/passaggio-di-un-docente-da-sostegno-secondo-grado-a-primo-grado-e-poi-ritorno-vincolo-quinquennale-riparte-da-capo/",
+                "date": "4 Mar 2025",
+                "time": "15:11",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Graduatoria interna istituto docenti 2025, servizio preruolo in scuola paritaria continua a non valere. Punti per sostegno, scuole di montagna, ITP e personale educativo",
+                "link": "https://www.orizzontescuola.it/graduatoria-interna-istituto-docenti-2025-il-servizio-preruolo-in-scuola-paritaria-continua-a-non-valere-punti-per-sostegno-scuole-di-montagna-itp-e-personale-educativo/",
+                "date": "4 Mar 2025",
+                "time": "10:45",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Cattedre orario esterne (COE): quando si mantengono e quando si assegnano annualmente",
+                "link": "https://www.orizzontescuola.it/cattedre-orario-esterne-coe-quando-si-mantengono-e-quando-si-assegnano-annualmente/",
+                "date": "3 Mar 2025",
+                "time": "16:11",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Mobilità 25/26, domanda docenti NEOASSUNTI con DEROGA. Come si compila la domanda",
+                "link": "https://www.orizzontescuola.it/mobilita-25-26-domanda-docenti-neoassunti-con-deroga-come-si-compila-la-domanda/",
+                "date": "3 Mar 2025",
+                "time": "15:15",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Mobilità 25/26: precedenza per assistenza genitore. 104 deve essere permanente",
+                "link": "https://www.orizzontescuola.it/mobilita-25-26-precedenza-per-assistenza-genitore-104-deve-essere-permanente/",
+                "date": "3 Mar 2025",
+                "time": "9:32",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Mobilità 2025, a breve la presentazione della domanda. Facciamo il punto. QUESTION TIME con Cozzetto (Anief)",
+                "link": "https://www.orizzontescuola.it/mobilita-2025-a-breve-la-presentazione-della-domanda-facciamo-il-punto-question-time-con-cozzetto-anief-live-lunedi-3-marzo-alle-1600/",
+                "date": "2 Mar 2025",
+                "time": "17:33",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Mobilità 25/26: neoassunti con nomina giuridica e 104 per genitore. Domanda anche interprovinciale e con precedenza a determinate condizioni",
+                "link": "https://www.orizzontescuola.it/mobilita-25-26-neoassunti-con-nomina-giuridica-e-104-per-genitore-domanda-anche-interprovinciale-e-con-precedenza-a-determinate-condizioni/",
+                "date": "2 Mar 2025",
+                "time": "14:31",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Percorsi abilitanti da 30, 36 e 60 CFU, dopo i decreti ministeriali ecco i bandi degli atenei. QUESTION TIME con Cannas",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-da-30-36-e-60-cfu-dopo-i-decreti-ministeriali-ecco-i-bandi-degli-atenei-question-time-con-cannas-live-lunedi-3-marzo-alle-1430/",
+                "date": "2 Mar 2025",
+                "time": "14:23",
+                "image_link": "N/A"
+            }
+        ]
     },
     "group_6": {
         "title": "Diventare Insegnanti",
-        "articles": []
+        "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Elenchi aggiuntivi I fascia GPS: domande dal 14 al 29 aprile. Ecco il decreto [PDF] con tutte le info utili",
+                "link": "https://www.orizzontescuola.it/elenchi-aggiuntivi-i-fascia-gps-al-via-le-domande-dal-14-aprile-2025-ecco-il-decreto/",
+                "date": "5 Mar 2025",
+                "time": "17:12",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/09/shutterstock_1931309774.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Mobilità docenti 2025, ecco Ordinanza: si parte il 7 marzo. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/mobilita-docenti-2025-ecco-ordinanza-si-parte-il-7-marzo-risposte-ai-quesiti/",
+                "date": "5 Mar 2025",
+                "time": "15:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_2023734317-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso scuola secondaria PNRR2: quadri di riferimento per la valutazione della prova orale. Punteggio minimo 70/100",
+                "link": "https://www.orizzontescuola.it/concorso-scuola-secondaria-pnrr2-quadri-di-riferimento-per-la-valutazione-della-prova-orale-punteggio-minimo-70-100/",
+                "date": "5 Mar 2025",
+                "time": "15:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_59277838.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR2, 2 punti in più per candidati del 27 febbraio turno pomeridiano? La segnalazione",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr2-2-punti-in-piu-per-candidati-del-27-febbraio-turno-pomeridiano-la-segnalazione/",
+                "date": "5 Mar 2025",
+                "time": "11:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_143757691.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR 2: la PROVA ORALE. Convocazione, estrazione traccia, lezione simulata + domanda disciplinare",
+                "link": "https://www.orizzontescuola.it/concorso-pnrr-2-posti-requisiti-di-accesso-prove-da-superare-valutazione-titoli-graduatorie-assunzioni-lo-speciale/",
+                "date": "5 Mar 2025",
+                "time": "7:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_1996119905.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Percorsi abilitanti 2024/25, ogni candidato può presentare domanda in una sola Università per la stessa classe di concorso",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-2024-25-ogni-candidato-puo-presentare-domanda-in-una-sola-universita-per-la-stessa-classe-di-concorso/",
+                "date": "4 Mar 2025",
+                "time": "13:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
+            }
+        ]
     },
     "group_7": {
         "title": "Notizie ATA",
-        "articles": []
+        "articles": [
+            {
+                "category": "ATA",
+                "title": "ATA di ruolo dal 2024, deve conseguire la certificazione digitale CIAD?",
+                "link": "https://www.orizzontescuola.it/ata-di-ruolo-dal-2024-deve-conseguire-la-certificazione-digitale-ciad/",
+                "date": "22 Feb 2025",
+                "time": "12:23",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2467525223.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Mansioni personale ATA: pulizia, lavaggio alunni e cambio pannolino spettano al collaboratore scolastico",
+                "link": "https://www.orizzontescuola.it/pulizia-lavaggio-alunni-e-cambio-pannolino-spetta-al-collaboratore-scolastico/",
+                "date": "22 Feb 2025",
+                "time": "11:09",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_617913341.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Collaboratore scolastico lavora con titolo mai conseguito, dichiarando il falso. Condannato, ma non dovrà restituire tutti gli stipendi. Ecco perché",
+                "link": "https://www.orizzontescuola.it/collaboratore-scolastico-lavora-con-titolo-mai-conseguito-dichiarando-il-falso-condannato-ma-non-dovra-restituire-tutti-gli-stipendi-ecco-perche/",
+                "date": "22 Feb 2025",
+                "time": "8:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2421530637.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Periodo di prova personale ATA, cosa succede in caso di lunga assenza per malattia? Orientamento ARAN",
+                "link": "https://www.orizzontescuola.it/periodo-di-prova-personale-ata-cosa-succede-in-caso-di-lunga-assenza-per-malattia-orientamento-aran/",
+                "date": "19 Feb 2025",
+                "time": "11:07",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2331500305.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Incarichi specifici ATA: il dirigente può scegliere anche chi non ha posizione economica, il lavoratore non può rinunciare",
+                "link": "https://www.orizzontescuola.it/incarichi-specifici-ata-il-dirigente-puo-scegliere-anche-chi-non-ha-posizione-economica-il-lavoratore-non-puo-rinunciare/",
+                "date": "18 Feb 2025",
+                "time": "17:56",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_120805804.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Ferie ATA passato da 6 a 5 giorni: come considerare i giorni residui del precedente anno? Orientamento ARAN",
+                "link": "https://www.orizzontescuola.it/ferie-per-ata-passato-da-6-a-5-giorni-come-considerare-i-giorni-residui-del-precedente-anno-orientamento-aran/",
+                "date": "18 Feb 2025",
+                "time": "17:18",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1508556191.jpg"
+            }
+        ]
     },
     "group_8": {
         "title": "Didattica",
-        "articles": []
+        "articles": [
+            {
+                "category": "Didattica",
+                "title": "Se hai aspettative basse sui tuoi studenti, i risultati saranno bassi e i comportamenti distorti. Si chiama “effetto Golem”",
+                "link": "https://www.orizzontescuola.it/se-hai-aspettative-basse-sui-tuoi-studenti-i-risultati-saranno-bassi-e-i-comportamenti-distorti-si-chiama-effetto-golem/",
+                "date": "21 Feb 2025",
+                "time": "10:27",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2083256932.jpg"
+            },
+            {
+                "category": "Didattica",
+                "title": "Perché uno studente è demotivato? Dalle neuroscienze all’uso della letterature per infondere motivazione",
+                "link": "https://www.orizzontescuola.it/perche-uno-studente-e-demotivato-dalle-neuroscienze-alluso-della-letterature-per-infondere-motivazione/",
+                "date": "20 Feb 2025",
+                "time": "8:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2489698093.jpg"
+            },
+            {
+                "category": "Didattica",
+                "title": "Strategie per incentivare la lettura a scuola e a casa",
+                "link": "https://www.orizzontescuola.it/strategie-per-incentivare-la-lettura-a-scuola-e-a-casa/",
+                "date": "17 Feb 2025",
+                "time": "8:37",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2182802453.jpg"
+            },
+            {
+                "category": "Didattica",
+                "title": "La ricerca-azione, un ponte tra teoria e pratica: buone pratiche",
+                "link": "https://www.orizzontescuola.it/la-ricerca-azione-un-ponte-tra-teoria-e-pratica-buone-pratiche/",
+                "date": "8 Feb 2025",
+                "time": "8:22",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2266968387.jpg"
+            },
+            {
+                "category": "Didattica",
+                "title": "Learning Lab, innoviamo la didattica: l’apprendimento che si fonde con la sperimentazione e la tecnologia. Ecco di cosa si tratta",
+                "link": "https://www.orizzontescuola.it/learning-lab-innoviamo-la-didattica-lapprendimento-che-si-fonde-con-la-sperimentazione-e-la-tecnologia-ecco-di-cosa-si-tratta/",
+                "date": "7 Feb 2025",
+                "time": "8:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_612311987.jpg"
+            },
+            {
+                "category": "Didattica",
+                "title": "La metodologia EAS: un approccio innovativo alla didattica. Cos’è",
+                "link": "https://www.orizzontescuola.it/la-metodologia-eas-un-approccio-innovativo-alla-didattica-cose/",
+                "date": "5 Feb 2025",
+                "time": "8:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_606699521.jpg"
+            }
+        ]
     },
     "group_9": {
         "title": "Lettere in Redazione",
-        "articles": []
+        "articles": [
+            {
+                "category": "Lettere in redazione",
+                "title": "La legge 22/2025, sulle competenze non cognitive, duplica e confonde. Lettera",
+                "link": "https://www.orizzontescuola.it/la-legge-22-2025-sulle-competenze-non-cognitive-duplica-e-confonde-lettera/",
+                "date": "6 Mar 2025",
+                "time": "15:45",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
+                "title": "Tra lauree, dottorati e abilitazioni: cos’ha da fare un insegnante oggi per poter essere stabilizzato? Lettera",
+                "link": "https://www.orizzontescuola.it/tra-lauree-dottorati-e-abilitazioni-cosha-da-fare-un-insegnante-oggi-per-poter-essere-stabilizzato-lettera/",
+                "date": "5 Mar 2025",
+                "time": "11:40",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
+                "title": "Scoprire l’intelligenza artificiale: un laboratorio didattico. Lettera",
+                "link": "https://www.orizzontescuola.it/scoprire-lintelligenza-artificiale-un-laboratorio-didattico-lettera/",
+                "date": "5 Mar 2025",
+                "time": "8:47",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
+                "title": "La vocazione è un valore aggiunto, non un alibi per giustificare stipendi indegni. Lettera",
+                "link": "https://www.orizzontescuola.it/la-vocazione-e-un-valore-aggiunto-non-un-alibi-per-giustificare-stipendi-indegni-lettera/",
+                "date": "4 Mar 2025",
+                "time": "12:41",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
+                "title": "Libertà e Mindfulness. Lettera",
+                "link": "https://www.orizzontescuola.it/liberta-e-mindfulness-lettera/",
+                "date": "2 Mar 2025",
+                "time": "10:20",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
+                "title": "I nostri studenti: c’è tutto un mondo da costruire, più smarriti e fragili di noi ieri. Lettera",
+                "link": "https://www.orizzontescuola.it/esperienza-in-classe-di-un-progetto-in-3d-lettera/",
+                "date": "1 Mar 2025",
+                "time": "7:58",
+                "image_link": "N/A"
+            }
+        ]
     }
 }
