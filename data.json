@@ -3,26 +3,51 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "Esplosione di diagnosi nella scuola? “Non è necessariamente un elemento negativo. Dall’Integrazione, all’inclusione, oggi forse meglio parlare di partecipazione”. INTERVISTA a Giusi Antonia Toto",
+                "link": "https://www.orizzontescuola.it/esplosione-di-diagnosi-nella-scuola-non-e-necessariamente-un-elemento-negativo-dallintegrazione-allinclusione-oggi-forse-meglio-parlare-di-partecipazione-intervista-a-giusi-antonia-toto/",
+                "date": "8 Mar 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/giusi_toto.png"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso infanzia e primaria PNRR2, ecco il VOTO minimo per la prova orale: da 70 a 98 [COMPLETO]",
                 "link": "https://www.orizzontescuola.it/concorso-infanzia-e-primaria-ecco-il-voto-minimo-per-accedere-alla-prova-orale-per-ogni-posto-in-aggiornamento/",
                 "date": "7 Mar 2025",
                 "time": "16:51",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_34528768.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Corsi specializzazione INDIRE: circa 70.000 docenti con tre anni di servizio (conterà anche 2024/25) e 10.000 titolo estero potranno presentare domanda",
-                "link": "https://www.orizzontescuola.it/corsi-specializzazione-indire-circa-70-000-docenti-con-tre-anni-di-servizio-contera-anche-2024-25-e-10-000-titolo-estero-potranno-presentare-domanda/",
-                "date": "7 Mar 2025",
-                "time": "8:09",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_1448118503.jpg"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Docenti",
+                "title": "Mobilità docenti 2025, la domanda senza segreti: tutti i passaggi spiegati. Video completo con tutte le sezioni",
+                "link": "https://www.orizzontescuola.it/mobilita-docenti-2025-la-domanda-senza-segreti-tutti-i-passaggi-spiegati-video-completo-con-tutte-le-sezioni/",
+                "date": "8 Mar 2025",
+                "time": "9:13",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Template_videoguide_1920x1080-1.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "In Europa nascite calano del 5,4%, Italia fanalino di coda. Nel Belpaese si diventa mamme tardi: 31,8 anni rispetto. Il 23% è di origine straniera",
+                "link": "https://www.orizzontescuola.it/in-europa-nascite-calano-del-54-italia-fanalino-di-coda-nel-belpaese-si-diventa-mamme-tardi-318-anni-rispetto-il-23-e-una-mamma-nata-allestero/",
+                "date": "8 Mar 2025",
+                "time": "8:19",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2205231773.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso secondaria PNRR2: “Michel Reboul”, “Adobe Premier” e “Milton Erickson”: 2 punti in più per i refusi? FLCGIL chiede chiarimenti",
+                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-michel-reboul-adobe-premier-e-milton-erickson-2-punti-in-piu-per-i-refusi-flcgil-chiede-chiarimenti/",
+                "date": "8 Mar 2025",
+                "time": "7:41",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1685909200.jpg"
+            },
+            null,
             {
                 "category": "Docenti",
                 "title": "Mobilità interprovinciale 2025: docenti possono superare il vincolo con figlio minore di 16 anni. Attenzione a requisito di residenza",
@@ -80,14 +105,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_1606120555-scaled.jpg"
             },
             {
-                "category": "Docenti",
-                "title": "Mobilità 2025, come compilare la domanda: Video guida integrale con tutte le sezioni. Passo dopo Passo",
-                "link": "https://www.orizzontescuola.it/mobilita-2025-come-compilare-la-domanda-video-tutorial-integrale-passo-dopo-passo/",
-                "date": "7 Mar 2025",
-                "time": "16:46",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Template_videoguide_1920x1080.png"
-            },
-            {
                 "category": "Scuole",
                 "title": "Mobilità docente di sostegno ITP: il passaggio di ruolo a posto comune è nella terza fase (25% dei posti)",
                 "link": "https://www.orizzontescuola.it/mobilita-docente-di-sostegno-itp-il-passaggio-di-ruolo-a-posto-comune-e-nella-terza-fase-25-dei-posti/",
@@ -126,7 +143,12 @@
                 "date": "7 Mar 2025",
                 "time": "15:46",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Template_questiontime_1920x1080-2.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Pubblicità nei registri elettronici? Valditara dice “No”. Risponde Spaggiari. Sull’ipotesi di registro unico nazionale, Assoscuola: “Ci vorrebbero anni di lavoro. Rispettare autonomia”",
@@ -150,12 +172,7 @@
                 "date": "7 Mar 2025",
                 "time": "14:48",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "Personale scolastico, dovrà formarsi tramite la piattaforma Syllabus. Il video tutorial, le istruzioni e le FaQ",
@@ -266,7 +283,7 @@
                 "link": "https://www.orizzontescuola.it/mobilita-2025-26-al-via-domande-dei-docenti-dal-7-marzo-ata-dal-14-marzo-date-ufficiali/",
                 "date": "7 Mar 2025",
                 "time": "9:03",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Progetto-senza-titolo-1-1.png"
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Mobilita-2025.png"
             },
             {
                 "category": "Cronaca",
@@ -275,30 +292,6 @@
                 "date": "7 Mar 2025",
                 "time": "8:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Screenshot-2025-02-22-alle-13.50.37.png"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Le 10 regole degli esperti per applicare l’Intelligenza Artificiale nell’Istruzione",
-                "link": "https://www.orizzontescuola.it/le-10-regole-degli-esperti-per-applicare-lintelligenza-artificiale-nellistruzione/",
-                "date": "7 Mar 2025",
-                "time": "8:27",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/2025_02_Campaign-image.jpg_low.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Abilitazione sostegno INDIRE: Come si svolgeranno le lezioni? In cosa consisterà l’esame finale?",
-                "link": "https://www.orizzontescuola.it/abilitazione-sostegno-indire-come-si-svolgeranno-le-lezioni-in-cosa-consistera-lesame-finale/",
-                "date": "7 Mar 2025",
-                "time": "8:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_34528768.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "L’adozione dei libri di testo: normative, procedure e indicazioni operative",
-                "link": "https://www.orizzontescuola.it/ladozione-dei-libri-di-testo-normative-procedure-e-indicazioni-operative/",
-                "date": "7 Mar 2025",
-                "time": "8:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_146694977.jpg"
             }
         ]
     },
@@ -362,6 +355,14 @@
                 "image_link": "N/A"
             },
             null,
+            {
+                "category": "Docenti",
+                "title": "Mobilità 2025, come compilare la domanda: Video guida integrale con tutte le sezioni. Passo dopo Passo",
+                "link": "https://www.orizzontescuola.it/mobilita-2025-come-compilare-la-domanda-video-tutorial-integrale-passo-dopo-passo/",
+                "date": "7 Mar 2025",
+                "time": "16:46",
+                "image_link": "N/A"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Ci sarà una nuova commissione esaminatrice per il concorso docenti PNRR1 da rifare in 5 Regioni [NOTA USR MARCHE]",
@@ -432,14 +433,6 @@
                 "link": "https://www.orizzontescuola.it/sciopero-8-marzo-coinvolta-la-scuola-ma-anche-trasporti-e-sanita/",
                 "date": "7 Mar 2025",
                 "time": "11:47",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Lagarde (BCE): “Istruzione finanziaria delle donne cruciale per inflazione e produttività”",
-                "link": "https://www.orizzontescuola.it/lagarde-bce-istruzione-finanziaria-delle-donne-cruciale-per-inflazione-e-produttivita/",
-                "date": "7 Mar 2025",
-                "time": "11:41",
                 "image_link": "N/A"
             }
         ]
@@ -566,6 +559,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Percorsi abilitanti 2024/25 vincitori di concorso PNRR1: requisiti di accesso, quale Università e corso scegliere, termine ultimo per il titolo. FAQ delle Università",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-2024-25-vincitori-di-concorso-pnrr1-requisiti-di-accesso-quale-universita-scegliere-termine-ultimo-per-il-titolo-faq-usr-piemonte/",
+                "date": "5 Mar 2025",
+                "time": "21:47",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1685909200.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Prova orale concorso docenti PNRR2, come affrontarla in modo efficace: consigli e tips [VIDEO]",
                 "link": "https://www.orizzontescuola.it/prova-orale-concorso-docenti-pnrr2-come-affrontarla-in-modo-efficace-consigli-e-tips-diretta-ore-17-30/",
                 "date": "5 Mar 2025",
@@ -603,14 +604,6 @@
                 "date": "5 Mar 2025",
                 "time": "11:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_143757691.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR 2: la PROVA ORALE. Convocazione, estrazione traccia, lezione simulata + domanda disciplinare",
-                "link": "https://www.orizzontescuola.it/concorso-pnrr-2-posti-requisiti-di-accesso-prove-da-superare-valutazione-titoli-graduatorie-assunzioni-lo-speciale/",
-                "date": "5 Mar 2025",
-                "time": "7:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_1996119905.jpg"
             }
         ]
     },
@@ -725,6 +718,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Il Ministero dell’Istruzione e del Merito o del Business? Lettera",
+                "link": "https://www.orizzontescuola.it/il-ministero-dellistruzione-e-del-merito-o-del-business-lettera/",
+                "date": "8 Mar 2025",
+                "time": "9:15",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "La legge 22/2025, sulle competenze non cognitive, duplica e confonde. Lettera",
                 "link": "https://www.orizzontescuola.it/la-legge-22-2025-sulle-competenze-non-cognitive-duplica-e-confonde-lettera/",
                 "date": "6 Mar 2025",
@@ -761,14 +762,6 @@
                 "link": "https://www.orizzontescuola.it/liberta-e-mindfulness-lettera/",
                 "date": "2 Mar 2025",
                 "time": "10:20",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "I nostri studenti: c’è tutto un mondo da costruire, più smarriti e fragili di noi ieri. Lettera",
-                "link": "https://www.orizzontescuola.it/esperienza-in-classe-di-un-progetto-in-3d-lettera/",
-                "date": "1 Mar 2025",
-                "time": "7:58",
                 "image_link": "N/A"
             }
         ]
