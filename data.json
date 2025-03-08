@@ -24,6 +24,14 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "ATA",
+                "title": "Mobilità ATA 2025: referente unico eliminato, assistenza a genitore con disabilità grave. Il sistema delle precedenze",
+                "link": "https://www.orizzontescuola.it/mobilita-ata-2025-referente-unico-eliminato-assistenza-a-genitore-con-disabilita-grave-il-sistema-delle-precedenze/",
+                "date": "8 Mar 2025",
+                "time": "18:58",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2331500305.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso infanzia e primaria PNRR2, in alcune regioni basta 70 per accedere alla prova orale, in altre necessario fino a 98. LE TABELLE",
                 "link": "https://www.orizzontescuola.it/concorso-infanzia-e-primaria-pnrr2-in-alcune-regioni-basta-70-per-accedere-alla-prova-orale-in-altre-necessario-fino-a-98-le-tabelle/",
@@ -49,7 +57,7 @@
             },
             {
                 "category": "Scuole",
-                "title": "Esame terza media, prove Invalsi e almeno 6 in comportamento per essere ammessi. Requisiti candidati interni e privatisti",
+                "title": "Esame terza media, prove Invalsi e almeno 6 nel comportamento per essere ammessi. Requisiti candidati interni e privatisti",
                 "link": "https://www.orizzontescuola.it/esame-terza-media-prove-invalsi-e-almeno-6-in-comportamento-per-essere-ammessi-requisiti-candidati-interni-e-privatisti/",
                 "date": "8 Mar 2025",
                 "time": "12:47",
@@ -135,7 +143,12 @@
                 "time": "7:41",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1685909200.jpg"
             },
-            null,
+            null
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Docenti",
                 "title": "Mobilità interprovinciale 2025: docenti possono superare il vincolo con figlio minore di 16 anni. Attenzione a requisito di residenza",
@@ -143,12 +156,7 @@
                 "date": "7 Mar 2025",
                 "time": "22:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_2112392237.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Docenti",
                 "title": "Mobilità 2025, passaggio da sostegno a posto comune: come dichiarare correttamente gli anni di servizio",
@@ -284,20 +292,36 @@
                 "date": "7 Mar 2025",
                 "time": "12:52",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_695632537.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Lavoratrici scuola tra le più a rischio per aggressioni e violenze. + 11,9% gli infortuni degli studenti. DOSSIER donne Inail 2025",
-                "link": "https://www.orizzontescuola.it/lavoratrici-scuola-tra-le-piu-a-rischio-per-aggressioni-e-violenze-119-gli-infortuni-degli-studenti-dossier-donne-inail-2025/",
-                "date": "7 Mar 2025",
-                "time": "12:06",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1904033662.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Calci e pugni al professore, la vendetta dell’alunno in piazza di notte dopo un rimprovero a scuola",
+                "link": "https://www.orizzontescuola.it/calci-e-pugni-al-professore-la-vendetta-in-piazza-di-notte-dopo-un-rimprovero-in-classe/",
+                "date": "8 Mar 2025",
+                "time": "19:21",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Parità di genere, per l’Osce si realizza con il pari accesso a diritti fondamentali come l’istruzione",
+                "link": "https://www.orizzontescuola.it/parita-di-genere-per-losce-si-realizza-con-il-pari-accesso-a-diritti-fondamentali-come-listruzione/",
+                "date": "8 Mar 2025",
+                "time": "18:13",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Bonus psicologo, INPS: dal 15 aprile scorrimento graduatorie e individuazione nuovi beneficiari",
+                "link": "https://www.orizzontescuola.it/bonus-psicologo-inps-dal-15-aprile-scorrimento-graduatorie-e-individuazione-nuovi-beneficiari/",
+                "date": "8 Mar 2025",
+                "time": "17:22",
+                "image_link": "N/A"
+            },
             {
                 "category": "Comunicati stampa",
                 "title": "Supplenti sostegno confermati su scelta famiglie, per Anief è incostituzionale: “Chi insegna, non fa il badante”",
@@ -410,31 +434,7 @@
                 "time": "17:34",
                 "image_link": "N/A"
             },
-            null,
-            {
-                "category": "Docenti",
-                "title": "Mobilità 2025, come compilare la domanda: Video guida integrale con tutte le sezioni. Passo dopo Passo",
-                "link": "https://www.orizzontescuola.it/mobilita-2025-come-compilare-la-domanda-video-tutorial-integrale-passo-dopo-passo/",
-                "date": "7 Mar 2025",
-                "time": "16:46",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Ci sarà una nuova commissione esaminatrice per il concorso docenti PNRR1 da rifare in 5 Regioni [NOTA USR MARCHE]",
-                "link": "https://www.orizzontescuola.it/ci-sara-una-nuova-commissione-esaminatrice-per-il-concorso-docenti-pnrr1-da-rifare-in-5-regioni-nota-usr-marche/",
-                "date": "7 Mar 2025",
-                "time": "15:38",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "VIDEO TUTORIAL | Mobilità docenti 2025, la domanda passo dopo passo",
-                "link": "https://www.orizzontescuola.it/video-tutorial-in-diretta-mobilita-docenti-2025-la-domanda-passo-dopo-passo-live-venerdi-7-marzo-alle-1430/",
-                "date": "7 Mar 2025",
-                "time": "14:11",
-                "image_link": "N/A"
-            }
+            null
         ]
     },
     "group_5": {
