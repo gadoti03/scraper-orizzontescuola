@@ -24,6 +24,46 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Chiedilo a Lalla",
+                "title": "Mobilità docenti 25/26, trasferimento da sostegno a posto comune e viceversa. Quale domanda viene prima? C’è un limite di posti?",
+                "link": "https://www.orizzontescuola.it/mobilita-docenti-25-26-trasferimento-da-sostegno-a-posto-comune-e-viceversa-quale-domanda-viene-prima-ce-un-limite-di-posti/",
+                "date": "9 Mar 2025",
+                "time": "12:26",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/11/hamburg-2687544_1280-1200x800.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Docenti scuole all’estero, BANDO in Gazzetta Ufficiale: requisiti e FAQ. Domanda entro il 3 aprile",
+                "link": "https://www.orizzontescuola.it/docenti-scuole-allestero-bando-in-gazzetta-ufficiale-requisiti-e-modalita-di-presentazione-della-domanda/",
+                "date": "9 Mar 2025",
+                "time": "11:42",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/pacchetto-formazione-scuola.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Alunna bocciata con sette insufficienze fa ricorso, ma lo perde. Il TAR: “Bocciatura strumento pedagogico, da valutare come opportunità di crescita”. SENTENZA",
+                "link": "https://www.orizzontescuola.it/alunna-bocciata-con-sette-insufficienze-fa-ricorso-ma-lo-perde-il-tar-bocciatura-strumento-pedagogico-da-valutare-come-opportunita-di-crescita-sentenza/",
+                "date": "9 Mar 2025",
+                "time": "11:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_675123196.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Mobilità docenti 2025, esiste un bollettino dei posti vacanti? Se due docenti hanno chiesto lo stesso posto, chi lo ottiene? RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/mobilita-docenti-2025-esiste-un-bollettino-dei-posti-vacanti-se-due-docenti-hanno-chiesto-lo-stesso-posto-chi-lo-ottiene-risposte-ai-quesiti/",
+                "date": "9 Mar 2025",
+                "time": "10:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_95425372.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "In Francia la metà degli alunni non sa scrivere “immediatamente” senza errori. E in Italia un liceo aumenta le ore di italiano: “Difficoltà più con i temi che con i quesiti di fisica”",
+                "link": "https://www.orizzontescuola.it/in-francia-la-meta-degli-alunni-non-sa-scrivere-immediatamente-senza-errori-e-in-italia-un-liceo-aumenta-le-ore-di-italiano-difficolta-piu-con-i-temi-che-con-i-quesiti-di-fisica/",
+                "date": "9 Mar 2025",
+                "time": "9:47",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_2207108391-scaled.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze 2024/25, gli INTERPELLI alla ricerca di docenti [AGGIORNATO]",
                 "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
@@ -46,6 +86,14 @@
                 "date": "9 Mar 2025",
                 "time": "8:29",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/Andreoli.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Prova orale concorso docenti PNRR2, come affrontarla in modo efficace: consigli e tips [VIDEO]",
+                "link": "https://www.orizzontescuola.it/prova-orale-concorso-docenti-pnrr2-come-affrontarla-in-modo-efficace-consigli-e-tips-diretta-ore-17-30/",
+                "date": "9 Mar 2025",
+                "time": "8:25",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Progetto-senza-titolo-2.png"
             },
             {
                 "category": "Scuole",
@@ -81,7 +129,12 @@
                 "date": "8 Mar 2025",
                 "time": "16:07",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/shutterstock_535152550-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Percorsi abilitanti per vincitori Concorso PNRR 1, Anief: è caos, docenti rischiano licenziamento se le Università non attivano i corsi",
@@ -129,12 +182,7 @@
                 "date": "8 Mar 2025",
                 "time": "11:23",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_2002803581-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Mobilità 25/26, docente perdente posto mantiene precedenza per 10 anni. Rientro nella scuola di ex titolarità non fa perdere continuità",
@@ -223,60 +271,52 @@
                 "date": "7 Mar 2025",
                 "time": "17:39",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_310986524.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Da tempo pieno a part-time: i modelli utili per richiedere la trasformazione del contratto",
-                "link": "https://www.orizzontescuola.it/da-tempo-pieno-a-part-time-i-modelli-utili-per-richiedere-la-trasformazione-del-contratto/",
-                "date": "7 Mar 2025",
-                "time": "17:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_1606120555-scaled.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Mobilità docente di sostegno ITP: il passaggio di ruolo a posto comune è nella terza fase (25% dei posti)",
-                "link": "https://www.orizzontescuola.it/mobilita-docente-di-sostegno-itp-il-passaggio-di-ruolo-a-posto-comune-e-nella-terza-fase-25-dei-posti/",
-                "date": "7 Mar 2025",
-                "time": "16:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2120807768.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR2 infanzia e primaria, iniziano prove orali. Ecco le CONVOCAZIONI",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr2-infanzia-e-primaria-iniziano-prove-orali-dal-20-marzo-in-lombardia-per-posto-comune-primaria-la-convocazione/",
-                "date": "7 Mar 2025",
-                "time": "16:13",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_482600299.jpg"
-            },
-            {
-                "category": "Pensioni",
-                "title": "Posti disponibili docenti e ATA dopo i pensionamenti dal 1° settembre 2025. Elenchi per provincia [inserita ROMA]",
-                "link": "https://www.orizzontescuola.it/posti-disponibili-docenti-e-ata-dopo-i-pensionamenti-dal-1-settembre-2025-elenchi-per-provincia-in-aggiornamento/",
-                "date": "7 Mar 2025",
-                "time": "15:57",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2198683335.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Percorsi abilitanti, secondo ciclo: gli atenei pubblicano i bandi. QUESTION TIME con Bufanini [VIDEO]",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-secondo-ciclo-gli-atenei-pubblicano-i-bandi-question-time-con-bufanini-live-venerdi-7-marzo-alle-1600/",
-                "date": "7 Mar 2025",
-                "time": "15:46",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Template_questiontime_1920x1080-2.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "Pubblicità nei registri elettronici? Valditara dice “No”. Risponde Spaggiari. Sull’ipotesi di registro unico nazionale, Assoscuola: “Ci vorrebbero anni di lavoro. Rispettare autonomia”",
-                "link": "https://www.orizzontescuola.it/pubblicita-nei-registri-elettronici-valditara-dice-no-e-pensa-ad-un-registro-scolastico-unico-risponde-assoscuola-ci-vorrebbero-anni-di-lavoro-rispettare-autonomia-delle-scuole/",
-                "date": "7 Mar 2025",
-                "time": "15:34",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/Registro.jpeg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Via libera UE al pacchetto fiscale del Terzo Settore, FISM plaude all’importante traguardo per le scuole paritarie: “Ora esenzione IMU e IRAP”",
+                "link": "https://www.orizzontescuola.it/via-libera-ue-al-pacchetto-fiscale-del-terzo-settore-fism-plaude-allimportante-traguardo-per-le-scuole-paritarie-ora-esenzione-imu-e-irap/",
+                "date": "9 Mar 2025",
+                "time": "12:17",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Voto di maturità e futuro professionale, il dibattito sui social accende la discussione: “Mi hanno dato 68, oggi sono manager”, “con 69 ora sono ricercatore”, “con 67 ho due lauree”",
+                "link": "https://www.orizzontescuola.it/voto-di-maturita-e-futuro-professionale-il-dibattito-sui-social-accende-la-discussione-mi-hanno-dato-68-oggi-sono-manager-con-69-ora-sono-ricercatore-con-67-ho-due-lauree/",
+                "date": "9 Mar 2025",
+                "time": "11:34",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Il regista Marco Tullio Giordana: “Sono figlio di un’epoca speranzosa, mentre i giovani di oggi non hanno prospettive”. E sull’IA: “Matematica, ma l’arte è poesia”",
+                "link": "https://www.orizzontescuola.it/il-regista-marco-tullio-giordana-sono-figlio-di-unepoca-speranzosa-mentre-i-giovani-di-oggi-non-hanno-prospettive-e-sullia-matematica-ma-larte-e-poesia/",
+                "date": "9 Mar 2025",
+                "time": "11:00",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Padri in evoluzione, il delicato equilibrio tra codice materno e paterno nell’educazione moderna. Le parole di Daniele Novara",
+                "link": "https://www.orizzontescuola.it/padri-in-evoluzione-il-delicato-equilibrio-tra-codice-materno-e-paterno-nelleducazione-moderna-le-parole-di-daniele-novara/",
+                "date": "9 Mar 2025",
+                "time": "9:54",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Docente aggredito da alunno con calci e pugni, il suo drammatico racconto: “Ora ho paura a tornare in classe. Sto malissimo se ci penso”",
+                "link": "https://www.orizzontescuola.it/docente-aggredito-da-alunno-con-calci-e-pugni-il-suo-drammatico-racconto-ora-ho-paura-a-tornare-in-classe-sto-malissimo-se-ci-penso/",
+                "date": "9 Mar 2025",
+                "time": "9:42",
+                "image_link": "N/A"
+            },
             {
                 "category": "Genitori",
                 "title": "Assegno Unico: a marzo arrivano gli arretrati degli aumenti di gennaio. Se non aggiorno ISEE cosa succede?",
@@ -319,7 +359,7 @@
             },
             {
                 "category": "Comunicati stampa",
-                "title": "Supplenti sostegno confermati su scelta famiglie, per Anief è incostituzionale: “Chi insegna, non fa il badante”",
+                "title": "Supplenti sostegno confermati su scelta famiglie, per Anief è incostituzionale: “Chi insegna non fa il badante”",
                 "link": "https://www.orizzontescuola.it/supplenti-sostegno-confermati-su-scelta-famiglie-per-anief-e-incostituzionale-chi-insegna-non-fa-il-badante/",
                 "date": "8 Mar 2025",
                 "time": "16:30",
@@ -380,52 +420,20 @@
                 "date": "7 Mar 2025",
                 "time": "20:04",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Concorso studenti “Fidati della Pace. Rispettare i diritti per costruire il futuro Insieme”. Iscrizioni entro il 16 aprile",
-                "link": "https://www.orizzontescuola.it/concorso-studenti-fidati-della-pace-rispettare-i-diritti-per-costruire-il-futuro-insieme-iscrizioni-entro-il-16-aprile/",
-                "date": "7 Mar 2025",
-                "time": "19:45",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Concorso “Diffusione della cultura della legalità e promozione del merito”. Candidature entro il 15 marzo",
-                "link": "https://www.orizzontescuola.it/concorso-diffusione-della-cultura-della-legalita-e-promozione-del-merito-candidature-entro-il-15-marzo/",
-                "date": "7 Mar 2025",
-                "time": "19:30",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Focolaio “tossinfezione alimentare” in scuola del Varesotto. Gli esperti raccomandano rispetto norme igieniche",
-                "link": "https://www.orizzontescuola.it/focolaio-tossinfezione-alimentare-in-scuola-del-varesotto-gli-esperti-raccomandano-rispetto-norme-igieniche/",
-                "date": "7 Mar 2025",
-                "time": "19:02",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "La nave Amerigo Vespucci in Italia: le scuole possono organizzare attività didattiche. Nota",
-                "link": "https://www.orizzontescuola.it/la-nave-amerigo-vespucci-in-italia-le-scuole-possono-organizzare-attivita-didattiche-nota/",
-                "date": "7 Mar 2025",
-                "time": "19:00",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Concorso “STEAM: femminile plurale”: elaborati entro il 9 maggio",
-                "link": "https://www.orizzontescuola.it/concorso-steam-femminile-plurale-elaborati-entro-il-9-maggio/",
-                "date": "7 Mar 2025",
-                "time": "18:02",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Percorsi abilitanti, secondo ciclo: gli atenei pubblicano i bandi. QUESTION TIME con Bufanini [VIDEO]",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-secondo-ciclo-gli-atenei-pubblicano-i-bandi-question-time-con-bufanini-live-venerdi-7-marzo-alle-1600/",
+                "date": "7 Mar 2025",
+                "time": "15:46",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Graduatorie GPS supplenze docenti, valutazione abilitazione: punteggio aggiuntivo e classi concorso accorpate",
@@ -529,20 +537,28 @@
                 "date": "3 Mar 2025",
                 "time": "9:32",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Mobilità 2025, a breve la presentazione della domanda. Facciamo il punto. QUESTION TIME con Cozzetto (Anief)",
-                "link": "https://www.orizzontescuola.it/mobilita-2025-a-breve-la-presentazione-della-domanda-facciamo-il-punto-question-time-con-cozzetto-anief-live-lunedi-3-marzo-alle-1600/",
-                "date": "2 Mar 2025",
-                "time": "17:33",
-                "image_link": "N/A"
             }
         ]
     },
     "group_6": {
         "title": "Diventare Insegnanti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Corsi sostegno INDIRE, riunione di confronto martedì 11 marzo.  I commenti dei sindacati alle BOZZE dei testi",
+                "link": "https://www.orizzontescuola.it/corsi-sostegno-indire-riunione-di-confronto-martedi-11-marzo-i-commenti-dei-sindacati-alle-bozze-dei-testi/",
+                "date": "6 Mar 2025",
+                "time": "18:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_302086268.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Immissioni in ruolo docenti 2025/26: ecco quanti candidati ancora in graduatoria o chi è ultimo nominato [Aggiornato con SICILIA]",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2025-26-ecco-quanti-candidati-ancora-in-graduatoria-aggiornato-con-piemonte/",
+                "date": "6 Mar 2025",
+                "time": "15:47",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2151065023.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Corsi sostegno INDIRE: requisiti, CFU, ci sarà differenza tra titoli rilasciati da Università e da Indire. Costi tra 900 e 1500 euro. Chi è esonerato dal Tirocinio?",
@@ -574,22 +590,6 @@
                 "date": "5 Mar 2025",
                 "time": "21:47",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1685909200.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Prova orale concorso docenti PNRR2, come affrontarla in modo efficace: consigli e tips [VIDEO]",
-                "link": "https://www.orizzontescuola.it/prova-orale-concorso-docenti-pnrr2-come-affrontarla-in-modo-efficace-consigli-e-tips-diretta-ore-17-30/",
-                "date": "5 Mar 2025",
-                "time": "17:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Progetto-senza-titolo-2.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Elenchi aggiuntivi I fascia GPS: domande dal 14 al 29 aprile. Ecco il decreto [PDF] con tutte le info utili",
-                "link": "https://www.orizzontescuola.it/elenchi-aggiuntivi-i-fascia-gps-al-via-le-domande-dal-14-aprile-2025-ecco-il-decreto/",
-                "date": "5 Mar 2025",
-                "time": "17:12",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/09/shutterstock_1931309774.jpg"
             }
         ]
     },
