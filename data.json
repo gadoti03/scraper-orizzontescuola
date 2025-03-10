@@ -17,6 +17,38 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Plus",
+                "title": "Mobilità docenti ed ATA 2025/26: consulenza personalizzata. Prenota la tua data, disponibilità limitata",
+                "link": "https://www.orizzontescuola.it/mobilita-docenti-ed-ata-2025-26-consulenza-personalizzata-prenota-la-tua-data-disponibilita-limitata/",
+                "date": "10 Mar 2025",
+                "time": "19:25",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Mobilita-202526-2.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorsi docenti PNRR2, ISTRUZIONI presentazione titoli (non autocertificabili)",
+                "link": "https://www.orizzontescuola.it/concorsi-docenti-pnrr2-istruzioni-presentazione-titoli-non-autocertificabili/",
+                "date": "10 Mar 2025",
+                "time": "18:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Alternanza scuola-lavoro, in arrivo il cambio di nome per i PCTO. Valditara: “Nome poco comprensibile. Serve una definizione più attrattiva e immediata”",
+                "link": "https://www.orizzontescuola.it/alternanza-scuola-lavoro-in-arrivo-il-cambio-di-nome-per-i-pcto-la-svolta-di-valditara-nome-poco-comprensibile/",
+                "date": "10 Mar 2025",
+                "time": "17:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/Valditara.png"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Percorsi abilitanti e Corsi Indire sostegno, il punto della situazione. QUESTION TIME con Cannas. LIVE Martedì 11 marzo alle 14:30",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-e-corsi-indire-sostegno-il-punto-della-situazione-question-time-con-cannas-live-martedi-11-marzo-alle-1430/",
+                "date": "10 Mar 2025",
+                "time": "17:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Template_questiontime_1920x1080-5.png"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenti su posto sostegno confermati dalla famiglia per il 2025/26: chi accetta non potrà ricevere altre tipologie di supplenza",
                 "link": "https://www.orizzontescuola.it/supplenti-su-posto-sostegno-confermati-dalla-famiglia-per-il-2025-26-chi-accetta-non-potra-ricevere-altre-tipologie-di-supplenza/",
@@ -97,14 +129,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_482600299.jpg"
             },
             {
-                "category": "Plus",
-                "title": "Mobilità docenti ed ATA 2025/26: consulenza personalizzata. Prenota la tua data, disponibilità limitata",
-                "link": "https://www.orizzontescuola.it/mobilita-docenti-ed-ata-2025-26-consulenza-personalizzata-prenota-la-tua-data-disponibilita-limitata/",
-                "date": "10 Mar 2025",
-                "time": "14:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Mobilita-202526-1-1.png"
-            },
-            {
                 "category": "Diventare Insegnanti",
                 "title": "Corsi INDIRE sostegno e percorsi abilitanti da 30 e 60 CFU: possibile partecipare a entrambi?",
                 "link": "https://www.orizzontescuola.it/corsi-indire-sostegno-e-percorsi-abilitanti-da-30-e-60-cfu-possibile-partecipare-a-entrambi/",
@@ -119,7 +143,12 @@
                 "date": "10 Mar 2025",
                 "time": "11:04",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_1073116349-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Nessun limite di spesa per l’inclusione scolastica degli alunni con disabilità. La sentenza del TAR Emilia-Romagna",
@@ -143,12 +172,7 @@
                 "date": "10 Mar 2025",
                 "time": "9:59",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_2297981901.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Docenti",
                 "title": "Graduatorie GPS: servizio sostegno e classi accorpate. Valutato come specifico solo nella classe dello specifico grado",
@@ -164,14 +188,6 @@
                 "date": "10 Mar 2025",
                 "time": "9:16",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_668259205.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorsi docenti PNRR2, ISTRUZIONI presentazione titoli non autocertificabili",
-                "link": "https://www.orizzontescuola.it/concorsi-docenti-pnrr2-istruzioni-presentazione-titoli-non-autocertificabili/",
-                "date": "10 Mar 2025",
-                "time": "9:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
             },
             {
                 "category": "Docenti",
@@ -191,7 +207,7 @@
             },
             {
                 "category": "Cronaca",
-                "title": "Sati generali della scuola digitale, Perri: “Se gli studenti usano ChatGPT come se fosse una Wikipedia […] questo è un problema”. INTERVISTA",
+                "title": "Stati generali della scuola digitale, Perri: “Se gli studenti usano ChatGPT come se fosse una Wikipedia […] questo è un problema”. INTERVISTA",
                 "link": "https://www.orizzontescuola.it/sati-generali-della-scuola-digitale-perri-se-gli-studenti-usano-chatgpt-come-se-fosse-una-wikipedia-questo-e-un-problema-intervista/",
                 "date": "10 Mar 2025",
                 "time": "8:25",
@@ -269,28 +285,45 @@
                 "date": "9 Mar 2025",
                 "time": "11:42",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/pacchetto-formazione-scuola.png"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Alunna di prima media bocciata, aveva sette insufficienze. Il TAR: “Bocciatura un’eccezione”, ma dà ragione ai docenti. Ecco perché. SENTENZA",
-                "link": "https://www.orizzontescuola.it/alunna-bocciata-con-sette-insufficienze-fa-ricorso-ma-lo-perde-il-tar-bocciatura-strumento-pedagogico-da-valutare-come-opportunita-di-crescita-sentenza/",
-                "date": "9 Mar 2025",
-                "time": "11:24",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_675123196.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Mobilità docenti 2025, esiste un bollettino dei posti vacanti? Se due docenti hanno chiesto lo stesso posto, chi lo ottiene? RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/mobilita-docenti-2025-esiste-un-bollettino-dei-posti-vacanti-se-due-docenti-hanno-chiesto-lo-stesso-posto-chi-lo-ottiene-risposte-ai-quesiti/",
-                "date": "9 Mar 2025",
-                "time": "10:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_95425372.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Scuole",
+                "title": "Valorizzazione dei prodotti agrari: progetto per gli istituti a indirizzo agrario. NOTA",
+                "link": "https://www.orizzontescuola.it/valorizzazione-dei-prodotti-agrari-progetto-per-gli-istituti-a-indirizzo-agrario-nota/",
+                "date": "10 Mar 2025",
+                "time": "21:21",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Roccella, (Ministro della Famiglia): “Genitori sempre più in difficoltà nell’educare e dialogare con i propri figli, non si può delegare tutto alla scuola”",
+                "link": "https://www.orizzontescuola.it/roccella-ministro-della-famiglia-genitori-sempre-piu-in-difficolta-nelleducare-e-dialogare-con-i-propri-figli-non-si-puo-delegare-tutto-alla-scuola/",
+                "date": "10 Mar 2025",
+                "time": "20:11",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Scuole montane, indennità e punteggio aggiuntivo al personale nelle piccole isole: il 12 marzo gli emendamenti suggeriti dall’Anief al voto",
+                "link": "https://www.orizzontescuola.it/scuole-montane-indennita-e-punteggio-aggiuntivo-al-personale-inelle-piccole-isole-il-12-marzo-gli-emendamenti-suggeriti-dallanief-al-voto/",
+                "date": "10 Mar 2025",
+                "time": "18:12",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "Riparte la campagna MIM #MiStaiACuore: informare scuole, studenti e famiglie sull’uso del defibrillatore",
+                "link": "https://www.orizzontescuola.it/riparte-la-campagna-mim-mistaiacuore-informare-scuole-studenti-e-famiglie-sulluso-del-defibrillatore/",
+                "date": "10 Mar 2025",
+                "time": "17:44",
+                "image_link": "N/A"
+            },
+            null,
             {
                 "category": "Comunicati stampa",
                 "title": "Organici ATA, domani sindacati convocati. Anief reputa il taglio del tutto immotivato, rilancia organico aggiuntivo e nuovi profili",
@@ -393,46 +426,6 @@
                 "link": "https://www.orizzontescuola.it/spray-al-peperoncino-in-istituto-scolastico-evacuazione-e-studenti-ospedalizzati/",
                 "date": "10 Mar 2025",
                 "time": "13:21",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Docente aggredito nel Milanese, il Ministro Valditara lo contatta telefonicamente: “Solidarietà per quanto accaduto”",
-                "link": "https://www.orizzontescuola.it/docente-aggredito-nel-milanese-il-ministro-valditara-lo-contatta-telefonica-solidarieta-per-quanto-accaduto/",
-                "date": "10 Mar 2025",
-                "time": "13:12",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Legge sulla parità scolastica, dopo 25 anni serve piena attuazione. L’appello di Kaladich (Fidae)",
-                "link": "https://www.orizzontescuola.it/legge-sulla-parita-scolastica-dopo-25-anni-serve-piena-attuazione-lappello-di-kaladich-fidae/",
-                "date": "10 Mar 2025",
-                "time": "12:52",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Allarme snus a scuola: due alunne tredicenni in ospedale dopo aver assunto tabacco in polvere",
-                "link": "https://www.orizzontescuola.it/allarme-snus-a-scuola-due-alunne-tredicenni-in-ospedale-dopo-aver-assunto-tabacco-in-polvere/",
-                "date": "10 Mar 2025",
-                "time": "12:41",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Fenomeno Hikikomori, genitori, studenti e associazioni lanciano una campagna di sensibilizzazione",
-                "link": "https://www.orizzontescuola.it/fenomeno-hikikomori-genitori-studenti-e-associazioni-lanciano-una-campagna-di-sensibilizzazione/",
-                "date": "10 Mar 2025",
-                "time": "12:15",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Corsi INDIRE sostegno, Pittoni (Lega): “L’ente non è un’università, ma rappresenta un’opzione aggiuntiva per i percorsi”",
-                "link": "https://www.orizzontescuola.it/corsi-indire-sostegno-pittoni-lega-lente-non-e-ununiversita-ma-rappresenta-unopzione-aggiuntiva-per-i-percorsi/",
-                "date": "10 Mar 2025",
-                "time": "12:08",
                 "image_link": "N/A"
             }
         ]
