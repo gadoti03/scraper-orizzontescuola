@@ -17,6 +17,14 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Chiedilo a Lalla",
+                "title": "Percorsi abilitanti 30, 36, 60 CFU: tanti dubbi, poco tempo per le iscrizioni, mancano classi di concorso. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-30-36-60-cfu-tanti-dubbi-poco-tempo-per-le-iscrizioni-mancano-classi-di-concorso-risposte-ai-quesiti/",
+                "date": "10 Mar 2025",
+                "time": "22:13",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_163768811.jpg"
+            },
+            {
                 "category": "Plus",
                 "title": "Mobilità docenti ed ATA 2025/26: consulenza personalizzata. Prenota la tua data, disponibilità limitata",
                 "link": "https://www.orizzontescuola.it/mobilita-docenti-ed-ata-2025-26-consulenza-personalizzata-prenota-la-tua-data-disponibilita-limitata/",
@@ -135,7 +143,12 @@
                 "date": "10 Mar 2025",
                 "time": "11:32",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_1831747288.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Politica scolastica",
                 "title": "Precariato, dalla Corte Europea può arrivare la sentenza sul riconoscimento dell’anzianità di servizio. In ballo 300mila docenti e oltre 2 miliardi di arretrati",
@@ -143,12 +156,7 @@
                 "date": "10 Mar 2025",
                 "time": "11:04",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_1073116349-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "Nessun limite di spesa per l’inclusione scolastica degli alunni con disabilità. La sentenza del TAR Emilia-Romagna",
@@ -277,20 +285,28 @@
                 "date": "9 Mar 2025",
                 "time": "12:26",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/11/hamburg-2687544_1280-1200x800.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Docenti scuole all’estero, BANDO in Gazzetta Ufficiale: requisiti e FAQ. Domanda entro il 3 aprile",
-                "link": "https://www.orizzontescuola.it/docenti-scuole-allestero-bando-in-gazzetta-ufficiale-requisiti-e-modalita-di-presentazione-della-domanda/",
-                "date": "9 Mar 2025",
-                "time": "11:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/pacchetto-formazione-scuola.png"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "A Napoli scuola chiusa per alta concentrazione di CO₂",
+                "link": "https://www.orizzontescuola.it/a-napoli-scuola-chiusa-per-alta-concentrazione-di-co%e2%82%82/",
+                "date": "10 Mar 2025",
+                "time": "22:14",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "25 anni dalla legge sulla parità scolastica, Suor Alfieri: “Dagli stipendi più bassi dei docenti ai pagamenti IMU, ad oggi poco è cambiato”",
+                "link": "https://www.orizzontescuola.it/25-anni-dalla-legge-sulla-parita-scolastica-suor-alfieri-dagli-stipendi-piu-bassi-dei-docenti-ai-pagamenti-imu-ad-oggi-poco-e-cambiato/",
+                "date": "10 Mar 2025",
+                "time": "21:33",
+                "image_link": "N/A"
+            },
             {
                 "category": "Scuole",
                 "title": "Valorizzazione dei prodotti agrari: progetto per gli istituti a indirizzo agrario. NOTA",
@@ -410,22 +426,6 @@
                 "link": "https://www.orizzontescuola.it/mobilita-docenti-2025-ecco-a-cosa-fare-attenzione-per-compilare-bene-la-domanda-question-time-con-craparo-gilda-live-lunedi-10-marzo-alle-1430/",
                 "date": "10 Mar 2025",
                 "time": "13:33",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“La PA come spina dorsale del sistema”, il ministro Zangrillo annuncia rivoluzione digitale e formativa",
-                "link": "https://www.orizzontescuola.it/la-pa-come-spina-dorsale-del-sistema-il-ministro-zangrillo-annuncia-rivoluzione-digitale-e-formativa/",
-                "date": "10 Mar 2025",
-                "time": "13:22",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Spray al peperoncino in istituto scolastico: evacuazione e studenti ospedalizzati",
-                "link": "https://www.orizzontescuola.it/spray-al-peperoncino-in-istituto-scolastico-evacuazione-e-studenti-ospedalizzati/",
-                "date": "10 Mar 2025",
-                "time": "13:21",
                 "image_link": "N/A"
             }
         ]
@@ -552,6 +552,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Concorso infanzia e primaria PNRR2, ecco il VOTO minimo per la prova orale: da 70 a 98 [COMPLETO]",
+                "link": "https://www.orizzontescuola.it/concorso-infanzia-e-primaria-ecco-il-voto-minimo-per-accedere-alla-prova-orale-per-ogni-posto-in-aggiornamento/",
+                "date": "7 Mar 2025",
+                "time": "16:51",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_34528768.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Percorsi abilitanti 2024/25, a quale percorso devono iscriversi i candidati concorso PNRR2 che hanno “superato” prova scritta",
                 "link": "https://www.orizzontescuola.it/percorsi-abilitanti-2024-25-a-quale-percorso-devono-iscriversi-i-candidati-concorso-pnrr2-che-hanno-superato-prova-scritta/",
                 "date": "7 Mar 2025",
@@ -589,14 +597,6 @@
                 "date": "7 Mar 2025",
                 "time": "8:09",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_1448118503.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Corsi sostegno INDIRE, riunione di confronto martedì 11 marzo.  I commenti dei sindacati alle BOZZE dei testi",
-                "link": "https://www.orizzontescuola.it/corsi-sostegno-indire-riunione-di-confronto-martedi-11-marzo-i-commenti-dei-sindacati-alle-bozze-dei-testi/",
-                "date": "6 Mar 2025",
-                "time": "18:24",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_302086268.jpg"
             }
         ]
     },
