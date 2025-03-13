@@ -24,12 +24,52 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Docenti",
+                "title": "Mobilità 25/26, sezione “scelta tipo posto”: cosa inserire per i vari gradi di istruzione. GUIDA PER IMMAGINI",
+                "link": "https://www.orizzontescuola.it/mobilita-25-26-sezione-scelta-tipo-posto-cosa-inserire-per-i-vari-gradi-di-istruzione-guida-per-immagini/",
+                "date": "13 Mar 2025",
+                "time": "20:57",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Docenti",
+                "title": "Graduatorie interne di istituto docenti 2025, 4 o 5 punti per la continuità del servizio nei primi tre anni?",
+                "link": "https://www.orizzontescuola.it/graduatorie-interne-di-istituto-docenti-2025-4-o-5-punti-per-la-continuita-del-servizio-nei-primi-tre-anni/",
+                "date": "13 Mar 2025",
+                "time": "19:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_141189550-scaled.jpg"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Allerta meteo venerdì 14 marzo, scuole chiuse in diversi comuni di Emilia Romagna e Toscana. ELENCO IN AGGIORNAMENTO",
                 "link": "https://www.orizzontescuola.it/allerta-meteo-rossa-in-emilia-romagna-il-14-marzo-scuole-chiuse-a-bologna-e-altri-comuni/",
                 "date": "13 Mar 2025",
-                "time": "17:22",
+                "time": "19:11",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/Allerta_Meteo.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Percorsi abilitanti scuola secondaria anno accademico 2024/25: quale sceglie chi ha partecipato al concorso PNRR2",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-scuola-secondaria-anno-accademico-2024-25-quale-sceglie-chi-ha-partecipato-al-concorso-pnrr2/",
+                "date": "13 Mar 2025",
+                "time": "18:13",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_2102451475.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR2 infanzia e primaria, iniziano prove orali. Ecco le CONVOCAZIONI",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr2-infanzia-e-primaria-iniziano-prove-orali-dal-20-marzo-in-lombardia-per-posto-comune-primaria-la-convocazione/",
+                "date": "13 Mar 2025",
+                "time": "17:37",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_482600299.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Percorsi abilitanti ITP vincitori di concorso: 30 o 36 CFU? [AGGIORNATO con nuova nota USR SICILIA]",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-itp-vincitori-di-concorso-30-o-36-cfu/",
+                "date": "13 Mar 2025",
+                "time": "17:31",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_96602686.jpg"
             },
             {
                 "category": "ATA",
@@ -110,15 +150,12 @@
                 "date": "13 Mar 2025",
                 "time": "12:53",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_392166814.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR2 infanzia e primaria, iniziano prove orali. Ecco le CONVOCAZIONI",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr2-infanzia-e-primaria-iniziano-prove-orali-dal-20-marzo-in-lombardia-per-posto-comune-primaria-la-convocazione/",
-                "date": "13 Mar 2025",
-                "time": "12:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_482600299.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Stipendio",
                 "title": "Rinnovi contratti Pubblico Impiego (compreso Istruzione), 10 miliardi per il 2025-27, 11 miliardi per il 2028-30. Aran conferma: “Fondi per sei anni, regolarità ristabilita”",
@@ -150,12 +187,7 @@
                 "date": "13 Mar 2025",
                 "time": "11:34",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Mobilità docenti 2025: dalle deroghe alle precedenze. Le risposte alle vostre domande",
@@ -246,46 +278,47 @@
             },
             null,
             null,
-            null,
-            {
-                "category": "Docenti",
-                "title": "Mobilità docenti 2025: servizio, esigenze di famiglia e titoli: tutto va indicato con precisione. Pillole di QuestionTime",
-                "link": "https://www.orizzontescuola.it/mobilita-docenti-2025-servizio-esigenze-di-famiglia-e-titoli-tutto-va-indicato-con-precisione-pillole-di-questiontime/",
-                "date": "12 Mar 2025",
-                "time": "20:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2501727439-1.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "“Educazione motoria in tutte le classi della scuola primaria. Aumento delle ore da 2 a 3 e più insegnanti”. Il piano Abodi per avere “più sport a scuola”",
-                "link": "https://www.orizzontescuola.it/piu-sport-a-scuola-il-piano-abodi-educazione-motoria-in-tutte-le-classi-della-scuola-primaria-aumento-delle-ore-da-2-a-3-e-piu-insegnanti/",
-                "date": "12 Mar 2025",
-                "time": "19:14",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/Abodi.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Schettini: “Invece che investire sulla tecnologia date fondi per la formazione degli insegnanti. Fate loro girare il mondo”. E sul registro elettronico: “Non responsabilizza gli studenti”",
-                "link": "https://www.orizzontescuola.it/vincenzo-schettini-invece-che-investire-sulla-tecnologia-date-fondi-per-la-formazione-degli-insegnanti-fate-loro-girare-il-mondo-e-sul-registro-elettronico-non-responsabilizza-gli-studenti/",
-                "date": "12 Mar 2025",
-                "time": "19:02",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Screenshot-2025-03-12-alle-18.58.16.png"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Percorsi abilitanti 2024/25: quale percorso scelgono i candidati che non hanno ancora la graduatoria del PNRR1?",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-2024-25-quale-percorso-scelgono-i-candidati-che-non-hanno-ancora-la-graduatoria-del-pnrr1/",
-                "date": "12 Mar 2025",
-                "time": "18:35",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2471325395.jpg"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
             {
-                "category": "Nessuna categoria",
+                "category": "Cronaca",
+                "title": "Terremoto Campi Flegrei: scuole chiuse a Pozzuoli anche venerdì 14 marzo dopo il forte sisma",
+                "link": "https://www.orizzontescuola.it/terremoto-campi-flegrei-scuole-chiuse-a-pozzuoli-anche-venerdi-14-marzo-dopo-il-forte-sisma/",
+                "date": "13 Mar 2025",
+                "time": "21:17",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Docenti di sostegno denunciano: “Inaccettabile negare il nostro supporto agli alunni durante le verifiche”",
+                "link": "https://www.orizzontescuola.it/docenti-di-sostegno-denunciano-inaccettabile-negare-il-nostro-supporto-agli-alunni-durante-le-verifiche/",
+                "date": "13 Mar 2025",
+                "time": "20:26",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Docenti che “denunciano e segnalano” gli studenti. Polemica in Trentino su protocollo con la Procura dei Minori. Protestano gli Ordini professionali",
+                "link": "https://www.orizzontescuola.it/docenti-che-denunciano-e-segnalano-gli-studenti-polemica-in-trentino-su-protocollo-con-la-procura-dei-minori-protestano-gli-ordini-professionali/",
+                "date": "13 Mar 2025",
+                "time": "20:10",
+                "image_link": "N/A"
+            },
+            null,
+            {
+                "category": "Cronaca",
+                "title": "Nuove regole per la valutazione e la carriera nella PA, il governo dà l’ok al DDL Merito. Zangrillo: “Passo importante che riconosce la centralità delle persone”",
+                "link": "https://www.orizzontescuola.it/nuove-regole-per-la-valutazione-e-la-carriera-nella-pa-il-governo-da-lok-al-ddl-merito-zangrillo-passo-importante-che-riconosce-la-centralita-delle-persone/",
+                "date": "13 Mar 2025",
+                "time": "17:30",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
                 "title": "Docenti precari in piazza venerdì 14 marzo: mobilitazione nazionale contro il sistema di reclutamento",
                 "link": "https://www.orizzontescuola.it/docenti-precari-in-piazza-venerdi-14-marzo-mobilitazione-nazionale-contro-il-sistema-di-reclutamento/",
                 "date": "13 Mar 2025",
@@ -387,52 +420,20 @@
                 "date": "13 Mar 2025",
                 "time": "12:28",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "USR Lazio: un contest fotografico per celebrare la Giornata Nazionale del Paesaggio del 14 marzo",
-                "link": "https://www.orizzontescuola.it/usr-lazio-un-contest-fotografico-per-celebrare-la-giornata-nazionale-del-paesaggio-del-14-marzo/",
-                "date": "13 Mar 2025",
-                "time": "12:25",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Mobilità docenti 2025, la gestione degli allegati e non solo. Tutte le info utili. QUESTION TIME con Vannini (Uil Scuola Rua) [VIDEO]",
-                "link": "https://www.orizzontescuola.it/mobilita-docenti-2025-la-gestione-degli-allegati-e-non-solo-tutte-le-info-utili-question-time-con-vannini-uil-scuola-rua-live-giovedi-13-marzo-alle-1430/",
-                "date": "13 Mar 2025",
-                "time": "12:05",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Nessuna categoria",
-                "title": "A Firenze la scuola vista dagli studenti, l’esperimento dei messaggi anonimi per migliorare il dialogo con docenti e ATA",
-                "link": "https://www.orizzontescuola.it/a-firenze-la-scuola-vista-dagli-studenti-lesperimento-dei-messaggi-anonimi-per-migliorare-il-dialogo-con-docenti-e-ata/",
-                "date": "13 Mar 2025",
-                "time": "11:52",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Fontana: “Criminalità minorile allarmante, educazione in famiglia e a scuola centrale per prevenzione e recupero”",
-                "link": "https://www.orizzontescuola.it/fontana-criminalita-minorile-allarmante-educazione-in-famiglia-e-a-scuola-centrale-per-prevenzione-e-recupero/",
-                "date": "13 Mar 2025",
-                "time": "11:24",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Insegnare all’estero, domande fino al 3 aprile: posti, requisiti e prove. QUESTION TIME con Luongo e Di Bianco (Uil Scuola Rua) [VIDEO]",
-                "link": "https://www.orizzontescuola.it/insegnare-allestero-domande-fino-al-3-aprile-posti-requisiti-e-prove-question-time-con-luongo-e-di-bianco-uil-scuola-rua-live-giovedi-13-marzo-alle-1530/",
-                "date": "13 Mar 2025",
-                "time": "11:22",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Percorsi abilitanti 2024/25: quale percorso scelgono i candidati che non hanno ancora la graduatoria del PNRR1?",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-2024-25-quale-percorso-scelgono-i-candidati-che-non-hanno-ancora-la-graduatoria-del-pnrr1/",
+                "date": "12 Mar 2025",
+                "time": "18:35",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Percorsi abilitanti e Corsi Indire, opportunità di abilitazione su materia e specializzazione sostegno. Ma i dubbi sono ancora tanti. RISPOSTE AI QUESITI",
@@ -536,28 +537,12 @@
                 "date": "7 Mar 2025",
                 "time": "9:09",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Graduatorie GPS sostegno prima fascia 2025: punteggio abilitazione prescinde dal titolo di accesso al corso (diploma o laurea)",
-                "link": "https://www.orizzontescuola.it/graduatorie-gps-sostegno-prima-fascia-2025-punteggio-abilitazione-prescinde-dal-titolo-di-accesso-al-corso-diploma-o-laurea/",
-                "date": "6 Mar 2025",
-                "time": "10:00",
-                "image_link": "N/A"
             }
         ]
     },
     "group_6": {
         "title": "Diventare Insegnanti",
         "articles": [
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Docenti neoassunti da concorso PNRR1 non abilitati: l’anno di prova e formazione nel 2025/26. Chiarimenti",
-                "link": "https://www.orizzontescuola.it/docenti-neoassunti-da-concorso-pnrr1-non-abilitati-lanno-di-prova-e-formazione-nel-2025-26-chiarimenti/",
-                "date": "11 Mar 2025",
-                "time": "18:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_341870168-scaled.jpg"
-            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Specializzazione sul sostegno Indire: ecco il fabbisogno per Regione. La TABELLA: 52.622 posti",
@@ -597,12 +582,28 @@
                 "date": "11 Mar 2025",
                 "time": "8:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2478696259.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenti su posto sostegno confermati dalla famiglia per il 2025/26: chi accetta non potrà ricevere altre tipologie di supplenza",
+                "link": "https://www.orizzontescuola.it/supplenti-su-posto-sostegno-confermati-dalla-famiglia-per-il-2025-26-chi-accetta-non-potra-ricevere-altre-tipologie-di-supplenza/",
+                "date": "10 Mar 2025",
+                "time": "17:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2480765345.jpg"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
+            {
+                "category": "ATA",
+                "title": "Organici ATA, nel 2025/26 ci sarà il nuovo profilo di operatore scolastico. Ministero propone 17mila posti per la mobilità verticale",
+                "link": "https://www.orizzontescuola.it/organici-ata-nel-2025-26-ci-sara-il-nuovo-profilo-di-operatore-scolastico-ministero-propone-17mila-posti-per-la-mobilita-verticale/",
+                "date": "11 Mar 2025",
+                "time": "19:03",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2198390061.jpg"
+            },
             {
                 "category": "ATA",
                 "title": "Personale ATA, come cambiano i criteri per la definizione degli organici dei prossimi anni scolastici [TABELLE]",
@@ -642,14 +643,6 @@
                 "date": "3 Mar 2025",
                 "time": "20:03",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2198390061.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "“Intelligenza artificiale e digitale al servizio delle segreterie scolastiche, ecco come”. INTERVISTA a Barbieri",
-                "link": "https://www.orizzontescuola.it/intelligenza-artificiale-e-digitale-al-servizio-delle-segreterie-scolastiche-ecco-come-intervista-a-barbieri/",
-                "date": "24 Feb 2025",
-                "time": "8:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Screenshot-2025-02-21-alle-14.53.09.png"
             }
         ]
     },
