@@ -3,26 +3,53 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "“Gli studenti vedono gli insegnanti come usciti dalle caverne. La noia è il più grande problema della scuola”. INTERVISTA a Federico Tonioni",
+                "link": "https://www.orizzontescuola.it/gli-studenti-vedono-gli-insegnanti-come-usciti-dalle-caverne-la-noia-e-il-piu-grande-problema-della-scuola-intervista-a-federico-tonioni/",
+                "date": "15 Mar 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_160678145.jpg"
+            },
+            {
                 "category": "ATA",
                 "title": "Graduatorie terza fascia ATA, verso proroga CIAD al 30 maggio, ma non è sufficiente: ecco perché. Rilasciate solo circa 200mila certificazioni",
                 "link": "https://www.orizzontescuola.it/graduatorie-terza-fascia-ata-verso-proroga-ciad-al-30-maggio-ma-non-e-sufficiente-ecco-perche-rilasciate-solo-circa-200mila-certificazioni/",
                 "date": "14 Mar 2025",
                 "time": "8:55",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_117139291.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Specializzazione sostegno INDIRE, quando ci si iscrive?  Ad aprile “gli esteri”, poi i “triennalisti”. VIDEO INTERVISTA",
-                "link": "https://www.orizzontescuola.it/specializzazione-sostegno-indire-quando-ci-si-iscrive-si-punta-a-partire-gia-da-aprile-per-gli-esteri-per-i-triennalisti-intreccio-con-tfa-sostegno-cosa-sappiamo/",
-                "date": "13 Mar 2025",
-                "time": "8:52",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_2281563893.jpg"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
+            {
+                "category": "Cronaca",
+                "title": "Le nuove indicazioni. La Storia. Cinque domande a Galli Della Loggia",
+                "link": "https://www.orizzontescuola.it/le-nuove-indicazioni-la-storia-cinque-domande-a-galli-della-loggia/",
+                "date": "15 Mar 2025",
+                "time": "8:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2290117007.jpg"
+            },
+            {
+                "category": "Guide",
+                "title": "Richiesta Part time per il 2025/26. Docenti e ATA, domanda scade oggi 15 marzo. GUIDA",
+                "link": "https://www.orizzontescuola.it/part-time-docenti-e-ata-guida-presentazione-domande-entro-il-15-marzo/",
+                "date": "15 Mar 2025",
+                "time": "7:47",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
+            },
+            null,
+            null,
+            {
+                "category": "Plus",
+                "title": "Mobilità docenti ed ATA 2025/26: consulenza personalizzata. Prenota la tua data, disponibilità limitata",
+                "link": "https://www.orizzontescuola.it/mobilita-docenti-ed-ata-2025-26-consulenza-personalizzata-prenota-la-tua-data-disponibilita-limitata/",
+                "date": "15 Mar 2025",
+                "time": "6:25",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Mobilita-202526-2.png"
+            },
             {
                 "category": "Scuole",
                 "title": "Conto consuntivo 2024, proroga di 30 giorni di tutti i termini: le nuove scadenze. NOTA",
@@ -102,7 +129,12 @@
                 "date": "14 Mar 2025",
                 "time": "15:18",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Screenshot-2025-03-14-alle-15.15.35.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Politica scolastica",
                 "title": "Ferrari (Anquap): “Aumenta il lavoro e diminuiscono le risorse, ma i DSGA sono figure centrali dell’ufficio di segreteria. Servono più risorse e non tagli”. INTERVISTA",
@@ -150,12 +182,7 @@
                 "date": "14 Mar 2025",
                 "time": "13:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_1845825403.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "ATA",
                 "title": "Concorso ATA Trento per collaboratori scolastici: domande in scadenza il 17 marzo. Istanze anche per graduatorie d’istituto",
@@ -251,60 +278,37 @@
                 "date": "14 Mar 2025",
                 "time": "9:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_2322360439.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Mobilità personale ATA 2025/26: domande al via su Istanze online. MODULI, autodichiarazioni ed elenchi ufficiali",
-                "link": "https://www.orizzontescuola.it/mobilita-personale-ata-2025-26-domande-al-via-su-istanze-online-moduli-autodichiarazioni-ed-elenchi-ufficiali/",
-                "date": "14 Mar 2025",
-                "time": "9:09",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Screenshot-2025-03-14-091314.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Abilitazione all’insegnamento nella scuola secondaria: titolo valido per supplenze e concorsi, come muoversi. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/abilitazione-allinsegnamento-quando-lavro-conseguita-cosa-potro-farci-dalle-supplenze-alle-assunzioni-come-muoversi/",
-                "date": "14 Mar 2025",
-                "time": "8:51",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_96451259-1.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Brain-rot digitale, al via il primo corso per docenti contro il deterioramento cerebrale. Iscrizioni aperte fino al 23 marzo",
-                "link": "https://www.orizzontescuola.it/brain-rot-digitale-al-via-il-primo-corso-per-docenti-contro-il-deterioramento-cerebrale-iscrizioni-aperte-fino-al-23-marzo/",
-                "date": "14 Mar 2025",
-                "time": "8:51",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/shutterstock_2473233657-scaled.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Mobilità docenti 2025: come si indicano gli anni di preruolo su sostegno nel modello D",
-                "link": "https://www.orizzontescuola.it/compilazione-del-modello-d-indicazione-degli-anni-di-preruolo-su-sostegno/",
-                "date": "14 Mar 2025",
-                "time": "8:32",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2120807768.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Graduatoria interna di istituto docenti 2025/26: modelli, punteggi, risposte ai quesiti [LO SPECIALE]",
-                "link": "https://www.orizzontescuola.it/graduatoria-interna-di-istituto-2025-26-nuovi-punteggi-e-nuove-regole-per-i-docenti-chi-perde-il-posto-lo-speciale/",
-                "date": "14 Mar 2025",
-                "time": "8:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_152523980.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "La violazione della privacy ed il corretto utilizzo del protocollo nella trasmissione del procedimento disciplinare",
-                "link": "https://www.orizzontescuola.it/la-violazione-della-privacy-ed-il-corretto-utilizzo-del-protocollo-nella-trasmissione-del-procedimento-disciplinare/",
-                "date": "14 Mar 2025",
-                "time": "8:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_1249914946.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Crepet agli studenti: “Bisogna inseguire l’orizzonte, non conquistarlo”",
+                "link": "https://www.orizzontescuola.it/crepet-agli-studenti-bisogna-inseguire-lorizzonte-non-conquistarlo/",
+                "date": "15 Mar 2025",
+                "time": "8:37",
+                "image_link": "N/A"
+            },
+            null,
+            {
+                "category": "Cronaca",
+                "title": "“Coltiviamo nei giovani l’amore per la lettura”. L’impegno di Randazzo dal Premio Navarro, a Libriamoci, al viaggio in Argentina",
+                "link": "https://www.orizzontescuola.it/coltiviamo-nei-giovani-lamore-per-la-lettura-limpegno-di-randazzo-dal-premio-navarro-a-libriamoci-al-viaggio-in-argentina/",
+                "date": "15 Mar 2025",
+                "time": "7:42",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Conte: “800 miliardi in armi, messaggio sbagliato per i giovani. Investire su istruzione e lavoro”",
+                "link": "https://www.orizzontescuola.it/conte-800-miliardi-in-armi-messaggio-sbagliato-per-i-giovani-investire-su-istruzione-e-lavoro/",
+                "date": "15 Mar 2025",
+                "time": "7:29",
+                "image_link": "N/A"
+            },
             null,
             {
                 "category": "Politica scolastica",
@@ -395,39 +399,7 @@
                 "time": "14:03",
                 "image_link": "N/A"
             },
-            null,
-            {
-                "category": "Cronaca",
-                "title": "ITS Academy e Università, nuove sinergie per l’occupazione e lo sviluppo tecnologico",
-                "link": "https://www.orizzontescuola.it/its-academy-e-universita-nuove-sinergie-per-loccupazione-e-lo-sviluppo-tecnologico/",
-                "date": "14 Mar 2025",
-                "time": "12:29",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Studenti",
-                "title": "Bonus psicologo 2025 per gli studenti del Friuli Venezia Giulia: 225 euro per 5 sedute. Chi può richiederlo e come fare domanda",
-                "link": "https://www.orizzontescuola.it/bonus-psicologo-2025-per-gli-studenti-del-friuli-venezia-giulia-225-euro-per-5-sedute-chi-puo-richiederlo-e-come-fare-domanda/",
-                "date": "14 Mar 2025",
-                "time": "12:08",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Il Premio Nobel Giorgio Parisi sull’intelligenza artificiale: “La fruizione gratuita di notizie generate da algoritmi può portare al fallimento dei giornali”",
-                "link": "https://www.orizzontescuola.it/il-premio-nobel-giorgio-parisi-prende-in-giro-lintelligenza-artificiale-sei-sicuro-che-4x5-faccia-20-il-fisico-ia-e-un-pappagallo-stocastico/",
-                "date": "14 Mar 2025",
-                "time": "11:59",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Giornata del sonno, gli esperti: ai bambini tra i 6 e i 13 anni servono 9-11 ore a notte",
-                "link": "https://www.orizzontescuola.it/giornata-del-sonno-gli-esperti-ai-bambini-tra-i-6-e-i-13-anni-servono-9-11-ore-a-notte/",
-                "date": "14 Mar 2025",
-                "time": "11:28",
-                "image_link": "N/A"
-            }
+            null
         ]
     },
     "group_5": {
@@ -576,6 +548,14 @@
             },
             {
                 "category": "Diventare Insegnanti",
+                "title": "Specializzazione sostegno INDIRE, quando ci si iscrive?  Ad aprile “gli esteri”, poi i “triennalisti”. VIDEO INTERVISTA",
+                "link": "https://www.orizzontescuola.it/specializzazione-sostegno-indire-quando-ci-si-iscrive-si-punta-a-partire-gia-da-aprile-per-gli-esteri-per-i-triennalisti-intreccio-con-tfa-sostegno-cosa-sappiamo/",
+                "date": "13 Mar 2025",
+                "time": "8:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_2281563893.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Corsi abilitanti per l’insegnamento: posso presentare più domande? Sì, ma non sempre. Ecco i casi. Pillole di QuestionTime",
                 "link": "https://www.orizzontescuola.it/corsi-abilitanti-per-linsegnamento-posso-presentare-piu-domande-si-ma-non-sempre-ecco-i-casi/",
                 "date": "13 Mar 2025",
@@ -589,14 +569,6 @@
                 "date": "12 Mar 2025",
                 "time": "15:05",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_163768811.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti vincitori PNRR: per alcuni impossibile conseguire i CFU nella regione del concorso. La soluzione? Solo sulla carta",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-vincitori-pnrr-per-alcuni-impossibile-conseguire-i-cfu-nella-regione-del-concorso-la-soluzione-solo-sulla-carta/",
-                "date": "12 Mar 2025",
-                "time": "12:19",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/Classe-4.jpeg"
             }
         ]
     },
