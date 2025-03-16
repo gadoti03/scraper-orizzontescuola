@@ -3,26 +3,28 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
-                "category": "Cronaca",
-                "title": "“Gli studenti vedono gli insegnanti come usciti dalle caverne. La noia è il più grande problema della scuola”. INTERVISTA a Federico Tonioni",
-                "link": "https://www.orizzontescuola.it/gli-studenti-vedono-gli-insegnanti-come-usciti-dalle-caverne-la-noia-e-il-piu-grande-problema-della-scuola-intervista-a-federico-tonioni/",
-                "date": "15 Mar 2025",
+                "category": "Diventare Insegnanti",
+                "title": "Concorsi: riserva del 15% anche per il Servizio civile nazionale e nelle graduatorie saranno evidenziate riserve, precedenze e preferenze. NOVITÀ Decreto PA in Gazzetta",
+                "link": "https://www.orizzontescuola.it/graduatorie-docenti-saranno-evidenziate-riserve-precedenze-e-preferenze-e-varra-anche-servizio-civile-nazionale-novita-decreto-pa-in-gazzetta/",
+                "date": "16 Mar 2025",
                 "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Progetto-senza-titolo-2-1.png"
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1669106749.jpg"
             },
-            {
-                "category": "ATA",
-                "title": "Graduatorie terza fascia ATA, verso proroga CIAD al 30 maggio, ma non è sufficiente: ecco perché. Rilasciate solo circa 200mila certificazioni",
-                "link": "https://www.orizzontescuola.it/graduatorie-terza-fascia-ata-verso-proroga-ciad-al-30-maggio-ma-non-e-sufficiente-ecco-perche-rilasciate-solo-circa-200mila-certificazioni/",
-                "date": "14 Mar 2025",
-                "time": "8:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_117139291.jpg"
-            }
+            null
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Segui le notizie sul mondo della scuola: tutti i canali disponibili",
+                "link": "https://www.orizzontescuola.it/segui-le-notizie-sul-mondo-della-scuola-tutti-i-canali-disponibili/",
+                "date": "16 Mar 2025",
+                "time": "7:54",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/Progetto-senza-titolo-1-1.png"
+            },
+            null,
             {
                 "category": "ATA",
                 "title": "Mobilità personale ATA 2025/26: come presentare la domanda. GUIDA Ministero",
@@ -38,14 +40,6 @@
                 "date": "15 Mar 2025",
                 "time": "18:19",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/05/Formazione-concorso-infanzia-primaria-secondaria.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorsi: riserva del 15% anche per il Servizio civile nazionale e nelle graduatorie saranno evidenziate riserve, precedenze e preferenze. NOVITÀ Decreto PA in Gazzetta",
-                "link": "https://www.orizzontescuola.it/graduatorie-docenti-saranno-evidenziate-riserve-precedenze-e-preferenze-e-varra-anche-servizio-civile-nazionale-novita-decreto-pa-in-gazzetta/",
-                "date": "15 Mar 2025",
-                "time": "18:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1669106749.jpg"
             },
             {
                 "category": "Cronaca",
@@ -142,7 +136,12 @@
                 "date": "15 Mar 2025",
                 "time": "9:48",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/shutterstock_64286479-1.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Vincitori concorso PNRR1 cercano un percorso abilitante per non perdere il ruolo: numero chiuso, classi di concorso non attive…. altre in attesa di accreditamento senza data!",
@@ -150,12 +149,7 @@
                 "date": "15 Mar 2025",
                 "time": "9:38",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_388588420.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             null,
             {
                 "category": "Cronaca",
@@ -164,6 +158,14 @@
                 "date": "15 Mar 2025",
                 "time": "8:15",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2290117007.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“Gli studenti vedono gli insegnanti come usciti dalle caverne. La noia è il più grande problema della scuola”. INTERVISTA a Federico Tonioni",
+                "link": "https://www.orizzontescuola.it/gli-studenti-vedono-gli-insegnanti-come-usciti-dalle-caverne-la-noia-e-il-piu-grande-problema-della-scuola-intervista-a-federico-tonioni/",
+                "date": "15 Mar 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Progetto-senza-titolo-2-1.png"
             },
             {
                 "category": "Guide",
@@ -262,28 +264,28 @@
                 "date": "14 Mar 2025",
                 "time": "15:14",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Screenshot-2025-03-14-alle-15.10.08.png"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Meravigliosamente strani”, la docente fa supplenza in una classe con studenti senza smartphone. Sui social è polemica: “Senza cellulare nel 2025 è un abominio”, “Giusta la ribellione digitale”",
-                "link": "https://www.orizzontescuola.it/meravigliosamente-strani-la-docente-fa-supplenza-in-una-classe-con-studenti-senza-smartphone-sui-social-e-polemica-senza-cellulare-nel-2025-e-un-abominio-giusta-la-ribellione-digitale/",
-                "date": "14 Mar 2025",
-                "time": "14:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2464186563.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Intelligenza artificiale a scuola, convegno Uil Scuola a Fiera Didacta. D’Aprile: “Insegnare ai ragazzi che l’IA è uno strumento al servizio dell’uomo”",
-                "link": "https://www.orizzontescuola.it/intelligenza-artificiale-a-scuola-convegno-uil-scuola-a-fiera-didacta-daprile-insegnare-ai-ragazzi-che-lia-e-uno-strumento-al-servizio-dleluomo/",
-                "date": "14 Mar 2025",
-                "time": "14:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_638342005.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "“La mamma mi picchia con una scarpa”, intervengono le maestre. Madre a processo",
+                "link": "https://www.orizzontescuola.it/la-mamma-mi-picchia-con-una-scarpa-intervengono-le-maestre-madre-a-processo/",
+                "date": "16 Mar 2025",
+                "time": "8:40",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Studente bestemmia a scuola e viene sospeso dalle attività extrascolastiche. La madre: “Non vuole più andare a scuola, sta vivendo un disagio psicologico”",
+                "link": "https://www.orizzontescuola.it/studente-bestemmia-a-scuola-e-viene-sospeso-dalle-attivita-extrascolastiche-la-madre-non-vuole-piu-andare-a-scuola-sta-vivendo-un-disagio-psicologico/",
+                "date": "16 Mar 2025",
+                "time": "8:19",
+                "image_link": "N/A"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Aggressioni personale scolastico, Valditara: “Ai prossimi Cdm proporrò arresto in flagranza reato”",
@@ -397,16 +399,7 @@
                 "date": "14 Mar 2025",
                 "time": "18:36",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Nel decreto PA c’è l’assicurazione sanitaria per il personale scolastico. Anief: “Bene, è il primo risultato della nostra petizione arrivata a 120mila firme”",
-                "link": "https://www.orizzontescuola.it/nel-decreto-pa-ce-lassicurazione-sanitaria-chiesta-dal-ministro-valditara-per-il-personale-scolastico-anief-bene-e-il-primo-risultato-della-nostra-denuncia-pubblica-sul-burnout/",
-                "date": "14 Mar 2025",
-                "time": "18:06",
-                "image_link": "N/A"
-            },
-            null
+            }
         ]
     },
     "group_5": {
@@ -584,6 +577,14 @@
         "articles": [
             {
                 "category": "ATA",
+                "title": "Operatore scolastico ATA, un punto per attestato OSA o è solo titolo di accesso?",
+                "link": "https://www.orizzontescuola.it/operatore-scolastico-ata-un-punto-per-attestato-osa-o-e-solo-titolo-di-accesso/",
+                "date": "12 Mar 2025",
+                "time": "12:53",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2513794421.jpg"
+            },
+            {
+                "category": "ATA",
                 "title": "Posizioni economiche ATA, i corsi Indire devono ancora partire. Come si svolgeranno",
                 "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-i-corsi-indire-devono-ancora-partire-come-si-svolgeranno/",
                 "date": "12 Mar 2025",
@@ -621,14 +622,6 @@
                 "date": "10 Mar 2025",
                 "time": "15:39",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1618026661-scaled.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Mobilità ATA 2025: referente unico eliminato, assistenza a genitore con disabilità grave. Il sistema delle precedenze",
-                "link": "https://www.orizzontescuola.it/mobilita-ata-2025-referente-unico-eliminato-assistenza-a-genitore-con-disabilita-grave-il-sistema-delle-precedenze/",
-                "date": "8 Mar 2025",
-                "time": "18:58",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2331500305.jpg"
             }
         ]
     },
