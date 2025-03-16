@@ -18,6 +18,22 @@
         "articles": [
             {
                 "category": "Cronaca",
+                "title": "Maltempo, lunedì a Firenze riaprono le scuole. Verifiche in corso negli istituti scolastici",
+                "link": "https://www.orizzontescuola.it/maltempo-lunedi-a-firenze-riaprono-le-scuole-verifiche-in-corso-negli-istituti-scolastici/",
+                "date": "16 Mar 2025",
+                "time": "16:25",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2198390061.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Occupazione: per le donne 20 punti in meno rispetto agli uomini. Mancano asili nido e tempo pieno a scuola",
+                "link": "https://www.orizzontescuola.it/occupazione-per-le-donne-20-punti-in-meno-rispetto-agli-uomini-mancano-asili-nido-e-tempo-pieno-a-scuola/",
+                "date": "16 Mar 2025",
+                "time": "15:41",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_570751849-scaled.jpg"
+            },
+            {
+                "category": "Cronaca",
                 "title": "Sugar tax: da luglio entrerà in vigore (depotenziata) e c’è un odg del Governo per fermarla. I guadagni in tasse andranno per l’educazione alimentare nelle scuole",
                 "link": "https://www.orizzontescuola.it/sugar-tax-da-luglio-entrera-in-vigore-depotenziata-e-ce-un-odg-del-governo-per-fermarla-i-guadagni-in-tasse-andranno-per-leducazione-alimentare-nelle-scuole/",
                 "date": "16 Mar 2025",
@@ -120,7 +136,12 @@
                 "date": "15 Mar 2025",
                 "time": "15:25",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/03/shutterstock_1707724354.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Docenti",
                 "title": "Mobilità docenti 2025, le risposte ad ogni dubbio. Consulenza sui requisiti, preferenze, deroghe",
@@ -136,12 +157,7 @@
                 "date": "15 Mar 2025",
                 "time": "12:01",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/02/highway-lights-at-night_925x.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Percorsi abilitanti da 60, 30 e 36 CFU per il 2024/25: ecco i BANDI [AGGIORNATO]",
@@ -248,28 +264,36 @@
                 "date": "14 Mar 2025",
                 "time": "19:41",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_2036186195.jpg"
-            },
-            {
-                "category": "Pensioni",
-                "title": "Posti disponibili docenti e ATA dopo i pensionamenti dal 1° settembre 2025. Elenchi [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/posti-disponibili-docenti-e-ata-dopo-i-pensionamenti-dal-1-settembre-2025-elenchi-per-provincia-in-aggiornamento/",
-                "date": "14 Mar 2025",
-                "time": "18:53",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2331500305.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Mobilità 25/26: vincolati con figli minori di 16 anni possono presentare domanda. Cosa fare in mancanza di scuole esprimibili nel comune di ricongiungimento",
-                "link": "https://www.orizzontescuola.it/mobilita-25-26-vincolati-con-figli-minori-di-16-anni-possono-presentare-domanda-cosa-fare-in-mancanza-di-scuole-esprimibili-nel-comune-di-ricongiungimento/",
-                "date": "14 Mar 2025",
-                "time": "18:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/11/hamburg-1593802_1920-1200x800.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Comunicati stampa",
+                "title": "Domani l’RSU Day Anief, previsti 10mila partecipanti: il primo di tanti appuntamenti in vista delle elezioni di metà aprile",
+                "link": "https://www.orizzontescuola.it/domani-lrsu-day-anief-previsti-10mila-partecipanti-il-primo-di-tanti-appuntamenti-in-vista-delle-elezioni-di-meta-aprile/",
+                "date": "16 Mar 2025",
+                "time": "17:19",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Campi Flegrei, Regione Campania organizza laboratori didattici per i più piccoli e incontri psico-educativi",
+                "link": "https://www.orizzontescuola.it/campi-flegrei-regione-campania-organizza-laboratori-didattici-per-i-piu-piccoli-e-incontri-psico-educativi/",
+                "date": "16 Mar 2025",
+                "time": "16:53",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Minaccia studenti con un coltello: momenti di terrore fuori da una scuola",
+                "link": "https://www.orizzontescuola.it/minaccia-studenti-con-un-coltello-momenti-di-terrore-fuori-da-una-scuola/",
+                "date": "16 Mar 2025",
+                "time": "16:46",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "“Mio figlio lasciato a colorare in una classe speciale per alunni con disabilità. Ora non va più a scuola”: l’appello di una madre all’USR",
@@ -389,29 +413,20 @@
                 "date": "15 Mar 2025",
                 "time": "8:37",
                 "image_link": "N/A"
-            },
-            null,
-            {
-                "category": "Cronaca",
-                "title": "“Coltiviamo nei giovani l’amore per la lettura”. L’impegno di Randazzo dal Premio Navarro, a Libriamoci, al viaggio in Argentina",
-                "link": "https://www.orizzontescuola.it/coltiviamo-nei-giovani-lamore-per-la-lettura-limpegno-di-randazzo-dal-premio-navarro-a-libriamoci-al-viaggio-in-argentina/",
-                "date": "15 Mar 2025",
-                "time": "7:42",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Conte: “800 miliardi in armi, messaggio sbagliato per i giovani. Investire su istruzione e lavoro”",
-                "link": "https://www.orizzontescuola.it/conte-800-miliardi-in-armi-messaggio-sbagliato-per-i-giovani-investire-su-istruzione-e-lavoro/",
-                "date": "15 Mar 2025",
-                "time": "7:29",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Mobilità 25/26: vincolati con figli minori di 16 anni possono presentare domanda. Cosa fare in mancanza di scuole esprimibili nel comune di ricongiungimento",
+                "link": "https://www.orizzontescuola.it/mobilita-25-26-vincolati-con-figli-minori-di-16-anni-possono-presentare-domanda-cosa-fare-in-mancanza-di-scuole-esprimibili-nel-comune-di-ricongiungimento/",
+                "date": "14 Mar 2025",
+                "time": "18:11",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Mobilità 25/26, docente perdente posto: può presentare anche domanda di passaggio ruolo e/o cattedra",
@@ -514,14 +529,6 @@
                 "link": "https://www.orizzontescuola.it/mobilita-25-26-docente-perdente-posto-mantiene-precedenza-per-10-anni-rientro-nella-scuola-di-ex-titolarita-non-fa-perdere-continuita/",
                 "date": "8 Mar 2025",
                 "time": "10:08",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Percorsi abilitanti, secondo ciclo: gli atenei pubblicano i bandi. QUESTION TIME con Bufanini [VIDEO]",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-secondo-ciclo-gli-atenei-pubblicano-i-bandi-question-time-con-bufanini-live-venerdi-7-marzo-alle-1600/",
-                "date": "7 Mar 2025",
-                "time": "15:46",
                 "image_link": "N/A"
             }
         ]
