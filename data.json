@@ -3,20 +3,6 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
-                "category": "Diventare Insegnanti",
-                "title": "Concorsi: riserva del 15% anche per il Servizio civile nazionale e nelle graduatorie saranno evidenziate riserve, precedenze e preferenze. NOVITÀ Decreto PA in Gazzetta",
-                "link": "https://www.orizzontescuola.it/graduatorie-docenti-saranno-evidenziate-riserve-precedenze-e-preferenze-e-varra-anche-servizio-civile-nazionale-novita-decreto-pa-in-gazzetta/",
-                "date": "16 Mar 2025",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1669106749.jpg"
-            },
-            null
-        ]
-    },
-    "group_2": {
-        "title": "Ultimi Aggiornamenti",
-        "articles": [
-            {
                 "category": "Stipendio",
                 "title": "Stipendio marzo 2025, aumenti e arretrati del Comparto Funzioni Centrali non interessano la scuola",
                 "link": "https://www.orizzontescuola.it/stipendio-marzo-2025-aumenti-e-arretrati-del-comparto-funzioni-centrali-non-interessano-la-scuola/",
@@ -24,6 +10,19 @@
                 "time": "19:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/11/Soldi.jpg"
             },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorsi: riserva del 15% anche per il Servizio civile nazionale e nelle graduatorie saranno evidenziate riserve, precedenze e preferenze. NOVITÀ Decreto PA in Gazzetta",
+                "link": "https://www.orizzontescuola.it/graduatorie-docenti-saranno-evidenziate-riserve-precedenze-e-preferenze-e-varra-anche-servizio-civile-nazionale-novita-decreto-pa-in-gazzetta/",
+                "date": "16 Mar 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1669106749.jpg"
+            }
+        ]
+    },
+    "group_2": {
+        "title": "Ultimi Aggiornamenti",
+        "articles": [
             {
                 "category": "ATA",
                 "title": "Mobilità ATA, ex LSU e co.co.co a tempo pieno possono presentare domanda. Chiarimenti sul punteggio",
@@ -120,6 +119,7 @@
                 "time": "7:54",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/Progetto-senza-titolo-1-1.png"
             },
+            null,
             {
                 "category": "ATA",
                 "title": "Mobilità personale ATA 2025/26: come presentare la domanda. GUIDA Ministero",
