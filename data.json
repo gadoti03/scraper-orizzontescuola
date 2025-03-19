@@ -25,6 +25,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Percorsi abilitanti: quando sarà il prossimo ciclo? Pillole di QuestionTime",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-quando-sara-il-prossimo-ciclo/",
+                "date": "18 Mar 2025",
+                "time": "21:35",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_96602686.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Accesso ai percorsi sostegno Indire per i titoli esteri, cosa significa “requisito del contenzioso pendente”. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/accesso-ai-percorsi-sostegno-indire-per-i-titoli-esteri-cosa-significa-requisito-del-contenzioso-pendente/",
                 "date": "18 Mar 2025",
@@ -135,7 +143,12 @@
                 "date": "18 Mar 2025",
                 "time": "12:58",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Mobilità docenti 25/26: concorso straordinario bis, allegati istanza con deroga e servizio civile. RISPOSTE AI QUESITI",
@@ -143,12 +156,7 @@
                 "date": "18 Mar 2025",
                 "time": "12:27",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1927950590.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "ATA",
                 "title": "Domande mobilità ATA 2025: inserimento allegati, servizio e ordine preferenze. RISPOSTE AI QUESITI",
@@ -270,15 +278,7 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2307017635-scaled.jpg"
             },
             null,
-            null,
-            {
-                "category": "Docenti",
-                "title": "Mobilità docenti: il servizio svolto senza titolo di accesso è valutabile? Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/mobilita-docenti-il-servizio-svolto-senza-titolo-di-accesso-e-valutabile-pillole-di-questiontime/",
-                "date": "17 Mar 2025",
-                "time": "18:54",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1907915515.jpg"
-            }
+            null
         ]
     },
     "group_4": {
