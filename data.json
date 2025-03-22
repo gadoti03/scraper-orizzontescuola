@@ -24,6 +24,46 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "ATA",
+                "title": "Mobilità ATA 2025, gestione degli allegati e non solo: tutte le info utili per la domanda. QUESTION TIME con Sorrentino (Anief) LIVE Lunedì 24 marzo alle 14:30",
+                "link": "https://www.orizzontescuola.it/mobilita-ata-2025-gestione-degli-allegati-e-non-solo-tutte-le-info-utili-per-la-domanda-question-time-con-sorrentino-anief-live-lunedi-24-marzo-alle-1430/",
+                "date": "22 Mar 2025",
+                "time": "17:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Template_questiontime_1920x1080-13.png"
+            },
+            {
+                "category": "Genitori",
+                "title": "Crisi demografica, in Europa è allarme per la bassa natalità: anche la scuola coinvolta nel processo di cambiamento. Ecco come",
+                "link": "https://www.orizzontescuola.it/crisi-demografica-in-europa-e-allarme-per-la-bassa-natalita-anche-la-scuola-coinvolta-nel-processo-di-cambiamento-ecco-come/",
+                "date": "22 Mar 2025",
+                "time": "15:13",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_1908794089-scaled.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Genitori sindacalisti, Morelli avverte: “La scuola non è un campo di battaglia per i voti”. E sul registro elettronico: “Non permette ai ragazzi di sperimentare l’errore e la crescita personale”",
+                "link": "https://www.orizzontescuola.it/genitori-sindacalisti-raffaele-morelli-avverte-la-scuola-non-e-un-campo-di-battaglia-per-i-voti-e-sul-registro-elettronico-non-permette-ai-ragazzi-di-sperimentare-lerrore-e-la-crescita-per/",
+                "date": "22 Mar 2025",
+                "time": "14:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/Morelli.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze 2024/25, INTERPELLI alla ricerca di docenti [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "22 Mar 2025",
+                "time": "14:45",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Mobilità 25/26: quando neoassunto può chiedere passaggio ruolo, scuola occupata da docenti con nomina per il ruolo, vincolo preferenza. Risposte ai quesiti",
+                "link": "https://www.orizzontescuola.it/mobilita-25-26-quando-neoassunto-puo-chiedere-passaggio-ruolo-scuola-occupata-da-docenti-con-nomina-per-il-ruolo-vincolo-preferenza-risposte-ai-quesiti/",
+                "date": "22 Mar 2025",
+                "time": "14:38",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/11/hamburg-1593802_1920-1200x800.jpg"
+            },
+            {
                 "category": "Docenti",
                 "title": "Docenti ultra60enni, esperienza sottovalutata o fardello? Sui social è dibattito: “Per i più giovani siamo un reparto archeologico”, “la preside mi ha messo da parte, siamo invisibili”",
                 "link": "https://www.orizzontescuola.it/docenti-ultra60enni-esperienza-sottovalutata-o-fardello-sui-social-e-dibattito-per-i-piu-giovani-siamo-un-reparto-archeologico-la-mia-preside-mi-ha-messo-da-parte-siamo-invisibili/",
@@ -46,14 +86,6 @@
                 "date": "22 Mar 2025",
                 "time": "11:36",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/11/graduatorie-593x443.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze 2024/25, INTERPELLI alla ricerca di docenti [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
-                "date": "22 Mar 2025",
-                "time": "10:47",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
             },
             {
                 "category": "Politica scolastica",
@@ -111,7 +143,12 @@
                 "date": "21 Mar 2025",
                 "time": "21:23",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Politica scolastica",
                 "title": "Valditara: “Occorre ripristinare l’autorevolezza dei docenti, ma anche il principio di autorità. Tornare a scrivere Maestro con la M maiuscola”",
@@ -143,12 +180,7 @@
                 "date": "21 Mar 2025",
                 "time": "17:32",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_376319674-2.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Insegnanti su OnlyFans, quando il decoro professionale si scontra con l’ipocrisia sociale. Su Threads è scontro tra vedute: “È vietato dal regolamento”, “Siamo un paese di bigotti”",
@@ -260,44 +292,44 @@
                 "date": "21 Mar 2025",
                 "time": "12:15",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_521791969.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti 2024/25, secondo decreto: Università devono riaprire i bandi?",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-2024-25-secondo-decreto-universita-devono-riaprire-i-bandi/",
-                "date": "21 Mar 2025",
-                "time": "12:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2176731709.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Scuola diffonde iniziali degli studenti con disabilità: il Garante Privacy la sanziona per 1.000 euro",
-                "link": "https://www.orizzontescuola.it/scuola-diffonde-iniziali-degli-studenti-con-disabilita-il-garante-privacy-la-sanziona-per-1-000-euro/",
-                "date": "21 Mar 2025",
-                "time": "11:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_581432440.webp"
-            },
-            {
-                "category": "Docenti",
-                "title": "Graduatorie interne di istituto docenti 2025: modelli, punteggi e RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/graduatorie-interne-di-istituto-docenti-2025-modelli-punteggi-e-risposte-ai-quesiti/",
-                "date": "21 Mar 2025",
-                "time": "10:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_59277838.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Mobilità 25/26 docenti perdenti posto: come avviene trasferimento d’ufficio nel comune e nella provincia. Novità",
-                "link": "https://www.orizzontescuola.it/mobilita-25-26-docenti-perdenti-posto-come-avviene-trasferimento-dufficio-nel-comune-e-nella-provincia-novita/",
-                "date": "21 Mar 2025",
-                "time": "10:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/01/transport-2262256_960_720.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Bus carico di studenti prende fuoco, la prontezza dell’autista evita il peggio. Accade a Mestre",
+                "link": "https://www.orizzontescuola.it/bus-carico-di-studenti-prende-fuoco-la-prontezza-dellautista-evita-il-peggio-accade-a-mestre/",
+                "date": "22 Mar 2025",
+                "time": "16:59",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Vecchioni: “Senza maestri, i giovani non possono scegliere la loro vita. La felicità è nella normalità, non nei soldi”",
+                "link": "https://www.orizzontescuola.it/vecchioni-senza-maestri-i-giovani-non-possono-scegliere-la-loro-vita-la-felicita-e-nella-normalita-non-nei-soldi/",
+                "date": "22 Mar 2025",
+                "time": "16:28",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Torna il Dantedì, il 25 marzo un omaggio al Sommo Poeta",
+                "link": "https://www.orizzontescuola.it/torna-il-dantedi-il-25-marzo-un-omaggio-al-sommo-poeta/",
+                "date": "22 Mar 2025",
+                "time": "16:15",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Alunno 12enne ingerisce nicotina liquida da una boccetta, ricoverato in ospedale",
+                "link": "https://www.orizzontescuola.it/alunno-12enne-ingerisce-nicotina-liquida-da-una-boccetta-ricoverato-in-ospedale/",
+                "date": "22 Mar 2025",
+                "time": "14:41",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "232 milioni di euro ai Comuni per energie rinnovabili: incentivi per fotovoltaico, pompe di calore e riqualificazione energetica",
@@ -408,38 +440,6 @@
                 "link": "https://www.orizzontescuola.it/violenza-tra-studentesse-a-padova-aggressione-alluscita-da-scuola-per-un-commento-sgradito-alcuni-compagni-invece-di-intervenire-hanno-ripreso-la-scena-con-il-cellulare/",
                 "date": "22 Mar 2025",
                 "time": "7:33",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Nel Sud e nelle Isole si legge poco, ma gli under 18 sono tra i più assidui lettori. L’interesse per la lettura diminuisce con l’età. I dati di AIE",
-                "link": "https://www.orizzontescuola.it/nel-sud-e-nelle-isole-si-legge-poco-ma-gli-under-18-sono-tra-i-piu-assidui-lettori-linteresse-per-la-lettura-diminuisce-con-leta-i-dati-di-aie/",
-                "date": "22 Mar 2025",
-                "time": "7:27",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Tra il 29 e il 30 marzo ritorna l’ora legale: giornate più lunghe in arrivo",
-                "link": "https://www.orizzontescuola.it/tra-il-29-e-il-30-marzo-ritorna-lora-legale-giornate-piu-lunghe-in-arrivo/",
-                "date": "22 Mar 2025",
-                "time": "7:16",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "A 84 anni torna sui banchi di scuola, la storia di Maria Bonaria: “Studiare è per me un sogno che si realizza”",
-                "link": "https://www.orizzontescuola.it/a-84-anni-torna-sui-banchi-di-scuola-la-storia-di-maria-bonaria-studiare-e-per-me-un-sogno-che-si-realizza/",
-                "date": "22 Mar 2025",
-                "time": "7:14",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Docenti in pensione trasformano un deposito in biblioteca scolastica a Napoli",
-                "link": "https://www.orizzontescuola.it/docenti-in-pensione-trasformano-un-deposito-in-biblioteca-scolastica-a-napoli/",
-                "date": "21 Mar 2025",
-                "time": "21:57",
                 "image_link": "N/A"
             }
         ]
