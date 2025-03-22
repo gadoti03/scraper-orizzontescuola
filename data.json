@@ -3,12 +3,12 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
-                "category": "Docenti",
-                "title": "Stipendio, Cassazione riconosce diritto a gradone 3-8 anche ai docenti assunti post 2010. Pacifico (Anief): “Svolta nella ricostruzione di carriera”",
-                "link": "https://www.orizzontescuola.it/cassazione-riconosciuto-il-diritto-al-gradone-3-8-anche-ai-docenti-immessi-in-ruolo-post-2010-pacifico-anief-una-svolta-nella-ricostruzione-di-carriera/",
-                "date": "21 Mar 2025",
-                "time": "17:32",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_376319674-2.jpg"
+                "category": "Politica scolastica",
+                "title": "“Stipendi più alti, buoni pasto, indennità per i fuori sede. Votare per ridare dignità al personale della scuola” INTERVISTA a Pacifico (Anief)",
+                "link": "https://www.orizzontescuola.it/stipendi-piu-alti-buoni-pasto-indennita-per-i-fuori-sede-votare-per-ridare-dignita-al-personale-della-scuola-intervista-a-pacifico-anief/",
+                "date": "22 Mar 2025",
+                "time": "7:42",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/WhatsApp.Image_.2023.03.29.at_.18.20.04.jpg"
             },
             {
                 "category": "Scuole",
@@ -23,6 +23,31 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Consegue titolo estero per l’abilitazione all’insegnamento per insegnare Geografia e Storia, ma in Italia non esiste una classe di concorso corrispondente. Deve essere riconosciuto?",
+                "link": "https://www.orizzontescuola.it/consegue-titolo-estero-per-labilitazione-allinsegnamento-per-insegnare-geografia-e-storia-ma-in-italia-non-esiste-una-classe-di-concorso-corrispondente-deve-essere-riconosciuto/",
+                "date": "22 Mar 2025",
+                "time": "8:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2518506853.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Server solo in Italia per l’IA nella PA: la norma che rischia di “spegnere” Gmail e Microsoft. Il governo corre ai ripari?",
+                "link": "https://www.orizzontescuola.it/server-solo-in-italia-per-lia-nella-pa-la-norma-che-rischia-di-spegnere-gmail-e-microsoft-il-governo-corre-ai-ripari/",
+                "date": "22 Mar 2025",
+                "time": "7:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_2252587299.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Calendario scolastico 2025, vacanze di Pasqua e poi ponte per il 25 aprile e il 1° maggio. Le date di stop delle lezioni per regione",
+                "link": "https://www.orizzontescuola.it/calendario-scolastico-2025-vacanze-di-pasqua-e-poi-ponte-per-il-25-aprile-e-il-1-maggio-le-date-di-stop-delle-lezioni-per-regione/",
+                "date": "22 Mar 2025",
+                "time": "7:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_2002803581-scaled.jpg"
+            },
+            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "Percorsi abilitanti da 60, 30 e 36 CFU per il 2024/25: ecco i BANDI  e le indicazioni degli Uffici Scolastici [AGGIORNATO]",
@@ -54,6 +79,14 @@
                 "date": "21 Mar 2025",
                 "time": "19:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2456270825.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Stipendio, Cassazione riconosce diritto a gradone 3-8 anche ai docenti assunti post 2010. Pacifico (Anief): “Svolta nella ricostruzione di carriera”",
+                "link": "https://www.orizzontescuola.it/cassazione-riconosciuto-il-diritto-al-gradone-3-8-anche-ai-docenti-immessi-in-ruolo-post-2010-pacifico-anief-una-svolta-nella-ricostruzione-di-carriera/",
+                "date": "21 Mar 2025",
+                "time": "17:32",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_376319674-2.jpg"
             },
             {
                 "category": "Cronaca",
@@ -110,7 +143,12 @@
                 "date": "21 Mar 2025",
                 "time": "15:56",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_2207108391-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR2 infanzia e primaria, iniziano prove orali. Ecco le CONVOCAZIONI",
@@ -150,12 +188,7 @@
                 "date": "21 Mar 2025",
                 "time": "15:08",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2480765345.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Docenti",
                 "title": "Mobilità docenti: come dichiarare i master e i titoli aggiuntivi nella domanda",
@@ -259,52 +292,60 @@
                 "date": "21 Mar 2025",
                 "time": "8:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_1870491376.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Aumenta il fabbisogno di docenti specializzati sul sostegno, studenti con disabilità sono 359mila (il 4,5% degli iscritti). Le specializzazioni Indire potrebbero non bastare",
-                "link": "https://www.orizzontescuola.it/aumenta-il-fabbisogno-di-docenti-specializzati-sul-sostegno-studenti-con-disabilita-sono-359mila-il-45-degli-iscritti-le-specializzazioni-indire-potrebbero-non-bastare/",
-                "date": "21 Mar 2025",
-                "time": "8:09",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_244099627.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Docente supera concorso scuola su quesito sbagliato che poi viene rivisto, deve essere licenziata?",
-                "link": "https://www.orizzontescuola.it/docente-supera-concorso-scuola-su-quesito-sbagliato-che-poi-viene-rivisto-deve-essere-licenziata/",
-                "date": "21 Mar 2025",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_347981330.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Lo psicologo scolastico: selezione, ruolo e attività per il benessere educativo",
-                "link": "https://www.orizzontescuola.it/lo-psicologo-scolastico-selezione-ruolo-e-attivita-per-il-benessere-educativo/",
-                "date": "21 Mar 2025",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_2283738385.jpg"
-            },
-            {
-                "category": "Plus",
-                "title": "Mobilità docenti ed ATA 2025/26: consulenza personalizzata. Prenota la tua data, disponibilità limitata",
-                "link": "https://www.orizzontescuola.it/mobilita-docenti-ed-ata-2025-26-consulenza-personalizzata-prenota-la-tua-data-disponibilita-limitata/",
-                "date": "21 Mar 2025",
-                "time": "6:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Mobilita-202526-2.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "Assistenti di lingua straniera, entro il 25 marzo assegnazione USR. Richiesta scuole fino al 10 aprile",
-                "link": "https://www.orizzontescuola.it/assistenti-di-lingua-straniera-entro-il-25-marzo-assegnazione-usr-richiesta-scuole-fino-al-10-aprile/",
-                "date": "20 Mar 2025",
-                "time": "20:57",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2477656059.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Pensioni a rischio, il furto digitale che svuota i conti degli anziani. Il caso di un professore universitario che ha perso oltre 40mila euro dopo il furto dello SPID",
+                "link": "https://www.orizzontescuola.it/pensioni-a-rischio-il-furto-digitale-che-svuota-i-conti-degli-anziani-il-caso-di-un-professore-universitario-che-ha-perso-oltre-40mila-euro-dopo-il-furto-dello-spid/",
+                "date": "22 Mar 2025",
+                "time": "8:59",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Genitori",
+                "title": "Essere papà oggi, Pellai: “Un nuovo modello è in costruzione, in bilico tra un padre peluche e uno evaporato. Non farlo sentire inadeguato”",
+                "link": "https://www.orizzontescuola.it/essere-papa-oggi-pellai-un-nuovo-modello-e-in-costruzione-in-bilico-tra-un-padre-peluche-e-uno-evaporato-non-farlo-sentire-inadeguato/",
+                "date": "22 Mar 2025",
+                "time": "7:56",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Violenza tra studentesse a Padova: aggressione all’uscita da scuola per un commento sgradito. Alcuni compagni invece di intervenire hanno ripreso la scena con il cellulare",
+                "link": "https://www.orizzontescuola.it/violenza-tra-studentesse-a-padova-aggressione-alluscita-da-scuola-per-un-commento-sgradito-alcuni-compagni-invece-di-intervenire-hanno-ripreso-la-scena-con-il-cellulare/",
+                "date": "22 Mar 2025",
+                "time": "7:33",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Nel Sud e nelle Isole si legge poco, ma gli under 18 sono tra i più assidui lettori. L’interesse per la lettura diminuisce con l’età. I dati di AIE",
+                "link": "https://www.orizzontescuola.it/nel-sud-e-nelle-isole-si-legge-poco-ma-gli-under-18-sono-tra-i-piu-assidui-lettori-linteresse-per-la-lettura-diminuisce-con-leta-i-dati-di-aie/",
+                "date": "22 Mar 2025",
+                "time": "7:27",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Tra il 29 e il 30 marzo ritorna l’ora legale: giornate più lunghe in arrivo",
+                "link": "https://www.orizzontescuola.it/tra-il-29-e-il-30-marzo-ritorna-lora-legale-giornate-piu-lunghe-in-arrivo/",
+                "date": "22 Mar 2025",
+                "time": "7:16",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "A 84 anni torna sui banchi di scuola, la storia di Maria Bonaria: “Studiare è per me un sogno che si realizza”",
+                "link": "https://www.orizzontescuola.it/a-84-anni-torna-sui-banchi-di-scuola-la-storia-di-maria-bonaria-studiare-e-per-me-un-sogno-che-si-realizza/",
+                "date": "22 Mar 2025",
+                "time": "7:14",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Docenti in pensione trasformano un deposito in biblioteca scolastica a Napoli",
@@ -399,54 +440,6 @@
                 "link": "https://www.orizzontescuola.it/shock-in-islanda-ministra-dellinfanzia-si-dimette-per-un-figlio-avuto-con-un-15enne-relazione-con-minorenne-avvenuta-36-anni-fa/",
                 "date": "21 Mar 2025",
                 "time": "16:52",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Bonus soggiorni estivi, pubblicato il bando Estate INPSieme Senior 2025: domande dal 24 marzo al 16 aprile",
-                "link": "https://www.orizzontescuola.it/bonus-soggiorni-estivi-pubblicato-il-bando-estate-inpsieme-senior-2025-domande-dal-24-marzo-al-16-aprile/",
-                "date": "21 Mar 2025",
-                "time": "15:55",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti vincitori concorso PNRR1, agevolare la partecipazione. Nota USR Puglia",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-vincitori-concorso-pnrr1-agevolare-la-partecipazione-nota-usr-puglia/",
-                "date": "21 Mar 2025",
-                "time": "15:46",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Maestra su OnlyFans, esperti invitano al dialogo con i bambini coinvolti: “Decoro non significa essere bacchettoni. Equilibrio tra la libertà individuale e il lavoro di cura”",
-                "link": "https://www.orizzontescuola.it/maestra-su-onlyfans-esperti-invitano-al-dialogo-con-i-bambini-coinvolti-decoro-non-significa-essere-bacchettoni-equilibrio-tra-la-liberta-individuale-e-il-lavoro-di-cura/",
-                "date": "21 Mar 2025",
-                "time": "15:45",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Scomparso da 10 giorni, il mistero dello studente 17enne con 1000 euro in tasca. Sui social si moltiplicano gli appelli dei genitori",
-                "link": "https://www.orizzontescuola.it/scomparso-da-10-giorni-il-mistero-dello-studente-17enne-con-1000-euro-in-tasca-sui-social-si-moltiplicano-gli-appelli-dei-genitori/",
-                "date": "21 Mar 2025",
-                "time": "15:40",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Validità anno 2013, Tribunale di Bari riconosce maturazione fasce stipendiali per una docente difesa da UIL Scuola Rua",
-                "link": "https://www.orizzontescuola.it/validita-anno-2013-tribunale-di-bari-riconosce-maturazione-fasce-stipendiali-per-una-docente-difesa-da-uil-scuola-rua/",
-                "date": "21 Mar 2025",
-                "time": "14:52",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Dote merito Lombardia, 2.636 gli studenti ammessi al contributo",
-                "link": "https://www.orizzontescuola.it/dote-merito-lombardia-2-636-gli-studenti-ammessi-al-contributo/",
-                "date": "21 Mar 2025",
-                "time": "14:27",
                 "image_link": "N/A"
             }
         ]
@@ -626,6 +619,22 @@
         "articles": [
             {
                 "category": "ATA",
+                "title": "Mobilità ATA: formato degli allegati nella domanda di mobilità, Word o PDF? Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/mobilita-ata-formato-degli-allegati-nella-domanda-di-mobilita-word-o-pdf-pillole-di-questiontime/",
+                "date": "19 Mar 2025",
+                "time": "17:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_259719440.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Mobilità ATA: calcolo del servizio di ruolo e pre-ruolo, cosa considerare. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/mobilita-ata-calcolo-del-servizio-di-ruolo-e-pre-ruolo-cosa-considerare-pillole-di-questiontime/",
+                "date": "19 Mar 2025",
+                "time": "14:59",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_1401657266.jpg"
+            },
+            {
+                "category": "ATA",
                 "title": "Mobilità ATA: passaggio di ruolo e trasferimento interprovinciale. come funziona l’assegnazione delle preferenze. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/passaggio-di-ruolo-e-trasferimento-interprovinciale-come-funziona-lassegnazione-delle-preferenze/",
                 "date": "19 Mar 2025",
@@ -655,22 +664,6 @@
                 "date": "16 Mar 2025",
                 "time": "18:46",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_1723539274.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Mobilità personale ATA 2025/26: come presentare la domanda. GUIDA Ministero",
-                "link": "https://www.orizzontescuola.it/mobilita-personale-ata-2025-26-come-presentare-la-domanda-guida-ministero/",
-                "date": "15 Mar 2025",
-                "time": "19:03",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Screenshot-2025-03-15-185257.png"
-            },
-            {
-                "category": "ATA",
-                "title": "Concorso ATA Trento per collaboratori scolastici: domande in scadenza il 17 marzo. Istanze anche per graduatorie d’istituto",
-                "link": "https://www.orizzontescuola.it/concorso-ata-trento-per-collaboratori-scolastici-domande-in-scadenza-il-17-marzo-istanze-anche-per-graduatorie-distituto/",
-                "date": "14 Mar 2025",
-                "time": "12:59",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2359899605.jpg"
             }
         ]
     },
