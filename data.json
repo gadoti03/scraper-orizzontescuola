@@ -18,6 +18,38 @@
         "articles": [
             {
                 "category": "Cronaca",
+                "title": "Per l’anno scolastico 2025/26 ci saranno 134mila studenti in meno. Entro il 2035 le cattedre in meno saranno 130mila. I dati",
+                "link": "https://www.orizzontescuola.it/per-lanno-scolastico-2025-26-ci-saranno-134mila-studenti-in-meno-in-8-anni-persi-piu-di-300-mila-studenti-nella-sola-scuola-primaria-i-dati/",
+                "date": "23 Mar 2025",
+                "time": "20:14",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_2298516513.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Cina, Intelligenza Artificiale già dalla Primaria e non solo. Anche la popolazione anziana sarà interessata a interventi per migliorare le competenze digitali",
+                "link": "https://www.orizzontescuola.it/cina-intelligenza-artificiale-gia-dalla-primaria-e-non-solo-anche-la-popolazione-anziana-sara-interessata-a-interventi-per-migliorare-le-competenze-digitali/",
+                "date": "23 Mar 2025",
+                "time": "19:45",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2036186261.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Mobilità ATA 2025, gestione degli allegati e non solo: tutte le info utili per la domanda. QUESTION TIME con Sorrentino (Anief) LIVE Lunedì 24 marzo alle 14:30",
+                "link": "https://www.orizzontescuola.it/mobilita-ata-2025-gestione-degli-allegati-e-non-solo-tutte-le-info-utili-per-la-domanda-question-time-con-sorrentino-anief-live-lunedi-24-marzo-alle-1430/",
+                "date": "23 Mar 2025",
+                "time": "17:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Template_questiontime_1920x1080-13.png"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Proposta di legge per riscatto agevolato della laurea: costo di 900 euro per ogni anno di studi. SPECIALE con Bucalo e Pacifico. LIVE Lunedì 24 marzo alle 16:00",
+                "link": "https://www.orizzontescuola.it/proposta-di-legge-per-riscatto-agevolato-della-laurea-900-euro-per-ogni-anno-di-studi-speciale-con-bucalo-e-pacifico-live-lunedi-24-marzo-alle-1600/",
+                "date": "23 Mar 2025",
+                "time": "13:35",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Template_dentroilpalazzo_1920x1080-6.png"
+            },
+            {
+                "category": "Cronaca",
                 "title": "“Se la Cina decidesse di occupare l’Italia, converrebbe andare a scuola a studiare il cinese”: il discorso di Silvio Berlusconi del 6 maggio 2023 e la scuola come metafora",
                 "link": "https://www.orizzontescuola.it/se-la-cina-decidesse-di-occupare-litalia-converrebbe-andare-a-scuola-a-studiare-il-cinese-il-discorso-di-silvio-berlusconi-del-6-maggio-2023-e-la-scuola-come-metafora/",
                 "date": "23 Mar 2025",
@@ -26,7 +58,7 @@
             },
             {
                 "category": "ATA",
-                "title": "VIDEO TUTORIAL | Mobilità ATA 2025, come fare la domanda passo dopo passo. I passaggi spiegati",
+                "title": "Mobilità ATA 2025, come fare la domanda passo dopo passo. Video tutorial con tutti i passaggi spiegati",
                 "link": "https://www.orizzontescuola.it/video-tutorial-mobilita-ata-2025-come-fare-la-domanda-passo-dopo-passo-i-passaggi-spiegati/",
                 "date": "23 Mar 2025",
                 "time": "11:01",
@@ -50,14 +82,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Progetto-senza-titolo-3-1.png"
             },
             null,
-            {
-                "category": "ATA",
-                "title": "Mobilità ATA 2025, gestione degli allegati e non solo: tutte le info utili per la domanda. QUESTION TIME con Sorrentino (Anief) LIVE Lunedì 24 marzo alle 14:30",
-                "link": "https://www.orizzontescuola.it/mobilita-ata-2025-gestione-degli-allegati-e-non-solo-tutte-le-info-utili-per-la-domanda-question-time-con-sorrentino-anief-live-lunedi-24-marzo-alle-1430/",
-                "date": "22 Mar 2025",
-                "time": "17:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Template_questiontime_1920x1080-13.png"
-            },
             {
                 "category": "Genitori",
                 "title": "Crisi demografica, in Europa è allarme per la bassa natalità: anche la scuola coinvolta nel processo di cambiamento. Ecco come",
@@ -105,7 +129,12 @@
                 "date": "22 Mar 2025",
                 "time": "11:43",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/shutterstock_2384798953.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Graduatoria interna di istituto docenti 2025: laurea SFP diplomati magistrale, servizio comuni montagna, punti per genitore. Risposte ai quesiti",
@@ -115,26 +144,13 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/11/graduatorie-593x443.jpg"
             },
             {
-                "category": "Politica scolastica",
-                "title": "Proposta di legge per riscatto agevolato della laurea: costo di 900 euro per ogni anno di studi. SPECIALE con Bucalo e Pacifico. LIVE Lunedì 24 marzo alle 16:00",
-                "link": "https://www.orizzontescuola.it/proposta-di-legge-per-riscatto-agevolato-della-laurea-900-euro-per-ogni-anno-di-studi-speciale-con-bucalo-e-pacifico-live-lunedi-24-marzo-alle-1600/",
-                "date": "22 Mar 2025",
-                "time": "10:35",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Template_dentroilpalazzo_1920x1080-6.png"
-            },
-            {
                 "category": "Chiedilo a Lalla",
                 "title": "Percorsi abilitanti e corsi sostegno Indire: titolo di accesso, avvio dei corsi e termine per l’inserimento in GPS. RISPOSTE AI QUESITI",
                 "link": "https://www.orizzontescuola.it/percorsi-abilitanti-e-corsi-sostegno-indire-titolo-di-accesso-avvio-dei-corsi-e-termine-per-linserimento-in-gps-risposte-ai-quesiti/",
                 "date": "22 Mar 2025",
                 "time": "10:24",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_145510552.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Gite scolastiche in crisi, sempre meno studenti in viaggio e docenti riluttanti al ruolo di accompagnatori: “Troppe responsabilità, zero compensi. Non siamo baby sitter h24”",
@@ -255,28 +271,44 @@
                 "date": "21 Mar 2025",
                 "time": "16:39",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/Pacifico.jpeg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "“Grammatica e sintassi servono per capire e per farsi capire, esprimono la cultura della regola”, Valditara: “Giovani non conoscono il corsivo e scrivono in maiuscolo, è arrivato il momento di intervenire”",
-                "link": "https://www.orizzontescuola.it/grammatica-e-sintassi-servono-per-capire-e-per-farsi-capire-esprimono-la-cultura-della-regola-valditara-giovani-non-conoscono-il-corsivo-e-scrivono-in-maiuscolo-e-arrivato-il-momento-di-inte/",
-                "date": "21 Mar 2025",
-                "time": "15:56",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_2207108391-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR2 infanzia e primaria, iniziano prove orali. Ecco le CONVOCAZIONI",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr2-infanzia-e-primaria-iniziano-prove-orali-dal-20-marzo-in-lombardia-per-posto-comune-primaria-la-convocazione/",
-                "date": "21 Mar 2025",
-                "time": "15:47",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/09/shutterstock_393077005.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Studente incappucciato e aggredito nel cortile della scuola da 15 coetanei",
+                "link": "https://www.orizzontescuola.it/studente-incappucciato-e-aggredito-nel-cortile-della-scuola-da-15-coetanei/",
+                "date": "23 Mar 2025",
+                "time": "20:42",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Aggressione di gruppo nel cortile della scuola: alunno 16enne finisce in ospedale con naso rotto",
+                "link": "https://www.orizzontescuola.it/aggressione-di-gruppo-nel-cortile-della-scuola-alunno-16enne-finisce-in-ospedale-con-naso-rotto/",
+                "date": "23 Mar 2025",
+                "time": "18:52",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Valditara: “Molti studenti impegnati come guide nelle giornate FAI, presto altre iniziative”",
+                "link": "https://www.orizzontescuola.it/valditara-molti-studenti-impegnati-come-guide-nelle-giornate-fai-presto-altre-iniziative/",
+                "date": "23 Mar 2025",
+                "time": "18:47",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "M5S in piazza il 5 aprile, Conte: “No al riarmo. Maggioranza italiani vuole scuole ricche di laboratori e palestre”",
+                "link": "https://www.orizzontescuola.it/m5s-in-piazza-il-5-aprile-conte-no-al-riarmo-maggioranza-italiani-vuole-scuole-ricche-di-laboratori-e-palestre/",
+                "date": "23 Mar 2025",
+                "time": "18:43",
+                "image_link": "N/A"
+            },
             {
                 "category": "Comunicati stampa",
                 "title": "Anief: “Riscatto laurea in cambio di 900 euro per anno universitario svolto, tutti d’accordo con la proposta della senatrice Bucalo che segue nostra petizione”",
@@ -387,38 +419,6 @@
                 "link": "https://www.orizzontescuola.it/lucrezia-lante-della-rovere-i-genitori-di-oggi-sono-troppo-asfissianti/",
                 "date": "22 Mar 2025",
                 "time": "11:54",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Docente si vaccina contro il COVID perché tra le categorie con obbligo, viene risarcito come infortunio sul lavoro a causa di una trombosi",
-                "link": "https://www.orizzontescuola.it/docente-si-vaccina-contro-il-covid-perche-tra-le-categorie-con-obbligo-viene-risarcito-come-infortunio-sul-lavoro-a-causa-di-una-trombosi/",
-                "date": "22 Mar 2025",
-                "time": "11:31",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Cinema e filosofia a scuola? A Palermo si può! Ecco “Aki”, il cortometraggio per l’insegnamento della filosofia fin dalla scuola primaria",
-                "link": "https://www.orizzontescuola.it/cinema-e-filosofia-a-scuola-a-palermo-si-puo-ecco-aki-il-cortometraggio-per-linsegnamento-della-filosofia-fin-dalla-scuola-primaria/",
-                "date": "22 Mar 2025",
-                "time": "10:44",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Stop agli asterischi e allo schwa a scuola, Galiano: “Mai visto, in vent’anni di carriera, un solo documento scolastico con la schwa o l’asterisco. Non so voi”",
-                "link": "https://www.orizzontescuola.it/stop-agli-asterischi-e-allo-schwa-a-scuola-galiano-mai-visto-in-ventanni-di-carriera-un-solo-documento-scolastico-con-la-schwa-o-lasterisco-non-so-voi/",
-                "date": "22 Mar 2025",
-                "time": "10:44",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Addio asterischi e schwa? Salvini appoggia Valditara: “Giù le mani dall’italiano, finalmente buon senso”",
-                "link": "https://www.orizzontescuola.it/addio-asterischi-e-schwa-salvini-appoggia-valditara-giu-le-mani-dallitaliano-finalmente-buon-senso/",
-                "date": "22 Mar 2025",
-                "time": "10:40",
                 "image_link": "N/A"
             }
         ]
@@ -704,6 +704,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Nuove Indicazioni 2025: un’opportunità per riflettere insieme sulla scuola che vogliamo. Lettera",
+                "link": "https://www.orizzontescuola.it/nuove-indicazioni-2025-unopportunita-per-riflettere-insieme-sulla-scuola-che-vogliamo-lettera/",
+                "date": "23 Mar 2025",
+                "time": "17:28",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "Bestemmia a scuola e nei luoghi pubblici: educare oltre la sanzione. Lettera",
                 "link": "https://www.orizzontescuola.it/bestemmia-a-scuola-e-nei-luoghi-pubblici-educare-oltre-la-sanzione-lettera/",
                 "date": "22 Mar 2025",
@@ -740,14 +748,6 @@
                 "link": "https://www.orizzontescuola.it/famiglia-e-scuola-per-una-parita-di-qualita-lettera/",
                 "date": "20 Mar 2025",
                 "time": "20:26",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Escluso da attività per bestemmia a scuola. Grave forma di insulto che non deve lasciare indifferenti. Lettera",
-                "link": "https://www.orizzontescuola.it/escluso-da-attivita-per-bestemmia-a-scuola-grave-forma-di-insulto-che-non-deve-lasciare-indifferenti-lettera/",
-                "date": "19 Mar 2025",
-                "time": "11:02",
                 "image_link": "N/A"
             }
         ]
