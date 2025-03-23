@@ -3,26 +3,29 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
-                "category": "Politica scolastica",
-                "title": "“Stipendi più alti, buoni pasto, indennità per i fuori sede. Votare per ridare dignità al personale della scuola” INTERVISTA a Pacifico (Anief)",
-                "link": "https://www.orizzontescuola.it/stipendi-piu-alti-buoni-pasto-indennita-per-i-fuori-sede-votare-per-ridare-dignita-al-personale-della-scuola-intervista-a-pacifico-anief/",
-                "date": "22 Mar 2025",
-                "time": "7:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/WhatsApp.Image_.2023.03.29.at_.18.20.04.jpg"
+                "category": "Cronaca",
+                "title": "“In Finlandia gli studenti non competono sui voti”. Paola, docente italiana in viaggio nella scuola finlandese: “Tecnologia intelligente e zero pressione, fiducia reciproca e benessere emotivo” INTERVISTA",
+                "link": "https://www.orizzontescuola.it/in-finlandia-gli-studenti-non-competono-sui-voti-paola-docente-italiana-in-viaggio-nella-scuola-finlandese-tecnologia-intelligente-e-zero-pressione-fiducia-reciproca-e-benessere-emotivo-i/",
+                "date": "23 Mar 2025",
+                "time": "8:01",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/att.RkyWV4CAYCQlAviv2SGuOB6PSbbhfruDW2nJam3ir6Q.jpg"
             },
-            {
-                "category": "Scuole",
-                "title": "Ministero: “Niente asterisco e schwa nelle comunicazioni delle scuole. Attenersi alle regole della lingua italiana”. La Circolare",
-                "link": "https://www.orizzontescuola.it/comunicazioni-ufficiali-delle-scuole-ministero-attenersi-alle-regole-della-lingua-italiana-no-alluso-di-e-%c9%99-nota/",
-                "date": "21 Mar 2025",
-                "time": "15:36",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/09/shutterstock_285571058.jpg"
-            }
+            null
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
+            {
+                "category": "Plus",
+                "title": "“Gestire la scuola”, online il primo numero della nuova rivista di OrizzonteScuola dedicata a Dirigenti, DSGA, collaboratori del dirigente e segreterie",
+                "link": "https://www.orizzontescuola.it/gestire-la-scuola-online-il-primo-numero-della-nuova-rivista-di-orizzontescuola-dedicata-a-dirigenti-dsga-collaboratori-del-dirigente-segreterie/",
+                "date": "23 Mar 2025",
+                "time": "7:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Progetto-senza-titolo-3-1.png"
+            },
+            null,
             {
                 "category": "ATA",
                 "title": "Mobilità ATA 2025, gestione degli allegati e non solo: tutte le info utili per la domanda. QUESTION TIME con Sorrentino (Anief) LIVE Lunedì 24 marzo alle 14:30",
@@ -126,7 +129,12 @@
                 "date": "22 Mar 2025",
                 "time": "7:55",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_2252587299.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Calendario scolastico 2025, vacanze di Pasqua e poi ponte per il 25 aprile e il 1° maggio. Le date di stop delle lezioni per regione",
@@ -134,6 +142,14 @@
                 "date": "22 Mar 2025",
                 "time": "7:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_2002803581-scaled.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "“Stipendi più alti, buoni pasto, indennità per i fuori sede. Votare per ridare dignità al personale della scuola” INTERVISTA a Pacifico (Anief)",
+                "link": "https://www.orizzontescuola.it/stipendi-piu-alti-buoni-pasto-indennita-per-i-fuori-sede-votare-per-ridare-dignita-al-personale-della-scuola-intervista-a-pacifico-anief/",
+                "date": "22 Mar 2025",
+                "time": "7:42",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/WhatsApp.Image_.2023.03.29.at_.18.20.04.jpg"
             },
             null,
             {
@@ -143,12 +159,7 @@
                 "date": "21 Mar 2025",
                 "time": "21:23",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Valditara: “Occorre ripristinare l’autorevolezza dei docenti, ma anche il principio di autorità. Tornare a scrivere Maestro con la M maiuscola”",
@@ -246,58 +257,42 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2331500305.jpg"
             },
             {
+                "category": "Scuole",
+                "title": "Ministero: “Niente asterisco e schwa nelle comunicazioni delle scuole. Attenersi alle regole della lingua italiana”. La Circolare",
+                "link": "https://www.orizzontescuola.it/comunicazioni-ufficiali-delle-scuole-ministero-attenersi-alle-regole-della-lingua-italiana-no-alluso-di-e-%c9%99-nota/",
+                "date": "21 Mar 2025",
+                "time": "15:36",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/09/shutterstock_285571058.jpg"
+            },
+            {
                 "category": "Politica scolastica",
                 "title": "Concorso docenti PNRR2, la denuncia della Gilda: “Errori e anomalie nelle prove scritte. Inaccettabile. Il Ministero faccia chiarezza”",
                 "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr2-la-denuncia-della-gilda-errori-e-anomalie-nelle-prove-scritte-incettabile-il-ministero-faccia-chiarezza/",
                 "date": "21 Mar 2025",
                 "time": "15:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_2260125901.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Graduatoria Interna, come si calcola il punteggio pre-ruolo? Cosa cambia rispetto al passato? Pillole di QuestionTime",
-                "link": "https://www.orizzontescuola.it/graduatoria-interna-come-si-calcola-il-punteggio-pre-ruolo-cosa-cambia-rispetto-al-passato-pillole-di-questiontime/",
-                "date": "21 Mar 2025",
-                "time": "15:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_1831747288.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Nuove Indicazioni Nazionali, al via la consultazione: le scuole possono partecipare fino al 10 aprile. NOTA",
-                "link": "https://www.orizzontescuola.it/indicazioni-nazionali-al-via-la-consultazione-le-scuole-possono-partecipare-fino-al-10-aprile-nota/",
-                "date": "21 Mar 2025",
-                "time": "15:08",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2480765345.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Mobilità docenti: come dichiarare i master e i titoli aggiuntivi nella domanda",
-                "link": "https://www.orizzontescuola.it/mobilita-docenti-come-dichiarare-i-master-e-i-titoli-aggiuntivi-nella-domanda/",
-                "date": "21 Mar 2025",
-                "time": "14:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/shutterstock_695764750.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Pugni in classe, ma chi ha iniziato merita una punizione diversa”, il Consiglio di Stato boccia il ricorso della scuola: “Non tutti gli studenti coinvolti hanno le stesse responsabilità”. SENTENZA",
-                "link": "https://www.orizzontescuola.it/pugni-in-classe-ma-chi-ha-iniziato-merita-una-punizione-diversa-il-consiglio-di-stato-boccia-il-ricorso-della-scuola-non-tutti-gli-studenti-coinvolti-hanno-le-stesse-responsabilita-sentenz/",
-                "date": "21 Mar 2025",
-                "time": "12:37",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_675123196.jpg"
-            },
-            {
-                "category": "DSGA",
-                "title": "Concorso DSGA, prova scritta il 10 aprile: dove si svolge. Ecco le SEDI d’esame [Elenco in aggiornamento]",
-                "link": "https://www.orizzontescuola.it/concorso-dsga-prova-scritta-il-10-aprile-dove-si-svolge-ecco-le-sedi-desame-elenco-in-aggiornamento/",
-                "date": "21 Mar 2025",
-                "time": "12:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_521791969.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Adolescence, la serie Netflix che docenti e genitori dovrebbero vedere: dalla Manosfera alla cultura Incel. Di cosa si trata",
+                "link": "https://www.orizzontescuola.it/adolescence-la-serie-netflix-che-docenti-e-genitori-dovrebbero-vedere-dalla-manosfera-alla-cultura-incel-di-cosa-si-trata/",
+                "date": "23 Mar 2025",
+                "time": "8:46",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Scuole montane, V Commissione della Camera approva emendamento suggerito da Anief su punteggio aggiuntivo di servizio anche al personale ATA, pure per la mobilità",
+                "link": "https://www.orizzontescuola.it/scuole-montane-v-commissione-della-camera-approva-emendamento-suggerito-da-anief-su-punteggio-aggiuntivo-di-servizio-anche-al-personale-ata-pure-per-la-mobilita/",
+                "date": "23 Mar 2025",
+                "time": "8:30",
+                "image_link": "N/A"
+            },
             {
                 "category": "Genitori",
                 "title": "“Né padre-padrone né genitore-bancomat”, la nuova paternità secondo Novara: “Autorità e autorevolezza, un difficile equilibrio”",
@@ -425,22 +420,6 @@
                 "date": "22 Mar 2025",
                 "time": "9:51",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Pensioni a rischio, il furto digitale che svuota i conti degli anziani. Il caso di un professore universitario che ha perso oltre 40mila euro dopo il furto dello SPID",
-                "link": "https://www.orizzontescuola.it/pensioni-a-rischio-il-furto-digitale-che-svuota-i-conti-degli-anziani-il-caso-di-un-professore-universitario-che-ha-perso-oltre-40mila-euro-dopo-il-furto-dello-spid/",
-                "date": "22 Mar 2025",
-                "time": "8:59",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Genitori",
-                "title": "Essere papà oggi, Pellai: “Un nuovo modello è in costruzione, in bilico tra un padre peluche e uno evaporato. Non farlo sentire inadeguato”",
-                "link": "https://www.orizzontescuola.it/essere-papa-oggi-pellai-un-nuovo-modello-e-in-costruzione-in-bilico-tra-un-padre-peluche-e-uno-evaporato-non-farlo-sentire-inadeguato/",
-                "date": "22 Mar 2025",
-                "time": "7:56",
-                "image_link": "N/A"
             }
         ]
     },
@@ -566,6 +545,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Percorsi abilitanti da 60, 30 e 36 CFU, secondo ciclo: ecco il decreto del MUR con integrazione dei posti più la tabella titoli",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-secondo-ciclo-ecco-il-decreto-del-mur-con-lintegrazione-dei-posti-piu-la-tabella-titoli/",
+                "date": "20 Mar 2025",
+                "time": "9:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/prova-orale-concorso-docenti.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Corso sostegno INDIRE abilitati estero, parere negativo CSPI: eccessiva semplificazione [SCARICA IL TESTO]",
                 "link": "https://www.orizzontescuola.it/corso-sostegno-indire-abilitati-estero-cspi-verso-parere-negativo-anticipazioni/",
                 "date": "19 Mar 2025",
@@ -603,14 +590,6 @@
                 "date": "19 Mar 2025",
                 "time": "16:07",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_1029430381.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Dopo la chiusura dei bandi, quanto tempo passa prima che vengano pubblicate le graduatorie per i percorsi abilitanti? Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/dopo-la-chiusura-dei-bandi-quanto-tempo-passa-prima-che-vengano-pubblicate-le-graduatorie-per-i-percorsi-abilitanti/",
-                "date": "19 Mar 2025",
-                "time": "12:38",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_1819849748.jpg"
             }
         ]
     },
