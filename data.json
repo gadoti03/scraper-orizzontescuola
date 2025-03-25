@@ -24,6 +24,22 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Politica scolastica",
+                "title": "Tutela del lavoro per malati oncologici, approvata all’unanimità la nuova legge: fino a 24 mesi di congedo e permessi extra. TESTO",
+                "link": "https://www.orizzontescuola.it/tutela-del-lavoro-per-malati-oncologici-approvata-allunanimita-la-nuova-legge-fino-a-24-mesi-di-congedo-e-permessi-extra-testo/",
+                "date": "25 Mar 2025",
+                "time": "18:09",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_363892940.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Percorsi abilitanti 36 CFU vincitori di concorso, 120 ore di tirocinio diretto in due mesi. Quali attività sono valide",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-36-cfu-vincitori-di-concorso-120-ore-di-tirocinio-diretto-in-due-mesi-quali-attivita-sono-valide/",
+                "date": "25 Mar 2025",
+                "time": "18:01",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2491902319.jpg"
+            },
+            {
                 "category": "Scuole",
                 "title": "Richiesta di conferma del docente di sostegno: in allegato un modello",
                 "link": "https://www.orizzontescuola.it/richiesta-di-conferma-del-docente-di-sostegno-in-allegato-un-modello/",
@@ -134,7 +150,12 @@
                 "date": "25 Mar 2025",
                 "time": "12:39",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/09/shutterstock_567718675.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "DSGA",
                 "title": "Concorso DSGA, dove si svolge la prova scritta. Ecco le SEDI d’esame [Elenco in aggiornamento]",
@@ -150,12 +171,7 @@
                 "date": "25 Mar 2025",
                 "time": "11:35",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/Bucalo.jpeg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "Continuità didattica per il sostegno, richieste entro il 31 maggio. Cosa deve fare il DS",
@@ -269,28 +285,68 @@
                 "date": "24 Mar 2025",
                 "time": "21:31",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/09/shutterstock_393077005.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Fondo per la lettura, il bando 2025 per le biblioteche scolastiche. Domande dal 1° al 30 aprile",
-                "link": "https://www.orizzontescuola.it/fondo-per-la-lettura-il-bando-2025-per-le-biblioteche-scolastiche-domande-dal-1-al-30-aprile/",
-                "date": "24 Mar 2025",
-                "time": "20:02",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2182802453.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti da 60, 30 e 36 CFU per il 2024/25: ecco le PAGINA degli Atenei inseriti con il secondo decreto [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-da-60-30-e-36-cfu-per-il-2024-25-ci-saranno-tutte-le-classi-di-concorso-quando-i-bandi-ecco-cosa-dicono-le-universita/",
-                "date": "24 Mar 2025",
-                "time": "18:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Meloni chiama una mamma: “Pronta a combattere per i giovani nel nome di sua figlia Dea”. Una promessa nel nome di una giovane scomparsa",
+                "link": "https://www.orizzontescuola.it/meloni-chiama-una-mamma-pronta-a-combattere-per-i-giovani-nel-nome-di-mia-figlia-dea-una-promessa-nel-nome-di-una-giovane-scomparsa/",
+                "date": "25 Mar 2025",
+                "time": "20:52",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Nessuna categoria",
+                "title": "Emilia-Romagna regina delle mense bio: 14 milioni di pasti sostenibili per i bambini nel 2024",
+                "link": "https://www.orizzontescuola.it/emilia-romagna-regina-delle-mense-bio-14-milioni-di-pasti-sostenibili-per-i-bambini-nel-2024/",
+                "date": "25 Mar 2025",
+                "time": "20:46",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Palermo accoglie il veliero ‘Bel Espoir’: un viaggio di pace e dialogo nel Mediterraneo",
+                "link": "https://www.orizzontescuola.it/palermo-accoglie-il-veliero-bel-espoir-un-viaggio-di-pace-e-dialogo-nel-mediterraneo/",
+                "date": "25 Mar 2025",
+                "time": "20:04",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "ChatGPT in cattedra, l’università sfida l’intelligenza artificiale. A Torino si cambia anche il concetto di tesi",
+                "link": "https://www.orizzontescuola.it/chatgpt-in-cattedra-luniversita-sfida-lintelligenza-artificiale-a-torino-si-cambia-anche-il-concetto-di-testi/",
+                "date": "25 Mar 2025",
+                "time": "20:02",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Valditara: “La scuola ha il compito di offrire ai giovani un futuro di qualità, un percorso di crescita che li renda liberi”",
+                "link": "https://www.orizzontescuola.it/valditara-la-scuola-ha-il-compito-di-offrire-ai-giovani-un-futuro-di-qualita-un-percorso-di-crescita-che-li-renda-liberi/",
+                "date": "25 Mar 2025",
+                "time": "18:28",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "La patente tutta digitale e anche per i 17enni (ma con limitazioni): ecco la rivoluzione nell’Unione Europea",
+                "link": "https://www.orizzontescuola.it/la-patente-tutta-digitale-e-anche-per-i-17enni-ma-con-limitazioni-ecco-la-rivoluzione-nellunione-europea/",
+                "date": "25 Mar 2025",
+                "time": "18:21",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Genitori",
+                "title": "Ai figli solo il cognome della madre, il parere del costituzionalista Mirabelli: “Disegno di legge senza senso, non arriverà nemmeno in Aula”",
+                "link": "https://www.orizzontescuola.it/ai-figli-solo-il-cognome-della-madre-il-parere-del-costituzionalista-mirabelli-disegno-di-legge-senza-senso-non-arrivera-nemmeno-in-aula/",
+                "date": "25 Mar 2025",
+                "time": "17:50",
+                "image_link": "N/A"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Buoni pasto giornalieri da 13 euro ad insegnanti e personale Ata, Anief chiede al Governo le risorse per il rinnovo del contratto: domani incontro Aran-sindacati proprio sul Ccnl 2022-24",
@@ -370,62 +426,6 @@
                 "link": "https://www.orizzontescuola.it/mattarella-ce-la-tendenza-tra-i-giovani-a-contrarre-le-parole-riaffermare-limportanza-del-libro-per-capacita-espressiva/",
                 "date": "25 Mar 2025",
                 "time": "14:41",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Genitori",
-                "title": "Bonus Nido 2025, via alle domande per il contributo fino a 3.600 euro. Problemi sulla piattaforma",
-                "link": "https://www.orizzontescuola.it/bonus-nido-2025-via-alle-domande-per-il-contributo-fino-a-3-600-euro-problemi-sulla-piattaforma/",
-                "date": "25 Mar 2025",
-                "time": "14:29",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso secondaria PNRR1, graduatorie pubblicate dopo il 10 dicembre 2024 per assunzioni docenti nel 2025/26",
-                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr1-graduatorie-pubblicate-dopo-il-31-dicembre-2024-per-assunzioni-docenti-nel-2025-26/",
-                "date": "25 Mar 2025",
-                "time": "14:21",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Prof, posso darle del tu?”, galateo a scuola tra formalità e nuove tendenze. il 77% rivela che si alza quando il docente entra in classe",
-                "link": "https://www.orizzontescuola.it/prof-posso-darle-del-tu-galateo-a-scuola-tra-formalita-e-nuove-tendenze-il-77-rivela-che-si-alza-quando-il-docente-entra-in-classe/",
-                "date": "25 Mar 2025",
-                "time": "13:23",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Dantedì, le iniziative per le scuole e lo speciale su Rai Scuola",
-                "link": "https://www.orizzontescuola.it/dantedi-le-iniziative-per-le-scuole-e-lo-speciale-su-rai-scuola/",
-                "date": "25 Mar 2025",
-                "time": "13:10",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Specializzazione sostegno, indagini in corso per una presunta truffa online",
-                "link": "https://www.orizzontescuola.it/specializzazione-sostegno-indagini-in-corso-per-una-presunta-truffa-online/",
-                "date": "25 Mar 2025",
-                "time": "12:56",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Nuove Indicazioni Nazionali, “denigrare invece di discutere”, lo sfogo di Galli della Loggia",
-                "link": "https://www.orizzontescuola.it/nuove-indicazioni-nazionali-denigrare-invece-di-discutere-lo-sfogo-di-galli-della-loggia/",
-                "date": "25 Mar 2025",
-                "time": "12:25",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Il coding alla primaria, si programma il robot Alvik per esplorare il Sistema Solare. Il progetto di una scuola torinese",
-                "link": "https://www.orizzontescuola.it/il-coding-alla-primaria-si-programma-il-robot-alvik-per-esplorare-il-sistema-solare-il-progetto-di-una-scuola-torinese/",
-                "date": "25 Mar 2025",
-                "time": "10:04",
                 "image_link": "N/A"
             }
         ]
@@ -711,6 +711,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Adolescence, da parte di una insegnante. Lettera",
+                "link": "https://www.orizzontescuola.it/adolescence-da-parte-di-una-insegnante-lettera/",
+                "date": "25 Mar 2025",
+                "time": "20:57",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "Ancora il dito puntato contro i docenti. Lettera",
                 "link": "https://www.orizzontescuola.it/ancora-il-dito-puntato-contro-i-docenti-lettera/",
                 "date": "25 Mar 2025",
@@ -747,14 +755,6 @@
                 "link": "https://www.orizzontescuola.it/lintelligenza-artificiale-e-leducazione-la-nuova-frontiera-lettera/",
                 "date": "24 Mar 2025",
                 "time": "7:51",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Nuove Indicazioni 2025: un’opportunità per riflettere insieme sulla scuola che vogliamo. Lettera",
-                "link": "https://www.orizzontescuola.it/nuove-indicazioni-2025-unopportunita-per-riflettere-insieme-sulla-scuola-che-vogliamo-lettera/",
-                "date": "23 Mar 2025",
-                "time": "17:28",
                 "image_link": "N/A"
             }
         ]
