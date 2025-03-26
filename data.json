@@ -24,6 +24,14 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "“Non siamo amici, siamo prof”, gli insegnanti si dividono sulle regole di comportamento in classe: “Si tratta di educazione, la scuola è una palestra di vita”",
+                "link": "https://www.orizzontescuola.it/non-siamo-amici-siamo-prof-gli-insegnanti-si-dividono-sulle-regole-di-comportamento-in-classe-si-tratta-di-educazione-la-scuola-e-una-palestra-di-vita/",
+                "date": "25 Mar 2025",
+                "time": "21:25",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/06/studenti-in-classe-messa-a-disposizione.jpg"
+            },
+            {
                 "category": "Politica scolastica",
                 "title": "Tutela del lavoro per malati oncologici, approvata all’unanimità la nuova legge: fino a 24 mesi di congedo e permessi extra. TESTO",
                 "link": "https://www.orizzontescuola.it/tutela-del-lavoro-per-malati-oncologici-approvata-allunanimita-la-nuova-legge-fino-a-24-mesi-di-congedo-e-permessi-extra-testo/",
@@ -142,7 +150,12 @@
                 "date": "25 Mar 2025",
                 "time": "12:42",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2550511773.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Studenti",
                 "title": "PCTO Candidati esterni Esami di Stato 2025: Consigli di classe deliberano su validità percorsi ed esperienze lavorative. I criteri",
@@ -150,12 +163,7 @@
                 "date": "25 Mar 2025",
                 "time": "12:39",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/09/shutterstock_567718675.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "DSGA",
                 "title": "Concorso DSGA, dove si svolge la prova scritta. Ecco le SEDI d’esame [Elenco in aggiornamento]",
@@ -277,15 +285,7 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_1398924344-1.jpg"
             },
             null,
-            null,
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR2 infanzia e primaria, prova orale e poi graduatorie. In estate le assunzioni. Ecco le CONVOCAZIONI",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr2-infanzia-e-primaria-iniziano-prove-orali-dal-20-marzo-in-lombardia-per-posto-comune-primaria-la-convocazione/",
-                "date": "24 Mar 2025",
-                "time": "21:31",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/09/shutterstock_393077005.jpg"
-            }
+            null
         ]
     },
     "group_4": {
@@ -552,6 +552,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Docenti vincitrici di concorso in gravidanza, non potranno seguire le lezioni e tirocinio in presenza per il corso abilitante, rischiano di perdere l’assunzione",
+                "link": "https://www.orizzontescuola.it/docenti-vincitrici-di-concorso-in-gravidanza-non-potranno-seguire-le-lezioni-e-tirocinio-in-presenza-per-il-corso-abilitante-rischiano-di-perdere-lassunzione/",
+                "date": "24 Mar 2025",
+                "time": "9:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_1904907157.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Consegue titolo estero per l’abilitazione all’insegnamento per insegnare Geografia e Storia, ma in Italia non esiste una classe di concorso corrispondente. Deve essere riconosciuto?",
                 "link": "https://www.orizzontescuola.it/consegue-titolo-estero-per-labilitazione-allinsegnamento-per-insegnare-geografia-e-storia-ma-in-italia-non-esiste-una-classe-di-concorso-corrispondente-deve-essere-riconosciuto/",
                 "date": "22 Mar 2025",
@@ -589,14 +597,6 @@
                 "date": "20 Mar 2025",
                 "time": "16:12",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_388588420.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti docenti a.a. 2024-2025, sì alla contemporanea frequenza con il IX ciclo del TFA Sostegno. Lo prevede il decreto del MUR",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-docenti-si-alla-contemporanea-frequenza-con-il-ix-ciclo-del-tfa-sostegno-lo-prevede-il-decreto-del-mur/",
-                "date": "20 Mar 2025",
-                "time": "10:04",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/download-2-1.jpg"
             }
         ]
     },
