@@ -24,6 +24,22 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Politica scolastica",
+                "title": "Nuove Indicazioni Nazionali, Perla: “Nessun boicottaggio, la consultazione è trasparente e partecipata. Questionario non è l’unico strumento di consultazione”",
+                "link": "https://www.orizzontescuola.it/nuove-indicazioni-nazionali-perla-nessun-boicottaggio-la-consultazione-e-trasparente-e-partecipata-questionario-non-e-lunico-strumento-di-consultazione/",
+                "date": "26 Mar 2025",
+                "time": "19:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Screenshot-2025-03-26-alle-19.48.27.png"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Percorsi abilitanti da 60, 36 e 30 cfu: a che punto siamo? E sui corsi INDIRE è conto alla rovescia. QUESTION TIME con Cannas. LIVE Giovedì 27 marzo alle 14:30",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-da-60-36-e-30-cfu-a-che-punto-siamo-e-sui-corsi-indire-e-conto-alla-rovescia-question-time-con-cannas-live-giovedi-27-marzo-alle-1430/",
+                "date": "26 Mar 2025",
+                "time": "17:37",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Template_questiontime_1920x1080-17.png"
+            },
+            {
                 "category": "ATA",
                 "title": "Mobilità ATA 2025: come calcolare il punteggio, l’anzianità di servizio, legge 104. RISPOSTE AI QUESITI",
                 "link": "https://www.orizzontescuola.it/mobilita-ata-2025-come-calcolare-il-punteggio-lanzianita-di-servizio-legge-104-risposte-ai-quesiti/",
@@ -134,7 +150,12 @@
                 "date": "26 Mar 2025",
                 "time": "11:03",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/Valditara-1.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Commissione esami di stato 2025: la circolare informativa e il modello dichiarativo assenza di incompatibilità",
@@ -150,12 +171,7 @@
                 "date": "26 Mar 2025",
                 "time": "10:43",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/04/shutterstock_129781826.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "DSGA",
                 "title": "Indennità di direzione DSGA: 230 euro contro i 428 dei funzionari ministeriali. Anquap: “Istituire fondo per portarla a 460 euro”",
@@ -269,22 +285,6 @@
                 "date": "25 Mar 2025",
                 "time": "17:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_2029117475.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Nuove Indicazioni Nazionali, CISL Scuola e Gilda: “Consultazione di facciata. Tutto è possibile fuorché essere in disaccordo”",
-                "link": "https://www.orizzontescuola.it/nuove-indicazioni-nazionali-cisl-e-gilda-consultazione-di-facciata-tutto-e-possibile-fuorche-essere-in-disaccordo/",
-                "date": "25 Mar 2025",
-                "time": "16:18",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_1051085735.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Vacanze estive infinite? L’allarme di Daniele Novara: “Troppo lunghe, centri estivi gratis o sarà il caos per le famiglie italiane”",
-                "link": "https://www.orizzontescuola.it/vacanze-estive-infinite-lallarme-di-daniele-novara-troppo-lunghe-centri-estivi-gratis-o-sara-il-caos-per-le-famiglie-italiane/",
-                "date": "25 Mar 2025",
-                "time": "16:14",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_697764307-scaled.jpg"
             }
         ]
     },
@@ -292,8 +292,89 @@
         "title": "In Breve",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "A Torino bus turistico precipita nel Po: morto l’autista, tre feriti lievi. Andava a prendere una scolaresca di una scuola primaria in gita",
+                "link": "https://www.orizzontescuola.it/a-torino-bus-turistico-precipita-nel-po-morto-lautista-tre-feriti-lievi-andava-a-prendere-una-scolaresca-di-una-scuola-primaria-in-gita/",
+                "date": "26 Mar 2025",
+                "time": "21:07",
+                "image_link": "N/A"
+            },
+            {
                 "category": "Comunicati stampa",
-                "title": "Snals: “Gli stipendi dei docenti subiranno un altro arretramento. Servono risorse per il CCNL 2022/24”",
+                "title": "Reggio Children e Fondazione Lego negli Stati Uniti, per un progetto su gioco e apprendimento",
+                "link": "https://www.orizzontescuola.it/reggio-children-e-fondazione-lego-negli-stati-uniti-per-un-progetto-su-gioco-e-apprendimento/",
+                "date": "26 Mar 2025",
+                "time": "20:21",
+                "image_link": "N/A"
+            },
+            null,
+            {
+                "category": "Cronaca",
+                "title": "La scuola che combatte l’ansia post-lockdown: un giorno in classe, quattro su Zoom. Si trova a Londra e costa 20mila euro",
+                "link": "https://www.orizzontescuola.it/la-scuola-che-combatte-lansia-post-lockdown-un-giorno-in-classe-quattro-su-zoom-si-trova-a-londra-e-costa-20mila-euro/",
+                "date": "26 Mar 2025",
+                "time": "19:44",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Allerta meteo giovedì 27 marzo, scuole chiuse in diversi comuni della Calabria. ELENCO IN AGGIORNAMENTO",
+                "link": "https://www.orizzontescuola.it/allerta-meteo-giovedi-27-marzo-scuole-chiuse-in-diversi-comuni-della-calabria-elenco-in-aggiornamento/",
+                "date": "26 Mar 2025",
+                "time": "19:01",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "La tragica morte di un insegnante ucciso dal fratello per l’eredità. Il ricordo commosso di colleghi e studenti: “Ricorderemo con affetto la sua dedizione e il suo sorriso”",
+                "link": "https://www.orizzontescuola.it/la-tragica-morte-di-un-insegnante-ucciso-dal-fratello-per-leredita-il-ricordo-commosso-di-colleghi-e-studenti-ricorderemo-con-affetto-la-sua-dedizione-e-il-suo-sorriso/",
+                "date": "26 Mar 2025",
+                "time": "19:00",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Cuori di maiale in aula, la protesta della LAV: “Pratica obsoleta e dannosa. La scuola difende la scelta nonostante i rischi e le alternative”",
+                "link": "https://www.orizzontescuola.it/cuori-di-maiale-in-aula-la-protesta-della-lav-pratica-obsoleta-e-dannosa-la-scuola-difende-la-scelta-nonostante-i-rischi-e-le-alternative/",
+                "date": "26 Mar 2025",
+                "time": "18:50",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Contratto scuola, Barbacci (Cisl Scuola): “Risorse insufficienti, servono interventi mirati per Istruzione e Ricerca”",
+                "link": "https://www.orizzontescuola.it/contratto-scuola-barbacci-cisl-scuola-risorse-insufficienti-servono-interventi-mirati-per-istruzione-e-ricerca/",
+                "date": "26 Mar 2025",
+                "time": "18:39",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Aumenti insufficienti per i docenti, la Gilda: “Con 150 euro lordi non si copre l’inflazione”. La proposta: “Integrare la Carta Docente nello stipendio”",
+                "link": "https://www.orizzontescuola.it/aumenti-insufficienti-per-i-docenti-la-gilda-con-150-euro-lordi-non-si-copre-linflazione-la-proposta-integrare-la-carta-docente-nello-stipendio/",
+                "date": "26 Mar 2025",
+                "time": "18:35",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Rinnovo contratto scuola, Pacifico (Anief): “Con 136 euro in più al mese non si vive, serve parità di trattamento”",
+                "link": "https://www.orizzontescuola.it/rinnovo-contratto-scuola-pacifico-anief-con-136-euro-in-piu-al-mese-non-si-vive-serve-parita-di-trattamento/",
+                "date": "26 Mar 2025",
+                "time": "18:31",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Rinnovo contratto scuola, D’Aprile (Uil Scuola Rua): “Risorse insufficienti, no ai vincoli su relazioni sindacali”",
+                "link": "https://www.orizzontescuola.it/rinnovo-contratto-scuola-daprile-uil-scuola-rua-con-linflazione-al-16-56-euro-in-piu-sono-uno-schiaffo/",
+                "date": "26 Mar 2025",
+                "time": "18:27",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Serafini (Snals): “Gli stipendi dei docenti subiranno un altro arretramento. Servono risorse per il CCNL 2022/24”",
                 "link": "https://www.orizzontescuola.it/snasl-gli-stipendi-dei-docenti-subiranno-un-altro-arretramento-servono-risorse-per-il-ccnl-2022-24/",
                 "date": "26 Mar 2025",
                 "time": "17:10",
@@ -314,14 +395,6 @@
                 "link": "https://www.orizzontescuola.it/calendario-scolastico-2025-2026-in-sicilia-al-via-il-15-settembre-2025-il-nuovo-anno-scolastico/",
                 "date": "26 Mar 2025",
                 "time": "16:49",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Allerta meteo giovedì 27 marzo, scuole chiuse in diversi comuni della Calabria. ELENCO IN AGGIORNAMENTO",
-                "link": "https://www.orizzontescuola.it/allerta-meteo-giovedi-27-marzo-scuole-chiuse-in-diversi-comuni-della-calabria-elenco-in-aggiornamento/",
-                "date": "26 Mar 2025",
-                "time": "16:18",
                 "image_link": "N/A"
             },
             {
@@ -346,86 +419,6 @@
                 "link": "https://www.orizzontescuola.it/mobilita-ata-2025-ecco-a-cosa-fare-attenzione-per-compilare-bene-la-domanda-question-time-con-cozzolino-live-mercoledi-26-marzo-alle-1430/",
                 "date": "26 Mar 2025",
                 "time": "14:25",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Adolescence divide gli esperti, spettacolarizzazione o riflessione? Novara: “Imbarazzante”, Crepet: “Non la vedrò”",
-                "link": "https://www.orizzontescuola.it/adolescence-divide-gli-esperti-spettacolarizzazione-o-riflessione-novara-imbarazzante-crepet-non-la-vedro/",
-                "date": "26 Mar 2025",
-                "time": "13:34",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Disastri, attacchi e conflitti, l’UE invita i cittadini a prepararsi con piani familiari e beni essenziali: scorte per 72 ore, medicine, rifugi. Ecco cosa è previsto",
-                "link": "https://www.orizzontescuola.it/disastri-attacchi-e-conflitti-lue-invita-i-cittadini-a-prepararsi-con-piani-familiari-e-beni-essenziali-scorte-per-72-ore-medicine-rifugiecco-cosa-e-previsto/",
-                "date": "26 Mar 2025",
-                "time": "12:42",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Libriamoci, la festa della lettura che conquista l’Italia e il mondo: più di 329 mila studenti in oltre 9.000 attività",
-                "link": "https://www.orizzontescuola.it/libriamoci-la-festa-della-lettura-che-conquista-litalia-e-il-mondo-piu-di-329-mila-studenti-in-oltre-9-000-attivita/",
-                "date": "26 Mar 2025",
-                "time": "12:40",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Esenzione dell’IMU per le scuole paritarie, FIDAE plaude all’iniziativa di Valditara: “Passo importante, ma chiediamo certezze normative”",
-                "link": "https://www.orizzontescuola.it/esenzione-dellimu-per-le-scuole-paritarie-fidae-plaude-alliniziativa-di-valditara-passo-importante-ma-chiediamo-certezze-normative/",
-                "date": "26 Mar 2025",
-                "time": "12:35",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "In Molise una scuola intitolata a Sammy Basso, l’USR: “Un’eredità di valori forti ai nostri studenti”",
-                "link": "https://www.orizzontescuola.it/in-molise-una-scuola-intitolata-a-sammy-basso-lusr-uneredita-di-valori-forti-ai-nostri-studenti/",
-                "date": "26 Mar 2025",
-                "time": "12:20",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Pensioni",
-                "title": "Pensioni 2025: 18 milioni di pensioni e 254 miliardi erogati, ma quasi il 54% sotto i 750 euro. I dati dell’Osservatorio Inps",
-                "link": "https://www.orizzontescuola.it/pensioni-2025-18-milioni-di-pensioni-e-254-miliardi-erogati-ma-quasi-il-54-sotto-i-750-euro-i-dati-dellosservatorio-inps/",
-                "date": "26 Mar 2025",
-                "time": "12:06",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Educazione civica, iniziativa “Senato a punti” per capire come funziona il Parlamento",
-                "link": "https://www.orizzontescuola.it/educazione-civica-iniziativa-senato-a-punti-per-capire-come-funziona-il-parlamento/",
-                "date": "26 Mar 2025",
-                "time": "11:56",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Decreto PA e graduatorie docenti, Gilda soddisfatta per le novità sulla trasparenza. Castellana: “Accolte le nostre richieste”",
-                "link": "https://www.orizzontescuola.it/decreto-pa-e-graduatorie-docenti-gilda-soddisfatta-per-le-novita-sulla-trasparenza-castellana-accolte-le-nostre-richieste/",
-                "date": "26 Mar 2025",
-                "time": "9:59",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Educazione civica, 80 anni dal diritto al voto alle donne: il podcast della Camera “I giorni delle Costituenti”",
-                "link": "https://www.orizzontescuola.it/educazione-civica-il-podcast-della-camera-i-giorni-delle-costituenti-a-80-anni-dal-diritto-al-voto-alle-donne/",
-                "date": "26 Mar 2025",
-                "time": "9:40",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Furto d’identità digitale SPID, come proteggere i propri dati: l’album NoiPA",
-                "link": "https://www.orizzontescuola.it/furto-didentita-digitale-spid-come-proteggere-i-propri-dati-lalbum-noipa/",
-                "date": "26 Mar 2025",
-                "time": "9:27",
                 "image_link": "N/A"
             }
         ]
