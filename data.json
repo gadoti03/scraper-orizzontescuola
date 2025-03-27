@@ -24,6 +24,46 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "ATA",
+                "title": "Organici ATA: un operatore scolastico per ogni plesso e la nuova figura di funzionario. La proposta del MIM e le richieste dei Sindacati",
+                "link": "https://www.orizzontescuola.it/organici-ata-un-operatore-scolastico-per-ogni-plesso-e-la-nuova-figura-di-funzionario-la-proposta-del-mim-e-le-richieste-dei-sindacati/",
+                "date": "27 Mar 2025",
+                "time": "21:08",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze 2024/25, INTERPELLI alla ricerca di docenti [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "27 Mar 2025",
+                "time": "20:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“Bastano 10 anni di istruzione per acquisire la cittadinanza italiana”, a dirlo il Ministro Bernini",
+                "link": "https://www.orizzontescuola.it/bastano-10-anni-di-istruzione-per-acquisire-la-cittadinanza-italiana-a-dirlo-il-ministro-bernini/",
+                "date": "27 Mar 2025",
+                "time": "19:21",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/Bernini_1.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Master, certificazioni e 60 CFU, l’inferno burocratico di chi vuole insegnare (e chi ci rinuncia): “Lavoro al Nord, lontana da casa, con meno soldi e più depressione”. Il dibattito",
+                "link": "https://www.orizzontescuola.it/master-certificazioni-e-60-cfu-linferno-burocratico-di-chi-vuole-insegnare-e-chi-ci-rinuncia-lavoro-al-nord-lontana-da-casa-con-meno-soldi-e-piu-depressione-il-dibattito/",
+                "date": "27 Mar 2025",
+                "time": "18:56",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_1134548471.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Graduatoria interna di istituto: valutazione continuità, ruolo diplomati, bonus 10 punti, pre-ruolo e titoli generali. Risposte ai quesiti",
+                "link": "https://www.orizzontescuola.it/graduatoria-interna-di-istituto-valutazione-continuita-ruolo-diplomati-bonus-10-punti-pre-ruolo-e-titoli-generali-risposte-ai-quesiti/",
+                "date": "27 Mar 2025",
+                "time": "18:27",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Modello-immagine-sito-12.png"
+            },
+            {
                 "category": "Scuole",
                 "title": "Fondo per la promozione della lettura 2025: entro quando presentare la domanda",
                 "link": "https://www.orizzontescuola.it/fondo-per-la-promozione-della-lettura-2025-entro-quando-presentare-la-domanda/",
@@ -89,14 +129,6 @@
             },
             {
                 "category": "Politica scolastica",
-                "title": "Percorsi abilitanti da 60, 36 e 30 cfu: a che punto siamo? E sui corsi INDIRE è conto alla rovescia. QUESTION TIME con Cannas. LIVE Giovedì 27 marzo alle 14:30",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-da-60-36-e-30-cfu-a-che-punto-siamo-e-sui-corsi-indire-e-conto-alla-rovescia-question-time-con-cannas-live-giovedi-27-marzo-alle-1430/",
-                "date": "27 Mar 2025",
-                "time": "13:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Template_questiontime_1920x1080-17.png"
-            },
-            {
-                "category": "Politica scolastica",
                 "title": "A Napoli si svolgerà il primo forum sull’intelligenza artificiale a scuola, Valditara: “Crediamo in una didattica personalizzata, guidata dai docenti”",
                 "link": "https://www.orizzontescuola.it/a-napoli-si-svolgera-il-primo-forum-sullintelligenza-artificiale-a-scuola-valditara-crediamo-in-una-didattica-personalizzata-guidata-dai-docenti/",
                 "date": "27 Mar 2025",
@@ -118,7 +150,12 @@
                 "date": "27 Mar 2025",
                 "time": "12:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/corsi-aprile.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Prove Invalsi studenti terza media al via l’1 aprile. Sono requisito di ammissione all’esame",
@@ -150,12 +187,7 @@
                 "date": "27 Mar 2025",
                 "time": "10:17",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2154471629.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "Consultazione nuove Indicazioni nazionali: attiva e-mail per inviare suggerimenti. Più caratteri nel questionario. NOTA",
@@ -223,14 +255,6 @@
             null,
             null,
             null,
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze 2024/25, INTERPELLI alla ricerca di docenti [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
-                "date": "27 Mar 2025",
-                "time": "7:16",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
-            },
             null,
             {
                 "category": "Politica scolastica",
@@ -247,36 +271,76 @@
                 "date": "26 Mar 2025",
                 "time": "17:03",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1508556191.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "I compensi per Presidenti e Commissari degli Esami di Stato",
-                "link": "https://www.orizzontescuola.it/compensi-per-presidenti-e-commissari-degli-esami-di-stato/",
-                "date": "26 Mar 2025",
-                "time": "17:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2493334753-scaled.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Calendario scolastico 2025/26: quando inizia la scuola a settembre. Le date per regione [IN AGGIORNAMENTO]",
-                "link": "https://www.orizzontescuola.it/calendario-scolastico-2025-26-quando-inizia-la-scuola-a-settembre-le-date-per-regione-in-aggiornamento/",
-                "date": "26 Mar 2025",
-                "time": "16:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2550511773.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Psicologo a scuola, Lazzari (Cnop): “Promuovere lo sviluppo delle competenze emotive, relazionali e la capacità di gestire le criticità”",
-                "link": "https://www.orizzontescuola.it/psicologo-a-scuola-lazzari-cnop-promuovere-lo-sviluppo-delle-competenze-emotive-relazionali-e-la-capacita-di-gestire-le-criticita/",
-                "date": "26 Mar 2025",
-                "time": "16:09",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2109278051.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Questionario nuove Indicazioni nazionali, Ancodis: “Occorre dare più tempo ai collegi”",
+                "link": "https://www.orizzontescuola.it/questionario-nuove-indicazioni-nazionali-ancodis-occorre-dare-piu-tempo-ai-collegi/",
+                "date": "27 Mar 2025",
+                "time": "21:16",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Maria Rita Parsi: “La scuola sia un laboratorio, non una lezione noiosa, così si ama insegnare e imparare”",
+                "link": "https://www.orizzontescuola.it/maria-rita-parsi-la-scuola-sia-un-laboratorio-non-una-lezione-noiosa-cosi-si-ama-insegnare-e-imparare/",
+                "date": "27 Mar 2025",
+                "time": "20:06",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Decreto Scuola, piano del governo da 800 milioni per nuovi asili nido e scuole dell’infanzia. BOZZA",
+                "link": "https://www.orizzontescuola.it/decreto-scuola-piano-del-governo-da-800-milioni-per-nuovi-asili-nido-e-scuole-dellinfanzia-bozza/",
+                "date": "27 Mar 2025",
+                "time": "19:04",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Letture estive obbligate: tra capolavori e torture letterarie, cosa resta davvero negli studenti? Il dibattito su Reddit",
+                "link": "https://www.orizzontescuola.it/letture-estive-obbligate-tra-capolavori-e-torture-letterarie-cosa-resta-davvero-negli-studenti-il-dibattito-su-reddit/",
+                "date": "27 Mar 2025",
+                "time": "18:33",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Studenti",
+                "title": "Politecnico di Milano, con intelligenza artificiale dimezzati gli abbandoni degli studi. Ecco come",
+                "link": "https://www.orizzontescuola.it/politecnico-di-milano-con-intelligenza-artificiale-dimezzati-gli-abbandoni-degli-studi-ecco-come/",
+                "date": "27 Mar 2025",
+                "time": "18:18",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Studenti",
+                "title": "Dai tirocini ai progetti virtuali: così è cambiata l’alternanza scuola-lavoro. Ma gli studenti sono soddisfatti? Solo 1 ragazzo su 2 fa tirocini",
+                "link": "https://www.orizzontescuola.it/dai-tirocini-ai-progetti-virtuali-cosi-e-cambiata-lalternanza-scuola-lavoro-ma-gli-studenti-sono-soddisfatti-solo-1-ragazzo-su-2-fa-tirocini/",
+                "date": "27 Mar 2025",
+                "time": "18:12",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Nudo davanti alla scuola primaria, arrestato un uomo con precedenti penali. Poi la fuga",
+                "link": "https://www.orizzontescuola.it/nudo-davanti-alla-scuola-primaria-arrestato-un-uomo-con-precedenti-penali-poi-la-fuga/",
+                "date": "27 Mar 2025",
+                "time": "18:09",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Decreto Scuola, stanziati 7 milioni per il welfare studentesco. BOZZA",
+                "link": "https://www.orizzontescuola.it/decreto-scuola-stanziati-7-milioni-per-il-welfare-studentesco-bozza/",
+                "date": "27 Mar 2025",
+                "time": "17:58",
+                "image_link": "N/A"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Dl Scuola, Pacifico (Anief): “Sugli idonei una prima soluzione per tanti che rischiavano di vedersi esclusi”",
@@ -335,83 +399,19 @@
                 "image_link": "N/A"
             },
             {
+                "category": "Politica scolastica",
+                "title": "Percorsi abilitanti da 60, 36 e 30 cfu: a che punto siamo? E sui corsi INDIRE è conto alla rovescia. QUESTION TIME con Cannas [VIDEO]",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-da-60-36-e-30-cfu-a-che-punto-siamo-e-sui-corsi-indire-e-conto-alla-rovescia-question-time-con-cannas-live-giovedi-27-marzo-alle-1430/",
+                "date": "27 Mar 2025",
+                "time": "13:11",
+                "image_link": "N/A"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Allarme in classe, prurito e macchie dopo il pranzo. 12 alunni in ospedale. Indagano Nas e Ats",
                 "link": "https://www.orizzontescuola.it/allarme-in-classe-prurito-e-macchie-dopo-il-pranzo-12-alunni-in-ospedale-indagano-nas-e-ats/",
                 "date": "27 Mar 2025",
                 "time": "13:02",
-                "image_link": "N/A"
-            },
-            {
-                "category": "ATA",
-                "title": "ATA: “Portare in detrazione dalla dichiarazione dei redditi i costi delle certificazioni per le graduatorie”",
-                "link": "https://www.orizzontescuola.it/ata-portare-in-detrazione-dalla-dichiarazione-dei-redditi-i-costi-delle-certificazioni-per-le-graduatorie/",
-                "date": "27 Mar 2025",
-                "time": "12:56",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Asili nido e PNRR, a che punto siamo? Manzi (PD): “Solo 25% dei fondi spesi, a rischio 30mila posti. Governo faccia chiarezza”",
-                "link": "https://www.orizzontescuola.it/asili-nido-e-pnrr-a-che-punto-siamo-manzi-pd-solo-25-dei-fondi-spesi-a-rischio-30mila-posti-governo-faccia-chiarezza/",
-                "date": "27 Mar 2025",
-                "time": "12:53",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Valditara agli insegnanti: “Siete la ricchezza del Paese, la vostra è la professione più bella”",
-                "link": "https://www.orizzontescuola.it/valditara-agli-insegnanti-siete-la-ricchezza-del-paese-la-vostra-e-la-professione-piu-bella/",
-                "date": "27 Mar 2025",
-                "time": "12:41",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Uomo irrompe in classe e scrive frasi sconnesse alla lavagna, docente lo mette in fuga, poi bloccato dalla Polizia",
-                "link": "https://www.orizzontescuola.it/uomo-irrompe-in-classe-e-scrive-frasi-sconnesse-alla-lavagna-docente-lo-mette-in-fuga-poi-bloccato-dalla-polizia/",
-                "date": "27 Mar 2025",
-                "time": "12:33",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Sciopero scuola il 4 aprile: avviso Ministero",
-                "link": "https://www.orizzontescuola.it/sciopero-scuola-il-4-aprile-avviso-ministero/",
-                "date": "27 Mar 2025",
-                "time": "12:24",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Valditara annuncia stretta su diplomifici: “Domani con un decreto bloccheremo chi regala diplomi”. E sulla violenza a scuola: “Ripristinare il rispetto”",
-                "link": "https://www.orizzontescuola.it/valditara-annuncia-stretta-su-diplomifici-con-un-decreto-bloccheremo-chi-regala-diplomi-e-sulla-violenza-a-scuola-ripristinare-il-rispetto/",
-                "date": "27 Mar 2025",
-                "time": "12:20",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "12 milioni contro la dispersione scolastica, il piano Valditara per Napoli: “Puntiamo su italiano, matematica e inglese”",
-                "link": "https://www.orizzontescuola.it/12-milioni-contro-la-dispersione-scolastica-il-piano-valditara-per-napoli-puntiamo-su-italiano-matematica-e-inglese/",
-                "date": "27 Mar 2025",
-                "time": "12:11",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Roberto Vecchioni: “Oggi i ragazzi usano solo 600 parole, dieci anni fa erano 6000. La parola scomparirà. Ma io non ci sarò più. Per fortuna”",
-                "link": "https://www.orizzontescuola.it/roberto-vecchioni-oggi-i-ragazzi-usano-solo-600-parole-dieci-anni-fa-erano-6000-la-parola-scomparira-ma-io-non-ci-saro-piu-per-fortuna/",
-                "date": "27 Mar 2025",
-                "time": "12:04",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Docenti e ATA delle scuole delle isole minori della Sicilia pagano per lavorare. Biglietti e affitti esorbitanti”",
-                "link": "https://www.orizzontescuola.it/docenti-e-ata-delle-scuole-delle-isole-minori-della-sicilia-pagano-per-lavorare-biglietti-e-affitti-esorbitanti/",
-                "date": "27 Mar 2025",
-                "time": "11:55",
                 "image_link": "N/A"
             }
         ]
