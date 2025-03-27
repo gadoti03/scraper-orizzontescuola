@@ -3,20 +3,20 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "“Il miglior modo per distruggere un adolescente è quello di non dare limiti. Vi spiego come funziona il suo cervello”. INTERVISTA ad Alvaro Bilbao",
+                "link": "https://www.orizzontescuola.it/il-miglior-modo-per-distruggere-un-adolescente-e-quello-di-non-dare-limiti-vi-spiego-come-funziona-il-suo-cervello-intervista-ad-alvaro-bilbao/",
+                "date": "27 Mar 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/alvaro-bilbao.png"
+            },
+            {
                 "category": "Politica scolastica",
                 "title": "Aumenti stipendiali, cifre medie: 150 euro per i docenti e 130 per gli ATA. Prosegue la trattativa all’Aran sul rinnovo contratto. VIDEO INTERVISTE ai sindacati",
                 "link": "https://www.orizzontescuola.it/rinnovo-contratto-scuola-2022-24-150-euro-di-aumento-medio-previsto-per-docenti-e-ata-prosegue-la-trattativa-allaran/",
                 "date": "26 Mar 2025",
                 "time": "12:52",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Scuola_Aran.jpeg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Sì alla tecnologia, ma noi alle medie insegniamo a lavorare all’uncinetto: intrecciare fili riordina i pensieri”. INTERVISTA alla Dirigente Teresa Formichella",
-                "link": "https://www.orizzontescuola.it/si-alla-tecnologia-ma-noi-alle-medie-insegniamo-a-lavorare-alluncinetto-intrecciare-fili-riordina-i-pensieri-intervista-alla-dirigente-teresa-formichella/",
-                "date": "26 Mar 2025",
-                "time": "7:59",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Progetto-senza-titolo-5.png"
             }
         ]
     },
@@ -25,19 +25,71 @@
         "articles": [
             {
                 "category": "Politica scolastica",
+                "title": "Percorsi abilitanti da 60, 36 e 30 cfu: a che punto siamo? E sui corsi INDIRE è conto alla rovescia. QUESTION TIME con Cannas. LIVE Giovedì 27 marzo alle 14:30",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-da-60-36-e-30-cfu-a-che-punto-siamo-e-sui-corsi-indire-e-conto-alla-rovescia-question-time-con-cannas-live-giovedi-27-marzo-alle-1430/",
+                "date": "27 Mar 2025",
+                "time": "8:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Template_questiontime_1920x1080-17.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "TFA sostegno X ciclo per il conseguimento della specializzazione: partirà in primavera",
+                "link": "https://www.orizzontescuola.it/tfa-sostegno-x-ciclo-per-il-conseguimento-della-specializzazione-partira-in-primavera/",
+                "date": "27 Mar 2025",
+                "time": "8:25",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_310986524.jpg"
+            },
+            {
+                "category": "Scuole non statali",
+                "title": "Il 10% degli studenti è iscritto nelle paritarie, ma il totale continua a scendere: le statali hanno perso 120mila studenti in un anno. I dati del Ministero",
+                "link": "https://www.orizzontescuola.it/il-10-degli-studenti-e-iscritto-nelle-paritarie-ma-il-totale-continua-a-scendere-le-statali-hanno-perso-120mila-studenti-in-un-anno-i-dati-del-ministero/",
+                "date": "27 Mar 2025",
+                "time": "8:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2450794843-1.jpg"
+            },
+            {
+                "category": "Scuole non statali",
+                "title": "Scuole non statali, Valditara: “Serve un buono scuola nazionale per garantire la libertà educativa”",
+                "link": "https://www.orizzontescuola.it/scuole-non-statali-valditara-serve-un-buono-scuola-nazionale-per-garantire-la-liberta-educativa/",
+                "date": "27 Mar 2025",
+                "time": "8:14",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/Valditara.jpeg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Oltre un certo orario stop ai compiti per casa anche se non completati e doposcuola illegale. Le nuove politiche educative che mirano al benessere scolastico introdotte in Cina",
+                "link": "https://www.orizzontescuola.it/oltre-un-certo-orario-stop-ai-compiti-per-casa-anche-se-non-completati-e-doposcuola-illegale-le-nuove-politiche-educative-che-mirano-al-benessere-scolastico-introdotte-in-cina/",
+                "date": "27 Mar 2025",
+                "time": "8:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_1767385442.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Carta docente: dai beneficiari all’attivazione, dai beni e servizi acquistabili alla ricarica annuale, dall’uso improprio alle sanzioni. Guida normativa aggiornata",
+                "link": "https://www.orizzontescuola.it/carta-docente-dai-beneficiari-allattivazione-dai-beni-e-servizi-acquistabili-alla-ricarica-annuale-dalluso-improprio-alle-sanzioni-guida-normativa/",
+                "date": "27 Mar 2025",
+                "time": "7:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2487342921-scaled.jpg"
+            },
+            null,
+            null,
+            null,
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze 2024/25, INTERPELLI alla ricerca di docenti [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "27 Mar 2025",
+                "time": "7:16",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
+            },
+            null,
+            {
+                "category": "Politica scolastica",
                 "title": "Nuove Indicazioni Nazionali, Perla: “Nessun boicottaggio, la consultazione è trasparente e partecipata. Questionario non è l’unico strumento di consultazione”",
                 "link": "https://www.orizzontescuola.it/nuove-indicazioni-nazionali-perla-nessun-boicottaggio-la-consultazione-e-trasparente-e-partecipata-questionario-non-e-lunico-strumento-di-consultazione/",
                 "date": "26 Mar 2025",
                 "time": "19:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Screenshot-2025-03-26-alle-19.48.27.png"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Percorsi abilitanti da 60, 36 e 30 cfu: a che punto siamo? E sui corsi INDIRE è conto alla rovescia. QUESTION TIME con Cannas. LIVE Giovedì 27 marzo alle 14:30",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-da-60-36-e-30-cfu-a-che-punto-siamo-e-sui-corsi-indire-e-conto-alla-rovescia-question-time-con-cannas-live-giovedi-27-marzo-alle-1430/",
-                "date": "26 Mar 2025",
-                "time": "17:37",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Template_questiontime_1920x1080-17.png"
             },
             {
                 "category": "ATA",
@@ -70,7 +122,12 @@
                 "date": "26 Mar 2025",
                 "time": "16:09",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2109278051.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Docenti",
                 "title": "Esami di Stato: scuole in cui i docenti non potranno essere nominati nel 2025. GUIDA per compilare la domanda",
@@ -94,14 +151,6 @@
                 "date": "26 Mar 2025",
                 "time": "12:44",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_2025845477.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze 2024/25, INTERPELLI alla ricerca di docenti [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
-                "date": "26 Mar 2025",
-                "time": "12:09",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
             },
             {
                 "category": "Scuole",
@@ -150,12 +199,7 @@
                 "date": "26 Mar 2025",
                 "time": "11:03",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/Valditara-1.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "Commissione esami di stato 2025: la circolare informativa e il modello dichiarativo assenza di incompatibilità",
@@ -227,70 +271,44 @@
                 "date": "26 Mar 2025",
                 "time": "8:53",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_521791969.jpg"
-            },
-            {
-                "category": "Pensioni",
-                "title": "Posti disponibili docenti e ATA dopo i pensionamenti dal 1° settembre 2025. Elenchi per provincia [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/posti-disponibili-docenti-e-ata-dopo-i-pensionamenti-dal-1-settembre-2025-elenchi-per-provincia-in-aggiornamento/",
-                "date": "26 Mar 2025",
-                "time": "8:45",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2331500305.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Dispersione scolastica e aumento della criminalità, c’è relazione. Un problema europeo",
-                "link": "https://www.orizzontescuola.it/dispersione-scolastica-e-aumento-della-criminalita-ce-relazione-un-problema-europeo/",
-                "date": "26 Mar 2025",
-                "time": "8:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2016/11/streetwear-1683363_960_720.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Nuove Indicazioni Nazionali: consultazione pubblica per le scuole dell’infanzia e del primo ciclo. Scadenza 10 Aprile",
-                "link": "https://www.orizzontescuola.it/nuove-indicazioni-nazionali-consultazione-pubblica-per-le-scuole-dellinfanzia-e-del-primo-ciclo-scadenza-10-aprile/",
-                "date": "26 Mar 2025",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
-            },
-            null,
-            null,
-            {
-                "category": "Cronaca",
-                "title": "“Non siamo amici, siamo prof”, gli insegnanti si dividono sulle regole di comportamento in classe: “Si tratta di educazione, la scuola è una palestra di vita”",
-                "link": "https://www.orizzontescuola.it/non-siamo-amici-siamo-prof-gli-insegnanti-si-dividono-sulle-regole-di-comportamento-in-classe-si-tratta-di-educazione-la-scuola-e-una-palestra-di-vita/",
-                "date": "25 Mar 2025",
-                "time": "21:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/06/studenti-in-classe-messa-a-disposizione.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Tutela del lavoro per malati oncologici, approvata all’unanimità la nuova legge: fino a 24 mesi di congedo e permessi extra. TESTO",
-                "link": "https://www.orizzontescuola.it/tutela-del-lavoro-per-malati-oncologici-approvata-allunanimita-la-nuova-legge-fino-a-24-mesi-di-congedo-e-permessi-extra-testo/",
-                "date": "25 Mar 2025",
-                "time": "18:09",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_363892940.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti 36 CFU vincitori di concorso, 120 ore di tirocinio diretto in due mesi. Quali attività sono valide",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-36-cfu-vincitori-di-concorso-120-ore-di-tirocinio-diretto-in-due-mesi-quali-attivita-sono-valide/",
-                "date": "25 Mar 2025",
-                "time": "18:01",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2491902319.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Richiesta di conferma del docente di sostegno: in allegato un modello",
-                "link": "https://www.orizzontescuola.it/richiesta-di-conferma-del-docente-di-sostegno-in-allegato-un-modello/",
-                "date": "25 Mar 2025",
-                "time": "17:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_2029117475.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Le Emoji possono nascondere un significato ambiguo e occulto. Cos’è il “grooming”",
+                "link": "https://www.orizzontescuola.it/le-emoji-possono-nascondere-un-significato-ambiguo-e-occulto-cose-il-grooming/",
+                "date": "27 Mar 2025",
+                "time": "9:02",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Adolescence, continua il dibattito. Lancini: “Ciò che colpisce è il vuoto lasciato dagli adulti”. Galiano: “Non ho ancora capito cosa ne penso, ma che botta”",
+                "link": "https://www.orizzontescuola.it/adolescence-continua-il-dibattito-lancini-cio-che-colpisce-e-il-vuoto-lasciato-dagli-adulti-galiano-non-ho-ancora-capito-cosa-ne-penso-ma-che-botta/",
+                "date": "27 Mar 2025",
+                "time": "8:59",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Shakespeare conosceva le opere di Dante e le usò come ispirazione nei suoi scritti. Ma Sakespeare, non era Siciliano?",
+                "link": "https://www.orizzontescuola.it/shakespeare-conosceva-le-opere-di-dante-e-le-uso-come-ispirazione-nei-suoi-scritti-ma-sakespeare-non-era-siciliano/",
+                "date": "27 Mar 2025",
+                "time": "8:35",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "A Bari il Comune erogherà un bonus gite per gli studenti meno abbienti",
+                "link": "https://www.orizzontescuola.it/a-bari-il-comune-eroghera-un-bonus-gite-per-gli-studenti-meno-abbienti/",
+                "date": "27 Mar 2025",
+                "time": "8:28",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "A Torino bus turistico precipita nel Po: morto l’autista, tre feriti lievi. Andava a prendere una scolaresca di una scuola primaria in gita",
@@ -387,38 +405,6 @@
                 "link": "https://www.orizzontescuola.it/studenti-restituiscono-mille-euro-in-questura-dopo-aver-ritrovato-portafoglio-valditara-gesto-che-onora-la-scuola/",
                 "date": "26 Mar 2025",
                 "time": "16:56",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Calendario scolastico 2025-2026, in Sicilia al via il 15 settembre 2025 il nuovo anno scolastico",
-                "link": "https://www.orizzontescuola.it/calendario-scolastico-2025-2026-in-sicilia-al-via-il-15-settembre-2025-il-nuovo-anno-scolastico/",
-                "date": "26 Mar 2025",
-                "time": "16:49",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Questionario nuove Indicazioni nazionali, presidi Andis chiedono proroga al 30 giugno",
-                "link": "https://www.orizzontescuola.it/questionario-nuove-indicazioni-nazionali-presidi-andis-chiedono-proroga-al-30-giugno/",
-                "date": "26 Mar 2025",
-                "time": "15:19",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Maturità 2025, domande presidenti e commissari: chi è obbligato e chi no. QUESTION TIME con Costarelli [VIDEO]",
-                "link": "https://www.orizzontescuola.it/maturita-2025-domande-presidenti-e-commissari-chi-e-obbligato-e-chi-no-question-time-con-costarelli-live-mercoledi-26-marzo-alle-1530/",
-                "date": "26 Mar 2025",
-                "time": "14:57",
-                "image_link": "N/A"
-            },
-            {
-                "category": "ATA",
-                "title": "Mobilità ATA 2025, ecco a cosa fare attenzione per compilare bene la domanda. QUESTION TIME con Cozzolino [VIDEO]",
-                "link": "https://www.orizzontescuola.it/mobilita-ata-2025-ecco-a-cosa-fare-attenzione-per-compilare-bene-la-domanda-question-time-con-cozzolino-live-mercoledi-26-marzo-alle-1430/",
-                "date": "26 Mar 2025",
-                "time": "14:25",
                 "image_link": "N/A"
             }
         ]
@@ -545,6 +531,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR2: segnalazione di errori, due punti in più o in meno, interrogazione al Ministro. Cosa succede dopo un mese dalla prova scritta",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr2-segnalazione-di-errori-due-punti-in-piu-o-in-meno-interrogazione-al-ministro-cosa-succede-dopo-un-mese-dalla-prova-scritta/",
+                "date": "24 Mar 2025",
+                "time": "16:53",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_2076756070.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Percorsi abilitanti, a quante classi di concorso si può partecipare. FAQ su iscrizioni e graduatorie già pubblicate",
                 "link": "https://www.orizzontescuola.it/percorsi-abilitanti-a-quante-classi-di-concorso-si-puo-partecipare-faq-su-iscrizioni-e-graduatorie-gia-pubblicate/",
                 "date": "24 Mar 2025",
@@ -582,14 +576,6 @@
                 "date": "22 Mar 2025",
                 "time": "8:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2518506853.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti 2024/25, secondo decreto: Università devono riaprire i bandi?",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-2024-25-secondo-decreto-universita-devono-riaprire-i-bandi/",
-                "date": "21 Mar 2025",
-                "time": "12:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2176731709.jpg"
             }
         ]
     },
