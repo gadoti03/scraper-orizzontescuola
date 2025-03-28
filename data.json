@@ -2,6 +2,7 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
+            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "Decreto Scuola approvato: idonei nelle graduatorie fino al 30% dei posti, stop 4 anni in 1 alle paritarie, welfare scolastico. Le principali novità. SCHEDA",
@@ -9,20 +10,36 @@
                 "date": "28 Mar 2025",
                 "time": "15:29",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/Governo-1.jpeg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Decreto Scuola, ok del governo. Valditara: “Riforma reclutamento per idonei concorsi Pnrr e 2020. Norme contro diplomifici, oltre 800 milioni per gli asili nido” [VIDEO]",
-                "link": "https://www.orizzontescuola.it/diretta-decreto-scuola-ok-del-governo-dagli-idonei-alla-stretta-sui-diplomifici-passando-per-le-immissioni-in-ruolo-e-la-lotta-alle-droghe-cosa-e-previsto/",
-                "date": "28 Mar 2025",
-                "time": "13:34",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Opera-Snapshot_2025-03-28_142403_www.youtube.com_.png"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "DSGA",
+                "title": "Concorso DSGA, dove si svolge la prova scritta. Ecco le SEDI d’esame [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/concorso-dsga-prova-scritta-il-10-aprile-dove-si-svolge-ecco-le-sedi-desame-elenco-in-aggiornamento/",
+                "date": "28 Mar 2025",
+                "time": "21:13",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_521791969.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze 2024/25, INTERPELLI alla ricerca di docenti [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "28 Mar 2025",
+                "time": "20:36",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Assunzione idonei concorsi PNRR 30% e 2020, l’ESEMPIO di Valditara. NOVITÀ Decreto Scuola",
+                "link": "https://www.orizzontescuola.it/assunzione-idonei-concorsi-pnrr-30-e-2020-lesempio-di-valditara-novita-decreto-scuola/",
+                "date": "28 Mar 2025",
+                "time": "18:58",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_713874685.jpg"
+            },
             {
                 "category": "Scuole",
                 "title": "Appalti, l’iscrizione alla white list e attività sensibili. La sentenza del Consiglio di Stato",
@@ -38,6 +55,14 @@
                 "date": "28 Mar 2025",
                 "time": "16:14",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Template_videoguide_1920x1080-3.png"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Decreto Scuola, ok del governo. Valditara: “Riforma reclutamento per idonei concorsi Pnrr e 2020. Norme contro diplomifici, oltre 800 milioni per gli asili nido” [VIDEO]",
+                "link": "https://www.orizzontescuola.it/diretta-decreto-scuola-ok-del-governo-dagli-idonei-alla-stretta-sui-diplomifici-passando-per-le-immissioni-in-ruolo-e-la-lotta-alle-droghe-cosa-e-previsto/",
+                "date": "28 Mar 2025",
+                "time": "13:34",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Opera-Snapshot_2025-03-28_142403_www.youtube.com_.png"
             },
             {
                 "category": "Politica scolastica",
@@ -97,7 +122,7 @@
             },
             {
                 "category": "ATA",
-                "title": "Da collaboratore scolastico a operatore: aumenti di stipendio di 25 euro al mese",
+                "title": "Mobilità verticale ATA, da collaboratore a operatore scolastico gli aumenti di stipendio saranno di 25 euro al mese",
                 "link": "https://www.orizzontescuola.it/da-collaboratore-scolastico-a-operatore-aumenti-di-stipendio-di-25-euro-al-mese/",
                 "date": "28 Mar 2025",
                 "time": "9:35",
@@ -118,7 +143,12 @@
                 "date": "28 Mar 2025",
                 "time": "9:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2518830647.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Vacanze di Pasqua: quando al supplente spetta lo stipendio. I tre elementi imprescindibili",
@@ -150,12 +180,7 @@
                 "date": "28 Mar 2025",
                 "time": "8:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2389361513.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Plus",
                 "title": "Iscriviti alla nostra newsletter PLUS, ogni mattina nella tua casella gli aggiornamenti delle aree riservate",
@@ -188,14 +213,6 @@
                 "date": "27 Mar 2025",
                 "time": "21:08",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze 2024/25, INTERPELLI alla ricerca di docenti [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
-                "date": "27 Mar 2025",
-                "time": "20:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
             },
             {
                 "category": "Cronaca",
@@ -268,30 +285,6 @@
                 "date": "27 Mar 2025",
                 "time": "14:41",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_1135342076.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Organici ATA, indicati i criteri per 40mila assistenti amministrativi e 953 funzionari. Conferme per gli operatori scolastici [TABELLE]",
-                "link": "https://www.orizzontescuola.it/organici-ata-indicati-i-criteri-per-40mila-assistenti-amministrativi-e-953-funzionari-conferme-per-gli-operatori-scolastici-tabelle/",
-                "date": "27 Mar 2025",
-                "time": "14:36",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_695838022.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Decreto scuola, c’è soluzione per i docenti idonei del concorso ma solo per il 30% dei posti a bando. Stretta sui diplomifici. BOZZA",
-                "link": "https://www.orizzontescuola.it/dl-scuola-domani-il-varo-in-consiglio-dei-ministri-dalla-stretta-sui-diplomifici-alle-novita-sui-docenti-idonei-non-vincitori-di-concorso-cosa-e-previsto/",
-                "date": "27 Mar 2025",
-                "time": "14:01",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/Governo.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Mobilità ATA 2025: come indicare le preferenze, titoli e precedenze. Un riepilogo in vista della scadenza il 31 marzo. VIDEO",
-                "link": "https://www.orizzontescuola.it/mobilita-ata-2025-come-indicare-le-preferenze-titoli-e-precedenze-un-riepilogo-in-vista-della-scadenza-il-31-marzo-video/",
-                "date": "27 Mar 2025",
-                "time": "13:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2198683335.jpg"
             }
         ]
     },
@@ -299,11 +292,84 @@
         "title": "In Breve",
         "articles": [
             {
+                "category": "Scuole",
+                "title": "Cinema e Immagini, selezione scuola per il piano di comunicazione: proroga candidature al 14 aprile",
+                "link": "https://www.orizzontescuola.it/cinema-e-immagini-selezione-scuola-per-il-piano-di-comunicazione-proroga-candidature-al-14-aprile/",
+                "date": "28 Mar 2025",
+                "time": "21:05",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Rilevazione deleghe sindacali al 31 dicembre, sottoscrizione schede il 3, 4 e 7 aprile. AVVISO",
+                "link": "https://www.orizzontescuola.it/rilevazione-deleghe-sindacali-al-31-dicembre-sottoscrizione-schede-il-3-4-e-7-aprile-avviso/",
+                "date": "28 Mar 2025",
+                "time": "20:51",
+                "image_link": "N/A"
+            },
+            null,
+            {
+                "category": "Politica scolastica",
+                "title": "Decreto Scuola, Pittoni (Lega): “Nei concorsi tornano le graduatorie. E siamo solo all’inizio”",
+                "link": "https://www.orizzontescuola.it/decreto-scuola-pittoni-lega-nei-concorsi-tornano-le-graduatorie-e-siamo-solo-allinizio/",
+                "date": "28 Mar 2025",
+                "time": "19:12",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Scuola e crollo demografico, come l’istruzione può invertire la tendenza e garantire un futuro al Paese. L’intervento del Ministro Valditara ad Ascoli Piceno",
+                "link": "https://www.orizzontescuola.it/scuola-e-crollo-demografico-come-listruzione-puo-invertire-la-tendenza-e-garantire-un-futuro-al-paese-lintervento-del-ministro-valditara-ad-ascoli-piceno/",
+                "date": "28 Mar 2025",
+                "time": "18:38",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "DL Scuola, Governo apre a idonei concorsi da assumere in ruolo fino al 30% dei posti. Anief: “Premiata nostra costanza, bene anche welfare scolastico che ora va allargato al personale”",
+                "link": "https://www.orizzontescuola.it/dl-scuola-governo-apre-a-idonei-concorsi-da-assumere-in-ruolo-fino-al-30-dei-posti-anief-premiata-nostra-costanza-bene-anche-welfare-scolastico-che-ora-va-allargato-al-personale/",
+                "date": "28 Mar 2025",
+                "time": "18:13",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Decreto Scuola, la Flc Cgil “apre” a Valditara: “Sugli idonei concorso c’è qualche punto di avanzamento rispetto all’ormai annoso problema”",
+                "link": "https://www.orizzontescuola.it/decreto-scuola-la-flc-cgil-apre-a-valditara-sugli-idonei-concorso-ce-qualche-punto-di-avanzamento-rispetto-allormai-annoso-problema/",
+                "date": "28 Mar 2025",
+                "time": "18:09",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Mogol: “Vogliamo insegnare ai ragazzi che la salute non è solo assenza di malattia, ma il frutto di scelte consapevoli”",
+                "link": "https://www.orizzontescuola.it/mogol-vogliamo-insegnare-ai-ragazzi-che-la-salute-non-e-solo-assenza-di-malattia-ma-il-frutto-di-scelte-consapevoli/",
+                "date": "28 Mar 2025",
+                "time": "17:46",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "DL Scuola, stretta diplomifici. Turano: “Con Valditara grande scommessa per la chiusura in Sicilia”",
+                "link": "https://www.orizzontescuola.it/dl-scuola-stretta-diplomifici-turano-con-valditara-grande-scommessa-per-la-chiusura-in-sicilia/",
+                "date": "28 Mar 2025",
+                "time": "17:27",
+                "image_link": "N/A"
+            },
+            {
                 "category": "Politica scolastica",
                 "title": "Diplomifici nel mirino, il Movimento dei genitori appoggia il decreto Valditara e chiede più coinvolgimento delle famiglie nella scuola",
                 "link": "https://www.orizzontescuola.it/diplomifici-nel-mirino-il-movimento-dei-genitori-appoggia-il-decreto-valditara-e-chiede-piu-coinvolgimento-delle-famiglie-nella-scuola/",
                 "date": "28 Mar 2025",
                 "time": "17:24",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Kimi Antonelli, il fenomeno della F1 che va ancora a scuola. Il video virale con i compagni: “Oh mio Dio, abbiamo un pilota di Formula 1 in classe”",
+                "link": "https://www.orizzontescuola.it/kimi-antonelli-il-fenomeno-della-f1-che-va-ancora-a-scuola-il-video-virale-con-i-compagni-e-il-segreto-del-suo-successo/",
+                "date": "28 Mar 2025",
+                "time": "17:21",
                 "image_link": "N/A"
             },
             {
@@ -360,86 +426,6 @@
                 "link": "https://www.orizzontescuola.it/curriculum-dello-studente-rinnovato-novita-su-invalsi-e-orientamento-via-libera-del-cspi/",
                 "date": "28 Mar 2025",
                 "time": "16:32",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Assunzione idonei, D’Aprile (Uil Scuola): “Un timido primo passo che risponde ad una nostra rivendicazione”",
-                "link": "https://www.orizzontescuola.it/assunzione-idonei-daprile-uil-un-timido-primo-passo-che-risponde-ad-una-nostra-rivendicazione/",
-                "date": "28 Mar 2025",
-                "time": "15:30",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Genitori (famosi) e scuola: “perché organizzate eventi alle 10 del mattino? Così faccio la figura di quella che non c’è”",
-                "link": "https://www.orizzontescuola.it/genitori-famosi-e-scuola-perche-organizzate-eventi-alle-10-del-mattino-cosi-faccio-la-figura-di-quella-che-non-e/",
-                "date": "28 Mar 2025",
-                "time": "15:16",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Terremoto in Myanmar, morti e dispersi. Save the Children lancia l’allarme per quasi 7 milioni di bambini a rischio",
-                "link": "https://www.orizzontescuola.it/terremoto-in-myanmar-morti-e-dispersi-save-the-children-lancia-lallarme-per-quasi-7-milioni-di-bambini-a-rischio/",
-                "date": "28 Mar 2025",
-                "time": "14:53",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Adolescence verso una seconda stagione? La produzione britannica non esclude un sequel: “C’è la possibilità di sviluppare un’altra storia”",
-                "link": "https://www.orizzontescuola.it/adolescence-verso-una-seconda-stagione-la-produzione-britannica-non-esclude-un-sequel/",
-                "date": "28 Mar 2025",
-                "time": "14:39",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Riforma della cittadinanza, Tajani: “D’ora in poi si diventa cittadini se si hanno fino ai nonni cittadini italiani”",
-                "link": "https://www.orizzontescuola.it/riforma-della-cittadinanza-tajani-dora-in-poi-si-diventa-cittadini-se-si-hanno-fino-ai-nonni-cittadini-italiani/",
-                "date": "28 Mar 2025",
-                "time": "14:31",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Idonei concorso, percorsi abilitanti e corsi sul sostegno: facciamo il punto. QUESTION TIME con Cozzetto (Anief)",
-                "link": "https://www.orizzontescuola.it/idonei-concorso-percorsi-abilitanti-e-corsi-sul-sostegno-facciamo-il-punto-question-time-con-cozzetto-anief-live-venerdi-28-marzo-alle-1430/",
-                "date": "28 Mar 2025",
-                "time": "14:15",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Medicina senza test d’ingresso: dal 2025 parte il “semestre filtro”. Ecco come funziona la riforma. Via libera al Decreto legislativo",
-                "link": "https://www.orizzontescuola.it/medicina-senza-test-dingresso-dal-2025-parte-il-semestre-filtro-ecco-come-funziona-la-riforma/",
-                "date": "28 Mar 2025",
-                "time": "14:06",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "La scuola che premia i prof: al Freud di Milano parte la “Nota di Merito” mensile decisa dagli studenti",
-                "link": "https://www.orizzontescuola.it/la-scuola-che-premia-i-prof-al-freud-di-milano-parte-la-nota-di-merito-mensile-decisa-dagli-studenti/",
-                "date": "28 Mar 2025",
-                "time": "13:25",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Formazione personale ATA, selezione esperti/autori per videolezioni e percorsi: scadenza 4 aprile",
-                "link": "https://www.orizzontescuola.it/formazione-personale-ata-selezione-esperti-autori-per-videolezioni-e-percorsi-scadenza-4-aprile/",
-                "date": "28 Mar 2025",
-                "time": "12:23",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Per il 30% degli adolescenti la gelosia è una forma d’amore, appello alla politica: “Istituire l’educazione all’empatia”",
-                "link": "https://www.orizzontescuola.it/per-il-30-degli-adolescenti-la-gelosia-e-una-forma-damore-appello-alla-politica-istituire-leducazione-allempatia/",
-                "date": "28 Mar 2025",
-                "time": "11:00",
                 "image_link": "N/A"
             }
         ]
@@ -619,6 +605,14 @@
         "articles": [
             {
                 "category": "ATA",
+                "title": "Mobilità personale ATA 2025: come compilare e caricare gli allegati nella domanda. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/mobilita-personale-ata-2025-come-compilare-e-caricare-gli-allegati-nella-domanda-risposte-ai-quesiti/",
+                "date": "25 Mar 2025",
+                "time": "8:56",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1757167814-scaled.jpg"
+            },
+            {
+                "category": "ATA",
                 "title": "Mobilità ATA 2025, come fare la domanda passo dopo passo. Video tutorial con tutti i passaggi spiegati",
                 "link": "https://www.orizzontescuola.it/video-tutorial-mobilita-ata-2025-come-fare-la-domanda-passo-dopo-passo-i-passaggi-spiegati/",
                 "date": "23 Mar 2025",
@@ -656,14 +650,6 @@
                 "date": "19 Mar 2025",
                 "time": "18:31",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_2309666551.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Mobilità ATA: formato degli allegati nella domanda di mobilità, Word o PDF? Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/mobilita-ata-formato-degli-allegati-nella-domanda-di-mobilita-word-o-pdf-pillole-di-questiontime/",
-                "date": "19 Mar 2025",
-                "time": "17:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_259719440.jpg"
             }
         ]
     },
