@@ -2,7 +2,14 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
-            null,
+            {
+                "category": "Cronaca",
+                "title": "Convitti ed educandati, cosa sono: dal Liceo europeo a quello internazionale dove si studia il Cinese. Ma gli educatori sono in via di estinzione, non si bandiscono concorsi dal 2000",
+                "link": "https://www.orizzontescuola.it/convitti-ed-educandati-cosa-sono-dal-liceo-europeo-a-quello-internazionale-dove-si-studia-il-cinese-ma-gli-educatori-sono-in-via-di-estinzione-non-si-bandiscono-concorsi-dal-2000/",
+                "date": "29 Mar 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Progetto-senza-titolo-5-1.png"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Decreto Scuola approvato: idonei nelle graduatorie fino al 30% dei posti, stop 4 anni in 1 alle paritarie, welfare scolastico. Le principali novità. SCHEDA",
@@ -16,6 +23,47 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Bocciature contestate al TAR, quando i genitori ricorrono alla giustizia: ricorsi (quasi) tutti respinti o che arrivano in ritardo. Un problema sistemico",
+                "link": "https://www.orizzontescuola.it/bocciature-contestate-al-tar-quando-i-genitori-ricorrono-alla-giustizia-ricorsi-tutti-respinti-o-che-arrivano-in-ritardo-un-problema-sistemico/",
+                "date": "29 Mar 2025",
+                "time": "9:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_1918059161-scaled.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Abbandono scolastico: in Sardegna il 17,3%, in Sicilia 17,1. I dati Eurostat danno la media europea al 9,5%, quella italiana al 10,5",
+                "link": "https://www.orizzontescuola.it/abbandono-scolastico-in-sardegna-il-173-in-sicilia-171-i-dati-eurostat-danno-la-media-europea-al-95-quella-italiana-al-105/",
+                "date": "29 Mar 2025",
+                "time": "8:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2091848878.jpg"
+            },
+            {
+                "category": "Dirigenti scolastici",
+                "title": "Concorso dirigenti scolastici, pubblicate le prime graduatorie [AGGIORNATO con SARDEGNA]",
+                "link": "https://www.orizzontescuola.it/concorso-dirigenti-scolastici-pubblicate-le-prime-graduatorie-aggiornato-con-liguria/",
+                "date": "29 Mar 2025",
+                "time": "7:33",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_392166814.jpg"
+            },
+            {
+                "category": "Plus",
+                "title": "“Gestire la scuola”, online il primo numero della nuova rivista di OrizzonteScuola dedicata a Dirigenti, DSGA, collaboratori del dirigente e segreterie",
+                "link": "https://www.orizzontescuola.it/gestire-la-scuola-online-il-primo-numero-della-nuova-rivista-di-orizzontescuola-dedicata-a-dirigenti-dsga-collaboratori-del-dirigente-segreterie/",
+                "date": "29 Mar 2025",
+                "time": "7:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Progetto-senza-titolo-3-1.png"
+            },
+            {
+                "category": "ATA",
+                "title": "“Reintrodurre l’organico aggiuntivo ATA, le scuole ne hanno bisogno”: lavoratori e Anief chiedono emendamento al decreto PA",
+                "link": "https://www.orizzontescuola.it/reintrodurre-lorganico-aggiuntivo-ata-le-scuole-ne-hanno-bisogno-lavoratori-e-anief-chiedono-emendamento-al-decreto-pa/",
+                "date": "29 Mar 2025",
+                "time": "7:25",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_2023734317-scaled.jpg"
+            },
+            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR2 infanzia e primaria, prova orale e poi graduatorie. In estate le assunzioni. Ecco le CONVOCAZIONI",
@@ -40,6 +88,7 @@
                 "time": "20:36",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
             },
+            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "Assunzione idonei concorsi PNRR 30% e 2020, l’ESEMPIO di Valditara. NOVITÀ Decreto Scuola",
@@ -73,14 +122,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Opera-Snapshot_2025-03-28_142403_www.youtube.com_.png"
             },
             {
-                "category": "Politica scolastica",
-                "title": "“Reintrodurre l’organico aggiuntivo ATA, le scuole ne hanno bisogno”: lavoratori e Anief chiedono emendamento al decreto PA",
-                "link": "https://www.orizzontescuola.it/reintrodurre-lorganico-aggiuntivo-ata-le-scuole-ne-hanno-bisogno-lavoratori-e-anief-chiedono-emendamento-al-decreto-pa/",
-                "date": "28 Mar 2025",
-                "time": "13:13",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_2023734317-scaled.jpg"
-            },
-            {
                 "category": "Scuole",
                 "title": "Commissioni Maturità: l’incarico è un obbligo, non si può rifiutare o lasciare. A chi comunicare i motivi di impedimento",
                 "link": "https://www.orizzontescuola.it/commissioni-maturita-lincarico-e-un-obbligo-non-si-puo-rifiutare-o-lasciare-a-chi-comunicare-i-motivi-di-impedimento/",
@@ -95,7 +136,12 @@
                 "date": "28 Mar 2025",
                 "time": "11:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2233757999.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Percorsi abilitanti da 60, 36 e 30 cfu: a che punto siamo? E sui corsi Indire? RISPOSTE AI QUESITI",
@@ -143,12 +189,7 @@
                 "date": "28 Mar 2025",
                 "time": "9:11",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_177305711.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "C’è la matematica degli studenti che non imparano le tabelline e c’è quella delle indicazioni nazionali",
@@ -237,60 +278,92 @@
                 "date": "27 Mar 2025",
                 "time": "18:56",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_1134548471.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Graduatoria interna di istituto: valutazione continuità, ruolo diplomati, bonus 10 punti, pre-ruolo e titoli generali. Risposte ai quesiti",
-                "link": "https://www.orizzontescuola.it/graduatoria-interna-di-istituto-valutazione-continuita-ruolo-diplomati-bonus-10-punti-pre-ruolo-e-titoli-generali-risposte-ai-quesiti/",
-                "date": "27 Mar 2025",
-                "time": "18:27",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Modello-immagine-sito-12.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "Fondo per la promozione della lettura 2025: entro quando presentare la domanda",
-                "link": "https://www.orizzontescuola.it/fondo-per-la-promozione-della-lettura-2025-entro-quando-presentare-la-domanda/",
-                "date": "27 Mar 2025",
-                "time": "17:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1708628347.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Decreto Scuola, 1 milione per formare i docenti contro droghe e dipendenze giovanili. BOZZA",
-                "link": "https://www.orizzontescuola.it/decreto-scuola-un-milione-per-formare-i-docenti-contro-droghe-e-dipendenze-giovanili-bozza/",
-                "date": "27 Mar 2025",
-                "time": "16:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/10/congress-2375482_960_720.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Immissioni in ruolo docenti, assunzione da concorso anche in altra regione. Ritorna la “call veloce”, ma preventiva? BOZZA Decreto Scuola",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-assunzione-da-concorso-anche-in-altra-regione-ritorna-la-call-veloce-ma-preventiva-bozza-decreto-scuola/",
-                "date": "27 Mar 2025",
-                "time": "15:52",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_59277838.jpg"
-            },
-            {
-                "category": "Scuole non statali",
-                "title": "Stretta sulle paritarie: esami più severi e registro elettronico per tracciare le presenze degli studenti. È nel Decreto scuola, in 2 anni 400 revoche",
-                "link": "https://www.orizzontescuola.it/stretta-sulle-paritarie-esami-piu-severi-e-registro-elettronico-per-tracciare-le-presenze-degli-studenti-e-nel-decreto-scuola-in-2-anni-400-revoche/",
-                "date": "27 Mar 2025",
-                "time": "15:36",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_1395355421.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Immissioni in ruolo docenti: dai concorsi PNRR si assumerà fino al 31 dicembre 2025. Si ripete schema degli “aventi diritto”. BOZZA Decreto Scuola",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-dai-concorsi-pnrr-si-assumera-fino-al-31-dicembre-2025-si-ripete-schema-degli-aventi-diritto-bozza-decreto-scuola/",
-                "date": "27 Mar 2025",
-                "time": "15:26",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_163768811.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Nuove Indicazioni Nazionali, Stefano Rossi: “Lo stampatello è vitale per alunni con disgrafia, stigmatizzarlo è come negare gli occhiali a chi ha problemi di vista”",
+                "link": "https://www.orizzontescuola.it/nuove-indicazioni-nazionali-stefano-rossi-lo-stampatello-e-vitale-per-alunni-con-disgrafia-stigmatizzarlo-e-come-negare-gli-occhiali-a-chi-ha-problemi-di-vista/",
+                "date": "29 Mar 2025",
+                "time": "9:04",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Assegno di Inclusione e SFL 2025: tutte le novità su soglie ISEE, importi e proroghe. Come cambiano i sostegni per famiglie e lavoratori",
+                "link": "https://www.orizzontescuola.it/assegno-di-inclusione-e-sfl-2025-tutte-le-novita-su-soglie-isee-importi-e-proroghe-come-cambiano-i-sostegni-per-famiglie-e-lavoratori/",
+                "date": "29 Mar 2025",
+                "time": "8:31",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“Sei magro da fare schifo”, Schettini: “La presa in giro c’è e ci sarà sempre, fregatevene. Anzi fott .. vene!”",
+                "link": "https://www.orizzontescuola.it/sei-magro-da-fare-schifo-schettini-la-presa-in-giro-ce-e-ci-sara-sempre-fregatevene-anzi-fott-vene/",
+                "date": "29 Mar 2025",
+                "time": "8:23",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Vecchioni: “Vi spiego l’importanza di studiare il greco. Perché ho fatto l’insegnante? Impagabile vedere i loro occhi illuminarsi”",
+                "link": "https://www.orizzontescuola.it/vecchioni-vi-spiego-limportanza-di-studiare-il-greco-perche-ho-fatto-linsegnante-impagabile-vedere-i-loro-occhi-illuminarsi/",
+                "date": "29 Mar 2025",
+                "time": "8:16",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Una formica nel biscotto alla mensa della scuola, genitori infuriati. Il Comune interviene: “Verifiche in corso, in precedenza mai anomalie”",
+                "link": "https://www.orizzontescuola.it/una-formica-nel-biscotto-alla-mensa-della-scuola-genitori-infuriati-il-comune-interviene-verifiche-in-corso-in-precedenza-mai-anomalie/",
+                "date": "29 Mar 2025",
+                "time": "8:15",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Piano straordinario da 180 milioni per la riqualificazione di 8 aree disagiate: ecco quali. Previsti anche progetti culturali e sociali",
+                "link": "https://www.orizzontescuola.it/piano-straordinario-da-180-milioni-per-la-riqualificazione-di-8-aree-disagiate-ecco-quali-previsti-anche-progetti-culturali-e-sociali/",
+                "date": "29 Mar 2025",
+                "time": "8:02",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Addio al rinnovo dei passaporti, quelli scaduti dovranno essere sostituiti con nuovi documenti. E cambia anche la carta d’identità",
+                "link": "https://www.orizzontescuola.it/addio-al-rinnovo-dei-passaporti-quelli-scaduti-dovranno-essere-sostituiti-con-nuovi-documenti-e-cambia-anche-la-carta-didentita/",
+                "date": "29 Mar 2025",
+                "time": "7:55",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Cinque referendum abrogativi: si vota l’8 e 9 giugno 2025. Per essere validi devono superare il quorum di votanti del 50% più uno",
+                "link": "https://www.orizzontescuola.it/cinque-referendum-abrogativi-si-vota-l8-e-9-giugno-2025-per-essere-validi-devono-superare-il-quorum-di-votanti-del-50-piu-uno/",
+                "date": "29 Mar 2025",
+                "time": "7:48",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Ora legale 2025: lancette avanti di un’ora nella notte tra il 29 e il 30 marzo. Risparmi per oltre 100 milioni di euro",
+                "link": "https://www.orizzontescuola.it/ora-legale-2025-lancette-avanti-di-unora-nella-notte-tra-il-29-e-il-30-marzo-risparmi-per-oltre-100-milioni-di-euro/",
+                "date": "29 Mar 2025",
+                "time": "7:44",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Cittadinanza italiana: nuove regole per il riconoscimento e il mantenimento del legame con l’Italia. Il comunicato del Governo",
+                "link": "https://www.orizzontescuola.it/cittadinanza-italiana-nuove-regole-per-il-riconoscimento-e-il-mantenimento-del-legame-con-litalia-il-comunicato-del-governo/",
+                "date": "29 Mar 2025",
+                "time": "7:35",
+                "image_link": "N/A"
+            },
             {
                 "category": "Scuole",
                 "title": "Cinema e Immagini, selezione scuola per il piano di comunicazione: proroga candidature al 14 aprile",
@@ -347,92 +420,20 @@
                 "date": "28 Mar 2025",
                 "time": "17:46",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "DL Scuola, stretta diplomifici. Turano: “Con Valditara grande scommessa per la chiusura in Sicilia”",
-                "link": "https://www.orizzontescuola.it/dl-scuola-stretta-diplomifici-turano-con-valditara-grande-scommessa-per-la-chiusura-in-sicilia/",
-                "date": "28 Mar 2025",
-                "time": "17:27",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Diplomifici nel mirino, il Movimento dei genitori appoggia il decreto Valditara e chiede più coinvolgimento delle famiglie nella scuola",
-                "link": "https://www.orizzontescuola.it/diplomifici-nel-mirino-il-movimento-dei-genitori-appoggia-il-decreto-valditara-e-chiede-piu-coinvolgimento-delle-famiglie-nella-scuola/",
-                "date": "28 Mar 2025",
-                "time": "17:24",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Kimi Antonelli, il fenomeno della F1 che va ancora a scuola. Il video virale con i compagni: “Oh mio Dio, abbiamo un pilota di Formula 1 in classe”",
-                "link": "https://www.orizzontescuola.it/kimi-antonelli-il-fenomeno-della-f1-che-va-ancora-a-scuola-il-video-virale-con-i-compagni-e-il-segreto-del-suo-successo/",
-                "date": "28 Mar 2025",
-                "time": "17:21",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Suor Alfieri contro l’asterisco: “Aberrante strumento ideologico, la scuola deve difendere la lingua e non essere schiava delle élite”",
-                "link": "https://www.orizzontescuola.it/suor-alfieri-contro-lasterisco-aberrante-strumento-ideologico-la-scuola-deve-difendere-la-lingua-e-non-essere-schiava-delle-elite/",
-                "date": "28 Mar 2025",
-                "time": "17:19",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Spray al peperoncino in una lite tra bambini di 10 anni: la rissa degenera, poi scoppia il caos tra i genitori. Servizi sociali allertati",
-                "link": "https://www.orizzontescuola.it/spray-al-peperoncino-in-una-lite-tra-bambini-di-10-anni-la-rissa-degenera-poi-scoppia-il-caos-tra-i-genitori-servizi-sociali-allertati/",
-                "date": "28 Mar 2025",
-                "time": "17:15",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "L’appello di Carlo Lucarelli ai giovani: “Voi siete il futuro e quel futuro deve essere pulito”",
-                "link": "https://www.orizzontescuola.it/lappello-di-carlo-lucarelli-ai-giovani-voi-siete-il-futuro-e-quel-futuro-deve-essere-pulito/",
-                "date": "28 Mar 2025",
-                "time": "16:52",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Prof commuove la classe con un discorso in aereo: “Alzatevi, siamo fieri di voi”. Il video virale che celebra il legame tra docenti e studenti",
-                "link": "https://www.orizzontescuola.it/prof-commuove-la-classe-con-un-discorso-in-aereo-alzatevi-siamo-fieri-di-voi-il-video-virale-che-celebra-il-legame-tra-docenti-e-studenti/",
-                "date": "28 Mar 2025",
-                "time": "16:44",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "500 euro di multa per un rigore, il paese dove il pallone è diventato un reato. Il sindaco: “Non ce l’ho con i bambini, ma c’è il caos”",
-                "link": "https://www.orizzontescuola.it/500-euro-di-multa-per-un-rigore-il-paese-dove-il-pallone-e-diventato-un-reato-il-sindaco-non-ce-lho-con-i-bambini-ma-ce-il-caos/",
-                "date": "28 Mar 2025",
-                "time": "16:43",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Castellana (Gilda): “Sì alla stretta sui diplomifici, ora si agisca su enti formazione e università telematiche”",
-                "link": "https://www.orizzontescuola.it/castellana-gilda-si-alla-stretta-sui-diplomifici-ora-si-agisca-su-enti-formazione-e-universita-telematiche/",
-                "date": "28 Mar 2025",
-                "time": "16:37",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Studenti",
-                "title": "Curriculum dello studente rinnovato: novità su Invalsi e orientamento. Via libera del CSPI",
-                "link": "https://www.orizzontescuola.it/curriculum-dello-studente-rinnovato-novita-su-invalsi-e-orientamento-via-libera-del-cspi/",
-                "date": "28 Mar 2025",
-                "time": "16:32",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Graduatoria interna di istituto: valutazione continuità, ruolo diplomati, bonus 10 punti, pre-ruolo e titoli generali. Risposte ai quesiti",
+                "link": "https://www.orizzontescuola.it/graduatoria-interna-di-istituto-valutazione-continuita-ruolo-diplomati-bonus-10-punti-pre-ruolo-e-titoli-generali-risposte-ai-quesiti/",
+                "date": "27 Mar 2025",
+                "time": "18:27",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Contrazione di organico: dove viene assunto in ruolo vincitore di concorso non abilitato?",
@@ -536,20 +537,28 @@
                 "date": "17 Mar 2025",
                 "time": "11:43",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Graduatoria interna di istituto docenti 2025: non vanno inclusi assunti GPS e tutti gli altri docenti con nomina per il ruolo",
-                "link": "https://www.orizzontescuola.it/graduatoria-interna-di-istituto-docenti-2025-non-vanno-inclusi-assunti-gps-e-tutti-gli-altri-docenti-con-nomina-per-il-ruolo/",
-                "date": "17 Mar 2025",
-                "time": "9:38",
-                "image_link": "N/A"
             }
         ]
     },
     "group_6": {
         "title": "Diventare Insegnanti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Percorsi abilitanti da 60, 30 e 36 CFU per il 2024/25: ecco le PAGINA degli Atenei con i BANDI [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-da-60-30-e-36-cfu-per-il-2024-25-ci-saranno-tutte-le-classi-di-concorso-quando-i-bandi-ecco-cosa-dicono-le-universita/",
+                "date": "25 Mar 2025",
+                "time": "13:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Graduatoria interna scuola secondaria: come si redige e si individua perdente posto in caso classi di concorso atipiche",
+                "link": "https://www.orizzontescuola.it/graduatoria-interna-scuola-secondaria-come-si-redige-e-si-individua-perdente-posto-in-caso-classi-di-concorso-atipiche/",
+                "date": "25 Mar 2025",
+                "time": "10:26",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2016/12/20090930_scuola_graduatorie_sito.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Vincitori di concorso PNRR1, per classi di concorso accorpate indifferente scegliere uno o l’altro percorso di abilitazione. FAQ",
@@ -581,28 +590,20 @@
                 "date": "24 Mar 2025",
                 "time": "15:27",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti a.a. 2024/25: mancano ancora classi di concorso",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-a-a-2024-25-mancano-ancora-classi-di-concorso/",
-                "date": "24 Mar 2025",
-                "time": "12:36",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_1819849748.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Docenti vincitrici di concorso in gravidanza, non potranno seguire le lezioni e tirocinio in presenza per il corso abilitante, rischiano di perdere l’assunzione",
-                "link": "https://www.orizzontescuola.it/docenti-vincitrici-di-concorso-in-gravidanza-non-potranno-seguire-le-lezioni-e-tirocinio-in-presenza-per-il-corso-abilitante-rischiano-di-perdere-lassunzione/",
-                "date": "24 Mar 2025",
-                "time": "9:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_1904907157.jpg"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
+            {
+                "category": "ATA",
+                "title": "Domanda mobilità ATA, perché è consigliabile firmare gli allegati. CHIARIMENTI",
+                "link": "https://www.orizzontescuola.it/domanda-mobilita-ata-perche-e-consigliabile-firmare-gli-allegati-chiarimenti/",
+                "date": "25 Mar 2025",
+                "time": "10:22",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Screenshot-2025-03-25-101059.png"
+            },
             {
                 "category": "ATA",
                 "title": "Mobilità personale ATA 2025: come compilare e caricare gli allegati nella domanda. RISPOSTE AI QUESITI",
@@ -642,14 +643,6 @@
                 "date": "19 Mar 2025",
                 "time": "20:03",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_614642159.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Graduatorie terza fascia ATA: proroga Ciad a giugno, a breve la risposta del Ministero",
-                "link": "https://www.orizzontescuola.it/graduatorie-terza-fascia-ata-proroga-ciad-a-giugno-a-breve-la-risposta-del-ministero/",
-                "date": "19 Mar 2025",
-                "time": "18:31",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_2309666551.jpg"
             }
         ]
     },
