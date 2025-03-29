@@ -24,6 +24,23 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Scuole",
+                "title": "Divieto smartphone a scuola: è davvero la soluzione? I pro, i contro e le alternative per un’educazione digitale consapevole",
+                "link": "https://www.orizzontescuola.it/divieto-smartphone-a-scuola-e-davvero-la-soluzione-i-pro-i-contro-e-le-alternative-per-uneducazione-digitale-consapevole/",
+                "date": "29 Mar 2025",
+                "time": "16:26",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/05/cellulare-1200x800.jpg"
+            },
+            {
+                "category": "Plus",
+                "title": "Abbonamento a “Gestire la scuola” + 4 webinar: Sicurezza digitale a scuola, RAV 25/28, Accordi quadro PA e MEPA, DPO privacy e buone pratiche",
+                "link": "https://www.orizzontescuola.it/abbonamento-a-gestire-la-scuola-3-webinar-sicurezza-nei-laboratori-labs-accordi-quadro-pa-e-mepa-dpo-privaci-e-buone-pratiche/",
+                "date": "29 Mar 2025",
+                "time": "16:03",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Gestire-la-scuola-Cartaceo-online.png"
+            },
+            null,
+            {
                 "category": "Chiedilo a Lalla",
                 "title": "Idonei concorso, percorsi abilitanti e corsi sul sostegno 2024/25: RISPOSTE AI QUESITI",
                 "link": "https://www.orizzontescuola.it/idonei-concorso-percorsi-abilitanti-e-corsi-sul-sostegno-2024-25-risposte-ai-quesiti/",
@@ -33,7 +50,7 @@
             },
             {
                 "category": "Diventare Insegnanti",
-                "title": "Immissioni in ruolo docenti, firma contratto anche  anche ad agosto, entro  5 giorni dall’assegnazione della scuola. NOVITÀ BOZZA DL Scuola",
+                "title": "Immissioni in ruolo docenti, firma contratto anche ad agosto, entro  5 giorni dall’assegnazione della scuola. NOVITÀ BOZZA DL Scuola",
                 "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-firma-contratto-anche-anche-ad-agosto-entro-5-giorni-dallassegnazione-della-scuola-novita-gestione-rinunce-bozza-dl-scuola/",
                 "date": "29 Mar 2025",
                 "time": "11:17",
@@ -119,7 +136,12 @@
                 "date": "28 Mar 2025",
                 "time": "21:13",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_521791969.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze 2024/25, INTERPELLI alla ricerca di docenti [AGGIORNATO]",
@@ -136,12 +158,7 @@
                 "date": "28 Mar 2025",
                 "time": "18:58",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_713874685.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "Appalti, l’iscrizione alla white list e attività sensibili. La sentenza del Consiglio di Stato",
@@ -261,36 +278,68 @@
                 "date": "28 Mar 2025",
                 "time": "8:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2512543919.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Troppe “ore buco”? Docente fa ricorso perché gli vengano retribuite. I giudici: prevedere retribuzione in sede di contrattazione integrativa",
-                "link": "https://www.orizzontescuola.it/troppe-ore-buco-docente-fa-ricorso-perche-gli-vengano-retribuite-i-giudici-prevedere-retribuzione-in-sede-di-contrattazione-integrativa/",
-                "date": "28 Mar 2025",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2389361513.jpg"
-            },
-            {
-                "category": "Plus",
-                "title": "Iscriviti alla nostra newsletter PLUS, ogni mattina nella tua casella gli aggiornamenti delle aree riservate",
-                "link": "https://www.orizzontescuola.it/iscriviti-alla-nostra-newsletter-plus-ogni-mattina-nella-tua-casella-gli-aggiornamenti-delle-aree-riservate/",
-                "date": "28 Mar 2025",
-                "time": "7:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_683138257.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Tra le novità del correttivo al Codice dei Contratti per le scuole: flessibilità, riduzione del periodo di stand still, trasparenza e uniformità",
-                "link": "https://www.orizzontescuola.it/tra-le-novita-del-correttivo-al-codice-dei-contratti-per-le-scuole-flessibilita-riduzione-del-periodo-di-stand-still-trasparenza-e-uniformita/",
-                "date": "28 Mar 2025",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2530550631-scaled.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Ora legale, un’ora di salute gratis per i bambini. Il pediatra: “Manteniamola tutto l’anno, combatte obesità e solitudine”",
+                "link": "https://www.orizzontescuola.it/ora-legale-unora-di-salute-gratis-per-i-bambini-il-pediatra-manteniamola-tutto-lanno-combatte-obesita-e-solitudine/",
+                "date": "29 Mar 2025",
+                "time": "17:20",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Scuolabus e sicurezza: la Campania sblocca 175 milioni per la scuola. Ecco i dettagli del piano di De Luca",
+                "link": "https://www.orizzontescuola.it/scuolabus-e-sicurezza-la-campania-sblocca-175-milioni-per-la-scuola-ecco-i-dettagli-del-piano-di-de-luca/",
+                "date": "29 Mar 2025",
+                "time": "16:32",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Nuove Indicazioni Nazionali Scuola Infanzia e Primo ciclo: Anief chiede di modificare alcuni punti, di tenere conto delle interconnessioni anche per riuscire a motivare e preparare al meglio i docenti",
+                "link": "https://www.orizzontescuola.it/nuove-indicazioni-nazionali-scuola-infanzia-e-primo-ciclo-anief-chiede-di-modificare-alcuni-punti-di-tenere-conto-delle-interconnessioni-anche-per-riuscire-a-motivare-e-preparare-al-meglio-i-docenti/",
+                "date": "29 Mar 2025",
+                "time": "16:24",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Dirigenti scolastici",
+                "title": "Concorso dirigenti scolastici, polemiche su presunti conflitti d’interesse e discriminazioni. Interrogazione parlamentare del M5S",
+                "link": "https://www.orizzontescuola.it/concorso-dirigenti-scolastici-polemiche-su-presunti-conflitti-dinteresse-e-discriminazioni-interrogazione-parlamentare-del-m5s/",
+                "date": "29 Mar 2025",
+                "time": "16:20",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "A Modena spray al peperoncino in scuola: quarto episodio in dieci giorni. Studenti intossicati ed evacuazione",
+                "link": "https://www.orizzontescuola.it/a-modena-spray-al-peperoncino-in-scuola-quarto-episodio-in-dieci-giorni-studenti-intossicati-ed-evacuazione/",
+                "date": "29 Mar 2025",
+                "time": "16:12",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "25 anni di FISM, Valditara: “L’attenzione alla qualità e all’innovazione delle scuole dell’infanzia paritarie merita il massimo confronto istituzionale”",
+                "link": "https://www.orizzontescuola.it/25-anni-di-fism-valditara-lattenzione-alla-qualita-e-allinnovazione-delle-scuole-dellinfanzia-paritarie-merita-il-massimo-confronto-istituzionale/",
+                "date": "29 Mar 2025",
+                "time": "14:55",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Non solo lezioni, il contest che unisce cinema, sport e sostenibilità per educare al risparmio idrico. Il progetto di Acea in sei regioni",
+                "link": "https://www.orizzontescuola.it/non-solo-lezioni-il-contest-che-unisce-cinema-sport-e-sostenibilita-per-educare-al-risparmio-idrico-il-progetto-di-acea-in-sei-regioni/",
+                "date": "29 Mar 2025",
+                "time": "14:15",
+                "image_link": "N/A"
+            },
             {
                 "category": "Genitori",
                 "title": "Genitori scelgono l’istruzione parentale: “A scuola prima dei 6 anni? No, classi da 20 alunni non sono educative, meglio l’apprendimento casalingo”",
@@ -377,62 +426,6 @@
                 "link": "https://www.orizzontescuola.it/17enne-perde-la-memoria-la-ritrova-e-si-laurea-la-storia-di-eleonora-dallencefalite-al-110-e-lode/",
                 "date": "29 Mar 2025",
                 "time": "9:25",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Nuove Indicazioni Nazionali, Stefano Rossi: “Lo stampatello è vitale per alunni con disgrafia, stigmatizzarlo è come negare gli occhiali a chi ha problemi di vista”",
-                "link": "https://www.orizzontescuola.it/nuove-indicazioni-nazionali-stefano-rossi-lo-stampatello-e-vitale-per-alunni-con-disgrafia-stigmatizzarlo-e-come-negare-gli-occhiali-a-chi-ha-problemi-di-vista/",
-                "date": "29 Mar 2025",
-                "time": "9:04",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Assegno di Inclusione e SFL 2025: tutte le novità su soglie ISEE, importi e proroghe. Come cambiano i sostegni per famiglie e lavoratori",
-                "link": "https://www.orizzontescuola.it/assegno-di-inclusione-e-sfl-2025-tutte-le-novita-su-soglie-isee-importi-e-proroghe-come-cambiano-i-sostegni-per-famiglie-e-lavoratori/",
-                "date": "29 Mar 2025",
-                "time": "8:31",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Sei magro da fare schifo”, Schettini: “La presa in giro c’è e ci sarà sempre, fregatevene. Anzi fott .. vene!”",
-                "link": "https://www.orizzontescuola.it/sei-magro-da-fare-schifo-schettini-la-presa-in-giro-ce-e-ci-sara-sempre-fregatevene-anzi-fott-vene/",
-                "date": "29 Mar 2025",
-                "time": "8:23",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Vecchioni: “Vi spiego l’importanza di studiare il greco. Perché ho fatto l’insegnante? Impagabile vedere i loro occhi illuminarsi”",
-                "link": "https://www.orizzontescuola.it/vecchioni-vi-spiego-limportanza-di-studiare-il-greco-perche-ho-fatto-linsegnante-impagabile-vedere-i-loro-occhi-illuminarsi/",
-                "date": "29 Mar 2025",
-                "time": "8:16",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Una formica nel biscotto alla mensa della scuola, genitori infuriati. Il Comune interviene: “Verifiche in corso, in precedenza mai anomalie”",
-                "link": "https://www.orizzontescuola.it/una-formica-nel-biscotto-alla-mensa-della-scuola-genitori-infuriati-il-comune-interviene-verifiche-in-corso-in-precedenza-mai-anomalie/",
-                "date": "29 Mar 2025",
-                "time": "8:15",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Piano straordinario da 180 milioni per la riqualificazione di 8 aree disagiate: ecco quali. Previsti anche progetti culturali e sociali",
-                "link": "https://www.orizzontescuola.it/piano-straordinario-da-180-milioni-per-la-riqualificazione-di-8-aree-disagiate-ecco-quali-previsti-anche-progetti-culturali-e-sociali/",
-                "date": "29 Mar 2025",
-                "time": "8:02",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Addio al rinnovo dei passaporti, quelli scaduti dovranno essere sostituiti con nuovi documenti. E cambia anche la carta d’identità",
-                "link": "https://www.orizzontescuola.it/addio-al-rinnovo-dei-passaporti-quelli-scaduti-dovranno-essere-sostituiti-con-nuovi-documenti-e-cambia-anche-la-carta-didentita/",
-                "date": "29 Mar 2025",
-                "time": "7:55",
                 "image_link": "N/A"
             }
         ]
@@ -718,6 +711,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Educare oggi. Lettera",
+                "link": "https://www.orizzontescuola.it/educare-oggi-lettera/",
+                "date": "29 Mar 2025",
+                "time": "15:01",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "Quando il disagio diventa cultura giovanile: Maranza e Baby Gang. Lettera",
                 "link": "https://www.orizzontescuola.it/quando-il-disagio-diventa-cultura-giovanile-maranza-e-baby-gang-lettera/",
                 "date": "29 Mar 2025",
@@ -754,14 +755,6 @@
                 "link": "https://www.orizzontescuola.it/ancora-il-dito-puntato-contro-i-docenti-lettera/",
                 "date": "25 Mar 2025",
                 "time": "14:20",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "L’ora di Dante, quell’ora ancora attuale nelle scuole. Lettera",
-                "link": "https://www.orizzontescuola.it/lora-di-dante-quellora-ancora-attuale-nelle-scuole-lettera/",
-                "date": "25 Mar 2025",
-                "time": "11:13",
                 "image_link": "N/A"
             }
         ]
