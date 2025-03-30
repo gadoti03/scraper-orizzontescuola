@@ -24,6 +24,24 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Scuole",
+                "title": "TFS e TFR, nessuna sanzione per chi provvede al versamento dei contributi entro il 31 dicembre. CIRCOLARE INPS",
+                "link": "https://www.orizzontescuola.it/tfs-e-tfr-nessuna-sanzione-per-chi-provvede-al-versamento-dei-contributi-entro-il-31-dicembre-circolare-inps/",
+                "date": "30 Mar 2025",
+                "time": "9:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_1317265880.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze 2024/25, INTERPELLI alla ricerca di docenti [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "30 Mar 2025",
+                "time": "8:17",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
+            },
+            null,
+            null,
+            {
                 "category": "Cronaca",
                 "title": "La storia dell’insegnante che ha salvato una studentessa dal matrimonio forzato: come la scuola può essere l’ultimo rifugio",
                 "link": "https://www.orizzontescuola.it/linsegnante-che-ha-salvato-una-studentessa-dal-matrimonio-forzato-come-la-scuola-puo-essere-lultimo-rifugio/",
@@ -111,7 +129,12 @@
                 "date": "29 Mar 2025",
                 "time": "10:14",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/03/shutterstock_141309454.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Bocciature contestate al TAR, quando i genitori ricorrono alla giustizia: ricorsi (quasi) tutti respinti o che arrivano in ritardo. Un problema sistemico",
@@ -143,12 +166,7 @@
                 "date": "29 Mar 2025",
                 "time": "7:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Progetto-senza-titolo-3-1.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "ATA",
                 "title": "“Reintrodurre l’organico aggiuntivo ATA, le scuole ne hanno bisogno”: lavoratori e Anief chiedono emendamento al decreto PA",
@@ -157,7 +175,6 @@
                 "time": "7:25",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_2023734317-scaled.jpg"
             },
-            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR2 infanzia e primaria, prova orale e poi graduatorie. In estate le assunzioni. Ecco le CONVOCAZIONI",
@@ -173,14 +190,6 @@
                 "date": "28 Mar 2025",
                 "time": "21:13",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_521791969.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze 2024/25, INTERPELLI alla ricerca di docenti [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
-                "date": "28 Mar 2025",
-                "time": "20:36",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
             },
             null,
             {
@@ -262,28 +271,36 @@
                 "date": "28 Mar 2025",
                 "time": "9:48",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2562939113.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Mobilità verticale ATA, da collaboratore a operatore scolastico gli aumenti di stipendio saranno di 25 euro al mese",
-                "link": "https://www.orizzontescuola.it/da-collaboratore-scolastico-a-operatore-aumenti-di-stipendio-di-25-euro-al-mese/",
-                "date": "28 Mar 2025",
-                "time": "9:35",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_2079528205.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Graduatoria interna di istituto: inserimento in coda, continuità nel comune, dottorato da gennaio, anno di prova, pre-ruolo senza titolo. Risposte ai quesiti",
-                "link": "https://www.orizzontescuola.it/graduatoria-interna-di-istituto-inserimento-in-coda-continuita-nel-comune-dottorato-da-gennaio-anno-di-prova-pre-ruolo-senza-titolo-risposte-ai-quesiti/",
-                "date": "28 Mar 2025",
-                "time": "9:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_177305711.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Estate INPSieme e Corsi di lingua all’estero 2025: pubblicate le graduatorie",
+                "link": "https://www.orizzontescuola.it/estate-inpsieme-e-corsi-di-lingua-allestero-2025-pubblicate-le-graduatorie/",
+                "date": "30 Mar 2025",
+                "time": "9:56",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Terremoto Myanmar, 12 bambini e una maestra morti nel crollo di una scuola",
+                "link": "https://www.orizzontescuola.it/terremoto-myanmar-12-bambini-e-una-maestra-morti-nel-crollo-di-una-scuola/",
+                "date": "30 Mar 2025",
+                "time": "9:36",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Paolo Crepet: “I genitori di oggi? Pessimi, vogliono essere più giovani dei loro figli”. E sullo schwa: “Lingua incomprensibile che non serve a nulla”",
+                "link": "https://www.orizzontescuola.it/paolo-crepet-i-genitori-di-oggi-pessimi-vogliono-essere-piu-giovani-dei-loro-figli-e-sullo-schwa-lingua-incomprensibile-che-non-serve-a-nulla/",
+                "date": "30 Mar 2025",
+                "time": "8:22",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Sconto in arrivo sulle bollette: requisiti, tempi e modalità per il bonus sociale 200 euro. Cosa sapere",
@@ -403,36 +420,20 @@
                 "date": "29 Mar 2025",
                 "time": "12:40",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Terremoto in Myanmar: crollata più di una scuola, si scava per cercare sopravvissuti. Bilancio delle vittime in crescita",
-                "link": "https://www.orizzontescuola.it/terremoto-in-myanmar-crolla-una-scuola-si-scava-per-cercare-sopravvissuti-bilancio-delle-vittime-in-crescita/",
-                "date": "29 Mar 2025",
-                "time": "12:34",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Pensioni",
-                "title": "Pensioni, nuovi esodati dal 2027: migliaia di lavoratori rischiano di restare senza assegno previdenziale. L’allarme della Cgil",
-                "link": "https://www.orizzontescuola.it/pensioni-nuovi-esodati-dal-2027-migliaia-di-lavoratori-rischiano-di-restare-senza-assegno-previdenziale-lallarme-della-cgil/",
-                "date": "29 Mar 2025",
-                "time": "12:20",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Borse di studio, falsi concorsi e curriculum: la truffa che colpisce studenti e famiglie con chiamate e messaggi WhatsApp ingannevoli",
-                "link": "https://www.orizzontescuola.it/borse-di-studio-falsi-concorsi-e-curriculum-la-truffa-che-colpisce-studenti-e-famiglie-con-chiamate-e-messaggi-whatsapp-ingannevoli/",
-                "date": "29 Mar 2025",
-                "time": "10:52",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Graduatoria interna di istituto: inserimento in coda, continuità nel comune, dottorato da gennaio, anno di prova, pre-ruolo senza titolo. Risposte ai quesiti",
+                "link": "https://www.orizzontescuola.it/graduatoria-interna-di-istituto-inserimento-in-coda-continuita-nel-comune-dottorato-da-gennaio-anno-di-prova-pre-ruolo-senza-titolo-risposte-ai-quesiti/",
+                "date": "28 Mar 2025",
+                "time": "9:11",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Vacanze di Pasqua: quando al supplente spetta lo stipendio. I tre elementi imprescindibili",
@@ -535,14 +536,6 @@
                 "link": "https://www.orizzontescuola.it/mobilita-docenti-25-26-concorso-straordinario-bis-allegati-istanza-con-deroga-e-servizio-civile-risposte-ai-quesiti/",
                 "date": "18 Mar 2025",
                 "time": "12:27",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Graduatoria interna di istituto docenti 2025/26: esclusione, continuità, servizi università e scuola paritaria, assegnazione provvisoria. Risposte ai quesiti",
-                "link": "https://www.orizzontescuola.it/graduatoria-interna-di-istituto-docenti-2025-26-esclusione-continuita-servizi-universita-e-scuola-paritaria-assegnazione-provvisoria-risposte-ai-quesiti/",
-                "date": "17 Mar 2025",
-                "time": "12:59",
                 "image_link": "N/A"
             }
         ]
