@@ -25,6 +25,14 @@
         "articles": [
             {
                 "category": "Scuole",
+                "title": "Scadenze aprile 2025: RSU, mobilità, esami di Stato, prove Invalsi, stop didattico per festività pasquali",
+                "link": "https://www.orizzontescuola.it/scadenze-di-aprile-mobilita-esami-di-stato-prove-invalsi-stop-didattico-per-festivita-pasquali/",
+                "date": "1 Apr 2025",
+                "time": "5:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/04/april-706941__340.jpg"
+            },
+            {
+                "category": "Scuole",
                 "title": "Esame di Stato 2025, prove personalizzate e strumenti compensativi: come si svolge per gli studenti con disabilità e DSA",
                 "link": "https://www.orizzontescuola.it/esame-di-stato-2025-prove-personalizzate-e-strumenti-compensativi-come-si-svolge-per-gli-studenti-con-disabilita-e-dsa/",
                 "date": "31 Mar 2025",
@@ -142,7 +150,12 @@
                 "date": "31 Mar 2025",
                 "time": "15:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Shutterstock_2310359315-6.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Pensioni",
                 "title": "Età pensionabile in aumento: nel 2027 tre mesi in più per la pensione, conferma dell’Istat. Il governo è pronto a intervenire",
@@ -150,12 +163,7 @@
                 "date": "31 Mar 2025",
                 "time": "14:15",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/shutterstock_1818500471.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "Codice degli appalti pubblici digitalizzato: ecco Digit-APP per un supporto giuridico alle stazioni appaltanti",
@@ -284,15 +292,7 @@
                 "time": "7:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2459517771-scaled.jpg"
             },
-            null,
-            {
-                "category": "Plus",
-                "title": "Abbonamento a “Gestire la scuola” + 4 webinar: Sicurezza digitale a scuola, RAV 25/28, Accordi quadro PA e MEPA, DPO privacy e buone pratiche",
-                "link": "https://www.orizzontescuola.it/abbonamento-a-gestire-la-scuola-3-webinar-sicurezza-nei-laboratori-labs-accordi-quadro-pa-e-mepa-dpo-privaci-e-buone-pratiche/",
-                "date": "31 Mar 2025",
-                "time": "6:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Gestire-la-scuola-Cartaceo-online.png"
-            }
+            null
         ]
     },
     "group_4": {
