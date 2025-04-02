@@ -4,7 +4,7 @@
         "articles": [
             {
                 "category": "Stipendio",
-                "title": "Scatti stipendiali anno 2013, conclusa l’udienza in Cassazione per il riconoscimento. Ministero: “sarebbe un problema per le casse dello Stato”. Ecco cosa è successo [APPROFONDIMENTO IN DIRETTA ORE 17.30]",
+                "title": "Scatti stipendiali anno 2013, conclusa l’udienza in Cassazione per il riconoscimento. Ministero: “Sarebbe un problema per le casse dello Stato”. Ecco cosa è successo",
                 "link": "https://www.orizzontescuola.it/anno-2013-conclusa-ludienza-in-cassazione-per-il-riconoscimento-cosa-e-successo-approfondimento-in-diretta-ore-17-30/",
                 "date": "2 Apr 2025",
                 "time": "12:51",
@@ -23,6 +23,38 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso secondaria PNRR2, accesso alla prova scritta svolta tra il 25 e il 27 febbraio. Le indicazioni ufficiali",
+                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-accesso-alla-prova-scritta-svolta-tra-il-25-e-il-27-febbraio-le-indicazioni-ufficiali/",
+                "date": "2 Apr 2025",
+                "time": "21:14",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2467525223.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze 2024/25, INTERPELLI alla ricerca di docenti [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "2 Apr 2025",
+                "time": "20:48",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Decreto Scuola, quali concorsi docenti faranno parte dell’elenco regionale da cui assumere in ruolo sui posti residui?",
+                "link": "https://www.orizzontescuola.it/decreto-scuola-quali-concorsi-docenti-faranno-parte-dellelenco-regionale-da-cui-assumere-in-ruolo-sui-posti-residui/",
+                "date": "2 Apr 2025",
+                "time": "19:09",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2456270825.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Esami di Stato 2025, differenza nella possibilità di nomina tra chi insegna in una quinta classe e chi no. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/esami-di-stato-2025-e-necessario-insegnare-in-una-quinta-per-presentare-domanda-come-presidente-o-commissario-pillole-di-questiontime/",
+                "date": "2 Apr 2025",
+                "time": "18:51",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_145510552.jpg"
+            },
             {
                 "category": "Pensioni",
                 "title": "Posti disponibili docenti e ATA dopo i pensionamenti dal 1° settembre 2025. Elenchi per provincia [AGGIORNATO]",
@@ -118,7 +150,12 @@
                 "date": "2 Apr 2025",
                 "time": "12:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/shutterstock_1727747233-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Studenti",
                 "title": "Alunni stranieri, oltre 900mila in classe: nel Nord-Ovest quasi 350mila. Sud e Isole con circa 126mila. Tutti i dati",
@@ -150,12 +187,7 @@
                 "date": "2 Apr 2025",
                 "time": "11:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1874731318-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Percorsi abilitanti da 60, 30 e 36 CFU per il 2024/25: ecco le PAGINA degli Atenei con i BANDI [AGGIORNATO]",
@@ -231,14 +263,6 @@
             null,
             null,
             {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze 2024/25, INTERPELLI alla ricerca di docenti [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
-                "date": "1 Apr 2025",
-                "time": "19:05",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
-            },
-            {
                 "category": "Cronaca",
                 "title": "Docenti isole minori Sicilia possono richiedere rimborso integrale biglietti viaggio: online la piattaforma informatica",
                 "link": "https://www.orizzontescuola.it/docenti-isole-minori-possono-richiedere-rimborso-integrale-biglietti-viaggio-online-la-piattaforma-informatica/",
@@ -261,36 +285,29 @@
                 "date": "1 Apr 2025",
                 "time": "17:51",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/10/Ministero.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Calendario scolastico 2025/26: quando inizia la scuola a settembre. Le date per regione [IN AGGIORNAMENTO]",
-                "link": "https://www.orizzontescuola.it/calendario-scolastico-2025-26-quando-inizia-la-scuola-a-settembre-le-date-per-regione-in-aggiornamento/",
-                "date": "1 Apr 2025",
-                "time": "17:18",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_2002803581-scaled.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Comunicazione all’USR dell’approvazione del conto consuntivo in difformità del parere dei revisori dei conti. In allegato un modello",
-                "link": "https://www.orizzontescuola.it/comunicazione-allusr-dellapprovazione-del-conto-consuntivo-in-difformita-del-parere-dei-revisori-dei-conti-in-allegato-un-modello/",
-                "date": "1 Apr 2025",
-                "time": "17:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1231450093.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Maturità 2025, domande Presidenti e Commissari: scelta provincia, classe di concorso, calcolo distanza.  Ecco a cosa fare attenzione",
-                "link": "https://www.orizzontescuola.it/maturita-2025-domande-presidenti-e-commissari-scelta-provincia-classe-di-concorso-calcolo-distanza-ecco-a-cosa-fare-attenzione/",
-                "date": "1 Apr 2025",
-                "time": "16:48",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2491902319.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Giornata mondiale sull’autismo, Di Bartolo: “La scuola è il luogo privilegiato per l’interazione”",
+                "link": "https://www.orizzontescuola.it/giornata-mondiale-sullautismo-di-bartolo-la-scuola-e-il-luogo-privilegiato-per-linterazione/",
+                "date": "2 Apr 2025",
+                "time": "20:12",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "All’Università di Palermo, 43% in più di studenti con disabilità negli ultimi tre anni",
+                "link": "https://www.orizzontescuola.it/alluniversita-di-palermo-43-in-piu-di-studenti-con-disabilita-negli-ultimi-tre-anni/",
+                "date": "2 Apr 2025",
+                "time": "20:11",
+                "image_link": "N/A"
+            },
+            null,
             {
                 "category": "Cronaca",
                 "title": "Cultura e inclusione, il Piano Olivetti investe 34 milioni per biblioteche e editoria",
@@ -409,30 +426,6 @@
                 "link": "https://www.orizzontescuola.it/istituti-professionali-il-video-virale-che-smonta-i-pregiudizi-qui-non-si-perde-tempo-si-impara-lavorando/",
                 "date": "2 Apr 2025",
                 "time": "11:16",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Un minuto di silenzio per Sara Campanella, la nota dell’AT di Messina: “La scuola ha un ruolo cruciale nell’educazione al rispetto”",
-                "link": "https://www.orizzontescuola.it/un-minuto-di-silenzio-per-sara-campanella-la-nota-dellat-di-messina-la-scuola-ha-un-ruolo-cruciale-nelleducazione-al-rispetto/",
-                "date": "2 Apr 2025",
-                "time": "10:24",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Contributi ricoveri in RSA, pubblicato il bando Long Term Care 2025 per dipendenti pubblici: domande fino a gennaio 2028",
-                "link": "https://www.orizzontescuola.it/contributi-ricoveri-in-rsa-per-dipendenti-pubblici-pubblicato-il-bando-long-term-care-2025-domande-fino-a-gennaio-2028/",
-                "date": "2 Apr 2025",
-                "time": "10:14",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Bambino della scuola d’infanzia espulso perché omofobico",
-                "link": "https://www.orizzontescuola.it/bambino-della-scuola-dinfanzia-espulso-perche-omofobico/",
-                "date": "2 Apr 2025",
-                "time": "10:12",
                 "image_link": "N/A"
             }
         ]
