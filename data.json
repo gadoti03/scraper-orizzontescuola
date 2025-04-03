@@ -3,26 +3,92 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "Politica scolastica",
+                "title": "“56 euro medi lordi l’aumento di stipendio previsto, è ingeneroso. Più risorse e uniformità tra i vari ordini. Le nostre rivendicazioni per le elezioni Rsu”: INTERVISTA a D’Aprile (Uil Scuola)",
+                "link": "https://www.orizzontescuola.it/56-euro-laumento-di-stipendio-previsto-e-ingeneroso-piu-risorse-e-uniformita-tra-i-vari-ordini-le-nostre-rivendicazioni-per-le-elezioni-rsu-intervista-a-daprile-uil-scuola/",
+                "date": "3 Apr 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/IMG-20250402-WA0008.jpg"
+            },
+            {
                 "category": "Stipendio",
                 "title": "Scatti stipendiali anno 2013, conclusa l’udienza in Cassazione per il riconoscimento. Ministero: “Sarebbe un problema per le casse dello Stato”. Ecco cosa è successo",
                 "link": "https://www.orizzontescuola.it/anno-2013-conclusa-ludienza-in-cassazione-per-il-riconoscimento-cosa-e-successo-approfondimento-in-diretta-ore-17-30/",
                 "date": "2 Apr 2025",
                 "time": "12:51",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/12/corte-suprema-di-cassazione-3682663_1920-1200x800.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Se la poesia (come diceva Montale) è inutile, perché insegnarla? “Perché è bellezza e la dimensione estetica matura la persona”. INTERVISTA a Stefano Picciano",
-                "link": "https://www.orizzontescuola.it/se-la-poesia-come-diceva-montale-e-inutile-perche-insegnarla-perche-e-bellezza-e-la-dimensione-estetica-matura-la-persona-intervista-a-stefano-picciano/",
-                "date": "2 Apr 2025",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/picciano.png"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Didattica",
+                "title": "Claude for Education, l’Intelligenza Artificiale che non fa i compiti al posto tuo e ti insegna a ragionare",
+                "link": "https://www.orizzontescuola.it/claude-for-education-lintelligenza-artificiale-che-non-fa-i-compiti-al-posto-tuo-e-ti-insegna-a-ragionare/",
+                "date": "3 Apr 2025",
+                "time": "10:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2496843175.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Mobilità 25/26, deroga genitore over 65: domanda non convalidata per mancata indicazione comune residenza anche con una sola scuola",
+                "link": "https://www.orizzontescuola.it/mobilita-25-26-deroga-genitore-over-65-domanda-non-convalidata-per-mancata-indicazione-comune-residenza-anche-con-una-sola-scuola/",
+                "date": "3 Apr 2025",
+                "time": "9:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/02/highway-lights-at-night_925x.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Calano le nascite e la popolazione invecchia: solo il 10,6% degli over 65 è laureato. Impatto dell’invecchiamento della popolazione sull’istruzione e mondo del lavoro",
+                "link": "https://www.orizzontescuola.it/calo-le-nascite-e-la-popolazione-invecchia-solo-il-106-degli-over-65-e-laureato-impatto-dellinvecchiamento-della-popolazione-sullistruzione-e-mondo-del-lavoro-over/",
+                "date": "3 Apr 2025",
+                "time": "8:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2462702379.jpg"
+            },
+            {
+                "category": "Genitori",
+                "title": "“Mio figlio è problematico, disturba in classe. Cosa facciamo? Lo cacciamo via?” Casi “limite” tra disciplina e inclusione. Una riflessione",
+                "link": "https://www.orizzontescuola.it/mio-figlio-e-problematico-disturba-in-classe-cosa-facciamo-lo-cacciamo-via-casi-limite-tra-disciplina-e-inclusione-una-riflessione/",
+                "date": "3 Apr 2025",
+                "time": "8:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_128632589.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Corso di formazione Indire, gli esperti: “30 CFU non bastano, il DL66/17 ne indica 120”",
+                "link": "https://www.orizzontescuola.it/corso-di-formazione-indire-gli-esperti-30-cfu-non-bastano-il-dl66-17-ne-indica-120/",
+                "date": "3 Apr 2025",
+                "time": "8:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1666873585.jpg"
+            },
+            {
+                "category": "Genitori",
+                "title": "100mila firme per vietare smartphone agli under 14. Novara: “Il marketing sfrutta la salute dei minori, basta profitti sulla pelle dei ragazzi”",
+                "link": "https://www.orizzontescuola.it/100mila-firme-per-vietare-smartphone-under-14-novara-il-marketing-sfrutta-la-salute-dei-minori-basta-profitti-sulla-pelle-dei-ragazzi/",
+                "date": "3 Apr 2025",
+                "time": "7:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_1497725663-scaled.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Manuale di conservazione documentale: obblighi e responsabilità per le scuole",
+                "link": "https://www.orizzontescuola.it/manuale-di-conservazione-documentale-obblighi-e-responsabilita-per-le-scuole/",
+                "date": "3 Apr 2025",
+                "time": "7:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_1249914946.jpg"
+            },
+            null,
+            null,
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Percorsi abilitanti da 60, 30 e 36 CFU per il 2024/25: ecco le PAGINA degli Atenei con i BANDI [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-da-60-30-e-36-cfu-per-il-2024-25-ci-saranno-tutte-le-classi-di-concorso-quando-i-bandi-ecco-cosa-dicono-le-universita/",
+                "date": "3 Apr 2025",
+                "time": "7:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso secondaria PNRR2, accesso alla prova scritta svolta tra il 25 e il 27 febbraio. Le indicazioni ufficiali",
@@ -70,7 +136,12 @@
                 "date": "2 Apr 2025",
                 "time": "17:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_1536212639.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "L’Intelligenza Artificiale nella scuola: sfide, opportunità e governance. Le nuove linee guida per il ciclo di Base",
@@ -150,12 +221,7 @@
                 "date": "2 Apr 2025",
                 "time": "12:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/shutterstock_1727747233-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Studenti",
                 "title": "Alunni stranieri, oltre 900mila in classe: nel Nord-Ovest quasi 350mila. Sud e Isole con circa 126mila. Tutti i dati",
@@ -189,14 +255,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1874731318-scaled.jpg"
             },
             {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti da 60, 30 e 36 CFU per il 2024/25: ecco le PAGINA degli Atenei con i BANDI [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-da-60-30-e-36-cfu-per-il-2024-25-ci-saranno-tutte-le-classi-di-concorso-quando-i-bandi-ecco-cosa-dicono-le-universita/",
-                "date": "2 Apr 2025",
-                "time": "10:37",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
-            },
-            {
                 "category": "DSGA",
                 "title": "Concorso DSGA, dove si svolge la prova scritta il 10 aprile. Ecco le SEDI d’esame [COMPLETO]",
                 "link": "https://www.orizzontescuola.it/concorso-dsga-prova-scritta-il-10-aprile-dove-si-svolge-ecco-le-sedi-desame-elenco-in-aggiornamento/",
@@ -227,70 +285,84 @@
                 "date": "2 Apr 2025",
                 "time": "9:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2554071589.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "TFA sostegno X ciclo: entro fine aprile possibile autorizzazione di 32mila posti, quindi i bandi",
-                "link": "https://www.orizzontescuola.it/tfa-sostegno-x-ciclo-entro-fine-aprile-possibile-autorizzazione-di-32mila-posti-quindi-i-bandi/",
-                "date": "2 Apr 2025",
-                "time": "9:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_34528768.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "6 in condotta perché hanno occupato la scuola, peserà sul voto all’esame di Maturità. Raccolte 10mila firme per la cancellazione",
-                "link": "https://www.orizzontescuola.it/6-in-condotta-perche-hanno-occupato-la-scuola-pesera-sul-voto-allesame-di-maturita-raccolte-10mila-firme-per-la-cancellazione/",
-                "date": "2 Apr 2025",
-                "time": "8:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1687719526.jpg"
-            },
-            {
-                "category": "Guide",
-                "title": "Se arriva una raccomandata, posso non ritirarla? Attenzione alla compiuta giacenza ed ai codici di identificazione",
-                "link": "https://www.orizzontescuola.it/se-arriva-una-raccomandata-posso-non-ritirarla-attenzione-alla-compiuta-giacenza-ed-ai-codici-di-identificazione/",
-                "date": "2 Apr 2025",
-                "time": "8:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2520469907.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Esame di Stato 2025: le novità sui requisiti e l’ordinanza ministeriale",
-                "link": "https://www.orizzontescuola.it/esame-di-stato-2025-le-novita-sui-requisiti-e-lordinanza-ministeriale/",
-                "date": "2 Apr 2025",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_704245198.jpg"
-            },
-            null,
-            null,
-            {
-                "category": "Cronaca",
-                "title": "Docenti isole minori Sicilia possono richiedere rimborso integrale biglietti viaggio: online la piattaforma informatica",
-                "link": "https://www.orizzontescuola.it/docenti-isole-minori-possono-richiedere-rimborso-integrale-biglietti-viaggio-online-la-piattaforma-informatica/",
-                "date": "1 Apr 2025",
-                "time": "19:02",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_521704717.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Conferma supplente per il sostegno anche nell’a.s. 2025/26. Se il posto non è intero, come completa l’orario il docente?",
-                "link": "https://www.orizzontescuola.it/conferma-supplente-per-il-sostegno-anche-nella-s-2025-26-se-il-posto-non-e-intero-come-completa-lorario-il-docente/",
-                "date": "1 Apr 2025",
-                "time": "18:07",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_2323742241.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Corsi sostegno INDIRE, riunito osservatorio sull’inclusione scolastica: focus anche su continuità didattica per gli alunni con disabilità",
-                "link": "https://www.orizzontescuola.it/osservatorio-per-inclusione-scolastica-riunione-con-focus-su-percorsi-indire-e-continuita-didattica-per-gli-alunni-con-disabilita/",
-                "date": "1 Apr 2025",
-                "time": "17:51",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/10/Ministero.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Studentessa con disabilità esclusa dalla gita perché la docente di sostegno non è disponibile: il nodo dell’inclusione scolastica",
+                "link": "https://www.orizzontescuola.it/studentessa-con-disabilita-esclusa-dalla-gita-perche-la-docente-di-sostegno-non-e-disponibile-il-nodo-dellinclusione-scolastica/",
+                "date": "3 Apr 2025",
+                "time": "10:25",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Scatti stipendiali e recupero 2013, Gilda: “Più risorse nei cedolini, necessaria azione politica per evitare contenzioso”",
+                "link": "https://www.orizzontescuola.it/scatti-stipendiali-e-recupero-2013-gilda-piu-risorse-nei-cedolini-necessaria-azione-politica-per-evitare-contenzioso/",
+                "date": "3 Apr 2025",
+                "time": "10:17",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "L’autista del pullman è ubriaco e gli pneumatici sono eccessivamente usurati: annullata gita scolastica nelle Marche dopo i controlli dei Carabinieri",
+                "link": "https://www.orizzontescuola.it/lautista-del-pullman-e-ubriaco-e-gli-pneumatici-erano-eccessivamente-usurati-annullata-gita-scolastica-nelle-marche-dopo-i-controlli-dei-carabinieri/",
+                "date": "3 Apr 2025",
+                "time": "10:17",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Nuove Indicazioni nazionali: “Immagine bucolica della scuola e romantica del maestro”. L’analisi dei presidi ANDIS",
+                "link": "https://www.orizzontescuola.it/nuove-indicazioni-nazionali-immagine-bucolica-della-scuola-e-romantica-del-maestro-lanalisi-dei-presidi-andis/",
+                "date": "3 Apr 2025",
+                "time": "10:08",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Femminicidi, studenti in piazza: “Per Ilaria, per Sara e per nessun’altra ancora. Chiediamo educazione sessuo-affettiva nelle scuole”",
+                "link": "https://www.orizzontescuola.it/femminicidi-studenti-in-piazza-per-ilaria-per-sara-e-per-nessunaltra-ancora-chiediamo-educazione-sessuo-affettiva-nelle-scuole/",
+                "date": "3 Apr 2025",
+                "time": "9:56",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Prevenzione della violenza di genere e il ruolo della scuola. Ex Ministra Carfagna: “Nel 2009 c’era già un progetto per le scuole: aggiorniamolo”",
+                "link": "https://www.orizzontescuola.it/prevenzione-della-violenza-di-genere-e-il-ruolo-della-scuola-ex-ministra-carfagna-nel-2009-cera-gia-un-progetto-per-le-scuole-aggiorniamolo/",
+                "date": "3 Apr 2025",
+                "time": "9:49",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Ministero e Caritas insieme per promuovere educazione alla cittadinanza e cultura della solidarietà nelle scuole",
+                "link": "https://www.orizzontescuola.it/ministero-e-caritas-insieme-per-promuovere-educazione-alla-cittadinanza-e-cultura-della-solidarieta-nelle-scuole/",
+                "date": "3 Apr 2025",
+                "time": "9:37",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Via libera ai corsi per docenti specializzati sui sordi: requisiti, durata e novità del decreto approvato dal CSPI",
+                "link": "https://www.orizzontescuola.it/via-libera-ai-corsi-per-docenti-specializzati-sui-sordi-requisiti-durata-e-novita-del-decreto-approvato-dal-cspi/",
+                "date": "3 Apr 2025",
+                "time": "7:41",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Permessi diritto allo studio, riapertura straordinaria in Sardegna per vincitori di concorso PNRR",
+                "link": "https://www.orizzontescuola.it/permessi-diritto-allo-studio-riapertura-straordinaria-in-sardegna-per-vincitori-di-concorso-pnrr/",
+                "date": "3 Apr 2025",
+                "time": "7:01",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "La sfida di Palermo sull’autismo, Pennino: “Decreto 62, stabilizzazione assistenti autonomia, modifica legge 112”",
@@ -354,78 +426,6 @@
                 "link": "https://www.orizzontescuola.it/indennita-di-trasferta-per-200mila-docenti-e-ata-che-lavorano-lontano-da-casa-la-richiesta-anief-diventa-emendamento-al-decreto-pa-25-2025/",
                 "date": "2 Apr 2025",
                 "time": "17:20",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Scuola-Lavoro, Valditara lancia il liceo tecnologico sperimentale di Genova: “Formare giovani pronti a guidare l’innovazione”",
-                "link": "https://www.orizzontescuola.it/scuola-lavoro-valditara-lancia-il-liceo-tecnologico-sperimentale-di-genova-formare-giovani-pronti-a-guidare-linnovazione/",
-                "date": "2 Apr 2025",
-                "time": "16:09",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Estorcevano filmati intimi a studentessa, tre ragazzi denunciati grazie all’intervento di un Dirigente scolastico",
-                "link": "https://www.orizzontescuola.it/estorcevano-filmati-intimi-a-studentessa-tre-ragazzi-denunciati-grazie-allintervento-di-un-dirigente-scolastico/",
-                "date": "2 Apr 2025",
-                "time": "15:58",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Alunna di 9 anni esclusa dalla gita per 6 ore di ritardo nel pagamento. La preside: “Credo nella parità dei diritti e nel rispetto delle regole”",
-                "link": "https://www.orizzontescuola.it/alunna-di-9-anni-esclusa-dalla-gita-per-6-ore-di-ritardo-nel-pagamento-la-preside-credo-nella-parita-dei-diritti-e-nel-rispetto-delle-regole/",
-                "date": "2 Apr 2025",
-                "time": "15:06",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Percorsi abilitanti e congedo di maternità, nuove indicazioni nazionali, rapporto scuola-lavoro. Il Ministro Valditara alla Camera",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-e-congedo-di-maternita-nuove-indicazioni-nazionali-rapporto-scuola-lavoro-il-ministro-valditara-alla-camera/",
-                "date": "2 Apr 2025",
-                "time": "15:05",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Nessuna categoria",
-                "title": "Anief Irc, il dibattito sugli insegnanti di religione cattolica tra cultura, diritto e libertà di scelta",
-                "link": "https://www.orizzontescuola.it/anief-irc-il-dibattito-sugli-insegnanti-di-religione-cattolica-tra-cultura-diritto-e-liberta-di-scelta/",
-                "date": "2 Apr 2025",
-                "time": "14:40",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Fava (Inps): “La cultura crea inclusione, partecipazione, riduce i rischi della depressione e dell’isolamento”",
-                "link": "https://www.orizzontescuola.it/fava-inps-la-cultura-crea-inclusione-partecipazione-riduce-i-rischi-della-depressione-e-dellisolamento/",
-                "date": "2 Apr 2025",
-                "time": "14:37",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorsi docenti PNRR2, ISTRUZIONI presentazione titoli (non autocertificabili). Valgono solo quelli dichiarati nella domanda",
-                "link": "https://www.orizzontescuola.it/concorsi-docenti-pnrr2-istruzioni-presentazione-titoli-non-autocertificabili/",
-                "date": "2 Apr 2025",
-                "time": "13:07",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Musica classica, il 3 aprile evento per insegnanti e studenti con il Maestro Uto Ughi",
-                "link": "https://www.orizzontescuola.it/musica-classica-il-3-aprile-evento-per-insegnanti-e-studenti-con-il-maestro-uto-ughi/",
-                "date": "2 Apr 2025",
-                "time": "11:43",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Giornata Mondiale per la Consapevolezza sull’Autismo, l’impegno del governo: stanziati 330 milioni per sostegno e percorsi personalizzati",
-                "link": "https://www.orizzontescuola.it/giornata-mondiale-per-la-consapevolezza-sullautismo-limpegno-del-governo-stanziati-330-milioni-per-sostegno-e-percorsi-personalizzati/",
-                "date": "2 Apr 2025",
-                "time": "11:25",
                 "image_link": "N/A"
             }
         ]
@@ -552,6 +552,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Esami di Stato 2025, docenti alle prese con i “codici” delle classi di concorso. Procedura utilizza ancora DPR 19/2016: istruzioni",
+                "link": "https://www.orizzontescuola.it/esami-di-stato-2025-docenti-alle-prese-con-i-codici-delle-classi-di-concorso-procedura-utilizza-ancora-dpr-19-2016-istruzioni/",
+                "date": "30 Mar 2025",
+                "time": "14:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_1996119905.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Immissioni in ruolo docenti, firma contratto anche ad agosto, entro  5 giorni dall’assegnazione della scuola. NOVITÀ BOZZA DL Scuola",
                 "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-firma-contratto-anche-anche-ad-agosto-entro-5-giorni-dallassegnazione-della-scuola-novita-gestione-rinunce-bozza-dl-scuola/",
                 "date": "29 Mar 2025",
@@ -589,14 +597,6 @@
                 "date": "27 Mar 2025",
                 "time": "15:52",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_59277838.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Immissioni in ruolo docenti: dai concorsi PNRR si assumerà fino al 31 dicembre 2025. Si ripete schema degli “aventi diritto”. BOZZA Decreto Scuola",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-dai-concorsi-pnrr-si-assumera-fino-al-31-dicembre-2025-si-ripete-schema-degli-aventi-diritto-bozza-decreto-scuola/",
-                "date": "27 Mar 2025",
-                "time": "15:26",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_163768811.jpg"
             }
         ]
     },
