@@ -24,6 +24,30 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Politica scolastica",
+                "title": "A scuola approfondimenti sul Cantico delle Creature, l’annuncio di Valditara: “San Francesco insegna a guardare il mondo con gratitudine e rispetto”",
+                "link": "https://www.orizzontescuola.it/a-scuola-percorsi-di-approfondimento-sul-cantico-delle-creature-lannuncio-di-valditara-san-francesco-insegna-a-guardare-il-mondo-con-gratitudine-e-rispetto/",
+                "date": "3 Apr 2025",
+                "time": "21:19",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2338262217.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Nuovi giochi della gioventù: possono partecipare tutti gli studenti. Ecco come si svolgono. LEGGE in Gazzetta Ufficiale",
+                "link": "https://www.orizzontescuola.it/nuovi-giochi-della-gioventu-possono-partecipare-tutti-gli-studenti-ecco-come-si-svolgeranno-legge-in-gazzetta-ufficiale/",
+                "date": "3 Apr 2025",
+                "time": "20:46",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2287076115.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Maturità 2025, novità requisiti: studenti non ammessi con meno di 6 nel comportamento. MIM chiarisce: nulla cambia sulla valutazione delle discipline. NOTA",
+                "link": "https://www.orizzontescuola.it/maturita-2025-studenti-non-ammessi-con-meno-di-6-nel-comportamento-elaborato-per-chi-ha-6-novita-requisiti/",
+                "date": "3 Apr 2025",
+                "time": "20:21",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/01/shutterstock_1194103753.jpg"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Atti sessuali su studentessa, arrestato professore in Toscana. Indagini in corso",
                 "link": "https://www.orizzontescuola.it/atti-sessuali-su-studentessa-arrestato-professore-in-toscana-indagini-in-corso/",
@@ -126,7 +150,12 @@
                 "date": "3 Apr 2025",
                 "time": "11:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2556788731-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Didattica",
                 "title": "Claude for Education, l’Intelligenza Artificiale che non fa i compiti al posto tuo e ti insegna a ragionare",
@@ -150,12 +179,7 @@
                 "date": "3 Apr 2025",
                 "time": "8:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2462702379.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Genitori",
                 "title": "“Mio figlio è problematico, disturba in classe. Cosa facciamo? Lo cacciamo via?” Casi “limite” tra disciplina e inclusione. Una riflessione",
@@ -261,36 +285,28 @@
                 "date": "2 Apr 2025",
                 "time": "16:02",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/Valditara-1.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Docenti in gravidanza che hanno vinto il concorso rischiano di perdere l’assunzione, Valditara: “Saranno tutelate”",
-                "link": "https://www.orizzontescuola.it/docenti-in-gravidanza-e-concorso-pnrr-valditara-assicura-nessun-pregiudizio-ecco-come-funziona-la-stabilizzazione/",
-                "date": "2 Apr 2025",
-                "time": "15:56",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/Valditara.jpeg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Mobilità 25/26, applicazione precedenze: chi ne fruisce si muove prima dei colleghi a prescindere dal punteggio",
-                "link": "https://www.orizzontescuola.it/mobilita-25-26-applicazione-precedenze-chi-ne-fruisce-si-muove-prima-dei-colleghi-a-prescindere-dal-punteggio/",
-                "date": "2 Apr 2025",
-                "time": "15:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1927950590.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Gite scolastiche, 1 studente su 2 non parte. I motivi? Costi elevati e indisponibilità dei professori ad accompagnare le classi",
-                "link": "https://www.orizzontescuola.it/gite-scolastiche-1-studente-su-2-non-parte-i-motivi-costi-elevati-e-indisponibilita-dei-professori-ad-accompagnare-le-classi/",
-                "date": "2 Apr 2025",
-                "time": "15:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_1435821560.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Comunicati stampa",
+                "title": "Mobilità intercompartimentale, senza una legge docenti e Ata rimangono bloccati: Anief la chiede con un emendamento",
+                "link": "https://www.orizzontescuola.it/mobilita-intercompartimentale-senza-una-legge-docenti-e-ata-rimangono-bloccati-anief-la-chiede-con-un-emendamento/",
+                "date": "3 Apr 2025",
+                "time": "20:52",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Immissioni in ruolo docenti 2025/26: ecco quanti candidati ancora in graduatoria o chi è ultimo nominato [Aggiornato con SICILIA]",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2025-26-ecco-quanti-candidati-ancora-in-graduatoria-aggiornato-con-piemonte/",
+                "date": "3 Apr 2025",
+                "time": "19:27",
+                "image_link": "N/A"
+            },
             {
                 "category": "Didattica",
                 "title": "25 Aprile, la scuola e la memoria repubblicana: avviate le iniziative in vista dell’80° anniversario della Liberazione",
@@ -411,28 +427,20 @@
                 "date": "3 Apr 2025",
                 "time": "11:20",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Studentessa con disabilità esclusa dalla gita perché la docente di sostegno non è disponibile: il nodo dell’inclusione scolastica",
-                "link": "https://www.orizzontescuola.it/studentessa-con-disabilita-esclusa-dalla-gita-perche-la-docente-di-sostegno-non-e-disponibile-il-nodo-dellinclusione-scolastica/",
-                "date": "3 Apr 2025",
-                "time": "10:25",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Scatti stipendiali e recupero 2013, Gilda: “Più risorse nei cedolini, necessaria azione politica per evitare contenzioso”",
-                "link": "https://www.orizzontescuola.it/scatti-stipendiali-e-recupero-2013-gilda-piu-risorse-nei-cedolini-necessaria-azione-politica-per-evitare-contenzioso/",
-                "date": "3 Apr 2025",
-                "time": "10:17",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Mobilità 25/26, applicazione precedenze: chi ne fruisce si muove prima dei colleghi a prescindere dal punteggio",
+                "link": "https://www.orizzontescuola.it/mobilita-25-26-applicazione-precedenze-chi-ne-fruisce-si-muove-prima-dei-colleghi-a-prescindere-dal-punteggio/",
+                "date": "2 Apr 2025",
+                "time": "15:44",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Mobilità docenti 2025/26, trasferimento da sostegno a posto comune. Ordine dei movimenti",
@@ -536,20 +544,20 @@
                 "date": "25 Mar 2025",
                 "time": "9:25",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Graduatoria interna di istituto, continuità di servizio: non si valuta anno retrodatazione giuridica",
-                "link": "https://www.orizzontescuola.it/graduatoria-interna-di-istituto-continuita-di-servizio-non-si-valuta-anno-retrodatazione-giuridica/",
-                "date": "24 Mar 2025",
-                "time": "13:27",
-                "image_link": "N/A"
             }
         ]
     },
     "group_6": {
         "title": "Diventare Insegnanti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Docenti vincitori concorso PNRR1: 30 o 36 CFU per l’abilitazione e indicazioni per classi di concorso non attivate. Nota USR Calabria",
+                "link": "https://www.orizzontescuola.it/docenti-vincitori-concorso-pnrr1-30-o-36-cfu-per-labilitazione-e-indicazioni-per-classi-di-concorso-non-attivate-nota-usr-calabria/",
+                "date": "31 Mar 2025",
+                "time": "10:22",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1787093633.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Percorsi abilitanti: ci sarà un terzo decreto con altri posti per il 2024/25?",
@@ -589,14 +597,6 @@
                 "date": "28 Mar 2025",
                 "time": "18:58",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_713874685.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Decreto Scuola approvato: idonei nelle graduatorie fino al 30% dei posti, stop 4 anni in 1 alle paritarie, welfare scolastico. Le principali novità. SCHEDA",
-                "link": "https://www.orizzontescuola.it/decreto-scuola-approvato-idonei-ai-concorsi-a-cattedra-avranno-riserva-del-30-stop-4-anni-in-1-alle-paritarie-welfare-scolastico-le-principali-novita-scheda/",
-                "date": "28 Mar 2025",
-                "time": "15:29",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/Governo-1.jpeg"
             }
         ]
     },
