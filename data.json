@@ -3,26 +3,43 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "Scuole",
+                "title": "Registro elettronico, nota Ministero: vietate le comunicazioni commerciali, marketing, oroscopi e chat. Ecco cosa si può e non si può fare",
+                "link": "https://www.orizzontescuola.it/registro-elettronico-nota-ministero-vietate-le-comunicazioni-commerciali-e-marketing-ecco-cosa-si-puo-e-non-si-puo-fare/",
+                "date": "4 Apr 2025",
+                "time": "20:37",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1555297898.jpg"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Fobia dell’altezza, paura degli esami, ansie da stress, paura di parlare in pubblico: come superarle? Attraverso la realtà virtuale che ti proietta su un ponte tibetano. INTERVISTA a Rosa Cappelluccio",
                 "link": "https://www.orizzontescuola.it/fobia-dellaltezza-paura-degli-esami-ansie-da-stress-paura-di-parlare-in-pubblico-come-superarle-attraverso-la-realta-virtuale-che-ti-proietta-su-un-ponte-tibetano-intervista-a-rosa-cappellucci/",
                 "date": "4 Apr 2025",
                 "time": "8:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Progetto-senza-titolo-3.png"
-            },
-            {
-                "category": "Stipendio",
-                "title": "Il nodo stipendi e blocco 2013, Nunziata (Snals): “Problema per le casse dello Stato? Il diritto si applica”. Miceli (Anief): “I docenti devono pagare le conseguenze delle scelte politiche?”",
-                "link": "https://www.orizzontescuola.it/il-nodo-stipendi-e-blocco-2013-nunziata-snals-problema-per-le-casse-dello-stato-il-diritto-si-applica-miceli-anief-i-docenti-devono-pagare-le-conseguenze-delle-scelte-politiche/",
-                "date": "3 Apr 2025",
-                "time": "15:26",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Modello-grafica-sito-1000-x-500-px.png"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Femminicidio Sara Campanella, l’appello della mamma: “Busseremo a ogni scuola per fermare la violenza. Da oggi vivrò solo per questo, occorre educare per prevenire”",
+                "link": "https://www.orizzontescuola.it/femminicidio-sara-campanella-la-mamma-si-rivolge-alla-scuola-busseremo-a-ogni-scuola-per-fermare-la-violenza-da-oggi-vivro-solo-per-questo-occorre-educare-per-prevenire/",
+                "date": "4 Apr 2025",
+                "time": "22:07",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/10/Lutto.jpg"
+            },
+            null,
+            {
+                "category": "Cronaca",
+                "title": "Bocciata all’esame per un attacco di panico, il TAR dice no alla ripetizione della prova: “La valutazione della commissione è insindacabile, tranne casi di manifesta illogicità”. SENTENZA",
+                "link": "https://www.orizzontescuola.it/bocciata-allesame-per-un-attacco-di-panico-il-tar-dice-no-alla-ripetizione-della-prova-la-valutazione-della-commissione-e-insindacabile-tranne-casi-di-illogicita-manifesta-sentenza/",
+                "date": "4 Apr 2025",
+                "time": "18:29",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/03/giustizia.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze 2024/25, INTERPELLI alla ricerca di docenti [AGGIORNATO]",
@@ -88,14 +105,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_2207299487.jpg"
             },
             {
-                "category": "Politica scolastica",
-                "title": "Valditara: “La violenza contro le donne va contrastata con un’azione corale dell’intera società”",
-                "link": "https://www.orizzontescuola.it/valditara-la-violenza-contro-le-donne-va-contrastata-con-unazione-corale-dellintera-societa/",
-                "date": "4 Apr 2025",
-                "time": "12:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/Valditara-1.png"
-            },
-            {
                 "category": "Scuole",
                 "title": "Mense scolastiche, inaccessibili per il 60% delle famiglie: non c’è tempo pieno a scuola o il servizio è assente. I dati",
                 "link": "https://www.orizzontescuola.it/mense-scolastiche-inaccessibili-per-il-60-delle-famiglie-non-ce-tempo-pieno-a-scuola-o-il-servizio-e-assente/",
@@ -134,7 +143,12 @@
                 "date": "4 Apr 2025",
                 "time": "11:04",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2307437015.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Entro quando predisporre il piano ferie del personale ATA e cosa fa il DSGA",
@@ -150,12 +164,7 @@
                 "date": "4 Apr 2025",
                 "time": "10:16",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/Fracassi.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "Fermo tecnico dei servizi SIDI dalle ore 7 del 13 aprile. AVVISO MIM",
@@ -276,28 +285,60 @@
                 "date": "3 Apr 2025",
                 "time": "16:57",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2518506853.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Graduatoria interna di istituto: valutazione pre-ruolo anche senza 180 giorni, corsi perfezionamento, anno retrodatazione giuridica e novità pre-ruolo. Risposte ai quesiti",
-                "link": "https://www.orizzontescuola.it/graduatoria-interna-di-istituto-valutazione-pre-ruolo-anche-senza-180-giorni-corsi-perfezionamento-anno-retrodatazione-giuridica-e-novita-pre-ruolo-risposte-ai-quesiti/",
-                "date": "3 Apr 2025",
-                "time": "15:45",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/12/graduatorie-593x443.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Frassinetti incontra la più giovane laureata d’Italia, con formazione classica: “Simbolo di rinascita. Latino e greco veicoli di pensiero critico”",
-                "link": "https://www.orizzontescuola.it/frassinetti-incontra-la-piu-giovane-laureata-ditalia-con-formazione-classica-simbolo-di-rinascita-latino-e-greco-veicoli-di-pensiero-critico/",
-                "date": "3 Apr 2025",
-                "time": "13:22",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Il-Sottosegretario-con-Camilla-Spezza.jpeg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Comunicati stampa",
+                "title": "Dieci giorni al voto per il rinnovo Rsu. Anief: “Importante votare i propri candidati in ogni sede”",
+                "link": "https://www.orizzontescuola.it/dieci-giorni-al-voto-per-il-rinnovo-rsu-anief-importante-votare-i-propri-candidati-in-ogni-sede/",
+                "date": "4 Apr 2025",
+                "time": "21:57",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Siringhe in strada: bimbo di 9 anni punto in pieno centro dopo la scuola. Genitori in rivolta: “Basta degrado e droga sotto casa”",
+                "link": "https://www.orizzontescuola.it/siringhe-in-strada-bimbo-di-9-anni-punto-in-pieno-centro-dopo-la-scuola-genitori-in-rivolta-basta-degrado-e-droga-sotto-casa/",
+                "date": "4 Apr 2025",
+                "time": "21:44",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Risarcimenti, Anief: “Quasi 5 milioni di euro recuperati nei primi 90 giorni del 2025. Colpa di legislazioni e normative fallaci”",
+                "link": "https://www.orizzontescuola.it/risarcimenti-anief-quasi-5-milioni-di-euro-recuperati-nei-primi-90-giorni-del-2025-colpa-di-legislazioni-e-normative-fallaci/",
+                "date": "4 Apr 2025",
+                "time": "20:56",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Alunno 14enne non si presenta a scuola, i genitori lo trovano morto a casa: probabile malore",
+                "link": "https://www.orizzontescuola.it/alunno-14enne-non-si-presenta-a-scuola-i-genitori-lo-trovano-morto-a-casa-probabile-malore/",
+                "date": "4 Apr 2025",
+                "time": "20:40",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Fuga dei cervelli, il papà ricercatore scrive a Mattarella: “Mio figlio in Danimarca per sfuggire all’Italia che umilia i giovani”",
+                "link": "https://www.orizzontescuola.it/fuga-dei-cervelli-il-papa-ricercatore-scrive-a-mattarella-mio-figlio-in-danimarca-per-sfuggire-allitalia-che-umilia-i-giovani/",
+                "date": "4 Apr 2025",
+                "time": "19:35",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Calendario scolastico 2025-2026, in Friuli Venezia-Giulia si ripartirà l’11 settembre",
+                "link": "https://www.orizzontescuola.it/calendario-scolastico-2025-2026-in-friuli-venezia-giulia-si-ripartira-l11-settembre/",
+                "date": "4 Apr 2025",
+                "time": "18:56",
+                "image_link": "N/A"
+            },
             {
                 "category": "Scuole",
                 "title": "800 anni dalla composizione del Cantico delle Creature, un concorso per studenti: scadenza 30 maggio. NOTA",
@@ -373,59 +414,11 @@
                 "image_link": "N/A"
             },
             {
-                "category": "Cronaca",
-                "title": "Enrico Mentana: “Quale futuro ai giovani? Ai miei tempi tante conquiste, ora è un orizzonte piatto, senza prospettiva”",
-                "link": "https://www.orizzontescuola.it/enrico-mentana-quale-futuro-ai-giovani-ai-miei-tempi-tante-conquiste-ora-e-un-orizzonte-piatto-senza-prospettiva/",
+                "category": "Politica scolastica",
+                "title": "Valditara: “La violenza contro le donne va contrastata con un’azione corale dell’intera società”",
+                "link": "https://www.orizzontescuola.it/valditara-la-violenza-contro-le-donne-va-contrastata-con-unazione-corale-dellintera-societa/",
                 "date": "4 Apr 2025",
-                "time": "12:35",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Educazione sessuale a scuola: perché in Italia è ancora un tabù? Massimo Giletti: “Serve più dialogo, altrimenti i ragazzi restano soli”",
-                "link": "https://www.orizzontescuola.it/educazione-sessuale-a-scuola-perche-in-italia-e-ancora-un-tabu-massimo-giletti-serve-piu-dialogo-altrimenti-i-ragazzi-restano-soli/",
-                "date": "4 Apr 2025",
-                "time": "12:19",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Luca Zingaretti: “I ragazzi di oggi? Incapaci di desiderare davvero, perché non conoscono il tempo dell’attesa”",
-                "link": "https://www.orizzontescuola.it/luca-zingaretti-i-ragazzi-di-oggi-incapaci-di-desiderare-davvero-perche-non-conoscono-il-tempo-dellattesa/",
-                "date": "4 Apr 2025",
-                "time": "12:16",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Studenti in piazza contro tagli all’istruzione e riarmo, proteste in tutta Italia: “Scuole per tutti, non bombe”",
-                "link": "https://www.orizzontescuola.it/studenti-in-piazza-contro-tagli-allistruzione-e-riarmo-proteste-in-tutta-italia-scuole-per-tutti-non-bombe/",
-                "date": "4 Apr 2025",
-                "time": "11:38",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Insegnate ai vostri figli a gestire un rifiuto a sopportare un fallimento”, l’appello di Giovanna Corrao",
-                "link": "https://www.orizzontescuola.it/insegnate-ai-vostri-figli-a-gestire-un-rifiuto-a-sopportare-un-fallimento-lappello-di-giovanna-corrao/",
-                "date": "4 Apr 2025",
-                "time": "10:48",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Violenza di genere, Gelmini: “Serve educare al rispetto, anche a scuola”. E propone di ripristinare la Settimana contro la violenza di genere",
-                "link": "https://www.orizzontescuola.it/violenza-di-genere-gelmini-serve-educare-al-rispetto-anche-a-scuola-e-propone-di-ripristinare-la-settimana-contro-la-violenza-di-genere/",
-                "date": "4 Apr 2025",
-                "time": "9:31",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Crepet ai genitori: “Smettete di dare ai ragazzi tutto ciò che vi chiedono … e non imitateli nell’abbigliamento”",
-                "link": "https://www.orizzontescuola.it/crepet-ai-genitori-smettete-di-dare-ai-ragazzi-tutto-cio-che-vi-chiedono-e-non-imitateli-nellabbigliamento/",
-                "date": "4 Apr 2025",
-                "time": "8:35",
+                "time": "12:42",
                 "image_link": "N/A"
             }
         ]
@@ -433,6 +426,14 @@
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Graduatoria interna di istituto: valutazione pre-ruolo anche senza 180 giorni, corsi perfezionamento, anno retrodatazione giuridica e novità pre-ruolo. Risposte ai quesiti",
+                "link": "https://www.orizzontescuola.it/graduatoria-interna-di-istituto-valutazione-pre-ruolo-anche-senza-180-giorni-corsi-perfezionamento-anno-retrodatazione-giuridica-e-novita-pre-ruolo-risposte-ai-quesiti/",
+                "date": "3 Apr 2025",
+                "time": "15:45",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Mobilità 25/26, deroga genitore over 65: domanda non convalidata per mancata indicazione comune residenza anche con una sola scuola",
@@ -535,14 +536,6 @@
                 "link": "https://www.orizzontescuola.it/contrazione-di-organico-dove-viene-assunto-in-ruolo-vincitore-di-concorso-non-abilitato/",
                 "date": "26 Mar 2025",
                 "time": "9:27",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Mobilità docenti 25/26: preferenze esprimibili, concorsi valutabili e vincolo preferenza. Ultime risposte ai quesiti",
-                "link": "https://www.orizzontescuola.it/mobilita-25-26-preferenze-esprimibili-concorsi-valutabili-e-vincolo-preferenza-ultime-risposte-ai-questi/",
-                "date": "25 Mar 2025",
-                "time": "16:02",
                 "image_link": "N/A"
             }
         ]
