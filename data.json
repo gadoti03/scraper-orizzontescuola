@@ -24,8 +24,24 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Politica scolastica",
+                "title": "Lega, Salvini confermato segretario fino al 2029. Approvata mozione Valditara in cui si punta anche sulla valorizzazione dei docenti: impegno per nuovi stanziamenti",
+                "link": "https://www.orizzontescuola.it/lega-salvini-confermato-segretario-fino-al-2029-approvata-una-mozione-per-i-giovani-tra-riforma-scolastica-lotta-al-disagio-e-criminalita/",
+                "date": "6 Apr 2025",
+                "time": "16:45",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-26-at-21.57.37.jpeg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Insegnare l’ABC delle relazioni in un mondo che rifiuta di imparare, un alunno 13enne: “Come faccio a sapere che non diventerò violento, se nessuno me lo spiega?”",
+                "link": "https://www.orizzontescuola.it/insegnare-labc-delle-relazioni-in-un-mondo-che-rifiuta-di-imparare-un-alunno-come-faccio-a-sapere-che-non-diventero-violento-se-nessuno-me-lo-spiega/",
+                "date": "6 Apr 2025",
+                "time": "14:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_1702576117.jpg"
+            },
+            {
                 "category": "Chiedilo a Lalla",
-                "title": "Mobilità 2025/26: posti accantonati per docenti da assumere entro il 31 dicembre e assegnazione cattedre",
+                "title": "Posti accantonati per il concorso PNRR1 e non assegnati, possono essere utilizzati per i trasferimenti dei docenti di ruolo?",
                 "link": "https://www.orizzontescuola.it/mobilita-2025-26-posti-accantonati-per-docenti-da-assumere-entro-il-31-dicembre-e-assegnazione-cattedre/",
                 "date": "6 Apr 2025",
                 "time": "11:58",
@@ -33,7 +49,7 @@
             },
             {
                 "category": "Stipendio",
-                "title": "Stipendi personale scolastico ad Aprile attesi aumenti e arretrati, media di 333 euro. Pacifico (ANIEF): sotto di 6mila euro rispetto a funzioni centrali",
+                "title": "Stipendi personale scolastico ad Aprile attesi aumenti e arretrati, media di 333 euro. Pacifico (Anief): “Sotto di 6mila euro rispetto a funzioni centrali”",
                 "link": "https://www.orizzontescuola.it/stipendi-personale-scolastico-ad-aprile-attesi-aumenti-e-arretrati-media-di-333-euro-pacifico-anief-sotto-di-6mila-euro-rispetto-a-funzioni-centrali/",
                 "date": "6 Apr 2025",
                 "time": "10:54",
@@ -120,7 +136,12 @@
                 "date": "5 Apr 2025",
                 "time": "15:27",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_1321049273-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Pronto soccorso a scuola: bambino di 10 anni salva la nonna con le manovre apprese in classe",
@@ -136,12 +157,7 @@
                 "date": "5 Apr 2025",
                 "time": "13:57",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_1089555017.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Conferma docente di sostegno anche per il 2025/26: la richiesta della famiglia non è vincolante per il supplente",
@@ -248,22 +264,6 @@
                 "date": "4 Apr 2025",
                 "time": "17:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2459630859-scaled.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Calendario scolastico 2025/26: quando inizia la scuola a settembre. Le date per regione [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/calendario-scolastico-2025-26-quando-inizia-la-scuola-a-settembre-le-date-per-regione-in-aggiornamento/",
-                "date": "4 Apr 2025",
-                "time": "16:13",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR2. Convocazioni prova orale infanzia e primaria [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr2-infanzia-e-primaria-iniziano-prove-orali-dal-20-marzo-in-lombardia-per-posto-comune-primaria-la-convocazione/",
-                "date": "4 Apr 2025",
-                "time": "15:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/09/shutterstock_393077005.jpg"
             }
         ]
     },
@@ -697,6 +697,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Necessità di riflettere su “gite” e sicurezza a scuola. Lettera",
+                "link": "https://www.orizzontescuola.it/necessita-di-riflettere-su-gite-e-sicurezza-a-scuola-lettera/",
+                "date": "6 Apr 2025",
+                "time": "15:56",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "L’aspettativa di vita è diventata una colpa, una punizione. Lettera",
                 "link": "https://www.orizzontescuola.it/laspettativa-di-vita-e-diventata-una-colpa-una-punizione-lettera/",
                 "date": "4 Apr 2025",
@@ -733,14 +741,6 @@
                 "link": "https://www.orizzontescuola.it/quando-il-disagio-diventa-cultura-giovanile-maranza-e-baby-gang-lettera/",
                 "date": "29 Mar 2025",
                 "time": "9:58",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Scuola e interdisciplinarietà: la rivoluzione necessaria. Lettera",
-                "link": "https://www.orizzontescuola.it/scuola-e-interdisciplinarieta-la-rivoluzione-necessaria-lettera/",
-                "date": "28 Mar 2025",
-                "time": "10:14",
                 "image_link": "N/A"
             }
         ]
