@@ -24,6 +24,22 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Chiedilo a Lalla",
+                "title": "Mobilità 2025/26: posti accantonati per docenti da assumere entro il 31 dicembre e assegnazione cattedre",
+                "link": "https://www.orizzontescuola.it/mobilita-2025-26-posti-accantonati-per-docenti-da-assumere-entro-il-31-dicembre-e-assegnazione-cattedre/",
+                "date": "6 Apr 2025",
+                "time": "11:58",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/02/highway-lights-at-night_925x.jpg"
+            },
+            {
+                "category": "Stipendio",
+                "title": "Stipendi personale scolastico ad Aprile attesi aumenti e arretrati, media di 333 euro. Pacifico (ANIEF): sotto di 6mila euro rispetto a funzioni centrali",
+                "link": "https://www.orizzontescuola.it/stipendi-personale-scolastico-ad-aprile-attesi-aumenti-e-arretrati-media-di-333-euro-pacifico-anief-sotto-di-6mila-euro-rispetto-a-funzioni-centrali/",
+                "date": "6 Apr 2025",
+                "time": "10:54",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2530339755.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Continuità supplenza sostegno 2025/26: il docente deve anche avere diritto alla nomina da GaE/GPS oltre ad essere richiesto dalla famiglia?",
                 "link": "https://www.orizzontescuola.it/continuita-supplenza-sostegno-2025-26-il-docente-deve-anche-avere-diritto-alla-nomina-da-gae-gps-oltre-ad-essere-richiesto-dalla-famiglia/",
@@ -120,7 +136,12 @@
                 "date": "5 Apr 2025",
                 "time": "13:57",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_1089555017.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Conferma docente di sostegno anche per il 2025/26: la richiesta della famiglia non è vincolante per il supplente",
@@ -136,12 +157,7 @@
                 "date": "5 Apr 2025",
                 "time": "11:12",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_1205245405.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "Tracciabilità finanziaria negli appalti pubblici, ANAC detta le regole per stazioni appaltanti e imprese. CHIARIMENTI",
@@ -248,28 +264,36 @@
                 "date": "4 Apr 2025",
                 "time": "15:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/09/shutterstock_393077005.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Vincitori non abilitati senza sede concorso PNRR1: come avviene assegnazione scuola. Accantonamento posti",
-                "link": "https://www.orizzontescuola.it/vincitori-non-abilitati-senza-sede-concorso-pnrr1-come-avviene-assegnazione-scuola-accantonamento-posti/",
-                "date": "4 Apr 2025",
-                "time": "13:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/09/shutterstock_1240130032.jpg"
-            },
-            {
-                "category": "Orientamento e PTCO",
-                "title": "Orientamento, oltre il 70% degli studenti sceglie tardi l’Università: calano le competenze di base, criticità in italiano e matematica. I dati del Cisia",
-                "link": "https://www.orizzontescuola.it/orientamento-oltre-il-70-degli-studenti-sceglie-tardi-luniversita-calano-le-competenze-di-base-criticita-in-italiano-e-matematica-i-dati-del-cisia/",
-                "date": "4 Apr 2025",
-                "time": "12:56",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_1850607565.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Studenti del “De Amicis-Da Vinci” a Palermo, sul palco dei teatri Massimo e Biondo, con grandi artisti",
+                "link": "https://www.orizzontescuola.it/studenti-del-de-amicis-da-vinci-a-palermo-sul-palco-dei-teatri-massimo-e-biondo-con-grandi-artisti/",
+                "date": "6 Apr 2025",
+                "time": "12:12",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Sospeso per 30 giorni aumento biglietti per isole siciliane. Schifani: “Attenzione ad esigenze delle comunità”",
+                "link": "https://www.orizzontescuola.it/sospeso-per-30-giorni-aumento-biglietti-per-isole-siciliane-schifani-attenzione-ad-esigenze-delle-comunita/",
+                "date": "6 Apr 2025",
+                "time": "11:21",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Studenti in corteo per la docente che ha denunciato i ritardi sui referti istologici a Mazara",
+                "link": "https://www.orizzontescuola.it/studenti-in-corteo-per-la-docente-che-ha-denunciato-i-ritardi-sui-referti-istologici-a-mazara/",
+                "date": "6 Apr 2025",
+                "time": "10:58",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Inquinamento, a Milano i genitori ridipingono la scuola con vernici purificanti: “Così aria più pulita in classe”",
@@ -388,30 +412,6 @@
                 "link": "https://www.orizzontescuola.it/lex-iena-marco-berry-porta-la-lezione-spaziale-nelle-scuole-primarie-di-torino-vogliamo-incuriosire-i-bambini-raccontando-cosa-significa-andare-nello-spazio/",
                 "date": "5 Apr 2025",
                 "time": "12:49",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Dall’aula alla montagna: la Scuola per pastori che forma i nuovi custodi della biodiversità",
-                "link": "https://www.orizzontescuola.it/dallaula-alla-montagna-la-scuola-per-pastori-che-forma-i-nuovi-custodi-della-biodiversita/",
-                "date": "5 Apr 2025",
-                "time": "12:27",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Alunno minorenne accoltellato all’uscita da scuola, indagini in corso",
-                "link": "https://www.orizzontescuola.it/alunno-minorenne-accoltellato-alluscita-da-scuola-indagini-in-corso/",
-                "date": "5 Apr 2025",
-                "time": "9:54",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Studenti bruciano bandiera UE davanti al Ministero",
-                "link": "https://www.orizzontescuola.it/studenti-bruciano-bandiera-ue-davanti-al-ministero/",
-                "date": "5 Apr 2025",
-                "time": "9:36",
                 "image_link": "N/A"
             }
         ]
