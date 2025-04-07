@@ -3,26 +3,34 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "Politica scolastica",
+                "title": "Decreto Scuola, idonei nelle graduatorie fino al 30% dei posti, stop 4 anni in 1 alle paritarie, formazione docenti contro le droghe. Fondi per asili nido. TESTO in Gazzetta Ufficiale",
+                "link": "https://www.orizzontescuola.it/decreto-scuola-idonei-nelle-graduatorie-fino-al-30-dei-posti-stop-4-anni-in-1-alle-paritarie-820-milioni-per-gli-asili-nido-testo-in-gazzetta-ufficiale/",
+                "date": "7 Apr 2025",
+                "time": "21:21",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/Ministero-Istruzione.jpeg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Percorsi abilitanti vincitori di concorso PNRR1: dovranno concludersi entro il 18 luglio. Nuova nota MIM – MUR anche per classi di concorso non attivate",
                 "link": "https://www.orizzontescuola.it/percorsi-abilitanti-vincitori-di-concorso-pnrr1-dovranno-concludersi-entro-il-18-luglio-nuova-nota-mim-mur-anche-per-classi-di-concorso-non-attivate/",
                 "date": "7 Apr 2025",
                 "time": "11:26",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/download-2-1.jpg"
-            },
-            {
-                "category": "Scuole non statali",
-                "title": "“Il 20% delle famiglie interessate a scuola paritaria, ma si iscrive il 10%. Fattore economico determinante. Diplomifici? Eliminiamo valore legale e nessuno comprerà più il diploma”. INTERVISTA a Roberto Pasolini",
-                "link": "https://www.orizzontescuola.it/20-delle-famiglie-interessata-a-scuola-paritaria-ma-si-iscrive-il-10-fattore-economico-determinante-diplomifici-eliminiamo-valore-legale-e-nessuno-comprera-piu-il-diploma-intervista-a-roberto/",
-                "date": "7 Apr 2025",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Progetto-senza-titolo-6.png"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Scuole",
+                "title": "Privacy, le scuole tra le più colpite da violazioni dei dati personali. Online il podcast del Garante “A proposito di privacy”",
+                "link": "https://www.orizzontescuola.it/privacy-le-scuole-tra-le-piu-colpite-da-violazioni-dei-dati-personali-online-il-podcast-del-garante-a-proposito-di-privacy/",
+                "date": "7 Apr 2025",
+                "time": "20:01",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/shutterstock_1097989835.jpg"
+            },
             {
                 "category": "Scuole",
                 "title": "Attività motoria, ecco i progetti di cui le scuole possono avvalersi per l’ampliamento dell’offerta formativa. ELENCO",
@@ -113,7 +121,7 @@
             },
             {
                 "category": "Docenti",
-                "title": "Stipendio, Cassazione riconosce gradone 3-8 e ricostruzione di carriera anche ai docenti precari. Pacifico (Anief): “”Resa giustizia a migliaia di insegnanti”",
+                "title": "Stipendio, Cassazione riconosce gradone 3-8 e ricostruzione di carriera anche ai docenti precari. Pacifico (Anief): “Resa giustizia a migliaia di insegnanti”",
                 "link": "https://www.orizzontescuola.it/stipendio-cassazione-riconosce-gradone-3-8-e-ricostruzione-di-carriera-anche-ai-docenti-precari-pacifico-anief-resa-giustizia-a-migliaia-di-insegnanti/",
                 "date": "7 Apr 2025",
                 "time": "12:09",
@@ -142,7 +150,12 @@
                 "date": "7 Apr 2025",
                 "time": "11:17",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Immagine-WhatsApp-2025-04-07-ore-11.09.58_f2f8dfad.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Alunni plusdotati: il PDP e le responsabilità della scuola. Il caso analizzato dalla sentenza del TAR Veneto",
@@ -150,12 +163,7 @@
                 "date": "7 Apr 2025",
                 "time": "11:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1879691179-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Genitori",
                 "title": "Dipendenza da smartphone, violenza giovanile, uso di alcol e droghe: cosa preoccupa i genitori. I dati dell’indagine Demopolis-Con I Bambini",
@@ -253,6 +261,14 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1242074680.jpg"
             },
             {
+                "category": "Scuole non statali",
+                "title": "“Il 20% delle famiglie interessate a scuola paritaria, ma si iscrive il 10%. Fattore economico determinante. Diplomifici? Eliminiamo valore legale e nessuno comprerà più il diploma”. INTERVISTA a Roberto Pasolini",
+                "link": "https://www.orizzontescuola.it/20-delle-famiglie-interessata-a-scuola-paritaria-ma-si-iscrive-il-10-fattore-economico-determinante-diplomifici-eliminiamo-valore-legale-e-nessuno-comprera-piu-il-diploma-intervista-a-roberto/",
+                "date": "7 Apr 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Progetto-senza-titolo-6.png"
+            },
+            {
                 "category": "Scuole",
                 "title": "Criteri e riferimenti giuridici sulla fase di valutazione delle offerte economiche e tecniche degli operatori economici negli appalti. Aggiornato",
                 "link": "https://www.orizzontescuola.it/criteri-e-riferimenti-giuridici-sulla-fase-di-valutazione-delle-offerte-economiche-e-tecniche-degli-operatori-economici-negli-appalti-aggiornato/",
@@ -269,28 +285,53 @@
                 "date": "6 Apr 2025",
                 "time": "16:45",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-26-at-21.57.37.jpeg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Insegnare l’ABC delle relazioni in un mondo che rifiuta di imparare, un alunno 13enne: “Come faccio a sapere che non diventerò violento, se nessuno me lo spiega?”",
-                "link": "https://www.orizzontescuola.it/insegnare-labc-delle-relazioni-in-un-mondo-che-rifiuta-di-imparare-un-alunno-come-faccio-a-sapere-che-non-diventero-violento-se-nessuno-me-lo-spiega/",
-                "date": "6 Apr 2025",
-                "time": "14:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_1702576117.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Posti accantonati per il concorso PNRR1 e non assegnati, possono essere utilizzati per i trasferimenti dei docenti di ruolo?",
-                "link": "https://www.orizzontescuola.it/mobilita-2025-26-posti-accantonati-per-docenti-da-assumere-entro-il-31-dicembre-e-assegnazione-cattedre/",
-                "date": "6 Apr 2025",
-                "time": "11:58",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/02/highway-lights-at-night_925x.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Capitale del libro 2026: pubblicato il bando",
+                "link": "https://www.orizzontescuola.it/capitale-del-libro-2026-pubblicato-il-bando/",
+                "date": "7 Apr 2025",
+                "time": "20:20",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Spazi scolastici accoglienti e personalizzati in base alla didattica: la Francia studia il modello scuola dell’Alto Adige",
+                "link": "https://www.orizzontescuola.it/spazi-scolastici-accoglienti-e-personalizzati-in-base-alla-didattica-la-francia-studia-il-modello-scuola-dellalto-adige/",
+                "date": "7 Apr 2025",
+                "time": "19:38",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Musica tra i banchi, in un liceo un pianoforte trasforma l’ingresso in una sala concerti",
+                "link": "https://www.orizzontescuola.it/musica-tra-i-banchi-in-un-liceo-un-pianoforte-trasforma-lingresso-in-una-sala-concerti/",
+                "date": "7 Apr 2025",
+                "time": "19:20",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Centri estivi, dall’8 aprile all’8 maggio le domande. L’avviso per i Comuni",
+                "link": "https://www.orizzontescuola.it/centri-estivi-dall8-aprile-all8-maggio-le-domande-lavviso-per-i-comuni/",
+                "date": "7 Apr 2025",
+                "time": "19:12",
+                "image_link": "N/A"
+            },
+            null,
+            {
+                "category": "Scuole",
+                "title": "Giornata del Mare 2025: l’11 aprile evento a Lecce. Le scuole possono seguirlo in streaming. NOTA",
+                "link": "https://www.orizzontescuola.it/giornata-del-mare-2025-l11-aprile-evento-a-lecce-le-scuole-possono-seguirlo-in-streaming-nota/",
+                "date": "7 Apr 2025",
+                "time": "18:25",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "NoiPA: ripristinati i servizi del portale e dell’App",
@@ -379,60 +420,20 @@
                 "date": "7 Apr 2025",
                 "time": "12:30",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Manzi (PD): “Valditara è ossessionato dal Sessantotto, la crisi educativa ha radici più profonde”",
-                "link": "https://www.orizzontescuola.it/manzi-pd-valditara-e-ossessionato-dal-sessantotto-la-crisi-educativa-ha-radici-piu-profonde/",
-                "date": "7 Apr 2025",
-                "time": "12:25",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Fumo in età giovanile: il 15% è consumatore attivo di sigarette, aumenta l’uso delle sigarette elettroniche tra i giovani",
-                "link": "https://www.orizzontescuola.it/fumo-in-eta-giovanile-il-15-e-consumatore-attivo-di-sigarette-aumenta-luso-delle-sigarette-elettroniche-tra-i-giovani/",
-                "date": "7 Apr 2025",
-                "time": "12:18",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Collaboratore scolastico Italo-Americano contaminava il cibo della mensa con candeggina e fluidi corporei: “Lavoravo per il diavolo”. Succede nel New Jersey",
-                "link": "https://www.orizzontescuola.it/collaboratore-scolastico-italo-americo-contaminava-il-cibo-della-mesa-con-candeggina-e-fluidi-corporei-lavoravo-per-il-diavolo-succede-nel-new-jersey/",
-                "date": "7 Apr 2025",
-                "time": "11:16",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorsi docenti PNRR2, ISTRUZIONI presentazione titoli (non autocertificabili). Valgono solo quelli dichiarati nella domanda",
-                "link": "https://www.orizzontescuola.it/concorsi-docenti-pnrr2-istruzioni-presentazione-titoli-non-autocertificabili/",
-                "date": "7 Apr 2025",
-                "time": "11:01",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“L’amore non uccide”, il grido dell’arcivescovo di Palermo, Corrado Lorefice, ai funerali di Sara Campanella",
-                "link": "https://www.orizzontescuola.it/lamore-non-uccide-il-grido-dellarcivescovo-di-palermo-corrado-lorefice-ai-funerali-di-sara-campanella/",
-                "date": "7 Apr 2025",
-                "time": "11:01",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "Mobilità docenti in Veneto, aumentano le richieste di trasferimento e passaggio di ruolo, ma l’USR precisa: “Non ci sono fughe. Denatalità e concorsi lasciano pochi spazi”",
-                "link": "https://www.orizzontescuola.it/mobilita-docenti-in-veneto-aumentano-le-richieste-di-trasferimento-e-passaggio-di-ruolo-ma-lusr-precisa-non-ci-sono-fughe-ne-migliaia-di-trasferimenti/",
-                "date": "7 Apr 2025",
-                "time": "10:57",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Posti accantonati per il concorso PNRR1 e non assegnati, possono essere utilizzati per i trasferimenti dei docenti di ruolo?",
+                "link": "https://www.orizzontescuola.it/mobilita-2025-26-posti-accantonati-per-docenti-da-assumere-entro-il-31-dicembre-e-assegnazione-cattedre/",
+                "date": "6 Apr 2025",
+                "time": "11:58",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Graduatoria interna di istituto: bonus 10 punti, pre-ruolo e paritaria, continuità, esclusione, supplenza art. 47. Risposte ai quesiti",
@@ -536,20 +537,20 @@
                 "date": "28 Mar 2025",
                 "time": "10:24",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Graduatoria interna di istituto: inserimento in coda, continuità nel comune, dottorato da gennaio, anno di prova, pre-ruolo senza titolo. Risposte ai quesiti",
-                "link": "https://www.orizzontescuola.it/graduatoria-interna-di-istituto-inserimento-in-coda-continuita-nel-comune-dottorato-da-gennaio-anno-di-prova-pre-ruolo-senza-titolo-risposte-ai-quesiti/",
-                "date": "28 Mar 2025",
-                "time": "9:11",
-                "image_link": "N/A"
             }
         ]
     },
     "group_6": {
         "title": "Diventare Insegnanti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso secondaria PNRR2, accesso alla prova scritta svolta tra il 25 e il 27 febbraio. Le indicazioni ufficiali",
+                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-accesso-alla-prova-scritta-svolta-tra-il-25-e-il-27-febbraio-le-indicazioni-ufficiali/",
+                "date": "2 Apr 2025",
+                "time": "21:14",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2467525223.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Decreto Scuola, quali concorsi docenti faranno parte dell’elenco regionale da cui assumere in ruolo sui posti residui?",
@@ -589,14 +590,6 @@
                 "date": "1 Apr 2025",
                 "time": "18:07",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_2323742241.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR2 scuola secondaria, ancora nessuna buona nuova dal Ministero per voto minimo e accesso prova orale",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr2-scuola-secondaria-ancora-nessuna-buona-nuova-dal-ministero-per-voto-minimo-e-accesso-prova-orale/",
-                "date": "1 Apr 2025",
-                "time": "13:56",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_302086268.jpg"
             }
         ]
     },
