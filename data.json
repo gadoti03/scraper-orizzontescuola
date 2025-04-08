@@ -24,6 +24,72 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Dirigenti scolastici",
+                "title": "Ferie dirigenti scolastici: quanti giorni spettano, quando è possibile fruire di quelle residue. INDICAZIONI",
+                "link": "https://www.orizzontescuola.it/quanti-giorni-di-ferie-spettano-ai-dirigenti-scolastici-quando-e-possibile-fruire-di-quelle-residue-indicazioni/",
+                "date": "8 Apr 2025",
+                "time": "9:54",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_521791969.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Decreto Scuola 2025 in Gazzetta Ufficiale, ecco cosa cambia per le immissioni in ruolo dei docenti",
+                "link": "https://www.orizzontescuola.it/decreto-scuola-2025-in-gazzetta-ufficiale-ecco-cosa-cambia-per-le-immissioni-in-ruolo-dei-docenti/",
+                "date": "8 Apr 2025",
+                "time": "9:33",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
+            },
+            {
+                "category": "Studenti",
+                "title": "Riforma Istituti Tecnici, definito il nuovo profilo dello studente: l’applicazione a partire dal 2026-2027. Lo prevede il Decreto Scuola",
+                "link": "https://www.orizzontescuola.it/riforma-istituti-tecnici-definito-il-nuovo-profilo-dello-studente-lapplicazione-a-partire-dal-2026-2027/",
+                "date": "8 Apr 2025",
+                "time": "9:13",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Modello-immagine-sito-4.png"
+            },
+            {
+                "category": "Genitori",
+                "title": "Registro elettronico: “no alla comunicazione immediata dei voti e no alle notifiche. Anche noi genitori abbiamo diritto alla disconnessione”",
+                "link": "https://www.orizzontescuola.it/registro-elettronico-no-alla-comunicazione-immediata-dei-voti-e-no-alle-notifiche-anche-noi-genitori-abbiamo-diritto-alla-disconnessione/",
+                "date": "8 Apr 2025",
+                "time": "8:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_2279719783.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Gestione della privacy e registro elettronico, il Ministero fornisce indicazioni: accesso tramite SPID, CIE ed eIDAS anche per gli studenti",
+                "link": "https://www.orizzontescuola.it/gestione-della-privacy-e-registro-elettronico-il-ministero-fornisce-indicazioni-accesso-tramite-spid-cie-ed-eidas-anche-per-gli-studenti/",
+                "date": "8 Apr 2025",
+                "time": "8:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2465677723.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "“Pretendiamo una scuola ‘esigente’ con insegnanti di ruolo, ben pagati e dirigenti eletti dai collegi docenti. Voto Rsu fondamentale”. INTERVISTA a Castellana (Gilda)",
+                "link": "https://www.orizzontescuola.it/pretendiamo-una-scuola-esigente-con-insegnanti-di-ruolo-ben-pagati-e-dirigenti-eletti-dai-collegi-docenti-voto-rsu-fondamentale-intervista-a-castellana-gilda/",
+                "date": "8 Apr 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/Castellana.jpeg"
+            },
+            {
+                "category": "ATA",
+                "title": "Organici scuola, confermati i tagli: meno 5660 docenti dal 2025-2026, meno 2174 ATA dal 2026-2027. Blocco del turnover del 25% in tutta la PA. La circolare della RGS",
+                "link": "https://www.orizzontescuola.it/organici-scuola-confermati-i-tagli-meno-5660-docenti-dal-2025-2026-meno-2174-ata-dal-2026-2027-blocco-del-turnover-del-25-in-tutta-la-pa-la-circolare-della-rgs/",
+                "date": "8 Apr 2025",
+                "time": "7:58",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/01/shutterstock_163828547-scaled.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Anno di prova neoassunti e con passaggio di ruolo, quali sono i compiti del dirigente scolastico: dall’accoglienza alla valutazione. Guida normativa aggiornata",
+                "link": "https://www.orizzontescuola.it/anno-di-prova-neoassunti-e-con-passaggio-di-ruolo-quali-sono-i-compiti-del-dirigente-scolastico-dallaccoglienza-alla-valutazione-guida-normativa-aggiornata/",
+                "date": "8 Apr 2025",
+                "time": "7:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
+            },
+            null,
+            null,
+            {
                 "category": "Scuole",
                 "title": "Privacy, le scuole tra le più colpite da violazioni dei dati personali. Online il podcast del Garante “A proposito di privacy”",
                 "link": "https://www.orizzontescuola.it/privacy-le-scuole-tra-le-piu-colpite-da-violazioni-dei-dati-personali-online-il-podcast-del-garante-a-proposito-di-privacy/",
@@ -70,7 +136,12 @@
                 "date": "7 Apr 2025",
                 "time": "16:48",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2520957423.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze 2024/25, ecco gli INTERPELLI per nomine fino alla sospensione delle lezioni per Pasqua [AGGIORNATO]",
@@ -150,12 +221,7 @@
                 "date": "7 Apr 2025",
                 "time": "11:17",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Immagine-WhatsApp-2025-04-07-ore-11.09.58_f2f8dfad.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "Alunni plusdotati: il PDP e le responsabilità della scuola. Il caso analizzato dalla sentenza del TAR Veneto",
@@ -219,78 +285,52 @@
                 "date": "7 Apr 2025",
                 "time": "10:04",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_675123196.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Graduatorie interna di istituto: esclusi, lauree e abilitazioni, pre-ruolo su sostegno, perdita continuità. Risposte ai quesiti",
-                "link": "https://www.orizzontescuola.it/graduatorie-interna-di-istituto-esclusi-lauree-e-abilitazioni-pre-ruolo-su-sostegno-perdita-continuita-risposte-ai-quesiti/",
-                "date": "7 Apr 2025",
-                "time": "9:58",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/12/graduatorie-593x443.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "A scuola solo libri di testo certificati sulla parità di genere: troppi uomini protagonisti (tra valorosi cavalieri e dotti saggi) e troppe donne in ruoli tradizionali (insegnanti e infermiere)",
-                "link": "https://www.orizzontescuola.it/a-scuola-solo-libri-di-testo-certificati-sulla-parita-di-genere-troppi-uomini-protagonisti-tra-valorosi-cavalieri-e-dotti-saggi-e-troppe-donne-in-ruoli-tradizionali-insegnanti-e-le-infermiere/",
-                "date": "7 Apr 2025",
-                "time": "8:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2508998261.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Robotica a scuola, ma quale? Tipi di robotica, metodi ed esempi per ogni ordine e grado di scuola",
-                "link": "https://www.orizzontescuola.it/robotica-a-scuola-ma-quale-tipi-di-robotica-metodi-ed-esempi-per-ogni-ordine-e-grado-di-scuola/",
-                "date": "7 Apr 2025",
-                "time": "8:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2275051643.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Educazione affettiva, sessuale e sentimentale fin dall’Infanzia, Disegno di Legge al Senato. I punti salienti",
-                "link": "https://www.orizzontescuola.it/educazione-affettiva-sessuale-e-sentimentale-fin-dallinfanzia-disegno-di-legge-al-senato-i-punti-salienti/",
-                "date": "7 Apr 2025",
-                "time": "8:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2547603213.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Entro il 2030 l’UE avrà bisogno di 20milioni di specialisti nell’ambito STEM. Ecco le strategie per coprire tutto il fabbisogno che riguardano la scuola",
-                "link": "https://www.orizzontescuola.it/entro-il-2030-lue-avra-bisogno-di-20milioni-di-specialisti-nellambito-stem-ecco-le-strategie-per-coprire-tutto-il-fabbisogno-che-riguardano-la-scuola/",
-                "date": "7 Apr 2025",
-                "time": "8:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1242074680.jpg"
-            },
-            {
-                "category": "Scuole non statali",
-                "title": "“Il 20% delle famiglie interessate a scuola paritaria, ma si iscrive il 10%. Fattore economico determinante. Diplomifici? Eliminiamo valore legale e nessuno comprerà più il diploma”. INTERVISTA a Roberto Pasolini",
-                "link": "https://www.orizzontescuola.it/20-delle-famiglie-interessata-a-scuola-paritaria-ma-si-iscrive-il-10-fattore-economico-determinante-diplomifici-eliminiamo-valore-legale-e-nessuno-comprera-piu-il-diploma-intervista-a-roberto/",
-                "date": "7 Apr 2025",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Progetto-senza-titolo-6.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "Criteri e riferimenti giuridici sulla fase di valutazione delle offerte economiche e tecniche degli operatori economici negli appalti. Aggiornato",
-                "link": "https://www.orizzontescuola.it/criteri-e-riferimenti-giuridici-sulla-fase-di-valutazione-delle-offerte-economiche-e-tecniche-degli-operatori-economici-negli-appalti-aggiornato/",
-                "date": "7 Apr 2025",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_1562828788.jpg"
-            },
-            null,
-            null,
-            {
-                "category": "Politica scolastica",
-                "title": "Lega, Salvini confermato segretario fino al 2029. Approvata mozione Valditara in cui si punta anche sulla valorizzazione dei docenti: impegno per nuovi stanziamenti",
-                "link": "https://www.orizzontescuola.it/lega-salvini-confermato-segretario-fino-al-2029-approvata-una-mozione-per-i-giovani-tra-riforma-scolastica-lotta-al-disagio-e-criminalita/",
-                "date": "6 Apr 2025",
-                "time": "16:45",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-26-at-21.57.37.jpeg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Scuole",
+                "title": "“W Turetta” sui muri della scuola. Gli studenti in sit-in contro la violenza di genere: “Episodio inaccettabile e abominevole, il rispetto comincia tra i banchi di scuola”",
+                "link": "https://www.orizzontescuola.it/w-turetta-sui-muri-della-scuola-gli-studenti-in-sit-in-contro-la-violenza-di-genere-episodio-inaccettabile-e-abominevole-il-rispetto-comincia-tra-i-banchi-di-scuola/",
+                "date": "8 Apr 2025",
+                "time": "10:26",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Autonomia differenziata, lEP e il nodo scuola. Pacifico (Anief): “Se rimane così, le condizioni della scuola peggioreranno. Docenti e ATA facciamo sentire la nostra voce in Parlamento”",
+                "link": "https://www.orizzontescuola.it/autonomia-differenziata-lep-e-il-nodo-scuola-pacifico-anief-se-rimane-cosi-le-condizioni-della-scuola-peggioreranno-docenti-e-ata-facciamo-sentire-la-nostra-voce-in-parlamento/",
+                "date": "8 Apr 2025",
+                "time": "10:04",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Idonei concorsi PNRR1 nelle graduatorie di merito fino al 30% dei posti, Pacifico (Anief): “Pronti a emendare la norma per ampliarla a tutti”",
+                "link": "https://www.orizzontescuola.it/idonei-concorsi-pnrr1-nelle-graduatorie-di-merito-fino-al-30-dei-posti-pacifico-anief-pronti-a-emendare-la-norma-per-ampliarla-a-tutti/",
+                "date": "8 Apr 2025",
+                "time": "9:05",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Choc alla festa di compleanno per i 4 anni: adolescenti inneggiano alla violenza contro le donne cantando “lui l’ammazza” davanti ai bambini. Mamme indignate",
+                "link": "https://www.orizzontescuola.it/choc-alla-festa-di-compleanno-per-i-4-anni-adolescenti-inneggiano-alla-violenza-contro-le-donne-cantando-lui-lammazza-davanti-ai-bambini-mamme-indignate/",
+                "date": "8 Apr 2025",
+                "time": "8:04",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Divano, topper e trolley, Paolo Crepet critica le nuove generazioni: “La comfort zone ci sta rovinando, i giovani devono riscoprire il rischio e la fatica per crescere davvero”",
+                "link": "https://www.orizzontescuola.it/divano-topper-e-trolley-paolo-crepet-critica-le-nuove-generazioni-la-comfort-zone-ci-sta-rovinando-i-giovani-devono-riscoprire-il-rischio-e-la-fatica-per-crescere-davvero/",
+                "date": "8 Apr 2025",
+                "time": "7:03",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Capitale del libro 2026: pubblicato il bando",
@@ -380,52 +420,20 @@
                 "date": "7 Apr 2025",
                 "time": "15:50",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Scuole internazionali, Roma punta sull’educazione globale per attrarre talenti e investimenti",
-                "link": "https://www.orizzontescuola.it/scuole-internazionali-roma-punta-sulleducazione-globale-per-attrarre-talenti-e-investimenti/",
-                "date": "7 Apr 2025",
-                "time": "14:14",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Pensionamenti, Anief chiede garanzie per chi lavora a scuola: “Riscatto laurea agevolato e inchiesta ministeriale su rischi da stress lavoro”",
-                "link": "https://www.orizzontescuola.it/pensionamenti-anief-chiede-garanzie-per-chi-lavora-a-scuola-riscatto-laurea-agevolato-e-inchiesta-ministeriale-su-rischi-da-stress-lavoro/",
-                "date": "7 Apr 2025",
-                "time": "14:09",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Stipendi, Anief apprezza la mozione della Lega per il “riconoscimento sociale e l’attrattività della professione”: è in linea con quanto sosteniamo",
-                "link": "https://www.orizzontescuola.it/stipendi-anief-apprezza-la-mozione-della-lega-per-il-riconoscimento-sociale-e-lattrattivita-della-professione-e-in-linea-con-quanto-sosteniamo/",
-                "date": "7 Apr 2025",
-                "time": "14:04",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Nuove Indicazioni Nazionali: confronto a Roma con il Ministro Valditara e il Sottosegretario Frassinetti",
-                "link": "https://www.orizzontescuola.it/nuove-indicazioni-nazionali-confronto-a-roma-con-il-ministro-valditara-e-il-sottosegretario-frassinetti/",
-                "date": "7 Apr 2025",
-                "time": "12:32",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Bimbo di 4 anni all’asilo scatena il caos: 70 chiamate mute a 118 e 112 con lo smartwatch",
-                "link": "https://www.orizzontescuola.it/bimbo-di-4-anni-allasilo-scatena-il-caos-70-chiamate-mute-a-118-e-112-con-lo-smartwatch/",
-                "date": "7 Apr 2025",
-                "time": "12:30",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Graduatorie interna di istituto: esclusi, lauree e abilitazioni, pre-ruolo su sostegno, perdita continuità. Risposte ai quesiti",
+                "link": "https://www.orizzontescuola.it/graduatorie-interna-di-istituto-esclusi-lauree-e-abilitazioni-pre-ruolo-su-sostegno-perdita-continuita-risposte-ai-quesiti/",
+                "date": "7 Apr 2025",
+                "time": "9:58",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Posti accantonati per il concorso PNRR1 e non assegnati, possono essere utilizzati per i trasferimenti dei docenti di ruolo?",
@@ -528,14 +536,6 @@
                 "link": "https://www.orizzontescuola.it/mobilita-docenti-25-26-come-funziona-algoritmo-nei-passaggi-ruolo-certificazioni-linguistiche-domanda-perdente-posto-continuita-e-supplenza-risposte-ai-quesiti/",
                 "date": "29 Mar 2025",
                 "time": "10:28",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Percorsi abilitanti da 60, 36 e 30 cfu: a che punto siamo? E sui corsi Indire? RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-da-60-36-e-30-cfu-a-che-punto-siamo-e-sui-corsi-indire-risposte-ai-quesiti/",
-                "date": "28 Mar 2025",
-                "time": "10:24",
                 "image_link": "N/A"
             }
         ]
