@@ -33,6 +33,22 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR2. Convocazioni prova orale infanzia e primaria [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr2-infanzia-e-primaria-iniziano-prove-orali-dal-20-marzo-in-lombardia-per-posto-comune-primaria-la-convocazione/",
+                "date": "9 Apr 2025",
+                "time": "21:43",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/09/shutterstock_393077005.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Elezioni amministrative 25 e 26 maggio: disposizioni per le scuole. NOTE MIM e Interno",
+                "link": "https://www.orizzontescuola.it/elezioni-amministrative-25-e-26-maggio-disposizioni-per-le-scuole-nota-mim-e-interno/",
+                "date": "9 Apr 2025",
+                "time": "19:48",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_1662866080.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Errore in un quesito del concorso docenti PNRR2. Il Ministero annuncia accertamenti per individuare le responsabilità",
                 "link": "https://www.orizzontescuola.it/errore-nel-concorso-docenti-pnrr2-il-ministero-annuncia-accertamenti-per-individuare-le-responsabilita/",
                 "date": "9 Apr 2025",
@@ -135,7 +151,12 @@
                 "date": "9 Apr 2025",
                 "time": "12:57",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Graduatoria interna di istituto: pre-ruolo svolto nello stesso grado di titolarità vale 4 punti, anche per altra classe di concorso",
@@ -151,12 +172,7 @@
                 "date": "9 Apr 2025",
                 "time": "11:37",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1687192501-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "GPS graduatorie supplenze 2025/26: no nuove iscrizioni in seconda fascia. Ecco cosa può/deve fare chi è già iscritto",
@@ -164,14 +180,6 @@
                 "date": "9 Apr 2025",
                 "time": "11:21",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_1996119905.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR2. Convocazioni prova orale infanzia e primaria [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr2-infanzia-e-primaria-iniziano-prove-orali-dal-20-marzo-in-lombardia-per-posto-comune-primaria-la-convocazione/",
-                "date": "9 Apr 2025",
-                "time": "11:13",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/09/shutterstock_393077005.jpg"
             },
             {
                 "category": "DSGA",
@@ -246,14 +254,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2525825165.jpg"
             },
             {
-                "category": "Cronaca",
-                "title": "Latino alle medie, Balbo a Orizzonte Scuola: “Non dovrà essere un approccio mnemonico e grammaticale. Collegarlo alla storia, alla filosofia e alle lingue moderne” INTERVISTA",
-                "link": "https://www.orizzontescuola.it/latino-alle-medie-balbo-ad-orizzontescuola-non-dovra-essere-un-approccio-mnemonico-e-grammaticale-collegarlo-alla-storia-alla-filosofia-e-alle-lingue-moderne-intervistaerde-lopportun/",
-                "date": "9 Apr 2025",
-                "time": "8:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Balbo.png"
-            },
-            {
                 "category": "Genitori",
                 "title": "Se vuoi un figlio che pensa, rispetta chi lo educa",
                 "link": "https://www.orizzontescuola.it/se-vuoi-un-figlio-che-pensa-rispetta-chi-lo-educa/",
@@ -285,6 +285,38 @@
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Libri gratuiti agli studenti meno abbienti: 136 milioni di euro alle Regioni. DECRETO",
+                "link": "https://www.orizzontescuola.it/libri-gratuiti-agli-studenti-meno-abbienti-136-milioni-di-euro-alle-regioni-decreto/",
+                "date": "9 Apr 2025",
+                "time": "20:09",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Organici docenti 2025/2026. Anief: “Occorreva incrementare in territori ad alta dispersione”",
+                "link": "https://www.orizzontescuola.it/organici-docenti-2025-2026-anief-occorreva-incrementare-in-territori-ad-alta-dispersione/",
+                "date": "9 Apr 2025",
+                "time": "19:37",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Elenco aggiuntivo prima fascia 2025 Graduatorie GPS docenti, Anief: “Piena assistenza ai supplenti interessati”",
+                "link": "https://www.orizzontescuola.it/elenco-aggiuntivo-prima-fascia-2025-graduatorie-gps-docenti-anief-piena-assistenza-ai-supplenti-interessati/",
+                "date": "9 Apr 2025",
+                "time": "19:30",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Prova suppletiva concorso secondaria PNRR2, Flc Cgil: “Docenti rischiano di essere ‘puniti’. Responsabilità disastro in capo al MIM”",
+                "link": "https://www.orizzontescuola.it/prova-suppletiva-concorso-secondaria-pnrr2-flc-cgil-docenti-rischiano-di-essere-puniti-responsabilita-disastro-in-capo-al-mim/",
+                "date": "9 Apr 2025",
+                "time": "19:11",
+                "image_link": "N/A"
+            },
             {
                 "category": "Genitori",
                 "title": "Rimossi i manifesti Pro Vita choc su identità di genere, comune di Roma: contenuti lesivi e stereotipati. L’associazione non ci sta e lancia un appello per raccogliere fondi",
@@ -388,38 +420,6 @@
                 "link": "https://www.orizzontescuola.it/concorso-pnrr2-per-la-scuola-secondaria-m5s-chiede-maggiore-trasparenza-su-ricalcolo-punteggio-e-accesso-prova-orale/",
                 "date": "9 Apr 2025",
                 "time": "12:12",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Escluso il personale scolastico dallo sciopero generale dell’11 aprile",
-                "link": "https://www.orizzontescuola.it/escluso-il-personale-scolastico-dallo-sciopero-generale-dell11-aprile/",
-                "date": "9 Apr 2025",
-                "time": "11:48",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Studenti con disabilità: la Regione Emilia Romagna stanzia 18 milioni di euro",
-                "link": "https://www.orizzontescuola.it/studenti-con-disabilita-la-regione-emilia-romagna-stanzia-18-milioni-di-euro/",
-                "date": "9 Apr 2025",
-                "time": "11:17",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Percorsi abilitanti, D’Aprile (Uil Scuola): “Docenti costretti a spostarsi per centinaia di km, pagando di tasca propria e lasciando le scuole scoperte”",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-daprile-uil-scuola-docenti-costretti-a-spostarsi-per-centinaia-di-km-pagando-di-tasca-propria-e-lasciando-le-scuole-scoperte/",
-                "date": "9 Apr 2025",
-                "time": "10:27",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Prova suppletiva concorso secondaria PNRR2, Gilda: “Toppa peggiore del buco. I docenti meritano rispetto”",
-                "link": "https://www.orizzontescuola.it/prova-suppletiva-concorso-secondaria-pnrr2-gilda-toppa-peggiore-del-buco-i-docenti-meritano-rispetto/",
-                "date": "9 Apr 2025",
-                "time": "9:50",
                 "image_link": "N/A"
             }
         ]
