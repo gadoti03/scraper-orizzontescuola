@@ -32,20 +32,45 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "Docenti di sostegno confermati dai genitori, ANIEF, Gilda e CGIL impugnano il provvedimento. FISH e Moige: “Contrari a iniziativa legale, è una risposta concreta al principio di continuità didattica”",
+                "link": "https://www.orizzontescuola.it/docenti-di-sostegno-confermati-dai-genitori-gilda-e-cgil-impugnano-il-provvedimento-fish-contrari-a-iniziativa-legale-e-una-risposta-concreta-al-principio-di-continuita-didattica/",
+                "date": "10 Apr 2025",
+                "time": "20:22",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1666873585.jpg"
+            },
+            {
+                "category": "DSGA",
+                "title": "Concorso DSGA, affluenza sotto il 30%. In pochi avrebbero superato lo scritto. I prossimi passi",
+                "link": "https://www.orizzontescuola.it/concorso-dsga-piu-del-50-dei-candidati-non-si-e-presentato/",
+                "date": "10 Apr 2025",
+                "time": "19:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_614642159.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Organici ATA, Raimondo (Uil Scuola): “No all’operatore scolastico, maggiori responsabilità per 25 euro in più. Sì a un funzionario per ogni scuola”",
+                "link": "https://www.orizzontescuola.it/organici-ata-raimondo-uil-scuola-no-alloperatore-scolastico-maggiori-responsabilita-per-25-euro-in-piu-si-a-un-funzionario-per-ogni-scuola/",
+                "date": "10 Apr 2025",
+                "time": "19:32",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Screenshot-2025-03-20-163432.png"
+            },
+            null,
+            {
+                "category": "Scuole",
+                "title": "Continuità didattica degli alunni, ecco i criteri di attribuzione delle risorse ai docenti. DECRETO",
+                "link": "https://www.orizzontescuola.it/continuita-didattica-degli-alunni-ecco-i-criteri-di-attribuzione-delle-risorse-ai-docenti-decreto/",
+                "date": "10 Apr 2025",
+                "time": "19:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2142727347.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Elenchi aggiuntivi prima fascia GPS 2025: domande al via il 14 aprile. Come presentare l’istanza, indicazioni MIM. AVVISO",
                 "link": "https://www.orizzontescuola.it/elenchi-aggiuntivi-prima-fascia-gps-2025-domande-al-via-il-14-aprile-come-presentare-la-domanda-indicazioni-mim-avviso/",
                 "date": "10 Apr 2025",
                 "time": "18:23",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_765925483-scaled.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Docenti di sostegno confermati dai genitori, Gilda e CGIL impugnano il provvedimento. FISH: “Contrari a iniziativa legale, è una risposta concreta al principio di continuità didattica”",
-                "link": "https://www.orizzontescuola.it/docenti-di-sostegno-confermati-dai-genitori-gilda-e-cgil-impugnano-il-provvedimento-fish-contrari-a-iniziativa-legale-e-una-risposta-concreta-al-principio-di-continuita-didattica/",
-                "date": "10 Apr 2025",
-                "time": "18:22",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1666873585.jpg"
             },
             {
                 "category": "Dirigenti scolastici",
@@ -126,7 +151,12 @@
                 "date": "10 Apr 2025",
                 "time": "14:58",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1918827335.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "ATA",
                 "title": "Graduatorie terza fascia ATA: scioglimento riserva CIAD dal 28 aprile su Istanze online. Le ultime notizie",
@@ -158,12 +188,7 @@
                 "date": "10 Apr 2025",
                 "time": "12:36",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2518830929.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "GPS 2025, elenco aggiuntivo prima fascia anche per il ruolo ma alcuni docenti sono “bloccati” nella provincia scelta nel 2024",
@@ -275,30 +300,38 @@
                 "date": "10 Apr 2025",
                 "time": "8:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_2036186264.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "I nuovi tetti di spesa per l’adozione libri di testo: le scadenze e cosa deve fare il DS",
-                "link": "https://www.orizzontescuola.it/i-nuovi-tetti-di-spesa-per-ladozione-libri-di-testo-le-scadenze-e-cosa-deve-fare-il-ds/",
-                "date": "10 Apr 2025",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2493354727-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Graduatorie GPS docenti, elenco aggiuntivo prima fascia 2025: domanda tra il 14 e il 29 aprile, anche con riserva. NOTA MIM",
-                "link": "https://www.orizzontescuola.it/graduatorie-gps-docenti-elenco-aggiuntivo-prima-fascia-2025-domanda-tra-il-14-e-il-29-aprile-anche-con-riserva-nota-mim/",
-                "date": "10 Apr 2025",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_344044361.jpg"
-            },
-            null,
-            null
+            }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Rita de Crescenzo: “Mi metto a studiare e scendo in campo, chi siede in Parlamento non ha meno reati di me”",
+                "link": "https://www.orizzontescuola.it/rita-de-crescenzo-mi-metto-a-studiare-e-scendo-in-campo-chi-siede-in-parlamento-non-ha-meno-reati-di-me/",
+                "date": "10 Apr 2025",
+                "time": "20:25",
+                "image_link": "N/A"
+            },
+            null,
+            {
+                "category": "Politica scolastica",
+                "title": "Un operatore scolastico per plesso, un funzionario ogni 8 scuole. Insufficienti per Dal Pino (Anief): “Tenere conto delle disabilità gravi e delle complessità”",
+                "link": "https://www.orizzontescuola.it/un-operatore-scolastico-per-plesso-un-funzionario-ogni-8-scuole-per-dal-pino-anief-insufficienti-tenere-conto-delle-disabilita-gravi-e-delle-complessita/",
+                "date": "10 Apr 2025",
+                "time": "19:48",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“Zitta che prendi 1.400 euro al mese”. Crepet: “un buon insegnante può fare una politica migliore di un politico di professione”",
+                "link": "https://www.orizzontescuola.it/crepet-un-buon-insegnante-puo-fare-una-politica-migliore-di-un-politico-di-professione-nonostante-le-difficolta-del-mestiere-e-il-comportamento-dei-genitori/",
+                "date": "10 Apr 2025",
+                "time": "19:05",
+                "image_link": "N/A"
+            },
+            null,
             {
                 "category": "Cronaca",
                 "title": "Riforma accesso a Medicina: il 48% degli studenti boccia la novità",
@@ -394,46 +427,6 @@
                 "link": "https://www.orizzontescuola.it/quindicenne-scomparso-a-bologna-torna-a-casa-dopo-5-giorni/",
                 "date": "10 Apr 2025",
                 "time": "12:39",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Bill Gates: “Lascerò in eredità solo l’1% del patrimonio ai miei figli per favorirne l’indipendenza”",
-                "link": "https://www.orizzontescuola.it/bill-gates-lascero-in-eredita-solo-l1-del-patrimonio-ai-miei-figli-per-favorirne-lindipendenza/",
-                "date": "10 Apr 2025",
-                "time": "12:15",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Spray al peperoncino nelle scuole, un nuovo caso nel veronese. Fenomeni che pongono dubbi sulla sicurezza a scuola",
-                "link": "https://www.orizzontescuola.it/spray-al-peperoncino-nelle-scuole-un-nuovo-caso-nel-veronese-fenomeni-che-pongono-dubbi-sulla-sicurezza-a-scuola/",
-                "date": "10 Apr 2025",
-                "time": "11:46",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Schettini: “Giovani influenzati dai social. Scuola completamente disconnessa dai nostri figli”",
-                "link": "https://www.orizzontescuola.it/schettini-giovani-influenzati-dai-social-scuola-completamente-disconnessa-dai-nostri-figli/",
-                "date": "10 Apr 2025",
-                "time": "11:23",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Sarà intitolata a Sara Campanella la scuola media che ha frequentato da bambina",
-                "link": "https://www.orizzontescuola.it/sara-intitolata-a-sara-campanella-la-scuola-media-che-ha-frequentato-da-bambina/",
-                "date": "10 Apr 2025",
-                "time": "10:39",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Crepet: “Le scuole? Sono ormai piene di psicologi, mi pare un po’ too much”",
-                "link": "https://www.orizzontescuola.it/crepet-le-scuole-sono-ormai-piene-di-psicologi-mi-pare-un-po-too-much/",
-                "date": "10 Apr 2025",
-                "time": "8:39",
                 "image_link": "N/A"
             }
         ]
