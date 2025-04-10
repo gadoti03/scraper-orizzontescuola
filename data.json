@@ -3,6 +3,14 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "Docenti valutati dagli studenti? “No, il danno è quello di togliere loro il diritto di avere un adulto di riferimento. Il compito è del Ministero”. INTERVISTA a Gaetano Cotena",
+                "link": "https://www.orizzontescuola.it/docenti-valutati-dagli-studenti-no-il-danno-e-quello-di-togliere-loro-il-diritto-di-avere-un-adulto-di-riferimento-il-compito-e-del-ministero-intervista-a-gaetano-cotena/",
+                "date": "10 Apr 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/cotena.png"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso secondaria PNRR2: prova suppletiva il 5 maggio, ecco per chi. Ministero ha annullato un quesito",
                 "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-prova-suppletiva-il-5-maggio-ministero-ha-annullato-un-quesito-n-4-del-27-febbraio-pomeriggio/",
@@ -17,20 +25,95 @@
                 "date": "9 Apr 2025",
                 "time": "6:45",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2458310491-1.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Decreto Scuola, idonei nelle graduatorie fino al 30% dei posti, stop 4 anni in 1 alle paritarie, formazione docenti contro le droghe. Fondi per asili nido. TESTO in Gazzetta Ufficiale",
-                "link": "https://www.orizzontescuola.it/decreto-scuola-idonei-nelle-graduatorie-fino-al-30-dei-posti-stop-4-anni-in-1-alle-paritarie-820-milioni-per-gli-asili-nido-testo-in-gazzetta-ufficiale/",
-                "date": "7 Apr 2025",
-                "time": "21:21",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/Ministero-Istruzione.jpeg"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "DSGA",
+                "title": "Concorso DSGA, oggi la prova scritta. Come si svolge, quali documenti portare",
+                "link": "https://www.orizzontescuola.it/concorso-dsga-domani-prova-scritta-quali-documenti-portare/",
+                "date": "10 Apr 2025",
+                "time": "9:35",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_2260125901.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso PNRR2 scuola secondaria: suppletiva per un quesito! Candidati chiedono di conoscere voto minimo provvisorio",
+                "link": "https://www.orizzontescuola.it/concorso-pnrr2-per-la-scuola-secondaria-prova-suppletiva-per-un-quesito-candidati-chiedono-di-conoscere-voto-minimo-provvisorio/",
+                "date": "10 Apr 2025",
+                "time": "9:21",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_594891590.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Graduatoria terza fascia ATA: no proroga CIAD e inserimento titolo entro il 5 maggio? Così dicono le bozze riservate del Ministero",
+                "link": "https://www.orizzontescuola.it/graduatoria-terza-fascia-ata-no-proroga-ciad-e-inserimento-entro-il-5-maggio-cosi-dicono-le-bozze-riservate-del-ministero/",
+                "date": "10 Apr 2025",
+                "time": "8:49",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2602025347.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR2, quesito errato: ecco come è stato assegnato il nome “Milton” invece di “Erik” allo psicologo Erikson",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr2-quesito-errato-ecco-perche-e-stato-assegnato-il-nome-milton-invece-di-eirk-allo-psicologo-erikson/",
+                "date": "10 Apr 2025",
+                "time": "8:35",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_610826339.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Conoscenze essenziali, Indicazioni nazionali -vecchie e nuove- (e l’onda lunga della pedagogia ingenua)",
+                "link": "https://www.orizzontescuola.it/conoscenze-essenziali-indicazioni-nazionali-vecchie-e-nuove-e-londa-lunga-della-pedagogia-ingenua/",
+                "date": "10 Apr 2025",
+                "time": "8:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_158049410.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Creare immagini con ChatGpt in stile Ghibli, Norton: “togliete le scuole dagli sfondi o vi individueranno”. Di cosa si tratta e quali sono i rischi per la privacy",
+                "link": "https://www.orizzontescuola.it/creare-immagini-con-chatgpt-in-stile-ghibli-norton-togliete-le-scuole-dagli-sfondi-o-vi-individueranno-di-cosa-si-tratta-e-quali-sono-i-rischi-per-la-privacy/",
+                "date": "10 Apr 2025",
+                "time": "8:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Progetto-senza-titolo.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Un terzo dei bambini usa lo smartphone: la guida di Save the Children per i genitori",
+                "link": "https://www.orizzontescuola.it/un-terzo-dei-bambini-usa-lo-smartphone-la-guida-di-save-the-children-per-i-genitori/",
+                "date": "10 Apr 2025",
+                "time": "8:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_2036186264.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "I nuovi tetti di spesa per l’adozione libri di testo: le scadenze e cosa deve fare il DS",
+                "link": "https://www.orizzontescuola.it/i-nuovi-tetti-di-spesa-per-ladozione-libri-di-testo-le-scadenze-e-cosa-deve-fare-il-ds/",
+                "date": "10 Apr 2025",
+                "time": "7:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2493354727-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Graduatorie GPS docenti, elenco aggiuntivo prima fascia 2025: domanda tra il 14 e il 29 aprile, anche con riserva. NOTA MIM",
+                "link": "https://www.orizzontescuola.it/graduatorie-gps-docenti-elenco-aggiuntivo-prima-fascia-2025-domanda-tra-il-14-e-il-29-aprile-anche-con-riserva-nota-mim/",
+                "date": "10 Apr 2025",
+                "time": "7:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_344044361.jpg"
+            },
+            null,
+            null,
+            null,
+            {
+                "category": "ATA",
+                "title": "Organici scuola, confermati i tagli: meno 5660 docenti dal 2025-2026, meno 2174 ATA dal 2026-2027. Blocco del turnover del 25% in tutta la PA. La circolare della RGS",
+                "link": "https://www.orizzontescuola.it/organici-scuola-confermati-i-tagli-meno-5660-docenti-dal-2025-2026-meno-2174-ata-dal-2026-2027-blocco-del-turnover-del-25-in-tutta-la-pa-la-circolare-della-rgs/",
+                "date": "10 Apr 2025",
+                "time": "7:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/01/shutterstock_163828547-scaled.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR2. Convocazioni prova orale infanzia e primaria [AGGIORNATO]",
@@ -40,13 +123,26 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/09/shutterstock_393077005.jpg"
             },
             {
+                "category": "Genitori",
+                "title": "Libri gratuiti agli studenti meno abbienti: 136 milioni di euro alle Regioni. DECRETO",
+                "link": "https://www.orizzontescuola.it/libri-gratuiti-agli-studenti-meno-abbienti-136-milioni-di-euro-alle-regioni-decreto/",
+                "date": "9 Apr 2025",
+                "time": "20:09",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1874731318-scaled.jpg"
+            },
+            {
                 "category": "Scuole",
                 "title": "Elezioni amministrative 25 e 26 maggio: disposizioni per le scuole. NOTE MIM e Interno",
                 "link": "https://www.orizzontescuola.it/elezioni-amministrative-25-e-26-maggio-disposizioni-per-le-scuole-nota-mim-e-interno/",
                 "date": "9 Apr 2025",
                 "time": "19:48",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_1662866080.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Errore in un quesito del concorso docenti PNRR2. Il Ministero annuncia accertamenti per individuare le responsabilità",
@@ -78,14 +174,6 @@
                 "date": "9 Apr 2025",
                 "time": "16:02",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_92401018.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Graduatorie GPS docenti, elenco aggiuntivo prima fascia 2025: domanda tra il 14 e il 29 aprile, anche con riserva. NOTA MIM",
-                "link": "https://www.orizzontescuola.it/graduatorie-gps-docenti-elenco-aggiuntivo-prima-fascia-2025-domanda-tra-il-14-e-il-29-aprile-anche-con-riserva-nota-mim/",
-                "date": "9 Apr 2025",
-                "time": "16:01",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_344044361.jpg"
             },
             null,
             {
@@ -151,12 +239,7 @@
                 "date": "9 Apr 2025",
                 "time": "12:57",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Graduatoria interna di istituto: pre-ruolo svolto nello stesso grado di titolarità vale 4 punti, anche per altra classe di concorso",
@@ -182,14 +265,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_1996119905.jpg"
             },
             {
-                "category": "DSGA",
-                "title": "Concorso DSGA, domani la prova scritta. Quali documenti portare",
-                "link": "https://www.orizzontescuola.it/concorso-dsga-domani-prova-scritta-quali-documenti-portare/",
-                "date": "9 Apr 2025",
-                "time": "11:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_2260125901.jpg"
-            },
-            {
                 "category": "Scuole",
                 "title": "Registro elettronico: finalità, funzioni e limiti d’uso nelle scuole. I chiarimenti del Ministero",
                 "link": "https://www.orizzontescuola.it/registro-elettronico-finalita-funzioni-e-limiti-duso-nelle-scuole-i-chiarimenti-del-ministero/",
@@ -204,88 +279,6 @@
                 "date": "9 Apr 2025",
                 "time": "10:49",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/Unica.jpg"
-            },
-            {
-                "category": "Genitori",
-                "title": "Homeschooling: un fenomeno in crescita che coinvolge nei 2/3 dei casi il Nord Italia",
-                "link": "https://www.orizzontescuola.it/homeschooling-un-fenomeno-in-crescita-che-coinvolge-nei-2-3-dei-casi-il-nord-italia/",
-                "date": "9 Apr 2025",
-                "time": "9:47",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_1634201083.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti secondaria PNRR2: il 5 maggio prova suppletiva di 5 minuti. Come e dove si svolge. DECRETO",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-secondaria-pnrr2-come-e-dove-si-svolge-la-prova-suppletiva-per-quesito-errato-decreto/",
-                "date": "9 Apr 2025",
-                "time": "9:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_341870168-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti da 60, 30 e 36 CFU per il 2024/25: ecco le PAGINA degli Atenei con i BANDI [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-da-60-30-e-36-cfu-per-il-2024-25-ci-saranno-tutte-le-classi-di-concorso-quando-i-bandi-ecco-cosa-dicono-le-universita/",
-                "date": "9 Apr 2025",
-                "time": "9:24",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
-            },
-            {
-                "category": "Dirigenti scolastici",
-                "title": "Assenze retribuite dirigenti scolastici: matrimonio, lutto, motivi familiari. Quanti giorni spettano",
-                "link": "https://www.orizzontescuola.it/assenze-retribuite-dirigenti-scolastici/",
-                "date": "9 Apr 2025",
-                "time": "9:16",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_2167465293.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso secondaria PNRR2: ecco il quesito annullato, n. 4 del turno 6 del 27 febbraio pomeriggio",
-                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-ecco-il-quesito-annullato-n-4-del-turno-6-del-27-febbraio-pomeriggio/",
-                "date": "9 Apr 2025",
-                "time": "9:05",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2467525223.jpg"
-            },
-            {
-                "category": "Genitori",
-                "title": "Stop a dirette su Instagram per chi ha meno di 16 anni se non autorizzati dai genitori e immagini esplicite sfocate. Ecco come si possono eludere le restrizioni. Consigli per i genitori",
-                "link": "https://www.orizzontescuola.it/adolescenti-con-meno-di-16-anni-non-potranno-piu-avviare-dirette-instagram-se-non-autorizzati-dai-genitori-una-misura-efficace-consigli-per-i-genitori/",
-                "date": "9 Apr 2025",
-                "time": "8:35",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2525825165.jpg"
-            },
-            {
-                "category": "Genitori",
-                "title": "Se vuoi un figlio che pensa, rispetta chi lo educa",
-                "link": "https://www.orizzontescuola.it/se-vuoi-un-figlio-che-pensa-rispetta-chi-lo-educa/",
-                "date": "9 Apr 2025",
-                "time": "8:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_48466297.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Vietare i social agli under 15 rappresenta un passo importante per la sicurezza e la salute dei nostri figli”. INTERVISTA alla senatrice Mennuni (Fratelli d’Italia)",
-                "link": "https://www.orizzontescuola.it/vietare-i-social-agli-under-15-rappresenta-un-passo-importante-per-la-sicurezza-e-la-salute-dei-nostri-figli-intervista-alla-senatrice-mennuni-fratelli-ditalia/",
-                "date": "9 Apr 2025",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Progetto-senza-titolo-7.png"
-            },
-            null,
-            {
-                "category": "Scuole",
-                "title": "Gestire le relazioni sindacali a scuola: gli ambiti di intervento, la contrattazione integrativa e il ruolo di DS e organizzazioni sindacali. Una guida normativa",
-                "link": "https://www.orizzontescuola.it/gestire-le-relazioni-sindacali-a-scuola-gli-ambiti-di-intervento-la-contrattazione-integrativa-e-il-ruolo-di-ds-e-organizzazioni-sindacali-una-guida-normativa/",
-                "date": "9 Apr 2025",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/11/shutterstock_1355591195.jpg"
-            },
-            null,
-            {
-                "category": "Scuole",
-                "title": "Maturità 2025, domande presidenti e commissari scadono oggi 9 aprile. Quando gli esiti e gli obblighi conseguenti",
-                "link": "https://www.orizzontescuola.it/maturita-2025-domande-presidenti-e-commissari-esterni-dal-25-marzo-al-9-aprile-chi-e-obbligato-e-chi-puo-nota/",
-                "date": "9 Apr 2025",
-                "time": "7:46",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/02/shutterstock_1523432387.jpg"
             }
         ]
     },
@@ -294,10 +287,26 @@
         "articles": [
             {
                 "category": "Cronaca",
-                "title": "Libri gratuiti agli studenti meno abbienti: 136 milioni di euro alle Regioni. DECRETO",
-                "link": "https://www.orizzontescuola.it/libri-gratuiti-agli-studenti-meno-abbienti-136-milioni-di-euro-alle-regioni-decreto/",
-                "date": "9 Apr 2025",
-                "time": "20:09",
+                "title": "Crepet: “Le scuole? Sono ormai piene di psicologi, mi pare un po’ too much”",
+                "link": "https://www.orizzontescuola.it/crepet-le-scuole-sono-ormai-piene-di-psicologi-mi-pare-un-po-too-much/",
+                "date": "10 Apr 2025",
+                "time": "8:39",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Schettini sul palco del Primo Maggio: parlerà di temi sociali e culturali rivolgendosi alle nuove generazioni",
+                "link": "https://www.orizzontescuola.it/schettini-sul-palco-del-primo-maggio-parlera-di-temi-sociali-e-culturali-rivolgendosi-alle-nuove-generazioni/",
+                "date": "10 Apr 2025",
+                "time": "8:20",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Sì all’uso di “Genitore” nelle carte d’identità dei minori al posto di “Padre” e “Madre”",
+                "link": "https://www.orizzontescuola.it/si-alluso-di-genitore-nelle-carte-didentita-dei-minori-al-posto-di-padre-e-madre/",
+                "date": "10 Apr 2025",
+                "time": "8:15",
                 "image_link": "N/A"
             },
             {
@@ -411,22 +420,6 @@
                 "link": "https://www.orizzontescuola.it/monumenti-aperti-2025-dal-3-maggio-al-9-novembre-20mila-studenti-e-volontari-raccontano-le-bellezze-del-paese/",
                 "date": "9 Apr 2025",
                 "time": "12:30",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "No a padre e madre sulla carta d’identità del proprio figlio: lo dice la Cassazione",
-                "link": "https://www.orizzontescuola.it/no-a-padre-e-madre-sulla-carta-didentita-del-proprio-figlio-lo-dice-la-cassazione/",
-                "date": "9 Apr 2025",
-                "time": "12:20",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Concorso PNRR2 per la scuola secondaria, M5S chiede maggiore trasparenza su ricalcolo punteggio e accesso prova orale",
-                "link": "https://www.orizzontescuola.it/concorso-pnrr2-per-la-scuola-secondaria-m5s-chiede-maggiore-trasparenza-su-ricalcolo-punteggio-e-accesso-prova-orale/",
-                "date": "9 Apr 2025",
-                "time": "12:12",
                 "image_link": "N/A"
             }
         ]
@@ -553,6 +546,22 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Percorsi abilitanti 30 e 36 CFU: dovranno concludersi entro il 18 luglio. Ecco le NUOVE indicazioni MIM – MUR valide per tutti i vincitori di concorso PNRR1",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-30-e-36-cfu-ecco-le-nuove-indicazioni-mim-mur-valide-per-tutti-i-vincitori-di-concorso-pnrr1/",
+                "date": "7 Apr 2025",
+                "time": "14:43",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_713874685.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Percorsi abilitanti vincitori di concorso PNRR1: dovranno concludersi entro il 18 luglio. Nuova nota MIM – MUR anche per classi di concorso non attivate",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-vincitori-di-concorso-pnrr1-dovranno-concludersi-entro-il-18-luglio-nuova-nota-mim-mur-anche-per-classi-di-concorso-non-attivate/",
+                "date": "7 Apr 2025",
+                "time": "11:26",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/download-2-1.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Continuità supplenza sostegno 2025/26: il docente deve anche avere diritto alla nomina da GaE/GPS oltre ad essere richiesto dalla famiglia?",
                 "link": "https://www.orizzontescuola.it/continuita-supplenza-sostegno-2025-26-il-docente-deve-anche-avere-diritto-alla-nomina-da-gae-gps-oltre-ad-essere-richiesto-dalla-famiglia/",
                 "date": "6 Apr 2025",
@@ -582,22 +591,6 @@
                 "date": "5 Apr 2025",
                 "time": "9:22",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_2260125901.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze e ruoli docenti sostegno 2025/26: elenchi aggiuntivi prima fascia GPS, domanda dal 14 aprile. RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/supplenze-e-ruoli-docenti-sostegno-2025-26-elenchi-aggiuntivi-prima-fascia-gps-domanda-dal-14-aprile-risposte-ai-quesiti/",
-                "date": "4 Apr 2025",
-                "time": "9:01",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/shutterstock_64286479-1.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso secondaria PNRR2, accesso alla prova scritta svolta tra il 25 e il 27 febbraio. Le indicazioni ufficiali",
-                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-accesso-alla-prova-scritta-svolta-tra-il-25-e-il-27-febbraio-le-indicazioni-ufficiali/",
-                "date": "2 Apr 2025",
-                "time": "21:14",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2467525223.jpg"
             }
         ]
     },
