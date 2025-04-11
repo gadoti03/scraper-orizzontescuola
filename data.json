@@ -25,6 +25,54 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Concorso docenti secondaria PNRR2, quando si svolgerà la prova orale",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-secondaria-pnrr2-quando-si-svolgera-la-prova-orale/",
+                "date": "11 Apr 2025",
+                "time": "18:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2501727439-1.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Libri di testo e tetti di spesa: norme, innovazione e le responsabilità del DS",
+                "link": "https://www.orizzontescuola.it/libri-di-testo-e-tetti-di-spesa-norme-innovazione-e-le-responsabilita-del-ds/",
+                "date": "11 Apr 2025",
+                "time": "17:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2462584783-scaled.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "La sicurezza digitale a scuola, misure operative e buone pratiche: video. Come averlo grauitamente",
+                "link": "https://www.orizzontescuola.it/la-sicurezza-digitale-a-scuola-misure-operative-e-buone-pratiche-video-come-averlo-grauitamente/",
+                "date": "11 Apr 2025",
+                "time": "16:53",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Come-averlo-gratuitamente.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Certificazione Unica 2025: le novità, come scaricarla, cosa fare in caso di errori. SCHEDA NoiPA",
+                "link": "https://www.orizzontescuola.it/certificazione-unica-2025-le-novita-come-scaricarla-cosa-fare-in-caso-di-errori-scheda-noipa/",
+                "date": "11 Apr 2025",
+                "time": "15:41",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/03/NOIPA.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Nuove Indicazioni Nazionali: “Studio mnemonico delle poesie e centralità al latino? No al nozionismo, sì al pensiero critico e pluralità dei punti di vista”",
+                "link": "https://www.orizzontescuola.it/nuove-indicazioni-nazionali-studio-mnemonico-delle-poesie-e-centralita-al-latino-no-al-nozionismo-si-al-pensiero-critico-e-pluralita-dei-punti-di-vista/",
+                "date": "11 Apr 2025",
+                "time": "15:02",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/Novara.jpeg"
+            },
+            {
+                "category": "Scuole",
+                "title": "139 guide normative per “Gestire la scuola” senza sbagliare. AGGIUNTA LA GUIDA: “Strumenti alternativi al contenzioso amministrativo dopo l’aggiudicazione dell’appalto: panoramica normativa e disamina degli istituti. Aggiornato”",
+                "link": "https://www.orizzontescuola.it/75-guide-normative-per-dirigere-la-scuola-senza-sbagliare-aggiunta-la-guida-la-gestione-del-fondo-economale-per-le-minute-spese-nelle-istituzioni-scolastiche/",
+                "date": "11 Apr 2025",
+                "time": "15:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Shutterstock_2310359315-7.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Concorso scuola secondaria PNRR2, decurtati 2 punti ad alcuni candidati del turno pomeridiano del 27 febbraio: ecco a chi. CHIARIMENTI",
                 "link": "https://www.orizzontescuola.it/concorso-scuola-secondaria-pnrr2-decurtati-2-punti-ad-alcuni-candidati-del-turno-pomeridiano-del-27-febbraio-ecco-a-chi-chiarimenti/",
                 "date": "11 Apr 2025",
@@ -95,7 +143,12 @@
                 "time": "10:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Concorso-DSGA-Prova-orale-da-meta-Maggio.png"
             },
-            null,
+            null
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Elenco aggiuntivo GPS prima fascia 2025: domande dal 14 aprile. Chi si inserisce a pieno titolo e chi con riserva. RISPOSTE AI QUESITI",
@@ -143,12 +196,7 @@
                 "date": "11 Apr 2025",
                 "time": "8:15",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Screenshot-2025-04-11-072240.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "Strumenti alternativi al contenzioso amministrativo dopo l’aggiudicazione dell’appalto: panoramica normativa e disamina degli istituti. Aggiornato",
@@ -223,60 +271,84 @@
                 "date": "10 Apr 2025",
                 "time": "17:04",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_107800838.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Carta del docente, disposizioni aggiornate: in allegato una circolare",
-                "link": "https://www.orizzontescuola.it/carta-del-docente-disposizioni-aggiornate-in-allegato-una-circolare/",
-                "date": "10 Apr 2025",
-                "time": "17:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2120807768.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Corsi di specializzazione Indire per docenti di sostegno: c’è il Sì dell’Osservatorio per l’Inclusione. Si può partire",
-                "link": "https://www.orizzontescuola.it/corsi-di-specializzazione-indire-per-docenti-di-sostegno-ce-il-si-dellosservatorio-per-linclusione-si-puo-partire/",
-                "date": "10 Apr 2025",
-                "time": "15:59",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_310986524.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Calendario scolastico 2025, ponti in arrivo per docenti e studenti: vacanze di Pasqua e poi 25 aprile e 1° maggio. Le date di stop delle lezioni per regione",
-                "link": "https://www.orizzontescuola.it/calendario-scolastico-2025-vacanze-di-pasqua-e-poi-ponte-per-il-25-aprile-e-il-1-maggio-le-date-di-stop-delle-lezioni-per-regione/",
-                "date": "10 Apr 2025",
-                "time": "15:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_2002803581-scaled.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Maturità 2025, ecco i modelli MAD per sostituzione presidenti e commissari [IN AGGIORNAMENTO]",
-                "link": "https://www.orizzontescuola.it/maturita-2025-ecco-i-modelli-mad-per-sostituzione-commissari-assenti-in-aggiornamento/",
-                "date": "10 Apr 2025",
-                "time": "15:43",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/02/shutterstock_1536693014.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR2. Convocazioni prova orale infanzia e primaria [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr2-infanzia-e-primaria-iniziano-prove-orali-dal-20-marzo-in-lombardia-per-posto-comune-primaria-la-convocazione/",
-                "date": "10 Apr 2025",
-                "time": "15:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/09/shutterstock_393077005.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Valditara, Liceo Made in Italy: “511 studenti iscritti per l’anno in corso, con un incremento del 21,7% rispetto all’anno precedente. Asset fondamentale per l’Italia”.",
-                "link": "https://www.orizzontescuola.it/valditara-liceo-made-in-italy-511-studenti-iscritti-per-lanno-in-corso-con-un-incremento-del-217-rispetto-allanno-precedente-asset-fondamentale-per-litalia/",
-                "date": "10 Apr 2025",
-                "time": "15:03",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-27-at-22.31.27.jpeg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso secondaria PNRR1, nuove graduatorie del PNRR1 per assunzioni da settembre 2025",
+                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr1-graduatorie-pubblicate-dopo-il-31-dicembre-2024-per-assunzioni-docenti-nel-2025-26/",
+                "date": "11 Apr 2025",
+                "time": "18:24",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "L’IA non può essere fermata ma può essere accompagnata per obiettivi di utilità collettiva. L’intervento del sottosegretario Barachini al Palazzo di vetro",
+                "link": "https://www.orizzontescuola.it/lia-non-puo-essere-fermata-ma-puo-essere-accompagnata-per-obiettivi-di-utilita-collettiva-lintervento-del-sottosegretario-barachini-al-palazzo-di-vetro/",
+                "date": "11 Apr 2025",
+                "time": "17:53",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Docenti",
+                "title": "Povertà educativa digitale, come scuola e famiglia possono fare la differenza. La guida per genitori e insegnanti",
+                "link": "https://www.orizzontescuola.it/poverta-educativa-digitale-come-scuola-e-famiglia-possono-fare-la-differenza-la-guida-per-genitori-e-insegnanti/",
+                "date": "11 Apr 2025",
+                "time": "17:23",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Disagiati, bullizzati e marginalizzati. I giovani di oggi fotografati dalla relazione annuale del Garante per l’infanzia e l’adolescenza della Calabria",
+                "link": "https://www.orizzontescuola.it/disagiati-bullizzati-e-marginalizzati-i-giovani-di-oggi-fotografati-dalla-relazione-annuale-del-garante-per-linfanzia-e-ladolescenza-della-calabria/",
+                "date": "11 Apr 2025",
+                "time": "17:10",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Celebrazione della Giornata Mondiale della Fisica Quantistica in Italia",
+                "link": "https://www.orizzontescuola.it/celebrazione-della-giornata-mondiale-della-fisica-quantistica-in-italia/",
+                "date": "11 Apr 2025",
+                "time": "16:06",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "L’Italia investe 50 milioni di euro per attrarre i cervelli in fuga",
+                "link": "https://www.orizzontescuola.it/litalia-investe-50-milioni-di-euro-per-attrarre-i-cervelli-in-fuga/",
+                "date": "11 Apr 2025",
+                "time": "15:29",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Genitori",
+                "title": "Merendine confezionate nella plastica: “possono generare batteri resistenti agli antibiotici”. Lo studio di Oxford",
+                "link": "https://www.orizzontescuola.it/merendine-confezionate-nella-plastica-possono-generare-batteri-resistenti-agli-antibiotici-lo-studio-di-oxford/",
+                "date": "11 Apr 2025",
+                "time": "15:26",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Bando cure termali 2025: domande entro il 17 maggio",
+                "link": "https://www.orizzontescuola.it/bando-cure-termali-2025-domande-entro-il-17-maggio/",
+                "date": "11 Apr 2025",
+                "time": "14:56",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Decreto PA, è l’ora della verità: lunedì 14 al via le votazioni nelle Commissioni Senato e il giorno dopo audizione Anief",
+                "link": "https://www.orizzontescuola.it/decreto-pa-e-lora-della-verita-lunedi-14-al-via-le-votazioni-nelle-commissioni-senato-e-il-giorno-dopo-audizione-anief/",
+                "date": "11 Apr 2025",
+                "time": "14:42",
+                "image_link": "N/A"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Scuola precaria: per la FLC CGIL 195mila supplenze docenti e 53mila Ata nel 2024/25 e chiede nuovamente i numeri ufficiali al Ministro",
@@ -340,57 +412,6 @@
                 "link": "https://www.orizzontescuola.it/la-donna-e-il-lavoro-nella-pubblica-amministrazione-in-italia-e-nella-ue-pacifico-anief-docenti-precarie-per-non-lasciare-famiglia-cambiare-rotta/",
                 "date": "11 Apr 2025",
                 "time": "6:38",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Rita de Crescenzo: “Mi metto a studiare e scendo in campo, chi siede in Parlamento non ha meno reati di me”",
-                "link": "https://www.orizzontescuola.it/rita-de-crescenzo-mi-metto-a-studiare-e-scendo-in-campo-chi-siede-in-parlamento-non-ha-meno-reati-di-me/",
-                "date": "10 Apr 2025",
-                "time": "20:25",
-                "image_link": "N/A"
-            },
-            null,
-            {
-                "category": "Politica scolastica",
-                "title": "Un operatore scolastico per plesso, un funzionario ogni 8 scuole. Insufficienti per Dal Pino (Anief): “Tenere conto delle disabilità gravi e delle complessità”",
-                "link": "https://www.orizzontescuola.it/un-operatore-scolastico-per-plesso-un-funzionario-ogni-8-scuole-per-dal-pino-anief-insufficienti-tenere-conto-delle-disabilita-gravi-e-delle-complessita/",
-                "date": "10 Apr 2025",
-                "time": "19:48",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Zitta che prendi 1.400 euro al mese”. Crepet: “un buon insegnante può fare una politica migliore di un politico di professione”",
-                "link": "https://www.orizzontescuola.it/crepet-un-buon-insegnante-puo-fare-una-politica-migliore-di-un-politico-di-professione-nonostante-le-difficolta-del-mestiere-e-il-comportamento-dei-genitori/",
-                "date": "10 Apr 2025",
-                "time": "19:05",
-                "image_link": "N/A"
-            },
-            null,
-            {
-                "category": "Cronaca",
-                "title": "Riforma accesso a Medicina: il 48% degli studenti boccia la novità",
-                "link": "https://www.orizzontescuola.it/riforma-accesso-a-medicina-il-48-degli-studenti-boccia-la-novita/",
-                "date": "10 Apr 2025",
-                "time": "17:16",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Scuola Futura fa tappa a Pescara: dal’11 al 14 aprile laboratori su STEM e robotica",
-                "link": "https://www.orizzontescuola.it/scuola-futura-fa-tappa-a-pescara-dal11-al-14-aprile-laboratori-su-stem-e-robotica/",
-                "date": "10 Apr 2025",
-                "time": "17:03",
-                "image_link": "N/A"
-            },
-            null,
-            {
-                "category": "Cronaca",
-                "title": "Bonus psicologo, dal 15 aprile scorrimento graduatorie per le domande presentate nel 2024",
-                "link": "https://www.orizzontescuola.it/bonus-psicologo-dal-15-aprile-scorrimento-graduatorie-per-le-domande-presentate-nel-2024/",
-                "date": "10 Apr 2025",
-                "time": "16:40",
                 "image_link": "N/A"
             }
         ]
@@ -517,6 +538,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR2, quesito errato: ecco come è stato assegnato il nome “Milton” invece di “Erik” allo psicologo Erikson",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr2-quesito-errato-ecco-perche-e-stato-assegnato-il-nome-milton-invece-di-eirk-allo-psicologo-erikson/",
+                "date": "10 Apr 2025",
+                "time": "8:35",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_610826339.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Graduatorie GPS docenti, elenco aggiuntivo prima fascia 2025: domanda tra il 14 e il 29 aprile, anche con riserva. NOTA MIM",
                 "link": "https://www.orizzontescuola.it/graduatorie-gps-docenti-elenco-aggiuntivo-prima-fascia-2025-domanda-tra-il-14-e-il-29-aprile-anche-con-riserva-nota-mim/",
                 "date": "10 Apr 2025",
@@ -554,14 +583,6 @@
                 "date": "9 Apr 2025",
                 "time": "11:21",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_1996119905.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti secondaria PNRR2: il 5 maggio prova suppletiva di 5 minuti. Come e dove si svolge. DECRETO",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-secondaria-pnrr2-come-e-dove-si-svolge-la-prova-suppletiva-per-quesito-errato-decreto/",
-                "date": "9 Apr 2025",
-                "time": "9:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_341870168-scaled.jpg"
             }
         ]
     },
@@ -676,6 +697,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Aggiornamento ATA 24 mesi, figli e figliastri: quest’anno non c’è la possibilità di inserire il servizio con riserva. Lettera",
+                "link": "https://www.orizzontescuola.it/aggiornamento-ata-24-mesi-figli-e-figliastri-questanno-non-ce-la-possibilita-di-inserire-il-servizio-con-riserva-lettera/",
+                "date": "11 Apr 2025",
+                "time": "15:00",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "Concorso secondaria PNRR2, quesito annullato. Veramente non c’era la risposta corretta? Lettera",
                 "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-quesito-annullato-veramente-non-cera-la-risposta-corretta-lettera/",
                 "date": "11 Apr 2025",
@@ -712,14 +741,6 @@
                 "link": "https://www.orizzontescuola.it/la-scuola-che-non-ascolta-la-famiglia-che-non-parla-lettera/",
                 "date": "7 Apr 2025",
                 "time": "9:51",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Viaggi di…distruzione o randagismo d’istruzione? Lettera",
-                "link": "https://www.orizzontescuola.it/viaggi-di-distruzione-o-randagismo-distruzione-lettera/",
-                "date": "7 Apr 2025",
-                "time": "9:49",
                 "image_link": "N/A"
             }
         ]
