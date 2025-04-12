@@ -24,12 +24,28 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "Bussotti, “limitare l’uso degli smartphone non solo ai giovani, ma anche agli adulti”, e ai genitori, “vi arrabbiate se i vostri figli fumano? Fatelo anche se abusano dello smartphone”",
+                "link": "https://www.orizzontescuola.it/bussotti-limitare-luso-degli-smartphone-non-solo-ai-giovani-ma-anche-agli-adulti-e-ai-genitori-vi-arrabbiate-se-i-vostri-figli-fumano-fatelo-anche-se-abusano-dello-smartphone/",
+                "date": "12 Apr 2025",
+                "time": "12:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_2199835911.jpg"
+            },
+            {
+                "category": "DSGA",
+                "title": "Concorso DSGA: prova orale da metà Maggio. L’affluenza allo scritto è stata sotto il 30%",
+                "link": "https://www.orizzontescuola.it/concorso-dsga-piu-del-50-dei-candidati-non-si-e-presentato/",
+                "date": "12 Apr 2025",
+                "time": "10:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Concorso-DSGA-Prova-orale-da-meta-Maggio.png"
+            },
+            {
                 "category": "Chiedilo a Lalla",
                 "title": "Mobilità 25/26: docente perdente posto non soddisfatto nelle preferenze espresse nella domanda. Come ottiene la scuola",
                 "link": "https://www.orizzontescuola.it/mobilita-25-26-docente-perdente-posto-non-soddisfatto-nelle-preferenze-espresse-nella-domanda-come-ottiene-la-scuola/",
                 "date": "12 Apr 2025",
                 "time": "9:51",
-                "image_link": "N/A"
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2498781455.jpg"
             },
             {
                 "category": "Scuole",
@@ -120,7 +136,12 @@
                 "date": "11 Apr 2025",
                 "time": "13:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_695632537.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Dirigenti scolastici",
                 "title": "Immissioni in ruolo dirigenti scolastici da concorso riservato: 27 depennati dalle graduatorie. DECRETO",
@@ -136,12 +157,7 @@
                 "date": "11 Apr 2025",
                 "time": "12:26",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/04/shutterstock_1495708661.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti secondaria PNRR2, il 5 maggio alle 15.30 prova suppletiva di 5 minuti. AVVISO calendario",
@@ -181,14 +197,6 @@
                 "date": "11 Apr 2025",
                 "time": "10:26",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2142727347.jpg"
-            },
-            {
-                "category": "DSGA",
-                "title": "Concorso DSGA: prova orale da metà Maggio. L’affluenza allo scritto è stata sotto il 30%",
-                "link": "https://www.orizzontescuola.it/concorso-dsga-piu-del-50-dei-candidati-non-si-e-presentato/",
-                "date": "11 Apr 2025",
-                "time": "10:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Concorso-DSGA-Prova-orale-da-meta-Maggio.png"
             },
             null,
             {
@@ -256,20 +264,28 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_574879378-scaled.jpg"
             },
             null,
-            null,
-            {
-                "category": "Plus",
-                "title": "Inserimento negli elenchi aggiuntivi della prima fascia GPS 2025/26, consulenza personalizzata. Posti limitati, prenota",
-                "link": "https://www.orizzontescuola.it/inserimento-negli-elenchi-aggiuntivi-della-prima-fascia-gps-2025-26-consulenza-personalizzata-posti-limitati-prenota/",
-                "date": "11 Apr 2025",
-                "time": "7:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Elenchi-aggiuntivi-GPS-1.png"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Il pedagogista Sidoti: “I giovani ci illuminano. Genitori siano flessibili ad imparare da loro”",
+                "link": "https://www.orizzontescuola.it/il-pedagogista-sidoti-i-giovani-ci-illuminano-genitori-siano-flessibili-ad-imparare-da-loro/",
+                "date": "12 Apr 2025",
+                "time": "11:46",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Big Mama su educazione affettiva: “La scuola un disastro, la responsabilità ricade sempre su docenti e genitori",
+                "link": "https://www.orizzontescuola.it/big-mama-su-educazione-affettiva-la-scuola-un-disastro-al-responsabilita-ricade-sempre-su-docenti-e-genitori/",
+                "date": "12 Apr 2025",
+                "time": "11:37",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Bagni “neutri” in una scuola toscana, insorgono Lega e Fratelli d’Italia: “Sperimentazione gender sulla pelle dei giovani”. Nardini (PD): “Squallida propaganda con l’obiettivo di discriminare”",
@@ -396,15 +412,6 @@
                 "link": "https://www.orizzontescuola.it/concorso-dsga-anquap-un-flop-annunciato-campanello-dallarme-su-stato-giuridico-ed-economico-dei-direttori/",
                 "date": "11 Apr 2025",
                 "time": "11:44",
-                "image_link": "N/A"
-            },
-            null,
-            {
-                "category": "Genitori",
-                "title": "Mio figlio ha fatto coming out, e adesso? Dallo sportello ascolto per i genitori ai rischi dall’allontanamento fisico all’emarginazione",
-                "link": "https://www.orizzontescuola.it/mio-figlio-ha-fatto-coming-out-e-adesso-dallo-sportello-ascolto-per-i-genitori-ai-rischi-dallallontanamento-fisico-allemarginazione/",
-                "date": "11 Apr 2025",
-                "time": "11:25",
                 "image_link": "N/A"
             }
         ]
