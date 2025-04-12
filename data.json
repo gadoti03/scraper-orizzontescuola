@@ -3,26 +3,52 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "Ilaria Salis: “Sì ai concorsi ma assumere anche da GPS, cittadinanza ai nati in Italia, educazione sentimentale in classe”. INTERVISTA",
+                "link": "https://www.orizzontescuola.it/ilaria-salis-si-ai-concorsi-ma-assumere-anche-da-gps-cittadinanza-ai-nati-in-italia-educazione-sentimentale-in-classe-intervista/",
+                "date": "12 Apr 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/WhatsApp-Image-2025-04-11-at-21.46.50.jpeg"
+            },
+            {
                 "category": "ATA",
                 "title": "Graduatorie ATA 24 mesi 2025/26, domande dal 28 aprile al 19 maggio. NOTA",
                 "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-2025-domande-dal-28-aprile-al-19-maggio-nota/",
                 "date": "11 Apr 2025",
                 "time": "9:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1508556191.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "RSU nella scuola, Pacifico (Anief): “Nostro obiettivo è migliorare la scuola per tutte e tutti”. L’impegno del sindacato tra rappresentanza e rivendicazioni contrattuali [VIDEO]",
-                "link": "https://www.orizzontescuola.it/rsu-nella-scuola-pacifico-anief-nostro-obiettivo-e-migliorare-la-scuola-per-tutte-e-tutti-limpegno-del-sindacato-tra-rappresentanza-e-rivendicazioni-contrattuali-video/",
-                "date": "11 Apr 2025",
-                "time": "8:27",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/I-protagonisti-ipotesi-1-1280-x-720-px-1000-x-500-px.png"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Mobilità 25/26: docente perdente posto non soddisfatto nelle preferenze espresse nella domanda. Come ottiene la scuola",
+                "link": "https://www.orizzontescuola.it/mobilita-25-26-docente-perdente-posto-non-soddisfatto-nelle-preferenze-espresse-nella-domanda-come-ottiene-la-scuola/",
+                "date": "12 Apr 2025",
+                "time": "9:51",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "Scuola invia dati PEI di un alunno con handicap ad una famiglia omonima, si è trattato di un errore. Ecco cosa ha detto il Garante per la Privacy",
+                "link": "https://www.orizzontescuola.it/scuola-invia-per-errore-dati-pei-ad-omonima-condannata-dal-garante-per-la-privacy/",
+                "date": "12 Apr 2025",
+                "time": "8:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2520702773.jpg"
+            },
+            {
+                "category": "Scuole non statali",
+                "title": "Scuola paritaria in crisi, perché l’Italia rischia di perdere 11.000 istituti (e 770.000 studenti). Suor Alfieri: “Libertà di scelta educativa a rischio”. INTERVISTA",
+                "link": "https://www.orizzontescuola.it/scuola-paritaria-in-crisi-perche-litalia-rischia-di-perdere-11-000-istituti-e-770-000-studenti-suor-alfieri-liberta-di-scelta-educativa-a-rischio-intervista/",
+                "date": "12 Apr 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/01/Alfieri.jpg"
+            },
+            null,
+            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze 2024/25, ecco gli INTERPELLI delle scuole [AGGIORNATO]",
@@ -110,7 +136,12 @@
                 "date": "11 Apr 2025",
                 "time": "12:26",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/04/shutterstock_1495708661.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti secondaria PNRR2, il 5 maggio alle 15.30 prova suppletiva di 5 minuti. AVVISO calendario",
@@ -150,12 +181,7 @@
                 "date": "11 Apr 2025",
                 "time": "10:26",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2142727347.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "DSGA",
                 "title": "Concorso DSGA: prova orale da metà Maggio. L’affluenza allo scritto è stata sotto il 30%",
@@ -188,6 +214,14 @@
                 "date": "11 Apr 2025",
                 "time": "8:51",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_765925483-scaled.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "RSU nella scuola, Pacifico (Anief): “Nostro obiettivo è migliorare la scuola per tutte e tutti”. L’impegno del sindacato tra rappresentanza e rivendicazioni contrattuali [VIDEO]",
+                "link": "https://www.orizzontescuola.it/rsu-nella-scuola-pacifico-anief-nostro-obiettivo-e-migliorare-la-scuola-per-tutte-e-tutti-limpegno-del-sindacato-tra-rappresentanza-e-rivendicazioni-contrattuali-video/",
+                "date": "11 Apr 2025",
+                "time": "8:27",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/I-protagonisti-ipotesi-1-1280-x-720-px-1000-x-500-px.png"
             },
             {
                 "category": "Cronaca",
@@ -230,53 +264,36 @@
                 "date": "11 Apr 2025",
                 "time": "7:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Elenchi-aggiuntivi-GPS-1.png"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Docenti di sostegno confermati dai genitori, ANIEF, Gilda e CGIL impugnano il provvedimento. FISH e Moige: “Contrari a iniziativa legale, è una risposta concreta al principio di continuità didattica”",
-                "link": "https://www.orizzontescuola.it/docenti-di-sostegno-confermati-dai-genitori-gilda-e-cgil-impugnano-il-provvedimento-fish-contrari-a-iniziativa-legale-e-una-risposta-concreta-al-principio-di-continuita-didattica/",
-                "date": "10 Apr 2025",
-                "time": "20:22",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1666873585.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Organici ATA, Raimondo (Uil Scuola): “No all’operatore scolastico, maggiori responsabilità per 25 euro in più. Sì a un funzionario per ogni scuola”",
-                "link": "https://www.orizzontescuola.it/organici-ata-raimondo-uil-scuola-no-alloperatore-scolastico-maggiori-responsabilita-per-25-euro-in-piu-si-a-un-funzionario-per-ogni-scuola/",
-                "date": "10 Apr 2025",
-                "time": "19:32",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Screenshot-2025-03-20-163432.png"
-            },
-            null,
-            {
-                "category": "Scuole",
-                "title": "Continuità didattica degli alunni, ecco i criteri di attribuzione delle risorse ai docenti. DECRETO",
-                "link": "https://www.orizzontescuola.it/continuita-didattica-degli-alunni-ecco-i-criteri-di-attribuzione-delle-risorse-ai-docenti-decreto/",
-                "date": "10 Apr 2025",
-                "time": "19:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2142727347.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Elenchi aggiuntivi prima fascia GPS 2025: domande al via il 14 aprile. Come presentare l’istanza, indicazioni MIM. AVVISO",
-                "link": "https://www.orizzontescuola.it/elenchi-aggiuntivi-prima-fascia-gps-2025-domande-al-via-il-14-aprile-come-presentare-la-domanda-indicazioni-mim-avviso/",
-                "date": "10 Apr 2025",
-                "time": "18:23",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_765925483-scaled.jpg"
-            },
-            {
-                "category": "Dirigenti scolastici",
-                "title": "Valutazione dei dirigenti scolastici: ecco obiettivi, indicatori e target per il 2024/25. DECRETO e SCHEDA",
-                "link": "https://www.orizzontescuola.it/valutazione-dei-dirigenti-scolastici-ecco-obiettivi-indicatori-e-target-per-il-2024-25-decreto-e-scheda/",
-                "date": "10 Apr 2025",
-                "time": "18:04",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_669396973.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Bagni “neutri” in una scuola toscana, insorgono Lega e Fratelli d’Italia: “Sperimentazione gender sulla pelle dei giovani”. Nardini (PD): “Squallida propaganda con l’obiettivo di discriminare”",
+                "link": "https://www.orizzontescuola.it/bagni-neutri-in-una-scuola-toscana-insorgono-lega-e-fratelli-ditalia-sperimentazione-gender-sulla-pelle-dei-giovani-nardini-pd-squallida-propaganda-con-lobiettivo-di-discriminare/",
+                "date": "12 Apr 2025",
+                "time": "8:20",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Sequestrati 800 chili di latticini, tra cui 500 vasetti di yogurt, destinati alle scuole",
+                "link": "https://www.orizzontescuola.it/sequestrati-800-chili-di-latticini-tra-cui-500-vasetti-di-yogurt-destinati-alle-scuole/",
+                "date": "12 Apr 2025",
+                "time": "8:16",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Accordo Italia-India per la cooperazione scientifica: dalla robotica all’economia blu",
+                "link": "https://www.orizzontescuola.it/accordo-italia-india-per-la-cooperazione-scientifica-dalla-robotica-alleconomia-blu/",
+                "date": "12 Apr 2025",
+                "time": "7:48",
+                "image_link": "N/A"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso secondaria PNRR1, nuove graduatorie del PNRR1 per assunzioni da settembre 2025",
@@ -388,30 +405,6 @@
                 "link": "https://www.orizzontescuola.it/mio-figlio-ha-fatto-coming-out-e-adesso-dallo-sportello-ascolto-per-i-genitori-ai-rischi-dallallontanamento-fisico-allemarginazione/",
                 "date": "11 Apr 2025",
                 "time": "11:25",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Giornata del Mare, gli eventi a Brindisi e Lecce. La diretta",
-                "link": "https://www.orizzontescuola.it/giornata-del-mare-gli-eventi-a-brindisi-e-lecce-la-diretta/",
-                "date": "11 Apr 2025",
-                "time": "10:58",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Giornata del Mare e della Cultura Marinara. Valditara : “Il mare è sviluppo, investiti fondi per la formazione nei settori marittimi”",
-                "link": "https://www.orizzontescuola.it/giornata-del-mare-e-della-cultura-marinara-valditara-il-mare-e-sviluppo-investiti-fondi-per-la-formazione-nei-settori-marittimi/",
-                "date": "11 Apr 2025",
-                "time": "10:16",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "“La donna e il lavoro nella pubblica amministrazione in Italia e nella UE”. Pacifico (Anief): “Docenti precarie per non lasciare famiglia. Cambiare rotta”",
-                "link": "https://www.orizzontescuola.it/la-donna-e-il-lavoro-nella-pubblica-amministrazione-in-italia-e-nella-ue-pacifico-anief-docenti-precarie-per-non-lasciare-famiglia-cambiare-rotta/",
-                "date": "11 Apr 2025",
-                "time": "6:38",
                 "image_link": "N/A"
             }
         ]
@@ -538,6 +531,22 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Concorso PNRR2 scuola secondaria: suppletiva per un quesito! Candidati chiedono di conoscere voto minimo provvisorio",
+                "link": "https://www.orizzontescuola.it/concorso-pnrr2-per-la-scuola-secondaria-prova-suppletiva-per-un-quesito-candidati-chiedono-di-conoscere-voto-minimo-provvisorio/",
+                "date": "10 Apr 2025",
+                "time": "9:21",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_594891590.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR2, quesito errato: ecco come è stato assegnato il nome “Milton” invece di “Erik” allo psicologo Erikson",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr2-quesito-errato-ecco-perche-e-stato-assegnato-il-nome-milton-invece-di-eirk-allo-psicologo-erikson/",
+                "date": "10 Apr 2025",
+                "time": "8:35",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_610826339.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Graduatorie GPS docenti, elenco aggiuntivo prima fascia 2025: domanda tra il 14 e il 29 aprile, anche con riserva. NOTA MIM",
                 "link": "https://www.orizzontescuola.it/graduatorie-gps-docenti-elenco-aggiuntivo-prima-fascia-2025-domanda-tra-il-14-e-il-29-aprile-anche-con-riserva-nota-mim/",
                 "date": "10 Apr 2025",
@@ -567,22 +576,6 @@
                 "date": "9 Apr 2025",
                 "time": "15:17",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_695632537.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "GPS graduatorie supplenze 2025/26: no nuove iscrizioni in seconda fascia. Ecco cosa può/deve fare chi è già iscritto",
-                "link": "https://www.orizzontescuola.it/gps-graduatorie-supplenze-2025-26-no-nuove-iscrizioni-in-seconda-fascia-ecco-cosa-puo-deve-fare-chi-e-gia-iscritto/",
-                "date": "9 Apr 2025",
-                "time": "11:21",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_1996119905.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti secondaria PNRR2: il 5 maggio prova suppletiva di 5 minuti. Come e dove si svolge. DECRETO",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-secondaria-pnrr2-come-e-dove-si-svolge-la-prova-suppletiva-per-quesito-errato-decreto/",
-                "date": "9 Apr 2025",
-                "time": "9:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_341870168-scaled.jpg"
             }
         ]
     },
