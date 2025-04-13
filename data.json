@@ -24,6 +24,22 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Chiedilo a Lalla",
+                "title": "Mobilità 25/26, deroga per disabilità personale: domanda non convalidata per mancata indicazione del comune di residenza",
+                "link": "https://www.orizzontescuola.it/mobilita-25-26-deroga-per-disabilita-personale-domanda-non-convalidata-per-mancata-indicazione-del-comune-di-residenza/",
+                "date": "13 Apr 2025",
+                "time": "17:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Quando finisce la scuola: le date per regione del calendario scolastico",
+                "link": "https://www.orizzontescuola.it/quando-finisce-la-scuola-le-date-per-regione-del-calendario-scolastico/",
+                "date": "13 Apr 2025",
+                "time": "15:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1761160202.jpg"
+            },
+            {
                 "category": "ATA",
                 "title": "Graduatorie terza fascia ATA, domanda su Istanze online anche se ho presentato la CIAD alla scuola capofila?",
                 "link": "https://www.orizzontescuola.it/terza-fascia-ata-domanda-su-istanze-online-anche-se-ho-presentato-la-ciad-alla-scuola-capofila/",
@@ -127,7 +143,12 @@
                 "date": "12 Apr 2025",
                 "time": "15:15",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/11/hamburg-1593802_1920-1200x800.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "La scuola? Troppa burocrazia, “soffocata da inutili scartoffie”. Denunciava De Santis nel 1861: “piuttosto che ficcarmi in capo questa roba, vorrei gittare per la finestra dieci portafogli”",
@@ -143,12 +164,7 @@
                 "date": "12 Apr 2025",
                 "time": "14:15",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_341870168-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Bussotti, “limitare l’uso degli smartphone non solo ai giovani, ma anche agli adulti”, e ai genitori, “vi arrabbiate se i vostri figli fumano? Fatelo anche se abusano dello smartphone”",
@@ -262,28 +278,29 @@
                 "date": "11 Apr 2025",
                 "time": "15:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Shutterstock_2310359315-7.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso scuola secondaria PNRR2, decurtati 2 punti ad alcuni candidati del turno pomeridiano del 27 febbraio: ecco a chi. CHIARIMENTI",
-                "link": "https://www.orizzontescuola.it/concorso-scuola-secondaria-pnrr2-decurtati-2-punti-ad-alcuni-candidati-del-turno-pomeridiano-del-27-febbraio-ecco-a-chi-chiarimenti/",
-                "date": "11 Apr 2025",
-                "time": "13:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_695632537.jpg"
-            },
-            {
-                "category": "Dirigenti scolastici",
-                "title": "Immissioni in ruolo dirigenti scolastici da concorso riservato: 27 depennati dalle graduatorie. DECRETO",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-dirigenti-scolastici-da-concorso-riservato-27-depennati-dalle-graduatorie-decreto/",
-                "date": "11 Apr 2025",
-                "time": "12:35",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_669396973.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Tenta di togliersi la vita a scuola: studentessa salvata da una compagna e un docente",
+                "link": "https://www.orizzontescuola.it/tenta-di-togliersi-la-vita-a-scuola-studentessa-salvata-da-una-compagna-e-un-docente/",
+                "date": "13 Apr 2025",
+                "time": "18:19",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Domani si svolgeranno regolarmente le elezioni Rsu in tutte le scuole pubbliche, l’ultimo appello ai lavoratori di Anief prima del voto",
+                "link": "https://www.orizzontescuola.it/domani-si-svolgeranno-regolarmente-le-elezioni-rsu-in-tutte-le-scuole-pubbliche-lultimo-appello-ai-lavoratori-di-anief-prima-del-voto/",
+                "date": "13 Apr 2025",
+                "time": "17:36",
+                "image_link": "N/A"
+            },
+            null,
             {
                 "category": "Scuole",
                 "title": "Concorso “Giovani in crescendo 2025”: dall’8 al 10 maggio a Pesaro. Iscrizioni scuole entro il 16 aprile",
@@ -402,30 +419,6 @@
                 "link": "https://www.orizzontescuola.it/il-pedagogista-sidoti-i-giovani-ci-illuminano-genitori-siano-flessibili-ad-imparare-da-loro/",
                 "date": "12 Apr 2025",
                 "time": "11:46",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Big Mama su educazione affettiva: “La scuola un disastro, la responsabilità ricade sempre su docenti e genitori",
-                "link": "https://www.orizzontescuola.it/big-mama-su-educazione-affettiva-la-scuola-un-disastro-al-responsabilita-ricade-sempre-su-docenti-e-genitori/",
-                "date": "12 Apr 2025",
-                "time": "11:37",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Sequestrati 800 chili di latticini, tra cui 500 vasetti di yogurt, destinati alle scuole",
-                "link": "https://www.orizzontescuola.it/sequestrati-800-chili-di-latticini-tra-cui-500-vasetti-di-yogurt-destinati-alle-scuole/",
-                "date": "12 Apr 2025",
-                "time": "8:16",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Accordo Italia-India per la cooperazione scientifica: dalla robotica all’economia blu",
-                "link": "https://www.orizzontescuola.it/accordo-italia-india-per-la-cooperazione-scientifica-dalla-robotica-alleconomia-blu/",
-                "date": "12 Apr 2025",
-                "time": "7:48",
                 "image_link": "N/A"
             }
         ]
@@ -552,6 +545,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "GPS 2025, elenco aggiuntivo prima fascia anche per il ruolo ma alcuni docenti sono “bloccati” nella provincia scelta nel 2024",
+                "link": "https://www.orizzontescuola.it/gps-2025-elenco-aggiuntivo-prima-fascia-anche-per-il-ruolo-ma-alcuni-docenti-sono-bloccati-nella-provincia-scelta-nel-2024/",
+                "date": "10 Apr 2025",
+                "time": "12:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2090710285.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Elenchi aggiuntivi prima fascia GPS docenti 2025: domanda dal 14 al 29 aprile. Chi può inserirsi, in quale provincia [LO SPECIALE]",
                 "link": "https://www.orizzontescuola.it/elenchi-aggiuntivi-prima-fascia-gps-docenti-2025-chi-puo-inserirsi-quando-in-quale-provincia-lo-speciale/",
                 "date": "10 Apr 2025",
@@ -589,14 +590,6 @@
                 "date": "10 Apr 2025",
                 "time": "7:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_344044361.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Errore in un quesito del concorso docenti PNRR2. Il Ministero annuncia accertamenti per individuare le responsabilità",
-                "link": "https://www.orizzontescuola.it/errore-nel-concorso-docenti-pnrr2-il-ministero-annuncia-accertamenti-per-individuare-le-responsabilita/",
-                "date": "9 Apr 2025",
-                "time": "18:12",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_687037513.jpg"
             }
         ]
     },
