@@ -24,12 +24,44 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Docenti",
+                "title": "Mobilità docenti 2025/26, alcune domande non sono state accolte. Ecco perché, quali errori sono stati commessi",
+                "link": "https://www.orizzontescuola.it/mobilita-docenti-2025-26-alcune-domande-non-sono-state-accolte-ecco-perche-quali-errori-sono-stati-commessi/",
+                "date": "14 Apr 2025",
+                "time": "21:47",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2176731709.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Compiti a casa, un incubo per genitori e figli? Tra ricordi di un’infanzia senza aiuti e il sovraccarico attuale, ecco cosa emerge dal dibattito acceso sui social",
+                "link": "https://www.orizzontescuola.it/compiti-a-casa-un-incubo-per-genitori-e-figli-tra-ricordi-di-uninfanzia-senza-aiuti-e-il-sovraccarico-attuale-ecco-cosa-emerge-dal-dibattito-acceso-sui-social/",
+                "date": "14 Apr 2025",
+                "time": "21:39",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1371114032-scaled.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Elenchi aggiuntivi I fascia GPS, ecco a cosa fare attenzione per compilare bene la domanda. QUESTION TIME con Cozzetto (Anief) LIVE Martedì 15 aprile alle 15:00",
+                "link": "https://www.orizzontescuola.it/elenchi-aggiuntivi-i-fascia-gps-ecco-a-cosa-fare-attenzione-per-compilare-bene-la-domanda-question-time-con-cozzetto-anief-live-martedi-15-aprile-alle-1500/",
+                "date": "14 Apr 2025",
+                "time": "19:33",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Template_questiontime_1920x1080-1.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Registro elettronico, uno strumento di trasparenza o controllo oppressivo? Il dibattito tra genitori e docenti: “Meglio le vecchie bugie?”, “Si dovrebbe controllare una volta a settimana”",
+                "link": "https://www.orizzontescuola.it/registro-elettronico-uno-strumento-di-trasparenza-o-controllo-oppressivo-il-dibattito-tra-genitori-e-docenti-meglio-le-vecchie-bugie-si-dovrebbe-controllare-una-volta-a-settimana/",
+                "date": "14 Apr 2025",
+                "time": "19:02",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/10/shutterstock_2170549303-scaled.jpg"
+            },
+            {
                 "category": "Cronaca",
                 "title": "“La scuola non è un parcheggio, non siamo baby sitter”. I docenti ai genitori: “Godetevi i figli, li conosciamo più di voi”",
                 "link": "https://www.orizzontescuola.it/la-scuola-non-e-un-parcheggio-non-siamo-baby-sitter-i-docenti-ai-genitori-godetevi-i-figli-li-conosciamo-piu-di-voi/",
                 "date": "14 Apr 2025",
                 "time": "18:24",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_2138141785.jpg"
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2480765345.jpg"
             },
             {
                 "category": "Cronaca",
@@ -89,11 +121,11 @@
             },
             {
                 "category": "Dirigenti scolastici",
-                "title": "Concorso Dirigenti scolastici, crescono i ricorsi e le polemiche. Valditara: “Verifiche in corso, non tolleriamo opacità”",
+                "title": "Concorso DS, crescono i ricorsi, le polemiche e le interrogazioni parlamentari. Valditara: “Verifiche in corso, non tolleriamo opacità”",
                 "link": "https://www.orizzontescuola.it/concorso-dirigenti-scolastici-crescono-i-ricorsi-e-le-polemiche-valditara-verifiche-in-corso-non-tolleriamo-opacita/",
                 "date": "14 Apr 2025",
                 "time": "15:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/Valditara.jpeg"
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2232779173.jpg"
             },
             {
                 "category": "Scuole",
@@ -118,7 +150,12 @@
                 "date": "14 Apr 2025",
                 "time": "11:57",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2198390061.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole non statali",
                 "title": "Stretta sulle scuole paritarie: una classe terminale per indirizzo di studio, esami di idoneità e registro elettronico",
@@ -150,12 +187,7 @@
                 "date": "14 Apr 2025",
                 "time": "11:08",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/02/shutterstock_1536693014.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso secondaria PNRR2, prova suppletiva il 5 maggio. Come si svolge: ISTRUZIONI per i candidati",
@@ -253,37 +285,45 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/10/shutterstock_1919381969.jpg"
             },
             null,
-            null,
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Elenchi aggiuntivi prima fascia GPS docenti 2025: domanda al via dalle 9.00 di oggi 14 aprile. Chi può inserirsi, in quale provincia [LO SPECIALE]",
-                "link": "https://www.orizzontescuola.it/elenchi-aggiuntivi-prima-fascia-gps-docenti-2025-chi-puo-inserirsi-quando-in-quale-provincia-lo-speciale/",
-                "date": "14 Apr 2025",
-                "time": "7:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_594891590.jpg"
-            },
-            null,
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Mobilità 25/26, deroga per disabilità personale: domanda non convalidata per mancata indicazione del comune di residenza",
-                "link": "https://www.orizzontescuola.it/mobilita-25-26-deroga-per-disabilita-personale-domanda-non-convalidata-per-mancata-indicazione-del-comune-di-residenza/",
-                "date": "13 Apr 2025",
-                "time": "17:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Quando finisce la scuola: le date per regione del calendario scolastico",
-                "link": "https://www.orizzontescuola.it/quando-finisce-la-scuola-le-date-per-regione-del-calendario-scolastico/",
-                "date": "13 Apr 2025",
-                "time": "15:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1761160202.jpg"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Registro elettronico violato, studenti modificano i voti a piacimento: i 4 diventano 8, mentre gli 8 sono diventati 2",
+                "link": "https://www.orizzontescuola.it/registro-elettronico-violato-studenti-modificano-i-voti-a-piacimento-i-4-diventano-8-mentre-gli-8-sono-diventati-2/",
+                "date": "14 Apr 2025",
+                "time": "21:06",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Rsu, si vota fino a mercoledì. Anief punta a rafforzare la rappresentatività: “Vogliamo esserci insieme a chi crede che tutelare i propri diritti è necessario”",
+                "link": "https://www.orizzontescuola.it/rsu-si-vota-fino-a-mercoledi-anief-punta-a-rafforzare-la-rappresentativita-vogliamo-esserci-insieme-a-chi-crede-che-tutelare-i-propri-diritti-e-necessario/",
+                "date": "14 Apr 2025",
+                "time": "19:23",
+                "image_link": "N/A"
+            },
+            null,
+            {
+                "category": "Cronaca",
+                "title": "“Non è colpa dei social se i ragazzi soffrono”, Matteo Lancini smonta i luoghi comuni sull’educazione digitale: “Abbiamo sequestrato i nostri figli prima di Facebook e TikTok”",
+                "link": "https://www.orizzontescuola.it/non-e-colpa-dei-social-se-i-ragazzi-soffrono-matteo-lancini-smonta-i-luoghi-comuni-sulleducazione-digitale-abbiamo-sequestrato-i-nostri-figli-prima-di-facebook-e-tiktok/",
+                "date": "14 Apr 2025",
+                "time": "18:52",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "In Sicilia 5 milioni per progetti sociali e culturali, approvato bando regionale: ecco i criteri di ripartizione",
+                "link": "https://www.orizzontescuola.it/in-sicilia-5-milioni-per-progetti-sociali-e-culturali-approvato-bando-regionale-ecco-i-criteri-di-ripartizione/",
+                "date": "14 Apr 2025",
+                "time": "18:45",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Decreto Sicurezza in Gazzetta Ufficiale, si punisce chi usa ragazzi fino a 16 anni per accattonaggio",
@@ -333,7 +373,7 @@
                 "image_link": "N/A"
             },
             {
-                "category": "Nessuna categoria",
+                "category": "Cronaca",
                 "title": "Insegnante infortunata durante gita scolastica all’Antro del Corchia, soccorsa dai Vigili del Fuoco",
                 "link": "https://www.orizzontescuola.it/insegnante-infortunata-durante-gita-allantro-del-corchia-soccorsa-dai-vigili-del-fuoco/",
                 "date": "14 Apr 2025",
@@ -387,52 +427,20 @@
                 "date": "14 Apr 2025",
                 "time": "12:23",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Certificazioni false e diplomifici, il sistema delle certificazioni comprate per scalare le graduatorie. L’inchiesta di Mi Manda Rai 3",
-                "link": "https://www.orizzontescuola.it/certificazioni-false-e-diplomifici-il-sistema-delle-certificazioni-comprate-per-scalare-le-graduatorie-linchiesta-di-mi-manda-rai-3/",
-                "date": "14 Apr 2025",
-                "time": "11:58",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Scuole italiane all’estero, Frassinetti: “Sistema formativo italiano apprezzato anche dalle comunità locali”",
-                "link": "https://www.orizzontescuola.it/scuole-italiane-allestero-frassinetti-sistema-formativo-apprezzato-anche-dalle-comunita-locali/",
-                "date": "14 Apr 2025",
-                "time": "11:53",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Inclusione, FISH si costituirà in giudizio a supporto della continuità didattica dei docenti di sostegno: “È un diritto, non un privilegio”",
-                "link": "https://www.orizzontescuola.it/inclusione-fish-si-costituira-in-giudizio-a-supporto-della-continuita-didattica-dei-docenti-di-sostegno-e-un-diritto-non-un-privilegio/",
-                "date": "14 Apr 2025",
-                "time": "11:41",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Sicurezza digitale, Inps e Cert-AgID lanciano l’allarme contro gli sms fraudolenti: cosa fare se si è caduti nella trappola",
-                "link": "https://www.orizzontescuola.it/sicurezza-digitale-inps-e-cert-agid-lanciano-lallarme-contro-gli-sms-fraudolenti-cosa-fare-se-si-e-caduti-nella-trappola/",
-                "date": "14 Apr 2025",
-                "time": "9:29",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Crepet contro i genitori di oggi: “Dire ‘amore mio’ ai figli è sbagliato. Lasciamoli che portino pesi, anche a scuola. È così che si impara a vivere”",
-                "link": "https://www.orizzontescuola.it/crepet-contro-i-genitori-di-oggi-dire-amore-mio-ai-figli-e-sbagliato-lasciamoli-che-portino-pesi-anche-a-scuola-e-cosi-che-si-impara-a-vivere/",
-                "date": "14 Apr 2025",
-                "time": "8:40",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Mobilità 25/26, deroga per disabilità personale: domanda non convalidata per mancata indicazione del comune di residenza",
+                "link": "https://www.orizzontescuola.it/mobilita-25-26-deroga-per-disabilita-personale-domanda-non-convalidata-per-mancata-indicazione-del-comune-di-residenza/",
+                "date": "13 Apr 2025",
+                "time": "17:00",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Mobilità docenti 25/26, superamento concorso: si valuta se per l’accesso al ruolo di appartenenza. Non conta tipologia di posto",
@@ -536,14 +544,6 @@
                 "date": "3 Apr 2025",
                 "time": "15:45",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Mobilità 25/26, deroga genitore over 65: domanda non convalidata per mancata indicazione comune residenza anche con una sola scuola",
-                "link": "https://www.orizzontescuola.it/mobilita-25-26-deroga-genitore-over-65-domanda-non-convalidata-per-mancata-indicazione-comune-residenza-anche-con-una-sola-scuola/",
-                "date": "3 Apr 2025",
-                "time": "9:44",
-                "image_link": "N/A"
             }
         ]
     },
@@ -605,6 +605,22 @@
         "articles": [
             {
                 "category": "ATA",
+                "title": "Graduatorie terza fascia ATA, domande scioglimento riserva CIAD dal 28 aprile al 9 maggio. NOTA",
+                "link": "https://www.orizzontescuola.it/graduatorie-terza-fascia-ata-domande-scioglimento-riserva-ciad-dal-28-aprile-al-9-maggio-nota/",
+                "date": "11 Apr 2025",
+                "time": "9:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_2377017671.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Graduatorie terza fascia ATA: scioglimento riserva CIAD dal 28 aprile su Istanze online. Le ultime notizie",
+                "link": "https://www.orizzontescuola.it/graduatorie-terza-fascia-ata-scioglimento-riserva-ciad-dal-28-aprile-su-istanze-online-le-ultime-notizie/",
+                "date": "10 Apr 2025",
+                "time": "13:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_329293007.jpg"
+            },
+            {
+                "category": "ATA",
                 "title": "Graduatorie ATA 24 mesi, bandi 2025 in arrivo: la CIAD diventa requisito di accesso. Domande dal 28 aprile (da confermare)",
                 "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-bandi-2025-in-arrivo-la-ciad-diventa-requisito-di-accesso-domande-dal-28-aprile-al-16-maggio-da-confermare/",
                 "date": "10 Apr 2025",
@@ -634,22 +650,6 @@
                 "date": "30 Mar 2025",
                 "time": "18:11",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2198683335.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "“Reintrodurre l’organico aggiuntivo ATA, le scuole ne hanno bisogno”: lavoratori e Anief chiedono emendamento al decreto PA",
-                "link": "https://www.orizzontescuola.it/reintrodurre-lorganico-aggiuntivo-ata-le-scuole-ne-hanno-bisogno-lavoratori-e-anief-chiedono-emendamento-al-decreto-pa/",
-                "date": "29 Mar 2025",
-                "time": "7:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_2023734317-scaled.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Mobilità verticale ATA, da collaboratore a operatore scolastico gli aumenti di stipendio saranno di 25 euro al mese",
-                "link": "https://www.orizzontescuola.it/da-collaboratore-scolastico-a-operatore-aumenti-di-stipendio-di-25-euro-al-mese/",
-                "date": "28 Mar 2025",
-                "time": "9:35",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_2079528205.jpg"
             }
         ]
     },
