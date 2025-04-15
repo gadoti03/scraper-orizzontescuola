@@ -24,6 +24,14 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Diventare Insegnanti",
+                "title": "VIDEO GUIDA | Elenchi aggiuntivi GPS prima fascia, tutto spiegato passo dopo passo",
+                "link": "https://www.orizzontescuola.it/video-guida-elenchi-aggiuntivi-gps-prima-fascia-tutto-spiegato-passo-dopo-passo/",
+                "date": "14 Apr 2025",
+                "time": "23:33",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Template_videoguide_1920x1080.png"
+            },
+            {
                 "category": "Docenti",
                 "title": "Mobilità docenti 2025/26, alcune domande non sono state accolte. Ecco perché, quali errori sono stati commessi",
                 "link": "https://www.orizzontescuola.it/mobilita-docenti-2025-26-alcune-domande-non-sono-state-accolte-ecco-perche-quali-errori-sono-stati-commessi/",
@@ -142,7 +150,12 @@
                 "date": "14 Apr 2025",
                 "time": "12:02",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_1871344276-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "ATA",
                 "title": "Graduatorie ATA 24 mesi, CIAD requisito di accesso solo per i nuovi inserimenti. I BANDI [IN AGGIORNAMENTO]",
@@ -150,12 +163,7 @@
                 "date": "14 Apr 2025",
                 "time": "11:57",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2198390061.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole non statali",
                 "title": "Stretta sulle scuole paritarie: una classe terminale per indirizzo di studio, esami di idoneità e registro elettronico",
@@ -284,7 +292,6 @@
                 "time": "7:40",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/10/shutterstock_1919381969.jpg"
             },
-            null,
             null
         ]
     },
