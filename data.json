@@ -23,6 +23,7 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "Elenco aggiuntivo GPS prima fascia 2025: come si compila il campo DURATA LEGALE dell’abilitazione e perché è importante",
@@ -142,7 +143,12 @@
                 "date": "17 Apr 2025",
                 "time": "14:41",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_59277838.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Dirigenti scolastici",
                 "title": "Concorso ordinario dirigenti scolastici, ecco le graduatorie [AGGIORNATO con Lazio]",
@@ -150,13 +156,7 @@
                 "date": "17 Apr 2025",
                 "time": "14:38",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_392166814.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
-            null,
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Nuove Indicazioni Nazionali, Manzi (PD) e Piccolotti (AVS): “Didattica nozionistica e nazionalismo non bastano, serve una scuola aperta, inclusiva e capace di formare pensiero critico” INTERVISTA",
