@@ -3,26 +3,69 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
-                "category": "Cronaca",
-                "title": "Docente si denuda davanti ai propri studenti, “la verità? Siamo in guerra, è un lavoro usurante ed è ‘caduto’. Viviamo tra studenti maleducati e superprotetti dalle famiglie”",
-                "link": "https://www.orizzontescuola.it/docente-si-denuda-davanti-ai-propri-studenti-la-verita-siamo-in-guerra-e-un-lavoro-usurante-ed-e-caduto-viviamo-tra-studenti-maleducati-e-superprotetti-dalle-famiglie/",
-                "date": "18 Apr 2025",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Progetto-senza-titolo-4-1.png"
-            },
-            {
                 "category": "Diventare Insegnanti",
                 "title": "Elenchi aggiuntivi prima fascia GPS docenti 2025: domanda fino al 29 aprile. Chi può inserirsi, in quale provincia [LO SPECIALE] con Video guida completa",
                 "link": "https://www.orizzontescuola.it/elenchi-aggiuntivi-prima-fascia-gps-docenti-2025-chi-puo-inserirsi-quando-in-quale-provincia-lo-speciale/",
-                "date": "17 Apr 2025",
-                "time": "11:08",
+                "date": "19 Apr 2025",
+                "time": "8:47",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Le-prove-equipollenti-3.png"
-            }
+            },
+            null
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Docenti vincitrici concorso PNRR1 in gravidanza: possono completare il percorso abilitante successivamente. NOTA",
+                "link": "https://www.orizzontescuola.it/docenti-vincitrici-concorso-pnrr1-in-gravidanza-possono-completare-il-percorso-abilitante-successivamente-nota/",
+                "date": "19 Apr 2025",
+                "time": "10:05",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_589387949.jpg"
+            },
+            {
+                "category": "Genitori",
+                "title": "Mamme iperprotettive innescano alterazioni funzionali al cervello dei figli. I risultati di due studi dell’Università di Torino",
+                "link": "https://www.orizzontescuola.it/mamme-iperprotettive-innescano-alterazioni-funzionali-al-cervello-dei-figli-i-risultati-di-due-studi-delluniversita-di-torino/",
+                "date": "19 Apr 2025",
+                "time": "10:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1509673499.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Mobilità docenti 25/26: valutazione preruolo nella scuola primaria paritaria e parificata. In ruolo potrebbero non essere valutati servizi che valevano nelle GPS",
+                "link": "https://www.orizzontescuola.it/mobilita-25-26-valutazione-pre-ruolo-nella-scuola-primaria-paritaria-e-parificata-sino-a-quando/",
+                "date": "19 Apr 2025",
+                "time": "9:51",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/02/highway-lights-at-night_925x.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Specializzazione Indire: sarà utile per assunzioni e supplenze, ma non è titolo universitario",
+                "link": "https://www.orizzontescuola.it/specializzazione-indire-sara-utile-per-assunzioni-e-supplenze-ma-non-e-titolo-universitario/",
+                "date": "19 Apr 2025",
+                "time": "9:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_210414061.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Non basta essere insegnanti per ottenere disciplina, tra autorità e autorevolezza. “Guida pratica per insegnanti”: il film che racconta i modelli educativi a scuola",
+                "link": "https://www.orizzontescuola.it/ricevere-autorita-o-guadagnare-autorevolezza-guida-pratica-per-insegnanti-il-film-che-racconta-i-modelli-educativi-a-scuola/",
+                "date": "19 Apr 2025",
+                "time": "9:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/WhatsApp-Image-2025-04-18-at-17.17.52.jpeg"
+            },
+            null,
+            {
+                "category": "ATA",
+                "title": "Graduatorie ATA, il DL PA riconosce servizio figurativo per raggiungere i 24 mesi. Caso (M5S): “Ristabilita l’equità”",
+                "link": "https://www.orizzontescuola.it/graduatorie-ata-il-dl-pa-riconosce-servizio-figurativo-per-raggiungere-i-24-mesi-caso-m5s-ristabilita-lequita/",
+                "date": "19 Apr 2025",
+                "time": "6:47",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_1024012849.jpg"
+            },
+            null,
             {
                 "category": "Scuole",
                 "title": "Organici docenti 2025/26, istruzioni e novità. 5.660 insegnanti in meno per calo alunni, + 1.866 su sostegno. NOTA",
@@ -86,7 +129,12 @@
                 "date": "18 Apr 2025",
                 "time": "16:34",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2467525223.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Percorsi abilitanti 30, 36 e 60 CFU. Nuovo Decreto del Mur: 4.096 posti",
@@ -150,12 +198,7 @@
                 "date": "18 Apr 2025",
                 "time": "12:46",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/collage.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Elenco aggiuntivo prima fascia GPS: la laurea va inserita nei titoli culturali? Pillole di Question Time",
@@ -198,14 +241,6 @@
             },
             {
                 "category": "Politica scolastica",
-                "title": "Graduatorie ATA, il DL PA riconosce servizio figurativo per raggiungere i 24 mesi. Caso (M5S): “Ristabilita l’equità”",
-                "link": "https://www.orizzontescuola.it/graduatorie-ata-il-dl-pa-riconosce-servizio-figurativo-per-raggiungere-i-24-mesi-caso-m5s-ristabilita-lequita/",
-                "date": "18 Apr 2025",
-                "time": "10:47",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_1024012849.jpg"
-            },
-            {
-                "category": "Politica scolastica",
                 "title": "Ulteriori 40 milioni di euro per assicurazione scolastica, tre unità in più per CSPI: spazio anche ai genitori. Emendamenti approvati al Dl PA",
                 "link": "https://www.orizzontescuola.it/ulteriori-40-milioni-di-euro-per-assicurazione-scolastica-tre-unita-in-piu-per-cspi-spazio-anche-ai-genitori-emendamenti-approvati-al-dl-pa/",
                 "date": "18 Apr 2025",
@@ -243,61 +278,36 @@
                 "date": "18 Apr 2025",
                 "time": "9:40",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2456270825.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Alunni stranieri: in 30 anni nella secondaria di II grado aumentano da 4mila a 227mila. Tutte le variazioni per ogni ordine e grado.",
-                "link": "https://www.orizzontescuola.it/evoluzione-della-presenza-degli-studenti-stranieri-nella-scuola-italiana/",
-                "date": "18 Apr 2025",
-                "time": "9:37",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2477767447.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso secondaria PNRR2: convocazioni prova suppletiva 5 maggio. Elenco sedi + aule TAR [ELENCO IN AGGIORNAMENTO]",
-                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-convocazioni-candidati-prova-suppletiva-del-5-maggio-elenco-sedi-aule-tar-elenco-in-aggiornamento/",
-                "date": "18 Apr 2025",
-                "time": "8:24",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_605958425.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Genitori che scelgono il docente di sostegno: c’è chi dice si e c’è chi dice no. Le posizioni a confronto",
-                "link": "https://www.orizzontescuola.it/scelta-del-docente-di-sostegno-ce-chi-dice-si-e-ce-chi-dice-no/",
-                "date": "18 Apr 2025",
-                "time": "8:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1440992648.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Nuove indicazioni nazionali, la voce degli studenti: “Manca partecipazione, storia insegnata in chiave nazionalistica e nessuna attenzione alle diversità”. INTERVISTA",
-                "link": "https://www.orizzontescuola.it/nuove-indicazioni-nazionali-la-voce-degli-studenti-manca-partecipazione-storia-insegnata-in-chiave-nazionalistica-e-nessuna-attenzione-alle-diversita-intervista/",
-                "date": "18 Apr 2025",
-                "time": "8:18",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Screenshot-2025-04-17-alle-16.20.50.png"
-            },
-            {
-                "category": "Cronaca",
-                "title": "No smartphone fino a 14 anni e social fino a 16, la petizione raggiunge 100mila firme",
-                "link": "https://www.orizzontescuola.it/no-smartphone-fino-a-14-anni-e-social-fino-a-16-la-petizione-raggiunge-100mila-firme/",
-                "date": "18 Apr 2025",
-                "time": "8:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/04/shutterstock_220478947.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Appalti, fase finale di aggiudicazione e stipula dei contratti con gli operatori economici: criteri e riferimenti normativi. La guida normativa aggiornata",
-                "link": "https://www.orizzontescuola.it/appalti-fase-finale-di-aggiudicazione-e-stipula-dei-contratti-con-gli-operatori-economici-criteri-e-riferimenti-normativi-la-guida-normativa-aggiornata/",
-                "date": "18 Apr 2025",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2507637571.jpg"
-            },
-            null
+            }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Crepet: “Come state in questo mondo? Io male! Ci vuole una rivoluzione che sa di antico, un ritorno a ciò che è stato”",
+                "link": "https://www.orizzontescuola.it/crepet-come-state-in-questo-mondo-io-male-ci-vuole-una-rivoluzione-che-sa-di-antico-un-ritorno-a-cio-che-e-stato/",
+                "date": "19 Apr 2025",
+                "time": "9:05",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Genitori",
+                "title": "Libri scolastici gratuiti in Toscana: contributo per l’anno scolastico 2025-2026",
+                "link": "https://www.orizzontescuola.it/libri-scolastici-gratuiti-in-toscana-contributo-per-lanno-scolastico-2025-2026/",
+                "date": "19 Apr 2025",
+                "time": "8:56",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "La proposta di Achille Lauro: “Rendere obbligatori l’educazione sessuale, affettiva e finanziaria nelle scuole”. Iniziative isolate e soggette alla sensibilità dei docenti",
+                "link": "https://www.orizzontescuola.it/la-proposta-di-achille-lauro-rendere-obbligatori-leducazione-sessuale-affettiva-e-finanziaria-nelle-scuole-iniziative-isolate-e-soggette-alla-sensibilita-dei-docenti/",
+                "date": "19 Apr 2025",
+                "time": "8:40",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Nuove regole AGCOM: verifica dell’età più rigida per i siti con contenuti vietati ai minori",
@@ -409,30 +419,6 @@
                 "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr1-graduatorie-pubblicate-dopo-il-31-dicembre-2024-per-assunzioni-docenti-nel-2025-26/",
                 "date": "18 Apr 2025",
                 "time": "10:02",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Olimpiade Matematica Femminile: tre medaglie d’oro all’Italia. I complimenti di Valditara: “Voglio incontrare studentesse e docenti”",
-                "link": "https://www.orizzontescuola.it/olimpiade-matematica-femminile-tre-medaglie-doro-allitalia-i-complimenti-di-valditara-voglio-incontrare-studentesse-e-docenti/",
-                "date": "17 Apr 2025",
-                "time": "21:07",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Campionati di Fisica, hanno partecipato 31mila studenti. I quattro vincitori premiati il 12 aprile",
-                "link": "https://www.orizzontescuola.it/campionati-di-fisica-hanno-partecipato-31mila-studenti-i-quattro-vincitori-premiati-il-12-aprile/",
-                "date": "17 Apr 2025",
-                "time": "20:55",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "60 anni dalla centrale solare a specchi di Giovanni Francia a Sant’Ilario: ciclo di conferenze all’Istituto Marsano",
-                "link": "https://www.orizzontescuola.it/60-anni-dalla-centrale-solare-a-specchi-di-giovanni-francia-a-santilario-ciclo-di-conferenze-allistituto-marsano/",
-                "date": "17 Apr 2025",
-                "time": "20:17",
                 "image_link": "N/A"
             }
         ]
@@ -559,6 +545,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Elenchi aggiuntivi GPS prima fascia 2025: no Servizio civile nazionale, sì universale per concorrere alla riserva dei posti. Ecco perché",
+                "link": "https://www.orizzontescuola.it/elenchi-aggiuntivi-gps-prima-fascia-2025-no-servizio-civile-nazionale-si-universale-per-concorrere-alla-riserva-dei-posti-ecco-perche/",
+                "date": "17 Apr 2025",
+                "time": "10:08",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Docenti vincitori concorso PNRR1 ammessi in sovrannumero ai percorsi abilitanti 30 e 36 CFU: devono iscriversi agli elenchi aggiuntivi prima fascia GPS?",
                 "link": "https://www.orizzontescuola.it/docenti-vincitori-concorso-pnrr1-ammessi-in-sovrannumero-ai-percorsi-abilitanti-30-e-36-cfu-devono-iscriversi-agli-elenchi-aggiuntivi-prima-fascia-gps/",
                 "date": "16 Apr 2025",
@@ -596,14 +590,6 @@
                 "date": "16 Apr 2025",
                 "time": "11:25",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/09/shutterstock_393077005.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Elenchi aggiuntivi GPS prima fascia 2025: si inseriranno con abilitazione aspiranti che a giugno non erano ancora laureandi. NOVITÀ",
-                "link": "https://www.orizzontescuola.it/elenchi-aggiuntivi-gps-prima-fascia-2025-si-inseriranno-con-abilitazione-aspiranti-che-a-giugno-non-erano-ancora-laureandi-novita/",
-                "date": "16 Apr 2025",
-                "time": "10:19",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2003113223.jpg"
             }
         ]
     },
