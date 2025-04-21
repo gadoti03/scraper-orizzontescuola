@@ -25,11 +25,67 @@
         "articles": [
             {
                 "category": "Cronaca",
+                "title": "Allarme sedentarietà tra i giovani, il piano del Ministro Abodi per portare più sport a scuola: aumento delle ore, più insegnanti",
+                "link": "https://www.orizzontescuola.it/allarme-sedentarieta-tra-i-giovani-il-piano-del-ministro-abodi-per-portare-piu-sport-a-scuola-aumento-delle-ore-piu-insegnanti/",
+                "date": "21 Apr 2025",
+                "time": "21:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_1448012645.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Lavoratori fragili, un diritto in più, la Camera dice sì a congedi e permessi fino a 24 mesi. Cosa è previsto",
+                "link": "https://www.orizzontescuola.it/lavoratori-fragili-un-diritto-in-piu-la-camera-dice-si-a-congedi-e-permessi-fino-a-24-mesi-cosa-e-previsto/",
+                "date": "21 Apr 2025",
+                "time": "20:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/10/medic-563425_960_720.jpg"
+            },
+            {
+                "category": "Studenti",
+                "title": "Non solo svogliati: la profonda tristezza degli adolescenti di oggi. Tra isolamento digitale e incertezze globali, come possiamo aiutare la “generazione fantasma” a ritrovare la luce?",
+                "link": "https://www.orizzontescuola.it/non-solo-svogliati-la-profonda-tristezza-degli-adolescenti-di-oggi-tra-isolamento-digitale-e-incertezze-globali-come-possiamo-aiutare-la-generazione-fantasma-a-ritrovare-la-luce/",
+                "date": "21 Apr 2025",
+                "time": "19:59",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_1996217258.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Non chiamateli “scuole di serie B”: il grido social contro i pregiudizi sugli istituti professionali. Un problema culturale che frena il Paese",
+                "link": "https://www.orizzontescuola.it/non-chiamateli-scuole-di-serie-b-il-grido-social-contro-i-pregiudizi-sugli-istituti-professionali-un-problema-culturale-che-frena-il-paese/",
+                "date": "21 Apr 2025",
+                "time": "19:36",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2010529337.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Cattedra orario esterna: la sua composizione può variare da un anno scolastico all’altro. In quale caso il docente conserva la titolarità nella scuola?",
+                "link": "https://www.orizzontescuola.it/cattedra-orario-esterna-la-sua-composizione-puo-variare-da-un-anno-scolastico-allaltro-in-quale-caso-il-docente-conserva-la-titolarita-nella-scuola/",
+                "date": "21 Apr 2025",
+                "time": "19:08",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_244451953-scaled.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Galimberti: “Il cellulare ci rende paranoici. Non è tecnica, è patologia”. Il filosofo svela i danni nascosti dello smartphone: addio alla socializzazione vera",
+                "link": "https://www.orizzontescuola.it/galimberti-il-cellulare-ci-rende-paranoici-non-e-tecnica-e-patologia-il-filosofo-svela-i-danni-nascosti-dello-smartphone-addio-socializzazione-vera-benvenuta-schiavitu-e-controllo-totale/",
+                "date": "21 Apr 2025",
+                "time": "18:58",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/Galimberti.png"
+            },
+            {
+                "category": "Cronaca",
                 "title": "“Ci trattano da morti di fame, ci danno ordini e si vantano di scarpe da 500 euro”. Tra mancanza di rispetto e aggressioni, la professione insegnante al limite. Cosa sta succedendo nelle nostre classi?",
                 "link": "https://www.orizzontescuola.it/ci-trattano-da-morti-di-fame-ci-danno-ordini-e-si-vantano-di-scarpe-da-500-euro-tra-mancanza-di-rispetto-e-aggressioni-la-professione-insegnante-al-limite-cosa-sta-succedendo-nelle-nostre-clas/",
                 "date": "21 Apr 2025",
                 "time": "18:21",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_2055435548.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Elenchi aggiuntivi I fascia GPS: le info utili per la compilazione della domanda. QUESTION TIME con Cannas. LIVE Martedì 22 aprile alle 14:30",
+                "link": "https://www.orizzontescuola.it/elenchi-aggiuntivi-i-fascia-gps-le-info-utili-per-la-compilazione-della-domanda-question-time-con-cannas-live-martedi-22-aprile-alle-1430/",
+                "date": "21 Apr 2025",
+                "time": "18:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Template_questiontime_1920x1080-5.png"
             },
             {
                 "category": "Chiedilo a Lalla",
@@ -94,7 +150,12 @@
                 "date": "21 Apr 2025",
                 "time": "11:47",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1470994163-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "DSGA",
                 "title": "Oltre l’80% dei DSGA è emotivamente esausto: i numeri shock dell’indagine ANQUAP-LUMSA",
@@ -136,26 +197,13 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/05/rails-253134_960_720.jpg"
             },
             {
-                "category": "Chiedilo a Lalla",
-                "title": "Elenchi aggiuntivi I fascia GPS: le info utili per la compilazione della domanda. QUESTION TIME con Cannas. LIVE Martedì 22 aprile alle 14:30",
-                "link": "https://www.orizzontescuola.it/elenchi-aggiuntivi-i-fascia-gps-le-info-utili-per-la-compilazione-della-domanda-question-time-con-cannas-live-martedi-22-aprile-alle-1430/",
-                "date": "21 Apr 2025",
-                "time": "9:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Template_questiontime_1920x1080-5.png"
-            },
-            {
                 "category": "Cronaca",
                 "title": "Cacciari: “I giovani non sanno nuotare nel fiume in piena dei social”. Perché la scuola è l’unico salvagente contro la disinformazione e il disinteresse",
                 "link": "https://www.orizzontescuola.it/cacciari-i-giovani-non-sanno-nuotare-nel-fiume-in-piena-dei-social-perche-la-scuola-e-lunico-salvagente-contro-la-disinformazione-e-il-disinteresse-unanalisi-tagliente-sulla-crisi-del-disce/",
                 "date": "21 Apr 2025",
                 "time": "9:12",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Cacciari.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Bocciatura legittima per studente con disturbo dell’attenzione. Non basta il PDP se gli strumenti compensativi non sono utilizzati. Cosa hanno deciso i giudici. SENTENZA",
@@ -251,60 +299,20 @@
                 "date": "20 Apr 2025",
                 "time": "16:15",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2502117529.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Inserimento negli elenchi aggiuntivi GPS 2025: vale anche anche la laurea? Il punto di partenza è l’abilitazione, prima fascia diversa dalla seconda",
-                "link": "https://www.orizzontescuola.it/inserimento-negli-elenchi-aggiuntivi-gps-2025-si-puo-dichiarare-anche-la-laurea/",
-                "date": "20 Apr 2025",
-                "time": "15:14",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_594891590.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Bambini tra 8 e 9 anni: 35% consuma alimenti inadeguati (snack dolci e bevande zuccherate). Solo il 18% fa attività fisica adeguata. I dati",
-                "link": "https://www.orizzontescuola.it/bambini-tra-8-e-9-anni-35-consuma-alimenti-inadeguati-snack-dolci-e-bevande-zuccherate-solo-il-18-fa-attivita-fisica-adeguata-i-dati/",
-                "date": "20 Apr 2025",
-                "time": "13:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2181549273.jpg"
-            },
-            {
-                "category": "Studenti",
-                "title": "Dama e scacchi in classe: come gli sport della mente abbattono le barriere e potenziano le competenze chiave, trasformando inclusione scolastica in un laboratorio di crescita per gli studenti",
-                "link": "https://www.orizzontescuola.it/dama-e-scacchi-in-classe-come-gli-sport-della-mente-abbattono-le-barriere-e-potenziano-le-competenze-chiave-trasformando-inclusione-scolastica-in-un-laboratorio-di-crescita-per-tutti-gli-studenti/",
-                "date": "20 Apr 2025",
-                "time": "12:37",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1823157998-scaled.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Scuola senza animali: la sfida della LAV per una didattica cruelty-free tra nuove tecnologie, formazione docenti e ostacoli culturali",
-                "link": "https://www.orizzontescuola.it/didattica-senza-animali-la-lav-promuove-metodi-alternativi-nelle-scuole/",
-                "date": "20 Apr 2025",
-                "time": "11:23",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2518075039-scaled.jpg"
-            },
-            {
-                "category": "Guide",
-                "title": "Infortunio di uno studente, quali sono i compiti del docente? La scheda",
-                "link": "https://www.orizzontescuola.it/infortunio-di-uno-studente-quali-sono-i-compiti-del-docente-la-scheda/",
-                "date": "20 Apr 2025",
-                "time": "10:57",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_1054539767-scaled.jpg"
-            },
-            {
-                "category": "Genitori",
-                "title": "“Mio figlio? Mai fatto nulla!”, il muro dei genitori che negano ogni colpa. Dalla solidarietà allo scontro: perché mamma e papà oggi difendono i figli contro la scuola?",
-                "link": "https://www.orizzontescuola.it/mio-figlio-mai-fatto-nulla-il-muro-dei-genitori-che-negano-ogni-colpa-dalla-solidarieta-allo-scontro-perche-mamma-e-papa-oggi-difendono-i-figli-contro-la-scuola/",
-                "date": "20 Apr 2025",
-                "time": "10:29",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/k2_items_src_302fe64eb400d4cde4e3cd8818aac524.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Stipendi, a giugno +400 euro: rimborso per il taglio del cuneo fiscale raggiunto dopo la diffida Anief che chiede 2 miliardi nelle prossime Leggi di Bilancio per aumenti ulteriori di 500 euro mensili dal 2030 e parità retributiva PA",
+                "link": "https://www.orizzontescuola.it/stipendi-a-giugno-400-euro-rimborso-per-il-taglio-del-cuneo-fiscale-raggiunto-dopo-la-diffida-anief-che-chiede-2-miliardi-nelle-prossime-leggi-di-bilancio-per-aumenti-ulteriori-di-500-euro-mensili/",
+                "date": "21 Apr 2025",
+                "time": "20:10",
+                "image_link": "N/A"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Dal 2027 serviranno tre mesi in più, docenti e Ata devono avere la possibilità di anticipare come i militari e riscattare la laurea a 900 euro l’anno: al Senato si attendono i pareri delle Commissioni sulla proposta Bucalo",
@@ -439,14 +447,6 @@
                 "link": "https://www.orizzontescuola.it/crepet-come-state-in-questo-mondo-io-male-ci-vuole-una-rivoluzione-che-sa-di-antico-un-ritorno-a-cio-che-e-stato/",
                 "date": "19 Apr 2025",
                 "time": "9:05",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Genitori",
-                "title": "Libri scolastici gratuiti in Toscana: contributo per l’anno scolastico 2025-2026",
-                "link": "https://www.orizzontescuola.it/libri-scolastici-gratuiti-in-toscana-contributo-per-lanno-scolastico-2025-2026/",
-                "date": "19 Apr 2025",
-                "time": "8:56",
                 "image_link": "N/A"
             }
         ]
