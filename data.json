@@ -24,6 +24,62 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Genitori",
+                "title": "Figli in arrivo? C’è un bonus da 1.000 euro: scopri chi può richiederlo e come fare domanda. Le info utili",
+                "link": "https://www.orizzontescuola.it/figli-in-arrivo-ce-un-bonus-da-1-000-euro-scopri-chi-puo-richiederlo-e-come-fare-domanda-le-info-utili/",
+                "date": "21 Apr 2025",
+                "time": "14:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_1866188491.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Scelta delle 20 scuole per le graduatorie d’istituto negli elenchi aggiuntivi GPS 2025. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/scelta-delle-20-scuole-per-le-graduatorie-distituto-negli-elenchi-aggiuntivi-gps-2025-pillole-di-question-time/",
+                "date": "21 Apr 2025",
+                "time": "12:31",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1108194551.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Genitori nell’era digitale: tra “deep-fake-self” e realtà. Come guidare i figli a costruire un’identità autentica lontano dal flusso online? Le parole di Alessandro D’Avenia",
+                "link": "https://www.orizzontescuola.it/genitori-nellera-digitale-tra-deep-fake-self-e-realta-come-guidare-i-figli-a-costruire-unidentita-autentica-lontano-dal-flusso-online-le-parole-di-alessandro-davenia/",
+                "date": "21 Apr 2025",
+                "time": "12:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/DAvenia.jpg"
+            },
+            {
+                "category": "Genitori",
+                "title": "Stefano Accorsi: “Essere genitori è il mestiere più difficile del mondo”. Come capire i nostri figli? La fragilità della famiglia ai tempi dei social",
+                "link": "https://www.orizzontescuola.it/stefano-accorsi-essere-genitori-e-il-mestiere-piu-difficile-del-mondo-non-ce-mai-stato-un-gap-generazionale-come-ora-come-capire-i-nostri-figli-la-fragilita-della-famiglia-ai-tempi-dei-socia/",
+                "date": "21 Apr 2025",
+                "time": "11:47",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1470994163-scaled.jpg"
+            },
+            {
+                "category": "DSGA",
+                "title": "Oltre l’80% dei DSGA è emotivamente esausto: i numeri shock dell’indagine ANQUAP-LUMSA",
+                "link": "https://www.orizzontescuola.it/oltre-l80-dei-dsga-e-emotivamente-esausto-i-numeri-shock-dellindagine-anquap-lumsa/",
+                "date": "21 Apr 2025",
+                "time": "11:45",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_371992348.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Non solo voti, la lezione di Schettini. Perché la fisica (e la scuola) devono emozionare per conquistare i ragazzi nell’era dei social",
+                "link": "https://www.orizzontescuola.it/non-solo-vot-la-lezione-di-schettini-perche-la-fisica-e-la-scuola-devono-emozionare-per-conquistare-i-ragazzi-nellera-dei-social/",
+                "date": "21 Apr 2025",
+                "time": "11:17",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/Schettini.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Gelosia 2.0 e ceffoni “educativi”: perché la scuola non può più ignorare la violenza che i ragazzi imparano online (e non solo)",
+                "link": "https://www.orizzontescuola.it/gelosia-2-0-e-ceffoni-educativi-perche-la-scuola-non-puo-piu-ignorare-la-violenza-che-i-ragazzi-imparano-online-e-non-solo/",
+                "date": "21 Apr 2025",
+                "time": "10:38",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_1205245405.jpg"
+            },
+            {
                 "category": "Cronaca",
                 "title": "È morto Papa Francesco, addio al Pontefice “venuto dalla fine del mondo”. Quando ha denunciato “la catastrofe educativa” e la crisi del rapporto tra scuola e famiglia",
                 "link": "https://www.orizzontescuola.it/e-morto-papa-francesco/",
@@ -94,7 +150,12 @@
                 "date": "20 Apr 2025",
                 "time": "19:41",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1900580035-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Studente muore in gita dopo 3 giorni in ospedale. La famiglia sporge denuncia, la Procura indaga su una docente accompagnatrice: “Atto dovuto”. I colleghi: “La verità verrà a galla, fiduciosi sulla sua innocenza”",
@@ -150,12 +211,7 @@
                 "date": "20 Apr 2025",
                 "time": "16:15",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2502117529.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Inserimento negli elenchi aggiuntivi GPS 2025: vale anche anche la laurea? Il punto di partenza è l’abilitazione, prima fascia diversa dalla seconda",
@@ -236,55 +292,6 @@
                 "date": "20 Apr 2025",
                 "time": "7:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_2283738385.jpg"
-            },
-            null,
-            {
-                "category": "Cronaca",
-                "title": "Schwa: a Padova finisce in un giornalino scolastico e la dirigente dà lo stop. Il caso diventa politico, tra libertà d’espressione e direttive ministeriali",
-                "link": "https://www.orizzontescuola.it/schwa-a-padova-finisce-in-un-giornalino-scolastico-e-la-dirigente-da-lo-stop-il-caso-diventa-politico-tra-liberta-despressione-e-direttive-ministeriali/",
-                "date": "20 Apr 2025",
-                "time": "6:36",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/swə.png"
-            },
-            {
-                "category": "ATA",
-                "title": "Graduatorie terza fascia ATA: ho inserito una CIAD non valida, posso presentare un’altra certificazione?",
-                "link": "https://www.orizzontescuola.it/graduatorie-terza-fascia-ata-ho-inserito-una-ciad-non-valida-posso-presentare-unaltra-certificazione/",
-                "date": "19 Apr 2025",
-                "time": "18:24",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_117139291.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Stipendi docenti, entro il 2030 aumenti medi di 500 euro: lo propone Cisal, in accordo con Anief",
-                "link": "https://www.orizzontescuola.it/stipendi-docenti-entro-il-2030-aumenti-medi-di-500-euro-lo-propone-cisal-in-accordo-con-anief/",
-                "date": "19 Apr 2025",
-                "time": "17:38",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/WhatsApp.Image_.2023.03.29.at_.18.20.04.1.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Quando si rientra a scuola dalle vacanze di Pasqua: le date dei calendari scolastici regionali",
-                "link": "https://www.orizzontescuola.it/quando-si-rientra-a-scuola-dalle-vacanze-di-pasqua-le-date-dei-calendari-scolastici-regionali/",
-                "date": "19 Apr 2025",
-                "time": "17:13",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_2002803581-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti 2024/25: i posti sono 79.479. Ecco in quali regioni e Università sono stati assegnati i 4.096 del terzo decreto",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-da-60-30-e-36-cfu-per-il-2024-25-ci-saranno-tutte-le-classi-di-concorso-quando-i-bandi-ecco-cosa-dicono-le-universita/",
-                "date": "19 Apr 2025",
-                "time": "16:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Assistenti di lingua italiana all’estero 2025/26: pubblicate le graduatorie provvisorie",
-                "link": "https://www.orizzontescuola.it/assistenti-di-lingua-italiana-allestero-2025-26-pubblicate-le-graduatorie-provvisorie/",
-                "date": "19 Apr 2025",
-                "time": "16:39",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1129962923-scaled.jpg"
             }
         ]
     },
@@ -559,6 +566,38 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Specializzazione Indire: sarà utile per assunzioni e supplenze, ma non è titolo universitario",
+                "link": "https://www.orizzontescuola.it/specializzazione-indire-sara-utile-per-assunzioni-e-supplenze-ma-non-e-titolo-universitario/",
+                "date": "19 Apr 2025",
+                "time": "9:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_210414061.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Elenchi aggiuntivi GPS 2025: titoli, preferenze e riserve. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/elenchi-aggiuntivi-gps-2025-titoli-preferenze-e-riserve-tutte-le-info-utili-live-17-aprile-bufanini/",
+                "date": "18 Apr 2025",
+                "time": "17:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_687037513.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Elenco aggiuntivo prima fascia GPS per ed. motoria alla primaria: ecco chi può inserirsi. Pillole di Question Time e GUIDA per immagini",
+                "link": "https://www.orizzontescuola.it/elenco-aggiuntivo-prima-fascia-gps-per-ed-motoria-alla-primaria-ecco-chi-puo-inserirsi-pillole-di-questiontime-e-guida-per-immagini/",
+                "date": "18 Apr 2025",
+                "time": "16:35",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2120807768.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Percorsi abilitanti 30, 36 e 60 CFU. Nuovo Decreto del Mur: 4.096 posti",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-30-36-e-60-cfu-terzo-decreto-del-mur-4-096-posti/",
+                "date": "18 Apr 2025",
+                "time": "16:18",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2471325395.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Concorso secondaria PNRR2, ecco le convocazioni per la prova orale. Si comincia a maggio [IN AGGIORNAMENTO]",
                 "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-ecco-le-convocazioni-per-la-prova-orale-si-comincia-a-maggio-in-aggiornamento/",
                 "date": "18 Apr 2025",
@@ -572,38 +611,6 @@
                 "date": "18 Apr 2025",
                 "time": "14:33",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_2112409937-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti secondaria PNRR2. chi non partecipa alla suppletiva mantiene “il proprio punteggio”.  Cosa significa",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-secondaria-pnrr2-chi-non-partecipa-alla-suppletiva-mantiene-il-proprio-punteggio-cosa-significa/",
-                "date": "18 Apr 2025",
-                "time": "13:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1907915515.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Elenco aggiuntivo prima fascia GPS: la laurea va inserita nei titoli culturali? Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/elenco-aggiuntivo-prima-fascia-gps-la-laurea-va-inserita-nei-titoli-culturali-pillole-di-question-time/",
-                "date": "18 Apr 2025",
-                "time": "12:28",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_1065259865.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso secondaria PNRR2, ecco il voto minimo per accedere alla PROVA ORALE per classe di concorso e regione [IN AGGIORNAMENTO]",
-                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-ecco-il-voto-minimo-per-accedere-alla-prova-orale-per-classe-di-concorso-e-regione-in-aggiornamento/",
-                "date": "18 Apr 2025",
-                "time": "10:17",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_59277838.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Superamento concorso PNRR1: quando è possibile dichiararlo nell’elenco aggiuntivo alle GPS. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/superamento-concorso-pnrr1-quando-e-possibile-dichiararlo-nellelenco-aggiuntivo-alle-gps-pillole-di-questiontime/",
-                "date": "18 Apr 2025",
-                "time": "9:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2456270825.jpg"
             }
         ]
     },
@@ -718,6 +725,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Disobbedienza silenziosa: la scuola nell’era dell’IA. Lettera",
+                "link": "https://www.orizzontescuola.it/disobbedienza-silenziosa-la-scuola-nellera-dellia-lettera/",
+                "date": "21 Apr 2025",
+                "time": "10:50",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "Festività pasquali: come stanno trascorrendo questi giorni i nostri studenti? Lettera",
                 "link": "https://www.orizzontescuola.it/festivita-pasquali-come-stanno-trascorrendo-questi-giorni-i-nostri-studenti-lettera/",
                 "date": "20 Apr 2025",
@@ -754,14 +769,6 @@
                 "link": "https://www.orizzontescuola.it/la-scuola-uccide-la-creativita-lettera/",
                 "date": "16 Apr 2025",
                 "time": "8:56",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Scuola 4.0, intelligenza artificiale e segreterie smemorate: quando l’innovazione dimentica il buon senso. Lettera",
-                "link": "https://www.orizzontescuola.it/scuola-4-0-intelligenza-artificiale-e-segreterie-smemorate-quando-linnovazione-dimentica-il-buon-senso-lettera/",
-                "date": "15 Apr 2025",
-                "time": "17:46",
                 "image_link": "N/A"
             }
         ]
