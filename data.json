@@ -24,6 +24,62 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "È morto Papa Francesco, addio al Pontefice “venuto dalla fine del mondo”. Quando ha denunciato “la catastrofe educativa” e la crisi del rapporto tra scuola e famiglia",
+                "link": "https://www.orizzontescuola.it/e-morto-papa-francesco/",
+                "date": "21 Apr 2025",
+                "time": "9:58",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_555444547.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Mobilità 2025/26: docenti perdenti posto superano vincoli. Quali preferenze esprimere?",
+                "link": "https://www.orizzontescuola.it/mobilita-2025-26-perdenti-posto-superano-vincolo-neoassunti-o-dovuto-a-preferenza-quali-preferenze-esprimere/",
+                "date": "21 Apr 2025",
+                "time": "9:51",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/05/rails-253134_960_720.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Elenchi aggiuntivi I fascia GPS: le info utili per la compilazione della domanda. QUESTION TIME con Cannas. LIVE Martedì 22 aprile alle 14:30",
+                "link": "https://www.orizzontescuola.it/elenchi-aggiuntivi-i-fascia-gps-le-info-utili-per-la-compilazione-della-domanda-question-time-con-cannas-live-martedi-22-aprile-alle-1430/",
+                "date": "21 Apr 2025",
+                "time": "9:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Template_questiontime_1920x1080-5.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Cacciari: “I giovani non sanno nuotare nel fiume in piena dei social”. Perché la scuola è l’unico salvagente contro la disinformazione e il disinteresse",
+                "link": "https://www.orizzontescuola.it/cacciari-i-giovani-non-sanno-nuotare-nel-fiume-in-piena-dei-social-perche-la-scuola-e-lunico-salvagente-contro-la-disinformazione-e-il-disinteresse-unanalisi-tagliente-sulla-crisi-del-disce/",
+                "date": "21 Apr 2025",
+                "time": "9:12",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Cacciari.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Bocciatura legittima per studente con disturbo dell’attenzione. Non basta il PDP se gli strumenti compensativi non sono utilizzati. Cosa hanno deciso i giudici. SENTENZA",
+                "link": "https://www.orizzontescuola.it/bocciatura-legittima-per-studente-con-dsa-non-basta-il-pdp-se-gli-strumenti-compensativi-non-sono-utilizzati-cosa-hanno-deciso-i-giudici-sentenza/",
+                "date": "21 Apr 2025",
+                "time": "8:38",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_675123196.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“La Scuola” compie 30 anni: risate amare e verità scomode tra i banchi che non passano mai di moda. Perché il film con Silvio Orlando resta uno specchio impietoso e divertente del nostro sistema educativo",
+                "link": "https://www.orizzontescuola.it/la-scuola-compie-30-anni-risate-amare-e-verita-scomode-tra-i-banchi-che-non-passano-mai-di-moda-perche-il-film-con-silvio-orlando-resta-uno-specchio-impietoso-e-divertente-del-nostro-sistema-edu/",
+                "date": "21 Apr 2025",
+                "time": "8:25",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_501230170-scaled.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Il futuro secondo Bill Gates: l’IA renderà gli umani “non più necessari per la maggior parte delle cose”. La rivoluzione del lavoro e l’impatto su scuola e professioni: siamo pronti al futuro?",
+                "link": "https://www.orizzontescuola.it/il-futuro-secondo-bill-gates-lia-rendera-gli-umani-non-piu-necessari-per-la-maggior-parte-delle-cose-la-rivoluzione-del-lavoro-e-limpatto-su-scuola-e-professioni-siamo-pronti-al-futuro/",
+                "date": "21 Apr 2025",
+                "time": "8:14",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_1070620838-scaled.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Graduatoria GPS, elenco aggiuntivo 2025: se il titolo CLIL è già stato rettificato per la seconda fascia, non va importato. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/graduatoria-gps-elenco-aggiuntivo-2025-se-il-titolo-clil-e-gia-stato-rettificato-per-la-seconda-fascia-non-va-importato-pillole-di-questiontime/",
@@ -94,7 +150,12 @@
                 "date": "20 Apr 2025",
                 "time": "16:15",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2502117529.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Inserimento negli elenchi aggiuntivi GPS 2025: vale anche anche la laurea? Il punto di partenza è l’abilitazione, prima fascia diversa dalla seconda",
@@ -150,12 +211,7 @@
                 "date": "20 Apr 2025",
                 "time": "9:44",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_679705426.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Gite scolastiche in crisi: tra carovita e docenti indisponibili, come stanno cambiando i viaggi d’istruzione? Dati, soluzioni alternative e il rischio di un’istruzione a due velocità",
@@ -229,68 +285,36 @@
                 "date": "19 Apr 2025",
                 "time": "16:39",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1129962923-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Elenchi aggiuntivi GPS 2025 docenti: i consigli utili per non sbagliare la  compilazione della domanda",
-                "link": "https://www.orizzontescuola.it/elenchi-aggiuntivi-gps-2025-docenti-i-consigli-utili-per-non-sbagliare-la-compilazione-della-domanda/",
-                "date": "19 Apr 2025",
-                "time": "16:36",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_130754711.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Durante il percorso abilitante è possibile insegnare, ecco come si assegna il punteggio. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/durante-il-percorso-abilitante-e-possibile-insegnare-ecco-come-si-assegna-il-punteggio-pillole-di-question-time/",
-                "date": "19 Apr 2025",
-                "time": "14:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_1049423483.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso scuola secondaria PNRR2, quale USR guardare per capire se si è stati ammessi alla prova orale",
-                "link": "https://www.orizzontescuola.it/concorso-scuola-secondaria-pnrr2-quale-usr-guardare-per-capire-se-si-e-stati-ammessi-alla-prova-orale/",
-                "date": "19 Apr 2025",
-                "time": "12:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_1719924733.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Mobilità personale ATA 2025, arrivano le notifiche. Reclami e rettifiche entro 10 giorni",
-                "link": "https://www.orizzontescuola.it/mobilita-personale-ata-2025-arrivano-le-notifiche-reclami-e-rettifiche-entro-10-giorni/",
-                "date": "19 Apr 2025",
-                "time": "11:05",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2198390061.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Docenti vincitrici concorso PNRR1 in gravidanza: possono completare il percorso abilitante successivamente. NOTA",
-                "link": "https://www.orizzontescuola.it/docenti-vincitrici-concorso-pnrr1-in-gravidanza-possono-completare-il-percorso-abilitante-successivamente-nota/",
-                "date": "19 Apr 2025",
-                "time": "10:05",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_589387949.jpg"
-            },
-            {
-                "category": "Genitori",
-                "title": "Mamme iperprotettive innescano alterazioni funzionali al cervello dei figli. I risultati di due studi dell’Università di Torino",
-                "link": "https://www.orizzontescuola.it/mamme-iperprotettive-innescano-alterazioni-funzionali-al-cervello-dei-figli-i-risultati-di-due-studi-delluniversita-di-torino/",
-                "date": "19 Apr 2025",
-                "time": "10:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1509673499.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Mobilità docenti 25/26: valutazione preruolo nella scuola primaria paritaria e parificata. In ruolo potrebbero non essere valutati servizi che valevano nelle GPS",
-                "link": "https://www.orizzontescuola.it/mobilita-25-26-valutazione-pre-ruolo-nella-scuola-primaria-paritaria-e-parificata-sino-a-quando/",
-                "date": "19 Apr 2025",
-                "time": "9:51",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/02/highway-lights-at-night_925x.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Condannati genitori contrari alle mascherine in classe, avevano denunciato Dirigente, vicepreside e coordinatore di classe. “Soldi di risarcimento in beneficenza”",
+                "link": "https://www.orizzontescuola.it/condannati-genitori-contrari-alle-mascherine-in-classe-avevano-denunciato-dirigente-vicepreside-e-coordinatore-di-classe-soldi-di-risarcimento-in-beneficenza/",
+                "date": "21 Apr 2025",
+                "time": "9:23",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Il 99,5% degli studenti italiani è promosso, Crepet: “Mi spiegate come si fa ad essere bocciati questo paese”",
+                "link": "https://www.orizzontescuola.it/il-995-degli-studenti-italiani-e-promosso-crepet-mi-spiegate-come-si-fa-ad-essere-bocciati-questo-paese/",
+                "date": "21 Apr 2025",
+                "time": "8:07",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Il fenomeno delle babygang, “Mamme, fate andare i vostri figli in gruppo e dite loro di non restare mai isolati”",
+                "link": "https://www.orizzontescuola.it/il-fenomeno-delle-babygang-mamme-fate-andare-i-vostri-figli-in-gruppo-e-dite-loro-di-non-restare-mai-isolati/",
+                "date": "21 Apr 2025",
+                "time": "6:59",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Notifiche a valore legale in un click: come funziona la nuova integrazione tra app IO e Send che elimina la burocrazia cartacea",
@@ -410,36 +434,20 @@
                 "date": "19 Apr 2025",
                 "time": "8:40",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Nuove regole AGCOM: verifica dell’età più rigida per i siti con contenuti vietati ai minori",
-                "link": "https://www.orizzontescuola.it/nuove-regole-agcom-verifica-delleta-piu-rigida-per-i-siti-con-contenuti-vietati-ai-minori/",
-                "date": "18 Apr 2025",
-                "time": "19:19",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Addio a Carla Rinaldi, il ricordo di Novara: “Riferimento per chi valorizza la differenza infantile e rifiuta l’approccio clinico”",
-                "link": "https://www.orizzontescuola.it/addio-a-carla-rinaldi-il-ricordo-di-novara-riferimento-per-chi-valorizza-la-differenza-infantile-e-rifiuta-lapproccio-clinico/",
-                "date": "18 Apr 2025",
-                "time": "18:56",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Elezioni RSU, Anief: “Secondo prime proiezioni, crescita 2% con 20 mila voti in più rispetto a 2022. Rappresentatività in salita al 9%”",
-                "link": "https://www.orizzontescuola.it/elezioni-rsu-anief-secondo-prime-proiezioni-crescita-2-con-20-mila-voti-in-piu-rispetto-a-2022-rappresentativita-in-salita-al-9/",
-                "date": "18 Apr 2025",
-                "time": "17:40",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Mobilità docenti 25/26: valutazione preruolo nella scuola primaria paritaria e parificata. In ruolo potrebbero non essere valutati servizi che valevano nelle GPS",
+                "link": "https://www.orizzontescuola.it/mobilita-25-26-valutazione-pre-ruolo-nella-scuola-primaria-paritaria-e-parificata-sino-a-quando/",
+                "date": "19 Apr 2025",
+                "time": "9:51",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Graduatoria interna di istituto docenti: pre-ruolo svolto nel primo e nel secondo grado. Quale si valuta?",
@@ -543,20 +551,36 @@
                 "date": "12 Apr 2025",
                 "time": "9:51",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Elenchi aggiuntivi alla prima fascia GPS: potranno inserirsi anche diplomati magistrale entro a.s. 2001/02",
-                "link": "https://www.orizzontescuola.it/elenchi-aggiuntivi-alla-prima-fascia-gps-potranno-inserirsi-anche-diplomati-magistrale-entro-a-s-2001-02/",
-                "date": "11 Apr 2025",
-                "time": "8:51",
-                "image_link": "N/A"
             }
         ]
     },
     "group_6": {
         "title": "Diventare Insegnanti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso secondaria PNRR2, ecco le convocazioni per la prova orale. Si comincia a maggio [IN AGGIORNAMENTO]",
+                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-ecco-le-convocazioni-per-la-prova-orale-si-comincia-a-maggio-in-aggiornamento/",
+                "date": "18 Apr 2025",
+                "time": "14:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Legge 104 per assistenza al genitore: si applica nella scelta delle 150 preferenze, non va indicata nella domanda entro il 29 aprile. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/legge-104-per-assistenza-al-genitore-si-applica-nella-scelta-delle-150-preferenze-non-va-indicata-nella-domanda-entro-il-29-aprile-pillole-di-questiontime/",
+                "date": "18 Apr 2025",
+                "time": "14:33",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_2112409937-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti secondaria PNRR2. chi non partecipa alla suppletiva mantiene “il proprio punteggio”.  Cosa significa",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-secondaria-pnrr2-chi-non-partecipa-alla-suppletiva-mantiene-il-proprio-punteggio-cosa-significa/",
+                "date": "18 Apr 2025",
+                "time": "13:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1907915515.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Elenco aggiuntivo prima fascia GPS: la laurea va inserita nei titoli culturali? Pillole di Question Time",
@@ -580,36 +604,20 @@
                 "date": "18 Apr 2025",
                 "time": "9:40",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2456270825.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso secondaria PNRR2: convocazioni prova suppletiva 5 maggio. Elenco sedi + aule TAR [ELENCO IN AGGIORNAMENTO]",
-                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-convocazioni-candidati-prova-suppletiva-del-5-maggio-elenco-sedi-aule-tar-elenco-in-aggiornamento/",
-                "date": "18 Apr 2025",
-                "time": "8:24",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_605958425.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Elenco aggiuntivo GPS prima fascia 2025: come si compila il campo DURATA LEGALE dell’abilitazione e perché è importante",
-                "link": "https://www.orizzontescuola.it/elenco-aggiuntivo-gps-prima-fascia-2025-come-si-compila-il-campo-durata-legale-dellabilitazione-e-perche-e-importante/",
-                "date": "17 Apr 2025",
-                "time": "19:22",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2120807768.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Docenti vincitori concorso PNRR1 dei percorsi di completamento possono svolgere tirocinio anche in scuole non accreditate. Chiarimenti Ministero",
-                "link": "https://www.orizzontescuola.it/docenti-vincitori-concorso-pnrr1-dei-percorsi-da-30-o-36-cfu-possono-svolgere-tirocinio-anche-in-scuole-non-accreditate-chiarimenti-ministero/",
-                "date": "17 Apr 2025",
-                "time": "18:13",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/10/DALL·E-2023-10-04-12.09.14-Photo-of-a-brightly-lit-modern-classroom-with-white-walls-and-large-windows-allowing-sunlight-to-pour-in.-Diverse-students-of-different-genders-and-et.png"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
+            {
+                "category": "ATA",
+                "title": "Graduatorie terza fascia ATA, solo 400mila CIAD rilasciate. Gilda chiede proroga: “Due terzi del personale rischia di decadere”",
+                "link": "https://www.orizzontescuola.it/graduatorie-terza-fascia-ata-solo-400mila-ciad-rilasciate-gilda-chiede-proroga-due-terzi-del-personale-rischia-di-decadere/",
+                "date": "15 Apr 2025",
+                "time": "14:12",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2467525223.jpg"
+            },
             {
                 "category": "ATA",
                 "title": "Graduatorie terza fascia ATA, domanda su Istanze online anche se ho presentato la CIAD alla scuola capofila?",
@@ -649,14 +657,6 @@
                 "date": "11 Apr 2025",
                 "time": "9:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_2377017671.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Graduatorie terza fascia ATA: scioglimento riserva CIAD dal 28 aprile su Istanze online. Le ultime notizie",
-                "link": "https://www.orizzontescuola.it/graduatorie-terza-fascia-ata-scioglimento-riserva-ciad-dal-28-aprile-su-istanze-online-le-ultime-notizie/",
-                "date": "10 Apr 2025",
-                "time": "13:24",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_329293007.jpg"
             }
         ]
     },
