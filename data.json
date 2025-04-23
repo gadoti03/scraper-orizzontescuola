@@ -24,6 +24,46 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Studenti",
+                "title": "Maturità 2025, Papa Francesco tra le tracce? Valditara: “Ipotesi interessante, ma esclusa”. Ecco perché",
+                "link": "https://www.orizzontescuola.it/maturita-2025-papa-francesco-tra-le-tracce-valditara-ipotesi-interessante-ma-esclusa-ecco-perche/",
+                "date": "23 Apr 2025",
+                "time": "18:01",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_164173430.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso secondaria PNRR2, ecco le convocazioni per la prova orale [IN AGGIORNAMENTO]",
+                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-ecco-le-convocazioni-per-la-prova-orale-si-comincia-a-maggio-in-aggiornamento/",
+                "date": "23 Apr 2025",
+                "time": "17:26",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "L’art. 96 del Codice Privacy: il trattamento dei dati degli studenti",
+                "link": "https://www.orizzontescuola.it/lart-96-del-codice-privacy-il-trattamento-dei-dati-degli-studenti/",
+                "date": "23 Apr 2025",
+                "time": "17:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2467525223.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Legge “anti-crack e dipendenze” scritta da studenti e approvata da Parlamento siciliano. Bartoli: “Ritardo su decreti attuativi”",
+                "link": "https://www.orizzontescuola.it/legge-anti-crack-e-dipendenze-scritta-da-studenti-e-approvata-da-parlamento-siciliano-bartoli-ritardo-su-decreti-attuativi/",
+                "date": "23 Apr 2025",
+                "time": "15:09",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/WhatsApp-Image-2025-04-16-at-19.59.48.jpeg"
+            },
+            {
+                "category": "ATA",
+                "title": "Graduatorie ATA 24 mesi: in quale provincia si può presentare domanda",
+                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-in-quale-provincia-si-puo-presentare-domanda/",
+                "date": "23 Apr 2025",
+                "time": "14:42",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2198683335.jpg"
+            },
+            {
                 "category": "Politica scolastica",
                 "title": "Decreto PA, riserva 15% nei concorsi per servizio civile nazionale, copertura sanitaria per il personale scolastico, trasparenza nelle graduatorie. OK della Camera. Le novità per la scuola",
                 "link": "https://www.orizzontescuola.it/decreto-pa-ce-ok-della-camera-riserva-15-nei-concorsi-per-servizio-civile-nazionale-copertura-sanitaria-per-il-personale-scolastico-trasparenza-nelle-graduatorie-le-novita-per-la-scuoal/",
@@ -40,28 +80,12 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2016/12/uquhoy9fvi-dmitry-dreyer-1200x798.jpg"
             },
             {
-                "category": "Cronaca",
-                "title": "Sostegno a scuola: 12,5 ore insufficienti, la scuola deve garantire 40 ore. Cosa hanno detto i giudici",
-                "link": "https://www.orizzontescuola.it/sostegno-a-scuola-125-ore-insufficienti-la-scuola-deve-garantire-40-ore-cosa-hanno-detto-i-giudici/",
-                "date": "23 Apr 2025",
-                "time": "11:35",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/03/wheelchair-1595794_960_720.jpg"
-            },
-            {
                 "category": "Scuole",
                 "title": "Somministrazione INVALSI II e V primaria. In allegato i verbali",
                 "link": "https://www.orizzontescuola.it/somministrazione-invalsi-ii-e-v-primaria-in-allegato-i-verbali/",
                 "date": "23 Apr 2025",
                 "time": "11:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_678436858.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso secondaria PNRR2, ecco le convocazioni per la prova orale [IN AGGIORNAMENTO]",
-                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-ecco-le-convocazioni-per-la-prova-orale-si-comincia-a-maggio-in-aggiornamento/",
-                "date": "23 Apr 2025",
-                "time": "10:32",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
             },
             {
                 "category": "Cronaca",
@@ -126,7 +150,12 @@
                 "date": "23 Apr 2025",
                 "time": "8:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_1079689514.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "ATA",
                 "title": "Graduatorie ATA 24 mesi 2025/26, certificazione CIAD entro il 30 aprile. Non dà punteggio",
@@ -143,22 +172,9 @@
                 "time": "7:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_2298516513.jpg"
             },
-            null
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
             null,
             null,
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Elenchi aggiuntivi I fascia GPS, ultimi giorni per compilare la domanda: ecco i consigli per non sbagliare. QUESTION TIME con Craparo (Gilda) LIVE Mercoledì 23 aprile alle 14:30",
-                "link": "https://www.orizzontescuola.it/elenchi-aggiuntivi-i-fascia-gps-ultimi-giorni-per-compilare-la-domanda-ecco-i-consigli-per-non-sbagliare-question-time-con-craparo-gilda-live-mercoledi-23-aprile-alle-1430/",
-                "date": "22 Apr 2025",
-                "time": "20:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Template_questiontime_1920x1080-6.png"
-            },
+            null,
             {
                 "category": "Politica scolastica",
                 "title": "Più sport a scuola: il protocollo tra Abodi, Valditara e Sport e Salute per riqualificare le palestre scolastiche",
@@ -262,28 +278,76 @@
                 "date": "22 Apr 2025",
                 "time": "12:58",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2493334753-scaled.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Graduatorie ATA prima fascia, come calcolare i 24 mesi di servizio",
-                "link": "https://www.orizzontescuola.it/graduatorie-ata-prima-fascia-come-calcolare-i-24-mesi/",
-                "date": "22 Apr 2025",
-                "time": "12:12",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2331500305.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Invalsi, a maggio le prove per la scuola primaria. GUIDA",
-                "link": "https://www.orizzontescuola.it/invalsi-a-maggio-le-prove-per-la-scuola-primaria-guida/",
-                "date": "22 Apr 2025",
-                "time": "12:03",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/05/shutterstock_1946801560.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "RSU 2025, FLC CGIL primo sindacato nel settore della conoscenza: “Un voto per i diritti e la scuola pubblica”",
+                "link": "https://www.orizzontescuola.it/rsu-2025-flc-cgil-primo-sindacato-nel-settore-della-conoscenza-un-voto-per-i-diritti-e-la-scuola-pubblica/",
+                "date": "23 Apr 2025",
+                "time": "18:20",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Irpef 2025, nessun acconto per lavoratori dipendenti e pensionati senza altri redditi",
+                "link": "https://www.orizzontescuola.it/irpef-2025-nessun-acconto-per-lavoratori-dipendenti-e-pensionati-senza-altri-redditi/",
+                "date": "23 Apr 2025",
+                "time": "17:56",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Bonus Bollette 2025, la misura è legge: ecco come ottenere i 200 euro per le famiglie a basso reddito",
+                "link": "https://www.orizzontescuola.it/bonus-bollette-2025-la-misura-e-legge-ecco-come-ottenere-i-200-euro-per-le-famiglie-a-basso-reddito/",
+                "date": "23 Apr 2025",
+                "time": "17:04",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Leggere senza voti, per scelta e insieme: i progetti nazionali che stanno cambiando il modo di vivere la lettura a scuola e in biblioteca, tra innovazione didattica, inclusione e crescita personale degli student",
+                "link": "https://www.orizzontescuola.it/leggere-senza-voti-per-scelta-e-insieme-i-progetti-nazionali-che-stanno-cambiando-il-modo-di-vivere-la-lettura-a-scuola-e-in-biblioteca-tra-innovazione-didattica-inclusione-e-crescita-personale-de/",
+                "date": "23 Apr 2025",
+                "time": "16:47",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Più fondi per istruzione, stabilizzare i precari, rivedere il dimensionamento: le proposte alternative del M5S al Documento di finanza pubblica",
+                "link": "https://www.orizzontescuola.it/piu-fondi-per-istruzione-stabilizzare-i-precari-rivedere-il-dimensionamento-le-proposte-alternative-del-m5s-al-documento-di-finanza-pubblica/",
+                "date": "23 Apr 2025",
+                "time": "15:48",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Acquisto e lettura libri: Danimarca, Cipro e Finlandia preferiscono il digitale. In Italia è ancora marginale. I dati",
+                "link": "https://www.orizzontescuola.it/acquisto-e-lettura-libri-danimarca-cipro-e-finlandia-preferiscono-il-digitale-in-italia-e-ancora-marginale-i-dati/",
+                "date": "23 Apr 2025",
+                "time": "15:42",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Decreto PA, c’è il via libera della Camera. Zangrillo: “Attrarre giovani talenti verso il pubblico impiego e dotare le amministrazioni di competenze tecniche qualificate”",
+                "link": "https://www.orizzontescuola.it/decreto-pa-ce-il-via-libera-della-camera-zangrillo-attrarre-giovani-talenti-verso-il-pubblico-impiego-e-dotare-le-amministrazioni-di-competenze-tecniche-qualificate/",
+                "date": "23 Apr 2025",
+                "time": "15:36",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso secondaria PNRR1, nuove graduatorie per assunzioni da settembre 2025",
+                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr1-graduatorie-pubblicate-dopo-il-31-dicembre-2024-per-assunzioni-docenti-nel-2025-26/",
+                "date": "23 Apr 2025",
+                "time": "14:59",
+                "image_link": "N/A"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Specializzazione sostegno INDIRE, Pittoni (Lega): decreti attuativi in arrivo",
@@ -362,63 +426,6 @@
                 "link": "https://www.orizzontescuola.it/protezione-civile-nasce-il-tavolo-nazionale-dei-giovani-decreto-in-gazzetta-ufficiale/",
                 "date": "23 Apr 2025",
                 "time": "9:36",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Elena, la maestra su OnlyFans, licenziata per ‘giusta causa’ dal datore di lavoro: “Contraria all’ispirazione cattolica”. Lei annuncia il ricorso",
-                "link": "https://www.orizzontescuola.it/elena-la-maestra-su-only-fans-licenziata-per-giusta-causa-dal-datore-di-lavoro-contrario-allispirazione-cattolica-lei-annuncia-il-ricorso/",
-                "date": "23 Apr 2025",
-                "time": "8:42",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Papa Francesco, fino a sabato 26 è lutto nazionale: previsto minuto di silenzio in tutte le scuole nel giorno del funerale o nel primo giorno di apertura dopo le esequie",
-                "link": "https://www.orizzontescuola.it/papa-francesco-fino-a-sabato-26-e-lutto-nazionale-previsto-minuto-di-silenzio-in-tutte-le-scuole-nel-giorno-del-funerale-o-nel-primo-giorno-di-apertura-dopo-le-esequie/",
-                "date": "23 Apr 2025",
-                "time": "8:24",
-                "image_link": "N/A"
-            },
-            null,
-            {
-                "category": "Cronaca",
-                "title": "Dalla gita sul Delta del Po all’avventura sui binari: la scolaresca bloccata 3 ore in stazione trasforma il vagone in un’aula improvvisata tra giochi e canti”",
-                "link": "https://www.orizzontescuola.it/dalla-gita-sul-delta-del-po-allavventura-sui-binari-la-scolaresca-bloccata-3-ore-in-stazione-trasforma-il-vagone-in-unaula-improvvisata-tra-giochi-e-canti/",
-                "date": "22 Apr 2025",
-                "time": "19:26",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Genitori",
-                "title": "Doppia fila e bambini in pericolo: lo studio shock sul caos davanti alle scuole. Ecco cosa fanno (sbagliando) 9 genitori su 10",
-                "link": "https://www.orizzontescuola.it/doppia-fila-e-bambini-in-pericolo-lo-studio-shock-sul-caos-davanti-alle-scuole-ecco-cosa-fanno-sbagliando-9-genitori-su-10/",
-                "date": "22 Apr 2025",
-                "time": "16:39",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Lotta al fumo, Schillaci: “Dobbiamo insegnare i corretti stili di vita fin dalle scuole elementari con campagne ad hoc per i più piccoli”",
-                "link": "https://www.orizzontescuola.it/lotta-al-fumo-schillaci-dobbiamo-insegnare-i-corretti-stili-di-vita-fin-dalle-scuole-elementari-con-campagne-ad-hoc-per-i-piu-piccoli/",
-                "date": "22 Apr 2025",
-                "time": "16:23",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "3 milioni di euro per le scuole siciliane: la Regione formalizza il finanziamento straordinario. Limite di 40 mila euro per ogni intervento",
-                "link": "https://www.orizzontescuola.it/3-milioni-di-euro-per-le-scuole-siciliane-la-regione-formalizza-il-finanziamento-straordinario-limite-di-40-mila-euro-per-ogni-intervento/",
-                "date": "22 Apr 2025",
-                "time": "16:03",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Docenti religione cattolica, Anief: “Immissioni in ruolo sul 100% dei posti vacanti grazie a nostro emendamento a DL 25/25 approvato nelle Commissioni della Camera”",
-                "link": "https://www.orizzontescuola.it/docenti-religione-cattolica-anief-immissioni-in-ruolo-sul-100-dei-posti-vacanti-grazie-a-nostro-emendamento-a-dl-25-25-approvato-nelle-commissioni-della-camera/",
-                "date": "22 Apr 2025",
-                "time": "15:07",
                 "image_link": "N/A"
             }
         ]
@@ -545,6 +552,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Graduatoria GPS, elenco aggiuntivo 2025: se il titolo CLIL è già stato rettificato per la seconda fascia, non va importato. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/graduatoria-gps-elenco-aggiuntivo-2025-se-il-titolo-clil-e-gia-stato-rettificato-per-la-seconda-fascia-non-va-importato-pillole-di-questiontime/",
+                "date": "20 Apr 2025",
+                "time": "20:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2471109121.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Titolo di sostegno negli elenchi GPS 2025: punteggio aggiuntivo spetta anche a chi ha avuto accesso con la riserva del 35%",
                 "link": "https://www.orizzontescuola.it/titolo-di-sostegno-negli-elenchi-gps-2025-punteggio-aggiuntivo-spetta-anche-a-chi-ha-avuto-accesso-con-la-riserva-del-35/",
                 "date": "20 Apr 2025",
@@ -582,14 +597,6 @@
                 "date": "19 Apr 2025",
                 "time": "16:36",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_130754711.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Durante il percorso abilitante è possibile insegnare, ecco come si assegna il punteggio. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/durante-il-percorso-abilitante-e-possibile-insegnare-ecco-come-si-assegna-il-punteggio-pillole-di-question-time/",
-                "date": "19 Apr 2025",
-                "time": "14:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_1049423483.jpg"
             }
         ]
     },
