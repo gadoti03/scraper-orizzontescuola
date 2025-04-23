@@ -24,8 +24,48 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Politica scolastica",
+                "title": "Decreto PA, riserva 15% nei concorsi per servizio civile nazionale, copertura sanitaria per il personale scolastico, trasparenza nelle graduatorie. OK della Camera. Le novità per la scuola",
+                "link": "https://www.orizzontescuola.it/decreto-pa-ce-ok-della-camera-riserva-15-nei-concorsi-per-servizio-civile-nazionale-copertura-sanitaria-per-il-personale-scolastico-trasparenza-nelle-graduatorie-le-novita-per-la-scuoal/",
+                "date": "23 Apr 2025",
+                "time": "14:16",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/Camera.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Mobilità docenti 2025/26: tutte le abilitazioni sono valide per il passaggio di ruolo, anche quella conseguita con il PAS",
+                "link": "https://www.orizzontescuola.it/mobilita-docenti-2025-26-tutte-le-abilitazioni-sono-valide-per-il-passaggio-di-ruolo-anche-quella-conseguita-con-il-pas/",
+                "date": "23 Apr 2025",
+                "time": "12:05",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2016/12/uquhoy9fvi-dmitry-dreyer-1200x798.jpg"
+            },
+            {
                 "category": "Cronaca",
-                "title": "Una pizza nata per punizione. Il riscatto di Thomas De Silvestri: dal 6 in condotta al percorso universitario.",
+                "title": "Sostegno a scuola: 12,5 ore insufficienti, la scuola deve garantire 40 ore. Cosa hanno detto i giudici",
+                "link": "https://www.orizzontescuola.it/sostegno-a-scuola-125-ore-insufficienti-la-scuola-deve-garantire-40-ore-cosa-hanno-detto-i-giudici/",
+                "date": "23 Apr 2025",
+                "time": "11:35",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/03/wheelchair-1595794_960_720.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Somministrazione INVALSI II e V primaria. In allegato i verbali",
+                "link": "https://www.orizzontescuola.it/somministrazione-invalsi-ii-e-v-primaria-in-allegato-i-verbali/",
+                "date": "23 Apr 2025",
+                "time": "11:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_678436858.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso secondaria PNRR2, ecco le convocazioni per la prova orale [IN AGGIORNAMENTO]",
+                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-ecco-le-convocazioni-per-la-prova-orale-si-comincia-a-maggio-in-aggiornamento/",
+                "date": "23 Apr 2025",
+                "time": "10:32",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Una pizza nata per punizione. Il riscatto di Thomas De Silvestri: dal 6 in condotta al percorso universitario",
                 "link": "https://www.orizzontescuola.it/una-pizza-nata-per-punizione-il-riscatto-di-thomas-de-silvestri-dal-6-in-condotta-al-percorso-universitario/",
                 "date": "23 Apr 2025",
                 "time": "10:00",
@@ -103,7 +143,12 @@
                 "time": "7:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_2298516513.jpg"
             },
-            null,
+            null
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             null,
             null,
             {
@@ -129,12 +174,7 @@
                 "date": "22 Apr 2025",
                 "time": "19:29",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2120807768.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Sostegno negato a scuola: il TAR impone il rispetto dei diritti degli alunni con disabilità e ordina la copertura totale delle ore, PEI immediato e commissario ad acta contro i limiti di organico. SENTENZA",
@@ -224,14 +264,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2493334753-scaled.jpg"
             },
             {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso secondaria PNRR2, ecco le convocazioni per la prova orale [IN AGGIORNAMENTO]",
-                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-ecco-le-convocazioni-per-la-prova-orale-si-comincia-a-maggio-in-aggiornamento/",
-                "date": "22 Apr 2025",
-                "time": "12:37",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
-            },
-            {
                 "category": "ATA",
                 "title": "Graduatorie ATA prima fascia, come calcolare i 24 mesi di servizio",
                 "link": "https://www.orizzontescuola.it/graduatorie-ata-prima-fascia-come-calcolare-i-24-mesi/",
@@ -246,44 +278,76 @@
                 "date": "22 Apr 2025",
                 "time": "12:03",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/05/shutterstock_1946801560.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Bullismo e cyberbullismo, monitoraggio piattaforma ELISA 2024/25 e formazione e-learning. NOTA",
-                "link": "https://www.orizzontescuola.it/bullismo-e-cyberbullismo-monitoraggio-piattaforma-elisa-2024-25-e-formazione-e-learning-nota/",
-                "date": "22 Apr 2025",
-                "time": "11:33",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_1099940885.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Assunzioni docenti, Governo: 20.000 individuati da graduatorie concorso PNRR1 obiettivo raggiunto. Prossima tappa: 20.000 entro dicembre 2025",
-                "link": "https://www.orizzontescuola.it/assunzioni-docenti-governo-20-000-individuati-da-graduatorie-concorso-pnrr1-obiettivo-raggiunto-prossima-tappa-20-000-entro-dicembre-2025/",
-                "date": "22 Apr 2025",
-                "time": "11:17",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_1819849748.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Elezioni RSU, invio verbali all’Aran dal 28 aprile al 6 maggio. AVVISO",
-                "link": "https://www.orizzontescuola.it/elezioni-rsu-invio-verbali-allaran-dal-28-aprile-al-6-maggio-avviso/",
-                "date": "22 Apr 2025",
-                "time": "11:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/09/shutterstock_1488896810.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "La determina a contrarre: i contenuti e il ruolo del RUP. In allegato gli esempi del MIT",
-                "link": "https://www.orizzontescuola.it/la-determina-a-contrarre-i-contenuti-e-il-ruolo-del-rup-in-allegato-gli-esempi-del-mit/",
-                "date": "22 Apr 2025",
-                "time": "11:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/shutterstock_161736734.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Specializzazione sostegno INDIRE, Pittoni (Lega): decreti attuativi in arrivo",
+                "link": "https://www.orizzontescuola.it/specializzazione-sostegno-indire-pittoni-lega-decreti-attuativi-in-arrivo/",
+                "date": "23 Apr 2025",
+                "time": "14:37",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Decreto Scuola, audizione dei sindacati al Senato. Pacifico (Anief): “Tuteliamo chi cura l’istruzione dei cittadini di domani, attiviamo il doppio canale di reclutamento”",
+                "link": "https://www.orizzontescuola.it/decreto-scuola-audizione-dei-sindacati-al-senato-pacifico-anief-tuteliamo-chi-cura-listruzione-dei-cittadini-di-domani-attiviamo-il-doppio-canale-di-reclutamento/",
+                "date": "23 Apr 2025",
+                "time": "14:20",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Modello 730 precompilato 2025, sarà disponibile online dal 30 aprile: tutte le novità, scadenze e detrazioni",
+                "link": "https://www.orizzontescuola.it/modello-730-precompilato-2025-sara-disponibile-online-dal-30-aprile-tutte-le-novita-scadenze-e-detrazioni/",
+                "date": "23 Apr 2025",
+                "time": "12:22",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "In Sicilia ingressi gratuiti nei musei e aree archeologiche il 25 aprile, 2 giugno e 4 novembre",
+                "link": "https://www.orizzontescuola.it/in-sicilia-ingressi-gratuiti-nei-musei-e-aree-archeologiche-il-25-aprile-2-giugno-e-4-novembre/",
+                "date": "23 Apr 2025",
+                "time": "12:13",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "GaE Valle d’Aosta: domande scioglimento riserva e inserimento titolo sostegno sono cartacee. NOTA",
+                "link": "https://www.orizzontescuola.it/gae-valle-daosta-domande-scioglimento-riserva-e-inserimento-titolo-sostegno-sono-cartacee-nota/",
+                "date": "23 Apr 2025",
+                "time": "11:20",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Decreto Scuola, sindacati in audizione al Senato. Pizzo (Uil Scuola): “Tutti gli idonei vanno assunti, senza limiti ed eccezioni, rispettando l’ordine cronologico di graduatoria”",
+                "link": "https://www.orizzontescuola.it/decreto-scuola-sindacati-in-audizione-al-senato-pizzo-uil-scuola-tutti-gli-idonei-vanno-assunti-senza-limiti-ed-eccezioni-rispettando-lordine-cronologico-di-graduatoria/",
+                "date": "23 Apr 2025",
+                "time": "10:57",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Decreto Scuola, sindacati in audizione al Senato. Castellana (Gilda): “Ritorno al doppio canale per ridurre precariato e valorizzare le professionalità già esistenti”",
+                "link": "https://www.orizzontescuola.it/decreto-scuola-sindacati-in-audizione-al-senato-castellana-gilda-ritorno-al-doppio-canale-per-ridurre-precariato-e-valorizzare-le-professionalita-gia-esistenti/",
+                "date": "23 Apr 2025",
+                "time": "10:53",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“Il 25 aprile? La liberazione dalla Repubblica? Non ne ho la minima idea, si fa ponte!” Il servizio shock di Cartabianca sulla festa vista dai giovani",
+                "link": "https://www.orizzontescuola.it/il-25-aprile-la-liberazione-dalla-repubblica-non-ne-ho-la-minima-idea-si-fa-ponte-il-servizio-shock-di-cartabianca-sulla-festa-vista-dai-giovani/",
+                "date": "23 Apr 2025",
+                "time": "10:21",
+                "image_link": "N/A"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Buoni pasto a docenti e ATA da 13 euro al giorno, Anief rilancia la proposta in Senato",
@@ -355,70 +419,6 @@
                 "link": "https://www.orizzontescuola.it/docenti-religione-cattolica-anief-immissioni-in-ruolo-sul-100-dei-posti-vacanti-grazie-a-nostro-emendamento-a-dl-25-25-approvato-nelle-commissioni-della-camera/",
                 "date": "22 Apr 2025",
                 "time": "15:07",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Approvato emendamento PD: 20 milioni per l’edilizia scolastica, ma resta il nodo della programmazione",
-                "link": "https://www.orizzontescuola.it/approvato-emendamento-pd-20-milioni-per-ledilizia-scolastica-ma-resta-il-nodo-della-programmazione/",
-                "date": "22 Apr 2025",
-                "time": "15:07",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Decreto Scuola, Anief: “Audizione in VII Commissione Senato: chiederemo doppio canale reclutamento, con immissioni in ruolo da Gps anche su posto comune, e assunzione docenti idonei”",
-                "link": "https://www.orizzontescuola.it/decreto-scuola-anief-audizione-in-vii-commissione-senato-chiederemo-doppio-canale-reclutamento-con-immissioni-in-ruolo-da-gps-anche-su-posto-comune-e-assunzione-docenti-idonei/",
-                "date": "22 Apr 2025",
-                "time": "15:06",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Crepet: “Tutto quello che è comodo è stupido. No alla cultura che premia la scorciatoia e disincentiva lo sforzo”",
-                "link": "https://www.orizzontescuola.it/crepet-tutto-quello-che-e-comodo-e-stupido-no-alla-cultura-che-premia-la-scorciatoia-e-disincentiva-lo-sforzo/",
-                "date": "22 Apr 2025",
-                "time": "14:41",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Elenchi aggiuntivi I fascia GPS: le info utili per la compilazione della domanda. QUESTION TIME con Cannas [VIDEO]",
-                "link": "https://www.orizzontescuola.it/elenchi-aggiuntivi-i-fascia-gps-le-info-utili-per-la-compilazione-della-domanda-question-time-con-cannas-live-martedi-22-aprile-alle-1430/",
-                "date": "22 Apr 2025",
-                "time": "12:48",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Papa Francesco, funerali sabato 26 aprile alle 10:00. Cinque giorni di lutto nazionale (dal 22 aprile): non è prevista la chiusura di scuole, uffici pubblici e aziende",
-                "link": "https://www.orizzontescuola.it/papa-francesco-funerali-sabato-26-aprile-il-governo-dichiarera-3-giorni-di-lutto-nazionale-no-alla-chiusura-di-scuole-uffici-pubblici-e-aziende/",
-                "date": "22 Apr 2025",
-                "time": "12:33",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Roberto Vecchioni: “Da piccolo volevo fare l’insegnante”. Poi svela: “Se l’Inter la domenica perdeva ero arrabbiato e non interrogavo, gli alunni lo capivano subito”",
-                "link": "https://www.orizzontescuola.it/roberto-vecchioni-da-piccolo-volevo-fare-linsegnante-poi-svela-se-linter-la-domenica-perdeva-ero-arrabbiato-e-non-interrogavo-gli-alunni-lo-capivano-subito/",
-                "date": "22 Apr 2025",
-                "time": "12:00",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Roberta Bruzzone: “Serve una nuova educazione per fermare la cultura della subalternità femminile”",
-                "link": "https://www.orizzontescuola.it/roberta-bruzzone-serve-una-nuova-educazione-per-fermare-la-cultura-della-subalternita-femminile/",
-                "date": "22 Apr 2025",
-                "time": "11:52",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Competenze green sempre più richieste: 8 assunzioni su 10 nel 2024 richiedono formazione ambientale. I dati Unioncamere",
-                "link": "https://www.orizzontescuola.it/competenze-green-sempre-piu-richieste-8-assunzioni-su-10-nel-2024-richiedono-formazione-ambientale-i-dati-unioncamere/",
-                "date": "22 Apr 2025",
-                "time": "11:41",
                 "image_link": "N/A"
             }
         ]
@@ -545,6 +545,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Titolo di sostegno negli elenchi GPS 2025: punteggio aggiuntivo spetta anche a chi ha avuto accesso con la riserva del 35%",
+                "link": "https://www.orizzontescuola.it/titolo-di-sostegno-negli-elenchi-gps-2025-punteggio-aggiuntivo-spetta-anche-a-chi-ha-avuto-accesso-con-la-riserva-del-35/",
+                "date": "20 Apr 2025",
+                "time": "17:46",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2326351727.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Inserimento negli elenchi aggiuntivi GPS 2025: vale anche anche la laurea? Il punto di partenza è l’abilitazione, prima fascia diversa dalla seconda",
                 "link": "https://www.orizzontescuola.it/inserimento-negli-elenchi-aggiuntivi-gps-2025-si-puo-dichiarare-anche-la-laurea/",
                 "date": "20 Apr 2025",
@@ -582,20 +590,20 @@
                 "date": "19 Apr 2025",
                 "time": "14:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_1049423483.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso scuola secondaria PNRR2, quale USR guardare per capire se si è stati ammessi alla prova orale",
-                "link": "https://www.orizzontescuola.it/concorso-scuola-secondaria-pnrr2-quale-usr-guardare-per-capire-se-si-e-stati-ammessi-alla-prova-orale/",
-                "date": "19 Apr 2025",
-                "time": "12:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_1719924733.jpg"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
+            {
+                "category": "ATA",
+                "title": "Graduatorie terza fascia ATA, solo 400mila CIAD rilasciate. Gilda chiede proroga: “Due terzi del personale rischia di decadere”",
+                "link": "https://www.orizzontescuola.it/graduatorie-terza-fascia-ata-solo-400mila-ciad-rilasciate-gilda-chiede-proroga-due-terzi-del-personale-rischia-di-decadere/",
+                "date": "15 Apr 2025",
+                "time": "14:12",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2467525223.jpg"
+            },
             {
                 "category": "ATA",
                 "title": "Graduatorie terza fascia ATA, domanda su Istanze online anche se ho presentato la CIAD alla scuola capofila?",
@@ -635,14 +643,6 @@
                 "date": "11 Apr 2025",
                 "time": "9:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_2377017671.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Graduatorie terza fascia ATA: scioglimento riserva CIAD dal 28 aprile su Istanze online. Le ultime notizie",
-                "link": "https://www.orizzontescuola.it/graduatorie-terza-fascia-ata-scioglimento-riserva-ciad-dal-28-aprile-su-istanze-online-le-ultime-notizie/",
-                "date": "10 Apr 2025",
-                "time": "13:24",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_329293007.jpg"
             }
         ]
     },
