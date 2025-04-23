@@ -24,6 +24,46 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Guide",
+                "title": "Permessi brevi per docenti ed ATA: come funzionano? La scheda",
+                "link": "https://www.orizzontescuola.it/permessi-brevi-per-docenti-ed-ata-come-funzionano-la-scheda/",
+                "date": "23 Apr 2025",
+                "time": "21:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_2229678829.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Servizio sul sostegno nella scuola di titolarità in seguito a trasferimento su posto comune: non può essere valutato nel calcolo del punteggio di continuità",
+                "link": "https://www.orizzontescuola.it/servizio-sul-sostegno-nella-scuola-di-titolarita-in-seguito-a-trasferimento-su-posto-comune-non-puo-essere-valutato-nel-calcolo-del-punteggio-di-continuita/",
+                "date": "23 Apr 2025",
+                "time": "19:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1931407187-scaled.jpg"
+            },
+            {
+                "category": "DSGA",
+                "title": "Concorso DSGA, prova orale: sui siti degli Uffici scolastici regionali le lettere estratte",
+                "link": "https://www.orizzontescuola.it/concorso-dsga-prova-orale-sui-siti-degli-uffici-scolastici-regionali-le-lettere-estratte/",
+                "date": "23 Apr 2025",
+                "time": "19:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_1070096513.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "GPS elenco aggiuntivo prima fascia 2025: classi di concorso ITP non hanno il punteggio in più dei percorsi abilitanti. Pillole di QuestionTime",
+                "link": "https://www.orizzontescuola.it/gps-elenco-aggiuntivo-prima-fascia-2025-classi-di-concorso-itp-non-hanno-il-punteggio-dei-percorsi-abilitanti-pillole-di-questiontime/",
+                "date": "23 Apr 2025",
+                "time": "18:57",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2142727347.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "ATA 24 mesi e scioglimento riserva CIAD, le info utili. QUESTION TIME con Cozzolino. LIVE Giovedì 24 aprile alle 14:30",
+                "link": "https://www.orizzontescuola.it/ata-24-mesi-e-scioglimento-riserva-ciad-le-info-utili-question-time-con-cozzolino-live-giovedi-24-aprile-alle-1430/",
+                "date": "23 Apr 2025",
+                "time": "18:27",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Template_questiontime_1920x1080-7.png"
+            },
+            {
                 "category": "Studenti",
                 "title": "Maturità 2025, Papa Francesco tra le tracce? Valditara: “Ipotesi interessante, ma esclusa”. Ecco perché",
                 "link": "https://www.orizzontescuola.it/maturita-2025-papa-francesco-tra-le-tracce-valditara-ipotesi-interessante-ma-esclusa-ecco-perche/",
@@ -64,6 +104,14 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2198683335.jpg"
             },
             {
+                "category": "Diventare Insegnanti",
+                "title": "Specializzazione sostegno INDIRE, Pittoni (Lega): decreti attuativi in arrivo",
+                "link": "https://www.orizzontescuola.it/specializzazione-sostegno-indire-pittoni-lega-decreti-attuativi-in-arrivo/",
+                "date": "23 Apr 2025",
+                "time": "14:37",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_163768811.jpg"
+            },
+            {
                 "category": "Politica scolastica",
                 "title": "Decreto PA, riserva 15% nei concorsi per servizio civile nazionale, copertura sanitaria per il personale scolastico, trasparenza nelle graduatorie. OK della Camera. Le novità per la scuola",
                 "link": "https://www.orizzontescuola.it/decreto-pa-ce-ok-della-camera-riserva-15-nei-concorsi-per-servizio-civile-nazionale-copertura-sanitaria-per-il-personale-scolastico-trasparenza-nelle-graduatorie-le-novita-per-la-scuoal/",
@@ -102,7 +150,12 @@
                 "date": "23 Apr 2025",
                 "time": "9:54",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1685909200.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Genitori",
                 "title": "Pubertà precoce e cambiamenti del corpo: genitori impreparati. Il 54% ne parla con i figli, ma il 41% aspetta che siano loro a farlo",
@@ -150,12 +203,7 @@
                 "date": "23 Apr 2025",
                 "time": "8:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_1079689514.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "ATA",
                 "title": "Graduatorie ATA 24 mesi 2025/26, certificazione CIAD entro il 30 aprile. Non dà punteggio",
@@ -230,60 +278,20 @@
                 "date": "22 Apr 2025",
                 "time": "17:55",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2016/05/banchi-di-scuola-1-1-1.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Festività del 1° maggio: in allegato un modello circolare",
-                "link": "https://www.orizzontescuola.it/festivita-del-1-maggio-in-allegato-un-modello-circolare/",
-                "date": "22 Apr 2025",
-                "time": "17:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1356338897.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "La prof insultata da un’alunna: “Mi ha chiamato ‘lavavetri'”. E sui social esplode il caso: è colpa delle famiglie, degli stipendi o di un sistema scolastico al collasso?",
-                "link": "https://www.orizzontescuola.it/la-prof-insultata-da-unalunna-mi-ha-chiamato-lavavetri-e-sui-social-esplode-il-caso-e-colpa-delle-famiglie-degli-stipendi-o-di-un-sistema-scolastico-al-collasso/",
-                "date": "22 Apr 2025",
-                "time": "16:13",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1409500496.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "L’ansia matematica dei genitori influisce sullo sviluppo delle competenze numeriche nei bambini già dai 3 anni e mezzo. I risultati di uno studio condotto da 4 ricercatori",
-                "link": "https://www.orizzontescuola.it/lansia-matematica-dei-genitori-influisce-sullo-sviluppo-delle-competenze-numeriche-nei-bambini-gia-dai-3-anni-e-mezzo-i-risultati-di-uno-studio-condotto-da-4-ricercatori/",
-                "date": "22 Apr 2025",
-                "time": "15:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_567273511.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Esami di Stato 2025, docenti a tempo determinato con spezzone orario hanno obbligo di presentare domanda come commissario esterno. NOTA Milano",
-                "link": "https://www.orizzontescuola.it/esami-di-stato-2025-docenti-a-tempo-determinato-con-spezzone-orario-hanno-obbligo-di-presentare-domanda-come-commissario-esterno-nota-milano/",
-                "date": "22 Apr 2025",
-                "time": "15:22",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2090710285.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Graduatorie GPS, in estate verranno ripubblicate per il 2025/26 con prima fascia, elenco aggiuntivo, seconda fascia. Ecco quando e perché",
-                "link": "https://www.orizzontescuola.it/graduatorie-gps-in-estate-verranno-ripubblicate-per-il-2025-26-con-prima-fascia-elenco-aggiuntivo-seconda-fascia-ecco-quando-e-perche/",
-                "date": "22 Apr 2025",
-                "time": "15:01",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_152523980.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Data ultima per conseguire l’abilitazione per inserirsi negli elenchi aggiuntivi è il 30 giugno 2025: ci sarà una proroga? Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/data-ultima-per-conseguire-labilitazione-per-inserirsi-negli-elenchi-aggiuntivi-e-il-30-giugno-2025-ci-sara-una-proroga-pillole-di-questiontime/",
-                "date": "22 Apr 2025",
-                "time": "12:58",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2493334753-scaled.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Scuole",
+                "title": "Concorso musicale nazionale “Beato Giuseppe Puglisi”. Iscrizioni entro il 10 maggio",
+                "link": "https://www.orizzontescuola.it/concorso-musicale-nazionale-beato-giuseppe-puglisi-iscrizioni-entro-il-10-maggio/",
+                "date": "23 Apr 2025",
+                "time": "19:00",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "RSU 2025, FLC CGIL primo sindacato nel settore della conoscenza: “Un voto per i diritti e la scuola pubblica”",
@@ -346,14 +354,6 @@
                 "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr1-graduatorie-pubblicate-dopo-il-31-dicembre-2024-per-assunzioni-docenti-nel-2025-26/",
                 "date": "23 Apr 2025",
                 "time": "14:59",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Specializzazione sostegno INDIRE, Pittoni (Lega): decreti attuativi in arrivo",
-                "link": "https://www.orizzontescuola.it/specializzazione-sostegno-indire-pittoni-lega-decreti-attuativi-in-arrivo/",
-                "date": "23 Apr 2025",
-                "time": "14:37",
                 "image_link": "N/A"
             },
             {
@@ -552,6 +552,22 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "GPS graduatorie 2025: le 150 preferenze si indicheranno in estate, sia per prima fascia che elenco aggiuntivo che seconda fascia",
+                "link": "https://www.orizzontescuola.it/gps-graduatorie-2025-le-150-preferenze-si-indicheranno-in-estate-sia-per-prima-fascia-che-elenco-aggiuntivo-che-seconda-fascia/",
+                "date": "21 Apr 2025",
+                "time": "15:56",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_1065259865.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Scelta delle 20 scuole per le graduatorie d’istituto negli elenchi aggiuntivi GPS 2025. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/scelta-delle-20-scuole-per-le-graduatorie-distituto-negli-elenchi-aggiuntivi-gps-2025-pillole-di-question-time/",
+                "date": "21 Apr 2025",
+                "time": "12:31",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1108194551.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Graduatoria GPS, elenco aggiuntivo 2025: se il titolo CLIL è già stato rettificato per la seconda fascia, non va importato. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/graduatoria-gps-elenco-aggiuntivo-2025-se-il-titolo-clil-e-gia-stato-rettificato-per-la-seconda-fascia-non-va-importato-pillole-di-questiontime/",
                 "date": "20 Apr 2025",
@@ -581,28 +597,20 @@
                 "date": "19 Apr 2025",
                 "time": "16:55",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Assistenti di lingua italiana all’estero 2025/26: pubblicate le graduatorie provvisorie",
-                "link": "https://www.orizzontescuola.it/assistenti-di-lingua-italiana-allestero-2025-26-pubblicate-le-graduatorie-provvisorie/",
-                "date": "19 Apr 2025",
-                "time": "16:39",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1129962923-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Elenchi aggiuntivi GPS 2025 docenti: i consigli utili per non sbagliare la  compilazione della domanda",
-                "link": "https://www.orizzontescuola.it/elenchi-aggiuntivi-gps-2025-docenti-i-consigli-utili-per-non-sbagliare-la-compilazione-della-domanda/",
-                "date": "19 Apr 2025",
-                "time": "16:36",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_130754711.jpg"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
+            {
+                "category": "ATA",
+                "title": "Graduatorie 24 mesi ATA, riserva 15% posti anche per il servizio civile nazionale. Novità",
+                "link": "https://www.orizzontescuola.it/graduatorie-24-mesi-ata-riserva-15-posti-anche-per-il-servizio-civile-nazionale-novita/",
+                "date": "18 Apr 2025",
+                "time": "18:37",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2577242043.jpg"
+            },
             {
                 "category": "ATA",
                 "title": "Graduatorie terza fascia ATA, solo 400mila CIAD rilasciate. Gilda chiede proroga: “Due terzi del personale rischia di decadere”",
@@ -642,14 +650,6 @@
                 "date": "11 Apr 2025",
                 "time": "9:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1508556191.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Graduatorie terza fascia ATA, domande scioglimento riserva CIAD dal 28 aprile al 9 maggio. NOTA",
-                "link": "https://www.orizzontescuola.it/graduatorie-terza-fascia-ata-domande-scioglimento-riserva-ciad-dal-28-aprile-al-9-maggio-nota/",
-                "date": "11 Apr 2025",
-                "time": "9:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_2377017671.jpg"
             }
         ]
     },
