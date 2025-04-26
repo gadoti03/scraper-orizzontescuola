@@ -18,6 +18,30 @@
         "articles": [
             {
                 "category": "Cronaca",
+                "title": "Smartphone banditi? La rivolta degli studenti ‘strani’ che scelgono libri e atlanti: “Noi disconnessi e felici. Meglio un libro che uno schermo”",
+                "link": "https://www.orizzontescuola.it/smartphone-banditi-la-rivolta-degli-studenti-strani-che-scelgono-libri-e-atlanti-noi-disconnessi-e-felici-meglio-un-libro-che-uno-schermo/",
+                "date": "26 Apr 2025",
+                "time": "17:43",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/09/shutterstock_538028968-scaled.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "“Mood: ghostare gli impegni e slayare al weekend”, lo slang social dei giovani. Quali i termini più diffusi e perché è importante conoscerli",
+                "link": "https://www.orizzontescuola.it/mood-ghostare-gli-impegni-e-slayare-al-weekend-lo-slang-social-dei-giovani-quali-i-termini-piu-diffusi-e-perche-e-importante-conoscerli/",
+                "date": "26 Apr 2025",
+                "time": "16:56",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2204460627.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Assunzione da GPS sostegno prima fascia ed elenco aggiuntivo: la procedura straordinaria sarà valida anche nel 2025. Chi può partecipare",
+                "link": "https://www.orizzontescuola.it/assunzione-da-gps-sostegno-prima-fascia-ed-elenco-aggiuntivo-la-procedura-straordinaria-sara-valida-anche-nel-2025-chi-puo-partecipare/",
+                "date": "26 Apr 2025",
+                "time": "15:06",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2456270825.jpg"
+            },
+            {
+                "category": "Cronaca",
                 "title": "Lezione frontale o didattica innovativa? Il post di una docente sui social scatena il confronto: studenti che rifiutano le novità e insegnanti in bilico tra tradizione e nuove metodologie",
                 "link": "https://www.orizzontescuola.it/lezione-frontale-o-didattica-innovativa-il-post-di-una-docente-sui-social-scatena-il-confronto-studenti-che-rifiutano-le-novita-e-insegnanti-in-bilico-tra-tradizione-nuove-metodologie-e-la-sfida-di/",
                 "date": "26 Apr 2025",
@@ -119,7 +143,12 @@
                 "date": "26 Apr 2025",
                 "time": "8:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Screenshot-2025-04-23-125147.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Scuola senza zaino: niente libri da casa, banchi a isole, materiale condiviso e più collaborazione in classe. Il modello innovativo che cambia la didattica",
@@ -143,12 +172,7 @@
                 "date": "25 Apr 2025",
                 "time": "19:31",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2359899605.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "GaE graduatorie ad esaurimento: ecco le date per scioglimento della riserva e riserva dei posti",
@@ -268,22 +292,28 @@
                 "date": "25 Apr 2025",
                 "time": "8:07",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1756024634.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "25 Aprile, musei e parchi archeologici statali aperti gratuitamente",
-                "link": "https://www.orizzontescuola.it/25-aprile-musei-e-parchi-archeologici-statali-aperti-gratuitamente/",
-                "date": "25 Apr 2025",
-                "time": "7:53",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/shutterstock_264032927-scaled.jpg"
-            },
-            null,
-            null
+            }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Funerali Papa Francesco, “Bergoglio parlava sempre di Scuola come centro di sviluppo di un progetto che porta alla pace”. Il ricordo di Anief e Cisal",
+                "link": "https://www.orizzontescuola.it/funerali-papa-francesco-bergoglio-parlava-sempre-di-scuola-come-centro-di-sviluppo-di-un-progetto-che-porta-alla-pace-il-ricordo-di-anief-e-cisal/",
+                "date": "26 Apr 2025",
+                "time": "17:01",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Andrea Delogu agli insegnanti: “Siete più del 50% di quello che impariamo” La lezione sulla dislessia che ogni docente dovrebbe conoscere",
+                "link": "https://www.orizzontescuola.it/andrea-delogu-agli-insegnanti-siete-piu-del-50-di-quello-che-impariamo-la-lezione-sulla-dislessia-che-ogni-insegnante-dovrebbe-conoscere/",
+                "date": "26 Apr 2025",
+                "time": "16:15",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Iginio Massari agli studenti: “I soldi vanno e vengono, ma un mestiere resta. La passione trasforma il sacrificio”",
@@ -410,22 +440,6 @@
                 "link": "https://www.orizzontescuola.it/cresce-loccupazione-ma-non-per-giovani-e-donne-rotondi-cnel-potenziare-processi-di-transizione-dalla-scuola-al-lavoro-i-dati-nel-rapporto-del-cnel/",
                 "date": "24 Apr 2025",
                 "time": "17:07",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Giochi della Gioventù 2025: 110 appuntamenti, 100 mila studenti e lo sport torna protagonista a scuola. Tutto sulla grande festa finale a Roma",
-                "link": "https://www.orizzontescuola.it/giochi-della-gioventu-2025-110-tappe-100-mila-studenti-e-lo-sport-torna-protagonista-a-scuola-tutto-sulla-grande-festa-finale-a-roma/",
-                "date": "24 Apr 2025",
-                "time": "16:44",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Papa Francesco, sabato 26 aprile i funerali. A Roma tutte le scuole chiuse per ragioni di ordine pubblico",
-                "link": "https://www.orizzontescuola.it/papa-francesco-sabato-26-aprile-i-funerali-a-roma-tutte-le-scuole-chiuse-per-ragioni-di-ordine-pubblico/",
-                "date": "24 Apr 2025",
-                "time": "16:04",
                 "image_link": "N/A"
             }
         ]
