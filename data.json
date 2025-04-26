@@ -2,6 +2,7 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
+            null,
             {
                 "category": "Politica scolastica",
                 "title": "Non solo tradizione, ma apertura culturale, fondamento scientifico e più trasparenza rispetto al passato: l’intervista al prof. Zanniello sulle Indicazioni Nazionali",
@@ -9,13 +10,36 @@
                 "date": "24 Apr 2025",
                 "time": "14:36",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/I-protagonisti-ipotesi-1-1280-x-720-px-1000-x-500-px-2.png"
-            },
-            null
+            }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Dizione a scuola: una competenza necessaria o un lusso per pochi? L’appello: “Non è solo per attori e doppiatori, ma uno strumento di libertà espressiva”",
+                "link": "https://www.orizzontescuola.it/dizione-a-scuola-una-competenza-necessaria-o-un-lusso-per-pochi-lappello-non-e-solo-per-attori-e-doppiatori-ma-uno-strumento-di-liberta-espressiva/",
+                "date": "26 Apr 2025",
+                "time": "19:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2548815601-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Graduatorie GPS supplenze docenti: cosa succederà nel 2026. Pillole di QuestionTime",
+                "link": "https://www.orizzontescuola.it/graduatorie-gps-supplenze-docenti-cosa-succedera-nel-2026-pillole-di-questiontime/",
+                "date": "26 Apr 2025",
+                "time": "19:19",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2538269019.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Speaking zero e troppa grammatica: l’inglese nelle scuole italiane è davvero efficace? Cosa non funziona nell’insegnamento. Il dibattito sui social",
+                "link": "https://www.orizzontescuola.it/speaking-zero-e-troppa-grammatica-linglese-nelle-scuole-italiane-e-davvero-efficace-cosa-non-funziona-nellinsegnamento-il-dibattito-sui-social/",
+                "date": "26 Apr 2025",
+                "time": "18:39",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/inglese-christmas-cert-1.jpg"
+            },
             {
                 "category": "Cronaca",
                 "title": "Smartphone banditi? La rivolta degli studenti ‘strani’ che scelgono libri e atlanti: “Noi disconnessi e felici. Meglio un libro che uno schermo”",
@@ -119,7 +143,12 @@
                 "date": "26 Apr 2025",
                 "time": "9:47",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Le-prove-equipollenti-3.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Formazione docenti, ‘la nuova arma’ contro le dipendenze: il Decreto Scuola investe 1 milione di euro per preparare gli insegnanti a riconoscere e affrontare i segnali di disagio tra gli studenti",
@@ -143,12 +172,7 @@
                 "date": "26 Apr 2025",
                 "time": "8:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Screenshot-2025-04-23-125147.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Scuola senza zaino: niente libri da casa, banchi a isole, materiale condiviso e più collaborazione in classe. Il modello innovativo che cambia la didattica",
@@ -268,30 +292,6 @@
                 "date": "25 Apr 2025",
                 "time": "9:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_638525389.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "In Italia il 16% tra i 16 e i 19 anni scrive codice. Digital skills tra i giovani, in Europa le ragazze brillano nonostante lo scarto con i ragazzi. I dati EUROSTAT",
-                "link": "https://www.orizzontescuola.it/in-italia-il-16-tra-i-16-e-i-19-anni-scrive-codice-digital-skills-tra-i-giovani-in-europa-le-ragazze-brillano-nonostante-lo-scarto-con-i-ragazzi-i-dati-eurostat/",
-                "date": "25 Apr 2025",
-                "time": "8:51",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2546797065.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "ATA 24 mesi e scioglimento riserva CIAD, le info utili per compilare le domande dal 28 aprile. RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/ata-24-mesi-e-scioglimento-riserva-ciad-le-info-utili-per-compilare-le-domande-dal-28-aprile-risposte-ai-quesiti/",
-                "date": "25 Apr 2025",
-                "time": "8:36",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2577242043.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Bugia o verità? Oltre il 50% degli adolescenti mente prima di aver compiuto un’azione disapprovata dai genitori, ma solo l’8% riesce a mentire a lungo. La ricerca",
-                "link": "https://www.orizzontescuola.it/bugia-o-verita-oltre-il-50-degli-adolescenti-mente-prima-di-aver-compiuto-unazione-disapprovata-dai-genitori-ma-solo-l8-riesce-a-mentire-a-lungo-la-ricerca/",
-                "date": "25 Apr 2025",
-                "time": "8:07",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1756024634.jpg"
             }
         ]
     },
