@@ -18,6 +18,55 @@
         "articles": [
             {
                 "category": "Cronaca",
+                "title": "Docenti robot e Intelligenza artificiale, impossibile? Vi sbagliavate: dal progetto EASEL ai robot negli asili, dall’esperimento Captcha ai tutor virtuali. Cosa succede nel mondo",
+                "link": "https://www.orizzontescuola.it/docenti-robot-e-intelligenza-artificiale-impossibile-vi-sbagliavate-dal-progetto-easel-ai-robot-negli-asili-dallesperimento-toscano-ai-tutor-virtuali-cosa-succede-nel-mondo/",
+                "date": "27 Apr 2025",
+                "time": "10:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2612336579.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Graduatorie ATA 24 mesi, domande dal 28 aprile: cosa deve fare chi è già inserito",
+                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-domande-dal-28-aprile-cosa-deve-fare-chi-e-gia-inserito/",
+                "date": "27 Apr 2025",
+                "time": "9:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_2023734317-scaled.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Graduatorie terza fascia ATA: CIAD entro il 30 aprile, scioglimento riserva dal 28",
+                "link": "https://www.orizzontescuola.it/graduatorie-terza-fascia-ata-ciad-entro-il-30-aprile-scioglimento-riserva-dal-28/",
+                "date": "27 Apr 2025",
+                "time": "8:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1936676008-scaled.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Il potere segreto delle emoji, comunicare a colpi di 🔥, 💯 e 👁👄👁: se un teschio non significa morte e lo smalto alle unghie non ha nulla a che fare con il fashion",
+                "link": "https://www.orizzontescuola.it/il-potere-segreto-delle-emoji-comunicare-a-colpi-di-%f0%9f%94%a5-%f0%9f%92%af-e-%f0%9f%91%81%f0%9f%91%84%f0%9f%91%81-se-un-teschio-non-significa-morte-e-lo-smalto-alle-unghie-non-ha-nulla-a-che-far/",
+                "date": "27 Apr 2025",
+                "time": "8:07",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2501435221.jpg"
+            },
+            {
+                "category": "Genitori",
+                "title": "Ansia, depressione ritiro sociale e ancora aggressività, impulsività e comportamenti oppositivi: quanto e come incide il ruolo della famiglia? Lo studio",
+                "link": "https://www.orizzontescuola.it/ansia-depressione-ritiro-sociale-e-ancora-aggressivita-impulsivita-e-comportamenti-oppositivi-quanto-e-come-incide-il-ruolo-della-famiglia-lo-studio/",
+                "date": "27 Apr 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2087553244.jpg"
+            },
+            {
+                "category": "Plus",
+                "title": "Intelligenza Artificiale nelle segreterie scolastiche: semplificare e ottimizzare il lavoro quotidiano. Corso gratuito utile per DSGA, segretari e Dirigenti",
+                "link": "https://www.orizzontescuola.it/intelligenza-artificiale-nelle-segreterie-scolastiche-semplificare-e-ottimizzare-il-lavoro-quotidiano-corso-gratuito-utile-per-dsga-segretari-e-dirigenti/",
+                "date": "27 Apr 2025",
+                "time": "7:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Presentazione-Digitale-Retro-Minimal-Bianco-e-Verde-Acqua-1200-x-630-px-1000-x-500-px-3.webp"
+            },
+            null,
+            {
+                "category": "Cronaca",
                 "title": "Dizione a scuola: una competenza necessaria o un lusso per pochi? L’appello: “Non è solo per attori e doppiatori, ma uno strumento di libertà espressiva”",
                 "link": "https://www.orizzontescuola.it/dizione-a-scuola-una-competenza-necessaria-o-un-lusso-per-pochi-lappello-non-e-solo-per-attori-e-doppiatori-ma-uno-strumento-di-liberta-espressiva/",
                 "date": "26 Apr 2025",
@@ -87,7 +136,12 @@
                 "date": "26 Apr 2025",
                 "time": "12:52",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2452786407-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Esame di Stato, il TAR Lazio respinge il ricorso di uno studente privatista: nessuna disparità di trattamento nelle valutazioni. SENTENZA",
@@ -143,12 +197,7 @@
                 "date": "26 Apr 2025",
                 "time": "9:47",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Le-prove-equipollenti-3.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Formazione docenti, ‘la nuova arma’ contro le dipendenze: il Decreto Scuola investe 1 milione di euro per preparare gli insegnanti a riconoscere e affrontare i segnali di disagio tra gli studenti",
@@ -236,62 +285,6 @@
                 "date": "25 Apr 2025",
                 "time": "11:45",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/11/hamburg-1593802_1920-1200x800.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Personale ATA, fruizione delle ferie non godute di norma non oltre il mese di aprile",
-                "link": "https://www.orizzontescuola.it/personale-ata-fruizione-delle-ferie-non-godute-di-norma-non-oltre-il-mese-di-aprile/",
-                "date": "25 Apr 2025",
-                "time": "11:08",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2198390061.jpg"
-            },
-            {
-                "category": "Stipendio",
-                "title": "Accredito stipendio docenti e ATA, come cambiare l’IBAN su NoiPA",
-                "link": "https://www.orizzontescuola.it/accredito-stipendio-docenti-e-ata-come-cambiare-liban-su-noipa/",
-                "date": "25 Apr 2025",
-                "time": "10:39",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1521388211.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "GPS elenco aggiuntivo prima fascia: si può iscrivere con riserva chi inizia il percorso abilitante a maggio? Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/gps-elenco-aggiuntivo-prima-fascia-si-puo-iscrivere-con-riserva-chi-inizia-il-percorso-abilitante-a-maggio-pillole-di-questiontime/",
-                "date": "25 Apr 2025",
-                "time": "10:37",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2519280093.jpg"
-            },
-            {
-                "category": "Guide",
-                "title": "La classe entra dopo o anticipa l’uscita per assenza del docente: è corretto inserire sul Registro elettronico il suo nominativo?",
-                "link": "https://www.orizzontescuola.it/il-docente-e-assente-e-la-classe-entra-dopo-o-anticipa-luscita-e-corretto-inserire-il-suo-nominativo/",
-                "date": "25 Apr 2025",
-                "time": "10:33",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2322853035.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Biblioteche scolastiche, domande fondo promozione lettura entro il 30 aprile",
-                "link": "https://www.orizzontescuola.it/biblioteche-scolastiche-domande-fondo-promozione-lettura-entro-il-30-aprile/",
-                "date": "25 Apr 2025",
-                "time": "9:57",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1708628347.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "25 Aprile, 80 anni dalla Liberazione. Valditara: “Oggi celebriamo i valori di libertà e democrazia”",
-                "link": "https://www.orizzontescuola.it/25-aprile-80-anni-dalla-liberazione-valditara-oggi-celebriamo-i-valori-di-liberta-e-democrazia/",
-                "date": "25 Apr 2025",
-                "time": "9:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/JobOrienta2024_Veronafiere_EnneviFoto_Valditara_light-scaled.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Papa Francesco e la parolaccia detta alla maestra, “mia mamma mi disse di chiedere scusa”. In ricordo del Pontefice",
-                "link": "https://www.orizzontescuola.it/papa-francesco-e-la-parolaccia-detta-alla-maetra-mia-mamma-mi-disse-di-chiedere-scusa-in-ricordo-del-pontefice/",
-                "date": "25 Apr 2025",
-                "time": "9:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_638525389.jpg"
             }
         ]
     },
@@ -566,6 +559,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Elenchi aggiuntivi alla prima fascia GPS: mi iscrivo con riserva? cosa scrivo in “durata legale”? posso aggiungere il servizio? RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/elenchi-aggiuntivi-alla-prima-fascia-gps-mi-iscrivo-con-riserva-cosa-scrivo-in-durata-legale-posso-aggiungere-il-servizio-risposte-ai-quesiti/",
+                "date": "24 Apr 2025",
+                "time": "9:53",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2361952943-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "GPS elenco aggiuntivo prima fascia 2025: classi di concorso ITP non hanno il punteggio in più dei percorsi abilitanti. Pillole di QuestionTime",
                 "link": "https://www.orizzontescuola.it/gps-elenco-aggiuntivo-prima-fascia-2025-classi-di-concorso-itp-non-hanno-il-punteggio-dei-percorsi-abilitanti-pillole-di-questiontime/",
                 "date": "23 Apr 2025",
@@ -603,14 +604,6 @@
                 "date": "23 Apr 2025",
                 "time": "9:46",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_59277838.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Abilitazione inserita nell’elenco aggiuntivo non sarà valutata nella GPS sostegno prima fascia per il 2025/26.  Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/abilitazione-inserita-nellelenco-aggiuntivo-non-sara-valutata-nella-gps-sostegno-prima-fascia-per-il-2025-26-pillole-di-questiontime/",
-                "date": "22 Apr 2025",
-                "time": "19:29",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2120807768.jpg"
             }
         ]
     },
@@ -725,6 +718,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Anche per il 2025/26 blocco degli organici per il personale educativo dei convitti",
+                "link": "https://www.orizzontescuola.it/anche-per-il-2025-26-blocco-degli-organici-per-il-personale-educativo-dei-convitti/",
+                "date": "27 Apr 2025",
+                "time": "9:12",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "“Mi piacerebbe fare un’esperienza in carcere”. Richiesta dietro una dichiarazione che interroga l’educazione. Lettera",
                 "link": "https://www.orizzontescuola.it/mi-piacerebbe-fare-unesperienza-in-carcere-richiesta-dietro-una-dichiarazione-che-interroga-leducazione-lettera/",
                 "date": "24 Apr 2025",
@@ -761,14 +762,6 @@
                 "link": "https://www.orizzontescuola.it/festivita-pasquali-come-stanno-trascorrendo-questi-giorni-i-nostri-studenti-lettera/",
                 "date": "20 Apr 2025",
                 "time": "19:36",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Concorso dirigente scolastico, bocciata dopo aver già vinto il precedente concorso. Lettera",
-                "link": "https://www.orizzontescuola.it/concorso-dirigente-scolastico-bocciata-dopo-aver-gia-vinto-il-precedente-concorso-lettera/",
-                "date": "20 Apr 2025",
-                "time": "9:40",
                 "image_link": "N/A"
             }
         ]
