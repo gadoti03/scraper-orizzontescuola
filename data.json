@@ -17,6 +17,30 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Guide",
+                "title": "Supplenza: rientro docente dopo il 30 aprile, i casi di proroga",
+                "link": "https://www.orizzontescuola.it/supplenza-rientro-docente-dopo-il-30-aprile-i-casi-di-proroga/",
+                "date": "27 Apr 2025",
+                "time": "12:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/shutterstock_64286479-1.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Aspiranti inseriti con riserva in prima fascia GPS:  devono presentare una nuova domanda entro il 29 aprile? Pillole di QuestionTime",
+                "link": "https://www.orizzontescuola.it/aspiranti-inseriti-con-riserva-in-prima-fascia-gps-devono-presentare-una-nuova-domanda-entro-il-29-aprile-pillole-di-questiontime/",
+                "date": "27 Apr 2025",
+                "time": "11:29",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492177333-scaled.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Agli studenti del Sud sottratti due anni di studio tra Infanzia e Primaria. La denuncia: “Dirigenti non fanno richiesta per tempo prolungato ed enti non stanziano fondi”",
+                "link": "https://www.orizzontescuola.it/agli-studenti-del-sud-sottratti-due-anni-di-studio-tra-infanzia-e-primaria-la-denuncia-dirigenti-non-fanno-richiesta-per-tempo-prolungato-ed-enti-non-stanziano-fondi/",
+                "date": "27 Apr 2025",
+                "time": "11:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_2251404397.jpg"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Docenti robot e Intelligenza artificiale, impossibile? Vi sbagliavate: dal progetto EASEL ai robot negli asili, dall’esperimento Captcha ai tutor virtuali. Cosa succede nel mondo",
                 "link": "https://www.orizzontescuola.it/docenti-robot-e-intelligenza-artificiale-impossibile-vi-sbagliavate-dal-progetto-easel-ai-robot-negli-asili-dallesperimento-toscano-ai-tutor-virtuali-cosa-succede-nel-mondo/",
@@ -112,7 +136,12 @@
                 "date": "26 Apr 2025",
                 "time": "15:06",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2456270825.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Lezione frontale o didattica innovativa? Il post di una docente sui social scatena il confronto: studenti che rifiutano le novità e insegnanti in bilico tra tradizione e nuove metodologie",
@@ -136,12 +165,7 @@
                 "date": "26 Apr 2025",
                 "time": "12:52",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2452786407-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Esame di Stato, il TAR Lazio respinge il ricorso di uno studente privatista: nessuna disparità di trattamento nelle valutazioni. SENTENZA",
@@ -261,30 +285,6 @@
                 "date": "25 Apr 2025",
                 "time": "17:26",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_164173430.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Abilitazione GPS elenco aggiuntivo 2025: punteggio aggiuntivo anche ai 30 CFU online",
-                "link": "https://www.orizzontescuola.it/abilitazione-gps-elenco-aggiuntivo-2025-punteggio-aggiuntivo-anche-ai-30-cfu-online/",
-                "date": "25 Apr 2025",
-                "time": "13:17",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_1996119905.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Dichiarazione dei redditi 2025: precompilata disponibile dal 30 aprile, invio dal 15 maggio. Indicazioni e scadenze dell’Agenzia delle Entrate",
-                "link": "https://www.orizzontescuola.it/dichiarazione-dei-redditi-2025-precompilata-disponibile-dal-30-aprile-dal-15-maggio-si-puo-inviare-indicazioni-e-scadenze-dellagenzia-delle-entrate/",
-                "date": "25 Apr 2025",
-                "time": "12:01",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_2159948225.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Mobilità docente perdente posto 25/26: domanda condizionata o non condizionata?",
-                "link": "https://www.orizzontescuola.it/mobilita-docente-perdente-posto-25-26-domanda-condizionata-o-non-condizionata/",
-                "date": "25 Apr 2025",
-                "time": "11:45",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/11/hamburg-1593802_1920-1200x800.jpg"
             }
         ]
     },
@@ -442,6 +442,14 @@
         "articles": [
             {
                 "category": "Chiedilo a Lalla",
+                "title": "Mobilità docente perdente posto 25/26: domanda condizionata o non condizionata?",
+                "link": "https://www.orizzontescuola.it/mobilita-docente-perdente-posto-25-26-domanda-condizionata-o-non-condizionata/",
+                "date": "25 Apr 2025",
+                "time": "11:45",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
                 "title": "Domanda mobilità docente perdente posto 25/26: cosa succede se indico prima preferenze interprovinciali? Come viene assegnata la scuola?",
                 "link": "https://www.orizzontescuola.it/domanda-mobilita-docente-perdente-posto-25-26-cosa-succede-se-indico-prima-preferenze-interprovinciali-come-viene-assegnata-la-scuola/",
                 "date": "24 Apr 2025",
@@ -543,14 +551,6 @@
                 "date": "16 Apr 2025",
                 "time": "9:35",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Elenchi aggiuntivi GPS 2025/26: sia i percorsi abilitanti da 60 che da 30 CFU avranno lo stesso punteggio aggiuntivo, 24 punti",
-                "link": "https://www.orizzontescuola.it/elenchi-aggiuntivi-gps-2025-26-nessuna-differenza-di-punteggio-tra-percorso-abilitante-da-60-o-30-cfu/",
-                "date": "15 Apr 2025",
-                "time": "17:15",
-                "image_link": "N/A"
             }
         ]
     },
@@ -612,6 +612,14 @@
         "articles": [
             {
                 "category": "ATA",
+                "title": "Graduatorie ATA 24 mesi 2025/26, certificazione CIAD entro il 30 aprile. Non dà punteggio",
+                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-2025-26-certificazione-ciad-entro-il-30-aprile-non-da-punteggio/",
+                "date": "23 Apr 2025",
+                "time": "8:27",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2467525223.jpg"
+            },
+            {
+                "category": "ATA",
                 "title": "Graduatorie ATA prima fascia, come calcolare i 24 mesi di servizio",
                 "link": "https://www.orizzontescuola.it/graduatorie-ata-prima-fascia-come-calcolare-i-24-mesi/",
                 "date": "22 Apr 2025",
@@ -649,14 +657,6 @@
                 "date": "19 Apr 2025",
                 "time": "6:47",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_1024012849.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Graduatorie 24 mesi ATA, riserva 15% posti anche per il servizio civile nazionale. Novità",
-                "link": "https://www.orizzontescuola.it/graduatorie-24-mesi-ata-riserva-15-posti-anche-per-il-servizio-civile-nazionale-novita/",
-                "date": "18 Apr 2025",
-                "time": "18:37",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2577242043.jpg"
             }
         ]
     },
