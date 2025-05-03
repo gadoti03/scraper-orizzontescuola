@@ -31,6 +31,38 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Docenti",
+                "title": "Mobilità docenti 2025: quando gli esiti? Potrò rinunciare al trasferimento concesso?",
+                "link": "https://www.orizzontescuola.it/mobilita-docenti-2025-quando-gli-esiti-potro-rinunciare-al-trasferimento-concesso/",
+                "date": "3 Mag 2025",
+                "time": "14:36",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_503283772.jpg"
+            },
+            {
+                "category": "Studenti",
+                "title": "Una buona dieta aiuta la concentrazione nello studio, i consigli: no zuccheri, poco caffè e idratatevi",
+                "link": "https://www.orizzontescuola.it/una-buona-dieta-aiuta-la-concentrazione-nello-studio-i-consigli-no-zuccheri-poco-caffe-e-idratatevi/",
+                "date": "3 Mag 2025",
+                "time": "11:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2399560955.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso secondaria PNRR2. ecco come si valuta la prova pratica e le indicazioni per lo svolgimento",
+                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-ecco-come-si-valuta-la-prova-pratica-e-le-indicazioni-per-lo-svolgimento/",
+                "date": "3 Mag 2025",
+                "time": "11:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/Laboratorio.jpeg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Educazione sessuale, Valditara: “Inopportuna alla scuola dell’infanzia e primaria. Educazione al rispetto per tutti, non serve consenso genitori”",
+                "link": "https://www.orizzontescuola.it/educazione-sessuale-valditara-inopportuna-alla-scuola-dellinfanzia-e-primaria-educazione-al-rispetto-per-tutti-non-serve-consenso-genitori/",
+                "date": "3 Mag 2025",
+                "time": "10:39",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/Valditara_2.jpeg"
+            },
             null,
             {
                 "category": "Politica scolastica",
@@ -112,7 +144,12 @@
                 "date": "2 Mag 2025",
                 "time": "17:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_2189637829.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             null,
             {
                 "category": "Scuole",
@@ -137,12 +174,7 @@
                 "date": "2 Mag 2025",
                 "time": "15:22",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Modello-immagine-sito-12.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "ATA",
                 "title": "Organici ATA, l’operatore scolastico arriverà nel 2026/27. Confermati 131 mila collaboratori per il prossimo anno",
@@ -254,37 +286,60 @@
                 "date": "2 Mag 2025",
                 "time": "8:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/futura0.gif"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Nuove indicazioni, vecchie = progressiste e nuove = di destra? Calvani: “Meglio parlare di evidenze sperimentali. Vi spiego le criticità delle vecchie e delle nuove”",
-                "link": "https://www.orizzontescuola.it/nuove-indicazioni-vecchie-progressiste-e-nuove-di-destra-calvani-meglio-parlare-di-evidenze-sperimentali-vi-spiego-le-criticita-delle-vecchie-e-delle-nuove/",
-                "date": "2 Mag 2025",
-                "time": "8:02",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/Progetto-senza-titolo-3.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "Poteri e limiti del Dirigente scolastico. Una guida normativa",
-                "link": "https://www.orizzontescuola.it/poteri-e-limiti-del-dirigente-scolastico-una-guida-normativa/",
-                "date": "2 Mag 2025",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1849649497-scaled.jpg"
-            },
-            null,
-            {
-                "category": "Cronaca",
-                "title": "L’intelligenza artificiale entra in classe: tra compiti ‘delegati’ ai chatbot e tutor virtuali ministeriali, la scuola affronta la rivoluzione digitale che cambierà per sempre l’apprendimento",
-                "link": "https://www.orizzontescuola.it/lintelligenza-artificiale-entra-in-classe-tra-compiti-delegati-ai-chatbot-e-tutor-virtuali-ministeriali-la-scuola-affronta-la-rivoluzione-digitale-che-cambiera-per-sempre-lapprendimento/",
-                "date": "1 Mag 2025",
-                "time": "20:46",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2426619081-scaled.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "A Cesenatico una nuova scuola immersa in quasi 2mila metri quadrati di verde, moderna e sostenibile",
+                "link": "https://www.orizzontescuola.it/a-cesenatico-una-nuova-scuola-immersa-in-quasi-2mila-metri-quadrati-di-verde-moderna-e-sostenibile/",
+                "date": "3 Mag 2025",
+                "time": "12:55",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Appalti, Anac: un Comune non può affidare il trasporto scolastico con procedura autonoma se c’è una gara centralizzata",
+                "link": "https://www.orizzontescuola.it/appalti-anac-un-comune-non-puo-affidare-il-trasporto-scolastico-con-procedura-autonoma-se-ce-una-gara-centralizzata/",
+                "date": "3 Mag 2025",
+                "time": "12:44",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Maestra licenziata per OnlyFans: “Ora guadagno 29mila euro al mese. Da insegnante 1.250”",
+                "link": "https://www.orizzontescuola.it/maestra-licenziata-per-onlyfans-ora-guadagno-29mila-euro-al-mese-da-insegnante-1-250/",
+                "date": "3 Mag 2025",
+                "time": "11:53",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Ad Armi Pari: la donna nel mondo antico. A Padova il Festival Antica.mente dal 9 all’11 maggio",
+                "link": "https://www.orizzontescuola.it/ad-armi-pari-la-donna-nel-mondo-antico-a-padova-il-festival-antica-mente-dal-9-all11-maggio/",
+                "date": "3 Mag 2025",
+                "time": "11:29",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Giornata internazionale della libertà di stampa, il CNDDU invita i docenti ad aderire all’iniziativa #InchiostroLibero",
+                "link": "https://www.orizzontescuola.it/giornata-internazionale-della-liberta-di-stampa-il-cnddu-invita-i-docenti-ad-aderire-alliniziativa-inchiostrolibero/",
+                "date": "3 Mag 2025",
+                "time": "11:21",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Coordinamento nazionale per l’inclusione: “Siamo contrari al docente di sostegno su conferma famiglie. Svilisce qualità inclusione”",
+                "link": "https://www.orizzontescuola.it/coordinamento-nazionale-per-linclusione-siamo-contrari-al-docente-di-sostegno-su-conferma-famiglie-svilisce-qualita-inclusione/",
+                "date": "3 Mag 2025",
+                "time": "10:51",
+                "image_link": "N/A"
+            },
             {
                 "category": "Studenti",
                 "title": "Sicilia: stanziati oltre 26 milioni per sostenere gli studenti meritevoli",
@@ -379,54 +434,6 @@
                 "link": "https://www.orizzontescuola.it/no-alle-prove-invalsi-il-7-maggio-sciopero-scuola-avviso-ministero/",
                 "date": "2 Mag 2025",
                 "time": "13:39",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Chi dorme non piglia pesci, ma ottiene risultati migliori: 15 minuti in più e gli effetti sulle funzioni cerebrali. Lo studio su oltre 3.200 adolescenti",
-                "link": "https://www.orizzontescuola.it/chi-dorme-non-piglia-pesci-ma-ottiene-risultati-migliori-15-minuti-in-piu-e-gli-effetti-sulle-funzioni-cerebrali-lo-studio-su-oltre-3-200-adolescenti/",
-                "date": "2 Mag 2025",
-                "time": "12:38",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Scuole cattoliche verso un codice di condotta unico: vietati OnlyFans e post ‘scomodi’. La reazione della maestra licenziata: “La libertà viene prima del lavoro”",
-                "link": "https://www.orizzontescuola.it/scuole-cattoliche-verso-un-codice-di-condotta-unico-vietati-onlyfans-e-post-scomodi-la-reazione-della-maestra-licenziata-la-liberta-viene-prima-del-lavoro/",
-                "date": "2 Mag 2025",
-                "time": "11:49",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Natalità, Meloni: “Risultati ancora insufficienti, serve un cambio culturale”",
-                "link": "https://www.orizzontescuola.it/natalita-meloni-risultati-ancora-insufficienti-serve-un-cambio-culturale/",
-                "date": "2 Mag 2025",
-                "time": "10:54",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Collaboratore scolastico trova un portafoglio con 3.500 euro e lo restituisce: la turista ricompensa il suo altruismo, la polizia lo elogia e la storia diventa simbolo di integrità e correttezza",
-                "link": "https://www.orizzontescuola.it/collaboratore-scolastico-trova-un-portafoglio-con-3-500-euro-e-lo-restituisce-la-turista-ricompensa-il-suo-altruismo-la-polizia-lo-elogia-e-la-storia-diventa-simbolo-di-integrita-e-correttezza/",
-                "date": "2 Mag 2025",
-                "time": "10:42",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Libertà di stampa 2025: Italia in caduta libera, peggior risultato in Europa Occidentale. Come formare cittadini critici nell’era della disinformazione",
-                "link": "https://www.orizzontescuola.it/liberta-di-stampa-2025-italia-in-caduta-libera-peggior-risultato-in-europa-occidentale-come-formare-cittadini-critici-nellera-della-disinformazione/",
-                "date": "2 Mag 2025",
-                "time": "10:33",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Educazione sessuale e consenso informato, Petri: “Se l’educazione è una materia, va demandata senza se e senza ma”",
-                "link": "https://www.orizzontescuola.it/educazione-sessuale-e-consenso-informato-petri-se-leducazione-e-una-materia-va-demandata-senza-se-e-senza-ma/",
-                "date": "2 Mag 2025",
-                "time": "9:49",
                 "image_link": "N/A"
             }
         ]
@@ -712,6 +719,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Il buono scuola è per il diritto dei genitori-educatori. Lettera",
+                "link": "https://www.orizzontescuola.it/il-buono-scuola-e-per-il-diritto-dei-genitori-educatori-lettera/",
+                "date": "3 Mag 2025",
+                "time": "11:34",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "La nota sui compiti di Valditara è uno strumento utile contro gli eccessi valutativi. Lettera",
                 "link": "https://www.orizzontescuola.it/la-nota-sui-compiti-di-valditara-e-uno-strumento-utile-contro-gli-eccessi-valutativi-lettera/",
                 "date": "1 Mag 2025",
@@ -748,14 +763,6 @@
                 "link": "https://www.orizzontescuola.it/il-digitale-nella-scuola-secondo-il-presidente-dellinvalsi-riflessioni-e-limiti-lettera/",
                 "date": "29 Apr 2025",
                 "time": "19:08",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Anche per il 2025/26 blocco degli organici per il personale educativo dei convitti",
-                "link": "https://www.orizzontescuola.it/anche-per-il-2025-26-blocco-degli-organici-per-il-personale-educativo-dei-convitti/",
-                "date": "27 Apr 2025",
-                "time": "9:12",
                 "image_link": "N/A"
             }
         ]
