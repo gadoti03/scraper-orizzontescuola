@@ -33,6 +33,54 @@
         "articles": [
             {
                 "category": "Cronaca",
+                "title": "Classi pollaio, genitori fanno ricorso, ma lo perdono. I giudici: “Serve dimostrare il danno subito dagli studenti per ottenere tutela”. SENTENZA",
+                "link": "https://www.orizzontescuola.it/classi-pollaio-genitori-fanno-ricorso-ma-lo-perdono-i-giudici-serve-dimostrare-il-danno-subito-dagli-studenti-per-ottenere-tutela-sentenza/",
+                "date": "4 Mag 2025",
+                "time": "12:32",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_675123196.jpg"
+            },
+            {
+                "category": "Studenti",
+                "title": "Letteratura dimenticata negli istituti professionali? La proposta che fa discutere: “Sostituire i classici con testi che preparino al lavoro reale. Si parli di marginalità, fabbriche e riscatto”",
+                "link": "https://www.orizzontescuola.it/letteratura-dimenticata-negli-istituti-professionali-la-proposta-che-fa-discutere-sostituire-i-classici-con-testi-che-preparino-al-lavoro-reale-si-parli-di-marginalita-fabbriche-e-riscatto/",
+                "date": "4 Mag 2025",
+                "time": "11:18",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2450794843-1.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Violenza a scuola, studente aggredisce vicepreside con un calcio. Il suo racconto: “Sono stata minacciata di morte, ma il mio pensiero va a lui. Ha bisogno di supporto, non di essere abbandonato”",
+                "link": "https://www.orizzontescuola.it/violenza-a-scuola-studente-aggredisce-vicepreside-con-un-calcio-il-suo-racconto-sono-stata-minacciata-di-morte-ma-il-mio-pensiero-va-a-lui-ha-bisogno-di-supporto-non-di-essere-abbandonato/",
+                "date": "4 Mag 2025",
+                "time": "10:54",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_1702576117.jpg"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Coordinamento nazionale per l’inclusione: “No a docente di sostegno scelto dalle famiglie, terreno fertile per clientelismo”",
+                "link": "https://www.orizzontescuola.it/coordinamento-nazionale-per-linclusione-siamo-contrari-al-docente-di-sostegno-su-conferma-famiglie-svilisce-qualita-inclusione/",
+                "date": "4 Mag 2025",
+                "time": "10:51",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_92401018.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Libri di testo uguali per classi parallele? Una riflessione",
+                "link": "https://www.orizzontescuola.it/libri-di-testo-uguali-per-classi-parallele-una-riflessione/",
+                "date": "4 Mag 2025",
+                "time": "10:45",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_244451953-scaled.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Arresto in flagranza per chi aggredisce i professori. Feltri: “Finalmente si ripristina l’autorità, la scuola non è una zona di guerra. Un insegnante non deve uscire di casa con elmetto”",
+                "link": "https://www.orizzontescuola.it/arresto-in-flagranza-per-chi-aggredisce-i-professori-feltri-finalmente-si-ripristina-lautorita-la-scuola-non-e-una-zona-di-guerra-un-insegnante-non-deve-uscire-di-casa-con-elmetto/",
+                "date": "4 Mag 2025",
+                "time": "10:31",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/02/Vittorio_Feltri.jpg"
+            },
+            {
+                "category": "Cronaca",
                 "title": "“La scuola non è un villaggio turistico”, circolare sul dress code in classe: “Sì a bermuda e t-shirt, ma con colori sobri. Necessari decoro e rispetto”",
                 "link": "https://www.orizzontescuola.it/la-scuola-non-e-un-villaggio-turistico-circolare-sul-dress-code-in-classe-si-a-bermuda-e-t-shirt-ma-con-colori-sobri-necessari-decoro-e-rispetto/",
                 "date": "4 Mag 2025",
@@ -103,7 +151,12 @@
                 "date": "3 Mag 2025",
                 "time": "20:08",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_244451953-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Assunzione in ruolo vincitori non abilitati concorso PNRR1: che succede se nella scuola si perde un posto nella scuola? E se classe di concorso è in esubero?",
@@ -151,12 +204,7 @@
                 "date": "3 Mag 2025",
                 "time": "14:36",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_503283772.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Studenti",
                 "title": "Una buona dieta aiuta la concentrazione nello studio, i consigli: no zuccheri, poco caffè e idratatevi",
@@ -238,53 +286,20 @@
                 "time": "7:40",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2503768145.jpg"
             },
-            null,
-            {
-                "category": "Docenti",
-                "title": "Maturità 2025, documento 15 maggio. Cosa allegare, a cosa serve durante l’Esame di Stato",
-                "link": "https://www.orizzontescuola.it/maturita-2025-documento-15-maggio-cosa-allegare-a-cosa-serve-durante-lesame-di-stato/",
-                "date": "3 Mag 2025",
-                "time": "7:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2554071589.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi sostegno INDIRE 2025: sia quello dei triennalisti che degli abilitati estero durano non meno di quattro mesi. Perché è importante che si concludano entro dicembre",
-                "link": "https://www.orizzontescuola.it/percorsi-sostegno-indire-2025-sia-quello-dei-triennalisti-che-degli-abilitati-estero-durano-non-meno-di-quattro-mesi-perche-e-importante-che-si-concludano-entro-dicembre/",
-                "date": "2 Mag 2025",
-                "time": "18:02",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_1958115694.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Presentazione della delibera di approvazione del Conto Consuntivo: modello in allegato",
-                "link": "https://www.orizzontescuola.it/presentazione-della-delibera-di-approvazione-del-conto-consuntivo-modello-in-allegato/",
-                "date": "2 Mag 2025",
-                "time": "17:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_2189637829.jpg"
-            },
-            null,
-            {
-                "category": "Scuole",
-                "title": "PEI nel registro elettronico: supplente sbaglia flag e lo rende visibile ai genitori di tutta la classe, ma solo per 22 minuti. Garante privacy ammonisce la scuola",
-                "link": "https://www.orizzontescuola.it/pei-nel-registro-elettronico-supplente-sbaglia-flag-e-lo-rende-visibile-alla-classe-ma-solo-per-22-minuti-garante-privacy-ammonisce-la-scuola/",
-                "date": "2 Mag 2025",
-                "time": "16:49",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_1029430381.jpg"
-            },
-            {
-                "category": "Stipendio",
-                "title": "Stipendio docenti e ATA, taglio del cuneo fiscale: a giugno adeguamento delle buste paga. L’annuncio del MEF",
-                "link": "https://www.orizzontescuola.it/stipendio-docenti-e-ata-taglio-del-cuneo-fiscale-a-giugno-adeguamento-delle-buste-paga-lannuncio-del-mef/",
-                "date": "2 Mag 2025",
-                "time": "15:56",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/11/Soldi.jpg"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Pasticceria, la Sicilia trionfa al campionato nazionale degli istituti alberghieri",
+                "link": "https://www.orizzontescuola.it/pasticceria-la-sicilia-trionfa-al-campionato-nazionale-degli-istituti-alberghieri/",
+                "date": "4 Mag 2025",
+                "time": "12:44",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Bimbi in moschea per una lezione di Islam: la gita scolastica che divide genitori e insegnanti. Polemiche sui social: “Indottrinamento”, “Dialogo interculturale”",
@@ -419,14 +434,6 @@
                 "link": "https://www.orizzontescuola.it/giornata-internazionale-della-liberta-di-stampa-il-cnddu-invita-i-docenti-ad-aderire-alliniziativa-inchiostrolibero/",
                 "date": "3 Mag 2025",
                 "time": "11:21",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Coordinamento nazionale per l’inclusione: “Siamo contrari al docente di sostegno su conferma famiglie. Svilisce qualità inclusione”",
-                "link": "https://www.orizzontescuola.it/coordinamento-nazionale-per-linclusione-siamo-contrari-al-docente-di-sostegno-su-conferma-famiglie-svilisce-qualita-inclusione/",
-                "date": "3 Mag 2025",
-                "time": "10:51",
                 "image_link": "N/A"
             }
         ]
@@ -606,6 +613,14 @@
         "articles": [
             {
                 "category": "ATA",
+                "title": "Organici ATA 2025/26, nessuna variazione rispetto al 2024/25, ma -10mila posti in 15 anni. La distribuzione per profilo professionale e Regione [TABELLE]",
+                "link": "https://www.orizzontescuola.it/organici-ata-2025-26-nessuna-variazione-rispetto-al-2024-25-ma-10mila-posti-in-15-anni-la-distribuzione-per-profilo-professionale-e-regione-tabelle/",
+                "date": "30 Apr 2025",
+                "time": "15:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/07/Ministero-1200x900.jpeg"
+            },
+            {
+                "category": "ATA",
                 "title": "Domande graduatorie ATA 24 mesi, come compilare il Modello H (legge 104) e caricare gli allegati. TUTORIAL",
                 "link": "https://www.orizzontescuola.it/domande-graduatorie-ata-24-mesi-il-modello-h-per-chi-usufruisce-della-legge-104/",
                 "date": "30 Apr 2025",
@@ -643,14 +658,6 @@
                 "date": "30 Apr 2025",
                 "time": "9:25",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2456756593.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Mobilità personale ATA 2025/26, revoca domande entro il 2 maggio. Pubblicazione esiti il 3 giugno",
-                "link": "https://www.orizzontescuola.it/mobilita-personale-ata-2025-26-revoca-domande-entro-il-2-maggio-pubblicazione-esiti-il-3-giugno/",
-                "date": "30 Apr 2025",
-                "time": "8:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_484027591.jpg"
             }
         ]
     },
