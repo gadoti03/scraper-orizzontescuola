@@ -24,6 +24,30 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze 2024/25, ultimo mese per gli INTERPELLI [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "5 Mag 2025",
+                "time": "20:19",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Prove Invalsi 2025, il 6 maggio al via per la scuola primaria. Iniziano gli alunni delle quinte con Inglese",
+                "link": "https://www.orizzontescuola.it/prove-invalsi-2025-il-6-maggio-al-via-per-la-scuola-primaria-iniziano-gli-alunni-delle-quinte-con-inglese/",
+                "date": "5 Mag 2025",
+                "time": "19:56",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2492437891.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Mobilità docenti 2025, ecco i posti disponibili per i trasferimenti. Pubblicazione esiti il 23 maggio",
+                "link": "https://www.orizzontescuola.it/mobilita-docenti-2025-ecco-i-posti-disponibili-per-i-trasferimenti-pubblicazione-esiti-il-23-maggio/",
+                "date": "5 Mag 2025",
+                "time": "19:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_130754711.jpg"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Basta con le sculacciate e gli schiaffi ai figli, i genitori devono educare “senza violenza”. Svolta in Svizzera",
                 "link": "https://www.orizzontescuola.it/basta-con-le-sculacciate-e-gli-schiaffi-ai-figli-i-genitori-devono-educare-i-figli-senza-violenza-svolta-in-svizzera/",
@@ -119,7 +143,12 @@
                 "date": "5 Mag 2025",
                 "time": "13:14",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2343706297.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Docenti",
                 "title": "Concorso 145 dirigenti tecnici, ecco la commissione esaminatrice. DECRETO + integrazione",
@@ -143,12 +172,7 @@
                 "date": "5 Mag 2025",
                 "time": "12:04",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_1492511066.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "ATA",
                 "title": "Assegnazione ai plessi dei collaboratori scolastici: chi decide e come. Come avviene in comune diverso dalla sede di organico",
@@ -261,22 +285,36 @@
                 "time": "7:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1849649497-scaled.jpg"
             },
-            null,
-            null,
-            null,
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso secondaria PNRR2, oggi prova suppletiva di cinque minuti e un quesito. Chi può partecipare, come si supera",
-                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-oggi-prova-suppletiva-di-cinque-minuti-e-un-quesito-chi-puo-partecipare-come-si-supera/",
-                "date": "5 Mag 2025",
-                "time": "6:47",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2498781455.jpg"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Tajani: “Educazione fisica non è l’ora in cui si prepara l’interrogazione dell’ora dopo”",
+                "link": "https://www.orizzontescuola.it/tajani-educazione-fisica-non-e-lora-in-cui-si-prepara-linterrogazione-dellora-dopo/",
+                "date": "5 Mag 2025",
+                "time": "21:16",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Scuole infanzia Trento, Uil Scuola: “Assessore al lavoro per tenere in servizio le docenti fino al 31 luglio”",
+                "link": "https://www.orizzontescuola.it/scuole-infanzia-trento-uil-scuola-assessore-al-lavoro-per-tenere-in-servizio-le-docenti-fino-al-31-luglio/",
+                "date": "5 Mag 2025",
+                "time": "19:24",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "“No alle prove Invalsi”: il 7 maggio sciopero scuola. Avviso rettificato Ministero",
+                "link": "https://www.orizzontescuola.it/no-alle-prove-invalsi-il-7-maggio-sciopero-scuola-avviso-ministero/",
+                "date": "5 Mag 2025",
+                "time": "18:51",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Arrestati per aver espresso critiche ad un docente in un gruppo WhatsApp. Il monito ad un utilizzo più appropriato di questo strumento arriva dagli Stati Uniti",
@@ -395,30 +433,6 @@
                 "link": "https://www.orizzontescuola.it/allerta-meteo-lunedi-5-maggio-allerta-arancione-in-diverse-regioni-scuole-chiuse-in-alcune-localita-elenco-in-aggiornamento/",
                 "date": "4 Mag 2025",
                 "time": "16:03",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Pasticceria, la Sicilia trionfa al campionato nazionale degli istituti alberghieri",
-                "link": "https://www.orizzontescuola.it/pasticceria-la-sicilia-trionfa-al-campionato-nazionale-degli-istituti-alberghieri/",
-                "date": "4 Mag 2025",
-                "time": "12:44",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Latino obbligatorio alle medie: la proposta dell’AND per un’educazione linguistica radicata nella tradizione",
-                "link": "https://www.orizzontescuola.it/latino-obbligatorio-alle-medie-la-proposta-delland-per-uneducazione-linguistica-radicata-nella-tradizione/",
-                "date": "4 Mag 2025",
-                "time": "9:25",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Fa saluto nazista ad Auschwitz durante una gita scolastica: processato sia in Italia che in Polonia",
-                "link": "https://www.orizzontescuola.it/fa-saluto-nazista-ad-auschwitz-durante-una-gita-scolastica-processato-sia-in-italia-che-in-polonia/",
-                "date": "4 Mag 2025",
-                "time": "8:10",
                 "image_link": "N/A"
             }
         ]
