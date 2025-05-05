@@ -3,28 +3,20 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "Politica scolastica",
+                "title": "Quanto era bella scuola di una volta, quando il 15% della popolazione non ci andava e un terzo era analfabeta funzionale. “Sicuri fosse ‘bella’?” INTERVISTA a Simona Lonero",
+                "link": "https://www.orizzontescuola.it/quanto-era-bella-scuola-di-una-volta-quando-il-15-della-popolazione-non-ci-andava-e-un-terzo-era-analfabeta-funzionale-sicuri-fosse-bella-intervista-a-simona-lonero/",
+                "date": "5 Mag 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/Progetto-senza-titolo.png"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Corsi di specializzazione Indire 3 anni di servizio: chi può accedere, 40 CFU e corso di 4 mesi. DECRETO pubblicato [PDF]",
                 "link": "https://www.orizzontescuola.it/corsi-di-specializzazione-indire-3-anni-di-servizio-chi-puo-accedere-40-cfu-e-corso-di-4-mesi-decreto-pubblicato-pdf/",
                 "date": "29 Apr 2025",
                 "time": "13:01",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_2281563893.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Specializzazione sostegno Indire 2025, ecco il DECRETO per abilitati estero. Requisiti e CFU, da 900 a 1.500 euro l’iscrizione. [PDF]",
-                "link": "https://www.orizzontescuola.it/specializzazione-sostegno-indire-2025-ecco-il-decreto-per-abilitati-estero-requisiti-e-cfu-da-900-a-1-500-euro-liscrizione/",
-                "date": "29 Apr 2025",
-                "time": "12:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_2411289915.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "La storia di Greta, quoziente intellettivo 134, che sogna di fare l’insegnante. “Ho preso consapevolezza della mia plusodotazione grazie al film ‘Gifted'” INTERVISTA",
-                "link": "https://www.orizzontescuola.it/la-storia-di-greta-quoziente-intellettivo-134-che-sogna-di-fare-linsegnante-ho-preso-consapevolezza-della-mia-plusodotazione-grazie-al-film-gifted-intervista/",
-                "date": "29 Apr 2025",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Progetto-senza-titolo-1-2.png"
             }
         ]
     },
@@ -32,13 +24,117 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "Gite scolastiche in crisi: costi troppo alti escludono gli studenti. La soluzione? Scoprire il territorio a costi accessibili. Cosa accade a Pordenone",
+                "link": "https://www.orizzontescuola.it/gite-scolastiche-in-crisi-costi-troppo-alti-escludono-gli-studenti-la-soluzione-scoprire-il-territorio-a-costi-accessibili-cosa-accade-a-pordenone/",
+                "date": "5 Mag 2025",
+                "time": "9:32",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2607378793-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Specializzazione sostegno: triennalisti non potranno partecipare alla Mini Call veloce di agosto 2025. Pillole di QuestionTime",
+                "link": "https://www.orizzontescuola.it/specializzazione-sostegno-triennalisti-non-potranno-partecipare-alla-mini-call-veloce-di-agosto-2025-pillole-di-questiontime/",
+                "date": "5 Mag 2025",
+                "time": "9:25",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_92821282.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Più iscritti all’Università: scienze della formazione primaria incrementa del 149%, esplode scienze motorie nelle telematiche. La ricerca",
+                "link": "https://www.orizzontescuola.it/piu-iscritti-alluniversita-scienze-della-formazione-primaria-incrementa-del-149-esplode-scienze-motorie-nelle-telematiche-la-ricerca/",
+                "date": "5 Mag 2025",
+                "time": "8:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_685407808.jpg"
+            },
+            {
+                "category": "Didattica",
+                "title": "Arriva la bella stazione, usciamo fuori dalle aule e andiamo a conquistare il mondo",
+                "link": "https://www.orizzontescuola.it/arriva-la-bella-stazione-usciamo-fuori-dalle-aule-e-andiamo-a-conquistare-il-mondo/",
+                "date": "5 Mag 2025",
+                "time": "8:33",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2452185069.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "La scuola e i comportamenti irregolari dei giovani studenti: Rieducare o Punire?",
+                "link": "https://www.orizzontescuola.it/la-scuola-e-i-comportamenti-irregolari-dei-giovani-studenti-rieducare-o-punire/",
+                "date": "5 Mag 2025",
+                "time": "8:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/Progetto-senza-titolo-1.png"
+            },
+            {
+                "category": "Studenti",
+                "title": "Il 27% degli universitari ritiene che il PCTO faciliti la scelta dell’Università. Il 10% si affida agli influencer",
+                "link": "https://www.orizzontescuola.it/il-27-degli-universitari-ritiene-che-il-pcto-faciliti-la-scelta-delluniversita-il-10-si-affida-agli-influencer/",
+                "date": "5 Mag 2025",
+                "time": "8:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_632331374.jpg"
+            },
+            {
+                "category": "Scuole non statali",
+                "title": "Il “buono scuola” per iscrivere i figli alle scuole non statali: “ecco perché serve per esercitare un diritto inviolabile”",
+                "link": "https://www.orizzontescuola.it/il-buono-scuola-per-iscrivere-i-figli-alle-scuole-non-statali-ecco-perche-serve-per-esercitare-un-diritto-inviolabile/",
+                "date": "5 Mag 2025",
+                "time": "8:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_2334477723-scaled.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Scioglimento riserva terza fascia ATA, cosa succede a chi non ha ottenuto la CIAD entro il 30 aprile. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/scioglimento-riserva-terza-fascia-ata-cosa-succede-a-chi-non-ha-ottenuto-la-ciad-entro-il-30-aprile-risposte-ai-quesiti/",
+                "date": "5 Mag 2025",
+                "time": "8:05",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_2377017671.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Bullismo, atti vandalici, risse e interruzione di pubblico servizio in una scuola: il Dirigente e il personale sono obbligati alla denuncia. Ecco perché",
+                "link": "https://www.orizzontescuola.it/bullismo-atti-vandalici-risse-e-interruzione-di-pubblico-servizio-in-una-scuola-il-dirigente-e-il-personale-sono-obbligati-alla-denuncia-ecco-perche/",
+                "date": "5 Mag 2025",
+                "time": "7:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_1294728391.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Il nuovo sistema di valutazione dei DS: la struttura, le fasi, gli elementi di novità e criticità. Una guida normativa",
+                "link": "https://www.orizzontescuola.it/il-nuovo-sistema-di-valutazione-dei-ds-la-struttura-le-fasi-gli-elementi-di-novita-e-criticita-una-guida-normativa/",
+                "date": "5 Mag 2025",
+                "time": "7:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1849649497-scaled.jpg"
+            },
+            null,
+            null,
+            null,
+            {
+                "category": "ATA",
+                "title": "Scioglimento riserva terza fascia ATA: per alcuni c’è il blocco su Istanze online. Cosa fare. INDICAZIONI dagli Uffici Scolastici",
+                "link": "https://www.orizzontescuola.it/inserimento-ciad-terza-fascia-ata-domanda-su-istanze-online-solo-per-chi-e-inserito-con-riserva-gli-altri-alla-scuola-capofila-nota-roma/",
+                "date": "5 Mag 2025",
+                "time": "7:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_70854391.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso secondaria PNRR2, oggi prova suppletiva di cinque minuti e un quesito. Chi può partecipare, come si supera",
+                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-oggi-prova-suppletiva-di-cinque-minuti-e-un-quesito-chi-puo-partecipare-come-si-supera/",
+                "date": "5 Mag 2025",
+                "time": "6:47",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2498781455.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso secondaria PNRR2, ecco le convocazioni per la prova orale [IN AGGIORNAMENTO]",
                 "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-ecco-le-convocazioni-per-la-prova-orale-si-comincia-a-maggio-in-aggiornamento/",
                 "date": "4 Mag 2025",
                 "time": "22:14",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Docenti",
                 "title": "Professore ‘timido’ chiede aiuto sui social: come conquistare la fiducia degli studenti? Le risposte (sorprendenti) dei ragazzi",
@@ -46,6 +142,14 @@
                 "date": "4 Mag 2025",
                 "time": "19:46",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/shutterstock_2384798953.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Bimbi in moschea per una lezione di Islam, la gita scolastica fa discutere. L’USR Veneto avvia accertamenti",
+                "link": "https://www.orizzontescuola.it/bimbi-in-moschea-per-una-lezione-di-islam-la-gita-scolastica-che-divide-genitori-e-insegnanti-polemiche-sui-social-indottrinamento-dialogo-interculturale/",
+                "date": "4 Mag 2025",
+                "time": "19:42",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2583566781-scaled.jpg"
             },
             {
                 "category": "Cronaca",
@@ -70,14 +174,6 @@
                 "date": "4 Mag 2025",
                 "time": "17:44",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/09/Buoni-pasto-1200x800.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Allerta meteo scuole chiuse lunedì 5 maggio: stop in diversi comuni. ELENCO IN AGGIORNAMENTO",
-                "link": "https://www.orizzontescuola.it/allerta-meteo-lunedi-5-maggio-allerta-arancione-in-diverse-regioni-scuole-chiuse-in-alcune-localita-elenco-in-aggiornamento/",
-                "date": "4 Mag 2025",
-                "time": "16:03",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/Maltempo-1.png"
             },
             {
                 "category": "Studenti",
@@ -158,12 +254,7 @@
                 "date": "4 Mag 2025",
                 "time": "9:27",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2575098273.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "“Cibo sbriciolato, sedili rotti e poggiapiedi divelti”. Studenti in gita vandalizzano il pullman. Il racconto di un autista: “Ce l’ho più con i docenti accompagnatori che con i ragazzini”",
@@ -187,118 +278,28 @@
                 "date": "4 Mag 2025",
                 "time": "8:51",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/shutterstock_2348591403-scaled.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Graduatorie ATA 24 mesi, quali sono i titoli di riserva e come inserirli nella domanda. Si confermano in caso di aggiornamento. TUTORIAL",
-                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-quali-sono-i-titoli-di-riserva-e-come-inserirli-nella-domanda-si-confermano-in-caso-di-aggiornamento-tutorial/",
-                "date": "4 Mag 2025",
-                "time": "8:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Screenshot-2025-04-30-162153.png"
-            },
-            {
-                "category": "Genitori",
-                "title": "Solo il 18% dei figli dei diplomati ottiene una laurea, l’ascensore sociale in Italia si è rotto",
-                "link": "https://www.orizzontescuola.it/solo-il-18-dei-figli-dei-diplomati-ottiene-una-laurea-lascensore-sociale-in-italia-si-e-rotto/",
-                "date": "4 Mag 2025",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2250247063-1-scaled.jpg"
-            },
-            null,
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Mobilità nel comune di titolarità: trasferimento e passaggio di cattedra sono in due diverse fasi",
-                "link": "https://www.orizzontescuola.it/mobilita-nel-comune-di-titolarita-trasferimento-e-passaggio-di-cattedra-sono-in-due-diverse-fasi/",
-                "date": "3 Mag 2025",
-                "time": "20:08",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_244451953-scaled.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Assunzione in ruolo vincitori non abilitati concorso PNRR1: che succede se nella scuola si perde un posto? E se classe di concorso è in esubero?",
-                "link": "https://www.orizzontescuola.it/assunzione-in-ruolo-vincitori-non-abilitati-concorso-pnrr1-che-succede-se-nella-scuola-si-perde-un-posto-nella-scuola-e-se-classe-di-concorso-e-in-esubero/",
-                "date": "3 Mag 2025",
-                "time": "17:02",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/shutterstock_211281469.jpg"
-            },
-            {
-                "category": "Plus",
-                "title": "Intelligenza Artificiale nelle segreterie scolastiche: semplificare e ottimizzare il lavoro quotidiano. Corso gratuito utile per DSGA, segretari e Dirigenti",
-                "link": "https://www.orizzontescuola.it/intelligenza-artificiale-nelle-segreterie-scolastiche-semplificare-e-ottimizzare-il-lavoro-quotidiano-corso-gratuito-utile-per-dsga-segretari-e-dirigenti/",
-                "date": "3 Mag 2025",
-                "time": "16:38",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Presentazione-Digitale-Retro-Minimal-Bianco-e-Verde-Acqua-1200-x-630-px-1000-x-500-px-3.webp"
-            },
-            {
-                "category": "Scuole",
-                "title": "Elezioni RSU, invio verbali all’Aran entro il 6 maggio",
-                "link": "https://www.orizzontescuola.it/elezioni-rsu-invio-verbali-allaran-entro-il-6-maggio/",
-                "date": "3 Mag 2025",
-                "time": "15:28",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_552864952.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Proroga supplenza per rientro titolare dopo il 30 aprile: non è prevista alcuna interruzione contrattuale",
-                "link": "https://www.orizzontescuola.it/proroga-supplenza-per-rientro-titolare-dopo-il-30-aprile-non-e-prevista-alcuna-interruzione-contrattuale/",
-                "date": "3 Mag 2025",
-                "time": "15:22",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_2153640081.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Graduatorie terza fascia ATA, scioglimento riserva CIAD: ecco come modificare la domanda in caso di errori",
-                "link": "https://www.orizzontescuola.it/graduatorie-terza-fascia-ata-scioglimento-riserva-ciad-ecco-come-modificare-la-domanda-in-caso-di-errori/",
-                "date": "3 Mag 2025",
-                "time": "14:45",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/Screenshot-2025-05-02-184012.png"
-            },
-            {
-                "category": "Docenti",
-                "title": "Mobilità docenti 2025: quando gli esiti? Potrò rinunciare al trasferimento concesso?",
-                "link": "https://www.orizzontescuola.it/mobilita-docenti-2025-quando-gli-esiti-potro-rinunciare-al-trasferimento-concesso/",
-                "date": "3 Mag 2025",
-                "time": "14:36",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_503283772.jpg"
-            },
-            {
-                "category": "Studenti",
-                "title": "Una buona dieta aiuta la concentrazione nello studio, i consigli: no zuccheri, poco caffè e idratatevi",
-                "link": "https://www.orizzontescuola.it/una-buona-dieta-aiuta-la-concentrazione-nello-studio-i-consigli-no-zuccheri-poco-caffe-e-idratatevi/",
-                "date": "3 Mag 2025",
-                "time": "11:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2399560955.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso secondaria PNRR2. ecco come si valuta la prova pratica e le indicazioni per lo svolgimento",
-                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-ecco-come-si-valuta-la-prova-pratica-e-le-indicazioni-per-lo-svolgimento/",
-                "date": "3 Mag 2025",
-                "time": "11:24",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/Laboratorio.jpeg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Educazione sessuale, Valditara: “Inopportuna alla scuola dell’infanzia e primaria. Educazione al rispetto per tutti, non serve consenso genitori”",
-                "link": "https://www.orizzontescuola.it/educazione-sessuale-valditara-inopportuna-alla-scuola-dellinfanzia-e-primaria-educazione-al-rispetto-per-tutti-non-serve-consenso-genitori/",
-                "date": "3 Mag 2025",
-                "time": "10:39",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/Valditara_2.jpeg"
-            },
-            null,
-            {
-                "category": "Politica scolastica",
-                "title": "Circolare compiti, Valditara: “I docenti tengono conto delle esigenze degli studenti. Si migliora collaborazione scuola e famiglia”",
-                "link": "https://www.orizzontescuola.it/circolare-compiti-valditara-i-docenti-tengono-conto-delle-esigenze-degli-studenti-si-migliora-collaborazione-scuola-e-famiglia/",
-                "date": "3 Mag 2025",
-                "time": "9:54",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/Valditara-1.png"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Intelligenza artificiale nelle imprese, in Italia solo il 9%. Sotto la media europea. C’è necessità di formazione",
+                "link": "https://www.orizzontescuola.it/intelligenza-artificiale-nelle-imprese-in-italia-solo-il-9-sotto-la-media-europea-ce-necessita-di-formazione/",
+                "date": "5 Mag 2025",
+                "time": "8:50",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Educazione sessuale a scuola: “Non può essere una disciplina scolastica qualsiasi”",
+                "link": "https://www.orizzontescuola.it/educazione-sessuale-a-scuola-non-puo-essere-una-disciplina-scolastica-qualsiasi/",
+                "date": "5 Mag 2025",
+                "time": "8:08",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Referendum 8-9 giugno 2025: divieto di comunicazione per le Pubbliche Amministrazioni durante la campagna elettorale",
@@ -309,18 +310,18 @@
             },
             {
                 "category": "Cronaca",
-                "title": "Pasticceria, la Sicilia trionfa al campionato nazionale degli istituti alberghieri",
-                "link": "https://www.orizzontescuola.it/pasticceria-la-sicilia-trionfa-al-campionato-nazionale-degli-istituti-alberghieri/",
+                "title": "Allerta meteo scuole chiuse lunedì 5 maggio: stop in diversi comuni. ELENCO AGGIORNATO",
+                "link": "https://www.orizzontescuola.it/allerta-meteo-lunedi-5-maggio-allerta-arancione-in-diverse-regioni-scuole-chiuse-in-alcune-localita-elenco-in-aggiornamento/",
                 "date": "4 Mag 2025",
-                "time": "12:44",
+                "time": "16:03",
                 "image_link": "N/A"
             },
             {
                 "category": "Cronaca",
-                "title": "Bimbi in moschea per una lezione di Islam, la gita scolastica fa discutere. L’USR Veneto avvia accertamenti",
-                "link": "https://www.orizzontescuola.it/bimbi-in-moschea-per-una-lezione-di-islam-la-gita-scolastica-che-divide-genitori-e-insegnanti-polemiche-sui-social-indottrinamento-dialogo-interculturale/",
+                "title": "Pasticceria, la Sicilia trionfa al campionato nazionale degli istituti alberghieri",
+                "link": "https://www.orizzontescuola.it/pasticceria-la-sicilia-trionfa-al-campionato-nazionale-degli-istituti-alberghieri/",
                 "date": "4 Mag 2025",
-                "time": "9:42",
+                "time": "12:44",
                 "image_link": "N/A"
             },
             {
@@ -426,28 +427,36 @@
                 "date": "3 Mag 2025",
                 "time": "12:44",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Maestra licenziata per OnlyFans: “Ora guadagno 29mila euro al mese. Da insegnante 1.250”",
-                "link": "https://www.orizzontescuola.it/maestra-licenziata-per-onlyfans-ora-guadagno-29mila-euro-al-mese-da-insegnante-1-250/",
-                "date": "3 Mag 2025",
-                "time": "11:53",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Ad Armi Pari: la donna nel mondo antico. A Padova il Festival Antica.mente dal 9 all’11 maggio",
-                "link": "https://www.orizzontescuola.it/ad-armi-pari-la-donna-nel-mondo-antico-a-padova-il-festival-antica-mente-dal-9-all11-maggio/",
-                "date": "3 Mag 2025",
-                "time": "11:29",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Mobilità nel comune di titolarità: trasferimento e passaggio di cattedra sono in due diverse fasi",
+                "link": "https://www.orizzontescuola.it/mobilita-nel-comune-di-titolarita-trasferimento-e-passaggio-di-cattedra-sono-in-due-diverse-fasi/",
+                "date": "3 Mag 2025",
+                "time": "20:08",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Assunzione in ruolo vincitori non abilitati concorso PNRR1: che succede se nella scuola si perde un posto? E se classe di concorso è in esubero?",
+                "link": "https://www.orizzontescuola.it/assunzione-in-ruolo-vincitori-non-abilitati-concorso-pnrr1-che-succede-se-nella-scuola-si-perde-un-posto-nella-scuola-e-se-classe-di-concorso-e-in-esubero/",
+                "date": "3 Mag 2025",
+                "time": "17:02",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Proroga supplenza per rientro titolare dopo il 30 aprile: non è prevista alcuna interruzione contrattuale",
+                "link": "https://www.orizzontescuola.it/proroga-supplenza-per-rientro-titolare-dopo-il-30-aprile-non-e-prevista-alcuna-interruzione-contrattuale/",
+                "date": "3 Mag 2025",
+                "time": "15:22",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Graduatoria interna d’istituto ATA: come e chi la redige in caso di dimensionamento",
@@ -535,36 +544,20 @@
                 "date": "22 Apr 2025",
                 "time": "17:55",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Cattedra orario esterna: la sua composizione può variare da un anno scolastico all’altro. In quale caso il docente conserva la titolarità nella scuola?",
-                "link": "https://www.orizzontescuola.it/cattedra-orario-esterna-la-sua-composizione-puo-variare-da-un-anno-scolastico-allaltro-in-quale-caso-il-docente-conserva-la-titolarita-nella-scuola/",
-                "date": "21 Apr 2025",
-                "time": "19:08",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Graduatoria interna di istituto: in quali casi è possibile l’esclusione per docente con legge 104/92?",
-                "link": "https://www.orizzontescuola.it/graduatoria-interna-di-istituto-in-quali-casi-e-possibile-lesclusione-per-docente-con-legge-104-92/",
-                "date": "21 Apr 2025",
-                "time": "17:54",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Mobilità docenti 25/26: valutazione preruolo nella scuola primaria paritaria e parificata. In ruolo potrebbero non essere valutati servizi che valevano nelle GPS",
-                "link": "https://www.orizzontescuola.it/mobilita-25-26-valutazione-pre-ruolo-nella-scuola-primaria-paritaria-e-parificata-sino-a-quando/",
-                "date": "19 Apr 2025",
-                "time": "9:51",
-                "image_link": "N/A"
             }
         ]
     },
     "group_6": {
         "title": "Diventare Insegnanti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Corsi di specializzazione sostegno INDIRE 2025: frequenza online, esami e tirocinio in presenza",
+                "link": "https://www.orizzontescuola.it/corsi-di-specializzazione-sostegno-indire-2025-frequenza-online-esami-e-tirocinio-in-presenza/",
+                "date": "30 Apr 2025",
+                "time": "18:48",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1805677816.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso secondaria PNRR2, ecco il voto minimo per accedere alla PROVA ORALE per classe di concorso e regione [IN AGGIORNAMENTO]",
@@ -604,20 +597,20 @@
                 "date": "30 Apr 2025",
                 "time": "11:19",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2142727347.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Specializzazione docenti sostegno 2025, TFA X ciclo confermato. I decreti INDIRE sono aggiuntivi",
-                "link": "https://www.orizzontescuola.it/specializzazione-docenti-sostegno-2025-tfa-x-ciclo-confermato-i-decreti-indire-sono-aggiuntivi/",
-                "date": "30 Apr 2025",
-                "time": "10:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2554071589.jpg"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
+            {
+                "category": "ATA",
+                "title": "Graduatorie ATA 24 mesi, quali sono i titoli di preferenza e come inserirli. VIDEO TUTORIAL",
+                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-quali-sono-i-titoli-di-preferenza-e-come-inserirli-video-tutorial/",
+                "date": "1 Mag 2025",
+                "time": "8:28",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Screenshot-2025-04-30-142113.png"
+            },
             {
                 "category": "ATA",
                 "title": "Graduatorie ATA 24 mesi 2025: domande fino al 19 maggio ore 14. Tutto quello che c’è da sapere con TUTORIAL [SPECIALE]",
@@ -657,20 +650,20 @@
                 "date": "30 Apr 2025",
                 "time": "11:21",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_1783555958-scaled.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Scioglimento riserva CIAD graduatorie terza fascia ATA: qual è la data da inserire nella domanda",
-                "link": "https://www.orizzontescuola.it/scioglimento-riserva-ciad-graduatorie-terza-fascia-ata-qual-e-la-data-da-inserire-nella-domanda/",
-                "date": "30 Apr 2025",
-                "time": "10:43",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Screenshot-2025-04-30-102202.png"
             }
         ]
     },
     "group_8": {
         "title": "Didattica",
         "articles": [
+            {
+                "category": "Didattica",
+                "title": "Indicazioni nazionali e matematica, per gli esperti “vanno riscritte”. Critiche all’idea della matematica come “pensiero innato”",
+                "link": "https://www.orizzontescuola.it/indicazioni-nazionali-e-matematica-per-gli-esperti-vanno-riscritte-critiche-allidea-della-matematica-come-pensiero-innato/",
+                "date": "7 Apr 2025",
+                "time": "10:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/mad-2021-matematica-sostegno.jpg"
+            },
             {
                 "category": "Didattica",
                 "title": "Giustificare gli studenti per il basso rendimento e per comportamenti inadeguati non è educativo. Quali problematiche causa e quali strategie alternative",
@@ -710,20 +703,20 @@
                 "date": "28 Mar 2025",
                 "time": "8:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2512543919.jpg"
-            },
-            {
-                "category": "Didattica",
-                "title": "Come insegnare ai propri studenti a ripassare: dalla tecnica del pomodoro alle mappe mentali",
-                "link": "https://www.orizzontescuola.it/come-insegnare-ai-propri-studenti-a-ripassare-inserire-il-ripasso-nel-metodo-di-studio/",
-                "date": "25 Mar 2025",
-                "time": "8:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_2251404397.jpg"
             }
         ]
     },
     "group_9": {
         "title": "Lettere in Redazione",
         "articles": [
+            {
+                "category": "Lettere in redazione",
+                "title": "Il Documento del 15 maggio: un’occasione di verità e responsabilità educativa. Lettera",
+                "link": "https://www.orizzontescuola.it/il-documento-del-15-maggio-unoccasione-di-verita-e-responsabilita-educativa-lettera/",
+                "date": "5 Mag 2025",
+                "time": "9:16",
+                "image_link": "N/A"
+            },
             {
                 "category": "Lettere in redazione",
                 "title": "Il buono scuola è per il diritto dei genitori-educatori. Lettera",
@@ -762,14 +755,6 @@
                 "link": "https://www.orizzontescuola.it/pnrr-e-scuole-italiane-pioggia-di-fondi-senza-bussola-lettera/",
                 "date": "30 Apr 2025",
                 "time": "13:14",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Il digitale nella scuola, secondo il presidente dell’Invalsi: riflessioni e limiti. Lettera",
-                "link": "https://www.orizzontescuola.it/il-digitale-nella-scuola-secondo-il-presidente-dellinvalsi-riflessioni-e-limiti-lettera/",
-                "date": "29 Apr 2025",
-                "time": "19:08",
                 "image_link": "N/A"
             }
         ]
