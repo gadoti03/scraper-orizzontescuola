@@ -17,6 +17,22 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Docenti",
+                "title": "Regali ai docenti? Possibili fino a 150 euro: il dirigente scolastico deve vigilare",
+                "link": "https://www.orizzontescuola.it/niente-regali-agli-insegnanti-cosa-dice-la-normativa-e-quali-sanzioni-sono-previste/",
+                "date": "7 Mag 2025",
+                "time": "21:45",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_1984120079-scaled.jpg"
+            },
+            {
+                "category": "DSGA",
+                "title": "Concorso DSGA, prova suppletiva il 29 maggio dalle ore 14:30 alle 16:30. AVVISO calendario Ministero",
+                "link": "https://www.orizzontescuola.it/concorso-dsga-prova-suppletiva-il-29-maggio-dalle-ore-1430-alle-1630-avviso-calendario-ministero/",
+                "date": "7 Mag 2025",
+                "time": "18:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_521791969.jpg"
+            },
+            {
                 "category": "ATA",
                 "title": "ATA 24 mesi e riserva CIAD, tutto quello che c’è da sapere. QUESTION TIME con Cozzolino. LIVE Giovedì 8 maggio alle 14:30",
                 "link": "https://www.orizzontescuola.it/ata-24-mesi-e-riserva-ciad-tutto-quello-che-ce-da-sapere-question-time-con-cozzolino-live-giovedi-8-maggio-alle-1430/",
@@ -127,7 +143,12 @@
                 "date": "7 Mag 2025",
                 "time": "14:55",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_388588465.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze 2024/25, ultimo mese per gli INTERPELLI [AGGIORNATO]",
@@ -143,12 +164,7 @@
                 "date": "7 Mag 2025",
                 "time": "12:29",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2467525223.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "ATA",
                 "title": "Graduatorie ATA 24 mesi: si valuta il servizio fino alla data di presentazione della domanda o di scadenza del bando? Pillole di Question Time",
@@ -276,28 +292,44 @@
                 "date": "7 Mag 2025",
                 "time": "8:45",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/10/sciopero-generale-1200x689.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Graduatorie ATA 24 mesi: i figli a carico danno punteggio? Cosa significa lodevole servizio? RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-i-figli-a-carico-danno-punteggio-cosa-significa-lodevole-servizio-risposte-ai-quesiti/",
-                "date": "7 Mag 2025",
-                "time": "8:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/Screenshot-2025-05-06-211955.png"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Gite scolastiche, intossicazioni alimentari e necessità di contenimento dei costi",
-                "link": "https://www.orizzontescuola.it/gite-scolastiche-intossicazioni-alimentari-e-necessita-di-contenimento-dei-costi/",
-                "date": "7 Mag 2025",
-                "time": "8:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_1549140386.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Il “Canto degli Italiani” riconosciuto come Inno di Mameli, il provvedimento in Gazzetta Ufficiale. Ecco le modalità di esecuzione",
+                "link": "https://www.orizzontescuola.it/il-canto-degli-italiani-riconosciuto-come-inno-di-mameli-il-provvedimento-in-gazzetta-ufficiale-ecco-le-modalita-di-esecuzione/",
+                "date": "7 Mag 2025",
+                "time": "21:51",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Prevenzione oncologica, firmato Protocollo d’intesa tra MIM e Fondazione Veronesi",
+                "link": "https://www.orizzontescuola.it/prevenzione-oncologica-firmato-protocollo-dintesa-tra-mim-e-fondazione-veronesi/",
+                "date": "7 Mag 2025",
+                "time": "21:35",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Docenti e ATA nella scuola di Ustica, tra tanti sacrifici, in attesa del rimborso dei biglietti",
+                "link": "https://www.orizzontescuola.it/docenti-e-ata-nella-scuola-di-ustica-tra-tanti-sacrifici-in-attesa-del-rimborso-dei-biglietti/",
+                "date": "7 Mag 2025",
+                "time": "20:10",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Maestra su OnlyFans, la scuola dell’infanzia invia ulteriore lettera di licenziamento e valuta richiesta di risarcimento danni.",
+                "link": "https://www.orizzontescuola.it/maestra-su-onlyfans-la-scuola-dellinfanzia-invia-ulteriore-lettera-di-licenziamento-e-valuta-richiesta-di-risarcimento-danni/",
+                "date": "7 Mag 2025",
+                "time": "18:58",
+                "image_link": "N/A"
+            },
             {
                 "category": "ATA",
                 "title": "Graduatorie ATA 24 mesi, precisazioni USR Friuli Venezia Giulia sui contratti di prestazione d’opera finanziati dalla Regione",
@@ -394,38 +426,6 @@
                 "link": "https://www.orizzontescuola.it/question-time-meloni-al-senato-serve-un-nuovo-approccio-per-prevenire-e-contrastare-i-femminicidi/",
                 "date": "7 Mag 2025",
                 "time": "13:59",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Educazione ambientale, i podcast “Un Mare di Storie” di Recchi tra le proposte del MIM per le scuole. NOTA",
-                "link": "https://www.orizzontescuola.it/educazione-ambientale-i-podcast-un-mare-di-storie-di-recchi-tra-le-proposte-del-mim-per-le-scuole-nota/",
-                "date": "7 Mag 2025",
-                "time": "13:07",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Didattica",
-                "title": "Conferma docenti sostegno, Uil Scuola chiede il ritiro del decreto. D’Aprile: “Molti posti non ci saranno, così non si garantisce la continuità didattica”",
-                "link": "https://www.orizzontescuola.it/conferma-docenti-sostegno-uil-scuola-chiede-il-ritiro-del-decreto-daprile-molti-posti-non-ci-saranno-cosi-non-si-garantisce-la-continuita-didattica/",
-                "date": "7 Mag 2025",
-                "time": "13:05",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "Salone internazionale del libro di Torino, dal 15 al 19 maggio. Nota esonero servizio per i docenti",
-                "link": "https://www.orizzontescuola.it/salone-internazionale-del-libro-di-torino-dal-15-al-19-maggio-nota-esonero-servizio-per-i-docenti/",
-                "date": "7 Mag 2025",
-                "time": "12:55",
-                "image_link": "N/A"
-            },
-            {
-                "category": "DSGA",
-                "title": "Posizione di comando per funzionario esperto, possono partecipare i DSGA. AVVISO Aran in scadenza il 16 maggio",
-                "link": "https://www.orizzontescuola.it/posizione-di-comando-per-funzionario-esperto-possono-partecipare-i-dsga-avviso-aran-in-scadenza-il-16-maggio/",
-                "date": "7 Mag 2025",
-                "time": "12:38",
                 "image_link": "N/A"
             }
         ]
