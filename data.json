@@ -2,20 +2,95 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
-            null,
             {
-                "category": "Diventare Insegnanti",
-                "title": "Corsi di specializzazione Indire 3 anni di servizio: chi può accedere, 40 CFU e corso di 4 mesi. DECRETO pubblicato [PDF]",
-                "link": "https://www.orizzontescuola.it/corsi-di-specializzazione-indire-3-anni-di-servizio-chi-puo-accedere-40-cfu-e-corso-di-4-mesi-decreto-pubblicato-pdf/",
-                "date": "29 Apr 2025",
-                "time": "13:01",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_2281563893.jpg"
-            }
+                "category": "Cronaca",
+                "title": "La storia di Veronica, docente di lingue, che da Modena va a Messina ogni settimana per specializzarsi sul sostegno: “Costi discriminatori”. INTERVISTA",
+                "link": "https://www.orizzontescuola.it/la-storia-di-veronica-docente-di-lingue-che-da-modena-va-a-messina-ogni-settimana-per-specializzarsi-sul-sostegno-costi-discriminatori-intervista/",
+                "date": "8 Mag 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/Progetto-senza-titolo-4-1.png"
+            },
+            null
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Insegnante supplente di sostegno 2025/26: può essere riconfermato anche con nomina interpello, purché sia specializzato",
+                "link": "https://www.orizzontescuola.it/conferma-insegnante-di-sostegno-2025-26-riguarda-anche-le-supplenze-da-interpello/",
+                "date": "8 Mag 2025",
+                "time": "10:25",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Specializzazione con corsi INDIRE: il profilo professionale del docente di sostegno. Le indicazioni dell’allegato A",
+                "link": "https://www.orizzontescuola.it/specializzazione-con-corsi-indire-il-profilo-professionale-del-docente-di-sostegno-le-indicazioni-dellallegato-a/",
+                "date": "8 Mag 2025",
+                "time": "10:14",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_1214667418.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Adozione libri di testo 2025/26: delibere collegio dei docenti entro seconda decade di maggio",
+                "link": "https://www.orizzontescuola.it/adozione-libri-di-testo-2025-26-delibere-collegio-dei-docenti-entro-seconda-decade-di-maggio/",
+                "date": "8 Mag 2025",
+                "time": "9:39",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/06/shutterstock_167791904.jpg"
+            },
+            {
+                "category": "Genitori",
+                "title": "Adolescenti con ansia, depressione e ADHD usano i social più degli altri. Alcuni consigli per i genitori",
+                "link": "https://www.orizzontescuola.it/studenti-con-ansa-depressione-e-adhd-usano-i-social-piu-degli-altri-alcuni-consigli-per-i-genitori/",
+                "date": "8 Mag 2025",
+                "time": "8:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2554198267.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Graduatorie ATA prima fascia, per l’AA il diploma non vale come punteggio aggiuntivo. Si valuta la laurea. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/graduatorie-ata-prima-fascia-per-laa-il-diploma-non-vale-come-punteggio-aggiuntivo-si-valuta-la-laurea-pillole-di-question-time/",
+                "date": "8 Mag 2025",
+                "time": "8:29",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_627149393.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Un’ora a settimana di Intelligenza Artificiale, se ne occuperanno i docenti di matematica, fisica, scienze e informatica (affiancati da esperti esterni). Ecco il DDL",
+                "link": "https://www.orizzontescuola.it/unora-a-settimana-di-intelligenza-artificiale-se-ne-occuperanno-i-docenti-di-matematica-fisica-scienze-e-informatica-affiancati-da-esperti-esterni-ecco-il-ddl/",
+                "date": "8 Mag 2025",
+                "time": "8:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_2296184867.jpg"
+            },
+            {
+                "category": "Genitori",
+                "title": "Bambini con difficoltà comunicative nei suoi primi mesi di vita, cos’è l’Infant Achievements? Lo studio",
+                "link": "https://www.orizzontescuola.it/bambini-con-difficolta-comunicative-nei-suoi-primi-mesi-di-vita-cose-linfant-achievements-lo-studio/",
+                "date": "8 Mag 2025",
+                "time": "8:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_485583982.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Scioglimento riserva CIAD terza fascia ATA, domande e modifiche entro il 9 maggio. GUIDA e TUTORIAL",
+                "link": "https://www.orizzontescuola.it/scioglimento-riserva-ciad-terza-fascia-ata-domande-e-modifiche-entro-il-9-maggio-guida-e-tutorial/",
+                "date": "8 Mag 2025",
+                "time": "7:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Screenshot-2025-04-29-112325.png"
+            },
+            null,
+            {
+                "category": "Scuole",
+                "title": "Riapertura della gestione PTOF 2022/2025 su SIDI: guida operativa per i dirigenti scolastici",
+                "link": "https://www.orizzontescuola.it/riapertura-della-gestione-ptof-2022-2025-su-sidi-guida-operativa-per-i-dirigenti-scolastici/",
+                "date": "8 Mag 2025",
+                "time": "7:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_2107399232-1.jpg"
+            },
+            null,
+            null,
             {
                 "category": "Docenti",
                 "title": "Regali ai docenti? Possibili fino a 150 euro: il dirigente scolastico deve vigilare",
@@ -47,7 +122,12 @@
                 "date": "7 Mag 2025",
                 "time": "18:12",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/FjTRfGFX0AIJ7PH-scaled.jpeg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Conferma supplenti sostegno per l’a.s. 2025/26: chi potrà essere nominato e quando. NOTA MINISTERO",
@@ -143,12 +223,7 @@
                 "date": "7 Mag 2025",
                 "time": "14:55",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_388588465.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze 2024/25, ultimo mese per gli INTERPELLI [AGGIORNATO]",
@@ -196,108 +271,28 @@
                 "date": "7 Mag 2025",
                 "time": "11:54",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/Parlamento-1.jpg"
-            },
-            {
-                "category": "Studenti",
-                "title": "Intelligenza Artificiale a scuola: il 97% degli studenti la usa ogni settimana, ma solo il 22% si fida davvero dei contenuti. Tra opportunità e rischi, così cambia il modo di studiare",
-                "link": "https://www.orizzontescuola.it/intelligenza-artificiale-a-scuola-il-97-degli-studenti-la-usa-ogni-settimana-ma-solo-il-22-si-fida-davvero-dei-contenuti-tra-opportunita-rischi-e-plagio-ecco-come-sta-cambiando-il-modo-di-studiar/",
-                "date": "7 Mag 2025",
-                "time": "11:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Modello-immagine-sito-7.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "Abuso dei mezzi di correzione: limiti e responsabilità, come prevenire incidenti",
-                "link": "https://www.orizzontescuola.it/abuso-dei-mezzi-di-correzione-limiti-e-responsabilita-come-prevenire-incidenti/",
-                "date": "7 Mag 2025",
-                "time": "11:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2349699577-scaled.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Graduatorie ATA 24 mesi, dove inserire nella domanda il servizio civile nazionale e universale per riserva posti. Con TUTORIAL",
-                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-dove-inserire-nella-domanda-il-servizio-civile-nazionale-e-universale-per-riserva-posti-con-tutorial/",
-                "date": "7 Mag 2025",
-                "time": "10:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/Screenshot-2025-05-07-090528.png"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Prove Invalsi alla scuola primaria, i bimbi alla maestra: “Che le facciamo a fare?” Sui social è dibattito",
-                "link": "https://www.orizzontescuola.it/prove-invalsi-alla-scuola-primaria-i-bimbi-alla-maestra-che-le-facciamo-a-fare-sui-social-e-dibattito/",
-                "date": "7 Mag 2025",
-                "time": "10:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_2298516513.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Riconferma docenti sostegno: il Tar respinge la richiesta di sospensiva, ma c’era un errore nel ricorso. Ecco perché l’udienza di Settembre sarà anticipata al 21 maggio",
-                "link": "https://www.orizzontescuola.it/riconferma-docenti-sostegno-il-tar-respinge-la-richiesta-di-sospensiva-ma-cera-un-errore-nel-ricorso-ecco-perche-ludienza-di-settembre-sara-anticipata-al-21-maggio/",
-                "date": "7 Mag 2025",
-                "time": "10:35",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2493469187-scaled.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Maturità 2025, ecco i modelli MAD per sostituzione presidenti e commissari [IN AGGIORNAMENTO]",
-                "link": "https://www.orizzontescuola.it/maturita-2025-ecco-i-modelli-mad-per-sostituzione-commissari-assenti-in-aggiornamento/",
-                "date": "7 Mag 2025",
-                "time": "9:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/02/shutterstock_1536693014.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Mobilità docenti 2025, ecco i posti disponibili per i trasferimenti. Pubblicazione esiti il 23 maggio",
-                "link": "https://www.orizzontescuola.it/mobilita-docenti-2025-ecco-i-posti-disponibili-per-i-trasferimenti-pubblicazione-esiti-il-23-maggio/",
-                "date": "7 Mag 2025",
-                "time": "9:38",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_130754711.jpg"
-            },
-            {
-                "category": "Genitori",
-                "title": "Sì ai genitori nel CSPI: sono i primi interlocutori della scuola",
-                "link": "https://www.orizzontescuola.it/si-ai-genitori-nel-cspi-sono-i-primi-interlocutori-della-scuola/",
-                "date": "7 Mag 2025",
-                "time": "9:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_49962613.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Un bambino su 31 ha un disturbo dello spettro autistico (ASD): prime diagnosi a 47 mesi, 3,4 volte più frequente nei maschi rispetto alle femmine. I dati del rapporto CDC degli Stati Uniti",
-                "link": "https://www.orizzontescuola.it/un-bambino-su-31-ha-un-disturbo-dello-spettro-autistico-asd-prime-diagnosi-a-47-mesi-34-volte-piu-frequente-nei-maschi-rispetto-alle-femmine-i-dati-del-rapporto-cdc-degli-stati-uniti/",
-                "date": "7 Mag 2025",
-                "time": "9:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_1027260934.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Compiti per casa elaborati da ChatGpt, come faccio a dimostrarlo? Alcuni suggerimenti e … forse è meglio cambiare strategie",
-                "link": "https://www.orizzontescuola.it/compiti-per-casa-elaborati-da-chatgpt-come-faccio-a-dimostrarlo-alcuni-suggerimenti-e-forse-e-meglio-cambiare-strategie/",
-                "date": "7 Mag 2025",
-                "time": "9:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_657651583.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Assicurazione sanitaria per il personale scolastico a tempo indeterminato: struttura del finanziamento e come vi si accede. Si potrà rinunciare",
-                "link": "https://www.orizzontescuola.it/assicurazione-sanitaria-per-il-personale-scolastico-struttura-del-finanziamento-e-come-vi-si-accede/",
-                "date": "7 Mag 2025",
-                "time": "8:54",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_662193751.jpg"
-            },
-            {
-                "category": "Genitori",
-                "title": "L’Intelligenza Artificiale di Google apre ai minori di 13 anni con family link, ma spiegate ai figli che non è un essere umano",
-                "link": "https://www.orizzontescuola.it/lintelligenza-artificiale-di-google-apre-ai-minori-di-13-anni-con-family-link-ma-spiegate-ai-figli-che-non-e-un-essere-umano/",
-                "date": "7 Mag 2025",
-                "time": "8:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2604996917.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Pidocchi a scuola da mesi, i genitori chiedono la sospensione della frequenza",
+                "link": "https://www.orizzontescuola.it/pidocchi-a-scuola-da-mesi-i-genitori-chiedono-la-sospensione-della-frequenza/",
+                "date": "8 Mag 2025",
+                "time": "10:14",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Sovrappeso e obesità nei bambini: tassi più alti in Campania con 24,6% e 18,6% rispetto all’Italia",
+                "link": "https://www.orizzontescuola.it/sovrappeso-e-obesita-nei-bambini-tassi-piu-alti-in-campania-con-246-e-186-rispetto-allitalia/",
+                "date": "8 Mag 2025",
+                "time": "8:20",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Il “Canto degli Italiani” riconosciuto come Inno di Mameli, il provvedimento in Gazzetta Ufficiale. Ecco le modalità di esecuzione",
@@ -410,22 +405,6 @@
                 "link": "https://www.orizzontescuola.it/drag-queen-priscilla-incontra-gli-studenti-scatta-linterrogazione-parlamentare/",
                 "date": "7 Mag 2025",
                 "time": "14:33",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Museo per bambini a Roma, performer vestita da orsacchiotto aggredita colpo con un pugno da un visitatore: 60 giorni di prognosi. La sua difesa: “Pensavo fosse un pupazzo”",
-                "link": "https://www.orizzontescuola.it/museo-per-bambini-a-roma-performer-vestita-da-orsacchiotto-aggredita-colpo-con-un-pugno-da-un-visitatore-60-giorni-di-prognosi-la-sua-difesa-pensavo-fosse-un-pupazzo/",
-                "date": "7 Mag 2025",
-                "time": "14:21",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Question Time, Meloni al Senato: “Serve un nuovo approccio per prevenire e contrastare i femminicidi”",
-                "link": "https://www.orizzontescuola.it/question-time-meloni-al-senato-serve-un-nuovo-approccio-per-prevenire-e-contrastare-i-femminicidi/",
-                "date": "7 Mag 2025",
-                "time": "13:59",
                 "image_link": "N/A"
             }
         ]
@@ -605,6 +584,22 @@
         "articles": [
             {
                 "category": "ATA",
+                "title": "Graduatorie terza fascia ATA: ho inserito la CIAD ma sono ancora in riserva. È normale?",
+                "link": "https://www.orizzontescuola.it/graduatorie-terza-fascia-ata-ho-inserito-la-ciad-ma-sono-ancora-in-riserva-e-normale/",
+                "date": "5 Mag 2025",
+                "time": "17:39",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/shutterstock_409327615.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Scioglimento riserva terza fascia ATA: per alcuni c’è il blocco su Istanze online. Cosa fare. INDICAZIONI dagli Uffici Scolastici",
+                "link": "https://www.orizzontescuola.it/inserimento-ciad-terza-fascia-ata-domanda-su-istanze-online-solo-per-chi-e-inserito-con-riserva-gli-altri-alla-scuola-capofila-nota-roma/",
+                "date": "5 Mag 2025",
+                "time": "17:06",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_70854391.jpg"
+            },
+            {
+                "category": "ATA",
                 "title": "Graduatorie ATA 24 mesi: gli operatori dei servizi agrari non possono inserirsi per il profilo di collaboratore scolastico, “pur avendone diritto”",
                 "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-gli-operatori-dei-servizi-agrari-non-possono-inserirsi-per-il-profilo-di-collaboratore-scolastico-pur-avendone-diritto/",
                 "date": "5 Mag 2025",
@@ -634,22 +629,6 @@
                 "date": "4 Mag 2025",
                 "time": "8:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Screenshot-2025-04-30-162153.png"
-            },
-            {
-                "category": "ATA",
-                "title": "Graduatorie terza fascia ATA, scioglimento riserva CIAD: ecco come modificare la domanda in caso di errori",
-                "link": "https://www.orizzontescuola.it/graduatorie-terza-fascia-ata-scioglimento-riserva-ciad-ecco-come-modificare-la-domanda-in-caso-di-errori/",
-                "date": "3 Mag 2025",
-                "time": "14:45",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/Screenshot-2025-05-02-184012.png"
-            },
-            {
-                "category": "ATA",
-                "title": "Domande graduatorie ATA 24 mesi, servizio civile per riserva posti e punteggio (0,05 punti al mese). RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/domande-graduatorie-ata-24-mesi-servizio-civile-per-riserva-posti-e-punteggio-005-punti-al-mese-risposte-ai-quesiti/",
-                "date": "3 Mag 2025",
-                "time": "8:29",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2198390061.jpg"
             }
         ]
     },
