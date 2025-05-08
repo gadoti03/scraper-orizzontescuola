@@ -17,6 +17,46 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Docenti",
+                "title": "Mobilità docenti 2025, ecco i posti disponibili per i trasferimenti. Pubblicazione esiti il 23 maggio",
+                "link": "https://www.orizzontescuola.it/mobilita-docenti-2025-ecco-i-posti-disponibili-per-i-trasferimenti-pubblicazione-esiti-il-23-maggio/",
+                "date": "8 Mag 2025",
+                "time": "21:21",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_130754711.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Graduatorie ATA 24 mesi, gli operatori dei servizi agrari non possono fare domanda per collaboratore scolastico. Chiarimenti dal MIM",
+                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-gli-operatori-dei-servizi-agrari-non-possono-fare-domanda-per-collaboratore-scolastico-chiarimenti-dal-mim/",
+                "date": "8 Mag 2025",
+                "time": "20:35",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2198390061.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Rinuncia al riconoscimento del titolo estero: come procedere per l’iscrizione ai percorsi Indire. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/rinuncia-al-riconoscimento-del-titolo-estero-come-procedere-per-liscrizione-ai-percorsi-indire-pillole-di-questiontime/",
+                "date": "8 Mag 2025",
+                "time": "19:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_48466297.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "ATA 24 mesi e riserva CIAD, i consigli per compilare al meglio la domanda senza errori. QUESTION TIME con Sorrentino (Anief) LIVE Venerdì 9 maggio alle 14:30",
+                "link": "https://www.orizzontescuola.it/ata-24-mesi-e-riserva-ciad-i-consigli-per-compilare-al-meglio-la-domanda-senza-errori-question-time-con-sorrentino-anief-live-venerdi-9-maggio-alle-1430/",
+                "date": "8 Mag 2025",
+                "time": "18:29",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/Template_questiontime_1920x1080-4.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Il nuovo Papa è Robert Francis Prevost, si chiamerà Leone XIV. Le sue prime parole: “La pace sia con tutti voi, aiutateci a costruire ponti”",
+                "link": "https://www.orizzontescuola.it/il-nuovo-papa-e-robert-francis-prevost-si-chiamera-leone-xiv-le-sue-prime-parole-la-pace-sia-con-tutti-voi/",
+                "date": "8 Mag 2025",
+                "time": "18:09",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2594120571-scaled.jpg"
+            },
+            {
                 "category": "ATA",
                 "title": "Domande ATA 24 mesi, “servizio valido per l’accesso”: sì o no? Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/domande-ata-24-mesi-servizio-valido-per-laccesso-si-o-no-pillole-di-question-time/",
@@ -103,7 +143,12 @@
                 "date": "8 Mag 2025",
                 "time": "12:36",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/04/shutterstock_1495708661.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "DSGA",
                 "title": "Concorso DSGA, ecco le convocazioni per l’orale [AGGIORNATO]",
@@ -130,25 +175,12 @@
             },
             {
                 "category": "Docenti",
-                "title": "Mobilità docenti 2025, ecco i posti disponibili per i trasferimenti. Pubblicazione esiti il 23 maggio",
-                "link": "https://www.orizzontescuola.it/mobilita-docenti-2025-ecco-i-posti-disponibili-per-i-trasferimenti-pubblicazione-esiti-il-23-maggio/",
-                "date": "8 Mag 2025",
-                "time": "11:43",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_130754711.jpg"
-            },
-            {
-                "category": "Docenti",
                 "title": "Lavorare a scuola è sempre più insostenibile: 8 docenti su 10 soffrono di stress e solo 3 su 10 si dichiarano soddisfatti della carriera, tra carichi emotivi, relazioni complesse e poca valorizzazione professionale",
                 "link": "https://www.orizzontescuola.it/lavorare-a-scuola-e-sempre-piu-insostenibile-8-docenti-su-10-soffrono-di-stress-elevato-e-meno-di-3-su-10-si-dichiarano-soddisfatti-della-carriera-tra-carichi-emotivi-relazioni-complesse-e-poca-val/",
                 "date": "8 Mag 2025",
                 "time": "11:42",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2267533875-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Uno psicologo in ogni scuola, Forza Italia presenta emendamento per figura stabile: “L’Italia è l’unico Paese Ue senza una figura strutturale”",
@@ -253,24 +285,6 @@
                 "date": "8 Mag 2025",
                 "time": "7:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_2107399232-1.jpg"
-            },
-            null,
-            null,
-            {
-                "category": "Docenti",
-                "title": "Regali ai docenti? Possibili fino a 150 euro: il dirigente scolastico deve vigilare",
-                "link": "https://www.orizzontescuola.it/niente-regali-agli-insegnanti-cosa-dice-la-normativa-e-quali-sanzioni-sono-previste/",
-                "date": "7 Mag 2025",
-                "time": "21:45",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_1984120079-scaled.jpg"
-            },
-            {
-                "category": "DSGA",
-                "title": "Concorso DSGA, prova suppletiva il 29 maggio dalle ore 14:30 alle 16:30. AVVISO calendario Ministero",
-                "link": "https://www.orizzontescuola.it/concorso-dsga-prova-suppletiva-il-29-maggio-dalle-ore-1430-alle-1630-avviso-calendario-ministero/",
-                "date": "7 Mag 2025",
-                "time": "18:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_521791969.jpg"
             }
         ]
     },
@@ -278,11 +292,28 @@
         "title": "In Breve",
         "articles": [
             {
-                "category": "Cronaca",
-                "title": "Nuovo Papa, c’è la fumata bianca: ora attesa per capire chi sarà il successore di Francesco",
-                "link": "https://www.orizzontescuola.it/nuovo-papa-ce-la-fumata-bianca-ora-attesa-per-capire-chi-sara-il-successore-di-francesco/",
+                "category": "Comunicati stampa",
+                "title": "Decreto Scuola, la prossima settimana al voto gli emendamenti suggeriti da Anief: “Primo gradone stipendio dopo 3 anni, mobilità in altri comparti, assunzione idonei concorsi, anche motoria, aumenti per Ata”",
+                "link": "https://www.orizzontescuola.it/decreto-scuola-la-prossima-settimana-al-voto-gli-emendamenti-suggeriti-da-anief-primo-gradone-stipendio-dopo-3-anni-mobilita-in-altri-comparti-assunzione-idonei-concorsi-anche-motoria-aumenti/",
                 "date": "8 Mag 2025",
-                "time": "18:09",
+                "time": "20:51",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Scioglimento riserva Ciad terza fascia ATA, Anief: “Bene nota MIM, ma si sarebbe dovuto evitare di scaricare lavoro sulle scuole”",
+                "link": "https://www.orizzontescuola.it/scioglimento-riserva-ciad-terza-fascia-ata-anief-bene-nota-mim-ma-si-sarebbe-dovuto-evitare-di-scaricare-lavoro-sulle-scuole/",
+                "date": "8 Mag 2025",
+                "time": "20:00",
+                "image_link": "N/A"
+            },
+            null,
+            {
+                "category": "Nessuna categoria",
+                "title": "Stop alla prevenzione della ludopatia, la Commissione Cultura boccia emendamento M5S. I docenti potranno formarsi solo su droghe e disagio giovanile. L’opposizione: “Un tradimento verso la scuola”",
+                "link": "https://www.orizzontescuola.it/stop-alla-prevenzione-della-ludopatia-la-commissione-cultura-boccia-emendamento-m5s-i-docenti-potranno-formarsi-solo-su-droghe-e-disagio-giovanile-lopposizione-un-tradimento-verso-la-scuola/",
+                "date": "8 Mag 2025",
+                "time": "18:37",
                 "image_link": "N/A"
             },
             {
@@ -395,30 +426,6 @@
                 "link": "https://www.orizzontescuola.it/gli-alunni-scelgono-piero-angela-un-istituto-comprensivo-in-umbria-verso-la-nuova-intitolazione-il-dirigente-un-vero-compito-di-realta-e-di-cittadinanza-attiva/",
                 "date": "8 Mag 2025",
                 "time": "14:23",
-                "image_link": "N/A"
-            },
-            {
-                "category": "ATA",
-                "title": "ATA 24 mesi e riserva CIAD, tutto quello che c’è da sapere. QUESTION TIME con Cozzolino",
-                "link": "https://www.orizzontescuola.it/ata-24-mesi-e-riserva-ciad-tutto-quello-che-ce-da-sapere-question-time-con-cozzolino-live-giovedi-8-maggio-alle-1430/",
-                "date": "8 Mag 2025",
-                "time": "14:16",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Corsi velici estivi e gratuiti per gli studenti: domande entro il 16 maggio. NOTA",
-                "link": "https://www.orizzontescuola.it/corsi-velici-estivi-e-gratuiti-per-gli-studenti-domande-entro-il-16-maggio-nota/",
-                "date": "8 Mag 2025",
-                "time": "13:31",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Appalti, aggiornamento del bando tipo n. 1: consultazione Anac fino al 5 giugno",
-                "link": "https://www.orizzontescuola.it/appalti-aggiornamento-del-bando-tipo-n-1-consultazione-fino-al-5-giugno/",
-                "date": "8 Mag 2025",
-                "time": "12:54",
                 "image_link": "N/A"
             }
         ]
@@ -545,6 +552,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Specializzazione sostegno Indire: perché la data del 1° giugno 2024 è importante per abilitati estero, anche per chi ha avuto il rigetto dell’istanza",
+                "link": "https://www.orizzontescuola.it/specializzazione-sostegno-indire-perche-la-data-del-1-giugno-2024-e-importante-per-abilitati-estero-anche-per-chi-ha-avuto-il-rigetto-dellistanza/",
+                "date": "5 Mag 2025",
+                "time": "13:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_778370800-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Specializzazione sostegno: triennalisti non potranno partecipare alla Mini Call veloce di agosto 2025. Pillole di QuestionTime",
                 "link": "https://www.orizzontescuola.it/specializzazione-sostegno-triennalisti-non-potranno-partecipare-alla-mini-call-veloce-di-agosto-2025-pillole-di-questiontime/",
                 "date": "5 Mag 2025",
@@ -582,14 +597,6 @@
                 "date": "1 Mag 2025",
                 "time": "17:15",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_1155199690-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Quando partiranno i percorsi specializzazione INDIRE? e quelli delle Università? E il TFA sostegno?",
-                "link": "https://www.orizzontescuola.it/quando-partiranno-i-percorsi-specializzazione-indire-e-quelli-delle-universita-e-il-tfa-sostegno/",
-                "date": "1 Mag 2025",
-                "time": "9:12",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_1332825530.jpg"
             }
         ]
     },
