@@ -2,20 +2,94 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
-            null,
             {
-                "category": "Diventare Insegnanti",
-                "title": "Corsi di specializzazione Indire 3 anni di servizio: chi può accedere, 40 CFU e corso di 4 mesi. DECRETO pubblicato [PDF]",
-                "link": "https://www.orizzontescuola.it/corsi-di-specializzazione-indire-3-anni-di-servizio-chi-puo-accedere-40-cfu-e-corso-di-4-mesi-decreto-pubblicato-pdf/",
-                "date": "29 Apr 2025",
-                "time": "13:01",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_2281563893.jpg"
-            }
+                "category": "Cronaca",
+                "title": "“Basta con la formazione ai docenti fatta da chi non è mai entrato in una classe. Università non possono avere il monopolio”. INTERVISTA al professor Cotena",
+                "link": "https://www.orizzontescuola.it/basta-con-la-formazione-ai-docenti-fatta-da-chi-non-e-mai-entrato-in-una-classe-universita-non-possono-avere-il-monopolio-intervista-al-professor-cotena/",
+                "date": "9 Mag 2025",
+                "time": "8:28",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/cotena.png"
+            },
+            null
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "ATA",
+                "title": "Graduatorie ATA 24 mesi, ho cambiato provincia ma su Istanze online mi compare la precedente. Cosa fare?",
+                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-ho-cambiato-provincia-ma-su-istanze-online-mi-compare-la-precedente-cosa-fare/",
+                "date": "9 Mag 2025",
+                "time": "9:28",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2359899605.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Specializzazione sostegno INDIRE: tanti docenti hanno il servizio alla primaria, ma sono esclusi perché hanno diploma o laurea per la secondaria. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/specializzazione-sostegno-indire-tanti-docenti-hanno-il-servizio-alla-primaria-ma-sono-esclusi-perche-hanno-diploma-o-laurea-per-la-secondaria-pillole-di-question-time/",
+                "date": "9 Mag 2025",
+                "time": "9:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_254352274.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“Rimani con noi” e avviano raccolta firme. Quando studenti e famiglie chiedono che docenti e Dirigenti non vengano trasferiti",
+                "link": "https://www.orizzontescuola.it/rimani-con-noi-quando-studenti-e-famiglie-chiedono-che-docenti-e-dirigenti-di-non-vengano-trasferiti/",
+                "date": "9 Mag 2025",
+                "time": "8:35",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492177333-scaled.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Graduatorie ATA 24 mesi: chi ha un contratto al 31 agosto potrà aggiornare la domanda dopo la scadenza? RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-chi-ha-un-contratto-al-31-agosto-potra-aggiornare-la-domanda-dopo-la-scadenza-risposte-ai-quesiti/",
+                "date": "9 Mag 2025",
+                "time": "8:29",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/Screenshot-2025-05-08-213349.png"
+            },
+            {
+                "category": "Docenti",
+                "title": "Genitori che si intromettono nella vita scolastica ed extrascolastica dei figli, quali conseguenze. L’overparenting diventa una serie Netflix. Consigli per docenti",
+                "link": "https://www.orizzontescuola.it/genitori-che-si-intromettono-nelle-sfide-scolastiche-ed-extrascolastiche-dei-figli-quali-conseguenze-loverparenting-diventa-una-serie-netflix-consigli-per-docenti/",
+                "date": "9 Mag 2025",
+                "time": "8:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/Immagine-2025-05-08-161642.png"
+            },
+            {
+                "category": "ATA",
+                "title": "Graduatorie terza fascia ATA, ultime ore per domanda scioglimento riserva. Chi decade si reinserisce nel 2027. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/graduatorie-terza-fascia-ata-ultime-ore-per-presentare-domanda-di-scioglimento-riserva-chi-decade-si-reinserisce-nel-2027-risposte-ai-quesiti/",
+                "date": "9 Mag 2025",
+                "time": "8:01",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_120805804.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Il Piano Didattico Personalizzato: cos’è e come redigerlo. La guida normativa",
+                "link": "https://www.orizzontescuola.it/il-piano-didattico-personalizzato-cose-e-come-redigerlo-la-guida-normativa/",
+                "date": "9 Mag 2025",
+                "time": "7:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_1796684485-scaled.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Organici ATA, novità dal 2026: un operatore scolastico per ogni plesso, circa 900 nuovi funzionari. Ministero e Sindacati definiscono i numeri",
+                "link": "https://www.orizzontescuola.it/organici-ata-un-posto-di-operatore-scolastico-per-ogni-plessi-nuovi-posti-funzionari-eq-previste-950-progressioni/",
+                "date": "9 Mag 2025",
+                "time": "7:43",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_1378416878.jpg"
+            },
+            null,
+            null,
+            {
+                "category": "Plus",
+                "title": "Adempimenti di fine anno scolastico: prassi + circolari e documenti",
+                "link": "https://www.orizzontescuola.it/adempimenti-di-fine-anno-scolastico-prassi-circolari-e-documenti/",
+                "date": "9 Mag 2025",
+                "time": "7:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/Sottotitolo-2.png"
+            },
             {
                 "category": "Docenti",
                 "title": "Mobilità docenti 2025, ecco i posti disponibili per i trasferimenti. Pubblicazione esiti il 23 maggio",
@@ -55,7 +129,12 @@
                 "date": "8 Mag 2025",
                 "time": "18:09",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2594120571-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "ATA",
                 "title": "Domande ATA 24 mesi, “servizio valido per l’accesso”: sì o no? Pillole di Question Time",
@@ -143,12 +222,7 @@
                 "date": "8 Mag 2025",
                 "time": "12:36",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/04/shutterstock_1495708661.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "DSGA",
                 "title": "Concorso DSGA, ecco le convocazioni per l’orale [AGGIORNATO]",
@@ -204,93 +278,36 @@
                 "date": "8 Mag 2025",
                 "time": "11:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1073093444.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Insegnante supplente di sostegno 2025/26: può essere riconfermato anche con nomina interpello, purché sia specializzato",
-                "link": "https://www.orizzontescuola.it/conferma-insegnante-di-sostegno-2025-26-riguarda-anche-le-supplenze-da-interpello/",
-                "date": "8 Mag 2025",
-                "time": "10:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Specializzazione con corsi INDIRE: il profilo professionale del docente di sostegno. Le indicazioni dell’allegato A",
-                "link": "https://www.orizzontescuola.it/specializzazione-con-corsi-indire-il-profilo-professionale-del-docente-di-sostegno-le-indicazioni-dellallegato-a/",
-                "date": "8 Mag 2025",
-                "time": "10:14",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_1214667418.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Pidocchi in classe, cosa fanno scuole e famiglie",
-                "link": "https://www.orizzontescuola.it/pidocchi-a-scuola-da-mesi-i-genitori-chiedono-la-sospensione-della-frequenza/",
-                "date": "8 Mag 2025",
-                "time": "10:14",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2502113717.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Adozione libri di testo 2025/26: delibere collegio dei docenti entro seconda decade di maggio",
-                "link": "https://www.orizzontescuola.it/adozione-libri-di-testo-2025-26-delibere-collegio-dei-docenti-entro-seconda-decade-di-maggio/",
-                "date": "8 Mag 2025",
-                "time": "9:39",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/06/shutterstock_167791904.jpg"
-            },
-            {
-                "category": "Genitori",
-                "title": "Adolescenti con ansia, depressione e ADHD usano i social più degli altri. Alcuni consigli per i genitori",
-                "link": "https://www.orizzontescuola.it/studenti-con-ansa-depressione-e-adhd-usano-i-social-piu-degli-altri-alcuni-consigli-per-i-genitori/",
-                "date": "8 Mag 2025",
-                "time": "8:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2554198267.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Graduatorie ATA prima fascia, per l’AA il diploma non vale come punteggio aggiuntivo. Si valuta la laurea. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/graduatorie-ata-prima-fascia-per-laa-il-diploma-non-vale-come-punteggio-aggiuntivo-si-valuta-la-laurea-pillole-di-question-time/",
-                "date": "8 Mag 2025",
-                "time": "8:29",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_627149393.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Un’ora a settimana di Intelligenza Artificiale, se ne occuperanno i docenti di matematica, fisica, scienze e informatica (affiancati da esperti esterni). Ecco il DDL",
-                "link": "https://www.orizzontescuola.it/unora-a-settimana-di-intelligenza-artificiale-se-ne-occuperanno-i-docenti-di-matematica-fisica-scienze-e-informatica-affiancati-da-esperti-esterni-ecco-il-ddl/",
-                "date": "8 Mag 2025",
-                "time": "8:22",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_2296184867.jpg"
-            },
-            {
-                "category": "Genitori",
-                "title": "Bambini con difficoltà comunicative nei suoi primi mesi di vita, cos’è l’Infant Achievements? Lo studio",
-                "link": "https://www.orizzontescuola.it/bambini-con-difficolta-comunicative-nei-suoi-primi-mesi-di-vita-cose-linfant-achievements-lo-studio/",
-                "date": "8 Mag 2025",
-                "time": "8:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_485583982.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "La storia di Veronica, docente di lingue, che da Modena va a Messina ogni settimana per specializzarsi sul sostegno: “Costi discriminatori”. INTERVISTA",
-                "link": "https://www.orizzontescuola.it/la-storia-di-veronica-docente-di-lingue-che-da-modena-va-a-messina-ogni-settimana-per-specializzarsi-sul-sostegno-costi-discriminatori-intervista/",
-                "date": "8 Mag 2025",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/Progetto-senza-titolo-4-1.png"
-            },
-            {
-                "category": "ATA",
-                "title": "Scioglimento riserva CIAD terza fascia ATA, domande e modifiche entro il 9 maggio. GUIDA e TUTORIAL",
-                "link": "https://www.orizzontescuola.it/scioglimento-riserva-ciad-terza-fascia-ata-domande-e-modifiche-entro-il-9-maggio-guida-e-tutorial/",
-                "date": "8 Mag 2025",
-                "time": "7:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Screenshot-2025-04-29-112325.png"
-            },
-            null
+            }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Docenti",
+                "title": "I 4 nuovi percorsi di Laurea dell’Università Bicocca di Milano: dalla sostenibilità all’innovazione",
+                "link": "https://www.orizzontescuola.it/i-4-nuovi-percorsi-di-laurea-delluniversita-bicocca-di-milano-dalla-sostenibilita-allinnovazione/",
+                "date": "9 Mag 2025",
+                "time": "8:50",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Docenti",
+                "title": "“La parte peggiore del mio lavoro? Avere a che fare con i genitori”. A dirlo un … docente? No, un pediatra",
+                "link": "https://www.orizzontescuola.it/la-parte-peggiore-del-mio-lavoro-avere-a-che-fare-con-i-genitori-a-dirlo-un-docente-no-un-pediatra/",
+                "date": "9 Mag 2025",
+                "time": "8:40",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Chiude il podcast “Chiedilo a Barbero”: “L’ho deciso e sono deciso”",
+                "link": "https://www.orizzontescuola.it/chiude-il-podcast-chiedilo-a-barbero-lho-deciso-e-sono-deciso/",
+                "date": "9 Mag 2025",
+                "time": "7:55",
+                "image_link": "N/A"
+            },
             {
                 "category": "Comunicati stampa",
                 "title": "Decreto Scuola, la prossima settimana al voto gli emendamenti suggeriti da Anief: “Primo gradone stipendio dopo 3 anni, mobilità in altri comparti, assunzione idonei concorsi, anche motoria, aumenti per Ata”",
@@ -402,30 +419,6 @@
                 "link": "https://www.orizzontescuola.it/supplenti-sostegno-conferma-della-nomina-anche-per-il-2025-26-direttive-alle-scuole/",
                 "date": "8 Mag 2025",
                 "time": "14:46",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Locatelli: “Piano operativo di Azione triennale per migliorare accessibilità universale”",
-                "link": "https://www.orizzontescuola.it/locatelli-piano-operativo-di-azione-triennale-per-migliorare-accessibilita-universale/",
-                "date": "8 Mag 2025",
-                "time": "14:45",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso secondaria PNRR2. ecco come si valuta la prova pratica e le indicazioni per lo svolgimento [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-ecco-come-si-valuta-la-prova-pratica-e-le-indicazioni-per-lo-svolgimento/",
-                "date": "8 Mag 2025",
-                "time": "14:38",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Gli alunni scelgono Piero Angela, un istituto comprensivo in Umbria verso la nuova intitolazione. Il dirigente: “Un vero compito di realtà e di cittadinanza attiva”",
-                "link": "https://www.orizzontescuola.it/gli-alunni-scelgono-piero-angela-un-istituto-comprensivo-in-umbria-verso-la-nuova-intitolazione-il-dirigente-un-vero-compito-di-realta-e-di-cittadinanza-attiva/",
-                "date": "8 Mag 2025",
-                "time": "14:23",
                 "image_link": "N/A"
             }
         ]
@@ -605,6 +598,14 @@
         "articles": [
             {
                 "category": "ATA",
+                "title": "Graduatorie ATA 24 mesi: i figli a carico danno punteggio? Cosa significa lodevole servizio? RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-i-figli-a-carico-danno-punteggio-cosa-significa-lodevole-servizio-risposte-ai-quesiti/",
+                "date": "7 Mag 2025",
+                "time": "8:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/Screenshot-2025-05-06-211955.png"
+            },
+            {
+                "category": "ATA",
                 "title": "Graduatorie ATA 24 mesi 2025: domande fino al 19 maggio ore 14. Riserve, servizio misto, TUTORIAL. Tutto quello che c’è da sapere [SPECIALE]",
                 "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-oggi-al-via-le-domande-su-istanze-online-requisiti-modelli-tutto-quello-che-ce-da-sapere/",
                 "date": "6 Mag 2025",
@@ -642,14 +643,6 @@
                 "date": "5 Mag 2025",
                 "time": "17:06",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_70854391.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Graduatorie ATA 24 mesi: gli operatori dei servizi agrari non possono inserirsi per il profilo di collaboratore scolastico, “pur avendone diritto”",
-                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-gli-operatori-dei-servizi-agrari-non-possono-inserirsi-per-il-profilo-di-collaboratore-scolastico-pur-avendone-diritto/",
-                "date": "5 Mag 2025",
-                "time": "15:46",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1508556191.jpg"
             }
         ]
     },
