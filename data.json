@@ -24,20 +24,60 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "ATA",
+                "title": "Graduatorie ATA 24 mesi, domanda in una sola provincia. L’ordine di priorità",
+                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-domanda-in-una-sola-provincia-lordine-di-priorita/",
+                "date": "12 Mag 2025",
+                "time": "17:21",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_1645535227.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Indice di tempestività dei pagamenti: le scadenze per l’indicatore annuale e trimestrale. Cosa fa il DS e cosa fa il DSGA",
+                "link": "https://www.orizzontescuola.it/indice-di-tempestivita-dei-pagamenti-le-scadenze-per-lindicatore-annuale-e-trimestrale-cosa-fa-il-ds-e-cosa-fa-il-dsga/",
+                "date": "12 Mag 2025",
+                "time": "17:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2474807357.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Bullismo, violenze e richieste d’aiuto, la scatola magica che svela i segreti dei bambini: come una semplice idea sta cambiando il clima in classe",
+                "link": "https://www.orizzontescuola.it/bullismo-violenze-e-richieste-daiuto-la-scatola-magica-che-svela-i-segreti-dei-bambini-come-una-semplice-idea-sta-cambiando-il-clima-in-classe/",
+                "date": "12 Mag 2025",
+                "time": "16:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2422808949-scaled.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Sconti docenti e ATA, attiva la piattaforma: treni, aerei, spesa e non solo. VIDEO TUTORIAL con tutte le info utili",
+                "link": "https://www.orizzontescuola.it/sconti-docenti-e-ata-attiva-la-piattaforma-treni-aerei-spesa-e-non-solo-video-tutorial-con-tutte-le-info-utili/",
+                "date": "12 Mag 2025",
+                "time": "16:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/GUIDA.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti secondaria PNRR2, tantissime nuove convocazioni per la prova orale [IN AGGIORNAMENTO]",
+                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-ecco-le-convocazioni-per-la-prova-orale-si-comincia-a-maggio-in-aggiornamento/",
+                "date": "12 Mag 2025",
+                "time": "15:39",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso secondaria PNRR2, ecco i risultati della suppletiva. Voto minimo per accedere alla prova orale per classe di concorso e regione [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-ecco-il-voto-minimo-per-accedere-alla-prova-orale-per-classe-di-concorso-e-regione-in-aggiornamento/",
+                "date": "12 Mag 2025",
+                "time": "15:19",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_59277838.jpg"
+            },
+            {
                 "category": "Politica scolastica",
                 "title": "Smartphone a scuola, l’Italia guida la proposta Ue per vietarli fino ai 14 anni. Valditara: “Già 10 paesi hanno aderito”",
                 "link": "https://www.orizzontescuola.it/smartphone-a-scuola-litalia-guida-la-proposta-ue-per-vietarli-fino-ai-14-anni-valditara-gia-10-paesi-hanno-aderito/",
                 "date": "12 Mag 2025",
                 "time": "14:13",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/52549981177_3301c92ef9_k.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Corsi Indire, Tfa, continuità didattica: tutte le info utili sul sostegno. QUESTION TIME con Cozzetto (Anief) LIVE Lunedì 12 maggio alle 15:00",
-                "link": "https://www.orizzontescuola.it/corsi-indire-tfa-continuita-didattica-tutte-le-info-utili-sul-sostegno-question-time-con-cozzetto-anief-live-lunedi-12-maggio-alle-1500/",
-                "date": "12 Mag 2025",
-                "time": "13:43",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/Template_questiontime_1920x1080-5.png"
             },
             {
                 "category": "DSGA",
@@ -110,7 +150,12 @@
                 "date": "12 Mag 2025",
                 "time": "11:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2344668579-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Il registro elettronico, l’uso ossessivo da parte dei genitori rischia di trasformarlo in un boomerang educativo. Quali consigli può dare la scuola",
@@ -150,12 +195,7 @@
                 "date": "12 Mag 2025",
                 "time": "9:25",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_1819849748.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Docenti",
                 "title": "Malattie oncologiche: dall’esclusione dell’obbligo di reperibilità per le visite fiscali alla pensione d’inabilità. Vademecum Inps",
@@ -238,46 +278,6 @@
                 "date": "11 Mag 2025",
                 "time": "12:49",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/06/noipa.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Papa Leone XIV, il primo Regina Coeli: “Ai giovani dico: non abbiate paura. Importante avere modelli credibili”",
-                "link": "https://www.orizzontescuola.it/papa-leone-xiv-il-primo-regina-coeli-ai-giovani-dico-non-abbiate-paura-importante-avere-modelli-credibili/",
-                "date": "11 Mag 2025",
-                "time": "12:28",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/Screenshot-2025-05-11-122056.png"
-            },
-            {
-                "category": "ATA",
-                "title": "Organici ATA, nel 2026/27 42.114 posti di collaboratore scolastico passano agli operatori scolastici",
-                "link": "https://www.orizzontescuola.it/organici-ata-nel-2026-27-42-114-posti-di-collaboratore-scolastico-passano-agli-operatori-scolastici/",
-                "date": "11 Mag 2025",
-                "time": "12:09",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Neoassunti 2024/25: più di 25mila i docenti iscritti sulla piattaforma Indire",
-                "link": "https://www.orizzontescuola.it/neoassunti-2024-25-piu-di-25mila-i-docenti-iscritti-sulla-piattaforma-indire/",
-                "date": "11 Mag 2025",
-                "time": "10:56",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/12/shutterstock_1708897081.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "GPS elenco aggiuntivo 2025, data ultima per il titolo è il 30 giugno. Percorsi abilitanti 60 e 30 CFU, rischiano di restare fuori",
-                "link": "https://www.orizzontescuola.it/gps-elenco-aggiuntivo-2025-data-ultima-per-il-titolo-e-il-30-giugno-percorsi-abilitanti-60-e-30-cfu-rischiano-di-restare-fuori/",
-                "date": "11 Mag 2025",
-                "time": "10:56",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2456270825.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Anno di prova neoassunti: si può svolgere in una scuola diversa da quella di assunzione?",
-                "link": "https://www.orizzontescuola.it/anno-di-prova-neoassunti-si-puo-svolgere-in-una-scuola-diversa-da-quella-di-assunzione/",
-                "date": "11 Mag 2025",
-                "time": "10:35",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/09/shutterstock_1240130032.jpg"
             }
         ]
     },
@@ -286,10 +286,66 @@
         "articles": [
             {
                 "category": "Cronaca",
+                "title": "Fuga dall’asilo: due bimbi di 5 anni escono indisturbati e tornano a casa da soli. Tutta colpa di un cancello difettoso",
+                "link": "https://www.orizzontescuola.it/fuga-dallasilo-due-bimbi-di-5-anni-escono-indisturbati-e-tornano-a-casa-da-soli-tutta-colpa-di-un-cancello-difettoso/",
+                "date": "12 Mag 2025",
+                "time": "18:25",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Burnout, Anief: “Cresce numero docenti e Ata colpiti. Sia avviata inchiesta su incidenza malattie professionali riscontrate, per maggiore prevenzione e anticipo pensionistico”",
+                "link": "https://www.orizzontescuola.it/burnout-anief-cresce-numero-docenti-e-ata-colpiti-sia-avviata-inchiesta-su-incidenza-malattie-professionali-riscontrate-per-maggiore-prevenzione-e-anticipo-pensionistico/",
+                "date": "12 Mag 2025",
+                "time": "18:10",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Maestra licenziata per profilo OnlyFans, la CUB scuola le offre di diventare segretaria provinciale",
+                "link": "https://www.orizzontescuola.it/maestra-licenziata-per-profilo-onlyfans-la-cub-scuola-le-offre-di-diventare-segretaria-provinciale/",
+                "date": "12 Mag 2025",
+                "time": "18:07",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Formazione incentivata, Cicero (Ancodis): “Urgente sapere quando e come si svolgerà la seconda annualità”",
+                "link": "https://www.orizzontescuola.it/formazione-incentivata-cicero-ancodis-urgente-sapere-quando-e-come-si-svolgera-la-seconda-annualita/",
+                "date": "12 Mag 2025",
+                "time": "18:04",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Obesità infantile, già a 10 anni il grasso addominale minaccia il cuore. Lo studio internazionale",
+                "link": "https://www.orizzontescuola.it/obesita-infantile-gia-a-10-anni-il-grasso-addominale-minaccia-il-cuore-lo-studio-internazionale/",
+                "date": "12 Mag 2025",
+                "time": "15:51",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Ministro Zangrillo: “Dopo anni difficili, 350.000 nuovi ingressi nella PA. L’IA? Una straordinaria opportunità di modernizzazione”",
+                "link": "https://www.orizzontescuola.it/ministro-zangrillo-dopo-anni-difficili-350-000-nuovi-ingressi-nella-pa-ora-al-lavoro-per-una-macchina-efficiente/",
+                "date": "12 Mag 2025",
+                "time": "15:41",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
                 "title": "Patentino digitale, la Lombardia forma 2500 studenti per un uso responsabile del web",
                 "link": "https://www.orizzontescuola.it/patentino-digitale-la-lombardia-forma-2500-studenti-per-un-uso-responsabile-del-web/",
                 "date": "12 Mag 2025",
                 "time": "14:33",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Corsi Indire, Tfa, continuità didattica: tutte le info utili sul sostegno. QUESTION TIME con Cozzetto (Anief)",
+                "link": "https://www.orizzontescuola.it/corsi-indire-tfa-continuita-didattica-tutte-le-info-utili-sul-sostegno-question-time-con-cozzetto-anief-live-lunedi-12-maggio-alle-1500/",
+                "date": "12 Mag 2025",
+                "time": "13:43",
                 "image_link": "N/A"
             },
             {
@@ -364,68 +420,20 @@
                 "date": "11 Mag 2025",
                 "time": "16:46",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Consulenza fiscale",
-                "title": "Pensione di vecchiaia, ecco quando sull’importo influisce il reddito del marito",
-                "link": "https://www.orizzontescuola.it/pensione-di-vecchiaia-ecco-quando-sullimporto-influisce-il-reddito-del-marito/",
-                "date": "11 Mag 2025",
-                "time": "13:41",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Consulenza fiscale",
-                "title": "Naspi a fine anno scolastico, per gli insegnanti come influiscono eventuali incarichi nel privato?",
-                "link": "https://www.orizzontescuola.it/naspi-a-fine-anno-scolastico-influiscono-incarichi-nel-privato/",
-                "date": "11 Mag 2025",
-                "time": "13:26",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Corsi docenti di sostegno Indire, CNDDU: “Preoccupa potenziale esclusione di numerosi insegnanti di ruolo  in assegnazione provvisoria”",
-                "link": "https://www.orizzontescuola.it/corsi-docenti-di-sostegno-indire-cnddu-preoccupa-la-situazione-di-potenziale-esclusione-di-numerosi-insegnanti-di-ruolo/",
-                "date": "11 Mag 2025",
-                "time": "11:49",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Al Museo Salinas “Ludendo docere”: a Palermo la povertà educativa si combatte con la cultura",
-                "link": "https://www.orizzontescuola.it/al-museo-salinas-ludendo-docere-a-palermo-la-poverta-educativa-si-combatte-con-la-cultura/",
-                "date": "11 Mag 2025",
-                "time": "11:39",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Meloni: “Grazie a tutte le mamme, monumento all’organizzazione tra famiglia e lavoro”. Valditara: “Auguri, con riconoscenza”",
-                "link": "https://www.orizzontescuola.it/meloni-grazie-a-tutte-le-mamme-monumento-allamore-disponibilita-e-organizzazione/",
-                "date": "11 Mag 2025",
-                "time": "9:17",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Ultimo mese di scuola: “Non hai ancora raggiunto la sufficienza? Ecco i consigli che do ai miei studenti”. Il video di Vincenzo Schettini",
-                "link": "https://www.orizzontescuola.it/ultimo-mese-di-scuola-non-hai-ancora-raggiunto-la-sufficienza-ecco-i-consigli-che-do-ai-miei-studenti-il-video-di-vincenzo-schettini/",
-                "date": "11 Mag 2025",
-                "time": "9:15",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Crepet: “Il lavoro? Non è occupazione ma passione e realizzazione di voi stessi. Questo mi hanno insegnato i miei genitori”",
-                "link": "https://www.orizzontescuola.it/crepet-il-lavoro-non-e-occupazione-ma-passione-e-realizzazione-di-voi-stessi-questo-mi-hanno-insegnato-i-mie-genitori/",
-                "date": "11 Mag 2025",
-                "time": "8:20",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Anno di prova neoassunti: si può svolgere in una scuola diversa da quella di assunzione?",
+                "link": "https://www.orizzontescuola.it/anno-di-prova-neoassunti-si-puo-svolgere-in-una-scuola-diversa-da-quella-di-assunzione/",
+                "date": "11 Mag 2025",
+                "time": "10:35",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Rientro titolare dopo 30 aprile: proroga supplenza sino al termine degli esami di terza media. Condizioni",
@@ -528,14 +536,6 @@
                 "link": "https://www.orizzontescuola.it/cattedra-orario-esterna-per-contrazione-di-organico-assegnare-agli-esclusi-dalla-graduatoria-di-istituto-quando-e-possibile/",
                 "date": "26 Apr 2025",
                 "time": "11:14",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Mobilità docente perdente posto 25/26: domanda condizionata o non condizionata?",
-                "link": "https://www.orizzontescuola.it/mobilita-docente-perdente-posto-25-26-domanda-condizionata-o-non-condizionata/",
-                "date": "25 Apr 2025",
-                "time": "11:45",
                 "image_link": "N/A"
             }
         ]
