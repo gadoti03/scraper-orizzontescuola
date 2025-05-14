@@ -17,6 +17,30 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "Allerta meteo giovedì 15 maggio, scuole chiuse in diversi comuni della Sicilia. ELENCO IN AGGIORNAMENTO",
+                "link": "https://www.orizzontescuola.it/allerta-meteo-giovedi-15-maggio-scuole-chiuse-in-diversi-comuni-della-sicilia-in-aggiornamento/",
+                "date": "14 Mag 2025",
+                "time": "20:42",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/Maltempo-1.png"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Scuola e dipendenze, il piano Valditara per formare docenti sentinella e liberare i giovani dalle droghe: stanziato un milione di euro. Lo prevede il Decreto Scuola",
+                "link": "https://www.orizzontescuola.it/scuola-e-dipendenze-il-piano-valditara-per-formare-docenti-sentinella-e-liberare-i-giovani-dalle-droghe-un-milione-di-euro/",
+                "date": "14 Mag 2025",
+                "time": "19:31",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Valditara-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR2: non ci sarà ripescaggio per chi non è stato ammesso all’orale per pochi punti. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr2-non-ci-sara-ripescaggio-per-chi-non-e-stato-ammesso-allorale-per-pochi-punti-risposte-ai-quesiti/",
+                "date": "14 Mag 2025",
+                "time": "18:43",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
+            },
+            {
                 "category": "Scuole",
                 "title": "Proroga per i PCTO all’estero, il MIM fissa la nuova scadenza al 3 giugno. NOTA",
                 "link": "https://www.orizzontescuola.it/proroga-per-i-pcto-allestero-il-mim-fissa-la-nuova-scadenza-al-3-giugno-nota/",
@@ -42,7 +66,7 @@
             },
             {
                 "category": "Politica scolastica",
-                "title": "Carta del Docente, bonus esteso anche ai precari dal 2025-2026. Si cambia sulle modalità di rendicontazione delle spese. EMENDAMENTO del governo al Dl Scuola",
+                "title": "Carta del Docente: fatture esercenti entro 90 giorni diventano obbligatorie, bonus esteso anche ai precari dal 2025-2026. EMENDAMENTO del governo al Dl Scuola",
                 "link": "https://www.orizzontescuola.it/carta-del-docente-bonus-esteso-anche-ai-precari-anche-per-il-2025-2026-si-cambia-sulle-modalita-di-rendicontazione-delle-spese-emendamento-del-governo-al-dl-scuola/",
                 "date": "14 Mag 2025",
                 "time": "17:12",
@@ -63,14 +87,6 @@
                 "date": "14 Mag 2025",
                 "time": "17:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_1104907541.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Allerta meteo giovedì 15 maggio, scuole chiuse in diversi comuni della Sicilia. ELENCO IN AGGIORNAMENTO",
-                "link": "https://www.orizzontescuola.it/allerta-meteo-giovedi-15-maggio-scuole-chiuse-in-diversi-comuni-della-sicilia-in-aggiornamento/",
-                "date": "14 Mag 2025",
-                "time": "16:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/Maltempo-1.png"
             },
             {
                 "category": "ATA",
@@ -127,7 +143,12 @@
                 "date": "14 Mag 2025",
                 "time": "13:36",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/tfa-sostegno-IX-ciclo.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Laurea in psicologia e tre anni di servizio alla primaria non è requisito di accesso a INDIRE sostegno. Pillole di Question Time",
@@ -143,12 +164,7 @@
                 "date": "14 Mag 2025",
                 "time": "12:59",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2268916973.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "Scuola in prima linea contro la violenza di genere: il Ministero avvia un monitoraggio nazionale. C’è tempo fino al 29 maggio. NOTA",
@@ -276,28 +292,53 @@
                 "date": "14 Mag 2025",
                 "time": "9:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_737360479.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Graduatorie prima fascia ATA: chi ha cambiato provincia, deve presentare una nuova domanda di inserimento? Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/chi-era-inserito-in-prima-fascia-ata-in-una-provincia-e-ora-si-trova-in-terza-fascia-in-unaltra-deve-presentare-una-nuova-domanda-di-inserimento-pillole-di-questiontime/",
-                "date": "14 Mag 2025",
-                "time": "8:35",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_627149393.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Docente svolge attività commerciale non autorizzabile? Deve restituire gli stipendi",
-                "link": "https://www.orizzontescuola.it/docente-svolge-attivita-commerciale-non-autorizzabile-deve-restituire-gli-stipendi/",
-                "date": "14 Mag 2025",
-                "time": "8:16",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2518087677.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Giornata della famiglia, CNDDU a Valditara: “Più posti per mobilità interprovinciale e sostegno economico ai fuorisede”",
+                "link": "https://www.orizzontescuola.it/giornata-della-famiglia-cnddu-a-valditara-piu-posti-per-mobilita-interprovinciale-e-sostegno-economico-ai-fuorisede/",
+                "date": "14 Mag 2025",
+                "time": "21:52",
+                "image_link": "N/A"
+            },
+            null,
+            {
+                "category": "Cronaca",
+                "title": "Meloni sul disagio giovanile, Gulino (Cnop): “Ordine psicologi disponibile a collaborare col Governo”",
+                "link": "https://www.orizzontescuola.it/meloni-sul-disagio-giovanile-gulino-cnop-ordine-psicologi-disponibile-a-collaborare-col-governo/",
+                "date": "14 Mag 2025",
+                "time": "20:14",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Carta del docente anche ai precari, Gilda Snadir esulta: “Risultato straordinario, figlio del nostro impegno continuo e costante”",
+                "link": "https://www.orizzontescuola.it/carta-del-docente-anche-ai-precari-gilda-snadir-esulta-risultato-straordinario-figlio-del-nostro-impegno-continuo-e-costante/",
+                "date": "14 Mag 2025",
+                "time": "19:20",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Allarme binge drinking al femminile, le giovani donne bevono più degli uomini",
+                "link": "https://www.orizzontescuola.it/allarme-binge-drinking-al-femminile-le-giovani-donne-bevono-piu-degli-uomini/",
+                "date": "14 Mag 2025",
+                "time": "19:07",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Giovani tecnici digitali al servizio dello Stato, Zangrillo spalanca le porte agli ITS Academy: “Basta con l’immagine del posto fisso, puntiamo sui giovani”",
+                "link": "https://www.orizzontescuola.it/giovani-tecnici-digitali-al-servizio-dello-stato-zangrillo-spalanca-le-porte-agli-its-academy-basta-con-limmagine-del-posto-fisso-puntiamo-sui-giovani/",
+                "date": "14 Mag 2025",
+                "time": "18:40",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Il caso del telefono sequestrato da una docente allo studente a scuola diventa scontro politico. Il Ministero: “Fare chiarezza su quanto accaduto”",
@@ -392,54 +433,6 @@
                 "link": "https://www.orizzontescuola.it/esclusa-dalla-gita-per-la-sedia-a-rotelle-come-una-scuola-e-la-comunita-hanno-trasformato-una-delusione-in-unesperienza-di-inclusione/",
                 "date": "14 Mag 2025",
                 "time": "14:05",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Nessuna categoria",
-                "title": "Un milione e 350 mila bambini mai dal dentista, il nodo dell’accesso alle cure: “La prevenzione odontoiatrica ha un impatto sulla salute a 360 gradi”",
-                "link": "https://www.orizzontescuola.it/un-milione-e-350-mila-bambini-mai-dal-dentista-il-nodo-dellaccesso-alle-cure-la-prevenzione-odontoiatrica-ha-un-impatto-sulla-salute-a-360-gradi/",
-                "date": "14 Mag 2025",
-                "time": "14:01",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso secondaria PNRR2. ecco come si valuta la prova pratica e le indicazioni per lo svolgimento [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-ecco-come-si-valuta-la-prova-pratica-e-le-indicazioni-per-lo-svolgimento/",
-                "date": "14 Mag 2025",
-                "time": "13:58",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Bambini e obesità: la vita in campagna è davvero un toccasana? Studio finlandese ribalta le convinzioni. Più sovrappeso e ore davanti agli schermi per i piccoli delle aree rurali",
-                "link": "https://www.orizzontescuola.it/bambini-e-obesita-la-vita-in-campagna-e-davvero-un-toccasana-studio-finlandese-ribalta-le-convinzioni-piu-sovrappeso-e-ore-davanti-agli-schermi-per-i-piccoli-delle-aree-rurali/",
-                "date": "14 Mag 2025",
-                "time": "13:42",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Pensioni",
-                "title": "Posti disponibili docenti e ATA dopo i pensionamenti dal 1° settembre 2025. Elenchi per provincia [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/posti-disponibili-docenti-e-ata-dopo-i-pensionamenti-dal-1-settembre-2025-elenchi-per-provincia-in-aggiornamento/",
-                "date": "14 Mag 2025",
-                "time": "13:24",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Agroalimentare nelle scuole, i prodotti degli studenti sbarcano nei mercati Campagna Amica per un Made in Italy di qualità",
-                "link": "https://www.orizzontescuola.it/agroalimentare-nelle-scuole-i-prodotti-degli-studenti-sbarcano-nei-mercati-campagna-amica-per-un-made-in-italy-di-qualita/",
-                "date": "14 Mag 2025",
-                "time": "12:26",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "La prima storica retrocessione della Sampdoria in Serie C scatena reazioni “discutibili” in classe con bara e croce blucerchiata. Come intervenire tra ironia e responsabilità?",
-                "link": "https://www.orizzontescuola.it/la-prima-storica-retrocessione-della-sampdoria-in-serie-c-scatena-reazioni-discutibili-in-classe-con-bara-e-croce-blucerchiata-come-intervenire-tra-ironia-e-responsabilita/",
-                "date": "14 Mag 2025",
-                "time": "12:10",
                 "image_link": "N/A"
             }
         ]
@@ -725,6 +718,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Registro elettronico e genitori. Lettera",
+                "link": "https://www.orizzontescuola.it/registro-elettronico-e-genitori-lettera/",
+                "date": "14 Mag 2025",
+                "time": "20:07",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "Il senso dell’IRC oggi: la mia alleanza con la Fondazione MAiC per una proposta significativa. Lettera",
                 "link": "https://www.orizzontescuola.it/il-senso-dellirc-oggi-la-mia-alleanza-con-la-fondazione-maic-per-una-proposta-significativa-lettera/",
                 "date": "14 Mag 2025",
@@ -761,14 +762,6 @@
                 "link": "https://www.orizzontescuola.it/dalla-risposta-alla-domanda-la-scuola-nellera-dellintelligenza-artificiale-lettera/",
                 "date": "11 Mag 2025",
                 "time": "18:17",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "“Prof, se non sa cosa vuol dire cringe…”. Lettera",
-                "link": "https://www.orizzontescuola.it/prof-se-non-sa-cosa-vuol-dire-cringe-lettera/",
-                "date": "11 Mag 2025",
-                "time": "17:21",
                 "image_link": "N/A"
             }
         ]
