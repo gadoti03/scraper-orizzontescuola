@@ -24,6 +24,55 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Scuole",
+                "title": "La prima laurea in “Diritto degli animali” e in Italia un corso sulla legislazione per il benessere animale",
+                "link": "https://www.orizzontescuola.it/la-prima-laurea-in-diritto-degli-animali-e-in-italia-un-corso-sulla-legislazione-per-il-benessere-animale/",
+                "date": "18 Mag 2025",
+                "time": "10:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2552623421.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "La musica Rap come strumento per fare educazione alla legalità, un’esperienza",
+                "link": "https://www.orizzontescuola.it/la-musica-rap-come-strumento-per-fare-educazione-alla-legalita-unesperienza/",
+                "date": "18 Mag 2025",
+                "time": "9:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_1482376136.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "L’Ucraina non esiste e la Crimea è russa: le narrazioni filo-russe dei libri di storia italiani. Lo studio",
+                "link": "https://www.orizzontescuola.it/lucraina-non-esiste-e-la-crimea-e-russa-le-narrazioni-filo-russe-dei-libri-di-storia-italiani-lo-studio/",
+                "date": "18 Mag 2025",
+                "time": "8:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2183129579.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Il 62% dei genitori chiede metodi alternativi di valutazione: “i ‘temi’ non sono più strumenti validi di valutazione e le verifiche generano stress”",
+                "link": "https://www.orizzontescuola.it/il-62-dei-genitori-chiede-metodi-alternativi-di-valutazione-i-temi-non-sono-piu-strumenti-validi-di-valutazione-e-le-verifiche-generano-stress/",
+                "date": "18 Mag 2025",
+                "time": "8:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2500605417.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "OIV: redazione delle attestazioni sull’assolvimento degli obblighi di pubblicazione",
+                "link": "https://www.orizzontescuola.it/oiv-redazione-delle-attestazioni-sullassolvimento-degli-obblighi-di-pubblicazione/",
+                "date": "18 Mag 2025",
+                "time": "8:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_249609007.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Graduatorie ATA 24 mesi 2025, domande e modifiche entro le ore 14 del 19 maggio. TUTORIAL",
+                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-2025-domande-e-modifiche-entro-le-ore-14-del-19-maggio-tutorial/",
+                "date": "18 Mag 2025",
+                "time": "7:58",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Screenshot-2025-04-28-140826.png"
+            },
+            null,
+            {
                 "category": "Cronaca",
                 "title": "Compiti per le vacanze, il parere del pediatra: “Meglio una pizza che un esercizio. L’estate sia solo libertà”",
                 "link": "https://www.orizzontescuola.it/compiti-per-le-vacanze-il-parere-del-pediatra-meglio-una-pizza-che-un-esercizio-lestate-sia-solo-liberta/",
@@ -87,7 +136,12 @@
                 "date": "17 Mag 2025",
                 "time": "11:06",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/Carta-del-docente-2.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Graduatorie concorsi docenti: dati riserve, precedenze e preferenze in un’area riservata. Novità Decreto PA 2025",
@@ -143,12 +197,7 @@
                 "date": "17 Mag 2025",
                 "time": "8:31",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2306056481.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "ATA",
                 "title": "Graduatorie ATA 24 mesi e certificazioni informatiche: punteggio in graduatoria per l’assistente amministrativo. Pillole di Question Time",
@@ -229,61 +278,20 @@
                 "date": "16 Mag 2025",
                 "time": "16:02",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_1964164204.jpg"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Dirigenti scolastici italiani vanno in Cina: “Un ponte tra due mondi, occasione per riflettere sul ruolo della formazione e della conoscenza della lingua”",
-                "link": "https://www.orizzontescuola.it/dirigenti-scolastici-italiani-vanno-in-cina-un-ponte-tra-due-mondi-occasione-per-riflettere-sul-ruolo-della-formazione-e-della-conoscenza-della-lingua/",
-                "date": "16 Mag 2025",
-                "time": "15:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/Screenshot-2025-05-16-154218.png"
-            },
-            null,
-            {
-                "category": "Politica scolastica",
-                "title": "Oltre 83 milioni di euro per mense scolastiche e tempo pieno: firmato il decreto. Più del 65% delle risorse al Sud",
-                "link": "https://www.orizzontescuola.it/oltre-83-milioni-di-euro-per-mense-scolastiche-e-tempo-pieno-firmato-il-decreto-piu-del-65-delle-risorse-al-sud/",
-                "date": "16 Mag 2025",
-                "time": "14:02",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/01/shutterstock_1488262670.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze 2024/25, ancora tanti INTERPELLI fino al termine delle lezioni [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
-                "date": "16 Mag 2025",
-                "time": "13:59",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Laurea in Scienze Pedagogiche e servizio alla primaria: come diventare insegnante di sostegno",
-                "link": "https://www.orizzontescuola.it/laurea-in-scienze-pedagogiche-e-servizio-alla-primaria-come-diventare-insegnante-di-sostegno/",
-                "date": "16 Mag 2025",
-                "time": "13:29",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/tfa-sostegno-IX-ciclo.png"
-            },
-            {
-                "category": "Docenti",
-                "title": "Maturità 2025, ecco i modelli MAD per sostituzione presidenti e commissari [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/maturita-2025-ecco-i-modelli-mad-per-sostituzione-commissari-assenti-in-aggiornamento/",
-                "date": "16 Mag 2025",
-                "time": "13:17",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/02/shutterstock_1536693014.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Valditara: “I docenti hanno per le mani il lavoro più bello del mondo e la scuola italiana è un modello di riferimento”",
-                "link": "https://www.orizzontescuola.it/valditara-i-docenti-fanno-il-lavoro-piu-bello-del-mondo-e-la-scuola-italiana-e-un-modello-di-riferimento/",
-                "date": "16 Mag 2025",
-                "time": "12:02",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/Valditara.jpeg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "“Tribunale chiama scuola”, circa 3.000 studenti in piazza per l’anniversario della strage di Capaci",
+                "link": "https://www.orizzontescuola.it/tribunale-chiama-scuola-circa-3-000-studenti-in-piazza-per-lanniversario-della-strage-di-capaci/",
+                "date": "18 Mag 2025",
+                "time": "9:58",
+                "image_link": "N/A"
+            },
             null,
             {
                 "category": "Cronaca",
@@ -412,14 +420,6 @@
                 "date": "16 Mag 2025",
                 "time": "20:57",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Sciopero scuola, 23-24 maggio indetto da Csle e Conalpe. NOTA Ministero",
-                "link": "https://www.orizzontescuola.it/sciopero-scuola-23-24-maggio-indetto-da-csle-e-conalpe-nota-ministero/",
-                "date": "16 Mag 2025",
-                "time": "20:31",
-                "image_link": "N/A"
             }
         ]
     },
@@ -545,6 +545,30 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Corsi specializzazione INDIRE triennalisti: potrebbero esserci due edizioni entro il 31 dicembre. Chi può accedere: il “triennio mobile”, che cos’è",
+                "link": "https://www.orizzontescuola.it/corsi-specializzazione-indire-triennalisti-potrebbero-esserci-due-edizioni-entro-il-31-dicembre-chi-puo-accedere-pillole-di-questiontime/",
+                "date": "15 Mag 2025",
+                "time": "17:45",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1349362136.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Corsi sostegno INDIRE, verso avvio entro giugno per triennalisti e titoli esteri",
+                "link": "https://www.orizzontescuola.it/corsi-sostegno-indire-verso-avvio-entro-giugno-per-triennalisti-e-titoli-esteri/",
+                "date": "15 Mag 2025",
+                "time": "12:58",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/tfa-sostegno-IX-ciclo.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Percorso sostegno abilitati estero, supplenza non svolta in classe per maternità è utile per i 36 CFU anziché 48? Pillole di QuestionTime",
+                "link": "https://www.orizzontescuola.it/percorso-sostegno-abilitati-estero-supplenza-non-svolta-in-classe-per-maternita-e-utile-per-accedere-ai-36-cfu-anziche-48-pillole-di-questiontime/",
+                "date": "15 Mag 2025",
+                "time": "9:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2326351727.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "In prima fascia nelle GPS si entra solo con titolo di abilitazione, non laurea e 24 CFU: il principio di diritto della Cassazione",
                 "link": "https://www.orizzontescuola.it/in-prima-fascia-nelle-gps-si-entra-solo-con-titolo-di-abilitazione-non-laurea-e-24-cfu-il-principio-di-diritto-della-cassazione/",
                 "date": "15 Mag 2025",
@@ -566,30 +590,6 @@
                 "date": "14 Mag 2025",
                 "time": "13:08",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_535799140.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti 60 e 30 CFU: dovranno concludersi non oltre ottobre 2025, in tempo per il concorso docenti PNRR3",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-60-e-30-cfu-dovranno-concludersi-non-oltre-ottobre-2025-in-tempo-per-il-concorso-docenti-pnrr3/",
-                "date": "14 Mag 2025",
-                "time": "12:17",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2456270825.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Gli idonei del concorso di Educazione motoria entrano nelle graduatorie di merito, saranno assunti a scorrimento",
-                "link": "https://www.orizzontescuola.it/gli-idonei-del-concorso-di-educazione-motoria-entrano-nelle-graduatorie-di-merito-saranno-assunti-a-scorrimento/",
-                "date": "14 Mag 2025",
-                "time": "12:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_729453583.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "TFA sostegno e percorso Indire: quali sono le differenze? Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/tfa-sostegno-e-percorso-indire-quali-sono-le-differenze-pillole-di-questiontime/",
-                "date": "14 Mag 2025",
-                "time": "9:48",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_145510552.jpg"
             }
         ]
     },
