@@ -25,6 +25,62 @@
         "articles": [
             {
                 "category": "Docenti",
+                "title": "Mobilità docenti 2025, ecco i posti disponibili per i trasferimenti. Pubblicazione esiti il 23 maggio",
+                "link": "https://www.orizzontescuola.it/mobilita-docenti-2025-ecco-i-posti-disponibili-per-i-trasferimenti-pubblicazione-esiti-il-23-maggio/",
+                "date": "20 Mag 2025",
+                "time": "17:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_130754711.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Sostegno, il decreto che divide: domani udienza al TAR sulla conferma del docente. Continuità didattica o rischio clientelismo? Tutti i nodi di una riforma che fa discutere",
+                "link": "https://www.orizzontescuola.it/sostegno-il-decreto-che-divide-domani-udienza-al-tar-sulla-conferma-del-docente-continuita-didattica-o-rischio-clientelismo-tutti-i-nodi-di-una-riforma-che-fa-discutere/",
+                "date": "20 Mag 2025",
+                "time": "17:08",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_1388691593.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Appalti, vietato l’affidamento a chi ha partecipato alla redazione: i chiarimenti dell’ANAC e come prevenire il conflitto di interessi",
+                "link": "https://www.orizzontescuola.it/appalti-vietato-laffidamento-a-chi-ha-partecipato-alla-redazione-i-chiarimenti-dellanac-e-come-prevenire-il-conflitto-di-interessi/",
+                "date": "20 Mag 2025",
+                "time": "17:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_695838022.jpg"
+            },
+            {
+                "category": "Pensioni",
+                "title": "Fondo Espero, scatta il silenzio-assenso. Mercoledì i sindacati al Ministero per le indicazioni operative. Anief: “No all’adesione automatica, servono consapevolezza e informazione",
+                "link": "https://www.orizzontescuola.it/fondo-espero-scatta-il-silenzio-assenso-domani-i-sindacati-al-ministero-anief-no-alladesione-automatica-servono-consapevolezza-e-informazione/",
+                "date": "20 Mag 2025",
+                "time": "16:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/Pensioni-Agosto-24.webp"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Adolescenti europei tra vecchie e nuove dipendenze: crollano alcol e sigarette, ma esplodono e-cig e farmaci. In Italia i docenti diventano sentinelle grazie a un milione di euro per la formazione contro i rischi nascosti tra i banchi",
+                "link": "https://www.orizzontescuola.it/adolescenti-europei-tra-vecchie-e-nuove-dipendenze-crollano-alcol-e-sigarette-ma-esplodono-e-cig-e-farmaci-in-italia-i-docenti-diventano-sentinelle-grazie-a-un-milione-di-euro-per-la-formazione-con/",
+                "date": "20 Mag 2025",
+                "time": "16:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_140876200.jpg"
+            },
+            {
+                "category": "Stipendio",
+                "title": "Dal taglio del cuneo fiscale alle nuove detrazioni, cosa succederà davvero agli stipendi di docenti e ATA da giugno? RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/dal-taglio-del-cuneo-fiscale-alle-nuove-detrazioni-cosa-succedera-davvero-agli-stipendi-di-docenti-e-ata-da-giugno-risposte-ai-quesiti/",
+                "date": "20 Mag 2025",
+                "time": "15:06",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/01/shutterstock_1715497669.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Ferie assegnate d’ufficio, il Tribunale di Genova riconosce risarcimenti per oltre 65mila euro a favore di docenti precari assistiti da Anief",
+                "link": "https://www.orizzontescuola.it/ferie-assegnate-dufficio-il-tribunale-di-genova-riconosce-risarcimenti-per-oltre-65mila-euro-a-favore-di-docenti-precari-assistiti-da-anief/",
+                "date": "20 Mag 2025",
+                "time": "14:34",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_1388691593.jpg"
+            },
+            {
+                "category": "Docenti",
                 "title": "Maturità 2025, modelli MAD per sostituire Presidenti e Commissari. A partire da quando saranno utilizzati [AGGIORNATO]",
                 "link": "https://www.orizzontescuola.it/maturita-2025-ecco-i-modelli-mad-per-sostituzione-commissari-assenti-in-aggiornamento/",
                 "date": "20 Mag 2025",
@@ -94,7 +150,12 @@
                 "date": "20 Mag 2025",
                 "time": "10:43",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_668259205.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Stipendio",
                 "title": "Stipendi docenti e ATA, nuove aliquote IRPEF e tassazione dei redditi di lavoro dipendente. CIRCOLARE Agenzia delle Entrate",
@@ -145,17 +206,12 @@
             },
             {
                 "category": "Cronaca",
-                "title": "Concorso dirigenti scolastici: le diverse soglie regionali di sbarramento non determinano disparità di trattamento. I chiarimenti del Ministero",
+                "title": "Concorso dirigenti scolastici: punteggio di accesso alla prova scritta cambia in ogni regione, ma non c’è disparità di trattamento. I chiarimenti del Ministero",
                 "link": "https://www.orizzontescuola.it/concorsi-dirigenti-scolastici-le-diverse-soglie-regionali-di-sbarramento-non-determinano-disparita-di-trattamento-i-chiarimenti-del-ministero/",
                 "date": "20 Mag 2025",
                 "time": "8:40",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/Valditara.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Viaggi di istruzione e uscite didattiche: nessun obbligo per i docenti. Cosa dice la normativa",
@@ -222,61 +278,60 @@
                 "date": "19 Mag 2025",
                 "time": "18:39",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_1896796732.jpg"
-            },
-            {
-                "category": "Studenti",
-                "title": "Esami di stato secondo ciclo: Curriculum dello studente sezioni ospedaliere e istruzione domiciliare. La nota del MIM",
-                "link": "https://www.orizzontescuola.it/esami-di-stato-secondo-ciclo-curriculum-dello-studente-sezioni-ospedaliere-e-istruzione-domiciliare-la-nota-del-mim/",
-                "date": "19 Mag 2025",
-                "time": "18:06",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_668259205.jpg"
-            },
-            {
-                "category": "Studenti",
-                "title": "Esami di Stato secondo ciclo: Curriculum dello studente sezioni carcerarie. La nota del ministero",
-                "link": "https://www.orizzontescuola.it/esami-di-stato-secondo-ciclo-curriculum-dello-studente-sezioni-carcerarie-la-nota-del-ministero/",
-                "date": "19 Mag 2025",
-                "time": "18:04",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_2160371057.jpg"
-            },
-            {
-                "category": "Guide",
-                "title": "Permessi brevi docenti: possibili anche a maggio e giugno. Parliamo del recupero",
-                "link": "https://www.orizzontescuola.it/permessi-brevi-docenti-possibili-anche-a-maggio-e-giugno-parliamo-del-recupero/",
-                "date": "19 Mag 2025",
-                "time": "17:43",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/09/shutterstock_1931309774.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Orientamento, classi terze, quarte e quinte secondaria di II grado. Come presentare i progetti",
-                "link": "https://www.orizzontescuola.it/orientamento-classi-terze-quarte-e-quinte-secondaria-di-ii-grado-come-presentare-i-progetti-2/",
-                "date": "19 Mag 2025",
-                "time": "17:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2507996211.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Autonomia differenziata, ok del Governo al Ddl sui nuovi livelli essenziali delle prestazioni. C’è anche l’istruzione. Nove mesi di tempo per i decreti legislativi",
-                "link": "https://www.orizzontescuola.it/autonomia-differenziata-ok-del-governo-al-ddl-sui-nuovi-livelli-essenziali-delle-prestazioni-ce-anche-listruzione-nove-mesi-di-tempo-per-i-decreti-legislativi/",
-                "date": "19 Mag 2025",
-                "time": "16:37",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/Governo_1-scaled.jpg"
-            },
-            null,
-            {
-                "category": "Docenti",
-                "title": "Mobilità docenti 2025, ecco i posti disponibili per i trasferimenti. Pubblicazione esiti il 23 maggio",
-                "link": "https://www.orizzontescuola.it/mobilita-docenti-2025-ecco-i-posti-disponibili-per-i-trasferimenti-pubblicazione-esiti-il-23-maggio/",
-                "date": "19 Mag 2025",
-                "time": "15:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_130754711.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Il 23 maggio apre a Palermo il Museo del Presente dedicato a Falcone e Borsellino. Maria Falcone: “Un luogo di tutti, soprattutto dei giovani d’Italia”",
+                "link": "https://www.orizzontescuola.it/il-23-maggio-apre-a-palermo-il-museo-del-presente-dedicato-a-falcone-e-borsellino-maria-falcone-un-luogo-di-tutti-soprattutto-dei-giovani-ditalia/",
+                "date": "20 Mag 2025",
+                "time": "16:09",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Sondaggio choc sul femminicidio, la scuola deciderà su sanzione disciplinare per lo studente. Il preside conferma: “Occorre dare risposta educativa importante”",
+                "link": "https://www.orizzontescuola.it/sondaggio-choc-sul-femminicidio-la-scuola-decidera-su-sanzione-disciplinare-per-lo-studente-il-preside-conferma-occorre-dare-risposta-educativa-importante/",
+                "date": "20 Mag 2025",
+                "time": "16:06",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Basta vessazioni burocratiche, Anief chiede meno adempimenti per le segreterie, più risorse per il personale ATA e i Funzionari di Elevata Qualificazione: “Il lavoro cresce, ma le mani restano sempre le stesse!”",
+                "link": "https://www.orizzontescuola.it/basta-vessazioni-burocratiche-anief-chiede-meno-adempimenti-per-le-segreterie-piu-risorse-per-il-personale-ata-e-i-funzionari-di-elevata-qualificazione-il-lavoro-cresce-ma-le-mani-restano-sempre/",
+                "date": "20 Mag 2025",
+                "time": "15:47",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“Non hanno la misura delle conseguenze”, il preside e la fragilità dei ragazzi dietro la violenza",
+                "link": "https://www.orizzontescuola.it/non-hanno-la-misura-delle-conseguenze-il-preside-e-la-fragilita-dei-ragazzi-dietro-la-violenza/",
+                "date": "20 Mag 2025",
+                "time": "15:22",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Bando di concorso per la copertura di 15 posti come Funzionario Insegnante Scuola Infanzia per il comune di Firenze [BANDO]",
+                "link": "https://www.orizzontescuola.it/bando-di-concorso-per-la-copertura-di-15-posti-come-funzionario-insegnante-scuola-infanzia-per-il-comune-di-firenze-bando/",
+                "date": "20 Mag 2025",
+                "time": "15:09",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso secondaria PNRR2. ecco come si valuta la prova pratica e le indicazioni per lo svolgimento [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-ecco-come-si-valuta-la-prova-pratica-e-le-indicazioni-per-lo-svolgimento/",
+                "date": "20 Mag 2025",
+                "time": "14:57",
+                "image_link": "N/A"
+            },
             {
                 "category": "Scuole",
                 "title": "L’Intelligenza Artificiale entra nelle Università come materia di insegnamento. Ecco dove e come",
@@ -371,54 +426,6 @@
                 "link": "https://www.orizzontescuola.it/supplenze-inferiori-a-30-giorni-scuola-dellinfanzia-comune-di-firenze-domanda-di-messa-a-disposizione-avviso-e-modello/",
                 "date": "20 Mag 2025",
                 "time": "10:31",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Ivano Dionigi: “Basta distinzioni tra licei e istituti, pagare meglio i docenti, oggi ridotti a badanti. La scuola italiana tra le migliori d’Europa, quelle degli Usa fanno ridere”",
-                "link": "https://www.orizzontescuola.it/ivano-dionigi-basta-distinzioni-tra-licei-e-istituti-pagare-meglio-i-docenti-oggi-ridotti-a-badanti-la-scuola-italiana-tra-le-migliori-deuropa-quelle-degli-usa-fanno-ridere/",
-                "date": "20 Mag 2025",
-                "time": "8:53",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Genitori",
-                "title": "“I bambini maschi non … menano”, “io ti ho creato e io ti …”: la challenge che riscrive empaticamente le frasi tossiche",
-                "link": "https://www.orizzontescuola.it/i-bambini-maschi-non-menano-io-ti-ho-creato-e-io-ti-la-challenge-che-riscrive-empaticamente-le-frasi-tossiche/",
-                "date": "20 Mag 2025",
-                "time": "8:33",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Malcolm X: a 100 anni dalla nascita, una eredità ancora viva. “Ci ha insegnato l’orgoglio”",
-                "link": "https://www.orizzontescuola.it/malcolm-x-a-100-anni-dalla-nascita-una-eredita-ancora-viva-ci-ha-insegnato-lorgoglio/",
-                "date": "20 Mag 2025",
-                "time": "8:10",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Scontro tra bus e camion, muore Nika, docente 43enne. I suoi colleghi: “Una persona splendida e piena di vita”",
-                "link": "https://www.orizzontescuola.it/una-gita-al-museo-del-giocattolo-si-trasforma-in-tragedia-dopo-schianto-tra-bus-e-camion-muore-nika-docente-43enne/",
-                "date": "20 Mag 2025",
-                "time": "7:31",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Corsi di Laurea online, ampliamento incontrollato di corsi erogati interamente in modalità digitale. Divieto per alcuni corsi e regole più stringenti in Brasile",
-                "link": "https://www.orizzontescuola.it/corsi-di-laurea-online-ampliamento-incontrollato-di-corsi-erogati-interamente-in-modalita-digitale-divieto-per-alcuni-corsi-e-regole-piu-stringenti-in-brasile/",
-                "date": "19 Mag 2025",
-                "time": "20:57",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Referendum sulla cittadinanza, Daniele Novara: “Votare sì è un atto pedagogico, civico e democratico”",
-                "link": "https://www.orizzontescuola.it/referendum-cittadinanza-novara-votare-si-e-un-atto-pedagogico-civico-e-democratico/",
-                "date": "19 Mag 2025",
-                "time": "20:55",
                 "image_link": "N/A"
             }
         ]
@@ -545,6 +552,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Percorsi sostegno Indire/Università triennalisti: requisiti di accesso. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/percorsi-sostegno-indire-universita-triennalisti-requisiti-di-accesso-risposte-ai-quesiti/",
+                "date": "18 Mag 2025",
+                "time": "10:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_2161931957.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Graduatorie concorsi docenti: dati riserve, precedenze e preferenze in un’area riservata. Novità Decreto PA 2025",
                 "link": "https://www.orizzontescuola.it/graduatorie-concorsi-docenti-dati-riserve-precedenze-e-preferenze-in-unarea-riservata-novita-decreto-pa2025/",
                 "date": "17 Mag 2025",
@@ -582,14 +597,6 @@
                 "date": "16 Mag 2025",
                 "time": "10:42",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_1065259865.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorsi docenti PNRR2: dove controllare voto minimo di accesso alla prova orale. Alcuni candidati ancora disorientati dalla novità",
-                "link": "https://www.orizzontescuola.it/concorsi-docenti-pnrr2-usr-pubblicano-voto-minimo-per-la-prova-orale-candidati-possono-vederlo-nellarea-riservata-nota/",
-                "date": "16 Mag 2025",
-                "time": "9:49",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_341870168-scaled.jpg"
             }
         ]
     },
