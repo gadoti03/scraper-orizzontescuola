@@ -23,6 +23,7 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti secondaria PNRR2: tutte le convocazioni [IN AGGIORNAMENTO]",
@@ -142,7 +143,12 @@
                 "date": "23 Mag 2025",
                 "time": "14:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/Gestire-la-scuola-Cartaceo-online-3.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "ATA",
                 "title": "Mobilità personale ATA 2025/26: ecco i posti disponibili. Esiti il 3 giugno. AGGIORNATO",
@@ -150,12 +156,7 @@
                 "date": "23 Mag 2025",
                 "time": "13:22",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1508556191.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Docenti",
                 "title": "Mobilità docenti 2025: contestazione esiti e rinunce trasferimenti. Cosa sapere",
@@ -291,14 +292,6 @@
                 "date": "23 Mag 2025",
                 "time": "8:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_270696413.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Abbandono scolastico quasi al 10% tra i giovani 18-24 anni e 448 mila studenti in meno nel 2022/2023. Cala la natalità, ma anche l’istruzione dei genitori influisce negativamente. Il rapporto ISTAT",
-                "link": "https://www.orizzontescuola.it/abbandono-scolastico-quasi-al-10-tra-i-giovani-18-24-anni-e-448-mila-studenti-in-meno-nel-2022-2023-cala-la-natalita-ma-anche-listruzione-dei-genitori-influisce-negativamente-il-rapporto-istat/",
-                "date": "23 Mag 2025",
-                "time": "8:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2091848878.jpg"
             }
         ]
     },
@@ -306,17 +299,25 @@
         "title": "In Breve",
         "articles": [
             {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso secondaria PNRR2, ecco come si valuta la prova pratica e le indicazioni per lo svolgimento [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-ecco-come-si-valuta-la-prova-pratica-e-le-indicazioni-per-lo-svolgimento/",
-                "date": "23 Mag 2025",
-                "time": "21:52",
+                "category": "Cronaca",
+                "title": "Un ulivo per Fiammetta Borsellino al “Giardino dei Giusti” della scuola De Amicis: “Investiamo sui giovani per contrastare le mafie”",
+                "link": "https://www.orizzontescuola.it/un-ulivo-per-fiammetta-borsellino-al-giardino-dei-giusti-della-scuola-de-amicis-investiamo-sui-giovani-per-contrastare-le-mafie/",
+                "date": "24 Mag 2025",
+                "time": "6:14",
                 "image_link": "N/A"
             },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso secondaria PNRR1, nuove graduatorie per assunzioni da settembre 2025",
                 "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr1-graduatorie-pubblicate-dopo-il-31-dicembre-2024-per-assunzioni-docenti-nel-2025-26/",
+                "date": "23 Mag 2025",
+                "time": "21:52",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso secondaria PNRR2, ecco come si valuta la prova pratica e le indicazioni per lo svolgimento [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-ecco-come-si-valuta-la-prova-pratica-e-le-indicazioni-per-lo-svolgimento/",
                 "date": "23 Mag 2025",
                 "time": "21:52",
                 "image_link": "N/A"
@@ -439,14 +440,6 @@
                 "link": "https://www.orizzontescuola.it/il-ceto-medio-italiano-tra-crisi-e-speranze-il-paradosso-di-chi-regge-il-paese-il-rapporto-cida-censis/",
                 "date": "23 Mag 2025",
                 "time": "11:34",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Sciopero docenti e ATA venerdì 23 e sabato 24 maggio. Avviso precisazioni",
-                "link": "https://www.orizzontescuola.it/sciopero-docenti-e-ata-venerdi-23-e-sabato-24-maggio/",
-                "date": "23 Mag 2025",
-                "time": "11:12",
                 "image_link": "N/A"
             }
         ]
@@ -626,6 +619,14 @@
         "articles": [
             {
                 "category": "ATA",
+                "title": "Graduatorie ATA 24 mesi, domande chiuse. Prossimamente allegato G per la scelta delle scuole",
+                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-domande-chiuse-prossimamente-allegato-g-per-la-scelta-delle-scuole/",
+                "date": "20 Mag 2025",
+                "time": "8:22",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
+            },
+            {
+                "category": "ATA",
                 "title": "Graduatorie ATA 24 mesi 2025, domande e modifiche entro le ore 14 del 19 maggio. TUTORIAL",
                 "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-2025-domande-e-modifiche-entro-le-ore-14-del-19-maggio-tutorial/",
                 "date": "18 Mag 2025",
@@ -663,14 +664,6 @@
                 "date": "16 Mag 2025",
                 "time": "11:44",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_654950818.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Graduatorie ATA 24 mesi, servizio contratti PNRR e Agenda Sud valido anche per l’anno scolastico 2025/2026. NOTA",
-                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-servizio-contratti-pnrr-e-agenda-sud-valido-anche-per-lanno-scolastico-2025-2026-nota/",
-                "date": "16 Mag 2025",
-                "time": "11:21",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1687192501-scaled.jpg"
             }
         ]
     },
