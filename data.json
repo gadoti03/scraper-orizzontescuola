@@ -24,6 +24,22 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti secondaria PNRR2: tutte le convocazioni [IN AGGIORNAMENTO]",
+                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-ecco-le-convocazioni-per-la-prova-orale-si-comincia-a-maggio-in-aggiornamento/",
+                "date": "28 Mag 2025",
+                "time": "22:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Immissioni in ruolo docenti 2025, i posti disponibili per provincia [IN AGGIORNAMENTO]",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2025-i-posti-disponibili-per-provincia-in-aggiornamento/",
+                "date": "28 Mag 2025",
+                "time": "22:06",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2518506853.jpg"
+            },
+            {
                 "category": "Politica scolastica",
                 "title": "Gelmini: “Troppi ricorsi al Tar, di fronte a un brutto voto anziché affermare il rispetto dell’autorità si demolisce la persona. Ripristinare alleanza educativa tra scuola e famiglia”",
                 "link": "https://www.orizzontescuola.it/gelmini-troppi-ricorsi-al-tar-serve-alleanza-tra-genitori-e-scuola-contro-il-bullismo/",
@@ -127,7 +143,12 @@
                 "date": "28 Mag 2025",
                 "time": "12:34",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_1708378216.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "ATA",
                 "title": "Mobilità personale ATA 2025/26: ecco i posti disponibili. Esiti il 3 giugno. AGGIORNATO",
@@ -143,12 +164,7 @@
                 "date": "28 Mag 2025",
                 "time": "12:24",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2518830319.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "DSGA",
                 "title": "Concorso DSGA: CIAD entro l’immissione in ruolo, candidati ammessi alle prove con riserva. CHIARIMENTI",
@@ -164,14 +180,6 @@
                 "date": "28 Mag 2025",
                 "time": "12:03",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_107800838.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Verifica finale PEI, uso delle tabelle ministeriali e non solo: facciamo chiarezza. SPECIALE con Chiocca e Miceli. LIVE Mercoledì 28 maggio alle 15:00",
-                "link": "https://www.orizzontescuola.it/verifica-finale-pei-uso-delle-tabelle-ministeriali-e-non-solo-facciamo-chiarezza-speciale-con-chiocca-e-miceli-live-mercoledi-28-maggio-alle-1500/",
-                "date": "28 Mag 2025",
-                "time": "11:32",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/Template_dentroilpalazzo_1920x1080-2.png"
             },
             {
                 "category": "Docenti",
@@ -270,20 +278,85 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/10/shutterstock_1384243295.jpg"
             },
             null,
-            null,
-            {
-                "category": "Cronaca",
-                "title": "Assistente tecnico si ammala di tumore a causa dell’amianto presente a scuola, risarcimento di 600mila euro [SENTENZA]. In Italia 2mila scuole da bonificare e 5mila docenti a rischio",
-                "link": "https://www.orizzontescuola.it/assistente-tecnico-si-ammala-di-tumore-a-causa-dellamianto-presente-a-scuola-risarcimento-di-600mila-euro-in-italia-2mila-scuole-da-bonificare-e-5mila-docenti-a-rischio/",
-                "date": "27 Mag 2025",
-                "time": "19:09",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2492732617.jpg"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Femminicidio Afragola, Manzi (PD): “Maggioranza e opposizione insieme per potenziare prevenzione”",
+                "link": "https://www.orizzontescuola.it/femminicidio-afragola-manzi-pd-maggioranza-e-opposizione-insieme-per-potenziare-prevenzione/",
+                "date": "28 Mag 2025",
+                "time": "21:28",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Affinita (Moige): “Positivo inserimento del rispetto dell’altro in educazione civica. Serve un villaggio educativo”",
+                "link": "https://www.orizzontescuola.it/affinita-moige-positivo-inserimento-del-rispetto-dellaltro-in-educazione-civica-serve-un-villaggio-educativo/",
+                "date": "28 Mag 2025",
+                "time": "20:29",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "A Pescara, zanzara nel pane servito a scuola: il Comune avvia controlli urgenti sul fornitore",
+                "link": "https://www.orizzontescuola.it/a-pescara-zanzara-nel-pane-servito-a-scuola-il-comune-avvia-controlli-urgenti-sul-fornitore/",
+                "date": "28 Mag 2025",
+                "time": "19:14",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Martina uccisa a 14 anni, la sua prof: “Perdere un’alunna così è come perdere una figlia. Trasformerò il dolore in un impegno ancora più forte”",
+                "link": "https://www.orizzontescuola.it/martina-uccisa-a-14-anni-la-sua-prof-perdere-unalunna-cosi-e-come-perdere-una-figlia-trasformero-il-dolore-in-un-impegno-ancora-piu-forte/",
+                "date": "28 Mag 2025",
+                "time": "19:10",
+                "image_link": "N/A"
+            },
+            null,
+            {
+                "category": "Scuole",
+                "title": "ITS Academy, ulteriori laboratori 4.0. Manifestazioni di interesse entro il 10 giugno",
+                "link": "https://www.orizzontescuola.it/its-academy-ulteriori-laboratori-4-0-manifestazioni-di-interesse-entro-il-10-giugno/",
+                "date": "28 Mag 2025",
+                "time": "18:53",
+                "image_link": "N/A"
+            },
+            {
+                "category": "ATA",
+                "title": "Concorso collaboratori scolastici Trento: online le tracce della prova scritta e i risultati",
+                "link": "https://www.orizzontescuola.it/concorso-collaboratori-scolastici-trento-online-le-tracce-della-prova-scritta-e-i-risultati/",
+                "date": "28 Mag 2025",
+                "time": "18:21",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Femminicidio ad Afragola, Crepet: “C’è qualcuno contro i social? Se una ragazzina 11enne ha un profilo c’è un problema. Siamo in un baratro per puro egoismo”",
+                "link": "https://www.orizzontescuola.it/femminicidio-ad-afragola-crepet-ce-qualcuno-contro-i-social-se-una-ragazzina-11enne-ha-un-profilo-ce-un-problema/",
+                "date": "28 Mag 2025",
+                "time": "18:19",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Studenti",
+                "title": "Medicina, ecco come funzioneranno gli esami del semestre aperto: tre prove da 31 domande in 45 minuti",
+                "link": "https://www.orizzontescuola.it/medicina-ecco-come-funzioneranno-gli-esami-del-semestre-aperto-tre-prove-da-31-domande-in-45-minuti/",
+                "date": "28 Mag 2025",
+                "time": "18:16",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Rinnovo contratto scuola, Castellana (Gilda): “Stipendi indegni per chi educa le future generazioni”",
+                "link": "https://www.orizzontescuola.it/rinnovo-contratto-scuola-castellana-gilda-stipendi-indegni-per-chi-educa-le-future-generazioni/",
+                "date": "28 Mag 2025",
+                "time": "18:11",
+                "image_link": "N/A"
+            },
             null,
             {
                 "category": "Cronaca",
@@ -339,86 +412,6 @@
                 "link": "https://www.orizzontescuola.it/bullismo-carlo-verdonecombattiamolo-con-sport-e-aggregazione/",
                 "date": "28 Mag 2025",
                 "time": "13:59",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Contrasto alla violenza contro le donne: quali attività hanno attivato le scuole? Monitoraggio MIM fino al 29 maggio",
-                "link": "https://www.orizzontescuola.it/contrasto-alla-violenza-contro-le-donne-quali-attivita-hanno-attivato-le-scuole-monitoraggio-mim-fino-al-29-maggio/",
-                "date": "28 Mag 2025",
-                "time": "13:32",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Elisa Di Francisca: “Ho subito bullismo da ragazzina e sui social, ma non bisogna tacere”",
-                "link": "https://www.orizzontescuola.it/elisa-di-francisca-ho-subito-bullismo-da-ragazzina-e-sui-social-ma-non-bisogna-tacere/",
-                "date": "28 Mag 2025",
-                "time": "13:29",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Nessuna categoria",
-                "title": "Bullismo, Locatelli: “Valorizzare potenzialità, non limiti delle persone con disabilità”, Frassinetti: “Docenti devono essere amici-psicologi per carpire pensieri insidiosi che tormentano i ragazzi”",
-                "link": "https://www.orizzontescuola.it/bullismo-locatelli-valorizzare-potenzialita-non-limiti-delle-persone-con-disabilita-frassinetti-docenti-devono-essere-amici-psicologi-per-carpire-pensieri-insidiosi-che-tormentano-i-ragazzi/",
-                "date": "28 Mag 2025",
-                "time": "12:47",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Bando Inps screening patologie oncologiche e cardiovascolari: domande entro le 12 del 30 maggio",
-                "link": "https://www.orizzontescuola.it/bando-inps-screening-patologie-oncologiche-e-cardiovascolari-domande-entro-le-12-del-30-maggio/",
-                "date": "28 Mag 2025",
-                "time": "12:43",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Oltre 50.000 bambini sono morti o rimasti feriti dall’ottobre 2023. “Mancano acqua, cibo e medicinali”. I dati UNICEF sulla “guerra” a Gaza",
-                "link": "https://www.orizzontescuola.it/oltre-50-000-bambini-sono-morti-o-rimasti-feriti-dallottobre-2023-mancano-acqua-cibo-e-medicinali-i-dati-unicef-sulla-guerra-a-gaza/",
-                "date": "28 Mag 2025",
-                "time": "12:28",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Aprea: “Serve più pedagogia contro bullismo e cyberbullismo, basta lezioni frontali. L’esperienza scolastica deve diventare un’esperienza di vita, non solo d’istruzione”",
-                "link": "https://www.orizzontescuola.it/aprea-serve-piu-pedagogia-contro-bullismo-e-cyberbullismo-basta-lezioni-frontali-lesperienza-scolastica-deve-diventare-unesperienza-di-vita-non-solo-distruzione/",
-                "date": "28 Mag 2025",
-                "time": "12:15",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Maturità 2025, il messaggio di Valditara agli studenti: “Un momento altamente formativo, legato alla crescita della vostra persona”",
-                "link": "https://www.orizzontescuola.it/maturita-2025-il-messaggio-di-valditara-agli-studenti-un-momento-altamente-formativo-legato-alla-crescita-della-vostra-persona/",
-                "date": "28 Mag 2025",
-                "time": "11:22",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Femminicidio ad Afragola, trovata morta la 14enne. Valditara: “La scuola continuerà a lavorare, anche in nome di Martina”",
-                "link": "https://www.orizzontescuola.it/femminicidio-ad-afragola-trovata-morta-la-14enne-valditara-la-scuola-continuera-a-lavorare-anche-in-nome-di-martina/",
-                "date": "28 Mag 2025",
-                "time": "11:13",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Graduatorie docenti di sostegno sature soprattutto al Sud, CDS: “Con i corsi indire peggioreremo la situazione, ci vuole coordinamento tra offerta formativa e domanda effettiva”",
-                "link": "https://www.orizzontescuola.it/graduatorie-docenti-di-sostegno-sature-soprattutto-al-sud-cds-con-i-corsi-indire-peggioreremo-la-situazione-ci-vuole-coordinamento-tra-offerta-formativa-e-domanda-effettiva/",
-                "date": "28 Mag 2025",
-                "time": "11:10",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Il professore di fisica che ha trasformato il quarto scudetto del Napoli in una verifica: McTominay e Conte protagonisti di esercizi che hanno conquistato gli studenti",
-                "link": "https://www.orizzontescuola.it/il-professore-di-fisica-che-ha-trasformato-il-quarto-scudetto-del-napoli-in-una-verifica-mctominay-e-conte-protagonisti-di-esercizi-che-hanno-conquistato-gli-studenti/",
-                "date": "28 Mag 2025",
-                "time": "11:07",
                 "image_link": "N/A"
             }
         ]
@@ -545,27 +538,11 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
-                "title": "Percorsi sostegno nelle Università docenti tre anni di servizio: 12.300 posti primaria e soli 1.800 secondaria II grado, più quelli di Indire. Quando i bandi",
-                "link": "https://www.orizzontescuola.it/percorsi-sostegno-nelle-universita-docenti-tre-anni-di-servizio-12-300-posti-primaria-e-soli-1-800-secondaria-ii-grado-piu-quelli-di-indire-quando-i-bandi/",
-                "date": "26 Mag 2025",
-                "time": "13:28",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_130754711.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
                 "title": "Scienze della Formazione Primaria: ad un 1 anno dal titolo l’80% dei laureati trova lavoro, 5 anni la quota sale all’88%. Gli sbocchi professionali vanno oltre la scuola",
                 "link": "https://www.orizzontescuola.it/scienze-della-formazione-primaria-ad-un-1-anno-dal-titolo-l80-dei-laureati-trova-lavoro-5-anni-la-quota-sale-all88-gli-sbocchi-professionali-vanno-oltre-la-scuola/",
                 "date": "26 Mag 2025",
                 "time": "10:26",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_2190785137.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Immissioni in ruolo docenti 2025, i posti disponibili per provincia [IN AGGIORNAMENTO]",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2025-i-posti-disponibili-per-provincia-in-aggiornamento/",
-                "date": "25 Mag 2025",
-                "time": "17:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2518506853.jpg"
             },
             {
                 "category": "Diventare Insegnanti",
@@ -590,6 +567,22 @@
                 "date": "25 Mag 2025",
                 "time": "10:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_2281563893.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Elenchi aggiuntivi GPS prima fascia: dal 16 giugno al 3 luglio si potrà sciogliere la riserva per titolo conseguito entro il 30 giugno",
+                "link": "https://www.orizzontescuola.it/elenchi-aggiuntivi-gps-prima-fascia-dal-16-giugno-al-3-luglio-si-potra-sciogliere-la-riserva-per-titolo-conseguito-entro-il-30-giugno/",
+                "date": "25 Mag 2025",
+                "time": "9:49",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2142727347.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Conclusione anno di prova docenti neoassunti 2024/25: la tempistica",
+                "link": "https://www.orizzontescuola.it/conclusione-anno-di-prova-docenti-neoassunti-2024-25-la-tempistica/",
+                "date": "24 Mag 2025",
+                "time": "18:53",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/10/shutterstock_592435025.jpg"
             }
         ]
     },
@@ -704,6 +697,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Proposta di inserimento nel prossimo CCNL Scuola di un riconoscimento in graduatoria per attività formative volontarie. Lettera",
+                "link": "https://www.orizzontescuola.it/proposta-di-inserimento-nel-prossimo-ccnl-scuola-di-un-riconoscimento-in-graduatoria-per-attivita-formative-volontarie-lettera/",
+                "date": "28 Mag 2025",
+                "time": "19:46",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "“Inchiostro delle emozioni”: educare i giovani alla vita emotiva in un tempo di fragilità. Lettera",
                 "link": "https://www.orizzontescuola.it/inchiostro-delle-emozioni-educare-i-giovani-alla-vita-emotiva-in-un-tempo-di-fragilita-lettera/",
                 "date": "24 Mag 2025",
@@ -740,14 +741,6 @@
                 "link": "https://www.orizzontescuola.it/educare-al-rispetto-e-alla-responsabilita-una-risposta-pedagogica-urgente-alla-violenza-di-genere-lettera/",
                 "date": "18 Mag 2025",
                 "time": "13:09",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Registro elettronico e genitori. Lettera",
-                "link": "https://www.orizzontescuola.it/registro-elettronico-e-genitori-lettera/",
-                "date": "14 Mag 2025",
-                "time": "20:07",
                 "image_link": "N/A"
             }
         ]
