@@ -3,12 +3,12 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
-                "category": "Politica scolastica",
-                "title": "Sostegno, Falabella (FISH): “La continuità didattica non è un optional. Tecnologie da milioni chiuse negli armadi per mancanza formazione docenti. Tanti ammettono di non saperle usare”. INTERVISTA",
-                "link": "https://www.orizzontescuola.it/sostegno-scolastico-falabella-fish-la-continuita-didattica-non-e-un-optional-tecnologie-da-milioni-chiuse-negli-armadi-per-mancanza-formazione-docenti-tanti-ammettono-di-non-saperle-usare-i/",
+                "category": "Diventare Insegnanti",
+                "title": "Conferma supplente sostegno 2025/26, come procedere. NOTA MIM ai Dirigenti Scolastici e Uffici",
+                "link": "https://www.orizzontescuola.it/conferma-supplente-sostegno-2025-26-come-procedere-nota-mim-ai-dirigenti-scolastici-e-uffici/",
                 "date": "29 Mag 2025",
-                "time": "8:01",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/Falabella.png"
+                "time": "18:54",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2142727347.jpg"
             },
             null
         ]
@@ -16,6 +16,30 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso secondaria PNRR1, finalmente le graduatorie per le assunzioni da settembre 2025 [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr1-graduatorie-pubblicate-dopo-il-31-dicembre-2024-per-assunzioni-docenti-nel-2025-26/",
+                "date": "29 Mag 2025",
+                "time": "21:58",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1349362136.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Valutazione del comportamento nella secondaria II grado in sede di scrutini finali: le nuove disposizioni sono valide per tutte le classi",
+                "link": "https://www.orizzontescuola.it/valutazione-del-comportamento-nella-secondaria-ii-grado-in-sede-di-scrutini-finali-le-nuove-disposizioni-sono-valide-per-tutte-le-classi/",
+                "date": "29 Mag 2025",
+                "time": "20:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/Immagine-2025-05-28-171516.png"
+            },
+            {
+                "category": "ATA",
+                "title": "Graduatorie terza fascia ATA: le scuole verificano validità CIAD su Accredia e depennano gli aspiranti senza certificazione. INDICAZIONI",
+                "link": "https://www.orizzontescuola.it/graduatorie-terza-fascia-ata-le-scuole-verificano-validita-ciad-su-accredia-e-depennano-gli-aspiranti-senza-certificazione-indicazioni/",
+                "date": "29 Mag 2025",
+                "time": "19:43",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2331500305.jpg"
+            },
             {
                 "category": "Scuole",
                 "title": "Un ritardo di oltre due anni: nel Sud e nelle isole oltre il 60% degli studenti è sotto la soglia della sufficienza in matematica e italiano. La fotografia sui divari di apprendimento in Italia",
@@ -119,7 +143,12 @@
                 "date": "29 Mag 2025",
                 "time": "13:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Adempimenti di fine anno scolastico: circolari e documenti scaricabili. Aggiornato con “Adempimenti di fine anno scolastico: in allegato un modello di circolare informativa”",
@@ -143,12 +172,7 @@
                 "date": "29 Mag 2025",
                 "time": "12:33",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/shutterstock_346619372.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Docenti",
                 "title": "Mobilità personale scuola 2025/26: è possibile monitorare la domanda sull’App IO",
@@ -268,17 +292,7 @@
                 "date": "29 Mag 2025",
                 "time": "8:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_1391245664.jpg"
-            },
-            null,
-            {
-                "category": "Scuole",
-                "title": "Adempimenti di fine anno scolastico: in allegato un modello di circolare informativa",
-                "link": "https://www.orizzontescuola.it/adempimenti-di-fine-anno-scolastico-in-allegato-un-modello-di-circolare-informativa/",
-                "date": "29 Mag 2025",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_1602677635.jpg"
-            },
-            null
+            }
         ]
     },
     "group_4": {
@@ -286,7 +300,7 @@
         "articles": [
             {
                 "category": "Cronaca",
-                "title": "Valditara: “Dispersione scolastica al 9,8%, vicini al target UE 2030. Non è la dimensione della classe che conta ma la personalizzazione didattica”",
+                "title": "Valditara: “Dispersione scolastica al 9,8%, vicini al target UE 2030. Non è la dimensione della classe che conta ma la personalizzazione della didattica”",
                 "link": "https://www.orizzontescuola.it/valditara-dispersione-scolastica-al-98-vicini-al-target-ue-2030-non-e-la-dimensione-della-classe-che-conta-ma-la-personalizzazione-didattica/",
                 "date": "29 Mag 2025",
                 "time": "18:08",
@@ -538,6 +552,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR2, prova suppletiva cambierà il voto minimo di accesso?",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr2-prova-suppletiva-cambiera-il-voto-minimo-di-accesso/",
+                "date": "27 Mag 2025",
+                "time": "10:06",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_594891590.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Conferma supplente sostegno per il 2025/26: quando dare disponibilità, come avviene la nomina, vantaggi. RISPOSTE AI QUESITI",
                 "link": "https://www.orizzontescuola.it/conferma-supplente-sostegno-per-il-2025-26-quando-dare-disponibilita-come-avviene-la-nomina-vantaggi-risposte-ai-quesiti/",
                 "date": "27 Mag 2025",
@@ -575,14 +597,6 @@
                 "date": "25 Mag 2025",
                 "time": "15:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_2411289915.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR1: ritardi, ampliamento dei posti e “priorità” nelle assunzioni. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr1-ritardi-ampliamento-dei-posti-e-priorita-nelle-assunzioni-pillole-di-questiontime/",
-                "date": "25 Mag 2025",
-                "time": "12:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_1077839468.jpg"
             }
         ]
     },
