@@ -3,12 +3,12 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
-                "category": "Politica scolastica",
-                "title": "Rinnovo Contratto scuola, Pacifico (Anief): “Chiediamo risposte su aumenti stipendio e buoni pasto. Ci sono risorse inutilizzate” INTERVISTA",
-                "link": "https://www.orizzontescuola.it/rinnovo-contratto-scuola-pacifico-anief-chiediamo-risposte-su-aumenti-stipendio-e-buoni-pasto-ci-sono-risorse-inutilizzate-intervista/",
-                "date": "30 Mag 2025",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/WhatsApp.Image_.2023.03.29.at_.18.20.04.jpg"
+                "category": "Cronaca",
+                "title": "“Mancano i tecnici e l’economia ha bisogno di tecnici per crescere. La riforma della scuola parta dall’economia e dal mercato del lavoro. Ecco come”. INTERVISTA a Valerio Ricciardelli",
+                "link": "https://www.orizzontescuola.it/mancano-i-tecnici-e-leconomia-ha-bisogno-di-tecnici-per-crescere-la-riforma-della-scuola-parta-dalleconomia-e-dal-mercato-del-lavoro-ecco-come-intervista-a-valerio-ricciardelli/",
+                "date": "31 Mag 2025",
+                "time": "8:16",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/ricciardelli.jpg"
             },
             null
         ]
@@ -16,6 +16,48 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Scuole",
+                "title": "I pareri dell’ANAC non sono vincolanti,ma possono essere disattesi?",
+                "link": "https://www.orizzontescuola.it/i-pareri-dellanac-non-sono-vincolantima-possono-essere-disattesi/",
+                "date": "31 Mag 2025",
+                "time": "10:25",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/ANAC_DEF.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Continuità del docente di sostegno: entro oggi 31 maggio la richiesta delle famiglie. Pillole di QuestionTime",
+                "link": "https://www.orizzontescuola.it/continuita-del-docente-di-sostegno-entro-oggi-31-maggio-la-richiesta-delle-famiglie-pillole-di-questiontime/",
+                "date": "31 Mag 2025",
+                "time": "9:43",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1440992648.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Omicidio Carbonaro, la gelosia del fidanzato e la necessità di una educazione all’affettività. E c’è chi si rivolge ai genitori: “L’avete ammazzata voi terroni ignoranti… devono sterilizzarvi”",
+                "link": "https://www.orizzontescuola.it/omicidio-carbonaro-la-gelosia-del-fidanzato-e-la-necessita-di-una-educazione-allaffettivita-e-ce-chi-si-rivolge-ai-genitori-della-ragazza-lavete-ammazzata-voi-terroni-ignoranti/",
+                "date": "31 Mag 2025",
+                "time": "9:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2258563341.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Fascicolo virtuale, quali certificazioni si possono acquisire",
+                "link": "https://www.orizzontescuola.it/fascicolo/",
+                "date": "31 Mag 2025",
+                "time": "8:33",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_1918250336.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Stipendio docenti e ATA giugno 2025: importo visibile nell’area riservata di NoiPA. Fino a 400 euro in più",
+                "link": "https://www.orizzontescuola.it/stipendio-docenti-e-ata-giugno-2025-importo-visibile-nellarea-riservata-di-noipa-fino-a-400-euro-in-piu/",
+                "date": "31 Mag 2025",
+                "time": "8:08",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_734125336.jpg"
+            },
+            null,
+            null,
             {
                 "category": "Cronaca",
                 "title": "Stop ai device dopo le 22:30 e mai durante i pasti: la guida completa del pedagogista Sidoti per genitori che vogliono educare i figli all’uso responsabile della tecnologia",
@@ -87,7 +129,12 @@
                 "date": "30 Mag 2025",
                 "time": "14:21",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2198683335.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Adempimenti di fine anno scolastico: circolari e documenti scaricabili. Aggiornato con “Scrutini finali, in allegato un modello di nomina per sostituzione docenti assenti”",
@@ -143,12 +190,7 @@
                 "date": "30 Mag 2025",
                 "time": "11:24",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2337136275.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "Relazione di fine anno scolastico: in allegato un modello",
@@ -229,61 +271,44 @@
                 "date": "30 Mag 2025",
                 "time": "9:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2431668281.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Incarichi esterni retribuiti, dall’incompatibilità assoluta a quella relativa. Professore condannato a restituire i compensi percepiti? Ecco cosa hanno detto i giudici. [TESTO SENTENZA]",
-                "link": "https://www.orizzontescuola.it/incarichi-esterni-retribuiti-dallincompatibilita-assoluta-a-quella-relativa-professore-condannato-a-restituire-i-compensi-percepiti-ecco-cosa-hanno-detto-i-giudici-testo-sentenza/",
-                "date": "30 Mag 2025",
-                "time": "8:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2188762763.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Licenziata perché risultava assente, era sottoposta a cure terapeutiche continuative. Basta come giustificazione? Ecco cosa hanno detto i giudici",
-                "link": "https://www.orizzontescuola.it/licenziata-perche-risultava-assente-era-sottoposta-a-cure-terapeutiche-continuative-basta-come-giustificazione-ecco-cosa-hanno-detto-i-giudici/",
-                "date": "30 Mag 2025",
-                "time": "8:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_1190997985-scaled.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Incarichi al personale ATA delle istituzioni scolastiche. La guida normativa aggiornata",
-                "link": "https://www.orizzontescuola.it/incarichi-al-personale-ata-delle-istituzioni-scolastiche-la-guida-normativa-aggiornata/",
-                "date": "30 Mag 2025",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_1932117329.jpg"
-            },
-            null,
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso secondaria PNRR1, finalmente le graduatorie per le assunzioni da settembre 2025 [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr1-graduatorie-pubblicate-dopo-il-31-dicembre-2024-per-assunzioni-docenti-nel-2025-26/",
-                "date": "29 Mag 2025",
-                "time": "21:58",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1349362136.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Valutazione del comportamento nella secondaria II grado in sede di scrutini finali: le nuove disposizioni sono valide per tutte le classi",
-                "link": "https://www.orizzontescuola.it/valutazione-del-comportamento-nella-secondaria-ii-grado-in-sede-di-scrutini-finali-le-nuove-disposizioni-sono-valide-per-tutte-le-classi/",
-                "date": "29 Mag 2025",
-                "time": "20:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/Immagine-2025-05-28-171516.png"
-            },
-            {
-                "category": "ATA",
-                "title": "Graduatorie terza fascia ATA: le scuole verificano validità CIAD su Accredia e depennano gli aspiranti senza certificazione. INDICAZIONI",
-                "link": "https://www.orizzontescuola.it/graduatorie-terza-fascia-ata-le-scuole-verificano-validita-ciad-su-accredia-e-depennano-gli-aspiranti-senza-certificazione-indicazioni/",
-                "date": "29 Mag 2025",
-                "time": "19:43",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2331500305.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Femminicidio Carbonaro, Manzi (PD): “Valditara divisivo, si lavori insieme per prevenzione a scuola”",
+                "link": "https://www.orizzontescuola.it/femminicidio-carbonaro-manzi-pd-valditara-divisivo-si-lavori-insieme-per-prevenzione-a-scuola/",
+                "date": "31 Mag 2025",
+                "time": "10:10",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Omicidio Afragola, Valditara: “relazione tra uomo e donna e rispetto delle figure femminili, sono nelle linee guida per l’educazione civica”",
+                "link": "https://www.orizzontescuola.it/omicidio-afragola-valditara-relazione-tra-uomo-e-donna-e-rispetto-delle-figure-femminili-sono-nelle-linee-guida-per-leducazione-civica/",
+                "date": "31 Mag 2025",
+                "time": "10:08",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Scuole aperte: tempo pieno e prolungato in Sicilia. Domande entro il 14 luglio",
+                "link": "https://www.orizzontescuola.it/scuole-aperte-tempo-pieno-e-prolungato-in-sicilia-domande-entro-il-14-luglio/",
+                "date": "31 Mag 2025",
+                "time": "8:46",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“Noi ci proviamo ad essere l’orecchio che ascolta anche i silenzi, ma ci confrontiamo continuamente con limiti tecnici e umani”. L’appello di Galiano",
+                "link": "https://www.orizzontescuola.it/noi-ci-proviamo-ad-essere-lorecchio-che-ascolta-anche-i-silenzi-ma-ci-confrontiamo-continuamente-con-limiti-tecnici-e-umani-lappello-di-galiano/",
+                "date": "31 Mag 2025",
+                "time": "8:21",
+                "image_link": "N/A"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Classi pollaio, Piccolotti (Avs) attacca il governo: “Si arrende al problema per risparmiare”",
@@ -395,44 +420,20 @@
                 "date": "30 Mag 2025",
                 "time": "13:17",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Divari di apprendimento in Italia, Giacalone shock: “Non è divario Nord-Sud, è bancarotta costituzionale”. Il Sud perde due anni di scuola in matematica e italiano, oltre il 60% sotto la soglia minima",
-                "link": "https://www.orizzontescuola.it/divari-di-apprendimento-in-italia-giacalone-shock-non-e-divario-nord-sud-e-bancarotta-costituzionale-il-sud-perde-due-anni-di-scuola-in-matematica-e-italiano-oltre-il-60-sotto-la-soglia-minim/",
-                "date": "30 Mag 2025",
-                "time": "12:54",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "“No” alla discriminazione e alla violenza sulle donne: l’associazione Millecolori a Palermo nei Licei “Galilei” e “Cassarà”",
-                "link": "https://www.orizzontescuola.it/no-alla-discriminazione-e-alla-violenza-sulle-donne-lassociazione-millecolori-a-palermo-nei-licei-galilei-e-cassara/",
-                "date": "30 Mag 2025",
-                "time": "12:52",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Bernini: “Orientamento già a scuola e dialogo con le imprese per colmare il gap formazione-lavoro”",
-                "link": "https://www.orizzontescuola.it/bernini-orientamento-gia-a-scuola-e-dialogo-con-le-imprese-per-colmare-il-gap-formazione-lavoro/",
-                "date": "30 Mag 2025",
-                "time": "12:45",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Asili nido, in Emilia Romagna altri 45 milioni di euro per abbattere le rette e favorire la conciliazione vita-lavoro",
-                "link": "https://www.orizzontescuola.it/asili-nido-in-emilia-romagna-altri-45-milioni-di-euro-per-abbattere-le-rette-e-favorire-la-conciliazione-vita-lavoro/",
-                "date": "30 Mag 2025",
-                "time": "12:18",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Valutazione del comportamento nella secondaria II grado in sede di scrutini finali: le nuove disposizioni sono valide per tutte le classi",
+                "link": "https://www.orizzontescuola.it/valutazione-del-comportamento-nella-secondaria-ii-grado-in-sede-di-scrutini-finali-le-nuove-disposizioni-sono-valide-per-tutte-le-classi/",
+                "date": "29 Mag 2025",
+                "time": "20:50",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Immissioni in ruolo docenti 2025: il 50% dei posti disponibili è accantonato prima della terza fase dei trasferimenti interprovinciali e passaggi di ruolo",
@@ -536,20 +537,28 @@
                 "date": "16 Mag 2025",
                 "time": "19:35",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Abbandono incarico GPS al 30 giugno: si potranno ottenere solo supplenze brevi",
-                "link": "https://www.orizzontescuola.it/abbandono-incarico-gps-al-30-giugno-si-potranno-ottenere-solo-supplenze-brevi/",
-                "date": "15 Mag 2025",
-                "time": "13:35",
-                "image_link": "N/A"
             }
         ]
     },
     "group_6": {
         "title": "Diventare Insegnanti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "GPS 2025 docenti, esclusioni dagli elenchi aggiuntivi per mancanza del titolo d’accesso",
+                "link": "https://www.orizzontescuola.it/gps-2025-docenti-esclusioni-dagli-elenchi-aggiuntivi-per-mancanza-del-titolo-daccesso/",
+                "date": "29 Mag 2025",
+                "time": "9:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2493334753-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Immissioni in ruolo docenti 2025, i posti disponibili per provincia [IN AGGIORNAMENTO]",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2025-i-posti-disponibili-per-provincia-in-aggiornamento/",
+                "date": "28 Mag 2025",
+                "time": "22:06",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2518506853.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Percorso specializzazione sostegno INDIRE/Università abilitati estero: quali sono i reali vantaggi, se il titolo non dà il ruolo?",
@@ -581,22 +590,6 @@
                 "date": "27 Mag 2025",
                 "time": "13:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_130754711.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorso sostegno abilitati estero, partecipazione è assicurata a tutti. Le modalità",
-                "link": "https://www.orizzontescuola.it/percorso-sostegno-abilitati-estero-partecipazione-e-assicurata-a-tutti-le-modalita/",
-                "date": "27 Mag 2025",
-                "time": "12:24",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/shutterstock_150780881.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR2, prova suppletiva cambierà il voto minimo di accesso?",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr2-prova-suppletiva-cambiera-il-voto-minimo-di-accesso/",
-                "date": "27 Mag 2025",
-                "time": "10:06",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_594891590.jpg"
             }
         ]
     },
