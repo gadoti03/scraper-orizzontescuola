@@ -24,6 +24,48 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "In aumento i disturbi psichici tra i giovani. C’è anche la scuola come causa: il 70% degli studenti sperimenta ansia da verifica e l’85% teme voti bassi",
+                "link": "https://www.orizzontescuola.it/in-aumento-i-disturbi-psichici-tra-i-giovani-ce-anche-la-scuola-come-causa-il-70-degli-studenti-sperimenta-ansia-da-verifica-e-l85-teme-voti-bassi/",
+                "date": "1 Giu 2025",
+                "time": "9:47",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/shutterstock_2248098391-1.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Classi di concorso in esubero dopo la mobilità 2025/26, ecco dove a “rischio” le immissioni in ruolo [IN AGGIORNAMENTO]",
+                "link": "https://www.orizzontescuola.it/classi-di-concorso-in-esubero-dopo-la-mobilita-2025-26-ecco-dove-non-ci-saranno-immissioni-in-ruolo-in-aggiornamento/",
+                "date": "1 Giu 2025",
+                "time": "9:32",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1785502850-scaled.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Oggi è la giornata mondiale dei genitori: leggi un libro a tuo figlio. Le istruzioni",
+                "link": "https://www.orizzontescuola.it/oggi-e-la-giornata-mondiale-dei-genitori-leggi-un-libro-a-tuo-figlio-ecco-perche/",
+                "date": "1 Giu 2025",
+                "time": "9:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/10/carenza-supplenti-2021.jpg"
+            },
+            {
+                "category": "Genitori",
+                "title": "Gli tolgono lo Smartphone, studente ricoverato a seguito di tremori in tutto il corpo. Era in crisi d’astinenza come da alcool",
+                "link": "https://www.orizzontescuola.it/gli-tolgono-lo-smartphone-studente-ricoverano-a-seguito-di-tremori-in-tutto-il-corpo-era-in-crisi-dastinenza-come-da-alcool/",
+                "date": "1 Giu 2025",
+                "time": "8:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/shutterstock_2248098391.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Affitti a Nord anche di 1.500 euro al mese, ANIEF: “compromette la permanenza stabile dei supplenti. Serve indennità di sede”",
+                "link": "https://www.orizzontescuola.it/affitti-a-nord-anche-di-1-500-euro-al-mese-anief-compromette-la-permanenza-stabile-dei-supplenti-serve-indennita-di-sede/",
+                "date": "1 Giu 2025",
+                "time": "8:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_2043167858.jpg"
+            },
+            null,
+            null,
+            {
                 "category": "Scuole",
                 "title": "Scadenze giugno 2025: esami di Stato, fine delle lezioni, elenchi aggiuntivi GPS",
                 "link": "https://www.orizzontescuola.it/scadenze-giugno-2025-esami-di-stato-fine-delle-lezioni-elenchi-aggiuntivi-gps/",
@@ -87,7 +129,12 @@
                 "date": "31 Mag 2025",
                 "time": "11:16",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/Il-gruppo-1.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Docenti",
                 "title": "Conferma dell’insegnante di sostegno 205/26: se parte delle ore si “perdono” perché l’alunno non riconferma o cambia grado di scuola. PILLOLE DI QUESTION TIME",
@@ -136,12 +183,7 @@
                 "time": "8:08",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_734125336.jpg"
             },
-            null
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            null,
             null,
             {
                 "category": "Cronaca",
@@ -184,14 +226,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1508556191.jpg"
             },
             {
-                "category": "Docenti",
-                "title": "Classi di concorso in esubero dopo la mobilità 2025/26, ecco dove a “rischio” le immissioni in ruolo [IN AGGIORNAMENTO]",
-                "link": "https://www.orizzontescuola.it/classi-di-concorso-in-esubero-dopo-la-mobilita-2025-26-ecco-dove-non-ci-saranno-immissioni-in-ruolo-in-aggiornamento/",
-                "date": "30 Mag 2025",
-                "time": "14:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1785502850-scaled.jpg"
-            },
-            {
                 "category": "Cronaca",
                 "title": "Decreto PNRR-Scuola, sarà votato giorno 3 giugno: dall’assunzione idonei concorso, alle misure contro i diplomifici. Cosa si voterà. La scheda",
                 "link": "https://www.orizzontescuola.it/decreto-pnrr-scuola-in-aula-alla-camera-il-30-maggio-dalla-riserva-per-gli-idonei-al-concorso-alla-promozione-della-filiera-tecnico-professionale-dagli-istituti-tecnici-al-reclutamento-dei-docenti/",
@@ -230,60 +264,20 @@
                 "date": "30 Mag 2025",
                 "time": "12:40",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/02/shutterstock_1536693014.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Scatti stipendiali 2013, la Cassazione boccia? Il Tribunale di Roma smentisce e riconosce validità anche a livello economico. Scarica la sentenza [PDF]",
-                "link": "https://www.orizzontescuola.it/scatti-stipendiali-2013-la-cassazione-boccia-il-tar-smentisce-e-riconosce-la-validita-sia-a-livello-economico-che-giuridico/",
-                "date": "30 Mag 2025",
-                "time": "12:35",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2233757999.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "149 guide normative per “Gestire la scuola” senza sbagliare. AGGIUNTA LA GUIDA: “Incarichi al personale ATA delle istituzioni scolastiche. La guida normativa aggiornata”",
-                "link": "https://www.orizzontescuola.it/75-guide-normative-per-dirigere-la-scuola-senza-sbagliare-aggiunta-la-guida-la-gestione-del-fondo-economale-per-le-minute-spese-nelle-istituzioni-scolastiche/",
-                "date": "30 Mag 2025",
-                "time": "12:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/Shutterstock_2310359315-13.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Assunzione candidati idonei dei concorsi PNRR, è un “tutti dentro”?",
-                "link": "https://www.orizzontescuola.it/assunzione-candidati-idonei-dei-concorsi-pnrr-e-un-tutti-dentro/",
-                "date": "30 Mag 2025",
-                "time": "11:35",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_130754711.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Al Sud punteggi medi bassi e percentuali di studenti insufficienti fino al 70%. I dati delle Fondazioni Agnelli e Rocca regione per regione",
-                "link": "https://www.orizzontescuola.it/al-sud-punteggi-medi-bassi-e-percentuali-di-studenti-insufficienti-fino-al-70-i-dati-delle-fondazioni-agnelli-e-rocca-regione-per-regione/",
-                "date": "30 Mag 2025",
-                "time": "11:24",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2337136275.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Relazione di fine anno scolastico: in allegato un modello",
-                "link": "https://www.orizzontescuola.it/relazione-di-fine-anno-scolastico-in-allegato-un-modello/",
-                "date": "30 Mag 2025",
-                "time": "11:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_1104907541.jpg"
-            },
-            {
-                "category": "Scuole non statali",
-                "title": "SNV scuole paritarie, istituti non censiti inviano richiesta di abilitazione entro il 6 giugno. NOTA",
-                "link": "https://www.orizzontescuola.it/snv-scuole-paritarie-istituti-non-censiti-inviano-richiesta-di-abilitazione-entro-il-6-giugno-nota/",
-                "date": "30 Mag 2025",
-                "time": "10:52",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Spara con le dita ai genitori che escono da scuola e poi si cala i pantaloni",
+                "link": "https://www.orizzontescuola.it/spara-con-le-dita-ai-genitori-che-escono-da-scuola-e-poi-si-cala-i-pantaloni/",
+                "date": "1 Giu 2025",
+                "time": "10:00",
+                "image_link": "N/A"
+            },
             {
                 "category": "Comunicati stampa",
                 "title": "Stipendi docenti e Ata, Anief: “Ripristino primo gradino con scatto automatico al terzo anno, conferma defiscalizzazione, indennità di vacanza contrattuale adeguata, aumenti salario accessorio”",
@@ -419,14 +413,6 @@
                 "date": "30 Mag 2025",
                 "time": "17:07",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "A Camerino inaugurata la nuova scuola “Ugo Betti”, un simbolo di rinascita post-sisma. Un progetto da 15 milioni di euro per 535 studenti",
-                "link": "https://www.orizzontescuola.it/a-camerino-inaugurata-la-nuova-scuola-ugo-betti-un-simbolo-di-rinascita-post-sisma-un-progetto-da-15-milioni-di-euro-per-535-studenti/",
-                "date": "30 Mag 2025",
-                "time": "16:19",
-                "image_link": "N/A"
             }
         ]
     },
@@ -552,6 +538,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Supplenze sostegno: a Milano il punteggio minimo è 31,5 mentre a Caserta è 133. CDS: “Molte province del Sud hanno un surplus di docenti, al contrario del Nord”",
+                "link": "https://www.orizzontescuola.it/supplenze-sostegno-a-milano-il-punteggio-minimo-e-315-mentre-a-caserta-e-133-cds-molte-province-del-sud-hanno-un-surplus-di-docenti-al-contrario-del-nord/",
+                "date": "29 Mag 2025",
+                "time": "10:54",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/Immagine-promobox-3.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "GPS 2025 docenti, esclusioni dagli elenchi aggiuntivi per mancanza del titolo d’accesso",
                 "link": "https://www.orizzontescuola.it/gps-2025-docenti-esclusioni-dagli-elenchi-aggiuntivi-per-mancanza-del-titolo-daccesso/",
                 "date": "29 Mag 2025",
@@ -589,14 +583,6 @@
                 "date": "28 Mag 2025",
                 "time": "9:15",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/shutterstock_2138465079.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Conferma supplente di sostegno per il 2025/26: innanzitutto verificare se il posto c’è ancora dopo i trasferimenti dei docenti di ruolo",
-                "link": "https://www.orizzontescuola.it/conferma-supplente-di-sostegno-per-il-2025-26-innanzitutto-verificare-se-il-posto-ce-ancora-dopo-i-trasferimenti-dei-docenti-di-ruolo/",
-                "date": "27 Mag 2025",
-                "time": "13:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_130754711.jpg"
             }
         ]
     },
