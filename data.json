@@ -24,6 +24,22 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "Provvedimenti in arrivo per il docente autore del post su Ginevra Meloni",
+                "link": "https://www.orizzontescuola.it/provvedimenti-in-arrivo-per-il-docente-autore-del-post-su-ginevra-meloni/",
+                "date": "1 Giu 2025",
+                "time": "15:12",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Valditara-scaled.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Anno scolastico in utilizzazione: utile per vincolo neoassunti e continuità di servizio. Chi può chiederla",
+                "link": "https://www.orizzontescuola.it/anno-scolastico-in-utilizzazione-utile-per-vincolo-neoassunti-e-continuita-di-servizio-chi-puo-chiederla/",
+                "date": "1 Giu 2025",
+                "time": "14:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/11/hamburg-1593802_1920-1200x800.jpg"
+            },
+            {
                 "category": "Politica scolastica",
                 "title": "“Test psicoattitudinali per i docenti: nei concorsi e ogni 5 anni di servizio”. La proposta di Sasso (Lega)",
                 "link": "https://www.orizzontescuola.it/test-psicoattitudinali-ai-docenti-nei-concorsi-e-ogni-5-anni-di-servizio-la-proposta-di-sasso-lega/",
@@ -120,7 +136,12 @@
                 "date": "31 Mag 2025",
                 "time": "17:47",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Valditara-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti secondaria PNRR2: tutte le convocazioni [IN AGGIORNAMENTO]",
@@ -136,12 +157,7 @@
                 "date": "31 Mag 2025",
                 "time": "15:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_1448012645.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             null,
             {
                 "category": "Chiedilo a Lalla",
@@ -248,28 +264,28 @@
                 "date": "30 Mag 2025",
                 "time": "16:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492177333-scaled.jpg"
-            },
-            {
-                "category": "Dirigenti scolastici",
-                "title": "Valutazione dei dirigenti scolastici: dal 3 giugno accesso alla piattaforma per visualizzazione obiettivi assegnati. NOTA e TUTORIAL",
-                "link": "https://www.orizzontescuola.it/valutazione-dei-dirigenti-scolastici-dal-3-giugno-accesso-alla-piattaforma-per-visualizzazione-obiettivi-assegnati-nota-e-tutorial/",
-                "date": "30 Mag 2025",
-                "time": "15:31",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1891258573.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Mobilità personale ATA 2025/26: ecco i posti disponibili. Esiti il 3 giugno. AGGIORNATO",
-                "link": "https://www.orizzontescuola.it/mobilita-personale-ata-2025-26-sui-siti-degli-uffici-scolastici-provinciali-i-posti-disponibili/",
-                "date": "30 Mag 2025",
-                "time": "15:12",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1508556191.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Comunicati stampa",
+                "title": "Sostegno, terminata la fase della conferma dei supplenti: da oggi i presidi possono dare seguito alla procedura. Anief: per noi rimane un’ipocrisia di Stato che non garantisce continuità didattica",
+                "link": "https://www.orizzontescuola.it/sostegno-terminata-la-fase-della-conferma-dei-supplenti-da-oggi-i-presidi-possono-dare-seguito-alla-procedura-anief-per-noi-rimane-unipocrisia-di-stato-che-non-garantisce-continuita-didat/",
+                "date": "1 Giu 2025",
+                "time": "17:03",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Offese e minacce anche alle figlie di Salvini e Piantedosi, Valditara: “Urgente ripristinare la cultura del rispetto”",
+                "link": "https://www.orizzontescuola.it/offese-e-minacce-anche-alle-figlie-di-salvini-e-piantedosi-valditara-urgente-ripristinare-la-cultura-del-rispetto/",
+                "date": "1 Giu 2025",
+                "time": "16:50",
+                "image_link": "N/A"
+            },
             {
                 "category": "Consulenza fiscale",
                 "title": "Pensione dopo la Naspi, si possono versare contributi volontari?",
@@ -396,22 +412,6 @@
                 "link": "https://www.orizzontescuola.it/bersaglieri-sgraditi-in-un-liceo-in-lombardia-scoppia-la-polemica-interviene-il-ministro-crosetto-pregiudizio-ideologico-il-rammarico-dellassociazione-mai-accaduto/",
                 "date": "30 Mag 2025",
                 "time": "19:43",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Cacciari: “Serve una buona scuola per contrastare i femminicidi”",
-                "link": "https://www.orizzontescuola.it/cacciari-serve-una-buona-scuola-per-contrastare-i-femminicidi/",
-                "date": "30 Mag 2025",
-                "time": "18:55",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Divari territoriali, Castellana (Gilda): “Amplificati da attuale sistema di autonomia scolastica”",
-                "link": "https://www.orizzontescuola.it/divari-territoriali-castellana-gilda-amplificati-da-attuale-sistema-di-autonomia-scolastica/",
-                "date": "30 Mag 2025",
-                "time": "18:25",
                 "image_link": "N/A"
             }
         ]
@@ -591,6 +591,14 @@
         "articles": [
             {
                 "category": "ATA",
+                "title": "Se un collaboratore scolastico lavora con titoli inesistenti, priva la scuola di lavoratori qualificati e crea danno erariale. Sentenza",
+                "link": "https://www.orizzontescuola.it/se-un-collaboratore-scolastico-lavora-con-titoli-inesistenti-priva-la-scuola-di-lavoratori-qualificati-e-crea-danno-erariale-sentenza/",
+                "date": "23 Mag 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2420045229.jpg"
+            },
+            {
+                "category": "ATA",
                 "title": "Proroga supplenze ATA al 31 agosto, in attesa della nota. Quando si può richiedere",
                 "link": "https://www.orizzontescuola.it/proroga-supplenze-ata-al-31-agosto-in-attesa-della-nota-quando-si-puo-richiedere/",
                 "date": "22 Mag 2025",
@@ -628,14 +636,6 @@
                 "date": "20 Mag 2025",
                 "time": "8:22",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Graduatorie ATA 24 mesi 2025, domande e modifiche entro le ore 14 del 19 maggio. TUTORIAL",
-                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-2025-domande-e-modifiche-entro-le-ore-14-del-19-maggio-tutorial/",
-                "date": "18 Mag 2025",
-                "time": "7:58",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Screenshot-2025-04-28-140826.png"
             }
         ]
     },
@@ -697,6 +697,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Non so ancora se il prossimo anno sarò con voi, non smetterò mai di ringraziarvi. Lettera di fine anno",
+                "link": "https://www.orizzontescuola.it/non-so-ancora-se-il-prossimo-anno-saro-con-voi-non-smettero-mai-di-ringraziarvi-lettera-di-fine-anno/",
+                "date": "1 Giu 2025",
+                "time": "17:21",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "Abbassare l’impunibilità dei ragazzi dai 14 ai 12 anni. Lettera",
                 "link": "https://www.orizzontescuola.it/abbassare-limpunibilita-dei-ragazzi-dai-14-ai-12-anni-lettera/",
                 "date": "31 Mag 2025",
@@ -733,14 +741,6 @@
                 "link": "https://www.orizzontescuola.it/docente-esclusa-dalla-mobilita-una-ferita-che-brucia-lettera/",
                 "date": "24 Mag 2025",
                 "time": "10:48",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "“Pre-scrutini”: la messa in scena della valutazione scolastica. Lettera",
-                "link": "https://www.orizzontescuola.it/pre-scrutini-la-messa-in-scena-della-valutazione-scolastica-lettera/",
-                "date": "23 Mag 2025",
-                "time": "9:25",
                 "image_link": "N/A"
             }
         ]
