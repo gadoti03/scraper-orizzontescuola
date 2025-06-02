@@ -25,6 +25,30 @@
         "articles": [
             {
                 "category": "Cronaca",
+                "title": "Il docente autore del post su Ginevra: “Non posso uscire di casa”. E poi scrive alla premier: “Vorrei incontrarla”. USR al lavoro sul caso",
+                "link": "https://www.orizzontescuola.it/il-docente-autore-del-post-su-ginevra-non-posso-uscire-di-casa-e-poi-scrive-alla-premier-vorrei-incontrarla-usr-al-lavoro-sul-caso/",
+                "date": "2 Giu 2025",
+                "time": "18:06",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/Meloni_Prega.jpeg"
+            },
+            {
+                "category": "ATA",
+                "title": "Mobilità ATA 2025/26: domani 3 giugno gli esiti. Quando è possibile rinunciare al trasferimento",
+                "link": "https://www.orizzontescuola.it/mobilita-ata-2025-26-domani-3-giugno-gli-esiti-quando-e-possibile-rinunciare-al-trasferimento/",
+                "date": "2 Giu 2025",
+                "time": "16:53",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/shutterstock_1178530120-scaled.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Docente soprannumerario: potrò chiedere utilizzazione in scuola diversa da quella di ex titolarità?",
+                "link": "https://www.orizzontescuola.it/docente-soprannumerario-potro-chiedere-utilizzazione-in-scuola-diversa-da-quella-di-ex-titolarita/",
+                "date": "2 Giu 2025",
+                "time": "14:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/05/blur-1853234_960_720.jpg"
+            },
+            {
+                "category": "Cronaca",
                 "title": "Corsi sostegno Indire, Ianes: “Servono tirocini, non scorciatoie”. E sul riconoscimento dell’esperienza pregressa per i precari: “Potrebbero essere stati tre anni di lavoro pessimo dentro alle aule”",
                 "link": "https://www.orizzontescuola.it/corsi-indire-ianes-servono-tirocini-non-scorciatoie-e-sul-riconoscimento-dellesperienza-pregressa-per-i-precari-potrebbero-essere-stati-tre-anni-di-lavoro-pessimo-dentro-alle-aule/",
                 "date": "2 Giu 2025",
@@ -126,7 +150,12 @@
                 "date": "2 Giu 2025",
                 "time": "8:59",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/05/calendario.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Docente sui social minaccia la figlia di Meloni, Valditara: “Tradisce decoro e dignità della professione”. Dal 2023 in vigore nuove regole severe sui social per i dipendenti",
@@ -143,12 +172,7 @@
                 "date": "2 Giu 2025",
                 "time": "7:44",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/ScreenShot-Tool-20240723083505.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Minacce alla figlia di Meloni, il prof: “Chiedo scusa. Gesto stupido. Ho chiesto all’Intelligenza artificiale di scrivere il post”",
@@ -254,29 +278,28 @@
                 "date": "1 Giu 2025",
                 "time": "5:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/06/images-1.jpeg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti secondaria PNRR2: tutte le convocazioni [IN AGGIORNAMENTO]",
-                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-ecco-le-convocazioni-per-la-prova-orale-si-comincia-a-maggio-in-aggiornamento/",
-                "date": "31 Mag 2025",
-                "time": "15:34",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso ed. motoria scuola primaria: rettifica graduatoria Emilia Romagna dopo sentenza che attribuisce 2 punti in più a prova scritta di un candidato",
-                "link": "https://www.orizzontescuola.it/concorso-ed-motoria-scuola-primaria-ecco-le-prime-graduatorie-devono-essere-pubblicate-entro-30-giugno-per-sciogliere-riserva-gps-prima-fascia/",
-                "date": "31 Mag 2025",
-                "time": "15:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_1448012645.jpg"
-            },
-            null
+            }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Primo concorso studenti sul ruolo delle Forze Armate, con Mattarella e Valditara premiate le scuole vincitrici",
+                "link": "https://www.orizzontescuola.it/primo-concorso-studenti-sul-ruolo-delle-forze-armate-con-mattarella-e-valditara-premiate-le-scuole-vincitrici/",
+                "date": "2 Giu 2025",
+                "time": "17:03",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "2 giugno, Anief ricorda che nella scuola per un milione di docenti e Ata i diritti a tutela di studio, lavoro e famiglia non sono quelli fissati nella Costituzione",
+                "link": "https://www.orizzontescuola.it/2-giugno-anief-ricorda-che-nella-scuola-per-un-milione-di-docenti-e-ata-i-diritti-a-tutela-di-studio-lavoro-e-famiglia-non-sono-quelli-fissati-nella-costituzione/",
+                "date": "2 Giu 2025",
+                "time": "16:03",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Miopia infantile, entro il 2050 potrebbe colpire la metà dei bambini",
@@ -404,22 +427,6 @@
                 "date": "31 Mag 2025",
                 "time": "17:50",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Valditara: “Docenti che non sono degni del ruolo che ricoprono devono essere sanzionati”",
-                "link": "https://www.orizzontescuola.it/valditara-docenti-che-non-sono-degli-del-ruolo-che-ricoprono-devono-essere-sanzionati/",
-                "date": "31 Mag 2025",
-                "time": "17:47",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Minacce alla figlia della Premier Meloni: “stessa sorte della ragazza di Afragola”",
-                "link": "https://www.orizzontescuola.it/minacce-alla-figlia-della-premier-meloni-stessa-sorte-della-ragazza-di-afragola/",
-                "date": "31 Mag 2025",
-                "time": "16:03",
-                "image_link": "N/A"
             }
         ]
     },
@@ -545,6 +552,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Percorsi abilitanti docenti, 8 agosto data ultima per vincitori concorso PNRR1, 19 novembre per chi deve partecipare al concorso PNRR3. NOTA MIM-MUR",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-docenti-8-agosto-data-ultima-per-vincitori-concorso-pnrr1-19-novembre-per-chi-deve-partecipare-al-concorso-pnrr3-nota-mim-mur/",
+                "date": "29 Mag 2025",
+                "time": "14:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/shutterstock_64286479-1.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Conferma supplenza di sostegno 2025/26: ci saranno due fasi, ecco in cosa consisterà la fase “zero”",
                 "link": "https://www.orizzontescuola.it/conferma-supplenza-di-sostegno-2025-26-ci-saranno-due-fasi-ecco-in-cosa-consistera-la-fase-zero-uil/",
                 "date": "29 Mag 2025",
@@ -582,14 +597,6 @@
                 "date": "28 Mag 2025",
                 "time": "22:06",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2518506853.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorso specializzazione sostegno INDIRE/Università abilitati estero: quali sono i reali vantaggi, se il titolo non dà il ruolo?",
-                "link": "https://www.orizzontescuola.it/percorso-specializzazione-sostegno-indire-universita-abilitati-estero-quali-sono-i-reali-vantaggi-se-il-titolo-non-da-il-ruolo/",
-                "date": "28 Mag 2025",
-                "time": "15:34",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_503283772.jpg"
             }
         ]
     },
@@ -704,6 +711,30 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Specializzati sul sostegno ma precari. Ministro, renda il merito davvero tale. Lettera",
+                "link": "https://www.orizzontescuola.it/specializzati-sul-sostegno-ma-precari-ministro-renda-il-merito-davvero-tale-lettera/",
+                "date": "2 Giu 2025",
+                "time": "17:24",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
+                "title": "Il Grafologo dovrebbe essere figura stabile in tutte le scuole. Lettera a Valditara",
+                "link": "https://www.orizzontescuola.it/il-grafologo-dovrebbe-essere-figura-stabile-in-tutte-le-scuole-lettera-a-valditara/",
+                "date": "2 Giu 2025",
+                "time": "15:53",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
+                "title": "Cinematerapia a scuola. Lettera",
+                "link": "https://www.orizzontescuola.it/cinematerapia-a-scuola-lettera/",
+                "date": "2 Giu 2025",
+                "time": "15:35",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "Non so ancora se il prossimo anno sarò con voi, non smetterò mai di ringraziarvi. Lettera di fine anno",
                 "link": "https://www.orizzontescuola.it/non-so-ancora-se-il-prossimo-anno-saro-con-voi-non-smettero-mai-di-ringraziarvi-lettera-di-fine-anno/",
                 "date": "1 Giu 2025",
@@ -724,30 +755,6 @@
                 "link": "https://www.orizzontescuola.it/quale-valore-educativo-lettera/",
                 "date": "31 Mag 2025",
                 "time": "21:35",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Proposta di inserimento nel prossimo CCNL Scuola di un riconoscimento in graduatoria per attività formative volontarie. Lettera",
-                "link": "https://www.orizzontescuola.it/proposta-di-inserimento-nel-prossimo-ccnl-scuola-di-un-riconoscimento-in-graduatoria-per-attivita-formative-volontarie-lettera/",
-                "date": "28 Mag 2025",
-                "time": "19:46",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "“Inchiostro delle emozioni”: educare i giovani alla vita emotiva in un tempo di fragilità. Lettera",
-                "link": "https://www.orizzontescuola.it/inchiostro-delle-emozioni-educare-i-giovani-alla-vita-emotiva-in-un-tempo-di-fragilita-lettera/",
-                "date": "24 Mag 2025",
-                "time": "11:43",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Docente esclusa dalla mobilità: una ferita che brucia. Lettera",
-                "link": "https://www.orizzontescuola.it/docente-esclusa-dalla-mobilita-una-ferita-che-brucia-lettera/",
-                "date": "24 Mag 2025",
-                "time": "10:48",
                 "image_link": "N/A"
             }
         ]
