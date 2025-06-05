@@ -2,14 +2,7 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
-            {
-                "category": "Scuole",
-                "title": "Decreto legislativo su bullismo e cyberbullismo: piano strategico da 1,5 milioni di euro. Numero di emergenza 114 dedicato, indagine biennale ISTAT. Cosa è previsto. TESTO",
-                "link": "https://www.orizzontescuola.it/decreto-legislativo-su-bullismo-e-cyberbullismo-piano-strategico-da-15-milioni-di-euro-numero-di-emergenza-114-dedicato-indagine-biennale-istat-cosa-e-previsto-testo/",
-                "date": "4 Giu 2025",
-                "time": "17:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Governo-scaled.jpg"
-            },
+            null,
             {
                 "category": "Scuole",
                 "title": "Maturità 2025, nomi commissari esterni pubblicati: è online il motore di ricerca. 13.900 commissioni per 27.698 classi",
@@ -23,7 +16,30 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
-            null,
+            {
+                "category": "Cronaca",
+                "title": "Stop al cellulare in classe, “triplo delle bocciature per chi usa troppo il cellulare”, “bambini di 6 anni sui siti porno”. Petizione da oltre 100mila firme per “no smartphone sotto i 14 anni, no social sotto i 16”",
+                "link": "https://www.orizzontescuola.it/stop-al-cellulare-in-classe-triplo-delle-bocciature-per-chi-usa-troppo-il-cellulare-bambini-di-6-anni-sui-siti-porno-petizione-da-oltre-100mila-firme-per-no-smartphone-sotto-i-14-anni-no/",
+                "date": "5 Giu 2025",
+                "time": "20:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/09/shutterstock_538028968-scaled.jpg"
+            },
+            {
+                "category": "Guide",
+                "title": "Lezioni scuola 2025 terminate: si convocano i consigli di classe per gli scrutini. Come si sostituiscono i docenti assenti [GUIDA]",
+                "link": "https://www.orizzontescuola.it/lezioni-scuola-2025-terminate-si-convocano-i-consigli-di-classe-per-gli-scrutini-come-si-sostituiscono-i-docenti-assenti-guida/",
+                "date": "5 Giu 2025",
+                "time": "20:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2493334753-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze 2024/25 docenti, INTERPELLI per esami o scuola infanzia [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "5 Giu 2025",
+                "time": "19:46",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti secondaria PNRR2: tutte le convocazioni [IN AGGIORNAMENTO]",
@@ -47,6 +63,14 @@
                 "date": "5 Giu 2025",
                 "time": "17:07",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_311283953.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Trasparenza amministrativa: entro il 15 luglio 2025 le scuole devono pubblicare l’attestazione ANAC",
+                "link": "https://www.orizzontescuola.it/trasparenza-amministrativa-entro-il-15-luglio-2025-le-scuole-devono-pubblicare-lattestazione-anac/",
+                "date": "5 Giu 2025",
+                "time": "17:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2346433463-scaled.jpg"
             },
             {
                 "category": "Docenti",
@@ -119,7 +143,12 @@
                 "date": "5 Giu 2025",
                 "time": "10:26",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/02/shutterstock_1536693014.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Milano Cortina 2026, risorse didattiche gratuite con il toolkit OVEP sui fondamenti dell’educazione ai valori olimpici",
@@ -143,12 +172,7 @@
                 "date": "5 Giu 2025",
                 "time": "9:37",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/03/shutterstock_580945597.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Guide",
                 "title": "Esami di Stato II grado 2025: ruolo dell’insegnante di sostegno, impegno e compenso [GUIDA]",
@@ -249,41 +273,57 @@
             },
             {
                 "category": "Scuole",
-                "title": "Fondo Espero e silenzio-assenso: cosa cambia per i neoassunti e cosa deve fare il DS",
-                "link": "https://www.orizzontescuola.it/fondo-espero-e-silenzio-assenso-cosa-cambia-per-i-neoassunti-e-cosa-deve-fare-il-ds/",
+                "title": "Decreto legislativo su bullismo e cyberbullismo: piano strategico da 1,5 milioni di euro. Numero di emergenza 114 dedicato, indagine biennale ISTAT. Cosa è previsto. TESTO",
+                "link": "https://www.orizzontescuola.it/decreto-legislativo-su-bullismo-e-cyberbullismo-piano-strategico-da-15-milioni-di-euro-numero-di-emergenza-114-dedicato-indagine-biennale-istat-cosa-e-previsto-testo/",
                 "date": "4 Giu 2025",
-                "time": "17:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2493334753-scaled.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Proroga supplenze ATA, Uil Scuola: “Le ferie sono un diritto, il personale non deve rinunciare. USR Lombardia rettifichi la nota”",
-                "link": "https://www.orizzontescuola.it/proroga-supplenze-ata-uil-scuola-le-ferie-sono-un-diritto-il-personale-non-deve-rinunciare-usr-lombardia-rettifichi-la-nota/",
-                "date": "4 Giu 2025",
-                "time": "16:57",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/IMG-20240430-WA0001.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Vincitori e idonei del concorso PNRR1: quando saranno assunti? quanti? Come conseguire l’abilitazione",
-                "link": "https://www.orizzontescuola.it/vincitori-e-idonei-del-concorso-pnrr1-quando-saranno-assunti-quanti-come-conseguire-labilitazione/",
-                "date": "4 Giu 2025",
-                "time": "15:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/shutterstock_346619372.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Posizioni economiche ATA, corsi di formazione da luglio a settembre. Prova con 20 quesiti a metà ottobre in presenza",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-corsi-di-formazione-da-luglio-a-settembre-prova-con-20-quesiti-a-meta-ottobre-in-presenza/",
-                "date": "4 Giu 2025",
-                "time": "15:02",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2155967003.jpg"
+                "time": "17:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Governo-scaled.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "“Con me la scuola ha fallito, mi sono sempre sentito messo in disparte”, Lewis Hamilton a Downing Street chiede una riforma per dare voce agli studenti dimenticati dal sistema scolastico",
+                "link": "https://www.orizzontescuola.it/con-me-la-scuola-ha-fallito-mi-sono-sempre-sentito-messo-in-disparte-lewis-hamilton-a-downing-street-chiede-una-riforma-per-dare-voce-agli-studenti-dimenticati-dal-sistema-scolastico/",
+                "date": "5 Giu 2025",
+                "time": "22:03",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Bellucci: “Governare la rivoluzione tecnologica è una sfida multigenerazionale”. Le iniziative del Governo per l’educazione digitale",
+                "link": "https://www.orizzontescuola.it/bellucci-governare-la-rivoluzione-tecnologica-e-una-sfida-multigenerazionale-le-iniziative-del-governo-per-leducazione-digitale/",
+                "date": "5 Giu 2025",
+                "time": "21:27",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“Bene ragazzi, ci mettiamo comodi”, la rivoluzione della meditazione in classe che sta conquistando le scuole: 10 minuti all’inizio e alla fine delle lezioni",
+                "link": "https://www.orizzontescuola.it/bene-ragazzi-ci-mettiamo-comodi-la-rivoluzione-della-meditazione-in-classe-che-sta-conquistando-le-scuole-10-minuti-allinizio-e-alla-fine-delle-lezioni/",
+                "date": "5 Giu 2025",
+                "time": "21:13",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Genitori",
+                "title": "Condividi foto di tuo figlio sui social? Rimangono per sempre in rete”, lo sharenting tra contraddizioni genitoriali e pericoli nascosti per i minori",
+                "link": "https://www.orizzontescuola.it/condividi-foto-di-tuo-figlio-sui-social-rimangono-per-sempre-in-rete-lo-sharenting-tra-contraddizioni-genitoriali-e-pericoli-nascosti-per-i-minori/",
+                "date": "5 Giu 2025",
+                "time": "21:03",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Soccorso Alpino organizza gita speciale per studentessa con disabilità esclusa da escursione scolastica",
+                "link": "https://www.orizzontescuola.it/soccorso-alpino-organizza-gita-speciale-per-studentessa-con-disabilita-esclusa-da-escursione-scolastica/",
+                "date": "5 Giu 2025",
+                "time": "19:23",
+                "image_link": "N/A"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Esami di Stato II grado 2025, interpello A015 Discipline sanitarie – Materia di nomina N078 – GNATOLOGIA",
@@ -386,46 +426,6 @@
                 "link": "https://www.orizzontescuola.it/disoccupazione-naspi-linps-spiega-il-nuovo-requisito-delle-13-settimane-circolare/",
                 "date": "5 Giu 2025",
                 "time": "13:13",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Maturità 2025, presidenti e commissari: dalla riunione plenaria alle sostituzioni fino alle retribuzioni. QUESTION TIME con Costarelli (ANP)",
-                "link": "https://www.orizzontescuola.it/maturita-2025-presidenti-e-commissari-dalla-riunione-plenaria-alle-sostituzioni-fino-alle-retribuzioni-question-time-con-costarelli-anp-live-giovedi-5-giugno-alle-1430/",
-                "date": "5 Giu 2025",
-                "time": "13:00",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Contro il razzismo, la xenofobia e l’intolleranza: Roccella presenta il piano nazionale. Tra gli assi prioritari l’istruzione",
-                "link": "https://www.orizzontescuola.it/contro-il-razzismo-la-xenofobia-e-lintolleranza-roccella-presenta-il-piano-tra-gli-assi-prioritari-listruzione/",
-                "date": "5 Giu 2025",
-                "time": "12:57",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Genitori",
-                "title": "“Foto, video, perfino ecografie dei propri figli condivisi online”: il podcast del Garante privacy per i genitori “troppo social”",
-                "link": "https://www.orizzontescuola.it/foto-video-perfino-ecografie-dei-propri-figli-condivisi-online-il-podcast-del-garante-privacy-per-i-genitori-troppo-social/",
-                "date": "5 Giu 2025",
-                "time": "12:42",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Decreto Sicurezza convertito in legge: blocchi stradali diventano reato penale, fino a 6 anni di carcere per danneggiamenti durante cortei e manifestazioni",
-                "link": "https://www.orizzontescuola.it/decreto-sicurezza-convertito-in-legge-blocchi-stradali-diventano-reato-penale-fino-a-6-anni-di-carcere-per-danneggiamenti-durante-cortei-e-manifestazioni/",
-                "date": "5 Giu 2025",
-                "time": "12:18",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Giornata mondiale dell’ambiente. Valditara: “La scuola è il luogo dove comprendere il valore di aria, acqua e ambiente”",
-                "link": "https://www.orizzontescuola.it/giornata-mondiale-dellambiente-valditara-la-scuola-e-il-luogo-dove-comprendere-il-valore-di-aria-acqua-e-ambiente/",
-                "date": "5 Giu 2025",
-                "time": "12:11",
                 "image_link": "N/A"
             }
         ]
@@ -552,6 +552,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Elenchi aggiuntivi GPS 2025: chi non ha richiesto la riserva non sarà inserito anche se conseguirà l’abilitazione entro il 30 giugno",
+                "link": "https://www.orizzontescuola.it/elenchi-aggiuntivi-gps-2025-chi-non-ha-richiesto-la-riserva-non-sara-inserito-anche-se-conseguira-labilitazione-entro-il-30-giugno/",
+                "date": "3 Giu 2025",
+                "time": "18:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_713874685.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Conferma delle supplenze su posto sostegno 2025/26: ecco le novità e le precisazioni",
                 "link": "https://www.orizzontescuola.it/conferma-delle-supplenze-su-posto-sostegno-2025-26-ecco-le-novita-e-le-precisazioni/",
                 "date": "3 Giu 2025",
@@ -589,20 +597,28 @@
                 "date": "31 Mag 2025",
                 "time": "12:45",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1669106749.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Proroga Università Percorsi specializzazione sostegno 3 anni di servizio e abilitati estero: fino al 7 giugno possibile inserire proposta",
-                "link": "https://www.orizzontescuola.it/proroga-universita-percorsi-specializzazione-sostegno-3-anni-di-servizio-e-abilitati-estero-fino-al-7-giugno-possibile-inserire-proposta/",
-                "date": "30 Mag 2025",
-                "time": "16:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492177333-scaled.jpg"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
+            {
+                "category": "ATA",
+                "title": "Mobilità personale ATA 2025/26: il 3 giugno i bollettini. Dove vedere la comunicazione con l’esito della domanda",
+                "link": "https://www.orizzontescuola.it/mobilita-personale-ata-2025-26-il-3-giugno-i-bollettini-dove-vedere-la-comunicazione-con-lesito-della-domanda/",
+                "date": "1 Giu 2025",
+                "time": "12:05",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2456756593.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Mobilità personale ATA 2025/26: ecco i posti disponibili. Esiti il 3 giugno. AGGIORNATO",
+                "link": "https://www.orizzontescuola.it/mobilita-personale-ata-2025-26-sui-siti-degli-uffici-scolastici-provinciali-i-posti-disponibili/",
+                "date": "30 Mag 2025",
+                "time": "15:12",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1508556191.jpg"
+            },
             {
                 "category": "ATA",
                 "title": "Posizioni economiche ATA, in attesa dei corsi per gli aumenti di stipendio. Il 4 giugno riunione al MIM",
@@ -634,22 +650,6 @@
                 "date": "23 Mag 2025",
                 "time": "14:19",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/02/shutterstock_1011686965.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Se un collaboratore scolastico lavora con titoli inesistenti, priva la scuola di lavoratori qualificati e crea danno erariale. Sentenza",
-                "link": "https://www.orizzontescuola.it/se-un-collaboratore-scolastico-lavora-con-titoli-inesistenti-priva-la-scuola-di-lavoratori-qualificati-e-crea-danno-erariale-sentenza/",
-                "date": "23 Mag 2025",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2420045229.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Proroga supplenze ATA al 31 agosto, in attesa della nota. Quando si può richiedere",
-                "link": "https://www.orizzontescuola.it/proroga-supplenze-ata-al-31-agosto-in-attesa-della-nota-quando-si-puo-richiedere/",
-                "date": "22 Mag 2025",
-                "time": "17:49",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2331500305.jpg"
             }
         ]
     },
