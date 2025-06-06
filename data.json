@@ -2,20 +2,78 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
-            null,
             {
-                "category": "Scuole",
-                "title": "Maturità 2025, nomi commissari esterni pubblicati: è online il motore di ricerca. 13.900 commissioni per 27.698 classi",
-                "link": "https://www.orizzontescuola.it/maturita-2025-nomi-commissari-esterni-e-online-il-motore-di-ricerca-13-900-commissioni-per-27-698-classi/",
-                "date": "4 Giu 2025",
-                "time": "12:21",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/Opera-Snapshot_2025-06-04_123735_matesami.pubblica.istruzione.it_.png"
-            }
+                "category": "Cronaca",
+                "title": "Riforma autonomia differenziata, Augusto Barbera: “Pessima, sgangherata. Una Nazione deve avere una scuola nazionale”",
+                "link": "https://www.orizzontescuola.it/riforma-autonomia-differenziata-augusto-barbera-pessima-sgangherata-una-nazione-deve-avere-una-scuola-nazionale/",
+                "date": "6 Giu 2025",
+                "time": "10:12",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/Gestire-la-scuola-Cartaceo-online.png"
+            },
+            null
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Scuole",
+                "title": "PNRR, campus formativi integrati istituti tecnici e professionali: candidature entro le ore 15 del 4 luglio. AVVISO",
+                "link": "https://www.orizzontescuola.it/pnrr-campus-formativi-integrati-istituti-tecnici-e-professionali-candidature-entro-le-ore-15-del-4-luglio-avviso/",
+                "date": "6 Giu 2025",
+                "time": "10:05",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1383617321.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Assegnazioni provvisorie 25/26: docenti trasferiti o con passaggio possono presentare domanda. Neoassunti solo con deroga",
+                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-25-26-docenti-trasferiti-o-con-passaggio-possono-presentare-domanda-neoassunti-solo-con-deroga/",
+                "date": "6 Giu 2025",
+                "time": "9:54",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/02/highway-lights-at-night_925x.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Immissioni in ruolo docenti, Valditara: “Salvati gli idonei dei concorsi, il governo precedente li aveva scaricati. Ecco cosa faremo”",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-valditara-salvati-gli-idonei-dei-concorsi-il-governo-precedente-li-aveva-scaricati-ecco-cosa-faremo/",
+                "date": "6 Giu 2025",
+                "time": "9:19",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Valditara-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Graduatorie di merito concorso PNRR1 “quando sarà pubblicata l’integrazione con gli idonei fino al 30%”? CHIARIMENTI",
+                "link": "https://www.orizzontescuola.it/graduatorie-di-merito-concorso-pnrr1quando-sara-pubblicata-lintegrazione-con-gli-idonei-fino-al-30-chiarimenti/",
+                "date": "6 Giu 2025",
+                "time": "9:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/foryou-servizio-1-2.jpg"
+            },
+            null,
+            {
+                "category": "Politica scolastica",
+                "title": "Educazione al rispetto, la scuola si mobilita contro la violenza di genere con 860mila studenti coinvolti. Il Ministero: “Diventata materia di studio al pari di equazioni, risultato storico”",
+                "link": "https://www.orizzontescuola.it/educazione-al-rispetto-la-scuola-si-mobilita-contro-la-violenza-di-genere-con-860mila-studenti-coinvolti-il-ministero-diventata-materia-di-studio-al-pari-di-equazioni-risultato-storico/",
+                "date": "6 Giu 2025",
+                "time": "8:05",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_1205245405.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Addetto al servizio di prevenzione e preposto: ruoli, funzioni, differenze e cosa deve fare il DS. La guida normativa",
+                "link": "https://www.orizzontescuola.it/addetto-al-servizio-di-prevenzione-e-preposto-ruoli-funzioni-differenze-e-cosa-deve-fare-il-ds-la-guida-normativa/",
+                "date": "6 Giu 2025",
+                "time": "7:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/shutterstock_728437285-2048x1365-1.webp"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Maturità 2025, dal prossimo anno si cambia. Valditara: “Basta con l’esame di Stato, concetto troppo freddo. Valuteremo lo sviluppo della persona”",
+                "link": "https://www.orizzontescuola.it/maturita-2025-dal-prossimo-anno-si-cambia-valditara-basta-con-lesame-di-stato-concetto-troppo-freddo-torniamo-alla-maturita/",
+                "date": "6 Giu 2025",
+                "time": "7:49",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/Valditara_2.jpeg"
+            },
+            null,
             {
                 "category": "Cronaca",
                 "title": "Stop al cellulare in classe, “triplo delle bocciature per chi usa troppo il cellulare”, “bambini di 6 anni sui siti porno”. Petizione da oltre 100mila firme per “no smartphone sotto i 14 anni, no social sotto i 16”",
@@ -71,7 +129,12 @@
                 "date": "5 Giu 2025",
                 "time": "17:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2346433463-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Docenti",
                 "title": "Fine scuola 2025, scade il contratto dei supplenti: scrutini, esami, Naspi, punteggio GPS, anno valido per concorsi e abilitazione. GUIDA",
@@ -143,12 +206,7 @@
                 "date": "5 Giu 2025",
                 "time": "10:26",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/02/shutterstock_1536693014.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "Milano Cortina 2026, risorse didattiche gratuite con il toolkit OVEP sui fondamenti dell’educazione ai valori olimpici",
@@ -181,6 +239,7 @@
                 "time": "8:40",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Modello-immagine-sito-11.png"
             },
+            null,
             {
                 "category": "Docenti",
                 "title": "Esami di Stato II grado 2025: troppi docenti inviano certificato medico. Dopo la terza assenza “valutazione ai fini disciplinari”. Ecco dove",
@@ -205,85 +264,20 @@
                 "time": "7:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_1602677635.jpg"
             },
-            null,
-            null,
-            {
-                "category": "Cronaca",
-                "title": "Post shock contro figlia del premier Meloni, docente sospeso con taglio stipendio: “Ho fatto una cretinata”. Valditara: “Rischia il licenziamento, parole inqualificabili”",
-                "link": "https://www.orizzontescuola.it/post-shock-contro-figlia-del-premier-meloni-docente-sospeso-con-taglio-stipendio-ho-fatto-una-cretinata-valditara-rischia-il-licenziamento-parole-inqualificabili/",
-                "date": "4 Giu 2025",
-                "time": "21:13",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/10/social-networking-2187996_1280-1200x600.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Stop ai cellulari anche alle scuole superiori, Valditara: “Emaneremo una circolare. Il triplo delle bocciature per gli studenti che ne fanno uso smodato. I giovani vanno riportati a carta e penna”",
-                "link": "https://www.orizzontescuola.it/stop-ai-cellulari-anche-alla-scuola-superiore-valditara-ci-stiamo-pensando/",
-                "date": "4 Giu 2025",
-                "time": "21:02",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/Valditara-1.jpeg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Assegnazioni provvisorie docenti e ATA 2025-26, possibile periodo per domande a luglio. Il Ministero vuole chiudere accordo in fretta: già calendarizzati 7 incontri fino al 25 giugno",
-                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-docenti-e-ata-2025-26-il-ministero-vuole-chiudere-quanto-prima-la-trattativa-incontri-serrati-per-raggiungere-laccordo-con-i-sindacati/",
-                "date": "4 Giu 2025",
-                "time": "18:23",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/Ministero-Istruzione.jpeg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Scienze della formazione primaria LM85bis, le pagine delle Università 2025/26",
-                "link": "https://www.orizzontescuola.it/scienze-della-formazione-primaria-lm85bis-le-pagine-delle-universita-2025-26/",
-                "date": "4 Giu 2025",
-                "time": "18:22",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2504877853.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso secondaria PNRR1, finalmente le graduatorie per le assunzioni da settembre 2025 [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr1-graduatorie-pubblicate-dopo-il-31-dicembre-2024-per-assunzioni-docenti-nel-2025-26/",
-                "date": "4 Giu 2025",
-                "time": "18:06",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1349362136.jpg"
-            },
-            {
-                "category": "Guide",
-                "title": "Adempimenti fine anno. Gli obblighi dei docenti dopo il termine delle lezioni",
-                "link": "https://www.orizzontescuola.it/adempimenti-fine-anno-gli-obblighi-dei-docenti-dopo-il-termine-delle-lezioni/",
-                "date": "4 Giu 2025",
-                "time": "18:02",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/10/shutterstock_116039263.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Autonomia differenziata, via libera ai LEP da parte del governo: dalla formazione docenti all’edilizia scolastica, come può cambiare la scuola",
-                "link": "https://www.orizzontescuola.it/autonomia-differenziata-via-libera-ai-lep-dalla-formazione-docenti-alledilizia-scolastica-come-puo-cambiare-la-scuola/",
-                "date": "4 Giu 2025",
-                "time": "17:53",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/Governo_Sindacati-scaled.jpeg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Riforma degli Istituti Tecnici, con il Decreto Scuola via libera definitivo con nuovi quadri orari e risparmi per 24,5 milioni di euro. I numeri",
-                "link": "https://www.orizzontescuola.it/riforma-degli-istituti-tecnici-con-il-decreto-scuola-via-libera-definitivo-con-nuovi-quadri-orari-e-risparmi-per-245-milioni-di-euro-i-numeri/",
-                "date": "4 Giu 2025",
-                "time": "17:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/shutterstock_1922846366.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Decreto legislativo su bullismo e cyberbullismo: piano strategico da 1,5 milioni di euro. Numero di emergenza 114 dedicato, indagine biennale ISTAT. Cosa è previsto. TESTO",
-                "link": "https://www.orizzontescuola.it/decreto-legislativo-su-bullismo-e-cyberbullismo-piano-strategico-da-15-milioni-di-euro-numero-di-emergenza-114-dedicato-indagine-biennale-istat-cosa-e-previsto-testo/",
-                "date": "4 Giu 2025",
-                "time": "17:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Governo-scaled.jpg"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Il 50% degli adolescenti approva il digital curfew, il 27% non sentirebbe la mancanza dei social, mentre il 79% chiede più regole per le aziende. Lo studio BSI sulle tendenze relative all’uso della tecnologia tra i giovani",
+                "link": "https://www.orizzontescuola.it/il-50-degli-adolescenti-approva-il-digital-curfew-il-27-non-sentirebbe-la-mancanza-dei-social-mentre-il-79-chiede-piu-regole-per-le-aziende-lo-studio-bsi-sulle-tendenze-relative-alluso-della-tecn/",
+                "date": "6 Giu 2025",
+                "time": "10:09",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "“Con me la scuola ha fallito, mi sono sempre sentito messo in disparte”, Lewis Hamilton a Downing Street chiede una riforma per dare voce agli studenti dimenticati dal sistema scolastico",
@@ -419,14 +413,6 @@
                 "date": "5 Giu 2025",
                 "time": "13:14",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Disoccupazione NASpI, l’Inps spiega il nuovo requisito delle 13 settimane. CIRCOLARE",
-                "link": "https://www.orizzontescuola.it/disoccupazione-naspi-linps-spiega-il-nuovo-requisito-delle-13-settimane-circolare/",
-                "date": "5 Giu 2025",
-                "time": "13:13",
-                "image_link": "N/A"
             }
         ]
     },
@@ -552,6 +538,22 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR 2: prova suppletiva, convocazioni e riconvocazioni [LO SPECIALE]",
+                "link": "https://www.orizzontescuola.it/concorso-pnrr-2-posti-requisiti-di-accesso-prove-da-superare-valutazione-titoli-graduatorie-assunzioni-lo-speciale/",
+                "date": "4 Giu 2025",
+                "time": "7:45",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_1996119905.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Carta del docente a precari fino al 31 agosto, non viene garantito l’importo di 500 euro. Ecco come funzionerà. Decreto approvato",
+                "link": "https://www.orizzontescuola.it/carta-del-docente-a-precari-fino-al-31-agosto-non-viene-garantito-limporto-di-500-euro-ecco-come-funzionera-decreto-approvato/",
+                "date": "3 Giu 2025",
+                "time": "19:04",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_530178946.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Elenchi aggiuntivi GPS 2025: chi non ha richiesto la riserva non sarà inserito anche se conseguirà l’abilitazione entro il 30 giugno",
                 "link": "https://www.orizzontescuola.it/elenchi-aggiuntivi-gps-2025-chi-non-ha-richiesto-la-riserva-non-sara-inserito-anche-se-conseguira-labilitazione-entro-il-30-giugno/",
                 "date": "3 Giu 2025",
@@ -581,22 +583,6 @@
                 "date": "2 Giu 2025",
                 "time": "11:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2319071899.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso ed. motoria scuola primaria: rettifica graduatoria Emilia Romagna dopo sentenza che attribuisce 2 punti in più a prova scritta di un candidato",
-                "link": "https://www.orizzontescuola.it/concorso-ed-motoria-scuola-primaria-ecco-le-prime-graduatorie-devono-essere-pubblicate-entro-30-giugno-per-sciogliere-riserva-gps-prima-fascia/",
-                "date": "31 Mag 2025",
-                "time": "15:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_1448012645.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Conferma sostegno: nell’a.s. 2025/26 il supplente potrebbe ottenere un contratto “migliorativo” rispetto a quello di quest’anno. Come avviene",
-                "link": "https://www.orizzontescuola.it/conferma-sostegno-nella-s-2025-26-il-supplente-potrebbe-ottenere-un-contratto-migliorativo-rispetto-a-quello-di-questanno-come-avviene/",
-                "date": "31 Mag 2025",
-                "time": "12:45",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1669106749.jpg"
             }
         ]
     },
@@ -711,6 +697,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "“Sono me grazie a te”: la relazione come fondamento dell’educazione. Lettera",
+                "link": "https://www.orizzontescuola.it/sono-me-grazie-a-te-la-relazionale-come-fondamento-delleducazione-lettera/",
+                "date": "6 Giu 2025",
+                "time": "9:05",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "“Nooooo prof.!”. Quando la campanella segna la fine, ma resta il desiderio di continuare. Lettera",
                 "link": "https://www.orizzontescuola.it/nooooo-prof-quando-la-campanella-segna-la-fine-ma-resta-il-desiderio-di-continuare-lettera/",
                 "date": "4 Giu 2025",
@@ -747,14 +741,6 @@
                 "link": "https://www.orizzontescuola.it/specializzati-sul-sostegno-ma-precari-ministro-renda-il-merito-davvero-tale-lettera/",
                 "date": "2 Giu 2025",
                 "time": "17:24",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Il Grafologo dovrebbe essere figura stabile in tutte le scuole. Lettera a Valditara",
-                "link": "https://www.orizzontescuola.it/il-grafologo-dovrebbe-essere-figura-stabile-in-tutte-le-scuole-lettera-a-valditara/",
-                "date": "2 Giu 2025",
-                "time": "15:53",
                 "image_link": "N/A"
             }
         ]
