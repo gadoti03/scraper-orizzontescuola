@@ -17,6 +17,22 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Docenti",
+                "title": "Conferma su posto sostegno: chi ha la precedenza se più docenti richiedono la stessa cattedra? Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/conferma-su-posto-sostegno-chi-ha-la-precedenza-se-piu-docenti-richiedono-la-stessa-cattedra-pillole-di-question-time/",
+                "date": "6 Giu 2025",
+                "time": "20:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_34528768.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Decreto PNRR-Scuola, legge in Gazzetta Ufficiale: assunzione idonei concorso, novità su reclutamento docenti e Carta Docente, lotta ai diplomifici. Tutte le misure previste. TESTO",
+                "link": "https://www.orizzontescuola.it/decreto-pnrr-scuola-legge-in-gazzetta-ufficiale-assunzione-idonei-concorso-novita-su-reclutamento-docenti-e-carta-docente-testo/",
+                "date": "6 Giu 2025",
+                "time": "19:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/Screenshot-2025-06-06-alle-19.16.00.png"
+            },
+            {
                 "category": "Scuole",
                 "title": "Esami di Stato 2025: le quattro fasi della comunicazione degli esiti. La circolare ministeriale",
                 "link": "https://www.orizzontescuola.it/esami-di-stato-2025-le-quattro-fasi-della-comunicazione-degli-esiti-la-circolare-ministeriale/",
@@ -127,7 +143,12 @@
                 "date": "6 Giu 2025",
                 "time": "12:22",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1666873585.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Centri estivi, il paradosso “tutto italiano”: docenti ‘discriminati’ a Cesena, famiglie costrette alle collette a Lecco. “Fino a 2.700 euro per due figli, tutto sulle spalle dei genitori”. Un Paese che tradisce le sue promesse",
@@ -143,12 +164,7 @@
                 "date": "6 Giu 2025",
                 "time": "12:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/Shutterstock_2310359315-14.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso scuola PNNR 2, aperte le funzioni per lo scioglimento della riserva per chi consegue i 30 o 60 CFU: scadenza 1° luglio. AVVISO Ministero",
@@ -262,28 +278,60 @@
                 "date": "5 Giu 2025",
                 "time": "20:44",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/09/shutterstock_538028968-scaled.jpg"
-            },
-            {
-                "category": "Guide",
-                "title": "Lezioni scuola 2025 terminate: si convocano i consigli di classe per gli scrutini. Come si sostituiscono i docenti assenti [GUIDA]",
-                "link": "https://www.orizzontescuola.it/lezioni-scuola-2025-terminate-si-convocano-i-consigli-di-classe-per-gli-scrutini-come-si-sostituiscono-i-docenti-assenti-guida/",
-                "date": "5 Giu 2025",
-                "time": "20:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2493334753-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze 2024/25 docenti, INTERPELLI per esami o scuola infanzia [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
-                "date": "5 Giu 2025",
-                "time": "19:46",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Invalsi: aperte fino al 21 giugno le candidature per presidente e componente Cda",
+                "link": "https://www.orizzontescuola.it/invalsi-aperte-fino-al-21-giugno-le-candidature-per-presidente-e-componente-cda/",
+                "date": "6 Giu 2025",
+                "time": "21:03",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Dirigenti scolastici",
+                "title": "Concorso dirigenti scolastici Campania, dopo lo stop, dal 23 giugno al via le prove orali. Pubblicato il calendario",
+                "link": "https://www.orizzontescuola.it/concorso-dirigenti-scolastici-campania-dopo-lo-stop-dal-23-giugno-al-via-le-prove-orali-pubblicato-il-calendario/",
+                "date": "6 Giu 2025",
+                "time": "20:43",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Docenti",
+                "title": "Classi di concorso in esubero dopo la mobilità 2025/26, ecco dove potrebbero essere a “rischio” le immissioni in ruolo [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/classi-di-concorso-in-esubero-dopo-la-mobilita-2025-26-ecco-dove-non-ci-saranno-immissioni-in-ruolo-in-aggiornamento/",
+                "date": "6 Giu 2025",
+                "time": "20:30",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Buoni pasto al personale scolastico, Anief non demorde: mancano i fondi, ma adesso è importante affermare il principio",
+                "link": "https://www.orizzontescuola.it/buoni-pasto-al-personale-scolastico-anief-non-demorde-mancano-i-fondi-ma-adesso-e-importante-affermare-il-principio/",
+                "date": "6 Giu 2025",
+                "time": "19:52",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Il grido di Matteo Zuppi: “Con l’affitto a due terzi dello stipendio, addio dignità e futuro”",
+                "link": "https://www.orizzontescuola.it/il-grido-di-matteo-zuppi-con-laffitto-a-due-terzi-dello-stipendio-addio-dignita-e-futuro/",
+                "date": "6 Giu 2025",
+                "time": "19:32",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Trasferimenti personale ATA, pubblicati gli esiti. Anief: “Serve una nuova stagione di valorizzazione, continueremo a batterci per chiedere la mobilità sul 100% dei posti disponibili”",
+                "link": "https://www.orizzontescuola.it/trasferimenti-personale-ata-pubblicati-gli-esiti-anief-serve-una-nuova-stagione-di-valorizzazione-continueremo-a-batterci-per-chiedere-la-mobilita-sul-100-dei-posti-disponibili/",
+                "date": "6 Giu 2025",
+                "time": "18:44",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Maturità, Burioni: “In Calabria 5,4% di 100 e lode contro l’1% della Lombardia, è uno spreco di tempo e denaro che penalizza chi merita davvero”",
@@ -378,54 +426,6 @@
                 "link": "https://www.orizzontescuola.it/scuole-per-genitori-non-ce-ne-sono-cecchettin-svela-il-vuoto-educativo-che-genera-violenza-da-0-a-6-anni-leducazione-e-in-famiglia-ma-chi-forma-i-genitori/",
                 "date": "6 Giu 2025",
                 "time": "15:39",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Frassinetti: “La scuola non è un costo ma una leva economica che l’Italia non può sottovalutare”. Dispersione giù al 9,4%, iscrizioni ITS triplicate in un anno: “Un Paese più inclusivo è anche più competitivo”",
-                "link": "https://www.orizzontescuola.it/frassinetti-la-scuola-non-e-un-costo-ma-una-leva-economica-che-litalia-non-puo-sottovalutare-dispersione-giu-al-94-iscrizioni-its-triplicate-in-un-anno-un-paese-piu-inclusivo-e-anche-piu/",
-                "date": "6 Giu 2025",
-                "time": "15:11",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Pensioni",
-                "title": "Riscatto della laurea: l’81% degli italiani è preoccupato per la pensione ma solo il 21% agisce. L’esperto: “Spesso non conviene, ecco quando vale davvero la pena”",
-                "link": "https://www.orizzontescuola.it/riscatto-della-laurea-l81-degli-italiani-e-preoccupato-per-la-pensione-ma-solo-il-21-agisce-lesperto-spesso-non-conviene-ecco-quando-vale-davvero-la-pena/",
-                "date": "6 Giu 2025",
-                "time": "15:03",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Danimarca verso il divieto del burqa a scuola, la Lega chiede misure analoghe in Italia: “Il velo è una forma di oppressione e una concreta limitazione della libertà individuale”",
-                "link": "https://www.orizzontescuola.it/danimarca-verso-il-divieto-del-burqa-a-scuola-la-lega-chiede-misure-analoghe-in-italia-il-velo-e-una-forma-di-oppressione-e-una-concreta-limitazione-della-liberta-individuale/",
-                "date": "6 Giu 2025",
-                "time": "14:43",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "L’appello di Mattarella agli studenti: “Evitare le guerre è compito della politica, costruire la pace è compito dell’educazione”",
-                "link": "https://www.orizzontescuola.it/lappello-di-mattarella-agli-studenti-evitare-le-guerre-e-compito-della-politica-costruire-la-pace-e-compito-delleducazione/",
-                "date": "6 Giu 2025",
-                "time": "14:35",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Francia contro il porno online: “Basta click fittizi, servono controlli reali sull’età”. Il pedagogista Novara: “La strada giusta, si faccia così anche in Italia”",
-                "link": "https://www.orizzontescuola.it/francia-contro-il-porno-online-basta-click-fittizi-servono-controlli-reali-sulleta-il-pedagogista-novara-la-strada-giusta-si-faccia-cosi-anche-in-italia/",
-                "date": "6 Giu 2025",
-                "time": "14:12",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Alberto Angela meglio della scuola”, il dibattito sui metodi didattici divide il web. Il divulgatore: “Chi paga il canone ha il diritto di avere la cultura a casa”",
-                "link": "https://www.orizzontescuola.it/alberto-angela-meglio-della-scuola-il-dibattito-sui-metodi-didattici-divide-il-web-il-divulgatore-chi-paga-il-canone-ha-il-diritto-di-avere-la-cultura-a-casa/",
-                "date": "6 Giu 2025",
-                "time": "12:02",
                 "image_link": "N/A"
             }
         ]
@@ -552,6 +552,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Conferma docenti di sostegno: il momento importante e decisivo sarà il bollettino zero, che non sarà pubblicato. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/conferma-docenti-di-sostegno-e-non-solo%ef%bc%9a-facciamo-il-punto-live-3-giugno/",
+                "date": "4 Giu 2025",
+                "time": "11:35",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_2076756070.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "TFA sostegno X ciclo, in attesa del bando. Ecco cosa bisogna studiare. Le info utili e risorse valide per la preparazione",
                 "link": "https://www.orizzontescuola.it/tfa-sostegno-x-ciclo-in-attesa-del-bando-ecco-cosa-bisogna-studiare-le-info-utili-e-risorse-valide-per-la-preparazione/",
                 "date": "4 Giu 2025",
@@ -589,14 +597,6 @@
                 "date": "3 Giu 2025",
                 "time": "18:11",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_713874685.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Conferma delle supplenze su posto sostegno 2025/26: ecco le novità e le precisazioni",
-                "link": "https://www.orizzontescuola.it/conferma-delle-supplenze-su-posto-sostegno-2025-26-ecco-le-novita-e-le-precisazioni/",
-                "date": "3 Giu 2025",
-                "time": "11:58",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2471109121.jpg"
             }
         ]
     },
