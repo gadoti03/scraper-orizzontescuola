@@ -18,6 +18,15 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Corsi Indire/Università per i “triennalisti”: avvio in estate, durata 4 mesi, conclusione entro 31 dicembre 2025. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/corsi-indire-universita-per-i-triennalisti-avvio-in-estate-durata-4-mesi-conclusione-entro-31-dicembre-2025-pillole-di-question-time/",
+                "date": "8 Giu 2025",
+                "time": "20:18",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_561290041.jpg"
+            },
+            null,
+            {
+                "category": "Diventare Insegnanti",
                 "title": "“Ci sarà l’anno prossimo?”, docenti precari che rispondono ai propri alunni: “Sono un’anomalia del sistema”",
                 "link": "https://www.orizzontescuola.it/ci-sara-lanno-prossimo-docenti-precari-che-rispondono-ai-propri-alunni-sono-unanomalia-del-sistema/",
                 "date": "8 Giu 2025",
@@ -120,7 +129,12 @@
                 "date": "7 Giu 2025",
                 "time": "15:27",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/Roberto_Burioni_2017-1.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Scuole paritarie sotto controllo: stretta sui “diplomifici” e digitalizzazione obbligatoria con pagelle elettroniche e protocollo informatico",
@@ -136,12 +150,7 @@
                 "date": "7 Giu 2025",
                 "time": "14:55",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/invalsiopen-progetto-1.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Studenti",
                 "title": "Sette milioni per i libri di testo, dieci per gli affitti universitari: il governo blinda il diritto allo studio ma stringe la morsa sui “fuoricorso”",
@@ -262,28 +271,28 @@
                 "date": "6 Giu 2025",
                 "time": "17:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_704245180.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Il Referendum anticipa le vacanze, scuole chiuse prima del previsto, ma 1 milione di studenti resta sui banchi: esami di terza media e di maturità",
-                "link": "https://www.orizzontescuola.it/il-referendum-anticipa-le-vacanze-scuole-chiuse-prima-del-previsto-ma-1-milione-di-studenti-resta-sui-banchi/",
-                "date": "6 Giu 2025",
-                "time": "16:43",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/01/shutterstock_520160845-2-scaled.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Richiesta accertamento sanitario docenti e ATA: le nuove funzionalità “scarica verbale” e blocco nuova domanda. MESSAGGIO Inps",
-                "link": "https://www.orizzontescuola.it/richiesta-accertamento-sanitario-docenti-e-ata-le-nuove-funzionalita-scarica-verbale-e-blocco-nuova-domanda-messaggio-inps/",
-                "date": "6 Giu 2025",
-                "time": "16:31",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2006359358.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "DL Infrastrutture, parte conversione in legge nelle Commissioni della Camera: Anief chiede emendamenti per vincitori concorso Pnrr dopo il 30 giugno, ripristino organico aggiuntivo Ata, finanziamento figure di sistema formazione incentivante",
+                "link": "https://www.orizzontescuola.it/dl-infrastrutture-parte-conversione-in-legge-nelle-commissioni-della-camera-anief-chiede-emendamenti-per-vincitori-concorso-pnrr-dopo-il-30-giugno-ripristino-organico-aggiuntivo-ata-finanziamento/",
+                "date": "8 Giu 2025",
+                "time": "19:15",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "I 4 compiti per le vacanze assegnati dal Prof Schettini: alzati tardi, fai sport, bevi un libro e …",
+                "link": "https://www.orizzontescuola.it/i-4-compiti-per-le-vacanze-assegnati-dal-prof-schettini-alzati-tardi-fai-sport-bevi-un-libro-e/",
+                "date": "8 Giu 2025",
+                "time": "18:33",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "“Ho fatto apprezzamenti alle riforme di Valditara e mi hanno mobbizzata”. Maggioranza: “preoccupante, presenteremo interrogazione parlamentare”",
@@ -403,22 +412,6 @@
                 "link": "https://www.orizzontescuola.it/sbc-assegnazioni-provvisorie-e-utilizzazioni-2025-26-domande-online-a-luglio-si-puo-scegliere-una-sola-provincia/",
                 "date": "7 Giu 2025",
                 "time": "7:27",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Invalsi: aperte fino al 21 giugno le candidature per presidente e componente Cda",
-                "link": "https://www.orizzontescuola.it/invalsi-aperte-fino-al-21-giugno-le-candidature-per-presidente-e-componente-cda/",
-                "date": "6 Giu 2025",
-                "time": "21:03",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Dirigenti scolastici",
-                "title": "Concorso dirigenti scolastici Campania, dopo lo stop, dal 23 giugno al via le prove orali. Pubblicato il calendario",
-                "link": "https://www.orizzontescuola.it/concorso-dirigenti-scolastici-campania-dopo-lo-stop-dal-23-giugno-al-via-le-prove-orali-pubblicato-il-calendario/",
-                "date": "6 Giu 2025",
-                "time": "20:43",
                 "image_link": "N/A"
             }
         ]
