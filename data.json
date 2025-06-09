@@ -24,7 +24,6 @@
                 "time": "20:18",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_561290041.jpg"
             },
-            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "“Ci sarà l’anno prossimo?”, docenti precari che rispondono ai propri alunni: “Sono un’anomalia del sistema”",
@@ -129,12 +128,7 @@
                 "date": "7 Giu 2025",
                 "time": "15:27",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/Roberto_Burioni_2017-1.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Scuole paritarie sotto controllo: stretta sui “diplomifici” e digitalizzazione obbligatoria con pagelle elettroniche e protocollo informatico",
@@ -142,7 +136,12 @@
                 "date": "7 Giu 2025",
                 "time": "15:11",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_102091528.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Politica scolastica",
                 "title": "Invalsi cambia pelle, dal Comitato di indirizzo al Consiglio di amministrazione: ci sarà anche un direttore generale con selezione pubblica",
@@ -271,12 +270,21 @@
                 "date": "6 Giu 2025",
                 "time": "17:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_704245180.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Il Referendum anticipa le vacanze, scuole chiuse prima del previsto, ma 1 milione di studenti resta sui banchi: esami di terza media e di maturità",
+                "link": "https://www.orizzontescuola.it/il-referendum-anticipa-le-vacanze-scuole-chiuse-prima-del-previsto-ma-1-milione-di-studenti-resta-sui-banchi/",
+                "date": "6 Giu 2025",
+                "time": "16:43",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/01/shutterstock_520160845-2-scaled.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            null,
             {
                 "category": "Cronaca",
                 "title": "DL Infrastrutture, parte conversione in legge nelle Commissioni della Camera: Anief chiede emendamenti per vincitori concorso Pnrr dopo il 30 giugno, ripristino organico aggiuntivo Ata, finanziamento figure di sistema formazione incentivante",
@@ -404,14 +412,6 @@
                 "link": "https://www.orizzontescuola.it/spid-a-pagamento-da-luglio-lallarme-dei-fornitori-colpa-dei-ritardi-sui-40-milioni-promessi-dal-governo-lagid-rassicura-solo-rimpalli-burocratici-soldi-in-arrivo/",
                 "date": "7 Giu 2025",
                 "time": "8:18",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "SBC. Assegnazioni Provvisorie e Utilizzazioni 2025/26: domande online a luglio, si può scegliere una sola provincia",
-                "link": "https://www.orizzontescuola.it/sbc-assegnazioni-provvisorie-e-utilizzazioni-2025-26-domande-online-a-luglio-si-puo-scegliere-una-sola-provincia/",
-                "date": "7 Giu 2025",
-                "time": "7:27",
                 "image_link": "N/A"
             }
         ]
