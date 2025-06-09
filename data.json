@@ -17,6 +17,22 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Scuole",
+                "title": "Piano Estate, prima scadenza candidature scuole il 13 giugno alle ore 15",
+                "link": "https://www.orizzontescuola.it/piano-estate-prima-scadenza-candidature-scuole-il-13-giugno-alle-ore-15/",
+                "date": "9 Giu 2025",
+                "time": "21:17",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2491116325.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2026, come si fa a insegnare su posto sostegno senza titolo?",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-2026-come-si-fa-a-insegnare-su-posto-sostegno-senza-titolo/",
+                "date": "9 Giu 2025",
+                "time": "20:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_1185142306.jpg"
+            },
+            {
                 "category": "Chiedilo a Lalla",
                 "title": "Corsi INDIRE, concorsi scuola e non solo: facciamo il punto sulla situazione. QUESTION TIME con Quattrocchi. LIVE Martedì 10 giugno alle 14:30",
                 "link": "https://www.orizzontescuola.it/corsi-indire-concorsi-scuola-e-non-solo-facciamo-il-punto-sulla-situazione-question-time-con-quattrocchi-live-martedi-10-giugno-alle-1430/",
@@ -127,7 +143,12 @@
                 "date": "9 Giu 2025",
                 "time": "12:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/Shutterstock_2310359315-15.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti secondaria PNRR2: tutte le convocazioni [IN AGGIORNAMENTO]",
@@ -136,12 +157,7 @@
                 "time": "11:57",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
             },
-            null
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso PNRR2: 11 e 12 giugno prova scritta suppletiva per docenti in gravidanza ed esclusi con sentenza di ammissione",
@@ -241,28 +257,45 @@
             },
             null,
             null,
-            null,
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Corsi Indire/Università per i “triennalisti”: avvio in estate, durata 4 mesi, conclusione entro 31 dicembre 2025. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/corsi-indire-universita-per-i-triennalisti-avvio-in-estate-durata-4-mesi-conclusione-entro-31-dicembre-2025-pillole-di-question-time/",
-                "date": "8 Giu 2025",
-                "time": "20:18",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_561290041.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "“Ci sarà l’anno prossimo?”, docenti precari che rispondono ai propri alunni: “Sono un’anomalia del sistema”",
-                "link": "https://www.orizzontescuola.it/ci-sara-lanno-prossimo-docenti-precari-che-rispondono-ai-propri-alunni-sono-unanomalia-del-sistema/",
-                "date": "8 Giu 2025",
-                "time": "16:24",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/Progetto-senza-titolo.png"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Decreto Sicurezza convertito in legge: blocchi stradali diventano reato penale, fino a 6 anni di carcere per danneggiamenti durante cortei e manifestazioni [PDF in Gazzetta Ufficiale]",
+                "link": "https://www.orizzontescuola.it/decreto-sicurezza-convertito-in-legge-blocchi-stradali-diventano-reato-penale-fino-a-6-anni-di-carcere-per-danneggiamenti-durante-cortei-e-manifestazioni/",
+                "date": "9 Giu 2025",
+                "time": "22:10",
+                "image_link": "N/A"
+            },
+            {
+                "category": "DSGA",
+                "title": "Concorso DSGA, ecco le convocazioni per l’orale [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/concorso-dsga-al-via-le-convocazioni-per-la-prova-orale-in-aggiornamento/",
+                "date": "9 Giu 2025",
+                "time": "20:27",
+                "image_link": "N/A"
+            },
+            null,
+            {
+                "category": "Cronaca",
+                "title": "Moda e solidarietà, gli studenti milanesi realizzano divise per le ragazze della Kisaki Secondary School in Tanzania",
+                "link": "https://www.orizzontescuola.it/moda-e-solidarieta-gli-studenti-milanesi-realizzano-divise-per-le-ragazze-della-kisaki-secondary-school-in-tanzania/",
+                "date": "9 Giu 2025",
+                "time": "18:55",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Dirigente “mobbizzata”, risponde la FLCGIL: “Affermazioni prive di fondamento, ci tuteleremo nelle sedi opportune”",
+                "link": "https://www.orizzontescuola.it/dirigente-mobbizzata-risponde-la-flcgil-affermazioni-prive-di-fondamento-ci-tuteleremo-nelle-sedi-opportune/",
+                "date": "9 Giu 2025",
+                "time": "18:53",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "“Non capisco perché adesso va bene tutto”, Paolo Crepet contro la deriva educativa, tra limiti scomparsi e desiderio spento: “Educare i giovani togliendo il superfluo”",
@@ -358,46 +391,6 @@
                 "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2025-26-ecco-quanti-candidati-ancora-in-graduatoria-aggiornato-con-piemonte/",
                 "date": "9 Giu 2025",
                 "time": "14:07",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Certificati di malattia: dal 15 luglio nuovo formato XML. Messaggio Inps",
-                "link": "https://www.orizzontescuola.it/certificati-di-malattia-dal-15-luglio-nuovo-formato-xml-messaggio-inps/",
-                "date": "9 Giu 2025",
-                "time": "13:51",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso secondaria PNRR2, ecco come si valuta la prova pratica e le indicazioni per lo svolgimento [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-ecco-come-si-valuta-la-prova-pratica-e-le-indicazioni-per-lo-svolgimento/",
-                "date": "9 Giu 2025",
-                "time": "13:38",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "INPS lancia campagna anti-truffe: 23 milioni di email per proteggere gli anziani",
-                "link": "https://www.orizzontescuola.it/inps-lancia-campagna-anti-truffe-23-milioni-di-email-per-proteggere-gli-anziani/",
-                "date": "9 Giu 2025",
-                "time": "12:43",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Maturità, D’Aprile (Uil Scuola): “Compensi commissari e presidenti fermi al 2007. L’inflazione era all’1,8%. Oggi siamo 16%”",
-                "link": "https://www.orizzontescuola.it/maturita-daprile-uil-scuola-compensi-commissari-e-presidenti-fermi-al-2007-linflazione-era-all18-oggi-siamo-16/",
-                "date": "9 Giu 2025",
-                "time": "12:33",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Il messaggio del Pontefice per gli esami di fine anno: l’incoraggiamento per studenti e docenti",
-                "link": "https://www.orizzontescuola.it/il-messaggio-del-pontefice-per-gli-esami-di-fine-anno-il-messaggio-di-incoraggiamento-per-studenti-e-docenti/",
-                "date": "9 Giu 2025",
-                "time": "12:32",
                 "image_link": "N/A"
             }
         ]
@@ -524,6 +517,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Percorsi INDIRE/Università sostegno 2025: rinuncia al percorso vale solo se effettuata dal 5 giugno, non prima. È requisito di accesso",
+                "link": "https://www.orizzontescuola.it/percorsi-indire-universita-sostegno-2025-rinuncia-al-percorso-vale-solo-se-effettuata-dal-5-giugno-non-prima-e-requisito-di-accesso/",
+                "date": "6 Giu 2025",
+                "time": "14:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2006540483.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Ritardi nei percorsi abilitanti e rischio licenziamento dei vincitori del concorso PNRR1, risponde il Ministro Bernini",
                 "link": "https://www.orizzontescuola.it/ritardi-nei-percorsi-abilitanti-e-rischio-licenziamento-dei-vincitori-del-concorso-pnrr1-risponde-il-ministro-bernini/",
                 "date": "6 Giu 2025",
@@ -561,14 +562,6 @@
                 "date": "5 Giu 2025",
                 "time": "19:46",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi sostegno Indire/Università docenti 3 anni. Attività in aula, studio individuale, laboratori: ecco come si suddividono i 40 CFU. FAQ Ministero",
-                "link": "https://www.orizzontescuola.it/percorsi-sostegno-indire-universita-docenti-3-anni-attivita-in-aula-studio-individuale-laboratori-ecco-come-si-suddividono-i-40-cfu-faq-ministero/",
-                "date": "5 Giu 2025",
-                "time": "16:17",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_561290041.jpg"
             }
         ]
     },
@@ -683,6 +676,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Un augurio a tutti i ragazzi e ragazze che dovranno affrontare la maturità. Lettera",
+                "link": "https://www.orizzontescuola.it/un-augurio-a-tutti-i-ragazzi-e-ragazze-che-dovranno-affrontare-la-maturita-lettera/",
+                "date": "9 Giu 2025",
+                "time": "20:18",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "Dalle favelas alla classe: diario semiserio di un prof per caso. Lettera",
                 "link": "https://www.orizzontescuola.it/dalle-favelas-alla-classe-diario-semiserio-di-un-prof-per-caso-lettera/",
                 "date": "8 Giu 2025",
@@ -718,14 +719,6 @@
                 "title": "“Sono me grazie a te”: la relazione come fondamento dell’educazione. Lettera",
                 "link": "https://www.orizzontescuola.it/sono-me-grazie-a-te-la-relazionale-come-fondamento-delleducazione-lettera/",
                 "date": "6 Giu 2025",
-                "time": "9:05",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "“Nooooo prof.!”. Quando la campanella segna la fine, ma resta il desiderio di continuare. Lettera",
-                "link": "https://www.orizzontescuola.it/nooooo-prof-quando-la-campanella-segna-la-fine-ma-resta-il-desiderio-di-continuare-lettera/",
-                "date": "4 Giu 2025",
                 "time": "9:05",
                 "image_link": "N/A"
             }
