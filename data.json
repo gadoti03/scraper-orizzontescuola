@@ -24,6 +24,14 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Diventare Insegnanti",
+                "title": "Elenchi aggiuntivi GPS prima fascia: dal 16 giugno al 3 luglio si potrà sciogliere la riserva per titolo conseguito entro il 30 giugno",
+                "link": "https://www.orizzontescuola.it/elenchi-aggiuntivi-gps-prima-fascia-dal-16-giugno-al-3-luglio-si-potra-sciogliere-la-riserva-per-titolo-conseguito-entro-il-30-giugno/",
+                "date": "13 Giu 2025",
+                "time": "3:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2142727347.jpg"
+            },
+            {
                 "category": "Chiedilo a Lalla",
                 "title": "Aggiornamento graduatorie, concorsi, corsi e non solo: facciamo chiarezza. QUESTION TIME con Cannas. LIVE Venerdì 13 giugno alle 14:30",
                 "link": "https://www.orizzontescuola.it/aggiornamento-graduatorie-concorsi-corsi-e-non-solo-facciamo-chiarezza-question-time-con-cannas-live-venerdi-13-giugno-alle-1430/",
@@ -142,7 +150,12 @@
                 "date": "12 Giu 2025",
                 "time": "11:53",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/09/shutterstock_221012134.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Politica scolastica",
                 "title": "Contratto scuola, Valditara: “Chiudiamo subito trattativa e anticipiamo gli aumenti del 2025-2027 subito”. E per le gite scolastiche torna la diaria ai docenti che accompagnano gli studenti: “Lavoriamo per i fondi”",
@@ -150,12 +163,7 @@
                 "date": "12 Giu 2025",
                 "time": "11:42",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/Valditara.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Rinuncia riconoscimento titolo estero entro il 25 giugno vale solo per iscrizione a sostegno Indire/Università. Si rimane in GPS con riserva e si possono avere supplenze",
@@ -277,7 +285,6 @@
                 "time": "7:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/09/shutterstock_221012134.jpg"
             },
-            null,
             null
         ]
     },
