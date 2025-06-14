@@ -24,6 +24,22 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "Boom di ricorsi contro le pagelle, “l’insegnante non è più una figura di riferimento”",
+                "link": "https://www.orizzontescuola.it/boom-di-ricorsi-contro-le-pagelle-linsegnante-non-e-piu-una-figura-di-riferimento/",
+                "date": "14 Giu 2025",
+                "time": "16:43",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/02/shutterstock_1007096035.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Riconferma docenti di sostegno, scade il 15 giugno la comunicazione del Dirigente Scolastico",
+                "link": "https://www.orizzontescuola.it/riconferma-docenti-di-sostegno-scade-il-15-giugno-la-comunicazione-del-dirigente-scolastico/",
+                "date": "14 Giu 2025",
+                "time": "15:59",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/12/preparazione-concorso-dirigenti-scolastici.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze GPS, ruoli concorsi, domanda 150 preferenze, scioglimento riserva 2025 LE RISPOSTE AI QUESITI",
                 "link": "https://www.orizzontescuola.it/supplenze-gps-ruoli-concorsi-domanda-150-preferenze-scioglimento-riserva-2025-le-risposte-ai-quesiti/",
@@ -127,7 +143,12 @@
                 "date": "13 Giu 2025",
                 "time": "17:45",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/01/metro-2942353_960_720.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Affidamento diretto: è obbligatorio verificare i requisiti dell’operatore economico. La sentenza della Cassazione",
@@ -143,12 +164,7 @@
                 "date": "13 Giu 2025",
                 "time": "16:34",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/03/pagella.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Sicurezza sul lavoro, il governo accelera: entro luglio nuove norme e assicurazione scolastica per docenti e ATA diventa strutturale",
@@ -269,28 +285,36 @@
                 "date": "13 Giu 2025",
                 "time": "9:40",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1508556191.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Tempo di corsi di recupero: obblighi di attivazione e di partecipazione, classi parallele, 55 euro l’ora la retribuzione dei docenti [GUIDA]",
-                "link": "https://www.orizzontescuola.it/tempo-di-corsi-di-recupero-obblighi-di-attivazione-e-di-partecipazione-classi-parallele-retribuzione-guida/",
-                "date": "13 Giu 2025",
-                "time": "9:32",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/shutterstock_150780881.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Esami di Stato II grado 2025: troppi docenti inviano certificato medico. Dopo la terza assenza “valutazione ai fini disciplinari”. Ecco dove",
-                "link": "https://www.orizzontescuola.it/esami-di-stato-ii-grado-2025-troppi-docenti-inviano-certificato-medico-dopo-la-terza-assenza-valutazione-ai-fini-disciplinari-ecco-dove/",
-                "date": "13 Giu 2025",
-                "time": "9:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_409299112-scaled.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Da Meloni a Maria De Filippi, da Schlein a Sinner: com’è andata la maturità di vip e politici",
+                "link": "https://www.orizzontescuola.it/da-meloni-a-maria-de-filippi-da-schlein-a-sinner-come-andata-la-maturita-di-vip-e-politici/",
+                "date": "14 Giu 2025",
+                "time": "18:20",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Maturità, solo il 54% degli studenti conosce l’orario d’inizio delle prove, 2 su 3 sanno che la seconda prova verte su una sola materia",
+                "link": "https://www.orizzontescuola.it/maturita-solo-il-54-degli-studenti-conosce-lorario-dinizio-delle-prove-2-su-3-sanno-che-la-seconda-prova-verte-su-una-sola-materia/",
+                "date": "14 Giu 2025",
+                "time": "16:37",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "No ai distributori automatici nelle scuole, “cibo ultra-processato è un pericolo concreto. Sì a ‘cibo naturale'”",
+                "link": "https://www.orizzontescuola.it/no-ai-distributori-automatici-nelle-scuole-cibo-ultra-processato-e-un-pericolo-concreto-si-a-cibo-naturale/",
+                "date": "14 Giu 2025",
+                "time": "16:24",
+                "image_link": "N/A"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Giornata dello sport, Valditara: “Le attività sportive sono straordinarie occasioni educative”",
@@ -395,30 +419,6 @@
                 "link": "https://www.orizzontescuola.it/concorso-dirigenti-scolastici-campania-prova-scritta-suppletiva-il-20-giugno/",
                 "date": "13 Giu 2025",
                 "time": "13:55",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole non statali",
-                "title": "Lombardia, 8,5 milioni per sostenere i costi dei docenti di sostegno delle scuole paritarie. Domande dal 17 giugno",
-                "link": "https://www.orizzontescuola.it/lombardia-85-milioni-per-sostenere-i-costi-dei-docenti-di-sostegno-delle-scuole-paritarie-domande-dal-17-giugno/",
-                "date": "13 Giu 2025",
-                "time": "13:42",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Toto-tracce Maturità: D’Annunzio e Intelligenza artificiale in pole. Ma anche Montale, violenza di genere e guerre",
-                "link": "https://www.orizzontescuola.it/toto-tracce-maturita-dannunzio-e-intelligenza-artificiale-in-pole-ma-anche-montale-violenza-di-genere-e-guerre/",
-                "date": "13 Giu 2025",
-                "time": "13:23",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Scuola Attiva Kids, nel Lazio estesa alle classi prime della primaria. L’assessore: “Credo nel valore educativo dello sport fin dall’infanzia”",
-                "link": "https://www.orizzontescuola.it/scuola-attiva-kids-nel-lazio-estesa-alle-classi-prime-della-primaria-lassessore-credo-nel-valore-educativo-dello-sport-fin-dallinfanzia/",
-                "date": "13 Giu 2025",
-                "time": "12:42",
                 "image_link": "N/A"
             }
         ]
