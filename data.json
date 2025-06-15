@@ -2,6 +2,7 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
+            null,
             {
                 "category": "Docenti",
                 "title": "“Dare il voto finale dalla media dei voti è in contrasto con la normativa scolastica, e vi spiego perché”. INTERVISTA ad Ernestina Morello",
@@ -9,20 +10,78 @@
                 "date": "13 Giu 2025",
                 "time": "8:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/Screenshot-2024-10-10-064345.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "Scrutini finali scuola secondaria II grado: per il comportamento regole diverse per classi quinte e classi intermedie. Nota Ministero",
-                "link": "https://www.orizzontescuola.it/scrutini-finali-scuola-secondaria-ii-grado-per-il-comportamento-regole-diverse-per-classi-quinte-e-classi-intermedie-nota-ministero/",
-                "date": "12 Giu 2025",
-                "time": "13:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/01/shutterstock_1739446193.jpg"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "“I bambini non sanno più fare le capriole”, le Nuove Indicazioni Nazionali contro l’analfabetismo motorio: “Molti alunni hanno perso i fondamenti di base, benessere fisico fondamentale”",
+                "link": "https://www.orizzontescuola.it/i-bambini-non-sanno-piu-fare-le-capriole-le-nuove-indicazioni-nazionali-contro-lanalfabetismo-motorio-molti-alunni-hanno-perso-i-fondamenti-di-base-benessere-fisico-fondamentale/",
+                "date": "15 Giu 2025",
+                "time": "10:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/shutterstock_2176262781-scaled.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Maturità, il TAR smonta la consulenza di parte: “Mera opinione senza valore probatorio”. Quando l’esperto esterno non basta per ribaltare i voti. SENTENZA",
+                "link": "https://www.orizzontescuola.it/maturita-il-tar-smonta-la-consulenza-di-parte-mera-opinione-senza-valore-probatorio-quando-lesperto-esterno-non-basta-per-ribaltare-i-voti-sentenza/",
+                "date": "15 Giu 2025",
+                "time": "10:12",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_675123196.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Supplenze docenti di ruolo: anno valido ai fini della progressione di carriera?",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-di-ruolo-anno-valido-ai-fini-della-progressione-di-carriera/",
+                "date": "15 Giu 2025",
+                "time": "9:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_341870168-scaled.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Non solo soldi in più nella busta paga, per docenti e ATA più welfare: sconti e agevolazioni per spesa, treni e aerei, assicurazione sanitaria e contro gli infortuni",
+                "link": "https://www.orizzontescuola.it/non-solo-soldi-in-piu-nella-busta-paga-per-docenti-e-ata-piu-welfare-sconti-e-agevolazioni-per-spesa-treni-e-aerei-assicurazione-sanitaria-e-contro-gli-infortuni/",
+                "date": "15 Giu 2025",
+                "time": "9:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/6.-1-Stipendi-Docenti-e-ATA_-le-novita-di-Novembre-2024-1-1.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Reclutamento docenti, ipotesi doppio canale: in Senato si discutere il Ddl Bucalo. Pacifico (Anief): “Finalmente, garantiamo massimo appoggio a tutela dei lavoratori”. TESTO",
+                "link": "https://www.orizzontescuola.it/reclutamento-docenti-ipotesi-doppio-canale-in-senato-si-discutere-il-ddl-bucalo-pacifico-anief-finalmente-garantiamo-massimo-appoggio-a-tutela-dei-lavoratori-testo/",
+                "date": "15 Giu 2025",
+                "time": "8:58",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Pacifico.jpeg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Esami di Stato 2025, al via mercoledì 18 giugno con oltre 520mila studenti. Il Ministero pensa alla riforma: “Torniamo all’esame di maturità, ma le prove resteranno tre”",
+                "link": "https://www.orizzontescuola.it/esami-di-stato-2025-al-via-mercoledi-18-giugno-con-oltre-520mila-studenti-il-ministero-pensa-alla-riforma-torniamo-allesame-di-maturita-ma-le-prove-resteranno-tre/",
+                "date": "15 Giu 2025",
+                "time": "8:42",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/03/shutterstock_642182779.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Permesso diritto allo studio e permesso assemblea sindacale nella stessa giornata, Aran: è possibile",
+                "link": "https://www.orizzontescuola.it/permesso-diritto-allo-studio-e-permesso-assemblea-sindacale-nello-stesso-giornata-aran-e-possibile/",
+                "date": "15 Giu 2025",
+                "time": "8:35",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_765925483-scaled.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Interrogazioni programmate o entrano in ansia: “Spero la vita li avverta sempre prima di metterli di fronte alle difficoltà”. La reazione social",
+                "link": "https://www.orizzontescuola.it/interrogazioni-programmate-o-entrano-in-ansia-spero-la-vita-li-avverta-sempre-prima-di-metterli-di-fronte-alle-difficolta-la-reazione-social/",
+                "date": "15 Giu 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/shutterstock_1046565655.jpg"
+            },
+            null,
+            null,
             {
                 "category": "Politica scolastica",
                 "title": "AVS: “Di PCTO si muore. Nella maggior parte dei casi sono manodopera gratuita”. Calderone: “Rendere permanente copertura assicurativa”",
@@ -70,7 +129,12 @@
                 "date": "14 Giu 2025",
                 "time": "14:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "ATA",
                 "title": "Infortunio sul lavoro, Aran: il supplente ha diritto a conservazione posto e stipendio intero anche in caso di nuova nomina",
@@ -143,12 +207,7 @@
                 "date": "13 Giu 2025",
                 "time": "19:52",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/1713607528765.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "ATA",
                 "title": "Permessi 104 personale ATA: si possono anche richiedere frazionati nella stessa giornata (es. un’ora al mattino e 3 al pomeriggio)",
@@ -205,92 +264,44 @@
                 "time": "15:47",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_2167465293.jpg"
             },
-            null,
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso scuola secondaria PNRR2:  voto minimo dopo suppletiva del 12 giugno [IN AGGIORNAMENTO]",
-                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-ecco-il-voto-minimo-per-accedere-alla-prova-orale-per-classe-di-concorso-e-regione-in-aggiornamento/",
-                "date": "13 Giu 2025",
-                "time": "15:28",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_59277838.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Tre giorni di permesso retribuito per i supplenti, quale documentazione per l’autocertificazione? Risponde l’Aran",
-                "link": "https://www.orizzontescuola.it/tre-giorni-di-permesso-retribuito-per-i-supplenti-quale-documentazione-per-lautocertificazione-risponde-laran/",
-                "date": "13 Giu 2025",
-                "time": "14:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_671913661.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "PNRR Scuola 4.0: il Ministero annuncia l’avvio di controlli sulle procedure di gara. NOTA con elenco scuole",
-                "link": "https://www.orizzontescuola.it/pnrr-scuola-4-0-il-ministero-annuncia-lavvio-di-controlli-sulle-procedure-di-gara-nota-con-elenco-scuole/",
-                "date": "13 Giu 2025",
-                "time": "13:04",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_521791969.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Concorsi PNRR 1 e 2 superati entrambi: come si valutano nelle GPS, mobilità e graduatorie interne",
-                "link": "https://www.orizzontescuola.it/concorsi-pnrr-1-e-2-superati-entrambi-come-si-valutano-nelle-gps-mobilita-e-graduatorie-interne/",
-                "date": "13 Giu 2025",
-                "time": "12:33",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/11/alone-100123_960_720.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Contratto scuola, battaglia sui buoni pasto. Anief all’attacco: “Discriminazione inaccettabile”, Valditara promette che ci lavorerà, ma Naddeo avverte che servono fondi per finanziarli",
-                "link": "https://www.orizzontescuola.it/contratto-scuola-battaglia-sui-buoni-pasto-anief-allattacco-discriminazione-inaccettabile-valditara-promette-che-ci-lavorera-ma-naddeo-avverte-che-servono-fondi-per-finanziarli/",
-                "date": "13 Giu 2025",
-                "time": "11:47",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_1165868449-scaled.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Esami di Stato secondaria II grado Esabac 2024/25: FAQ su prove e valutazioni",
-                "link": "https://www.orizzontescuola.it/esami-di-stato-secondaria-ii-grado-esabac-2024-25-faq-su-prove-e-valutazioni/",
-                "date": "13 Giu 2025",
-                "time": "11:06",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_671913661.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Gare pubbliche: obbligo di esclusiva per i consulenti tecnici e dichiarazioni false. I chiarimenti ANAC",
-                "link": "https://www.orizzontescuola.it/gare-pubbliche-obbligo-di-esclusiva-per-i-consulenti-tecnici-e-dichiarazioni-false-i-chiarimenti-anac/",
-                "date": "13 Giu 2025",
-                "time": "11:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1316078129.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Esami di Stato II grado 2024/25: ecco i modelli di verbale utili da lunedì 16 giugno",
-                "link": "https://www.orizzontescuola.it/esami-di-stato-ii-grado-2024-25-ecco-i-modelli-di-verbale-utili-da-lunedi-16-giugno/",
-                "date": "13 Giu 2025",
-                "time": "10:41",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_117139291.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Calendario scolastico 2025/26: quando inizia la scuola a settembre. Tutte le date per regione [COMPLETO]",
-                "link": "https://www.orizzontescuola.it/calendario-scolastico-2025-26-quando-inizia-la-scuola-a-settembre-le-date-per-regione-in-aggiornamento/",
-                "date": "13 Giu 2025",
-                "time": "10:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_2002803581-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti secondaria PNRR2: tutte le convocazioni [IN AGGIORNAMENTO]",
-                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-ecco-le-convocazioni-per-la-prova-orale-si-comincia-a-maggio-in-aggiornamento/",
-                "date": "13 Giu 2025",
-                "time": "10:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Padre e figlio maturandi insieme, la storia di Luigi e Alessandro, due generazioni all’esame. Il punto di forza? Lo studio condiviso",
+                "link": "https://www.orizzontescuola.it/padre-e-figlio-maturandi-insieme-la-storia-di-luigi-e-alessandro-due-generazioni-allesame-il-punto-di-forza-lo-studio-condiviso/",
+                "date": "15 Giu 2025",
+                "time": "8:59",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“Meglio Tiktok o la Treccani?”, “Vivremo su un altro pianeta?”. Ecco le tracce (quasi) impossibili che non usciranno alla maturità",
+                "link": "https://www.orizzontescuola.it/meglio-tiktok-o-la-treccani-vivremo-su-un-altro-pianeta-ecco-le-tracce-quasi-impossibili-che-non-usciranno-alla-maturita/",
+                "date": "15 Giu 2025",
+                "time": "8:54",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "I giapponesi non potranno chiamare i propri figli: Pikachu, Winnie the Pooh o Kitty (di Hello Kitty). Bambini vittime di scherno e bullismo",
+                "link": "https://www.orizzontescuola.it/i-giapponesi-non-potranno-chiamare-i-propri-figli-pikachu-winnie-the-pooh-o-kitty-di-hello-kitty-bambini-vittime-di-scherno-e-bullismo/",
+                "date": "15 Giu 2025",
+                "time": "8:10",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR2, avviso convocazione prova orale candidati ammessi dopo prova suppletiva del 12 giugno",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr2-avviso-convocazione-prova-orale-candidati-ammessi-dopo-prova-suppletiva-del-12-giugno/",
+                "date": "15 Giu 2025",
+                "time": "6:54",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Scuola primaria aperta anche a luglio? “No, la scuola fa altro”",
@@ -395,37 +406,20 @@
                 "date": "13 Giu 2025",
                 "time": "18:46",
                 "image_link": "N/A"
-            },
-            null,
-            {
-                "category": "Cronaca",
-                "title": "Studenti invitano ChatGPT alla cena di classe, il video diventa virale: “Colui che c’è sempre stato per tutti noi”",
-                "link": "https://www.orizzontescuola.it/studenti-invitano-chatgpt-alla-cena-di-classe-il-video-diventa-virale-colui-che-ce-sempre-stato-per-tutti-noi/",
-                "date": "13 Giu 2025",
-                "time": "17:31",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Maturità 2025 in Sicilia: 44.420 studenti verso l’esame. Palermo e Catania guidano con quasi 20mila studenti",
-                "link": "https://www.orizzontescuola.it/maturita-2025-in-sicilia-44-420-studenti-verso-lesame-palermo-e-catania-guidano-con-quasi-20mila-studenti/",
-                "date": "13 Giu 2025",
-                "time": "16:22",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Adolescenti e chatbot psicologiche: il 25% dei giovani cerca aiuto dall’IA prima dello psicologo, ma esperti avvertono sui rischi per la privacy emotiva",
-                "link": "https://www.orizzontescuola.it/adolescenti-e-chatbot-psicologiche-il-25-dei-giovani-cerca-aiuto-dallia-prima-dello-psicologo-ma-esperti-avvertono-sui-rischi-per-la-privacy-emotiva/",
-                "date": "13 Giu 2025",
-                "time": "16:18",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Concorsi PNRR 1 e 2 superati entrambi: come si valutano nelle GPS, mobilità e graduatorie interne",
+                "link": "https://www.orizzontescuola.it/concorsi-pnrr-1-e-2-superati-entrambi-come-si-valutano-nelle-gps-mobilita-e-graduatorie-interne/",
+                "date": "13 Giu 2025",
+                "time": "12:33",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Supplenze docenti 2025: chi ha rinunciato alla nomina assegnata può compilare di nuovo la domanda per le max 150 preferenze? E chi ha abbandonato nel corso dell’anno?",
@@ -529,20 +523,20 @@
                 "date": "31 Mag 2025",
                 "time": "11:27",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Immissioni in ruolo docenti 2025: il 50% dei posti disponibili è accantonato prima della terza fase dei trasferimenti interprovinciali e passaggi di ruolo",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2025-il-50-dei-posti-disponibili-e-accantonato-prima-della-terza-fase-dei-trasferimenti-interprovinciali-e-passaggi-di-ruolo/",
-                "date": "29 Mag 2025",
-                "time": "10:28",
-                "image_link": "N/A"
             }
         ]
     },
     "group_6": {
         "title": "Diventare Insegnanti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorsi PNRR, abilitazione dopo l’assunzione e anno di prova. Il Decreto Scuola “salva” il PNRR2, nulla da fare per il PNRR1",
+                "link": "https://www.orizzontescuola.it/concorsi-pnrr-abilitazione-dopo-lassunzione-e-anno-di-prova-il-decreto-scuola-salva-il-pnrr2-nulla-da-fare-per-il-pnrr1/",
+                "date": "11 Giu 2025",
+                "time": "15:57",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/01/shutterstock_326111021.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Conferma docente sostegno 2026: nel bollettino zero potranno rientrare anche docenti che lo scorso anno hanno avuto la nomina nell’ultimo bollettino",
@@ -582,14 +576,6 @@
                 "date": "11 Giu 2025",
                 "time": "8:25",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_713874685.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Prova suppletiva concorso scuola PNRR2: 11 e 12 giugno, c’è un voto minimo da raggiungere",
-                "link": "https://www.orizzontescuola.it/prova-suppletiva-concorso-scuola-pnrr2-11-e-12-giugno-ce-un-voto-minimo-da-raggiungere/",
-                "date": "11 Giu 2025",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2467525223.jpg"
             }
         ]
     },
