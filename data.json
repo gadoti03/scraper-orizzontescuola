@@ -2,21 +2,14 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
+            null,
             {
-                "category": "Dirigenti scolastici",
-                "title": "La mobilità dei Dirigenti Scolastici per l’anno scolastico 2025/2026: quadro normativo, elementi di novità, guida per immagini e FaQ",
-                "link": "https://www.orizzontescuola.it/la-mobilita-dei-dirigenti-scolastici-per-lanno-scolastico-2025-2026-quadro-normativo-elementi-di-novita-guida-per-immagini-e-faq/",
+                "category": "ATA",
+                "title": "Graduatorie ATA 24 mesi, allegato G: dal 23 giugno all’11 luglio la scelta delle sedi per le supplenze. NOTA",
+                "link": "https://www.orizzontescuola.it/ata-24-mesi-allegato-g-dal-23-giugno-al-11-luglio-la-scelta-delle-sedi-per-le-supplenze-nota/",
                 "date": "20 Giu 2025",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_605489138.jpg"
-            },
-            {
-                "category": "Plus",
-                "title": "Adempimenti di fine anno scolastico: prassi + circolari e documenti",
-                "link": "https://www.orizzontescuola.it/adempimenti-di-fine-anno-scolastico-prassi-circolari-e-documenti/",
-                "date": "20 Giu 2025",
-                "time": "7:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/Sottotitolo-2-1.png"
+                "time": "17:56",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_521791969.jpg"
             }
         ]
     },
@@ -24,12 +17,87 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "Investire nell’educazione musicale fin dalla scuola dell’infanzia: è nelle nuove Indicazioni nazionali",
+                "link": "https://www.orizzontescuola.it/investire-nelleducazione-musicale-fin-dalla-scuola-dellinfanzia-e-nelle-nuove-indicazioni-nazionali/",
+                "date": "21 Giu 2025",
+                "time": "10:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_82990567.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Le nuove Indicazioni nazionali e la scuola dell’Infanzia: centralità del bambino nel progetto educativo, campi di esperienza, gioco, inclusione e il docente come mediatore del sapere",
+                "link": "https://www.orizzontescuola.it/le-nuove-indicazioni-nazionali-e-la-scuola-dellinfanzia-centralita-del-bambino-nel-progetto-educativo-campi-di-esperienza-gioco-inclusione-e-il-docente-come-mediatore-del-sapere/",
+                "date": "21 Giu 2025",
+                "time": "10:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2420206409.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Fine anno scolastico: ciò che resta quando ci si saluta per sempre",
+                "link": "https://www.orizzontescuola.it/fine-anno-scolastico-cio-che-resta-quando-ci-si-saluta-per-sempre/",
+                "date": "21 Giu 2025",
+                "time": "9:22",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/02/shutterstock_1680442021.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Posizioni economiche ATA, come sapere se sono stato ammesso al corso di formazione?",
+                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-come-si-viene-informati-dellammissione-ai-corsi/",
+                "date": "21 Giu 2025",
+                "time": "9:13",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_409299112-scaled.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Graduatorie ATA 24 mesi, allegato G: le risposte alle vostre domande. QUESTION TIME con Cozzolino. LIVE Lunedì 23 giugno alle 15:30",
+                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-allegato-g-le-risposte-alle-vostre-domande-question-time-con-cozzolino-live-lunedi-23-giugno-alle-1530/",
+                "date": "21 Giu 2025",
+                "time": "8:57",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/ATA.png"
+            },
+            {
+                "category": "Scuole",
+                "title": "Sessione suppletiva Maturità: chi può partecipare. Richieste scuole entro il 25 giugno (ore 14)",
+                "link": "https://www.orizzontescuola.it/sessione-suppletiva-maturita-chi-puo-partecipare-richieste-scuole-entro-il-25-giugno-ore-14/",
+                "date": "21 Giu 2025",
+                "time": "8:53",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/03/shutterstock_534045136.jpg"
+            },
+            {
+                "category": "Genitori",
+                "title": "Allergie alimentari in aumento del 120,8% in 10 anni nei bambini sotto i tre anni. In crescita anche l’incidenza (+162,3%). Lo studio",
+                "link": "https://www.orizzontescuola.it/allergie-alimentari-in-aumento-del-1208-in-10-anni-nei-bambini-sotto-i-tre-anni-in-crescita-anche-lincidenza-1623-lo-studio/",
+                "date": "21 Giu 2025",
+                "time": "8:12",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/04/shutterstock_1154133394.jpg"
+            },
+            null,
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "La lunga estate dei precari, tra immissioni e supplenze 150 preferenze: cosa sappiamo finora. QUESTION TIME con Cannas. LIVE Lunedì 23 giugno alle 14:30",
+                "link": "https://www.orizzontescuola.it/precari-verso-il-ruolo-tra-immissioni-e-supplenze-150-preferenze-cosa-sappiamo-finora-question-time-con-cannas-live-lunedi-23-giugno-alle-1430/",
+                "date": "21 Giu 2025",
+                "time": "7:54",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/Docenti.png"
+            },
+            null,
+            null,
+            {
+                "category": "Cronaca",
+                "title": "Maturità 2025, le parole di uno studente diventano virali sui social: “A 18 anni è l’unica volta che gli adulti mi ascoltano davvero. Voglio essere guardato, non giudicato”",
+                "link": "https://www.orizzontescuola.it/maturita-2025-le-parole-di-uno-studente-diventano-virali-sui-social-a-18-anni-e-lunica-volta-che-gli-adulti-mi-ascoltano-davvero-voglio-essere-guardato-non-giudicato-quando-lesame-diventa/",
+                "date": "20 Giu 2025",
+                "time": "22:08",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_668259205.jpg"
+            },
+            {
                 "category": "Scuole",
                 "title": "Carta docente 500 euro, nuove regole: scatta obbligo di fatturazione entro 90 giorni per i buoni validati. Fatture obbligatorie entro 5 settembre per i buoni validati entro il 6 giugno",
                 "link": "https://www.orizzontescuola.it/carta-docente-500-euro-nuove-regole-scatta-lobbligo-di-fatturazione-entro-90-giorni-per-i-buoni-validati-fatture-obbligatorie-entro-5-settembre-per-i-buoni-validati-entro-il-6-giugno/",
                 "date": "20 Giu 2025",
                 "time": "20:38",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/unnamed.jpg"
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/Carta-del-docente-2.jpg"
             },
             {
                 "category": "Docenti",
@@ -49,20 +117,17 @@
             },
             {
                 "category": "Stipendio",
-                "title": "Bonus mamme lavoratrici: 40 euro al mese per chi ha due figli, 480 euro netti corrisposti a dicembre. Calderone: “Somma in busta paga, esente da contributi”",
+                "title": "Bonus mamme lavoratrici, 40 euro al mese per chi ha due figli, 480 euro netti corrisposti a dicembre. Calderone: “Somma in busta paga, esente da contributi”",
                 "link": "https://www.orizzontescuola.it/bonus-mamme-lavoratrici-40-euro-al-mese-per-chi-ha-due-figli-480-euro-netti-corrisposti-a-dicembre-calderone-somma-netta-in-busta-paga-esente-da-contributi/",
                 "date": "20 Giu 2025",
                 "time": "18:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/Calderone.jpeg"
-            },
-            {
-                "category": "ATA",
-                "title": "Graduatorie ATA 24 mesi, allegato G: dal 23 giugno al 11 luglio la scelta delle sedi per le supplenze. NOTA",
-                "link": "https://www.orizzontescuola.it/ata-24-mesi-allegato-g-dal-23-giugno-al-11-luglio-la-scelta-delle-sedi-per-le-supplenze-nota/",
-                "date": "20 Giu 2025",
-                "time": "17:56",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_521791969.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Adeguamento dell’organico ATA per l’anno scolastico 2025/2026. Dal 30 giugno funzioni disponibili",
@@ -73,7 +138,7 @@
             },
             {
                 "category": "Cronaca",
-                "title": "Maturità negata con 4 insufficienze gravi su 13 materie: il TAR respinge il ricorso. I giudici: “Bocciatura non ha carattere sanzionatorio, bensì finalità educative e formative”. SENTENZA",
+                "title": "Maturità negata con 4 insufficienze gravi su 13 materie, il TAR respinge il ricorso. I giudici: “Bocciatura non ha carattere sanzionatorio, bensì finalità educative e formative”. SENTENZA",
                 "link": "https://www.orizzontescuola.it/maturita-negata-con-4-insufficienze-gravi-su-13-materie-il-tar-calabria-respinge-il-ricorso-i-giudici-bocciatura-non-ha-carattere-sanzionatorio-bensi-finalita-educative-e-formative-sentenza/",
                 "date": "20 Giu 2025",
                 "time": "17:43",
@@ -81,7 +146,7 @@
             },
             {
                 "category": "Politica scolastica",
-                "title": "Infortuni scolastici in crescita del 400%, 77mila infortuni in un anno. Il governo stanzia fondi per rendere strutturale assicurazione per docenti, ATA e studenti",
+                "title": "Infortuni scolastici in crescita del 400%, 77mila in un anno. Il governo stanzia fondi per rendere strutturale assicurazione per docenti, ATA e studenti",
                 "link": "https://www.orizzontescuola.it/infortuni-scolastici-in-crescita-del-400-77mila-infortuni-in-un-anno-il-governo-stanzia-fondi-per-rendere-strutturale-assicurazione-per-docenti-ata-e-studenti/",
                 "date": "20 Giu 2025",
                 "time": "17:03",
@@ -150,12 +215,7 @@
                 "date": "20 Giu 2025",
                 "time": "12:17",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2459519923.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Domanda supplenze docenti max 150 preferenze 2025/26 a luglio: chi deve presentarla, per quali posti, ci sarà ancora l’algoritmo. 10 FAQ",
@@ -211,94 +271,6 @@
                 "date": "20 Giu 2025",
                 "time": "9:26",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/Editoriale-Docenti-Corsiecampus.it_.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "GPS prima fascia sostegno 2025/26: chi ha conseguito TFA italiano può sostituire TFA estero e azzera la riserva. NOTA MINISTERO",
-                "link": "https://www.orizzontescuola.it/gps-prima-fascia-sostegno-2025-26-chi-ha-conseguito-tfa-italiano-puo-sostituire-tfa-estero-e-azzera-la-riserva-nota-ministero/",
-                "date": "20 Giu 2025",
-                "time": "9:02",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_1147615607.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Scrittura in corsivo: carta e penna centrali nelle nuove Indicazioni nazionali. Per alunni con DSA si tiene conto delle Linee guida del 2011",
-                "link": "https://www.orizzontescuola.it/scrittura-in-corsivo-carta-e-penna-centrali-nelle-nuove-indicazioni-nazionali-per-alunni-con-dsa-si-tiene-conto-delle-linee-guida-del-2011/",
-                "date": "20 Giu 2025",
-                "time": "8:45",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_2207108391-scaled.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Divieto smartphone? No, “meglio la disconnessione consapevole”. Il piano di sensibilizzazione e formazione rivolto a docenti, genitori, giovani e pediatri. Il piano dell’Emilia-Romagna",
-                "link": "https://www.orizzontescuola.it/divieto-smartphone-no-meglio-la-disconnessione-consapevole-il-piano-di-sensibilizzazione-e-formazione-rivolto-a-docenti-genitori-giovani-e-pediatri-il-piano-dellemilia-romagna/",
-                "date": "20 Giu 2025",
-                "time": "8:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/04/shutterstock_220478947.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Chi siamo prima di cosa sappiamo fare: un’educazione per la felicità",
-                "link": "https://www.orizzontescuola.it/chi-siamo-prima-di-cosa-sappiamo-fare-uneducazione-per-la-felicita/",
-                "date": "20 Giu 2025",
-                "time": "8:28",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2036186225.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Graduatorie ATA 24 mesi, quando l’allegato G? In attesa della scelta delle 30 scuole",
-                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-quando-lallegato-g-in-attesa-della-scelta-delle-30-scuole/",
-                "date": "20 Giu 2025",
-                "time": "8:17",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2456756593.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "VIDEO TUTORIAL | GPS elenco aggiuntivo: scioglimento riserva, tutti i passaggi spiegati passo dopo passo",
-                "link": "https://www.orizzontescuola.it/video-tutorial-gps-elenco-aggiuntivo-scioglimento-riserva-tutti-i-passaggi-spiegati-passo-dopo-passo/",
-                "date": "20 Giu 2025",
-                "time": "7:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/Template_videoguide_1920x1080.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "Incentivi tecnici nelle istituzioni scolastiche: normativa, limiti e applicazioni pratiche, i pareri del MIT",
-                "link": "https://www.orizzontescuola.it/incentivi-tecnici-nelle-istituzioni-scolastiche-normativa-limiti-e-applicazioni-pratiche-i-pareri-del-mit/",
-                "date": "20 Giu 2025",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_82803304.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Esami di Stato II grado, comincia la correzione delle prove scritte. 20 punti max per ogni prova",
-                "link": "https://www.orizzontescuola.it/esami-di-stato-ii-grado-comincia-la-correzione-delle-prove-scritte-20-punti-max-per-ogni-prova/",
-                "date": "20 Giu 2025",
-                "time": "7:43",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/03/shutterstock_1938714370.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Assegnazioni provvisorie docenti 2025, neoassunti al centro della trattativa. Le possibilità novità, domande a luglio",
-                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-docenti-2025-neoassunti-al-centro-della-trattativa-le-possibilita-novita/",
-                "date": "20 Giu 2025",
-                "time": "6:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_130754711.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Continuità supplenza vs punteggio in GPS: chi ha la priorità nelle nomine? Pillole di QuestionTime",
-                "link": "https://www.orizzontescuola.it/continuita-supplenza-vs-punteggio-in-gps-chi-ha-la-priorita-nelle-nomine-pillole-di-questiontime/",
-                "date": "19 Giu 2025",
-                "time": "21:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2471109109-scaled.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "“Voto di consiglio”, assenze oltre il 25%, non classificato: alcune riflessioni post-scrutini scuola secondaria II grado",
-                "link": "https://www.orizzontescuola.it/voto-di-consiglio-assenze-oltre-il-25-non-classificato-alcune-riflessioni-post-scrutini-scuola-secondaria-ii-grado/",
-                "date": "19 Giu 2025",
-                "time": "20:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_1745285486.jpg"
             }
         ]
     },
@@ -307,18 +279,42 @@
         "articles": [
             {
                 "category": "Cronaca",
-                "title": "Semestre aperto Medicina: tassa uniforme 250 euro e scadenza iscrizioni 25 luglio. Il Ministero definisce date esami e modalità accesso per 40mila aspiranti medici e veterinari",
-                "link": "https://www.orizzontescuola.it/semestre-aperto-medicina-tassa-uniforme-250-euro-e-scadenza-iscrizioni-25-luglio-il-ministero-definisce-date-esami-e-modalita-accesso-per-40mila-aspiranti-medici-e-veterinari/",
-                "date": "20 Giu 2025",
-                "time": "22:13",
+                "title": "Aule bollenti, bambini che svengono: l’Infanzia alle prese con le temperature di Giugno. Sicuri a chiedere meno vacanze estive?",
+                "link": "https://www.orizzontescuola.it/aule-bollenti-bambini-che-svengono-linfanzia-alle-prese-con-le-temperature-di-giugno-sicuro-che-volete-meno-vacanze-estive/",
+                "date": "21 Giu 2025",
+                "time": "9:16",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Docenti",
+                "title": "Esami di accertamento della conoscenza della lingua francese. Ordinanza Regione Valle d’Aosta",
+                "link": "https://www.orizzontescuola.it/esami-di-accertamento-della-conoscenza-della-lingua-francese-ordinanza-regione-valle-daosta/",
+                "date": "21 Giu 2025",
+                "time": "9:06",
                 "image_link": "N/A"
             },
             {
                 "category": "Cronaca",
-                "title": "Maturità 2025, le parole di uno studente diventano virali sui social: “A 18 anni è l’unica volta che gli adulti mi ascoltano davvero. Voglio essere guardato, non giudicato”. Quando l’esame diventa l’unica occasione per esistere",
-                "link": "https://www.orizzontescuola.it/maturita-2025-le-parole-di-uno-studente-diventano-virali-sui-social-a-18-anni-e-lunica-volta-che-gli-adulti-mi-ascoltano-davvero-voglio-essere-guardato-non-giudicato-quando-lesame-diventa/",
+                "title": "Harvard uno, Trump zero: l’università potrà ospitare studenti stranieri",
+                "link": "https://www.orizzontescuola.it/harvard-uno-trump-zero-luniversita-potra-ospitare-studenti-stranieri/",
+                "date": "21 Giu 2025",
+                "time": "8:05",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Dirigenti scolastici",
+                "title": "Mobilità interregionale 2025/26 Dirigenti Scolastici: posti disponibili [IN AGGIORNAMENTO]",
+                "link": "https://www.orizzontescuola.it/mobilita-interregionale-2025-26-dirigenti-scolastici-posti-disponibili-in-aggiornamento/",
+                "date": "21 Giu 2025",
+                "time": "7:54",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Semestre aperto Medicina: tassa uniforme 250 euro e scadenza iscrizioni 25 luglio. Il Ministero definisce date esami e modalità accesso per 40mila aspiranti medici e veterinari",
+                "link": "https://www.orizzontescuola.it/semestre-aperto-medicina-tassa-uniforme-250-euro-e-scadenza-iscrizioni-25-luglio-il-ministero-definisce-date-esami-e-modalita-accesso-per-40mila-aspiranti-medici-e-veterinari/",
                 "date": "20 Giu 2025",
-                "time": "22:08",
+                "time": "22:13",
                 "image_link": "N/A"
             },
             {
@@ -364,7 +360,7 @@
             },
             {
                 "category": "Cronaca",
-                "title": "Basta con i professori “amiconi”, quando l’empatia diventa un alibi per non insegnare davvero. La linguista Pani: “Basta con la didattica petalosa”",
+                "title": "Basta con i professori “amiconi”, quando l’empatia diventa un alibi per non insegnare davvero. La linguista Pani: “Stop con la didattica petalosa”",
                 "link": "https://www.orizzontescuola.it/basta-con-i-professori-amiconi-quando-lempatia-diventa-un-alibi-per-non-insegnare-davvero-la-linguista-pani-basta-con-la-didattica-petalosa/",
                 "date": "20 Giu 2025",
                 "time": "14:44",
@@ -376,14 +372,6 @@
                 "link": "https://www.orizzontescuola.it/22-anglicismi-utilizzati-comunemente-nello-slang-giovanile-italiano-con-relativa-spiegazione/",
                 "date": "20 Giu 2025",
                 "time": "14:06",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Dirigenti scolastici",
-                "title": "Mobilità interregionale 2025/26 Dirigenti Scolastici: posti disponibili [IN AGGIORNAMENTO]",
-                "link": "https://www.orizzontescuola.it/mobilita-interregionale-2025-26-dirigenti-scolastici-posti-disponibili-in-aggiornamento/",
-                "date": "20 Giu 2025",
-                "time": "13:54",
                 "image_link": "N/A"
             },
             {
@@ -424,22 +412,6 @@
                 "link": "https://www.orizzontescuola.it/in-francia-gli-studenti-si-spostano-tra-le-aule-la-matematica-con-il-problem-solving-lesperienza-di-mobilita-tra-scuole-francesi-e-liguri/",
                 "date": "20 Giu 2025",
                 "time": "12:30",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "GPS, GaE, immissioni in ruolo e supplenze: parte la lunga estate dei precari. QUESTION TIME con Cozzetto (Anief)",
-                "link": "https://www.orizzontescuola.it/gps-gae-immissioni-in-ruolo-e-supplenze-parte-la-lunga-estate-dei-precari-question-time-con-cozzetto-anief-live-venerdi-20-giugno-alle-1500/",
-                "date": "20 Giu 2025",
-                "time": "11:53",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "UCIIM Varese lancia una diretta talkshow su Paolo Borsellino: confronto generazionale tra memoria e futuro",
-                "link": "https://www.orizzontescuola.it/uciim-varese-lancia-una-diretta-talkshow-su-paolo-borsellino-confronto-generazionale-tra-memoria-e-futuro/",
-                "date": "20 Giu 2025",
-                "time": "11:50",
                 "image_link": "N/A"
             }
         ]
@@ -566,6 +538,30 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Concorso ordinario insegnanti di religione, fissate le date delle prove scritta: 16 luglio per infanzia e primaria, 17 luglio per scuola secondaria. AVVISO",
+                "link": "https://www.orizzontescuola.it/concorso-insegnanti-di-religione-fissate-le-date-delle-prove-scritta-16-luglio-per-infanzia-e-primaria-17-luglio-per-scuola-secondaria-avviso/",
+                "date": "19 Giu 2025",
+                "time": "11:46",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/struttura-concorso-docenti.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Percorsi sostegno tre anni servizio e abilitati estero, perché non sono stati ancora attivati? Ecco le richieste delle Università",
+                "link": "https://www.orizzontescuola.it/percorsi-sostegno-tre-anni-servizio-e-abilitati-estero-perche-non-sono-stati-ancora-attivati-ecco-le-richieste-delle-universita/",
+                "date": "19 Giu 2025",
+                "time": "10:04",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_1719924733.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Vincitori Concorso scuola PNRR1: cosa accade se non si supera l’esame finale del corso abilitante. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/vincitori-concorso-scuola-pnrr1-cosa-accade-se-non-si-supera-lesame-finale-del-corso-abilitante-pillole-di-question-time/",
+                "date": "18 Giu 2025",
+                "time": "20:21",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_95425372.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Elenchi aggiuntivi GPS prima fascia 2025: entro il 3 luglio si potrà sciogliere la riserva. VIDEO GUIDA e chiarimenti",
                 "link": "https://www.orizzontescuola.it/elenchi-aggiuntivi-gps-prima-fascia-dal-16-giugno-al-3-luglio-si-potra-sciogliere-la-riserva-per-titolo-conseguito-entro-il-30-giugno/",
                 "date": "18 Giu 2025",
@@ -587,36 +583,28 @@
                 "date": "18 Giu 2025",
                 "time": "11:05",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_1996119905.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Si conclude anno di prova e formazione per docenti neoimmessi in ruolo: tutte le scadenze di giugno, luglio e agosto [TABELLA]",
-                "link": "https://www.orizzontescuola.it/si-conclude-anno-di-prova-e-formazione-per-docenti-neoimmessi-in-ruolo-tutte-le-scadenze-di-giugno-luglio-e-agosto-tabella/",
-                "date": "18 Giu 2025",
-                "time": "10:28",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2491902319.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Scioglimento riserva GPS, supplenze e ruoli 2025/26: inizia l’estate dei docenti precari. LE RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/scioglimento-riserva-gps-supplenze-e-ruoli-2025-26-inizia-lestate-dei-docenti-precari-le-risposte-ai-quesiti/",
-                "date": "18 Giu 2025",
-                "time": "10:14",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/Vannini.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "TFA sostegno: 30.000 posti per il X ciclo. Ecco la distribuzione per regione e grado, si attende il decreto per i bandi",
-                "link": "https://www.orizzontescuola.it/tfa-sostegno-30-000-posti-per-il-x-ciclo-ecco-la-distribuzione-per-regione-e-grado-si-attende-il-decreto-per-i-bandi/",
-                "date": "18 Giu 2025",
-                "time": "10:08",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2471109123-scaled.jpg"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
+            {
+                "category": "ATA",
+                "title": "Riforma reclutamento personale ATA? Anief: “Le segreterie hanno bisogno di persone capaci”. Uil Scuola: “Concorsi ora inopportuni”",
+                "link": "https://www.orizzontescuola.it/riforma-reclutamento-personale-ata-anief-le-segreterie-hanno-bisogno-di-persone-capaci-uil-scuola-concorsi-ora-inopportuni/",
+                "date": "14 Giu 2025",
+                "time": "12:22",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1757167814-scaled.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Permessi 104 personale ATA: si possono anche richiedere frazionati nella stessa giornata (es. un’ora al mattino e 3 al pomeriggio)",
+                "link": "https://www.orizzontescuola.it/permessi-104-personale-ata-si-possono-anche-richiedere-frazionati-nella-stessa-giornata-es-unora-al-mattino-e-3-al-pomeriggio/",
+                "date": "13 Giu 2025",
+                "time": "18:31",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_1645535227.jpg"
+            },
             {
                 "category": "ATA",
                 "title": "Posizioni economiche ATA: da 35 a 98 euro circa in più al mese. Prossima settimana forse avviso su inizio corsi. RISPOSTE AI QUESITI",
@@ -648,22 +636,6 @@
                 "date": "11 Giu 2025",
                 "time": "15:17",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/Frassinetti.jpeg"
-            },
-            {
-                "category": "ATA",
-                "title": "Posizioni economiche ATA: accesso ai corsi, compensazioni posti. RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-accesso-ai-corsi-compensazioni-posti-risposte-ai-quesiti/",
-                "date": "5 Giu 2025",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_2023734317-scaled.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Posizioni economiche ATA, corsi di formazione da luglio a settembre. Prova con 20 quesiti a metà ottobre in presenza",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-corsi-di-formazione-da-luglio-a-settembre-prova-con-20-quesiti-a-meta-ottobre-in-presenza/",
-                "date": "4 Giu 2025",
-                "time": "15:02",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2155967003.jpg"
             }
         ]
     },
