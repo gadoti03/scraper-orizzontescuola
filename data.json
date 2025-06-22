@@ -17,6 +17,63 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "“Insufficiente preparazione prevale su condizioni di salute”, il Tar respinge ricorso di alunna: “Non ammissione legittima nonostante patologia invalidante e ordinanze cautelari favorevoli”. SENTENZA",
+                "link": "https://www.orizzontescuola.it/insufficiente-preparazione-prevale-su-condizioni-di-salute-il-tar-respinge-ricorso-di-alunna-tar-salerno-respinge-ricorso-studentessa-non-ammissione-legittima-nonostante-patologia-invalidante/",
+                "date": "22 Giu 2025",
+                "time": "10:22",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/12/shutterstock_565597579.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "La scuola che valuta (ancora) il “programma” (quale?) finito e non l’alunno che cresce",
+                "link": "https://www.orizzontescuola.it/la-scuola-che-valuta-ancora-il-programma-quale-finito-e-non-lalunno-che-cresce/",
+                "date": "22 Giu 2025",
+                "time": "9:41",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_2103186872.jpg"
+            },
+            {
+                "category": "Genitori",
+                "title": "Il costo nascosto dei figli, quando crescere un bambino diventa un privilegio economico: il primo costa il 75% del reddito. DATI Ocse",
+                "link": "https://www.orizzontescuola.it/il-costo-nascosto-dei-figli-quando-crescere-un-bambino-diventa-un-privilegio-economico-il-primo-costa-il-75-del-reddito-dati-ocse/",
+                "date": "22 Giu 2025",
+                "time": "9:12",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_2130160130.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Personale ATA, assenza malattia per 4 giorni e giornata ferie: cosa dice la normativa",
+                "link": "https://www.orizzontescuola.it/personale-ata-assenza-malattia-per-4-giorni-e-giornata-ferie-cosa-dice-la-normativa/",
+                "date": "22 Giu 2025",
+                "time": "9:01",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2154471629.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Il paradosso della generazione 110 e lode, quando l’eccellenza accademica si scontra con la realtà del primo lavoro. Sui social è dibattito: “Di pratico non sapete neanche rifarvi il letto”",
+                "link": "https://www.orizzontescuola.it/il-paradosso-della-generazione-110-e-lode-quando-leccellenza-accademica-si-scontra-con-la-realta-del-primo-lavoro-sui-social-e-dibattito-di-pratico-non-sapete-neanche-rifarvi-il-letto/",
+                "date": "22 Giu 2025",
+                "time": "8:47",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/06/obiettivo-universita-scaled.jpg"
+            },
+            {
+                "category": "Genitori",
+                "title": "Genitori disinteressati al percorso scolastico? È una forma di violenza. A dirlo il Garante dell’infanzia e adolescenza",
+                "link": "https://www.orizzontescuola.it/genitori-disinteressati-al-percorso-scolastico-e-una-forma-di-violenza-a-dirlo-il-garante-dellinfanzia-e-adolescenza/",
+                "date": "22 Giu 2025",
+                "time": "8:26",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/02/adolescenza-scaled-e1581066214413.jpg"
+            },
+            null,
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Nasce il gruppo Telegram “Diventare insegnante”: abilitazione, specializzazione sul sostegno, Scienze della formazione primaria, supplenze, concorsi e assunzioni",
+                "link": "https://www.orizzontescuola.it/nasce-il-gruppo-telegram-diventare-insegnante-abilitazione-specializzazione-sul-sostegno-scienze-della-formazione-primaria-supplenze-concorsi-e-assunzioni/",
+                "date": "22 Giu 2025",
+                "time": "7:16",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/Il-gruppo-1.png"
+            },
+            {
                 "category": "Genitori",
                 "title": "“Cari genitori, basta spiegoni ai bambini di 4 anni. Non avete dei bambini Leonardo da Vinci o Alberto Angela”, Novara: “Tre ore di corsa al giorno per salvarla dall’invasione digitale”",
                 "link": "https://www.orizzontescuola.it/cari-genitori-basta-spiegoni-ai-bambini-di-4-anni-non-avete-dei-bambini-leonardo-da-vinci-o-alberto-angela-novara-tre-ore-di-corsa-al-giorno-per-salvarla-dallinvasione-digitale/",
@@ -79,7 +136,12 @@
                 "date": "21 Giu 2025",
                 "time": "14:51",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/03/shutterstock_642182779.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Vincitori non abilitati concorso PNRR1: alcuni hanno già “perso il posto” per contrazione di organico. Chiarimenti su graduatorie interne di istituto",
@@ -143,12 +205,7 @@
                 "date": "21 Giu 2025",
                 "time": "9:13",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_409299112-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "ATA",
                 "title": "Graduatorie ATA 24 mesi, allegato G: le risposte alle vostre domande. QUESTION TIME con Cozzolino. LIVE Lunedì 23 giugno alle 15:30",
@@ -207,70 +264,6 @@
                 "date": "20 Giu 2025",
                 "time": "18:48",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2498448781.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi specializzazione sostegno, titolo estero: Ministero proroga al 21 luglio rinuncia riconoscimento",
-                "link": "https://www.orizzontescuola.it/percorsi-specializzazione-sostegno-titolo-estero-ministero-proroga-al-21-luglio-rinuncia-riconoscimento/",
-                "date": "20 Giu 2025",
-                "time": "18:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_163768811.jpg"
-            },
-            {
-                "category": "Stipendio",
-                "title": "Bonus mamme lavoratrici, 40 euro al mese per chi ha due figli, 480 euro netti corrisposti a dicembre. Calderone: “Somma in busta paga, esente da contributi”",
-                "link": "https://www.orizzontescuola.it/bonus-mamme-lavoratrici-40-euro-al-mese-per-chi-ha-due-figli-480-euro-netti-corrisposti-a-dicembre-calderone-somma-netta-in-busta-paga-esente-da-contributi/",
-                "date": "20 Giu 2025",
-                "time": "18:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/Calderone.jpeg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Adeguamento dell’organico ATA per l’anno scolastico 2025/2026. Dal 30 giugno funzioni disponibili",
-                "link": "https://www.orizzontescuola.it/adeguamento-dellorganico-a-t-a-per-lanno-scolastico-2025-2026-dal-30-giugno-funzioni-disponibili/",
-                "date": "20 Giu 2025",
-                "time": "17:56",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/02/shutterstock_1011686965.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Maturità negata con 4 insufficienze gravi su 13 materie, il TAR respinge il ricorso. I giudici: “Bocciatura non ha carattere sanzionatorio, bensì finalità educative e formative”. SENTENZA",
-                "link": "https://www.orizzontescuola.it/maturita-negata-con-4-insufficienze-gravi-su-13-materie-il-tar-calabria-respinge-il-ricorso-i-giudici-bocciatura-non-ha-carattere-sanzionatorio-bensi-finalita-educative-e-formative-sentenza/",
-                "date": "20 Giu 2025",
-                "time": "17:43",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_282701687.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Infortuni scolastici in crescita del 400%, 77mila in un anno. Il governo stanzia fondi per rendere strutturale assicurazione per docenti, ATA e studenti",
-                "link": "https://www.orizzontescuola.it/infortuni-scolastici-in-crescita-del-400-77mila-infortuni-in-un-anno-il-governo-stanzia-fondi-per-rendere-strutturale-assicurazione-per-docenti-ata-e-studenti/",
-                "date": "20 Giu 2025",
-                "time": "17:03",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/Governo-2.jpg"
-            },
-            {
-                "category": "Dirigenti scolastici",
-                "title": "Gestione Fondo Espero: GUIDA consegna informativa, MODELLO e facsimile trattamento dati personali",
-                "link": "https://www.orizzontescuola.it/gestione-fondo-espero-guida-consegna-informativa-modello-e-facsimile-trattamento-dati-personali/",
-                "date": "20 Giu 2025",
-                "time": "15:48",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_521791969.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Graduatorie concorso PNRR2, quanto vale la laurea e l’abilitazione. Esiti valutazione titoli",
-                "link": "https://www.orizzontescuola.it/graduatorie-concorso-pnrr2-quanto-vale-la-laurea-e-labilitazione-esiti-valutazione-titoli/",
-                "date": "20 Giu 2025",
-                "time": "15:39",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2361952943-scaled.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Selezione DSGA e docenti in posizione di fuori ruolo al MAECI. Domande entro il 21 luglio. BANDO",
-                "link": "https://www.orizzontescuola.it/selezione-dsga-e-docenti-in-posizione-di-fuori-ruolo-al-maeci-domande-entro-il-21-luglio-bando/",
-                "date": "20 Giu 2025",
-                "time": "15:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_1070096513.jpg"
             }
         ]
     },
@@ -538,6 +531,22 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "GPS prima fascia sostegno 2025/26: chi ha conseguito TFA italiano può sostituire TFA estero e azzera la riserva. NOTA MINISTERO",
+                "link": "https://www.orizzontescuola.it/gps-prima-fascia-sostegno-2025-26-chi-ha-conseguito-tfa-italiano-puo-sostituire-tfa-estero-e-azzera-la-riserva-nota-ministero/",
+                "date": "20 Giu 2025",
+                "time": "9:02",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_1147615607.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "VIDEO TUTORIAL | GPS elenco aggiuntivo: scioglimento riserva, tutti i passaggi spiegati passo dopo passo",
+                "link": "https://www.orizzontescuola.it/video-tutorial-gps-elenco-aggiuntivo-scioglimento-riserva-tutti-i-passaggi-spiegati-passo-dopo-passo/",
+                "date": "20 Giu 2025",
+                "time": "7:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/Template_videoguide_1920x1080.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Continuità supplenza vs punteggio in GPS: chi ha la priorità nelle nomine? Pillole di QuestionTime",
                 "link": "https://www.orizzontescuola.it/continuita-supplenza-vs-punteggio-in-gps-chi-ha-la-priorita-nelle-nomine-pillole-di-questiontime/",
                 "date": "19 Giu 2025",
@@ -567,22 +576,6 @@
                 "date": "19 Giu 2025",
                 "time": "13:16",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2142727347.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Riconferma supplenti sostegno 2025/26, prossimo passo sarà la disponibilità (vincolante) nella domanda per le max 150 preferenze",
-                "link": "https://www.orizzontescuola.it/supplenti-sostegno-conferma-della-nomina-anche-per-il-2025-26-direttive-alle-scuole/",
-                "date": "19 Giu 2025",
-                "time": "11:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1666873585.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso ordinario insegnanti di religione, fissate le date delle prove scritta: 16 luglio per infanzia e primaria, 17 luglio per scuola secondaria. AVVISO",
-                "link": "https://www.orizzontescuola.it/concorso-insegnanti-di-religione-fissate-le-date-delle-prove-scritta-16-luglio-per-infanzia-e-primaria-17-luglio-per-scuola-secondaria-avviso/",
-                "date": "19 Giu 2025",
-                "time": "11:46",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/struttura-concorso-docenti.png"
             }
         ]
     },
