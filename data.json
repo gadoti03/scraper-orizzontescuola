@@ -17,6 +17,62 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Scuole",
+                "title": "Sessione straordinaria Maturità: richieste scuole dal 2 luglio al 3 settembre",
+                "link": "https://www.orizzontescuola.it/sessione-straordinaria-maturita-richieste-scuole-dal-2-luglio-al-3-settembre/",
+                "date": "29 Giu 2025",
+                "time": "13:19",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2331500305.jpg"
+            },
+            {
+                "category": "Studenti",
+                "title": "Scuola bocciata dai giovani: 6 su 10 denunciano che i voti non riflettono il vero talento, mentre l’abbandono colpisce 1 studente su 4 nelle famiglie meno istruite. I dati del Rapporto Giovani 2025",
+                "link": "https://www.orizzontescuola.it/scuola-bocciata-dai-giovani-6-su-10-denunciano-che-i-voti-non-riflettono-il-vero-talento-mentre-labbandono-colpisce-1-studente-su-4-nelle-famiglie-meno-istruite-secondo-il-rapporto-giovani-2025/",
+                "date": "29 Giu 2025",
+                "time": "12:47",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/12/shutterstock_1785688787-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "TFA sostegno X ciclo: il 2024/25 vale come anno di servizio, il titolo di studio deve essere in possesso entro la data di scadenza della domanda",
+                "link": "https://www.orizzontescuola.it/tfa-sostegno-x-ciclo-il-2024-25-vale-come-anno-di-servizio-il-titolo-di-studio-deve-essere-in-possesso-entro-la-data-di-scadenza-della-domanda/",
+                "date": "29 Giu 2025",
+                "time": "12:36",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/ondemand-orizzscuola-marzo-scaled.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Bullismo, i giovani stranieri più colpiti: rumeni al 29,2% e ucraini al 27,8% contro il 20,4% degli italiani. Il cyberbullismo colpisce 4 stranieri su 10. I dati ISTAT",
+                "link": "https://www.orizzontescuola.it/bullismo-i-giovani-stranieri-piu-colpiti-rumeni-al-292-e-ucraini-al-278-contro-il-204-degli-italiani-il-cyberbullismo-colpisce-4-stranieri-su-10-i-dati-istat/",
+                "date": "29 Giu 2025",
+                "time": "11:56",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2501772915-scaled.jpg"
+            },
+            {
+                "category": "Consulenza fiscale",
+                "title": "Arretrati taglio cuneo fiscale, cosa fare se non ci sono nel cedolino di giugno?",
+                "link": "https://www.orizzontescuola.it/arretrati-taglio-cuneo-fiscale-cosa-fare-se-non-ci-sono-nel-cedolino-di-giugno/",
+                "date": "29 Giu 2025",
+                "time": "11:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/04/Soldi.jpg"
+            },
+            {
+                "category": "Genitori",
+                "title": "Generazione smartphone in crisi: perché gli adolescenti di oggi preferiscono la cameretta al mondo reale e come questo sta cambiando per sempre il loro cervello. Le parole di Alberto Pellai",
+                "link": "https://www.orizzontescuola.it/generazione-smartphone-in-crisi-perche-gli-adolescenti-di-oggi-preferiscono-la-cameretta-al-mondo-reale-e-come-questo-sta-cambiando-per-sempre-il-loro-cervello-le-parole-di-alberto-pellai/",
+                "date": "29 Giu 2025",
+                "time": "10:56",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Screenshot-2025-02-20-alle-17.40.48.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Nuova domanda per le max 150 preferenze a luglio: si potranno scegliere scuole diverse rispetto a quelle dello scorso anno",
+                "link": "https://www.orizzontescuola.it/nuova-domanda-per-le-max-150-preferenze-a-luglio-si-potranno-scegliere-scuole-diverse-rispetto-a-quelle-dello-scorso-anno/",
+                "date": "29 Giu 2025",
+                "time": "10:35",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_1214667418.jpg"
+            },
+            {
                 "category": "Genitori",
                 "title": "Associazioni famiglie: “scuola statale gratuita, ma se si sceglie una paritaria si paga una retta. Non tutti possono permettersela. Introdurre il buono scuola”",
                 "link": "https://www.orizzontescuola.it/associazioni-famiglie-scuola-statale-gratuita-ma-se-si-sceglie-una-paritaria-si-paga-una-retta-non-tutti-possono-permettersela-introdurre-il-buono-scuola/",
@@ -80,7 +136,12 @@
                 "time": "8:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/Valditara-4.png"
             },
-            null,
+            null
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Indicazioni Nazionali, verso una nuova modifica. Valditara: “Recepiremo le richieste del CSPI”. Quali sono",
@@ -136,12 +197,7 @@
                 "date": "28 Giu 2025",
                 "time": "15:45",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_385985221.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Psicologi “social”, un italiano su tre soffre d’ansia. Crepet e Galimberti: “C’è richiesta perchè abbiamo delegittimato la scuola, demolito la ricchezza delle famiglie. Il dolore, però, non si cura con i video di 60 secondi”",
@@ -229,61 +285,28 @@
                 "date": "28 Giu 2025",
                 "time": "10:27",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/12/shutterstock_565597579.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR 2: assunzioni possibili già dal 2025/26, in quale ordine per vincitori e idonei [LO SPECIALE]",
-                "link": "https://www.orizzontescuola.it/concorso-pnrr-2-posti-requisiti-di-accesso-prove-da-superare-valutazione-titoli-graduatorie-assunzioni-lo-speciale/",
-                "date": "28 Giu 2025",
-                "time": "10:19",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_1996119905.jpg"
-            },
-            {
-                "category": "Genitori",
-                "title": "Quando la scuola chiude, inizia la sfida: perché l’estate può diventare il momento più difficile (e prezioso) per le famiglie, tra ostacoli pratici e il segreto di una relazione autentica",
-                "link": "https://www.orizzontescuola.it/quando-la-scuola-chiude-inizia-la-sfida-perche-lestate-puo-diventare-il-momento-piu-difficile-e-prezioso-per-le-famiglie-tra-ostacoli-pratici-e-il-segreto-di-una-relazione-autentica/",
-                "date": "28 Giu 2025",
-                "time": "10:06",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_697764307-scaled.jpg"
-            },
-            null,
-            {
-                "category": "Studenti",
-                "title": "Dalla penna al futuro: come il Friuli Venezia Giulia trasforma la calligrafia in una professione d’avanguardia e lancia il Tecnico del segno, la nuova figura che unisce arte e neuroscienze",
-                "link": "https://www.orizzontescuola.it/dalla-penna-al-futuro-come-il-friuli-venezia-giulia-trasforma-la-calligrafia-in-una-professione-davanguardia-e-lancia-il-tecnico-del-segno-la-nuova-figura-che-unisce-arte-neuroscienze-e-op/",
-                "date": "28 Giu 2025",
-                "time": "9:36",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_2207108391-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "TFA sostegno X ciclo, percorsi abbreviati: chi riguardano e come si articolano",
-                "link": "https://www.orizzontescuola.it/tfa-sostegno-x-ciclo-percorsi-abbreviati-chi-riguardano-e-come-si-articolano/",
-                "date": "28 Giu 2025",
-                "time": "9:22",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/10/sostegno.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Andrea Maggi: “Il futuro dei giovani è in pericolo, ecco perché la scuola deve tornare a insegnare a leggere prima che sia troppo tardi”",
-                "link": "https://www.orizzontescuola.it/andrea-maggi-il-futuro-dei-giovani-e-in-pericolo-ecco-perche-la-scuola-deve-tornare-a-insegnare-a-leggere-prima-che-sia-troppo-tardi/",
-                "date": "28 Giu 2025",
-                "time": "9:16",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/Maggi.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "TFA sostegno X ciclo, i BANDI delle Università [AGGIORNATO con Link Campus, Macerata, Suor Orsola Benincasa e Cassino]",
-                "link": "https://www.orizzontescuola.it/tfa-sostegno-x-ciclo-le-pagine-delle-universita/",
-                "date": "28 Giu 2025",
-                "time": "9:03",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/02/shutterstock_107801354-1200x800.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Emilia-Romagna rilancia il diritto allo studio: scuole aperte anche al pomeriggio, borse di studio per tutti, trasporti gratuiti e 18 milioni per l’inclusione",
+                "link": "https://www.orizzontescuola.it/emilia-romagna-rilancia-il-diritto-allo-studio-scuole-aperte-anche-al-pomeriggio-borse-di-studio-per-tutti-trasporti-gratuiti-e-18-milioni-per-linclusione-nuove-linee-guida-contro-dispers/",
+                "date": "29 Giu 2025",
+                "time": "12:21",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Daniele Luchetti: “Un sequel de La Scuola? Non sarei contrario. Ogni volta che si tocca la scuola, si tocca un mondo intero”",
+                "link": "https://www.orizzontescuola.it/daniele-luchetti-un-sequel-de-la-scuola-non-sarei-contrario-ogni-volta-che-si-tocca-la-scuola-si-tocca-un-mondo-intero/",
+                "date": "29 Giu 2025",
+                "time": "11:22",
+                "image_link": "N/A"
+            },
             {
                 "category": "Genitori",
                 "title": "Il guardaroba degli adolescenti e il conto salato. Sui social uno scontrino scatena il confronto tra genitori e figli: sono i ragazzi a chiedere troppo o le famiglie a non saper dire di no?",
@@ -411,22 +434,6 @@
                 "date": "28 Giu 2025",
                 "time": "10:59",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "La storia dei due bimbi di 6 e 9 anni in isolamento dal mondo: non sapevano leggere, né scrivere. Il padre era “terrorizzato dai virus”",
-                "link": "https://www.orizzontescuola.it/la-storia-dei-due-bimbi-di-6-e-9-anni-in-isolamento-dal-mondo-non-sapevano-leggere-ne-scrivere-il-padre-era-terrorizzato-dai-virus/",
-                "date": "28 Giu 2025",
-                "time": "10:23",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Maturità 2025, festeggiamenti fuori controllo, una prof finisce in ospedale dopo caduta su uova e farina. E c’è chi dice: “Indecorosi, tutto questo anche con la presenza dei genitori che ridacchiano”",
-                "link": "https://www.orizzontescuola.it/maturita-2025-festeggiamenti-fuori-controllo-una-prof-finisce-in-ospedale-dopo-caduta-su-uova-e-farina-e-ce-chi-dice-indecorosi-tutto-questo-anche-con-la-presenza-dei-genitori-che-ridacchiano/",
-                "date": "28 Giu 2025",
-                "time": "10:14",
-                "image_link": "N/A"
             }
         ]
     },
@@ -552,6 +559,22 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Corsi sostegno, triennalisti, maxi-piano da 52.622 posti: primo ciclo con 20.700 università più 5.850 INDIRE. Ecco il DECRETO ministeriale",
+                "link": "https://www.orizzontescuola.it/corsi-sostegno-triennalisti-maxi-piano-da-52-622-posti-primo-ciclo-con-20-700-universita-piu-5-850-indire-ecco-la-ripartizione/",
+                "date": "27 Giu 2025",
+                "time": "13:29",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_1029430381.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Corsi sostegno, abilitati estero: 4500 posti. Ecco il DECRETO ministeriale per i percorsi universitari. Requisiti e modalità",
+                "link": "https://www.orizzontescuola.it/corsi-sostegno-abilitati-estero-4500-posti-ecco-il-decreto-ministeriale-per-i-corsi-universitari-requisiti-e-modalita/",
+                "date": "27 Giu 2025",
+                "time": "13:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Modello-immagine-sito-11.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Corsi sostegno INDIRE e Università, triennalisti e abilitati estero: tutte le RISPOSTE AI QUESITI",
                 "link": "https://www.orizzontescuola.it/corsi-sostegno-indire-e-universita-triennalisti-e-abilitati-estero-tutte-le-risposte-ai-quesiti/",
                 "date": "27 Giu 2025",
@@ -581,22 +604,6 @@
                 "date": "27 Giu 2025",
                 "time": "9:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_738097555.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Fase zero per la riconferma dei docenti di sostegno: chiarimenti sulle tempistiche. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/fase-zero-per-la-riconferma-dei-docenti-di-sostegno-chiarimenti-sulle-tempistiche-pillole-di-question-time/",
-                "date": "26 Giu 2025",
-                "time": "19:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2502187265.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "TFA sostegno X ciclo, non vale più l’accesso diretto per docenti con tre anni di servizio ma c’è il percorso da 40 CFU per i triennalisti",
-                "link": "https://www.orizzontescuola.it/tfa-sostegno-x-ciclo-non-vale-piu-laccesso-diretto-per-docenti-con-tre-anni-di-servizio-ma-ce-il-percorso-da-40-cfu-per-i-triennalisti/",
-                "date": "26 Giu 2025",
-                "time": "18:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_59277838.jpg"
             }
         ]
     },
