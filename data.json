@@ -17,6 +17,46 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Chiedilo a Lalla",
+                "title": "Sostegno, dal TFA ai corsi per triennalisti e abilitati estero. Tutto quello che c’è da sapere. QUESTION TIME con Cozzetto (Anief) LIVE Martedì 1 luglio alle 15:00",
+                "link": "https://www.orizzontescuola.it/sostegno-dal-tfa-ai-corsi-per-triennalisti-e-abilitati-estero-tutto-quello-che-ce-da-sapere-question-time-con-cozzetto-anief-live-martedi-1-luglio-alle-1430/",
+                "date": "30 Giu 2025",
+                "time": "16:56",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/sostegno.png"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Corsi INDIRE, ecco le FAQ ufficiali: il punto su sedi, esami, didattica e non solo. QUESTION TIME con Bruni. LIVE Martedì 1 luglio alle 14:30",
+                "link": "https://www.orizzontescuola.it/corsi-indire-ecco-le-faq-ufficiali-il-punto-su-sedi-esami-didattica-e-non-solo-question-time-con-bruni-live-martedi-1-luglio-alle-1430/",
+                "date": "30 Giu 2025",
+                "time": "16:41",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/sostegno.png"
+            },
+            {
+                "category": "Dirigenti scolastici",
+                "title": "Concorso ordinario 2023 dirigenti scolastici, ecco le graduatorie [AGGIORNATO con Lombardia]",
+                "link": "https://www.orizzontescuola.it/concorso-dirigenti-scolastici-pubblicate-le-prime-graduatorie-aggiornato-con-liguria/",
+                "date": "30 Giu 2025",
+                "time": "16:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_392166814.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Il corretto uso dei DPI nella scuola: nuova definizione, obblighi, responsabilità e sanzioni. Aggiornato",
+                "link": "https://www.orizzontescuola.it/il-corretto-uso-dei-dpi-nella-scuola-nuova-definizione-obblighi-responsabilita-e-sanzioni-aggiornato/",
+                "date": "30 Giu 2025",
+                "time": "16:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2421530637.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Ferie assegnate senza avviso: quando scatta il risarcimento e cosa prevede la legge. SPECIALE con Miceli (Anief) [VIDEO]",
+                "link": "https://www.orizzontescuola.it/ferie-assegnate-senza-avviso-quando-scatta-il-risarcimento-e-cosa-prevede-la-legge-speciale-con-miceli-anief-live-lunedi-30-giugno-alle-1700/",
+                "date": "30 Giu 2025",
+                "time": "14:59",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/Template_questiontime_1920x1080-21.png"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso ordinario insegnanti di religione cattolica: prove scritte il 16 e 17 luglio. Ecco le ISTRUZIONI per i candidati e il VIDEO",
                 "link": "https://www.orizzontescuola.it/concorso-ordinario-insegnanti-di-religione-cattolica-prove-scritte-il-16-e-17-luglio-ecco-le-istruzioni-per-i-candidati-e-il-video/",
@@ -103,7 +143,12 @@
                 "date": "30 Giu 2025",
                 "time": "10:58",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/09/shutterstock_221012134.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Ecco i TRE percorsi di specializzazione sostegno 2025 per 72.000 posti. RISPOSTE AI QUESITI su requisiti e validità titolo",
@@ -136,19 +181,6 @@
                 "time": "8:59",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/01/shutterstock_1736466005.jpg"
             },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Ferie assegnate senza avviso: quando scatta il risarcimento e cosa prevede la legge. SPECIALE con Miceli (Anief). LIVE Lunedì 30 giugno alle 17:00",
-                "link": "https://www.orizzontescuola.it/ferie-assegnate-senza-avviso-quando-scatta-il-risarcimento-e-cosa-prevede-la-legge-speciale-con-miceli-anief-live-lunedi-30-giugno-alle-1700/",
-                "date": "30 Giu 2025",
-                "time": "8:57",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/Template_questiontime_1920x1080-21.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Percorsi sostegno Indire triennalisti: Graduatoria, esami in presenza in sedi comunicate venti giorni prima, titolo rilasciato. LE FAQ",
@@ -192,14 +224,6 @@
             null,
             null,
             null,
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Sostegno, dai corsi Indire al TFA: una guida per orientarsi tra i nuovi bandi. QUESTION TIME con Cannas. LIVE Lunedì 30 giugno alle 14:30",
-                "link": "https://www.orizzontescuola.it/sostegno-dai-corsi-indire-al-tfa-una-guida-per-orientarsi-tra-i-nuovi-bandi-question-time-con-cannas-live-lunedi-30-giugno-alle-1430/",
-                "date": "30 Giu 2025",
-                "time": "7:27",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/Template_questiontime_1920x1080-20.png"
-            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze e ruoli nella scuola, TUTTE le scadenze e le DOMANDE da presentare a luglio e agosto [AGGIORNATO]",
@@ -247,36 +271,84 @@
                 "date": "29 Giu 2025",
                 "time": "20:13",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/Crepet.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "L’intelligenza artificiale si prende metà del lavoro nella PA: cosa succederà a 1,8 milioni di dipendenti pubblici? Un’opportunità o la fine della settimana di 5 giorni?",
-                "link": "https://www.orizzontescuola.it/lintelligenza-artificiale-si-prende-meta-del-lavoro-nella-pa-cosa-succedera-a-18-milioni-di-dipendenti-pubblici-unopportunita-o-la-fine-della-settimana-di-5-giorni/",
-                "date": "29 Giu 2025",
-                "time": "20:09",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2265985979.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi sostegno 40 CFU: quando sono validi i servizi svolti tramite MAD. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/percorsi-sostegno-40-cfu-quando-sono-validi-i-servizi-svolti-tramite-mad-pillole-di-question-time/",
-                "date": "29 Giu 2025",
-                "time": "18:53",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_41003731.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Valditara: “Educare non è solo trasmettere conoscenze, ma formare persone capaci di affrontare la complessità del reale”",
-                "link": "https://www.orizzontescuola.it/valditara-educare-non-e-solo-trasmettere-conoscenze-ma-formare-persone-capaci-di-affrontare-la-complessita-del-reale/",
-                "date": "29 Giu 2025",
-                "time": "18:01",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/Valditara-scaled.jpeg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "PNRR, trasmessa alla Commissione europea la richiesta di pagamento dell’ottava rata pari a 12,8 miliardi di euro",
+                "link": "https://www.orizzontescuola.it/pnrr-trasmessa-alla-commissione-europea-la-richiesta-di-pagamento-dellottava-rata-pari-a-128-miliardi-di-euro/",
+                "date": "30 Giu 2025",
+                "time": "18:27",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Nuove regole per la valutazione della performance e lo sviluppo di carriera nella Pubblica Amministrazione. Via libera definitivo al Ddl da parte del governo",
+                "link": "https://www.orizzontescuola.it/nuove-regole-per-la-valutazione-della-performance-e-lo-sviluppo-di-carriera-nella-pubblica-amministrazione-via-libera-definitivo-al-ddl-da-parte-del-governo/",
+                "date": "30 Giu 2025",
+                "time": "18:04",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Tragedia nel cantiere di una scuola, muore un operaio di 48 anni: si è accasciato sotto al sole",
+                "link": "https://www.orizzontescuola.it/tragedia-nel-cantiere-di-una-scuola-muore-un-operaio-di-48-anni-si-e-accasciato-sotto-al-sole/",
+                "date": "30 Giu 2025",
+                "time": "17:54",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Danno all’immagine della PA: sussiste anche se la vicenda non è finita sui giornali. Sentenza",
+                "link": "https://www.orizzontescuola.it/danno-allimmagine-della-pa-sussiste-anche-se-la-vicenda-non-e-finita-sui-giornali-sentenza/",
+                "date": "30 Giu 2025",
+                "time": "16:52",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Meno sedentarietà, più sport, ma l’abbandono precoce dei giovani preoccupa. Il boom di app e fitness in casa trasformerà l’attività fisica? I dati Istat",
+                "link": "https://www.orizzontescuola.it/meno-sedentarieta-piu-sport-ma-labbandono-precoce-dei-giovani-preoccupa-il-boom-di-app-e-fitness-in-casa-trasformera-lattivita-fisica-i-dati-istat/",
+                "date": "30 Giu 2025",
+                "time": "16:29",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "La Gilda degli Insegnanti traccia un bilancio agrodolce sull’anno scolastico e invoca maggiori investimenti nella cultura per prevenire i conflitti",
+                "link": "https://www.orizzontescuola.it/la-gilda-degli-insegnanti-traccia-un-bilancio-agrodolce-sullanno-scolastico-e-invoca-maggiori-investimenti-nella-cultura-per-prevenire-i-conflitti/",
+                "date": "30 Giu 2025",
+                "time": "16:26",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Fracassi (Flc Cgil) alza la voce: “Basta attacchi ideologici, Valditara si occupi dei veri problemi della scuola”",
+                "link": "https://www.orizzontescuola.it/fracassi-flc-cgil-alza-la-voce-basta-attacchi-ideologici-valditara-si-occupi-dei-veri-problemi-della-scuola/",
+                "date": "30 Giu 2025",
+                "time": "16:23",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "A 58 anni si diploma dove lavora come bidella: “Sono arrivata a Padova con 100 euro, ora voglio diventare psicologa”",
+                "link": "https://www.orizzontescuola.it/a-58-anni-si-diploma-dove-lavora-come-bidella-sono-arrivata-a-padova-con-100-euro-ora-voglio-diventare-psicologa/",
+                "date": "30 Giu 2025",
+                "time": "15:32",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Maturità 2025: orale si trasforma in un “reel” social. Immagini, follower e domande a sorpresa: Tutti i dettagli dell’esame più “connesso”",
+                "link": "https://www.orizzontescuola.it/maturita-2025-orale-si-trasforma-in-un-reel-social-immagini-follower-e-domande-a-sorpresa-tutti-i-dettagli-dellesame-piu-connesso/",
+                "date": "30 Giu 2025",
+                "time": "15:27",
+                "image_link": "N/A"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Immissioni in ruolo docenti 2025, i posti disponibili per provincia [IN AGGIORNAMENTO]",
@@ -347,78 +419,6 @@
                 "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr1-graduatorie-pubblicate-dopo-il-31-dicembre-2024-per-assunzioni-docenti-nel-2025-26/",
                 "date": "30 Giu 2025",
                 "time": "11:22",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Dirigenti scolastici",
-                "title": "Mobilità interregionale 2025/26 Dirigenti Scolastici: posti disponibili [IN AGGIORNAMENTO]",
-                "link": "https://www.orizzontescuola.it/mobilita-interregionale-2025-26-dirigenti-scolastici-posti-disponibili-in-aggiornamento/",
-                "date": "30 Giu 2025",
-                "time": "11:11",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Assegno di inclusione: da luglio domande di rinnovo. Messaggio Inps",
-                "link": "https://www.orizzontescuola.it/assegno-di-inclusione-da-luglio-domande-di-rinnovo/",
-                "date": "30 Giu 2025",
-                "time": "11:03",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Dirigenti scolastici",
-                "title": "Mobilità dirigenti scolastici, domande entro il 1° luglio. ANP chiede posticipo termine",
-                "link": "https://www.orizzontescuola.it/mogbilita-dirigenti-scolastici-domande-entro-il-1-luglio-anp-chiede-posticipo-termine/",
-                "date": "30 Giu 2025",
-                "time": "10:44",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Crepet: “Il matrimonio di Bezos è stato un inutile sfoggio di soldi e visibilità, esempio pessimo per i giovani”",
-                "link": "https://www.orizzontescuola.it/paolo-crepet-il-matrimonio-di-bezos-e-stato-uno-sfoggio-di-soldi-e-visibilita-esempio-pessimo-per-i-giovani/",
-                "date": "30 Giu 2025",
-                "time": "10:15",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Sostegno, l’anno della svolta per la specializzazione degli insegnanti: ora l’adeguamento degli organici per garantire con i ruoli la continuità didattica e il diritto allo studio. Continua la battaglia di Anief",
-                "link": "https://www.orizzontescuola.it/sostegno-lanno-della-svolta-per-la-specializzazione-degli-insegnanti-ora-ladeguamento-degli-organici-per-garantire-con-i-ruoli-la-continuita-didattica-e-il-diritto-allo-studio-continua-la-batta/",
-                "date": "29 Giu 2025",
-                "time": "20:52",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso scuola PNRR1, elenco candidati idonei fino al 30% dei posti  [AGGIORNATO con Lombardia]",
-                "link": "https://www.orizzontescuola.it/concorso-scuola-pnrr1-pubblicata-integrazione-graduatoria-fino-al-30-dei-posti-a064-sicilia/",
-                "date": "29 Giu 2025",
-                "time": "20:27",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Nuove droghe tra i giovani: catinoni, oppioidi e cannabis sintetica si nascondono in svapo, caramelle e cioccolata. L’Iss lancia allarme: “Sostanze più appetibili e rischi sottovalutati”",
-                "link": "https://www.orizzontescuola.it/nuove-droghe-tra-i-giovani-catinoni-oppioidi-e-cannabis-sintetica-si-nascondono-in-svapo-caramelle-e-cioccolata-liss-lancia-lallarme-sostanze-piu-appetibili-rischi-sottovalut/",
-                "date": "29 Giu 2025",
-                "time": "19:19",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Studenti",
-                "title": "Medicina senza test d’ingresso: al via il semestre aperto che rivoluziona l’università, ma uno studio boccia la riforma del governo e avverte sul rischio di candidati meno preparati e motivati",
-                "link": "https://www.orizzontescuola.it/medicina-senza-test-dingresso-al-via-il-semestre-aperto-che-rivoluziona-luniversita-ma-uno-studio-boccia-la-riforma-di-bernini-e-avverte-sul-rischio-di-candidati-meno-preparati-e-motivati/",
-                "date": "29 Giu 2025",
-                "time": "18:36",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "INPS lancia le videochiamate in via sperimentale, dal 1° luglio 20 minuti con funzionari specializzati per pratiche, niente code agli sportelli, ma solo un click da casa con smartphone, tablet o PC",
-                "link": "https://www.orizzontescuola.it/inps-lancia-le-videochiamate-in-via-sperimentale-dal-1-luglio-20-minuti-con-funzionari-specializzati-per-pensioni-e-pratiche-niente-code-agli-sportelli-ma-solo-un-click-da-casa-con-smartphone/",
-                "date": "29 Giu 2025",
-                "time": "17:17",
                 "image_link": "N/A"
             }
         ]
