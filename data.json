@@ -2,20 +2,28 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
+            null,
             {
                 "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti: nel 2023/24 calano di 2.104 unità (0,9%), il sostegno rappresenta il 59% del totale con un + 16% al 30 giugno in due anni. I DATI",
-                "link": "https://www.orizzontescuola.it/supplenze-calano-di-2-104-unita-09-rispetto-allanno-precedente-il-sostegno-rappresenta-il-59-del-totale-con-un-16-al-30-giugno-in-due-anni-i-dati/",
-                "date": "30 Giu 2025",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/Supplenze.png"
-            },
-            null
+                "title": "Percorsi sostegno INDIRE abilitati estero per 6.000 posti, domanda entro 8 luglio ore 17.  Da 916 a 1.516 euro i costi. AVVISO e Video guida",
+                "link": "https://www.orizzontescuola.it/percorsi-sostegno-indire-abilitati-estero-domanda-entro-8-luglio-ore-17-costo-1-516-euro-48-o-36-cfu-avviso/",
+                "date": "25 Giu 2025",
+                "time": "18:07",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_2011911242.jpg"
+            }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Scuole",
+                "title": "Scade a luglio domanda assegnazione provvisoria. Partono le  immissioni in ruolo, piano ferie docenti a tempo indeterminato e 31 agosto",
+                "link": "https://www.orizzontescuola.it/scade-a-luglio-domanda-assegnazione-provvisoria-partono-le-immissioni-in-ruolo-piano-ferie-docenti-a-tempo-indeterminato-e-31-agosto/",
+                "date": "1 Lug 2025",
+                "time": "5:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/luglio.png"
+            },
             {
                 "category": "Dirigenti scolastici",
                 "title": "Mobilità dirigenti scolastici: proroga domande al 3 luglio. NOTA e Decreto FASCE di complessità",
@@ -135,7 +143,12 @@
                 "date": "30 Giu 2025",
                 "time": "11:47",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/02/shutterstock_107801354-1200x800.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "I corsi di inglese per i figli sono spese ordinarie. il genitore separato deve rimborsarli anche senza accordo preventivo con l’ex coniuge. SENTENZA Corte di Cassazione",
@@ -143,12 +156,7 @@
                 "date": "30 Giu 2025",
                 "time": "11:42",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/03/giustizia.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Docenti vincitori concorso PNRR1: come comunicare agli Uffici Scolastici il conseguimento dell’abilitazione [ISTRUZIONI OPERATIVE]",
@@ -230,6 +238,14 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/sculpture-7391001_1280.jpg"
             },
             {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti: nel 2023/24 calano di 2.104 unità (0,9%), il sostegno rappresenta il 59% del totale con un + 16% al 30 giugno in due anni. I DATI",
+                "link": "https://www.orizzontescuola.it/supplenze-calano-di-2-104-unita-09-rispetto-allanno-precedente-il-sostegno-rappresenta-il-59-del-totale-con-un-16-al-30-giugno-in-due-anni-i-dati/",
+                "date": "30 Giu 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/Supplenze.png"
+            },
+            {
                 "category": "Scuole",
                 "title": "Piano Estate, adempimenti e modulistica per avviare il progetto",
                 "link": "https://www.orizzontescuola.it/piano-estate-adempimenti-e-modulistica-per-avviare-il-progetto/",
@@ -255,22 +271,6 @@
                 "date": "30 Giu 2025",
                 "time": "7:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_130754711.jpg"
-            },
-            {
-                "category": "Stipendio",
-                "title": "Stipendio docenti e ATA luglio 2025: come individuare il bonus fiscale",
-                "link": "https://www.orizzontescuola.it/stipendio-docenti-e-ata-luglio-2025-come-individuare-il-bonus-fiscale/",
-                "date": "29 Giu 2025",
-                "time": "21:39",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/07/shutterstock_1029138001.jpg"
-            },
-            {
-                "category": "Genitori",
-                "title": "Social e non solo: dalle denunce dei genitori in Francia contro TikTok alle strategie per difendere i ragazzi da disturbi alimentari, dipendenza digitale e manipolazione politica",
-                "link": "https://www.orizzontescuola.it/social-adolescenti-e-rischi-invisibili-dalle-denunce-dei-genitori-in-francia-contro-tiktok-alle-strategie-per-difendere-i-ragazzi-da-disturbi-alimentari-dipendenza-digitale-fake-news-e-manipolazio/",
-                "date": "29 Giu 2025",
-                "time": "21:01",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2431380597.jpg"
             }
         ]
     },
