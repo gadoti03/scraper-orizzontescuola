@@ -2,20 +2,36 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
+            null,
             {
                 "category": "Diventare Insegnanti",
-                "title": "62mila docenti precari hanno un’età compresa tra i 45 e i 54 anni. Tutti i dati per fascia d’età e confronto con i docenti di ruolo",
-                "link": "https://www.orizzontescuola.it/62mila-docenti-precari-hanno-uneta-compresa-tra-i-45-e-i-54-anni-tutti-i-dati-per-fascia-deta-e-confronto-con-i-docenti-di-ruolo/",
-                "date": "2 Lug 2025",
-                "time": "7:59",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/62mila-docenti-precari-hanno-uneta-compresa-tra-i-45-e-i-54-anni.png"
-            },
-            null
+                "title": "Percorsi sostegno INDIRE abilitati estero per 6.000 posti, domanda entro 8 luglio ore 17.  Da 916 a 1.516 euro i costi. AVVISO e Video guida",
+                "link": "https://www.orizzontescuola.it/percorsi-sostegno-indire-abilitati-estero-domanda-entro-8-luglio-ore-17-costo-1-516-euro-48-o-36-cfu-avviso/",
+                "date": "25 Giu 2025",
+                "time": "18:07",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_2011911242.jpg"
+            }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Graduatorie GPS, scade oggi 3 luglio scioglimento riserva per elenco aggiuntivo prima fascia valido per supplenze ed eventuale ruolo sostegno 2025/26",
+                "link": "https://www.orizzontescuola.it/graduatorie-gps-scade-oggi-3-luglio-scioglimento-riserva-per-elenco-aggiuntivo-prima-fascia-valido-per-supplenze-ed-eventuale-ruolo-sostegno-2025-26/",
+                "date": "3 Lug 2025",
+                "time": "6:31",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_177301802.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Docenti vincitori concorso PNRR1: come comunicare agli Uffici Scolastici il conseguimento dell’abilitazione [ISTRUZIONI OPERATIVE]",
+                "link": "https://www.orizzontescuola.it/docenti-vincitori-concorso-pnrr1-come-comunicare-agli-uffici-scolastici-il-conseguimento-dellabilitazione-istruzioni-operative/",
+                "date": "3 Lug 2025",
+                "time": "5:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1197053242.jpg"
+            },
             {
                 "category": "Cronaca",
                 "title": "Il 4+2 diventerà 4+2+1, di cosa si tratta: ipotesi al vaglio. Le parole del Ministro",
@@ -50,7 +66,7 @@
             },
             {
                 "category": "Politica scolastica",
-                "title": "Conferma del docente di sostegno, anche il Consiglio di Stato respinge il ricorso dei sindacati. SENTENZA",
+                "title": "Conferma del docente di sostegno, anche il Consiglio di Stato respinge il ricorso dei sindacati. ORDINANZA",
                 "link": "https://www.orizzontescuola.it/conferma-del-docente-di-sostegno-anche-il-consiglio-di-stato-respinge-il-ricorso-dei-sindacati/",
                 "date": "2 Lug 2025",
                 "time": "18:50",
@@ -127,7 +143,12 @@
                 "date": "2 Lug 2025",
                 "time": "10:58",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1082472179-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Corsi sostegno INDIRE 2025, ecco le FAQ ufficiali: il punto su sedi, esami, corsi a luglio e agosto. RISPOSTE",
@@ -143,12 +164,7 @@
                 "date": "2 Lug 2025",
                 "time": "9:47",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/Screenshot-2025-07-02-093514.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Immissioni in ruolo docenti 2025, quanti sono i posti? Sono già distribuiti per classe di concorso e provincia? Assumeranno anche gli idonei? CHIARIMENTI",
@@ -181,6 +197,14 @@
                 "date": "2 Lug 2025",
                 "time": "8:15",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "62mila docenti precari hanno un’età compresa tra i 45 e i 54 anni. Tutti i dati per fascia d’età e confronto con i docenti di ruolo",
+                "link": "https://www.orizzontescuola.it/62mila-docenti-precari-hanno-uneta-compresa-tra-i-45-e-i-54-anni-tutti-i-dati-per-fascia-deta-e-confronto-con-i-docenti-di-ruolo/",
+                "date": "2 Lug 2025",
+                "time": "7:59",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/62mila-docenti-precari-hanno-uneta-compresa-tra-i-45-e-i-54-anni.png"
             },
             {
                 "category": "Scuole",
@@ -254,36 +278,20 @@
                 "date": "1 Lug 2025",
                 "time": "16:36",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_275152664.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Maturità 2025: dove vedere il voto finale. Quando si ottiene la lode",
-                "link": "https://www.orizzontescuola.it/maturita-2025-dove-vedere-il-voto-finale/",
-                "date": "1 Lug 2025",
-                "time": "15:21",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_668259205.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Maturità, adempimenti segreterie: dal 1° luglio comunicazione degli esiti degli esami",
-                "link": "https://www.orizzontescuola.it/maturita-adempimenti-segreterie-dal-1-luglio-comunicazione-degli-esiti-degli-esami/",
-                "date": "1 Lug 2025",
-                "time": "14:23",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1936676008-scaled.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Prove giudizio sospeso studenti secondaria II grado entro il 31 agosto: docenti non possono chiedere ferie nel periodo indicato",
-                "link": "https://www.orizzontescuola.it/prove-giudizio-sospeso-studenti-secondaria-ii-grado-entro-il-31-agosto-docenti-non-possono-chiedere-ferie-nel-periodo-indicato/",
-                "date": "1 Lug 2025",
-                "time": "14:12",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2493334753-scaled.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso ed. motoria scuola primaria: elenco degli idonei per assunzioni in ruolo dall’anno scolastico 2025/26",
+                "link": "https://www.orizzontescuola.it/concorso-ed-motoria-scuola-primaria-ecco-le-prime-graduatorie-devono-essere-pubblicate-entro-30-giugno-per-sciogliere-riserva-gps-prima-fascia/",
+                "date": "3 Lug 2025",
+                "time": "6:21",
+                "image_link": "N/A"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Valditara: “Amo profondamente il Mezzogiorno. Gente autentica, con giovani che hanno grande fame di futuro”",
@@ -412,14 +420,6 @@
                 "date": "2 Lug 2025",
                 "time": "12:00",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Evita la sospensione da scuola, ma “condannato” a distribuire pasti ai senza dimora",
-                "link": "https://www.orizzontescuola.it/evita-la-sospensione-da-scuola-ma-condannato-a-distribuire-pasti-ai-senza-dimora/",
-                "date": "2 Lug 2025",
-                "time": "11:46",
-                "image_link": "N/A"
             }
         ]
     },
@@ -545,6 +545,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Concorso ordinario insegnanti di religione cattolica: prove scritte il 16 e 17 luglio. Ecco le ISTRUZIONI per i candidati e il VIDEO",
+                "link": "https://www.orizzontescuola.it/concorso-ordinario-insegnanti-di-religione-cattolica-prove-scritte-il-16-e-17-luglio-ecco-le-istruzioni-per-i-candidati-e-il-video/",
+                "date": "30 Giu 2025",
+                "time": "14:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_765925483-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "TFA sostegno X ciclo, previsto un contributo di iscrizione fino a 200 euro per ogni grado richiesto. Non rimborsabile",
                 "link": "https://www.orizzontescuola.it/tfa-sostegno-x-ciclo-previsto-un-contributo-di-iscrizione-fino-a-200-euro-per-ogni-grado-richiesto-non-rimborsabile/",
                 "date": "30 Giu 2025",
@@ -582,14 +590,6 @@
                 "date": "30 Giu 2025",
                 "time": "8:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_720793996.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti: nel 2023/24 calano di 2.104 unità (0,9%), il sostegno rappresenta il 59% del totale con un + 16% al 30 giugno in due anni. I DATI",
-                "link": "https://www.orizzontescuola.it/supplenze-calano-di-2-104-unita-09-rispetto-allanno-precedente-il-sostegno-rappresenta-il-59-del-totale-con-un-16-al-30-giugno-in-due-anni-i-dati/",
-                "date": "30 Giu 2025",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/Supplenze.png"
             }
         ]
     },
