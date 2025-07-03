@@ -2,20 +2,103 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
-            null,
             {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi sostegno INDIRE abilitati estero per 6.000 posti, domanda entro 8 luglio ore 17.  Da 916 a 1.516 euro i costi. AVVISO e Video guida",
-                "link": "https://www.orizzontescuola.it/percorsi-sostegno-indire-abilitati-estero-domanda-entro-8-luglio-ore-17-costo-1-516-euro-48-o-36-cfu-avviso/",
-                "date": "25 Giu 2025",
-                "time": "18:07",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_2011911242.jpg"
-            }
+                "category": "Cronaca",
+                "title": "Diana Tiurina, dalla Lituania all’Italia: autrice del libro “Nonostante me”, due lauree, due concorsi vinti e la sua voglia di insegnante. INTERVISTA",
+                "link": "https://www.orizzontescuola.it/diana-tiurina-dalla-lituania-allitalia-autrice-del-libro-nonostante-me-due-lauree-due-concorsi-vinti-e-la-sua-voglia-di-insegnante-intervista/",
+                "date": "3 Lug 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/Progetto-senza-titolo.png"
+            },
+            null
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Docente di sostegno che ha superato il vincolo quinquennale: quale domanda per spostarsi su materia?",
+                "link": "https://www.orizzontescuola.it/docente-di-sostegno-che-ha-superato-il-vincolo-quinquennale-quale-domanda-per-spostarsi-su-materia/",
+                "date": "3 Lug 2025",
+                "time": "9:57",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_1099339292.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Papa Francesco e il ruolo della letteratura, Pavese, Alda Merini, adolescenti e tecnologie: le tracce della suppletiva della maturità",
+                "link": "https://www.orizzontescuola.it/papa-francesco-e-il-ruolo-della-letteratura-pavese-alda-merini-adolescenti-e-tecnologie-le-tracce-della-suppletiva-della-maturita/",
+                "date": "3 Lug 2025",
+                "time": "9:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/02/shutterstock_1539319715.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Stipendio docenti e ATA luglio 2025, importo visibile nell’area riservata di NoiPA. Bonus fiscale e indennità di vacanza contrattuale all’1%",
+                "link": "https://www.orizzontescuola.it/stipendio-docenti-e-ata-luglio-2025-importo-visibile-nellarea-riservata-di-noipa-bonus-fiscale-e-indennita-di-vacanza-contrattuale-all1/",
+                "date": "3 Lug 2025",
+                "time": "9:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_95097202.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "TFA sostegno X ciclo, quasi tutte le Università hanno pubblicato i BANDI. Ecco le scadenze [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/tfa-sostegno-x-ciclo-le-pagine-delle-universita/",
+                "date": "3 Lug 2025",
+                "time": "8:53",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/02/shutterstock_107801354-1200x800.jpg"
+            },
+            {
+                "category": "Plus",
+                "title": "La Newsletter PLUS: ore 8 del mattino nella tua e-mail. Lo strumento di lavoro per chi “Gestisce la scuola”",
+                "link": "https://www.orizzontescuola.it/la-newsletter-plus-ore-8-del-mattino-nella-tua-e-mail-lo-strumento-di-lavoro-per-chi-gestisce-la-scuola/",
+                "date": "3 Lug 2025",
+                "time": "8:36",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/Newsletter-1.png"
+            },
+            {
+                "category": "ATA",
+                "title": "Graduatorie ATA 24 mesi, allegato G scade l’11 luglio: perché è importante e a cosa serve. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-allegato-g-scade-l11-luglio-perche-e-importante-e-a-cosa-serve-risposte-ai-quesiti/",
+                "date": "3 Lug 2025",
+                "time": "8:33",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2456756593.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Bandi TFA sostegno e Corsi INDIRE, nuove opportunità per i docenti: una guida per orientarsi. QUESTION TIME con Bufanini. LIVE Giovedì 3 luglio alle 14:30",
+                "link": "https://www.orizzontescuola.it/bandi-tfa-sostegno-e-corsi-indire-nuove-opportunita-per-i-docenti-una-guida-per-orientarsi-question-time-con-bufanini-live-giovedi-3-luglio-alle-1430/",
+                "date": "3 Lug 2025",
+                "time": "8:12",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/Template_questiontime_1920x1080-4.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“Lo Statuto Robertino”, gli “Ossi di calamari” e i Malavoglia che vendevano “lumini”. Ancora strafalcioni agli esami di Maturità",
+                "link": "https://www.orizzontescuola.it/lo-statuto-robertino-gli-ossi-di-calamari-e-i-malavoglia-che-vendevano-lumini-ancora-strafalcioni-agli-esami-di-maturita/",
+                "date": "3 Lug 2025",
+                "time": "8:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/shutterstock_1046565655.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Accesso agli atti, la guida normativa con modelli per la richiesta di accesso e un esempio di regolamento",
+                "link": "https://www.orizzontescuola.it/accesso-agli-atti-la-guida-normativa-con-modelli-per-la-richiesta-di-accesso-e-un-esempio-di-regolamento/",
+                "date": "3 Lug 2025",
+                "time": "7:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/shutterstock_2074436143.jpg"
+            },
+            null,
+            null,
+            null,
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso infanzia e primaria PNRR2, ecco le graduatorie per le assunzioni 2025/26 [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/concorso-infanzia-e-primaria-pnrr2-ci-sono-gia-le-prime-graduatorie-in-aggiornamento/",
+                "date": "3 Lug 2025",
+                "time": "6:34",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2090710285.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Graduatorie GPS, scade oggi 3 luglio scioglimento riserva per elenco aggiuntivo prima fascia valido per supplenze ed eventuale ruolo sostegno 2025/26",
@@ -39,7 +122,12 @@
                 "date": "2 Lug 2025",
                 "time": "22:40",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2291776435.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Percorsi abilitanti 60 e 30 CFU 2024/25, altri 1.477 posti presso l’Università per Stranieri di Reggio Calabria. Ecco per quali classi di concorso. DECRETO",
@@ -47,14 +135,6 @@
                 "date": "2 Lug 2025",
                 "time": "22:34",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_59277838.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Bandi TFA sostegno e Corsi INDIRE, nuove opportunità per i docenti: una guida per orientarsi. QUESTION TIME con Bufanini. LIVE Giovedì 3 luglio alle 14:30",
-                "link": "https://www.orizzontescuola.it/bandi-tfa-sostegno-e-corsi-indire-nuove-opportunita-per-i-docenti-una-guida-per-orientarsi-question-time-con-bufanini-live-giovedi-3-luglio-alle-1430/",
-                "date": "2 Lug 2025",
-                "time": "19:12",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/Template_questiontime_1920x1080-4.png"
             },
             {
                 "category": "Chiedilo a Lalla",
@@ -143,12 +223,7 @@
                 "date": "2 Lug 2025",
                 "time": "10:58",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1082472179-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Corsi sostegno INDIRE 2025, ecco le FAQ ufficiali: il punto su sedi, esami, corsi a luglio e agosto. RISPOSTE",
@@ -189,101 +264,44 @@
                 "date": "2 Lug 2025",
                 "time": "8:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/05/shutterstock_1848067771.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Ambienti innovativi, arredi ergonomici, tecnologie: niente può educare più di un docente consapevole",
-                "link": "https://www.orizzontescuola.it/ambienti-innovativi-arredi-ergonomici-tecnologie-niente-puo-educare-piu-di-un-docente-consapevole/",
-                "date": "2 Lug 2025",
-                "time": "8:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "62mila docenti precari hanno un’età compresa tra i 45 e i 54 anni. Tutti i dati per fascia d’età e confronto con i docenti di ruolo",
-                "link": "https://www.orizzontescuola.it/62mila-docenti-precari-hanno-uneta-compresa-tra-i-45-e-i-54-anni-tutti-i-dati-per-fascia-deta-e-confronto-con-i-docenti-di-ruolo/",
-                "date": "2 Lug 2025",
-                "time": "7:59",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/62mila-docenti-precari-hanno-uneta-compresa-tra-i-45-e-i-54-anni.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "Patto Educativo di corresponsabilità, un modello per gli Istituti Comprensivi e un modelle per le Secondarie di II grado",
-                "link": "https://www.orizzontescuola.it/patto-educativo-di-corresponsabilita-un-modello-per-gli-istituti-comprensivi-e-un-modelle-per-le-secondarie-di-ii-grado/",
-                "date": "2 Lug 2025",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_1107172328.jpg"
-            },
-            null,
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Corsi sostegno tre anni di servizio e specializzati estero: i BANDI delle Università [AGGIORNATO con Bologna e Saint Camillus University]",
-                "link": "https://www.orizzontescuola.it/corsi-specializzazione-sostegno-tre-anni-di-servizio-indire-universita-le-pagine-da-controllare-i-bandi-in-attivazione-i-posti-disponibili/",
-                "date": "2 Lug 2025",
-                "time": "6:57",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2420206409.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "TFA sostegno X ciclo, i BANDI delle Università [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/tfa-sostegno-x-ciclo-le-pagine-delle-universita/",
-                "date": "2 Lug 2025",
-                "time": "6:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/02/shutterstock_107801354-1200x800.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Bullismo e cyberbullismo, in Gazzetta Ufficiale il decreto legislativo: dal rafforzamento del servizio “Emergenza infanzia 114” alle campagne informative nelle scuole. TESTO",
-                "link": "https://www.orizzontescuola.it/bullismo-e-cyberbullismo-in-gazzetta-ufficiale-il-decreto-legislativo-dal-rafforzamento-del-servizio-emergenza-infanzia-114-alle-campagne-informative-nelle-scuole-testo/",
-                "date": "1 Lug 2025",
-                "time": "20:17",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/03/bbb.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Stimolare con lievi correnti elettriche il cervello migliora la comprensione della matematica. Lo studio",
-                "link": "https://www.orizzontescuola.it/stimolare-con-lievi-correnti-elettriche-al-cervello-migliora-la-comprensione-della-matematica-lo-studio/",
-                "date": "1 Lug 2025",
-                "time": "20:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/03/shutterstock_1348126703.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Graduatoria asilo nido, insegnanti a tempo pieno sono “part-time”. Respinto il ricorso al TAR. I docenti: “Come possiamo provare quante ore lavoriamo davvero?” SENTENZA",
-                "link": "https://www.orizzontescuola.it/graduatoria-asilo-nido-insegnanti-a-tempo-pieno-sono-part-time-per-lasilo-nido-respinto-il-ricorso-al-tar-i-docenti-come-possiamo-provare-quante-ore-lavoriamo-davvero-sentenza/",
-                "date": "1 Lug 2025",
-                "time": "19:09",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_675123196.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR2 scuola secondaria, ecco le graduatorie dei vincitori + elenco 30% idonei [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr2-scuola-secondaria-ecco-la-prima-graduatoria/",
-                "date": "1 Lug 2025",
-                "time": "17:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/05/shutterstock_199611962.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Caldo asfissiante negli uffici pubblici, Naddeo (Aran): “‘Basta ventilatori, servono smart working e settimana corta per salvare produttività e benessere dei dipendenti”",
-                "link": "https://www.orizzontescuola.it/caldo-asfissiante-negli-uffici-pubblici-naddeo-aran-basta-ventilatori-servono-smart-working-e-settimana-corta-per-salvare-produttivita-e-benessere-dei-dipendenti/",
-                "date": "1 Lug 2025",
-                "time": "17:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-18-at-17.26.00-1.jpeg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Sostegno 2025, TFA X ciclo, triennalisti e  specializzati estero: una guida per orientarsi tra i nuovi bandi. RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/sostegno-2025-tfa-x-ciclo-triennalisti-e-specializzati-estero-una-guida-per-orientarsi-tra-i-nuovi-bandi-risposte-ai-quesiti/",
-                "date": "1 Lug 2025",
-                "time": "16:36",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_275152664.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Dodicenne muore per soffocamento dopo una sfida sui social. Cos’è la “blackout challenge”, nota anche come “choking game” o “sfida dello svenimento”",
+                "link": "https://www.orizzontescuola.it/dodicenne-muore-per-soffocamento-dopo-una-sfida-sui-social-cose-la-blackout-challenge-nota-anche-come-choking-game-o-sfida-dello-svenimento/",
+                "date": "3 Lug 2025",
+                "time": "8:40",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Commenti sessisti in una chat, diploma rimandato di un anno per punizione",
+                "link": "https://www.orizzontescuola.it/commenti-sessisti-in-una-chat-diploma-rimandato-di-un-anno-per-punizione/",
+                "date": "3 Lug 2025",
+                "time": "8:20",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso infanzia e primaria PNRR1, rettifica Abruzzo EEEE [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/concorso-pnrr-2023-infanzia-e-primaria-ecco-le-prime-graduatorie-quanto-incide-riserva-del-30-per-precari-con-3-anni-di-servizio/",
+                "date": "3 Lug 2025",
+                "time": "6:51",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso secondaria PNRR1, le graduatorie per le assunzioni da settembre 2025 [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr1-graduatorie-pubblicate-dopo-il-31-dicembre-2024-per-assunzioni-docenti-nel-2025-26/",
+                "date": "3 Lug 2025",
+                "time": "6:39",
+                "image_link": "N/A"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso ed. motoria scuola primaria: elenco degli idonei per assunzioni in ruolo dall’anno scolastico 2025/26",
@@ -387,38 +405,6 @@
                 "link": "https://www.orizzontescuola.it/attivita-teatrali-a-scuola-fondazione-toscana-spettacolo-condivide-pienamente-la-proposta-di-legge-regionale/",
                 "date": "2 Lug 2025",
                 "time": "13:23",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Inflazione alle stelle, il CNDDU chiede al Ministro Valditara misure urgenti: “Indennità compensative graduate sulla distanza e co-housing educativo per chi insegna lontano da casa”",
-                "link": "https://www.orizzontescuola.it/inflazione-alle-stelle-il-cnddu-chiede-al-ministro-valditara-misure-urgenti-indennita-compensative-graduate-sulla-distanza-e-co-housing-educativo-per-chi-insegna-lontano-da-casa/",
-                "date": "2 Lug 2025",
-                "time": "12:52",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Scuola senza voti e senza ansia, al via una nuova sperimentazione: “Così la scuola è più seria, non più facile”",
-                "link": "https://www.orizzontescuola.it/scuola-senza-voti-e-senza-ansia-al-via-una-nuova-sperimentazione-cosi-la-scuola-e-piu-seria-non-piu-facile/",
-                "date": "2 Lug 2025",
-                "time": "12:39",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Paolo” Picasso, ancora D’Annunzio “estetista” e Hitler premio Nobel per la pace: gli strafalcioni della Maturità 2025 (anche dei prof)",
-                "link": "https://www.orizzontescuola.it/paolo-picasso-ancora-dannunzio-estetista-e-hitler-premio-nobel-per-la-pace-gli-strafalcioni-della-maturita-2025-anche-dei-prof/",
-                "date": "2 Lug 2025",
-                "time": "12:13",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Con i Maturandi 2025. Le parole, il coraggio, la memoria”: il talk show di UCIIM Lombardia il 23 luglio",
-                "link": "https://www.orizzontescuola.it/con-i-maturandi-2025-le-parole-il-coraggio-la-memoria-il-talk-show-di-uciim-lombardia-il-23-luglio/",
-                "date": "2 Lug 2025",
-                "time": "12:00",
                 "image_link": "N/A"
             }
         ]
@@ -545,6 +531,22 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "NASpI 2025 per i precari della scuola: tutte le regole aggiornate per ottenere l’indennità di disoccupazione",
+                "link": "https://www.orizzontescuola.it/naspi-2025-per-i-precari-della-scuola-tutte-le-regole-aggiornate-per-ottenere-lindennita-di-disoccupazione/",
+                "date": "1 Lug 2025",
+                "time": "8:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/Template_questiontime_1920x1080-22.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze: in un anno in Lombardia 45mila, Lazio 31 e Campania 21. Tutta la geografia italiana delle nomine tra posto normale e sostegno",
+                "link": "https://www.orizzontescuola.it/supplenze-in-un-anno-in-lombardia-45mila-lazio-31-e-campania-21-tutta-la-geografia-italiana-delle-nomine-tra-posto-normale-e-sostegno/",
+                "date": "1 Lug 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/Supplenze_regione.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Concorso ordinario insegnanti di religione cattolica: prove scritte il 16 e 17 luglio. Ecco le ISTRUZIONI per i candidati e il VIDEO",
                 "link": "https://www.orizzontescuola.it/concorso-ordinario-insegnanti-di-religione-cattolica-prove-scritte-il-16-e-17-luglio-ecco-le-istruzioni-per-i-candidati-e-il-video/",
                 "date": "30 Giu 2025",
@@ -574,22 +576,6 @@
                 "date": "30 Giu 2025",
                 "time": "9:24",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/03/shutterstock_144343453.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "TFA sostegno X ciclo, ecco chi è ammesso in sovrannumero senza dover sostenere (di nuovo) le prove",
-                "link": "https://www.orizzontescuola.it/tfa-sostegno-x-ciclo-ecco-chi-e-ammesso-in-sovrannumero-senza-dover-sostenere-di-nuovo-le-prove/",
-                "date": "30 Giu 2025",
-                "time": "9:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_302086268.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi sostegno Indire triennalisti: Graduatoria, esami in presenza in sedi comunicate venti giorni prima, titolo rilasciato. LE FAQ",
-                "link": "https://www.orizzontescuola.it/percorsi-sostegno-indire-triennalisti-graduatoria-esami-in-presenza-in-sedi-comunicate-venti-giorni-prima-titolo-rilasciato-le-faq/",
-                "date": "30 Giu 2025",
-                "time": "8:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_720793996.jpg"
             }
         ]
     },
