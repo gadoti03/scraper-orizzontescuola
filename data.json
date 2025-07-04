@@ -2,6 +2,7 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
+            null,
             {
                 "category": "Cronaca",
                 "title": "Carta del docente anche ai supplenti brevi: la Corte di Giustizia UE boccia l’esclusione automatica. Scarica sentenza",
@@ -9,13 +10,52 @@
                 "date": "4 Lug 2025",
                 "time": "6:13",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/Anche-ai-supplenti-brevi.png"
-            },
-            null
+            }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Settimana corta a scuola, benefici ridotti. Una ricerca internazionale smonta il mito e apre il dibattito: cosa succede quando la scuola chiude il venerdì?",
+                "link": "https://www.orizzontescuola.it/settimana-corta-a-scuola-benefici-ridotti-una-ricerca-internazionale-smonta-il-mito-e-apre-il-dibattito-cosa-succede-quando-la-scuola-chiude-il-venerdi/",
+                "date": "4 Lug 2025",
+                "time": "21:51",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/shutterstock_2384798953.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Docenti vincitori concorso PNRR1: come comunicare agli Uffici Scolastici il conseguimento dell’abilitazione [ISTRUZIONI OPERATIVE]",
+                "link": "https://www.orizzontescuola.it/docenti-vincitori-concorso-pnrr1-come-comunicare-agli-uffici-scolastici-il-conseguimento-dellabilitazione-istruzioni-operative/",
+                "date": "4 Lug 2025",
+                "time": "21:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1197053242.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Mamme lavoratrici: da dicembre 2025, 480 euro in un’unica soluzione. Ecco chi ha diritto al contributo e come richiederlo all’INPS",
+                "link": "https://www.orizzontescuola.it/mamme-lavoratrici-da-dicembre-2025-480-euro-in-ununica-soluzione-ecco-chi-ha-diritto-al-contributo-e-come-richiederlo-allinps/",
+                "date": "4 Lug 2025",
+                "time": "19:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/01/madre.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "TFA sostegno X ciclo, punteggio test preselettivo non vale per la graduatoria. Quando non si svolge",
+                "link": "https://www.orizzontescuola.it/tfa-sostegno-x-ciclo-punteggio-test-preselettivo-non-vale-per-la-graduatoria-quando-non-si-svolge/",
+                "date": "4 Lug 2025",
+                "time": "19:23",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_594891590.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Assegnazioni provvisorie docenti 25/26: preferenza sintetica comune ricongiungimento è obbligatoria? E in caso di deroga?",
+                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-docenti-25-26-preferenza-sintetica-comune-ricongiungimento-e-obbligatoria-e-in-caso-di-deroga/",
+                "date": "4 Lug 2025",
+                "time": "18:57",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/10/london-1128803_1280-1200x780.jpg"
+            },
             {
                 "category": "Cronaca",
                 "title": "IA a scuola: il primo professore avatar in Italia. Ma chi risponde degli errori? Diritto, privacy e rischi per i docenti",
@@ -65,14 +105,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2420206409.jpg"
             },
             {
-                "category": "Chiedilo a Lalla",
-                "title": "Carta docente anche ai supplenti brevi? L’Europa apre alla possibilità. SPECIALE con Miceli (Anief) LIVE Venerdì 4 luglio alle 15:45",
-                "link": "https://www.orizzontescuola.it/carta-docente-anche-ai-supplenti-brevi-leuropa-apre-alla-possibilita-speciale-con-miceli-anief-live-venerdi-4-luglio-alle-1545/",
-                "date": "4 Lug 2025",
-                "time": "14:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/Template_questiontime_1920x1080-5.png"
-            },
-            {
                 "category": "Scuole",
                 "title": "Dimensionamento scolastico, in 10 anni -1.773 istituti. E al Sud digital divide: ancora troppe scuole senza email e siti web. I dati",
                 "link": "https://www.orizzontescuola.it/dimensionamento-scolastico-in-10-anni-1-773-istituti-e-al-sud-digital-divide-ancora-troppe-scuole-senza-email-e-siti-web-i-dati/",
@@ -111,7 +143,12 @@
                 "date": "4 Lug 2025",
                 "time": "12:03",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_1070096513.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "ATA",
                 "title": "Graduatorie ATA 24 mesi 2025/26: ecco le provvisorie [IN AGGIORNAMENTO] 10 giorni per reclamo",
@@ -143,12 +180,7 @@
                 "date": "4 Lug 2025",
                 "time": "11:25",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2530425735.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "PCTO sulle discipline STEM: manifestazioni di interesse entro il 15 luglio. AVVISO",
@@ -253,44 +285,60 @@
                 "date": "3 Lug 2025",
                 "time": "20:59",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1461957413.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Prima fascia GPS sostegno 2025: domanda per il ruolo insieme a quella delle 150 preferenze. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/prima-fascia-gps-sostegno-2025-domanda-per-il-ruolo-insieme-a-quella-delle-150-preferenze-pillole-di-question-time/",
-                "date": "3 Lug 2025",
-                "time": "19:45",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_48466297.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR1: possibilità di assunzione anche per chi non è vincitore né idoneo nel 30%. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr1-possibilita-di-assunzione-anche-per-chi-non-e-vincitore-ne-idoneo-nel-30-pillole-di-question-time/",
-                "date": "3 Lug 2025",
-                "time": "17:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_778370800-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Tfa sostegno X ciclo, quanto costa partecipare? Tasse fino a 4000 euro e contributi bando tra 60 e 200 euro",
-                "link": "https://www.orizzontescuola.it/tfa-sostegno-x-ciclo-quanto-costa-partecipare-tasse-fino-a-4000-euro-e-contributi-bando-da-100-a-200-euro/",
-                "date": "3 Lug 2025",
-                "time": "16:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/11/Soldi.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Non solo divieti per il cellulare ai figli, ecco il patto anticonformista che insegna ai ragazzi a vivere online e offline con consapevolezza",
-                "link": "https://www.orizzontescuola.it/non-solo-divieti-per-il-cellulare-ai-figli-ecco-il-patto-anticonformista-che-insegna-ai-ragazzi-a-vivere-online-e-offline-con-consapevolezza/",
-                "date": "3 Lug 2025",
-                "time": "16:06",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/05/cellulare-1200x800.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Immissioni in ruolo docenti 2025/26: ecco quanti candidati ancora in graduatoria o chi è ultimo nominato [Aggiornato Abruzzo]",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2025-26-ecco-quanti-candidati-ancora-in-graduatoria-aggiornato-con-piemonte/",
+                "date": "4 Lug 2025",
+                "time": "21:56",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Dipendenza digitale e non solo: come la dopamina ci rende schiavi dello smartphone (e non solo). I tre libri consigliati da Vincenzo Schettini",
+                "link": "https://www.orizzontescuola.it/dipendenza-digitale-e-non-solo-come-la-dopamina-ci-rende-schiavi-dello-smartphone-e-non-solo-i-tre-libri-consigliati-da-vincenzo-schettini/",
+                "date": "4 Lug 2025",
+                "time": "21:22",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Nicola Gratteri: “I figli devono cadere per crescere, sennò crescono come polli da batteria. Io ho dato l’esempio, non il tempo”",
+                "link": "https://www.orizzontescuola.it/nicola-gratteri-i-figli-devono-cadere-per-crescere-senno-crescono-come-polli-da-batteria-io-ho-dato-lesempio-non-il-tempo/",
+                "date": "4 Lug 2025",
+                "time": "20:47",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Ius scholae, Meloni frena: “Non è priorità di governo, concentrarsi sul programma”",
+                "link": "https://www.orizzontescuola.it/ius-scholae-meloni-frena-non-e-priorita-di-governo-concentrarsi-sul-programma/",
+                "date": "4 Lug 2025",
+                "time": "20:18",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Violenza di genere: a Roma nasce la prima Scuola Nazionale Permanente per Operatrici dei Centri Antiviolenza",
+                "link": "https://www.orizzontescuola.it/violenza-di-genere-a-roma-nasce-la-prima-scuola-nazionale-permanente-per-operatrici-dei-centri-antiviolenza/",
+                "date": "4 Lug 2025",
+                "time": "19:29",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Libri che generano visioni, non consolazioni: la lezione di Pasolini per un’epoca di algoritmi. Il monologo di Anna Foglietta al Premio Strega",
+                "link": "https://www.orizzontescuola.it/libri-che-generano-visioni-non-consolazioni-la-lezione-di-pasolini-per-unepoca-di-algoritmi-il-monologo-di-anna-foglietta-al-premio-strega/",
+                "date": "4 Lug 2025",
+                "time": "18:55",
+                "image_link": "N/A"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Precariato scolastico: il triplo carico dei docenti tra concorsi ripetuti, corsi obbligatori e l’accesso negato alla Naspi. L’appello di Buondonno (SI)",
@@ -321,6 +369,14 @@
                 "link": "https://www.orizzontescuola.it/esplosione-roma-esami-di-maturita-sospesi-in-un-liceo-vetri-in-frantumi-e-serrande-che-tremavano/",
                 "date": "4 Lug 2025",
                 "time": "15:43",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Carta docente anche ai supplenti brevi? L’Europa apre alla possibilità. SPECIALE con Miceli (Anief) VIDEO",
+                "link": "https://www.orizzontescuola.it/carta-docente-anche-ai-supplenti-brevi-leuropa-apre-alla-possibilita-speciale-con-miceli-anief-live-venerdi-4-luglio-alle-1545/",
+                "date": "4 Lug 2025",
+                "time": "14:42",
                 "image_link": "N/A"
             },
             {
@@ -377,62 +433,6 @@
                 "link": "https://www.orizzontescuola.it/esplosione-a-roma-deposito-di-gas-e-carburante-in-fiamme-21-feriti-tra-vigili-del-fuoco-e-residenti-evacuati-centro-estivo-e-asilo-nido/",
                 "date": "4 Lug 2025",
                 "time": "10:51",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Maturità e genitori, festeggiare fuori dalla scuola è troppo invadente? Ambra: “Mi disperavo cercando di non essere troppo rumorosa”",
-                "link": "https://www.orizzontescuola.it/maturita-e-genitori-festeggiare-fuori-dalla-scuola-e-troppo-invadente-ambra-mi-disperavo-cercando-di-non-essere-troppo-rumorosa/",
-                "date": "4 Lug 2025",
-                "time": "10:44",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Corte di Giustizia UE: la Carta del Docente spetta anche ai supplenti brevi. Anief riapre i ricorsi",
-                "link": "https://www.orizzontescuola.it/corte-di-giustizia-ue-la-carta-del-docente-spetta-anche-ai-supplenti-brevi-anief-riapre-i-ricorsi/",
-                "date": "4 Lug 2025",
-                "time": "9:56",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "La Lega presenta risoluzione contro iniziative legate all’islam: “Stop a chiusure per Ramadan e recite di Natale annullate”",
-                "link": "https://www.orizzontescuola.it/la-lega-presenta-risoluzione-contro-iniziative-legate-allislam-stop-a-chiusure-per-ramadan-e-recite-di-natale-annullate/",
-                "date": "4 Lug 2025",
-                "time": "8:22",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Docenti specializzati sostegno in presidio al Ministero Istruzione e Merito il 10 luglio: no equiparazione punteggio tra corso da 60 CFU e percorso Indire",
-                "link": "https://www.orizzontescuola.it/docenti-specializzati-sostegno-in-presidio-al-ministero-istruzione-e-merito-il-10-luglio-no-equiparazione-punteggio-tra-corso-da-60-cfu-e-percorso-indire/",
-                "date": "4 Lug 2025",
-                "time": "7:40",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Svapo tra adolescenti: allarme per THC e cannabinoidi sintetici, +1,8 milioni di giovani a rischio. Lo studio americano",
-                "link": "https://www.orizzontescuola.it/svapo-tra-adolescenti-allarme-per-thc-e-cannabinoidi-sintetici-18-milioni-di-giovani-a-rischio-lo-studio-americano/",
-                "date": "3 Lug 2025",
-                "time": "21:24",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Sicurezza scolastica, aumentano gli incidenti durante i percorsi scuola-lavoro. La Flc Cgil: “Basta obbligo di ore”. Valditara: “Realtà molto diversa da quella narrata”",
-                "link": "https://www.orizzontescuola.it/sicurezza-scolastica-aumentano-gli-incidenti-durante-i-percorsi-scuola-lavoro-la-flc-cgil-basta-obbligo-di-ore-servono-tutele-reali/",
-                "date": "3 Lug 2025",
-                "time": "21:15",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Bambini e insegnanti stremati”, la mamma lancia la petizione per i condizionatori negli asili nido: “Temperature schizzate a 38 gradi, così è impossibile”",
-                "link": "https://www.orizzontescuola.it/bambini-e-insegnanti-stremati-la-mamma-lancia-la-petizione-per-i-condizionatori-negli-asili-nido-temperature-schizzate-a-38-gradi-cosi-e-impossibile/",
-                "date": "3 Lug 2025",
-                "time": "20:13",
                 "image_link": "N/A"
             }
         ]
