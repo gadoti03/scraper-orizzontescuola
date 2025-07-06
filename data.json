@@ -3,12 +3,12 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
-                "category": "Docenti",
-                "title": "Accorpamento Istituzioni scolastiche per la denatalità, eppure in 8 anni il numero di alunni per scuola aumenta: fino a 20 alunni in più ogni anno nel Nord Ovest. Tutti i dati per la rubrica “Open Data”",
-                "link": "https://www.orizzontescuola.it/accorpamento-istituzioni-scolastiche-per-la-denatalita-eppure-in-8-anni-il-numero-di-alunni-per-scuola-aumenta-fino-a-20-alunni-in-piu-ogni-anno-nel-nord-ovest-tutti-i-dati-per-la-rubrica-open-da/",
-                "date": "5 Lug 2025",
-                "time": "9:14",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/studenti_per_scuola2.png"
+                "category": "Cronaca",
+                "title": "Tablet a scuola: nel 2021 un device ogni 6 studenti, nel 2026 saranno 1 ogni 2. Ministero: “Ecco perché i divieti e cosa faremo per la formazione”",
+                "link": "https://www.orizzontescuola.it/tablet-a-scuola-nel-2021-un-device-ogni-6-studenti-nel-2026-saranno-1-ogni-2-ministero-ecco-perche-i-divieti-e-cosa-faremo-per-la-formazione/",
+                "date": "6 Lug 2025",
+                "time": "9:33",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2307437015.jpg"
             },
             null
         ]
@@ -16,6 +16,31 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "ATA",
+                "title": "Graduatorie ATA 24 mesi, allegato G: cosa significa “Aspirante non presente”?",
+                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-allegato-g-cosa-significa-aspirante-non-presente/",
+                "date": "6 Lug 2025",
+                "time": "8:38",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_2025845477.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Tra immissioni in ruolo e assegnazioni provvisorie, è la settimana decisiva? QUESTION TIME con Vannini (Uil Scuola Rua) LIVE Lunedì 7 luglio alle 14:30",
+                "link": "https://www.orizzontescuola.it/tra-immissioni-in-ruolo-e-assegnazioni-provvisorie-e-la-settimana-decisiva-question-time-con-vannini-uil-scuola-rua-live-lunedi-7-luglio-alle-1430/",
+                "date": "6 Lug 2025",
+                "time": "7:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/Template_questiontime_1920x1080-6.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“Senza telefoni, gli studenti parlano di più, anche se litigano”, anche in Olanda la crociata no smartphone in classe: “Meno distrazioni, più socialità”",
+                "link": "https://www.orizzontescuola.it/senza-telefoni-gli-studenti-parlano-di-piu-anche-se-litigano-anche-in-olanda-la-crociata-no-smartphone-in-classe-meno-distrazioni-piu-socialita/",
+                "date": "6 Lug 2025",
+                "time": "7:48",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_1694949499-scaled.jpg"
+            },
+            null,
             {
                 "category": "Cronaca",
                 "title": "“L’IA e i social riducono del 55% le capacità cognitive”, Crepet lancia l’allarme sui danni cognitivi. “A scuola si può intervenire, ma serve coraggio”",
@@ -111,7 +136,12 @@
                 "date": "5 Lug 2025",
                 "time": "11:49",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_707205043-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Depressione infantile: una terapia innovativa garantisce benefici a lungo termine per i bambini in età prescolare",
@@ -143,12 +173,7 @@
                 "date": "5 Lug 2025",
                 "time": "10:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1618026661-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Guide",
                 "title": "Esami integrativi nella scuola secondaria di secondo grado: casi, tempi e modalità [GUIDA RIVISTA]",
@@ -156,14 +181,6 @@
                 "date": "5 Lug 2025",
                 "time": "10:33",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_695632537.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Tra immissioni in ruolo e assegnazioni provvisorie, è la settimana decisiva? QUESTION TIME con Vannini (Uil Scuola Rua) LIVE Lunedì 7 luglio alle 14:30",
-                "link": "https://www.orizzontescuola.it/tra-immissioni-in-ruolo-e-assegnazioni-provvisorie-e-la-settimana-decisiva-question-time-con-vannini-uil-scuola-rua-live-lunedi-7-luglio-alle-1430/",
-                "date": "5 Lug 2025",
-                "time": "10:26",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/Template_questiontime_1920x1080-6.png"
             },
             {
                 "category": "Diventare Insegnanti",
@@ -196,6 +213,14 @@
                 "date": "5 Lug 2025",
                 "time": "9:32",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_244451953-scaled.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Accorpamento Istituzioni scolastiche per la denatalità, eppure in 8 anni il numero di alunni per scuola aumenta: fino a 20 alunni in più ogni anno nel Nord Ovest. Tutti i dati per la rubrica “Open Data”",
+                "link": "https://www.orizzontescuola.it/accorpamento-istituzioni-scolastiche-per-la-denatalita-eppure-in-8-anni-il-numero-di-alunni-per-scuola-aumenta-fino-a-20-alunni-in-piu-ogni-anno-nel-nord-ovest-tutti-i-dati-per-la-rubrica-open-da/",
+                "date": "5 Lug 2025",
+                "time": "9:14",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/studenti_per_scuola2.png"
             },
             {
                 "category": "Cronaca",
@@ -260,37 +285,60 @@
                 "date": "4 Lug 2025",
                 "time": "19:40",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/01/madre.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "TFA sostegno X ciclo, punteggio test preselettivo non vale per la graduatoria. Quando non si svolge",
-                "link": "https://www.orizzontescuola.it/tfa-sostegno-x-ciclo-punteggio-test-preselettivo-non-vale-per-la-graduatoria-quando-non-si-svolge/",
-                "date": "4 Lug 2025",
-                "time": "19:23",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_594891590.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Assegnazioni provvisorie docenti 25/26: preferenza sintetica comune ricongiungimento è obbligatoria? E in caso di deroga?",
-                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-docenti-25-26-preferenza-sintetica-comune-ricongiungimento-e-obbligatoria-e-in-caso-di-deroga/",
-                "date": "4 Lug 2025",
-                "time": "18:57",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/10/london-1128803_1280-1200x780.jpg"
-            },
-            null,
-            {
-                "category": "Cronaca",
-                "title": "IA a scuola: il primo professore avatar in Italia. Ma chi risponde degli errori? Diritto, privacy e rischi per i docenti",
-                "link": "https://www.orizzontescuola.it/ia-a-scuola-il-primo-professore-avatar-in-italia-ma-chi-risponde-degli-errori-diritto-privacy-e-rischi-per-i-docenti/",
-                "date": "4 Lug 2025",
-                "time": "17:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/foto-Tosi-4-scaled.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Il Portogallo vieta gli smartphone alla scuola primaria: meno bullismo, più socializzazione",
+                "link": "https://www.orizzontescuola.it/il-portogallo-vieta-gli-smartphone-alla-scuola-primaria-meno-bullismo-piu-socializzazione/",
+                "date": "6 Lug 2025",
+                "time": "9:49",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Alluvione in Texas, almeno 50 morti: anche 15 bambini e la direttrice di un campo estivo",
+                "link": "https://www.orizzontescuola.it/alluvione-in-texas-almeno-50-morti-anche-15-bambini-e-la-direttrice-di-un-campo-estivo/",
+                "date": "6 Lug 2025",
+                "time": "8:04",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Sostegno scolastico, quando la specializzazione diventa una “scelta obbligata” per i docenti A046. Il CNDDU: “Non deve essere un ripiego”",
+                "link": "https://www.orizzontescuola.it/sostegno-scolastico-quando-la-specializzazione-diventa-una-scelta-obbligata-per-i-docenti-a046-il-cnddu-non-deve-essere-un-ripiego/",
+                "date": "6 Lug 2025",
+                "time": "8:01",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Emergenza caldo e bambini: a Milano scuole-bollitore, genitori costretti a comprare ventilatori. La denuncia: “Il Comune ignora i più fragili”",
+                "link": "https://www.orizzontescuola.it/emergenza-caldo-e-bambini-a-milano-scuole-bollitore-genitori-costretti-a-comprare-ventilatori-la-denuncia-il-comune-ignora-i-piu-fragili/",
+                "date": "6 Lug 2025",
+                "time": "7:56",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Nuove Indicazioni Nazionali, Frassinetti: “Finalmente si è intervenuti su una scuola che stava andando verso il baratro. Non si tratta di un ritorno al passato, ma alla scuola vera”",
+                "link": "https://www.orizzontescuola.it/nuove-indicazioni-nazionali-frassinetti-finalmente-si-e-intervenuti-su-una-scuola-che-stava-andando-verso-il-baratro-non-si-tratta-di-un-ritorno-al-passato-ma-alla-scuola-vera/",
+                "date": "6 Lug 2025",
+                "time": "7:55",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Oggi ingresso gratuito nei musei e parchi archeologici: elenco con info e orari",
+                "link": "https://www.orizzontescuola.it/oggi-ingresso-gratuito-nei-musei-e-parchi-archeologici-elenco-con-info-e-orari/",
+                "date": "6 Lug 2025",
+                "time": "7:30",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Natalità, Roccella denuncia il paradosso culturale. “La libertà delle donne non sia solo dire no ai figli”",
@@ -386,60 +434,20 @@
                 "date": "5 Lug 2025",
                 "time": "15:20",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "“Il lavoro è sparito dalle priorità dei giovani. Riscopriamo la fatica e l’artigianato”, Valditara punta sull’istruzione tecnica: “In Europa il 70% sceglie i professionali, in Italia serve un cambio di cultura”",
-                "link": "https://www.orizzontescuola.it/il-lavoro-e-sparito-dalle-priorita-dei-giovani-riscopriamo-la-fatica-e-lartigianato-valditara-punta-sullistruzione-tecnica-in-europa-il-70-sceglie-i-professionali-in-italia-serve/",
-                "date": "5 Lug 2025",
-                "time": "12:28",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Protocollo tra associazione biblioteche italiane e Unicef: “Un ponte per i diritti dei più giovani”",
-                "link": "https://www.orizzontescuola.it/protocollo-tra-associazione-biblioteche-italiane-e-unicef-un-ponte-per-i-diritti-dei-piu-giovani/",
-                "date": "5 Lug 2025",
-                "time": "12:15",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Dipendenza digitale addio: come i ragazzi stanno riscoprendo il valore del silenzio tecnologico. La maggioranza vuole il divieto degli smartphone a scuola. SONDAGGIO Swg",
-                "link": "https://www.orizzontescuola.it/dipendenza-digitale-addio-come-i-ragazzi-stanno-riscoprendo-il-valore-del-silenzio-tecnologico-la-maggioranza-vuole-il-divieto-degli-smartphone-a-scuola-sondaggio-swg/",
-                "date": "5 Lug 2025",
-                "time": "11:59",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Merito nella scuola, il CNDDU chiede criteri trasparenti per le assegnazioni provvisorie",
-                "link": "https://www.orizzontescuola.it/merito-nella-scuola-il-cnddu-chiede-criteri-trasparenti-per-le-assegnazioni-provvisorie/",
-                "date": "5 Lug 2025",
-                "time": "10:52",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "In Sicilia stop ai “diplomifici”, la Regione stringe sui controlli per le scuole paritarie. L’assessore Turano: “Stiamo lavorando per una scuola pubblica che punti su legalità e qualità”",
-                "link": "https://www.orizzontescuola.it/in-sicilia-stop-ai-diplomifici-la-regione-stringe-sui-controlli-per-le-scuole-paritarie-lassessore-turano-stiamo-lavorando-per-una-scuola-pubblica-che-punti-su-legalita-e-qualita/",
-                "date": "5 Lug 2025",
-                "time": "10:34",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Conseguite le prime lauree in Intelligenza artificiale",
-                "link": "https://www.orizzontescuola.it/conseguite-le-prime-lauree-in-intelligenza-artificiale-conseguite-da-intelligenza-umane/",
-                "date": "5 Lug 2025",
-                "time": "10:09",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Assegnazioni provvisorie docenti 25/26: preferenza sintetica comune ricongiungimento è obbligatoria? E in caso di deroga?",
+                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-docenti-25-26-preferenza-sintetica-comune-ricongiungimento-e-obbligatoria-e-in-caso-di-deroga/",
+                "date": "4 Lug 2025",
+                "time": "18:57",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Assegnazione provvisoria docenti 2025: ecco le regole da seguire per indicare le PREFERENZE in caso di ricongiungimento familiare",
@@ -543,20 +551,20 @@
                 "date": "22 Giu 2025",
                 "time": "20:13",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Graduatorie GaE e GPS 2026: quanti punti valgono TFA sostegno e concorsi ordinari. Come procedere",
-                "link": "https://www.orizzontescuola.it/graduatorie-gae-e-gps-2026-quanti-punti-valgono-tfa-sostegno-e-concorsi-ordinari-come-procedere/",
-                "date": "22 Giu 2025",
-                "time": "17:17",
-                "image_link": "N/A"
             }
         ]
     },
     "group_6": {
         "title": "Diventare Insegnanti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Il corso Indire/Università sostegno permette l’accesso al ruolo? Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/il-corso-indire-universita-sostegno-permette-laccesso-al-ruolo-pillole-di-question-time/",
+                "date": "4 Lug 2025",
+                "time": "10:06",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2142727347.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Immissioni in ruolo docenti 2025, 52mila posti vacanti, ma quanti saranno davvero autorizzati? Il Ministero convoca i sindacati: informativa martedì 8 luglio alle 15:00",
@@ -596,14 +604,6 @@
                 "date": "3 Lug 2025",
                 "time": "16:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/11/Soldi.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Ferie precari scuola assegnate senza avviso: quando scatta il risarcimento",
-                "link": "https://www.orizzontescuola.it/ferie-precari-scuola-assegnate-senza-avviso-quando-scatta-il-risarcimento/",
-                "date": "3 Lug 2025",
-                "time": "12:41",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/Screenshot-2023-04-28-065108.png"
             }
         ]
     },
@@ -718,6 +718,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "“Riappropriarsi di relazioni reali”, un ritorno alle radici dell’umano nelle parole di Crepet. Lettera",
+                "link": "https://www.orizzontescuola.it/riappropriarsi-di-relazioni-reali-un-ritorno-alle-radici-dellumano-nelle-parole-di-crepet-lettera/",
+                "date": "6 Lug 2025",
+                "time": "7:35",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "L’errore, una risorsa educativa che la scuola non usa. Lettera",
                 "link": "https://www.orizzontescuola.it/lerrore-una-risorsa-educativa-che-la-scuola-non-usa-lettera/",
                 "date": "2 Lug 2025",
@@ -754,14 +762,6 @@
                 "link": "https://www.orizzontescuola.it/lettera-aperta-al-ministro-valditara-educazione-civica-e-docenti-di-irc-e-ora-di-fare-chiarezza-per-rispetto-della-scuola-e-della-legge-lettera/",
                 "date": "26 Giu 2025",
                 "time": "7:24",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Cellulari a scuola: oltre il divieto, serve una responsabilità collettiva",
-                "link": "https://www.orizzontescuola.it/cellulari-a-scuola-oltre-il-divieto-serve-una-responsabilita-collettiva/",
-                "date": "25 Giu 2025",
-                "time": "10:02",
                 "image_link": "N/A"
             }
         ]
