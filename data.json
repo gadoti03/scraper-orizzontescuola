@@ -17,6 +17,70 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "35 anni nella stessa scuola, l’addio di una collaboratrice scolastica che ha visto cambiare generazioni: “Mi mancheranno i ragazzi e i docenti”",
+                "link": "https://www.orizzontescuola.it/35-anni-nella-stessa-scuola-laddio-di-una-collaboratrice-scolastica-che-ha-visto-cambiare-generazioni-mi-mancheranno-i-ragazzi-e-i-docenti/",
+                "date": "6 Lug 2025",
+                "time": "13:27",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/Bidella.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Intelligenza e decisioni, come il quoziente intellettivo influenza la capacità di prevedere il futuro. Uno studio inglese",
+                "link": "https://www.orizzontescuola.it/intelligenza-e-decisioni-come-il-quoziente-intellettivo-influenza-la-capacita-di-prevedere-il-futuro-uno-studio-inglese/",
+                "date": "6 Lug 2025",
+                "time": "12:39",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/inglese-marzo-2023.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Studente con DSA e BES viene bocciato, famiglia fa ricorso al TAR e lo vince: “La docente di inglese ha ignorato il PDP, niente PC né verifiche adattate”. SENTENZA",
+                "link": "https://www.orizzontescuola.it/studente-con-dsa-e-bes-viene-bocciato-famiglia-fa-ricorso-al-tar-e-lo-vince-la-docente-di-inglese-ha-ignorato-il-pdp-niente-pc-ne-verifiche-adattate-sentenza/",
+                "date": "6 Lug 2025",
+                "time": "12:04",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_675123196.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "TFA sostegno X ciclo, presentazione della domanda scade tra il 7 e il 16 luglio. Chi può iscriversi in più Università. CHIARIMENTI",
+                "link": "https://www.orizzontescuola.it/tfa-sostegno-x-ciclo-presentazione-della-domanda-scade-tra-il-7-e-il-16-luglio-e-possibile-iscriversi-in-piu-universita-chiarimenti/",
+                "date": "6 Lug 2025",
+                "time": "11:47",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1937300755.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“La tecnologia va inserita gradualmente nella vita di un bambino”, il parere del neurologo: “La lettura su schermo riduce l’attivazione del pensiero critico”",
+                "link": "https://www.orizzontescuola.it/la-tecnologia-va-inserita-gradualmente-nella-vita-di-un-bambino-il-parere-del-neurologo-la-lettura-su-schermo-riduce-lattivazione-del-pensiero-critico/",
+                "date": "6 Lug 2025",
+                "time": "11:25",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/09/shutterstock_538028968-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR2 scuola secondaria, ecco le graduatorie dei vincitori + elenco 30% idonei [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr2-scuola-secondaria-ecco-la-prima-graduatoria/",
+                "date": "6 Lug 2025",
+                "time": "10:58",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/05/shutterstock_199611962.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Elenco bimbi con disabilità con dati sensibili: sanzione di 20mila euro dal Garante privacy a cooperativa che gestisce servizi per la scuola",
+                "link": "https://www.orizzontescuola.it/elenco-bimbi-con-disabilita-con-dati-sensibili-sanzione-di-20mila-euro-dal-garante-privacy-a-cooperativa-che-gestisce-servizi-per-la-scuola/",
+                "date": "6 Lug 2025",
+                "time": "10:48",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/shutterstock_1295413129.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Disoccupazione NASPI 2025 precari scuola: come funziona iscrizione alla piattaforma digitale SIISL. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/disoccupazione-naspi-2025-precari-scuola-come-funziona-iscrizione-alla-piattaforma-digitale-siisl-risposte-ai-quesiti/",
+                "date": "6 Lug 2025",
+                "time": "10:35",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_257827327.jpg"
+            },
+            {
                 "category": "ATA",
                 "title": "Graduatorie ATA 24 mesi, allegato G: cosa significa “Aspirante non presente”?",
                 "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-allegato-g-cosa-significa-aspirante-non-presente/",
@@ -72,7 +136,12 @@
                 "date": "5 Lug 2025",
                 "time": "15:39",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2504877853.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Quando essere insegnanti penalizza i propri figli: il caso di Milano che svela l’ipocrisia istituzionale sui docenti considerati lavoratori part-time nonostante 1.660 ore annue effettive",
@@ -136,12 +205,7 @@
                 "date": "5 Lug 2025",
                 "time": "11:49",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_707205043-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Depressione infantile: una terapia innovativa garantisce benefici a lungo termine per i bambini in età prescolare",
@@ -221,76 +285,36 @@
                 "date": "5 Lug 2025",
                 "time": "9:14",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/studenti_per_scuola2.png"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Prevenire la depressione tra i banchi. ecco il modello giapponese con 1.080 ore di esercitazioni pratiche in classe. Così si trasforma la prevenzione in una nuova missione educativa",
-                "link": "https://www.orizzontescuola.it/prevenire-la-depressione-tra-i-banchi-ecco-il-modello-giapponese-con-1-080-ore-di-esercitazioni-pratiche-in-classe-cosi-si-trasforma-la-prevenzione-in-una-nuova-missione-educativa/",
-                "date": "5 Lug 2025",
-                "time": "8:32",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1409500496.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "TFA sostegno X ciclo, pubblicati tutti i  BANDI. Ecco le scadenze [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/tfa-sostegno-x-ciclo-le-pagine-delle-universita/",
-                "date": "5 Lug 2025",
-                "time": "4:46",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/02/shutterstock_107801354-1200x800.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR2 scuola secondaria, ecco le graduatorie dei vincitori + elenco 30% idonei [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr2-scuola-secondaria-ecco-la-prima-graduatoria/",
-                "date": "4 Lug 2025",
-                "time": "23:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/05/shutterstock_199611962.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Contratti pubblici, l’allarme di Zangrillo: “Firmare i rinnovi o rischiamo di perdere i 20 miliardi stanziati dal governo per il triennio 2025-2027”",
-                "link": "https://www.orizzontescuola.it/contratti-pubblici-lallarme-di-zangrillo-firmare-i-rinnovi-o-rischiamo-di-perdere-i-20-miliardi-stanziati-dal-governo-per-il-triennio-2025-2027/",
-                "date": "4 Lug 2025",
-                "time": "22:37",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_375340615.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Nuove Indicazioni Nazionali, il Ministero recepisce alcune proposte del CSPI: adesso il testo è al vaglio del Consiglio di Stato. Provvedimento in vigore da settembre 2026",
-                "link": "https://www.orizzontescuola.it/nuove-indicazioni-nazionali-il-ministero-recepisce-alcune-proposte-del-cspi-il-testo-al-vaglio-del-consiglio-di-stato-provvedimento-in-vigore-da-settembre-2026/",
-                "date": "4 Lug 2025",
-                "time": "22:28",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/Ministero-Istruzione.jpeg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Settimana corta a scuola, benefici ridotti. Una ricerca internazionale smonta il mito e apre il dibattito: cosa succede quando la scuola chiude il venerdì?",
-                "link": "https://www.orizzontescuola.it/settimana-corta-a-scuola-benefici-ridotti-una-ricerca-internazionale-smonta-il-mito-e-apre-il-dibattito-cosa-succede-quando-la-scuola-chiude-il-venerdi/",
-                "date": "4 Lug 2025",
-                "time": "21:51",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/shutterstock_2384798953.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Docenti vincitori concorso PNRR1: come comunicare agli Uffici Scolastici il conseguimento dell’abilitazione [ISTRUZIONI OPERATIVE]",
-                "link": "https://www.orizzontescuola.it/docenti-vincitori-concorso-pnrr1-come-comunicare-agli-uffici-scolastici-il-conseguimento-dellabilitazione-istruzioni-operative/",
-                "date": "4 Lug 2025",
-                "time": "21:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1197053242.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Mamme lavoratrici: da dicembre 2025, 480 euro in un’unica soluzione. Ecco chi ha diritto al contributo e come richiederlo all’INPS",
-                "link": "https://www.orizzontescuola.it/mamme-lavoratrici-da-dicembre-2025-480-euro-in-ununica-soluzione-ecco-chi-ha-diritto-al-contributo-e-come-richiederlo-allinps/",
-                "date": "4 Lug 2025",
-                "time": "19:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/01/madre.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Scuole",
+                "title": "Formazione docenti lingue di minoranza: manifestazioni d’interesse entro il 31 luglio. AVVISO",
+                "link": "https://www.orizzontescuola.it/formazione-docenti-lingue-di-minoranza-manifestazioni-dinteresse-entro-il-31-luglio-avviso/",
+                "date": "6 Lug 2025",
+                "time": "14:18",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso secondaria PNRR2, ecco come si valuta la prova pratica e le indicazioni per lo svolgimento [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/concorso-secondaria-pnrr2-ecco-come-si-valuta-la-prova-pratica-e-le-indicazioni-per-lo-svolgimento/",
+                "date": "6 Lug 2025",
+                "time": "10:46",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "57%dei giovani ritiene la democrazia la migliore forma di governo, ma il 21% è favorevole ad un regime autoritario (in determinate circostanze). Sì all’Unione europea",
+                "link": "https://www.orizzontescuola.it/57%dei-giovani-ritiene-la-democrazia-la-migliore-forma-di-governo-ma-il-21-e-favorevole-ad-un-regime-autoritario-in-determinate-circostanze-si-allunione-europea/",
+                "date": "6 Lug 2025",
+                "time": "10:43",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Il Portogallo vieta gli smartphone alla scuola primaria: meno bullismo, più socializzazione",
@@ -409,30 +433,6 @@
                 "link": "https://www.orizzontescuola.it/italia-la-parita-di-genere-e-ancora-un-miraggio-meno-del-28-delle-donne-ai-vertici-aziendali-quali-le-barriere-e-le-soluzioni-rapporto-deloitte/",
                 "date": "5 Lug 2025",
                 "time": "16:26",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Frutta e verdura nelle scuole”, pubblicato il bando 2025/2026 con 14 milioni di euro",
-                "link": "https://www.orizzontescuola.it/frutta-e-verdura-nelle-scuole-pubblicato-il-bando-2025-2026-con-14-milioni-di-euro/",
-                "date": "5 Lug 2025",
-                "time": "15:59",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Iperpresenzialismo genitoriale alla maturità: tra fiori, champagne e ansia da prestazione",
-                "link": "https://www.orizzontescuola.it/maturita-genitori-pronti-con-fiori-e-champagne-da-stappare-liperpresenzialismo/",
-                "date": "5 Lug 2025",
-                "time": "15:45",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Valditara: “Studenti favorevoli a stop cellulari a scuola”",
-                "link": "https://www.orizzontescuola.it/valditara-studenti-favorevoli-a-stop-cellulari-a-scuola/",
-                "date": "5 Lug 2025",
-                "time": "15:20",
                 "image_link": "N/A"
             }
         ]
@@ -559,6 +559,22 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Concorso scuola PNRR2, graduatoria: aver superato superato PNRR1 per classi di concorso accorpate vale doppio punteggio?",
+                "link": "https://www.orizzontescuola.it/concorso-scuola-pnrr2-graduatoria-aver-superato-superato-pnrr1-per-classi-di-concorso-accorpate-vale-doppio-punteggio/",
+                "date": "4 Lug 2025",
+                "time": "10:58",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1349362136.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso ordinario insegnanti di religione cattolica: prova scritta il 16 e 17 luglio. Ecco i QUADRI di riferimento per la valutazione",
+                "link": "https://www.orizzontescuola.it/concorso-ordinario-insegnanti-di-religione-cattolica-prova-scritta-il-16-e-17-luglio-ecco-i-quadri-di-riferimento-per-la-valutazione/",
+                "date": "4 Lug 2025",
+                "time": "10:48",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/12/shutterstock_1708897081.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Il corso Indire/Università sostegno permette l’accesso al ruolo? Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/il-corso-indire-universita-sostegno-permette-laccesso-al-ruolo-pillole-di-question-time/",
                 "date": "4 Lug 2025",
@@ -588,22 +604,6 @@
                 "date": "3 Lug 2025",
                 "time": "19:45",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_48466297.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR1: possibilità di assunzione anche per chi non è vincitore né idoneo nel 30%. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr1-possibilita-di-assunzione-anche-per-chi-non-e-vincitore-ne-idoneo-nel-30-pillole-di-question-time/",
-                "date": "3 Lug 2025",
-                "time": "17:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_778370800-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Tfa sostegno X ciclo, quanto costa partecipare? Tasse fino a 4000 euro e contributi bando tra 60 e 200 euro",
-                "link": "https://www.orizzontescuola.it/tfa-sostegno-x-ciclo-quanto-costa-partecipare-tasse-fino-a-4000-euro-e-contributi-bando-da-100-a-200-euro/",
-                "date": "3 Lug 2025",
-                "time": "16:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/11/Soldi.jpg"
             }
         ]
     },
