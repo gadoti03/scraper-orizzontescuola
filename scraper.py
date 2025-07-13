@@ -41,6 +41,7 @@ time.sleep(5)
 # Ottieni il codice HTML della pagina
 html_content = driver.page_source
 print("Pagina caricata tramite ScraperAPI. Estrazione del contenuto HTML...")
+print(html_content)
 
 # Usa BeautifulSoup per formattare il codice HTML
 soup = BeautifulSoup(html_content, 'html.parser')
