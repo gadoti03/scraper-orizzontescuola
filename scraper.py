@@ -51,6 +51,8 @@ driver.quit()
 # Usa BeautifulSoup per analizzare il contenuto HTML
 soup = BeautifulSoup(html_content, "html.parser")
 
+print(soup)
+
 # Struttura aggiornata per articles_data, ora ogni gruppo è un oggetto con titolo e lista di articoli
 articles_data = {
     "group_1": {"title": "Notizie in Evidenza", "articles": []},
