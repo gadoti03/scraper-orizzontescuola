@@ -8,8 +8,6 @@ from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
 
-print(6666666666666666666)
-
 # La tua API Key di ScraperAPI
 api_key = '7c6778d034e0c8d4e75558693e631511'
 
