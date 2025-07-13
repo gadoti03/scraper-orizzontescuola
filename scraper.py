@@ -40,7 +40,6 @@ time.sleep(5)
 # Ottieni il codice HTML della pagina
 html_content = driver.page_source
 print("Pagina caricata tramite ScraperAPI. Estrazione del contenuto HTML...")
-print(html_content)
 
 # Usa BeautifulSoup per formattare il codice HTML
 soup = BeautifulSoup(html_content, 'html.parser')
@@ -49,9 +48,7 @@ soup = BeautifulSoup(html_content, 'html.parser')
 driver.quit()
 
 # Usa BeautifulSoup per analizzare il contenuto HTML
-soup = BeautifulSoup(html_content, "html.parser")
-
-print(soup)
+# soup = BeautifulSoup(html_content, "html.parser")
 
 # Struttura aggiornata per articles_data, ora ogni gruppo è un oggetto con titolo e lista di articoli
 articles_data = {
