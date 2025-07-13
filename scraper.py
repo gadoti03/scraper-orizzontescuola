@@ -9,7 +9,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
 
 # La tua API Key di ScraperAPI
-api_key = '7c6778d034e0c8d4e75558693e631511'
+api_key = 'f94e7c79d10a6cdefd9a385bcf0fa402'
 
 # URL del sito che desideri fare scraping
 target_url = 'https://www.orizzontescuola.it/'
