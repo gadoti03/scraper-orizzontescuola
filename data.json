@@ -24,6 +24,46 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Plus",
+                "title": "Supplenze, 150 preferenze: la consulenza personalizzata. Posti limitati, prenota la tua data + Guida in PDF",
+                "link": "https://www.orizzontescuola.it/supplenze-150-preferenze-la-consulenza-personalizzata-posti-limitati-prenota-la-tua-data-guida-in-pdf/",
+                "date": "17 Lug 2025",
+                "time": "18:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/Copia-di-Presentazione-Digitale-Retro-Minimal-Bianco-e-Verde-Acqua-1200-x-630-px-1000-x-500-px.png"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Assegnazioni provvisorie e utilizzazioni docenti 2025, precedenze, preferenze e non solo. QUESTION TIME con Craparo (Gilda) LIVE Venerdì 18 luglio alle 16:00",
+                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-e-utilizzazioni-docenti-2025-precedenze-preferenze-e-non-solo-question-time-con-craparo-gilda-live-venerdi-18-luglio-alle-1600/",
+                "date": "17 Lug 2025",
+                "time": "17:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/Template_questiontime_1920x1080-24.png"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Immissioni in ruolo 25/26: più vincitori di concorso saranno assunti nella stessa scuola, come verranno assegnati ai vari plessi?",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-25-26-piu-vincitori-di-concorso-saranno-assunti-nella-stessa-scuola-come-verranno-assegnati-ai-vari-plessi/",
+                "date": "17 Lug 2025",
+                "time": "17:29",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/09/shutterstock_1240130032.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "150 preferenze GPS supplenze: spezzoni, COE e COI, continuità didattica. QUESTION TIME con Cozzetto (Anief) LIVE Venerdì 18 luglio alle 14:30",
+                "link": "https://www.orizzontescuola.it/150-preferenze-gps-supplenze-spezzoni-coe-e-coi-continuita-didattica-question-time-con-cozzetto-anief-live-venerdi-18-luglio-alle-1430/",
+                "date": "17 Lug 2025",
+                "time": "17:08",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/Template_questiontime_1920x1080-23.png"
+            },
+            {
+                "category": "ATA",
+                "title": "Ricostruzione di carriera docenti e ATA: cosa è cambiato, chi ci guadagna e chi ci perde. Cosa conviene fare Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/ricostruzione-di-carriera-docenti-e-ata-cosa-e-cambiato-chi-ci-guadagna-e-chi-ci-perde-cosa-conviene-fare-pillole-di-question-time/",
+                "date": "17 Lug 2025",
+                "time": "15:28",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_1214667418.jpg"
+            },
+            {
                 "category": "ATA",
                 "title": "Assegnazioni provvisorie ATA 2025, domanda tramite PEC o PEO: occorre controllare gli avvisi degli Uffici scolastici provinciali",
                 "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-ata-2025-domanda-tramite-pec-o-peo-occorre-controllare-gli-avvisi-degli-uffici-scolastici-provinciali/",
@@ -72,14 +112,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/Screenshot-2025-07-17-120428.png"
             },
             {
-                "category": "Plus",
-                "title": "Supplenze, 150 preferenze: la consulenza personalizzata. Posti limitati, prenota la tua data + Guida in PDF",
-                "link": "https://www.orizzontescuola.it/supplenze-150-preferenze-la-consulenza-personalizzata-posti-limitati-prenota-la-tua-data-guida-in-pdf/",
-                "date": "17 Lug 2025",
-                "time": "12:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/Copia-di-Presentazione-Digitale-Retro-Minimal-Bianco-e-Verde-Acqua-1200-x-630-px-1000-x-500-px.png"
-            },
-            {
                 "category": "Diventare Insegnanti",
                 "title": "Domanda supplenze docenti 150 preferenze 2026: non è possibile inserire nuovi titoli né servizi, né il servizio civile nazionale",
                 "link": "https://www.orizzontescuola.it/domanda-supplenze-docenti-150-preferenze-2026-non-e-possibile-inserire-nuovi-titoli-ne-servizi-ne-il-servizio-civile-nazionale/",
@@ -118,7 +150,12 @@
                 "date": "17 Lug 2025",
                 "time": "9:07",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_713874685.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Assegnazione provvisoria docenti 2025/26: si può scegliere familiare a cui ricongiungersi, ma non sempre dà punteggio",
@@ -143,19 +180,6 @@
                 "time": "8:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_233445877.jpg"
             },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "VIDEO TUTORIAL | 150 preferenze supplenze GPS e GAE, conferma docenti sostegno. Come fare la domanda passo dopo passo. QUESTION TIME con Vannini (Uil Scuola Rua) LIVE Giovedì 17 luglio alle 14:30",
-                "link": "https://www.orizzontescuola.it/video-tutorial-150-preferenze-supplenze-gps-e-gae-conferma-docenti-sostegno-come-fare-la-domanda-passo-dopo-passo-question-time-con-vannini-uil-scuola-rua-live-giovedi-17-luglio-alle-1430/",
-                "date": "17 Lug 2025",
-                "time": "8:21",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/Template_questiontime_1920x1080-13.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Esami di Maturità, studenti rifiutano l’orale: “Spostiamoli a marzo”. L’idea “bizzarra”, ma non troppo",
@@ -261,36 +285,44 @@
                 "date": "16 Lug 2025",
                 "time": "16:09",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_302086268.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Ricorsi contro esiti scrutini finali ed esami: cosa fa la scuola. Indicazioni operative dall’USR Lazio",
-                "link": "https://www.orizzontescuola.it/ricorsi-contro-esiti-scrutini-finali-ed-esami-cosa-fa-la-scuola-indicazioni-operative-dallusr-lazio/",
-                "date": "16 Lug 2025",
-                "time": "15:59",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2232779173.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Calendario scolastico 2025/26: quando inizia la scuola a settembre, ponti e festività. PDF e TABELLA",
-                "link": "https://www.orizzontescuola.it/calendario-scolastico-2025-26-quando-inizia-la-scuola-a-settembre-ponti-e-festivita-pdf-e-tabella/",
-                "date": "16 Lug 2025",
-                "time": "15:41",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/05/calendario.jpg"
-            },
-            {
-                "category": "Dirigenti scolastici",
-                "title": "Dimensionamento scolastico, “recuperati” 80 dirigenti scolastici e DSGA per il 2026/27. DECRETO",
-                "link": "https://www.orizzontescuola.it/dimensionamento-scolastico-recuperati-80-dirigenti-scolastici-e-dsga-per-il-2026-27-decreto/",
-                "date": "16 Lug 2025",
-                "time": "15:08",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2198683335.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "“Limitare e regolare le università telematiche” – “Sorpresa e sgomento”: il confronto tra Confindustria e United sulla didattica online. Dal 1 agosto partono le nuove regole",
+                "link": "https://www.orizzontescuola.it/limitare-e-regolare-le-universita-telematiche-sorpresa-e-sgomento-il-confronto-tra-confindustria-e-united-sulla-didattica-online-dal-1-agosto-partono-le/",
+                "date": "17 Lug 2025",
+                "time": "17:30",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Vietare gli smartphone ai giovani? Butti: “Il problema non è il dispositivo, ma i contenuti”. Novara contro: “Serve legge per vietare social under 16 e smartphone under 14”",
+                "link": "https://www.orizzontescuola.it/vietare-gli-smartphone-ai-giovani-butti-il-problema-non-e-il-dispositivo-ma-i-contenuti-novara-contro-serve-legge-per-vietare-social-under-16-e-smartphone-under-14/",
+                "date": "17 Lug 2025",
+                "time": "17:00",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Professore appena in pensione muore in Grecia durante la vacanza dei sogni. La scuola avvia raccolta fondi per il rimpatrio",
+                "link": "https://www.orizzontescuola.it/professore-appena-in-pensione-muore-in-grecia-durante-la-vacanza-dei-sogni-la-scuola-avvia-raccolta-fondi-per-il-rimpatrio/",
+                "date": "17 Lug 2025",
+                "time": "16:31",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Estate senza compiti? Daniele Novara sfida la tradizione: “L’apprendimento nasce dalla vita reale, non dalla memoria”. Ecco perché i bambini hanno diritto a esperienze, viaggi e letture, non solo schede",
+                "link": "https://www.orizzontescuola.it/estate-senza-compiti-daniele-novara-sfida-la-tradizione-lapprendimento-nasce-dalla-vita-reale-non-dalla-memoria-ecco-perche-i-bambini-hanno-diritto-a-esperienze-viaggi-e-letture-non/",
+                "date": "17 Lug 2025",
+                "time": "14:59",
+                "image_link": "N/A"
+            },
             {
                 "category": "Comunicati stampa",
                 "title": "Immissioni in ruolo docenti: Emilia Romagna quarta per numero di assunzioni autorizzate (4.170)",
@@ -372,6 +404,14 @@
                 "image_link": "N/A"
             },
             {
+                "category": "Chiedilo a Lalla",
+                "title": "TUTORIAL | 150 preferenze supplenze GPS e GAE, conferma docenti sostegno. Come fare la domanda passo dopo passo. QUESTION TIME con Vannini (Uil Scuola Rua) [VIDEO]",
+                "link": "https://www.orizzontescuola.it/video-tutorial-150-preferenze-supplenze-gps-e-gae-conferma-docenti-sostegno-come-fare-la-domanda-passo-dopo-passo-question-time-con-vannini-uil-scuola-rua-live-giovedi-17-luglio-alle-1430/",
+                "date": "17 Lug 2025",
+                "time": "8:21",
+                "image_link": "N/A"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Alunna 12enne indossa a scuola la bandiera nazionale, ma viene cacciata dalla classe: “Inaccettabile”. Poi le scuse. Accade in Gran Bretagna",
                 "link": "https://www.orizzontescuola.it/alunna-12enne-indossa-a-scuola-la-bandiera-nazionale-ma-viene-cacciata-dalla-classe-inaccettabile-poi-le-scuse-accade-in-gran-bretagna/",
@@ -393,46 +433,6 @@
                 "link": "https://www.orizzontescuola.it/precari-da-domani-linvio-delle-domande-per-le-150-preferenze-da-gae-e-gps-la-raccomandazione-di-anief-massima-attenzione/",
                 "date": "16 Lug 2025",
                 "time": "20:53",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Docente in gita con classe non visita mostra sul Rinascimento. Sgarbi: “Insegnanti incapaci, ignoranti come capre”. Imputato per diffamazione, è stato prosciolto",
-                "link": "https://www.orizzontescuola.it/docente-in-gita-con-classe-non-visita-mostra-sul-rinascimento-sgarbi-insegnanti-incapaci-ignoranti-come-capre-imputato-per-diffamazione-e-stato-prosciolto/",
-                "date": "16 Lug 2025",
-                "time": "19:53",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Nel 2025 cresce la fiducia degli italiani nell’Intelligenza Artificiale, ma la competenza resta ferma: aumentano gli utenti, ma solo il 7% si dichiara esperto",
-                "link": "https://www.orizzontescuola.it/nel-2025-cresce-la-fiducia-degli-italiani-nellintelligenza-artificiale-ma-la-competenza-resta-ferma-aumentano-gli-utenti-ma-solo-il-7-si-dichiara-esperto/",
-                "date": "16 Lug 2025",
-                "time": "19:34",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Maturità, la protesta degli studenti all’orale. Il j’accuse di un insegnante: “Valutiamo persone non numeri, non siamo i boia del voto, stop alla demonizzazione, servono risorse non colpevolizzazioni”",
-                "link": "https://www.orizzontescuola.it/maturita-la-protesta-degli-studenti-allorale-il-jaccuse-di-un-insegnante-valutiamo-persone-non-numeri-non-siamo-i-boia-del-voto-stop-alla-demonizzazione-servono-risorse-non-colpevolizzazio/",
-                "date": "16 Lug 2025",
-                "time": "19:28",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Maturità, polemica sullo studente che chiede di abbassare il voto. Sasso (Lega) attacca la sinistra: “Grave strumentalizzare i giovani. Noi assumiamo 50mila docenti”",
-                "link": "https://www.orizzontescuola.it/maturita-polemica-sullo-studente-che-chiede-di-abbassare-il-voto-sasso-lega-attacca-la-sinistra-grave-strumentalizzare-i-giovani-noi-assumiamo-50mila-docenti/",
-                "date": "16 Lug 2025",
-                "time": "19:22",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Immissioni in ruolo docenti: in Friuli Venezia Giulia al via fase 1 anche per GM secondaria",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-in-friuli-venezia-giulia-fase-1-gae-e-gm-infanzia-e-primaria-fino-al-16-luglio/",
-                "date": "16 Lug 2025",
-                "time": "19:22",
                 "image_link": "N/A"
             }
         ]
@@ -559,6 +559,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "TFA sostegno X ciclo, ecco le date della prova scritta [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/tfa-sostegno-x-ciclo-le-date-della-prova-scritta-gia-a-luglio-in-aggiornamento/",
+                "date": "15 Lug 2025",
+                "time": "17:43",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_2011911242.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Supplenze da GPS, dal 17 luglio domanda 150 preferenze si aprirà senza graduatorie pubblicate per il 2025/26 né disponibilità dei posti?",
                 "link": "https://www.orizzontescuola.it/supplenze-da-gps-domani-17-luglio-domanda-150-preferenze-si-aprira-senza-graduatorie-pubblicate-per-il-2025-26-ne-disponibilita-dei-posti/",
                 "date": "15 Lug 2025",
@@ -596,14 +604,6 @@
                 "date": "15 Lug 2025",
                 "time": "11:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/Template_videoguide_1920x1080-1.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Assunti GPS sostegno e vincitori concorso non abilitati: utilizzazione se sono in soprannumero. Novità",
-                "link": "https://www.orizzontescuola.it/assunti-gps-sostegno-e-vincitori-concorso-non-abilitati-utilizzazione-se-sono-in-soprannumero-novita/",
-                "date": "15 Lug 2025",
-                "time": "9:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_1402278662.jpg"
             }
         ]
     },
