@@ -23,6 +23,7 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "GPS graduatorie valide per il 2025/26: ecco le pubblicazioni degli Uffici Scolastici [IN AGGIORNAMENTO]",
@@ -142,7 +143,12 @@
                 "date": "17 Lug 2025",
                 "time": "13:26",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2538269019.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Immissioni in ruolo docenti 2025/26: gli USR avviano anche la fase 2 (scelta sede). Come compilare la domanda. GUIDA Ministero",
@@ -150,12 +156,7 @@
                 "date": "17 Lug 2025",
                 "time": "12:58",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_1740162872.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "INDIRE TFA sostegno, Graduatorie triennalisti: Avviso su pagamenti e pubblicazione graduatorie aggiornate",
@@ -277,14 +278,6 @@
                 "date": "16 Lug 2025",
                 "time": "21:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze da GPS e legge 104: come funziona la precedenza per l’assistenza. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/supplenze-da-gps-e-legge-104-come-funziona-la-precedenza-per-lassistenza-pillole-di-question-time/",
-                "date": "16 Lug 2025",
-                "time": "20:06",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_1771351928.jpg"
             }
         ]
     },
@@ -559,6 +552,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Immissioni in ruolo docenti 2025-2026 al via la FASE 1: convocazioni, scelta province, posti disponibili e accantonati [SPECIALE con VIDEO GUIDA]",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-2025-2026-il-ministero-aggiorna-la-pagina-con-tutte-le-novita-normative-ecco-quali/",
+                "date": "16 Lug 2025",
+                "time": "7:22",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/Concorso-docenti-2025-2.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Conferma supplenza sostegno 2025/26: come funzionerà per i docenti scelti da interpello",
                 "link": "https://www.orizzontescuola.it/conferma-supplenza-sostegno-2025-26-come-funzionera-per-i-docenti-scelti-da-interpello/",
                 "date": "15 Lug 2025",
@@ -596,14 +597,6 @@
                 "date": "15 Lug 2025",
                 "time": "12:56",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_2033557268.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso ordinario insegnanti di religione cattolica: come si svolge la prova scritta il 16 e 17 luglio. ISTRUZIONI",
-                "link": "https://www.orizzontescuola.it/concorso-ordinario-insegnanti-di-religione-cattolica-come-si-svolge-la-prova-scritta-il-16-e-17-luglio-istruzioni/",
-                "date": "15 Lug 2025",
-                "time": "11:56",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/07/shutterstock_1676187676.jpg"
             }
         ]
     },
