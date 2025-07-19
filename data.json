@@ -24,6 +24,22 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze scuola 2025: 150 preferenze GPS, spezzoni, continuità didattica. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/supplenze-scuola-2025-150-preferenze-gps-spezzoni-continuita-didattica-risposte-ai-quesiti/",
+                "date": "19 Lug 2025",
+                "time": "19:58",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/09/shutterstock_174088637.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Galimberti: “Il problema non è lo smartphone ai ragazzi, ma l’assenza di strumenti per gestirlo. Una sfida culturale urgente, perché una società che ignora i suoi giovani è destinata a sparire”",
+                "link": "https://www.orizzontescuola.it/galimberti-il-problema-non-e-lo-smartphone-ai-ragazzi-ma-lassenza-di-strumenti-per-gestirlo-una-sfida-culturale-urgente-perche-una-societa-che-ignora-i-suoi-giovani-e-destinata-a-sparire/",
+                "date": "19 Lug 2025",
+                "time": "19:33",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/Galimberti.png"
+            },
+            {
                 "category": "Scuole",
                 "title": "Nuovo regolamento ANAC, tutte le regole aggiornate per la vigilanza e le sanzioni sui contratti pubblici, tra criteri di graduazione, procedimenti e fattispecie sanzionatorie",
                 "link": "https://www.orizzontescuola.it/nuovo-regolamento-anac-tutte-le-regole-aggiornate-per-la-vigilanza-e-le-sanzioni-sui-contratti-pubblici-tra-criteri-di-graduazione-procedimenti-e-fattispecie-sanzionatorie/",
@@ -134,7 +150,12 @@
                 "date": "19 Lug 2025",
                 "time": "10:49",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/09/mad-invio-gratuito-4-ottobre.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Genitori",
                 "title": "Bonus mamme lavoratrici 2025, fino a 480 euro netti per chi ha due o più figli, esclusioni, modalità di richiesta e cosa cambia dal 2027",
@@ -150,12 +171,7 @@
                 "date": "19 Lug 2025",
                 "time": "10:01",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_1996119905.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Dallo psicologo di primo livello alle équipe multiprofessionali per adolescenti: come il nuovo Piano nazionale salute mentale trasforma la prevenzione e il supporto nelle scuole. TESTO",
@@ -276,28 +292,44 @@
                 "date": "18 Lug 2025",
                 "time": "19:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_1388691593.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Stipendio docenti e ATA luglio 2025, cedolino scaricabile nell’area riservata di NoiPA. Bonus fiscale e indennità di vacanza contrattuale all’1%",
-                "link": "https://www.orizzontescuola.it/stipendio-docenti-e-ata-luglio-2025-importo-visibile-nellarea-riservata-di-noipa-bonus-fiscale-e-indennita-di-vacanza-contrattuale-all1/",
-                "date": "18 Lug 2025",
-                "time": "17:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_95097202.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Immissioni in ruolo docenti 25/26: i docenti già assunti lo scorso anno sono stati cancellati? Possono accettare nuovo incarico?",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-25-26-i-docenti-gia-assunti-lo-scorso-anno-sono-stati-cancellati-possono-accettare-nuovo-incarico/",
-                "date": "18 Lug 2025",
-                "time": "17:34",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_1164407152.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Genitori",
+                "title": "I neonati preferiscono la gentilezza: uno studio rivela che già a cinque giorni riconoscono i comportamenti",
+                "link": "https://www.orizzontescuola.it/i-neonati-preferiscono-la-gentilezza-uno-studio-rivela-che-gia-a-cinque-giorni-riconoscono-i-comportamenti/",
+                "date": "19 Lug 2025",
+                "time": "20:21",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Uno studente del sud tra i primi 50 studenti al mondo, ecco di chi si tratta",
+                "link": "https://www.orizzontescuola.it/uno-studente-del-sud-tra-i-primi-50-studenti-al-mondo-ecco-di-chi-si-tratta/",
+                "date": "19 Lug 2025",
+                "time": "20:09",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Voto a 16 anni: il Regno Unito cambia la storia, dal 2029 i giovanissimi potranno votare alle elezioni generali",
+                "link": "https://www.orizzontescuola.it/voto-a-16-anni-il-regno-unito-cambia-la-storia-dal-2029-i-giovanissimi-potranno-votare-alle-elezioni-generali/",
+                "date": "19 Lug 2025",
+                "time": "18:52",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Tennis-mania tra i più piccoli: dopo il trionfo di Sinner a Wimbledon, il pediatra: “La condivisione di passioni e interessi rafforza il senso di appartenenza”",
+                "link": "https://www.orizzontescuola.it/tennis-mania-tra-i-piu-piccoli-dopo-il-trionfo-di-sinner-a-wimbledon-il-pediatra-la-condivisione-di-passioni-e-interessi-rafforza-il-senso-di-appartenenza/",
+                "date": "19 Lug 2025",
+                "time": "18:27",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Primo soccorso, in Sardegna 10.000 studenti formati su rianimazione e defibrillatori",
@@ -409,44 +441,20 @@
                 "date": "19 Lug 2025",
                 "time": "12:21",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Scuole paritarie e Terzo settore: Fism chiede interventi urgenti per l’attuazione della delega fiscale e la tutela del non profit educativo",
-                "link": "https://www.orizzontescuola.it/scuole-paritarie-e-terzo-settore-fism-chiede-interventi-urgenti-per-lattuazione-della-delega-fiscale-e-la-tutela-del-non-profit-educativo/",
-                "date": "19 Lug 2025",
-                "time": "11:44",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Pubblica amministrazione del futuro, Zangrillo punta su talenti e semplificazione per rinnovare: “Meno burocrazia, più efficienza”",
-                "link": "https://www.orizzontescuola.it/pubblica-amministrazione-del-futuro-zangrillo-punta-su-talenti-e-semplificazione-per-rinnovare-meno-burocrazia-piu-efficienza/",
-                "date": "19 Lug 2025",
-                "time": "11:22",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Medicina, dal 12 gennaio 2026 le graduatorie nazionali, ecco date e regole per immatricolarsi dopo il semestre aperto",
-                "link": "https://www.orizzontescuola.it/medicina-dal-12-gennaio-2026-le-graduatorie-nazionali-ecco-date-e-regole-per-immatricolarsi-dopo-il-semestre-aperto/",
-                "date": "19 Lug 2025",
-                "time": "10:59",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Intelligenza artificiale, Fumarola (Cisl) lancia l’allarme: “Servono politiche attive e formazione continua per non perdere il treno europeo”",
-                "link": "https://www.orizzontescuola.it/intelligenza-artificiale-fumarola-cisl-lancia-lallarme-servono-politiche-attive-e-formazione-continua-per-non-perdere-il-treno-europeo/",
-                "date": "19 Lug 2025",
-                "time": "10:54",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Immissioni in ruolo docenti 25/26: i docenti già assunti lo scorso anno sono stati cancellati? Possono accettare nuovo incarico?",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-25-26-i-docenti-gia-assunti-lo-scorso-anno-sono-stati-cancellati-possono-accettare-nuovo-incarico/",
+                "date": "18 Lug 2025",
+                "time": "17:34",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Immissioni in ruolo 25/26: più vincitori di concorso saranno assunti nella stessa scuola, come verranno assegnati ai vari plessi?",
@@ -550,14 +558,6 @@
                 "date": "7 Lug 2025",
                 "time": "10:11",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Supplenze docenti GPS 2025: 104 e scelta sede, mancata indicazioni di alcune classi di concorso e conseguenze. Procedura",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-gps-2025-104-e-scelta-sede-mancata-indicazioni-di-alcune-classi-di-concorso-e-conseguenze-procedura/",
-                "date": "7 Lug 2025",
-                "time": "9:45",
-                "image_link": "N/A"
             }
         ]
     },
@@ -619,6 +619,22 @@
         "articles": [
             {
                 "category": "ATA",
+                "title": "Posizioni economiche ATA: come funzionano i corsi di formazione, è obbligatorio partecipare? RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-come-funzionano-i-corsi-di-formazione-e-obbligatorio-partecipare-risposte-ai-quesiti/",
+                "date": "18 Lug 2025",
+                "time": "8:38",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2491645949.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Assegnazioni provvisorie ATA 2025, domanda tramite PEC o PEO: occorre controllare gli avvisi degli Uffici scolastici provinciali",
+                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-ata-2025-domanda-tramite-pec-o-peo-occorre-controllare-gli-avvisi-degli-uffici-scolastici-provinciali/",
+                "date": "17 Lug 2025",
+                "time": "13:35",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2456756593.jpg"
+            },
+            {
+                "category": "ATA",
                 "title": "Posizioni economiche ATA, come accedere ai corsi di formazione. Ecco la piattaforma Scuola Futura. VIDEO",
                 "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-come-accedere-ai-corsi-di-formazione-ecco-la-piattaforma-scuola-futura-video/",
                 "date": "17 Lug 2025",
@@ -648,22 +664,6 @@
                 "date": "16 Lug 2025",
                 "time": "8:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/shutterstock_1796028529.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Assegnazioni provvisorie ATA 2025: come compilare la domanda, cosa allegare. RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-ata-2025-come-compilare-la-domanda-cosa-allegare-risposte-ai-quesiti/",
-                "date": "15 Lug 2025",
-                "time": "8:23",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1508556191.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Assegnazioni provvisorie personale ATA: quanti punti per tipo di esigenza. TABELLA",
-                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-personale-ata-quanti-punti-per-tipo-di-esigenza-tabella/",
-                "date": "14 Lug 2025",
-                "time": "14:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_1853707816-scaled.jpg"
             }
         ]
     },
