@@ -24,6 +24,70 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "ATA",
+                "title": "Graduatorie terza fascia ATA aggiornate: la riformulazione entro l’estate. Scuole al lavoro per la verifica delle CIAD",
+                "link": "https://www.orizzontescuola.it/graduatorie-terza-fascia-ata-aggiornate-la-riformulazione-entro-lestate-scuole-allopera-per-la-verifica-delle-ciad/",
+                "date": "24 Lug 2025",
+                "time": "13:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2456756593.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze, conferma nel 2025/16 dei docenti di sostegno, anche non specializzati: una precedenza ma non un diritto certo. Come si procede",
+                "link": "https://www.orizzontescuola.it/supplenze-conferma-nel-2025-16-dei-docenti-di-sostegno-anche-non-specializzati-una-precedenza-ma-non-un-diritto-certo-come-si-procede/",
+                "date": "24 Lug 2025",
+                "time": "12:48",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/09/shutterstock_1007144038.jpg"
+            },
+            {
+                "category": "Studenti",
+                "title": "Il segreto del successo agli esami? Sostenerlo alle 12! Lo studio dell’Università di Messina su 104mila esami svela quando gli studenti hanno più chance di essere promossi",
+                "link": "https://www.orizzontescuola.it/il-segreto-del-successo-agli-esami-sostenerlo-alle-12-lo-studio-delluniversita-di-messina-su-104mila-esami-svela-quando-gli-studenti-hanno-piu-chance-di-essere-promossi/",
+                "date": "24 Lug 2025",
+                "time": "12:33",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2507996211.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Assegnazioni provvisorie personale ATA, possibile domanda per ricongiungimento al partner. Cosa s’intende per “conviventi di fatto”",
+                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-personale-ata-possibile-domanda-per-ricongiungimento-al-partner-cosa-sintende-per-conviventi-di-fatto/",
+                "date": "24 Lug 2025",
+                "time": "11:56",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/shutterstock_1178530120-scaled.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "ATA 24 mesi 2025/26: ecco le graduatorie. In molte province pronte le definitive [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-2025-26-ecco-le-prime-provvisorie-in-aggiornamento/",
+                "date": "24 Lug 2025",
+                "time": "11:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1508556191.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Supplenza docente ruolo art. 47: conviene incarico al 30 giugno o 31 agosto?",
+                "link": "https://www.orizzontescuola.it/supplenza-docente-ruolo-art-47-conviene-incarico-al-30-giugno-o-31-agosto/",
+                "date": "24 Lug 2025",
+                "time": "11:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_576645505.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Supplenze GPS 150 preferenze: la scelta delle scuole, ecco le info utili. QUESTION TIME con Bufanini. LIVE Giovedì 24 luglio alle 14:30",
+                "link": "https://www.orizzontescuola.it/supplenze-gps-150-preferenze-la-scelta-delle-scuole-ecco-le-info-utili-question-time-con-bufanini-live-giovedi-24-luglio-alle-1430/",
+                "date": "24 Lug 2025",
+                "time": "10:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/Template_questiontime_1920x1080-31.png"
+            },
+            {
+                "category": "Scuole",
+                "title": "Esoneri docenti scuole in reggenza: altre 254,5 posizioni nelle Regioni che hanno adottato delibera di dimensionamento. DECRETO",
+                "link": "https://www.orizzontescuola.it/esoneri-docenti-nelle-scuole-in-reggenza-altre-2545-posizioni-nelle-regioni-che-hanno-adottato-delibera-di-dimensionamento-decreto/",
+                "date": "24 Lug 2025",
+                "time": "10:34",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_1853707816-scaled.jpg"
+            },
+            {
                 "category": "Docenti",
                 "title": "Assegnazioni provvisorie e utilizzazioni docenti a tempo determinato: quando verrà trattata la loro domanda? In che ordine?",
                 "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-e-utilizzazioni-docenti-a-tempo-determinato-quando-verra-trattata-la-loro-domanda-in-che-ordine/",
@@ -86,7 +150,12 @@
                 "date": "24 Lug 2025",
                 "time": "8:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_1903057546.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Intelligenza artificiale, accountability e scuola: verso una PA responsabile, inclusiva, trasparente",
@@ -107,14 +176,6 @@
             null,
             null,
             {
-                "category": "Chiedilo a Lalla",
-                "title": "Supplenze GPS 150 preferenze: la scelta delle scuole, ecco le info utili. QUESTION TIME con Bufanini. LIVE Giovedì 24 luglio alle 14:30",
-                "link": "https://www.orizzontescuola.it/supplenze-gps-150-preferenze-la-scelta-delle-scuole-ecco-le-info-utili-question-time-con-bufanini-live-giovedi-24-luglio-alle-1430/",
-                "date": "23 Lug 2025",
-                "time": "21:28",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/Template_questiontime_1920x1080-31.png"
-            },
-            {
                 "category": "Diventare Insegnanti",
                 "title": "Immissioni in ruolo 2025/26: primaria Lombardia e ADSS Veneto, ancora posti vuoti dopo lo scorrimento delle graduatorie. Come saranno assegnati?",
                 "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-2025-26-primaria-lombardia-e-adss-veneto-ancora-posti-vuoti-dopo-lo-scorrimento-delle-graduatorie-come-saranno-assegnati/",
@@ -129,12 +190,7 @@
                 "date": "23 Lug 2025",
                 "time": "19:17",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/FjTRfGFX0AIJ7PH-scaled.jpeg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze 2025/26, domanda entro il 30 luglio ore 14.00. Come funziona la preferenza “PROVINCIA”, quale ordine seguirà l’algoritmo",
@@ -222,61 +278,36 @@
                 "date": "23 Lug 2025",
                 "time": "12:19",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_409299112-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Assegnazioni provvisoria docenti 2025, riepilogo su Allegati, prima preferenza, coerenza con documentazione. RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/assegnazioni-provvisoria-docenti-2025-riepilogo-su-allegati-prima-preferenza-coerenza-con-documentazione-ri/",
-                "date": "23 Lug 2025",
-                "time": "11:39",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_2163523083-1.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Assolvimento degli obblighi di pubblicazione: organizzazione dei contenuti del 2025 entro il 31 ottobre. NOTA MIM e delibera ANAC",
-                "link": "https://www.orizzontescuola.it/assolvimento-degli-obblighi-di-pubblicazione-organizzazione-dei-contenuti-del-2025-entro-il-31-ottobre-nota-mim-e-delibera-anac/",
-                "date": "23 Lug 2025",
-                "time": "11:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_448663597.jpg"
-            },
-            null,
-            {
-                "category": "Politica scolastica",
-                "title": "Dalla “stretta” anti-diplomificio alla digitalizzazione obbligatoria: cos’è cambiato davvero per le scuole paritarie con la nuova legge che promette trasparenza, controlli e regole più rigorose per studenti e gestori?",
-                "link": "https://www.orizzontescuola.it/dalla-stretta-anti-diplomificio-alla-digitalizzazione-obbligatoria-cose-cambiato-davvero-per-le-scuole-paritarie-con-la-nuova-legge-che-promette-trasparenza-controlli-e-regole-piu-rigor/",
-                "date": "23 Lug 2025",
-                "time": "10:45",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_240604669.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Assegnazioni provvisorie 25/26: deroga per un soggetto e ricongiungimento ad un altro. Prima preferenza",
-                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-25-26-deroga-per-un-soggetto-e-ricongiungimento-ad-un-altro-prima-preferenza/",
-                "date": "23 Lug 2025",
-                "time": "10:22",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/11/hamburg-2687544_1280-1200x800.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "ATA 24 mesi 2025/26: ecco le graduatorie. In molte province pronte le definitive [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-2025-26-ecco-le-prime-provvisorie-in-aggiornamento/",
-                "date": "23 Lug 2025",
-                "time": "9:52",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1508556191.jpg"
-            },
-            {
-                "category": "Plus",
-                "title": "Supplenze GPS 20225/26; ti aiutiamo a compilare la domanda. Prenota la tua data + Guida in PDF",
-                "link": "https://www.orizzontescuola.it/supplenze-150-preferenze-la-consulenza-personalizzata-posti-limitati-prenota-la-tua-data-guida-in-pdf/",
-                "date": "23 Lug 2025",
-                "time": "9:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/Copia-di-Presentazione-Digitale-Retro-Minimal-Bianco-e-Verde-Acqua-1200-x-630-px-1000-x-500-px-2.png"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Comunicati stampa",
+                "title": "Cuzzupi (UGL Scuola): “Per una scuola moderna indispensabili stabilizzazioni e semplificazione”",
+                "link": "https://www.orizzontescuola.it/cuzzupi-ugl-scuola-per-una-scuola-moderna-indispensabili-stabilizzazioni-e-semplificazione/",
+                "date": "24 Lug 2025",
+                "time": "12:26",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "70% dei fondi PNRR a istruzione e infrastrutture sociali, +70% spese in conto capitale, ma 470 Comuni in crisi: la doppia faccia delle risorse locali",
+                "link": "https://www.orizzontescuola.it/70-dei-fondi-pnrr-a-istruzione-e-infrastrutture-sociali-70-spese-in-conto-capitale-ma-470-comuni-in-crisi-la-doppia-faccia-delle-risorse-locali/",
+                "date": "24 Lug 2025",
+                "time": "11:53",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "L’appello della fisica Gabriella Greison ai giovani laureati: “Prendetevi il futuro senza paura e insegnate che un’equazione può cambiare il mondo”",
+                "link": "https://www.orizzontescuola.it/lappello-della-fisica-gabriella-greison-ai-giovani-laureati-prendetevi-il-futuro-senza-paura-e-insegnate-a-tutti-che-unequazione-puo-cambiare-il-mondo/",
+                "date": "24 Lug 2025",
+                "time": "10:36",
+                "image_link": "N/A"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze docenti 2925/26, Avviso urgente scuole Torino per conferme sostegno",
@@ -396,36 +427,20 @@
                 "date": "23 Lug 2025",
                 "time": "11:54",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Ferma il bullismo e il cyberbullismo prima che sia troppo tardi”: al via lo spot del Dipartimento per le Politiche della famiglia",
-                "link": "https://www.orizzontescuola.it/ferma-il-bullismo-e-il-cyberbullismo-prima-che-sia-troppo-tardi-al-vis-lo-spot-del-dipartimento-per-le-politiche-della-famiglia/",
-                "date": "23 Lug 2025",
-                "time": "11:37",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Compiti per le vacanze, Ricucci: “Non devono essere uguali per tutti e devono essere pochi per avere pause e ozio”. Compiti ma non solo",
-                "link": "https://www.orizzontescuola.it/compiti-per-le-vacanze-ricucci-non-devono-essere-uguali-per-tutti-e-devono-essere-pochi-per-avere-pause-e-ozio-compiti-ma-non-solo/",
-                "date": "23 Lug 2025",
-                "time": "11:28",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Non capivo come facessero gli altri a leggere tanti libri”, la voce di Andrea Delogu illumina la dislessia e rivela come le strategie scolastiche possano cambiare il destino di chi pensa in modo diverso",
-                "link": "https://www.orizzontescuola.it/non-capivo-come-facessero-gli-altri-a-leggere-tanti-libri-la-voce-di-andrea-delogu-illumina-la-dislessia-e-rivela-come-le-strategie-scolastiche-possano-cambiare-il-destino-di-chi-pensa-in-modo-di/",
-                "date": "23 Lug 2025",
-                "time": "9:57",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Assegnazioni provvisorie 25/26: deroga per un soggetto e ricongiungimento ad un altro. Prima preferenza",
+                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-25-26-deroga-per-un-soggetto-e-ricongiungimento-ad-un-altro-prima-preferenza/",
+                "date": "23 Lug 2025",
+                "time": "10:22",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Assegnazione provvisoria e utilizzazione: è possibile chiedere contemporaneamente ambedue i movimenti",
@@ -528,14 +543,6 @@
                 "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-25-26-piu-vincitori-di-concorso-saranno-assunti-nella-stessa-scuola-come-verranno-assegnati-ai-vari-plessi/",
                 "date": "17 Lug 2025",
                 "time": "17:29",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Immissioni in ruolo docenti 25/26: assunti GPS 22/23 non sono stati cancellati dalle graduatorie",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-25-26-assunti-gps-22-23-non-sono-stati-cancellati-dalle-graduatorie/",
-                "date": "16 Lug 2025",
-                "time": "13:30",
                 "image_link": "N/A"
             }
         ]
