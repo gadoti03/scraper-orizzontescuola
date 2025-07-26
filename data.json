@@ -25,6 +25,31 @@
         "articles": [
             {
                 "category": "Cronaca",
+                "title": "Metaverso e didattica, una nuova frontiera o soltanto una moda passeggera",
+                "link": "https://www.orizzontescuola.it/metaverso-e-didattica-una-nuova-frontiera-o-soltanto-una-moda-passeggera/",
+                "date": "26 Lug 2025",
+                "time": "9:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/shutterstock_2565271475.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Divieto di utilizzo dei cellulari in classe: tra la responsabilità della custodia dei device e l’impossibilità di effettuare perquisizioni. Cosa fare",
+                "link": "https://www.orizzontescuola.it/divieto-di-utilizzo-dei-cellulari-in-classe-tra-la-responsabilita-della-custodia-dei-device-e-limpossibilita-di-effettuare-perquisizioni-cosa-fare/",
+                "date": "26 Lug 2025",
+                "time": "8:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/shutterstock_2372838693.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "I docenti usano l’IA per il proprio lavoro? “Vorrei usarla, ma non so come”, ma chi la usa lo fa principalmente per risparmiare tempo",
+                "link": "https://www.orizzontescuola.it/i-docenti-usano-lia-per-il-proprio-lavoro-vorrei-usarla-ma-non-so-come-ma-chi-la-usa-lo-fa-principalmente-per-risparmiare-tempo/",
+                "date": "26 Lug 2025",
+                "time": "7:57",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/shutterstock_2380984587.jpg"
+            },
+            null,
+            {
+                "category": "Cronaca",
                 "title": "Strumenti compensativi, prove equipollenti e PDP, il TAR respinge la richiesta e spiega perché la bocciatura rappresenti una forma di tutela e non un pregiudizio. SENTENZA",
                 "link": "https://www.orizzontescuola.it/strumenti-compensativi-prove-equipollenti-e-pdp-il-tar-respinge-la-richiesta-e-spiega-perche-la-bocciatura-rappresenti-una-forma-di-tutela-e-non-un-pregiudizio-sentenza/",
                 "date": "25 Lug 2025",
@@ -118,7 +143,12 @@
                 "date": "25 Lug 2025",
                 "time": "16:27",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2198390061.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Percorsi di orientamento triennio superiori: pubblicato il Manuale Operativo Gestione (MOG)",
@@ -150,12 +180,7 @@
                 "date": "25 Lug 2025",
                 "time": "15:33",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_735971833.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Docenti",
                 "title": "Assegnazioni provvisorie e utilizzazioni docenti e ATA, ecco i Contratti integrativi regionali: utilizzo su sostegno, part time, ottimizzazione cattedra",
@@ -260,23 +285,36 @@
                 "date": "25 Lug 2025",
                 "time": "8:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/Immagine-promobox-3.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "La relazione tecnico-finanziaria del DSGA al contratto di istituto",
-                "link": "https://www.orizzontescuola.it/la-relazione-tecnico-finanziaria-del-dsga-al-contratto-di-istituto/",
-                "date": "25 Lug 2025",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1129583327.jpg"
-            },
-            null,
-            null,
-            null
+            }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Genitori",
+                "title": "Sesso dei figli: non solo questione di fortuna. Nuove ricerche svelano il ruolo dell’età materna e delle scelte familiari",
+                "link": "https://www.orizzontescuola.it/sesso-dei-figli-non-solo-questione-di-fortuna-nuove-ricerche-svelano-il-ruolo-delleta-materna-e-delle-scelte-familiari/",
+                "date": "26 Lug 2025",
+                "time": "8:48",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Tim Burton ai giovani: “Mi sento fortunato a essere nato in un’epoca in cui non esistevano i social, voi vivete imbevuti in questo universo. Se leggo i commenti sui social sono orribili, mi vorrei ammazzare”",
+                "link": "https://www.orizzontescuola.it/tim-burton-ai-giovani-mi-sento-fortunato-a-essere-nato-in-unepoca-in-cui-non-esistevano-i-social-voi-vivete-imbevuti-in-questo-universo-se-leggo-i-commenti-sui-social-sono-orribili-mi-vorrei-a/",
+                "date": "26 Lug 2025",
+                "time": "8:37",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Svelato il segreto del pianto nei neonati: la scienza dimostra che non tutto dipende dalle cure dei genitori, ma da un mix unico di DNA e ambiente che modella ogni personalità sin dalla nascita",
+                "link": "https://www.orizzontescuola.it/svelato-il-segreto-del-pianto-nei-neonati-la-scienza-dimostra-che-non-tutto-dipende-dalle-cure-dei-genitori-ma-da-un-mix-unico-di-dna-e-ambiente-che-modella-ogni-personalita-sin-dalla-nascita/",
+                "date": "26 Lug 2025",
+                "time": "8:29",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Un nuovo modello di collaborazione scuola-impresa: EduCare sostiene laboratori, efficienza energetica e sicurezza nelle scuole",
@@ -389,24 +427,7 @@
                 "date": "25 Lug 2025",
                 "time": "15:58",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Pubblicità e inclusione: italiani sempre più critici verso stereotipi di genere ed età, ma chiedono coerenza e autenticità ai brand",
-                "link": "https://www.orizzontescuola.it/pubblicita-e-inclusione-italiani-sempre-piu-critici-verso-stereotipi-di-genere-ed-eta-ma-chiedono-coerenza-e-autenticita-ai-brand/",
-                "date": "25 Lug 2025",
-                "time": "15:16",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Approvato in Senato il DDL che introduce il reato di Femminicidio, l’Anief ricorda il suo impegno per la tutela delle donne vittime di violenza",
-                "link": "https://www.orizzontescuola.it/approvato-in-senato-il-ddl-che-introduce-il-reato-di-femminicidio-lanief-ricorda-il-suo-impegno-per-la-tutela-delle-donne-vittime-di-violenza/",
-                "date": "25 Lug 2025",
-                "time": "15:13",
-                "image_link": "N/A"
-            },
-            null
+            }
         ]
     },
     "group_5": {
@@ -690,6 +711,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Docente inclusione: il cambio nome non basta. Lettera",
+                "link": "https://www.orizzontescuola.it/docente-inclusione-il-cambio-nome-non-basta-lettera/",
+                "date": "26 Lug 2025",
+                "time": "9:11",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "Eroi a metà, anzi no! Lettera",
                 "link": "https://www.orizzontescuola.it/eroi-a-meta-anzi-no-lettera/",
                 "date": "25 Lug 2025",
@@ -726,14 +755,6 @@
                 "link": "https://www.orizzontescuola.it/listruzione-realmente-accessibile-a-tutti-cambia-il-lessico-lettera/",
                 "date": "20 Lug 2025",
                 "time": "19:19",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "No al colloquio della maturità. Se voi studenti intuite di dover migliorare, io sono con voi. Lettera",
-                "link": "https://www.orizzontescuola.it/no-al-colloquio-della-maturita-se-voi-studenti-intuite-di-dover-migliorare-io-sono-con-voi-lettera/",
-                "date": "20 Lug 2025",
-                "time": "18:50",
                 "image_link": "N/A"
             }
         ]
