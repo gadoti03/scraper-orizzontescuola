@@ -3,26 +3,66 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "Diventare Insegnanti",
+                "title": "Immissioni in ruolo docenti da concorsi PNRR, 30% idonei viene integrato e superato in caso di graduatoria esaurita e posti dei rinunciatari da coprire",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-da-concorsi-pnrr-30-idonei-viene-integrato-e-superato-in-caso-di-graduatoria-esaurita-e-posti-dei-rinunciatari-da-coprire/",
+                "date": "30 Lug 2025",
+                "time": "11:04",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2518506853.jpg"
+            },
+            {
                 "category": "Cronaca",
                 "title": "L’amore ai tempi della fictosexualità: cosa significa amare personaggi non reali nell’era digitale",
                 "link": "https://www.orizzontescuola.it/lamore-ai-tempi-della-fictosexualita-cosa-significa-amare-personaggi-non-reali-nellera-digitale/",
                 "date": "29 Lug 2025",
                 "time": "8:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/castelluccio.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Ruolo da GPS sostegno 2025, nomine possibili già dal 1° agosto ed entro il 13. 5 giorni di tempo per accettare o rifiutare. Chi rinuncia non partecipa alle supplenze",
-                "link": "https://www.orizzontescuola.it/ruolo-da-gps-sostegno-2025-nomine-possibili-gia-dal-1-agosto-ed-entro-il-13-5-giorni-di-tempo-per-accettare-o-rifiutare-chi-rinuncia-non-partecipa-alle-supplenze/",
-                "date": "29 Lug 2025",
-                "time": "7:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2176731709.jpg"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Da docenti già di ruolo a precari che devono rifare il concorso: accade nelle Marche, posto primaria. Cosa è successo",
+                "link": "https://www.orizzontescuola.it/da-docenti-gia-di-ruolo-a-precari-che-devono-rifare-il-concorso-accade-nelle-marche-posto-primaria-cosa-e-successo/",
+                "date": "30 Lug 2025",
+                "time": "14:41",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2471325395.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Assegnazioni provvisorie docenti 25/26: ordine operazioni. Chi si muove prima e chi dopo",
+                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-docenti-25-26-ordine-operazioni-chi-si-muove-prima-e-chi-dopo/",
+                "date": "30 Lug 2025",
+                "time": "14:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2016/12/3gwolkitamy-josh-wilburne-1200x800.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Graduatorie ATA 24 mesi 2025/26: ecco le provvisorie e le definitive [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-2025-26-ecco-le-prime-provvisorie-in-aggiornamento/",
+                "date": "30 Lug 2025",
+                "time": "13:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2359899605.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Docenti assunti per ruolo da GPS sostegno 25/26 avranno vincolo triennale e quinquennale. Quali le deroghe possibili",
+                "link": "https://www.orizzontescuola.it/docenti-assunti-per-ruolo-da-gps-sostegno-25-26-avranno-vincolo-triennale-e-quinquennale-quali-le-deroghe-possibili/",
+                "date": "30 Lug 2025",
+                "time": "12:47",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/01/insegnanti-mad-sostegno-2022.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Posizioni economiche ATA: indicazioni, FAQ e assistenza. Online la pagina di supporto dedicata a chi segue i corsi di formazione",
+                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-indicazioni-faq-e-assistenza-online-la-pagina-di-supporto-dedicata-a-chi-segue-i-corsi-di-formazione/",
+                "date": "30 Lug 2025",
+                "time": "11:23",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/Screenshot-2025-07-30-110952.png"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Supplenze GaE e GPS 2025/26: cattedra completa più 6 ore nella scuola paritaria?",
@@ -96,7 +136,12 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/shutterstock_2465473963-1.jpg"
             },
             null,
-            null,
+            null
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Genitori",
                 "title": "Su Tik Tok ecco i genitori FAFO (“Fregatene, trova tu una soluzione”) Novara: “Un’emerita stupidaggine, una parodia del cognitivismo”",
@@ -130,19 +175,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2554071589.jpg"
             },
             {
-                "category": "ATA",
-                "title": "Graduatorie ATA 24 mesi 2025/26: ecco le provvisorie e le definitive [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-2025-26-ecco-le-prime-provvisorie-in-aggiornamento/",
-                "date": "29 Lug 2025",
-                "time": "20:29",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2359899605.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
-            {
                 "category": "Politica scolastica",
                 "title": "Decreto Scuola e Università diventa legge: assunzione docenti concorso PNRR1, assicurazione per studenti, insegnanti e ATA, genitori nel CSPI ed educatori. Cosa è previsto",
                 "link": "https://www.orizzontescuola.it/decreto-scuola-e-universita-diventa-legge-assunzione-docenti-concorso-pnrr1-assicurazione-per-studenti-docenti-e-ata-genitori-nel-cspi-ed-educatori-cosa-e-previsto/",
@@ -152,7 +184,7 @@
             },
             {
                 "category": "Scuole",
-                "title": "Compensi personale ATA per le pratiche pensionistiche, Ministero chiarisce: sono compresi i funzionari EQ con incarico DSGA",
+                "title": "Compensi personale ATA per le pratiche pensionistiche, sono compresi i funzionari EQ con incarico DSGA. NOTA",
                 "link": "https://www.orizzontescuola.it/compensi-personale-ata-per-le-pratiche-pensionistiche-ministero-chiarisce-sono-compresi-i-funzionari-eq-con-incarico-dsga/",
                 "date": "29 Lug 2025",
                 "time": "19:45",
@@ -253,44 +285,68 @@
                 "date": "29 Lug 2025",
                 "time": "15:01",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/09/shutterstock_1240130032.jpg"
-            },
-            {
-                "category": "Plus",
-                "title": "Inizio anno scolastico: la guida operativa per Dirigenti, DSGA, segreterie, staff. 180 pagine di istruzioni e 162 circolari e documenti già pronti",
-                "link": "https://www.orizzontescuola.it/inizio-anno-scolastico-la-guida-operativa-per-dirigenti-dsga-segreterie-staff-180-pagine-di-istruzioni-e-piu-di-70-circolari-e-documenti-gia-pronti/",
-                "date": "29 Lug 2025",
-                "time": "13:16",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/Con-piu-di-70-circolari-e-documenti-gia-pronti-2.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "Nasce l’Orchestra nazionale dei licei musicali: il debutto il 30 ottobre. Candidature entro il 12 settembre. NOTA",
-                "link": "https://www.orizzontescuola.it/nasce-lorchestra-nazionale-dei-licei-musicali-il-debutto-il-30-ottobre-candidature-entro-il-12-settembre-nota/",
-                "date": "29 Lug 2025",
-                "time": "12:51",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_1017300907.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Alunno promosso con 9 all’esame di terza media, i genitori vogliono il 10 e fanno ricorso al Tar, ma i giudici danno loro torto. Il commento del giurista: “La Giustizia non è un gioco”",
-                "link": "https://www.orizzontescuola.it/alunno-promosso-con-9-allesame-di-terza-media-i-genitori-vogliono-il-10-e-fanno-ricorso-al-tar-ma-i-giudici-danno-loro-torto-il-commento-del-giurista-la-giustizia-non-e-un-gioco/",
-                "date": "29 Lug 2025",
-                "time": "12:33",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/03/giustizia.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "963 ATA in posizione di comando presso gli USR: gli AVVISI e le scadenze",
-                "link": "https://www.orizzontescuola.it/963-ata-in-posizione-di-comando-presso-gli-usr-gli-avvisi-e-le-scadenze/",
-                "date": "29 Lug 2025",
-                "time": "12:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_2167465293.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "AI Act, Italia in corsa per rispettare le scadenze del 2 agosto: il governo cerca di recuperare il ritardo",
+                "link": "https://www.orizzontescuola.it/ai-act-italia-in-corsa-per-rispettare-le-scadenze-del-2-agosto-il-governo-cerca-di-recuperare-il-ritardo/",
+                "date": "30 Lug 2025",
+                "time": "13:47",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Rinnovo contratto Funzioni Centrali 2022-24, Uil scioglie la riserva e firma",
+                "link": "https://www.orizzontescuola.it/rinnovo-contratto-funzioni-centrali-2022-24-uil-scioglie-la-riserva-e-firma/",
+                "date": "30 Lug 2025",
+                "time": "13:39",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Renzi attacca Giuli: “Ha tagliato il Bonus Cultura come uno studente fuori corso. Era un vero investimento sui giovani”",
+                "link": "https://www.orizzontescuola.it/renzi-attacca-giuli-ha-tagliato-il-bonus-cultura-come-uno-studente-fuori-corso-era-un-vero-investimento-sui-giovani/",
+                "date": "30 Lug 2025",
+                "time": "11:57",
+                "image_link": "N/A"
+            },
+            {
+                "category": "ATA",
+                "title": "963 ATA in posizione di comando presso gli USR: gli AVVISI e le scadenze",
+                "link": "https://www.orizzontescuola.it/963-ata-in-posizione-di-comando-presso-gli-usr-gli-avvisi-e-le-scadenze/",
+                "date": "30 Lug 2025",
+                "time": "11:48",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Docenti precari, oggi ultimo giorno per presentare domanda per le 150 preferenze Gps, quali tempo e procedure per arrivare alle assunzioni? Anief risponde",
+                "link": "https://www.orizzontescuola.it/docenti-precari-oggi-ultimo-giorno-per-presentare-domanda-per-le-150-preferenze-gps-quali-tempo-e-procedure-per-arrivare-alle-assunzioni-anief-risponde/",
+                "date": "30 Lug 2025",
+                "time": "11:29",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Papa Leone XIV contro la “bulimia digitale”: un appello per relazioni autentiche",
+                "link": "https://www.orizzontescuola.it/papa-leone-xiv-contro-la-bulimia-digitale-un-appello-per-relazioni-autentiche/",
+                "date": "30 Lug 2025",
+                "time": "10:47",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Nuoto tra le materie scolastiche? In Germania metà dei bimbi non sa nuotare e chi non sa nuotare rischia di morire. Una carenza che interpella anche l’Italia",
+                "link": "https://www.orizzontescuola.it/nuovo-tra-le-materie-scolastiche-in-germania-meta-dei-bimbi-non-sa-nuotare-una-carenza-che-interpella-anche-litalia/",
+                "date": "30 Lug 2025",
+                "time": "10:41",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Dieta halal nelle scuole, parte la petizione: “Stop immediato”",
@@ -377,62 +433,6 @@
                 "link": "https://www.orizzontescuola.it/formazione-obbligatoria-dei-docenti-a-settembre-la-ripartizione-delle-risorse-rosano-anief-occorre-garantire-il-diritto-a-tutto-il-personale/",
                 "date": "29 Lug 2025",
                 "time": "16:06",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Studenti",
-                "title": "Quando l’insufficienza costa cara: 2 rimandati su 3 vanno a ripetizioni, spendendo in media 287 euro ciascuno",
-                "link": "https://www.orizzontescuola.it/quando-linsufficienza-costa-cara-2-rimandati-su-3-vanno-a-ripetizioni-spendendo-in-media-287-euro-ciascuno/",
-                "date": "29 Lug 2025",
-                "time": "16:01",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Pensioni",
-                "title": "Pensione agosto 2025, sarà erogata giorno 1: come controllare",
-                "link": "https://www.orizzontescuola.it/pensione-agosto-2025-sara-erogato-giorno-1-come-controllare/",
-                "date": "29 Lug 2025",
-                "time": "14:48",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "PNRR edilizia scolastica: il 31 luglio webinar MIM su comunicazione e pubblicità interventi. AVVISO",
-                "link": "https://www.orizzontescuola.it/pnrr-edilizia-scolastica-il-31-luglio-webinar-mim-su-comunicazione-e-pubblicita-interventi-avviso/",
-                "date": "29 Lug 2025",
-                "time": "13:10",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "In Italia solo 1 bambino su 3 sa nuotare in sicurezza, il pediatra: “La scuola rappresenta il luogo ideale per imparare a nuotare, inserirlo come disciplina curriculare”",
-                "link": "https://www.orizzontescuola.it/in-italia-solo-1-bambino-su-3-sa-nuotare-in-sicurezza-il-pediatra-la-scuola-rappresenta-il-luogo-ideale-per-imparare-a-nuotare-inserirlo-come-disciplina-curriculare/",
-                "date": "29 Lug 2025",
-                "time": "12:24",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Istat comunica che gli stipendi del personale sono i più bassi della PA (-8.000 euro rispetto ai Ministeri), Anief ricorda che invece 10 anni fa erano maggiori: servono risorse in bilancio per colmare il gap nel Ccnl entro il 2030",
-                "link": "https://www.orizzontescuola.it/istat-comunica-che-gli-stipendi-del-personale-sono-i-piu-bassi-della-pa-8-000-euro-rispetto-ai-ministeri-anief-ricorda-che-invece-10-anni-fa-erano-maggiori-servono-risorse-in-bilancio-per-colmare/",
-                "date": "29 Lug 2025",
-                "time": "12:09",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Il CNOP sollecita modifiche al Piano Nazionale per la Salute Mentale: “Superare la visione psichiatrico-centrica”",
-                "link": "https://www.orizzontescuola.it/il-cnop-sollecita-modifiche-al-piano-nazionale-per-la-salute-mentale-superare-la-visione-psichiatrico-centrica/",
-                "date": "29 Lug 2025",
-                "time": "12:05",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Scuole medie aperte anche di pomeriggio: al via la sperimentazione in Emilia Romagna",
-                "link": "https://www.orizzontescuola.it/scuole-medie-aperte-anche-di-pomeriggio-al-via-la-sperimentazione-in-emilia-romagna/",
-                "date": "29 Lug 2025",
-                "time": "12:03",
                 "image_link": "N/A"
             }
         ]
@@ -559,6 +559,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Corsi specializzazione sostegno INDIRE per triennalisti, pubblicato il calendario didattico: lezioni a partire da fine luglio. SCARICA il PDF",
+                "link": "https://www.orizzontescuola.it/corsi-sostegno-indire-pubblicato-il-calendario-didattico-lezioni-a-partire-da-fine-luglio-scarica-il-pdf/",
+                "date": "28 Lug 2025",
+                "time": "16:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/05/Calendario.jpeg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Supplenze da GaE e GPS 2026, come compilare la preferenza SPEZZONE. Tutte le risposte",
                 "link": "https://www.orizzontescuola.it/supplenze-da-gae-e-gps-2026-come-compilare-la-preferenza-spezzone-tutte-le-risposte/",
                 "date": "27 Lug 2025",
@@ -596,14 +604,6 @@
                 "date": "26 Lug 2025",
                 "time": "15:33",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_594891590.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: si può compilare la sezione Continuità sostegno se l’alunno ha cambiato scuola?",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-26-si-puo-compilare-la-sezione-continuita-sostegno-se-lalunno-ha-cambiato-scuola/",
-                "date": "26 Lug 2025",
-                "time": "12:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_735971875.jpg"
             }
         ]
     },
