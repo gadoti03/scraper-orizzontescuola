@@ -1,38 +1,769 @@
 {
     "group_1": {
         "title": "Notizie in Evidenza",
-        "articles": []
+        "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Assunzioni docenti da GPS sostegno per il ruolo, ecco i  BOLLETTINI. 5 giorni di tempo per ACCETTARE",
+                "link": "https://www.orizzontescuola.it/assunzioni-docenti-da-gps-sostegno-per-il-ruolo-ecco-il-primo-bollettino-5-giorni-di-tempo-per-accettare/",
+                "date": "1 Ago 2025",
+                "time": "13:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1349362136.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Perché è  importante star bene a scuola per gli studenti e i docenti: come fare? Ne abbiamo parlato con Daniele Novara. INTERVISTA",
+                "link": "https://www.orizzontescuola.it/perche-e-importante-star-bene-a-scuola-per-gli-studenti-e-i-docenti-come-fare-ne-abbiamo-parlato-con-daniele-novara-intervista/",
+                "date": "1 Ago 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/Novara.jpeg"
+            }
+        ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
-        "articles": []
+        "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Il virus dei gruppi WhatsApp scolastici contagia i genitori: dal “buongiorno con emoji” alle dispute per il regalo delle maestre, l’anatomia sociale di un fenomeno digitale fuori controllo",
+                "link": "https://www.orizzontescuola.it/il-virus-dei-gruppi-whatsapp-scolastici-contagia-i-genitori-dal-buongiorno-con-emoji-alle-dispute-per-il-regalo-delle-maestre-lanatomia-sociale-di-un-fenomeno-digitale-fuori-controllo/",
+                "date": "1 Ago 2025",
+                "time": "14:32",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2464186563.jpg"
+            },
+            {
+                "category": "Dirigenti scolastici",
+                "title": "Valutazione dei Dirigenti scolastici: funzionalità piattaforma attive dal 1° agosto al 20 settembre. NOTA",
+                "link": "https://www.orizzontescuola.it/valutazione-dei-dirigenti-scolastici-funzionalita-piattaforma-attive-dal-1-agosto-al-20-settembre-nota/",
+                "date": "1 Ago 2025",
+                "time": "12:31",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1936676008-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Immissioni in ruolo docenti 2025/26, proseguono scorrimenti da GM concorsi. Non si può superare il 30% di idonei PNRR, in Veneto 1.589 posti alle GPS sostegno",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2025-26-proseguono-scorrimenti-da-gm-concorsi-non-si-puo-superare-il-30-di-idonei-pnrr-in-veneto-1-589-posti-alle-gps-sostegno/",
+                "date": "1 Ago 2025",
+                "time": "12:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_1875061333.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Inizio scuola 2025, posticipare il ritorno in classe a ottobre? Il parere del meteorologo Giuliacci: “Giugno è peggio di settembre",
+                "link": "https://www.orizzontescuola.it/inizio-scuola-2025-posticipare-il-ritorno-in-classe-a-ottobre-il-parere-del-meteorologo-giuliacci-giugno-e-peggio-di-settembre/",
+                "date": "1 Ago 2025",
+                "time": "12:28",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/shutterstock_2180966313-scaled.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Valditara: “Mamma e papà tornino autorevoli. Il genitore deve amare il figlio, deve voler bene al figlio, ma non è il compagno di giochi del figlio”",
+                "link": "https://www.orizzontescuola.it/valditara-mamma-e-papa-tornino-autorevoli-il-genitore-deve-amare-il-figlio-deve-voler-bene-al-figlio-ma-non-e-il-compagno-di-giochi-del-figlio/",
+                "date": "1 Ago 2025",
+                "time": "12:19",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/Valditara.jpeg"
+            },
+            {
+                "category": "ATA",
+                "title": "Disoccupazione NASpI, malfunzionamento piattaforma SIISL. INPS: nessun impatto sui pagamenti, ecco cosa fare",
+                "link": "https://www.orizzontescuola.it/disoccupazione-naspi-malfunzionamento-piattaforma-siisl-inps-nessun-impatto-sui-pagamento-ecco-cosa-fare/",
+                "date": "1 Ago 2025",
+                "time": "12:16",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_711786115.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Valditara difende la scuola: “Performance superiori rispetto alla narrazione. Insegnanti all’altezza, quelli del Sud eccellono nelle regioni del Nord”",
+                "link": "https://www.orizzontescuola.it/valditara-difende-la-scuola-italiana-performance-superiori-rispetto-alla-narrazione-insegnanti-allaltezza-quelli-del-sud-eccellono-nelle-regioni-del-nord/",
+                "date": "1 Ago 2025",
+                "time": "12:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/Valditara_2.jpeg"
+            },
+            {
+                "category": "ATA",
+                "title": "ATA seconda fascia: in pubblicazione le graduatorie aggiornate. Quando si utilizzano",
+                "link": "https://www.orizzontescuola.it/ata-seconda-fascia-in-pubblicazione-le-graduatorie-aggiornate-quando-si-utilizzano/",
+                "date": "1 Ago 2025",
+                "time": "11:59",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2331500305.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "MAD docenti a.s. 2025/26: a Trento domande aperte fino all’11 agosto ore 14",
+                "link": "https://www.orizzontescuola.it/mad-docenti-a-s-2025-2026-a-trento-domande-aperte-fino-all11-agosto-ore-14/",
+                "date": "1 Ago 2025",
+                "time": "11:42",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1785502850-scaled.jpg"
+            },
+            {
+                "category": "Dirigenti scolastici",
+                "title": "Assunzione 2025/26 Dirigenti scolastici: saranno 326 da concorso ordinario, di cui 8 riservate al Concorso Regione Campania 2011. La Tabella. Operazioni entro Ferragosto",
+                "link": "https://www.orizzontescuola.it/assunzione-dirigenti-scolastici-saranno-326-assunzioni-tramite-concorso-ordinario-e-8-riservate-al-concorso-regione-campania-2011-la-tabella/",
+                "date": "1 Ago 2025",
+                "time": "11:22",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/03/shutterstock_161215310.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Assegnazioni provvisorie docenti 2025/26: domanda per altra classe concorso non accettata. Possibili motivi",
+                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-docenti-2025-26-domanda-per-altra-classe-concorso-non-accettata-possibili-motivi/",
+                "date": "1 Ago 2025",
+                "time": "11:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2016/12/ms6bswtcvkg-scott-webb-1200x799.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "GPS graduatorie valide per il 2025/26: ecco le pubblicazioni degli Uffici Scolastici [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/gps-uffici-scolastici-iniziano-a-pubblicare-graduatorie-per-il-2025-26-in-aggiornamento/",
+                "date": "1 Ago 2025",
+                "time": "10:53",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_735971833.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Graduatorie ATA 24 mesi 2025/26: verso i ruoli, tante le definitive pubblicate [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-2025-26-ecco-le-prime-provvisorie-in-aggiornamento/",
+                "date": "1 Ago 2025",
+                "time": "10:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2359899605.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Ruoli 2025/26 per il sostegno da GPS prima fascia, in Sicilia non ci saranno",
+                "link": "https://www.orizzontescuola.it/ruoli-2025-26-per-il-sostegno-da-gps-ecco-dove-non-ci-saranno/",
+                "date": "1 Ago 2025",
+                "time": "10:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2498448781.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Graduatorie terza fascia ATA aggiornate entro l’estate. La tempistica per la verifica delle CIAD cambia da provincia a provincia",
+                "link": "https://www.orizzontescuola.it/graduatorie-terza-fascia-ata-aggiornate-la-riformulazione-entro-lestate-scuole-allopera-per-la-verifica-delle-ciad/",
+                "date": "1 Ago 2025",
+                "time": "10:27",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1863569833-scaled.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Posizioni economiche ATA: quando si concludono i corsi, come tracciare le ore e verificare lo stato di avanzamento. FAQ Indire",
+                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-quando-si-concludono-i-corsi-come-tracciare-le-ore-e-verificare-lo-stato-di-avanzamento-faq-indire/",
+                "date": "1 Ago 2025",
+                "time": "10:19",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
+            }
+        ]
     },
     "group_3": {
         "title": "Ultime Notizie",
-        "articles": []
+        "articles": [
+            {
+                "category": "Plus",
+                "title": "Il Kit per avviare l’anno scolastico: tutte le procedure con 157 documenti già pronti all’utilizzo + 2 video",
+                "link": "https://www.orizzontescuola.it/il-kit-per-avviare-lanno-scolastico-tutte-le-procedure-con-155-documenti-gia-utili-allutilizzo/",
+                "date": "1 Ago 2025",
+                "time": "10:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/Neo-Dirigente-1.png"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Supplenze GPS 2025/26: docente ruolo non può partecipare per la classe di concorso o posto di titolarità",
+                "link": "https://www.orizzontescuola.it/supplenze-gps-2025-26-docente-ruolo-non-puo-partecipare-per-la-classe-di-concorso-o-posto-di-titolarita/",
+                "date": "1 Ago 2025",
+                "time": "9:33",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/07/shutterstock_748685188-e1597322006268.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "UIL Scuola Rua contro il disegno di legge sul consenso informato: “Violata l’autonomia scolastica”",
+                "link": "https://www.orizzontescuola.it/uil-scuola-rua-contro-il-disegno-di-legge-sul-consenso-informato-violata-lautonomia-scolastica/",
+                "date": "1 Ago 2025",
+                "time": "9:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/DAprile.jpeg"
+            },
+            {
+                "category": "Genitori",
+                "title": "Bonus Asilo Nido rivoluzionato: domanda valida fino ai 3 anni (non si dovrà presentare ogni anno) e accesso garantito a nidi, micronidi e sezioni primavera in tutta Italia",
+                "link": "https://www.orizzontescuola.it/bonus-asilo-nido-rivoluzionato-domanda-valida-fino-ai-3-anni-non-si-dovra-presentare-ogni-anno-e-accesso-garantito-a-nidi-micronidi-e-sezioni-primavera-in-tutta-italia/",
+                "date": "1 Ago 2025",
+                "time": "9:05",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/09/shutterstock_393077005.jpg"
+            },
+            {
+                "category": "Didattica",
+                "title": "Le nuove frontiere della didattica: attivazione cognitiva, coinvolgimento, metacognizione. Di cosa si tratta",
+                "link": "https://www.orizzontescuola.it/le-nuove-frontiere-della-didattica-attivazione-cognitiva-coinvolgimento-metacognizione-di-cosa-si-tratta/",
+                "date": "1 Ago 2025",
+                "time": "9:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2209518121.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Compiti di realtà e Intelligenza Artificiale: dall’idea al prodotto finale, come progettare valutazioni innovative",
+                "link": "https://www.orizzontescuola.it/compiti-di-realta-e-intelligenza-artificiale-dallidea-al-prodotto-finale-come-progettare-valutazioni-innovative/",
+                "date": "1 Ago 2025",
+                "time": "8:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_638342005.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Il caffè è un diritto, ma troppe pause al bar può costarti il posto di lavoro: legittimo il licenziamento. Mancata esposizione codice disciplinare, non sempre è un problema",
+                "link": "https://www.orizzontescuola.it/il-caffe-e-un-diritto-ma-troppe-pause-al-bar-puo-costarti-il-posto-di-lavoro-legittimo-il-licenziamento-mancata-esposizione-codice-disciplinare-non-sempre-e-un-problema/",
+                "date": "1 Ago 2025",
+                "time": "8:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/shutterstock_2477578681.jpg"
+            },
+            null,
+            {
+                "category": "Plus",
+                "title": "162 modelli di circolari e documenti per l’inizio anno scolastico, dalla sicurezza al piano annuale allo smartworking, al Piano Estate",
+                "link": "https://www.orizzontescuola.it/100-modelli-circolari-e-documenti-per-linizio-anno-scolastico-dalla-sicurezza-al-piano-annuale-2/",
+                "date": "1 Ago 2025",
+                "time": "6:09",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/100-1-2.png"
+            },
+            {
+                "category": "Scuole",
+                "title": "Scadenze agosto 2025 per docenti e ATA: assunzioni e assegnazioni provvisorie, ultime ferie, compensi aggiuntivi",
+                "link": "https://www.orizzontescuola.it/scadenze-agosto-2025-per-docenti-e-ata-assunzioni-e-assegnazioni-provvisorie-ultime-ferie-compensi-aggiuntivii/",
+                "date": "1 Ago 2025",
+                "time": "5:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_710754361.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Assunzioni per il ruolo da GPS sostegno docenti 2025/26: posti disponibili per provincia e scuola [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/assunzioni-da-gps-sostegno-per-il-ruolo-2025-26-posti-per-provincia-in-aggiornamento/",
+                "date": "31 Lug 2025",
+                "time": "22:21",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso ordinario insegnanti di religione cattolica: dove vedere l’esito della prova scritta",
+                "link": "https://www.orizzontescuola.it/concorso-ordinario-insegnanti-di-religione-cattolica-dove-vedere-lesito-della-prova-scritta/",
+                "date": "31 Lug 2025",
+                "time": "21:16",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_341870168-scaled.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Concorrente gara d’appalto obbligato a partecipare a tutti e tre i lotti, ANAC: illegittimo",
+                "link": "https://www.orizzontescuola.it/concorrente-gara-dappalto-obbligato-a-partecipare-a-tutti-e-tre-i-lotti-anac-illegittimo/",
+                "date": "31 Lug 2025",
+                "time": "20:58",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1687192501-scaled.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Lingue di minoranza, ricerca scuola per organizzazione seminario nazionale. Domande entro il 12 agosto. BANDO",
+                "link": "https://www.orizzontescuola.it/lingue-di-minoranza-ricerca-scuola-per-organizzazione-seminario-nazionale-domande-entro-il-12-agosto-bando/",
+                "date": "31 Lug 2025",
+                "time": "20:33",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_2337896503.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Programma valorizzazione delle eccellenze 2025/26: iniziative e modalità per il riconoscimento. DECRETO",
+                "link": "https://www.orizzontescuola.it/programma-valorizzazione-delle-eccellenze-2025-26-iniziative-e-modalita-per-il-riconoscimento-decreto/",
+                "date": "31 Lug 2025",
+                "time": "20:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1874731318-scaled.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Posti in deroga sostegno per assegnazioni provvisorie o supplenze al 30 giugno 2026, ecco i decreti [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/posti-in-deroga-sostegno-per-assegnazioni-provvisorie-o-supplenze-al-30-giugno-2026-ecco-i-decreti-in-aggiornamento/",
+                "date": "31 Lug 2025",
+                "time": "19:43",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1349362136.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Immissioni in ruolo GPS sostegno Infanzia e Primaria: servizio durante SFP non si valuta se prestato nello stesso grado in cui si ottiene il punteggio aggiuntivo",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-gps-sostegno-infanzia-e-primaria-servizio-durante-sfp-non-si-valuta-se-prestato-nello-stesso-grado-in-cui-si-ottiene-il-punteggio-aggiuntivo/",
+                "date": "31 Lug 2025",
+                "time": "19:41",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2471109121.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Docente titolare su COE per trasferimento: quando potrà lavorare su cattedra interna",
+                "link": "https://www.orizzontescuola.it/docente-titolare-su-coe-per-trasferimento-quando-potra-lavorare-su-cattedra-interna/",
+                "date": "31 Lug 2025",
+                "time": "19:32",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_576645505.jpg"
+            }
+        ]
     },
     "group_4": {
         "title": "In Breve",
-        "articles": []
+        "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Infanzie traumatiche segnano il futuro: una ricerca negli Stati Uniti conferma il legame con il fenomeno dei senza dimora",
+                "link": "https://www.orizzontescuola.it/infanzie-traumatiche-segnano-il-futuro-una-ricerca-negli-stati-uniti-conferma-il-legame-con-il-fenomeno-dei-senza-dimora/",
+                "date": "1 Ago 2025",
+                "time": "14:08",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Idonei concorso 2020, scorrimento GM 498 e 499, il Movimento “Idonei 2020 per il ruolo, gli invisibili”: “La soluzione c’è stata, grazie al Ministro”",
+                "link": "https://www.orizzontescuola.it/idonei-concorso-2020-scorrimento-gm-498-e-499-il-movimento-idonei-2020-per-il-ruolo-gli-invisibili-la-soluzione-ce-stata-grazie-al-ministro/",
+                "date": "1 Ago 2025",
+                "time": "13:45",
+                "image_link": "N/A"
+            },
+            null,
+            {
+                "category": "Comunicati stampa",
+                "title": "Docenti e servizio prestato nelle scuole paritarie, Anief: “300mila in attesa della decisione della Corte di Giustizia europea”",
+                "link": "https://www.orizzontescuola.it/docenti-e-servizio-prestato-nelle-scuole-paritarie-anief-300mila-in-attesa-della-decisione-della-corte-di-giustizia-europea/",
+                "date": "1 Ago 2025",
+                "time": "12:48",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Valditara si racconta da Marzullo: “Ho ricevuto un’educazione molto tradizionale. Prima il dovere, poi il piacere”",
+                "link": "https://www.orizzontescuola.it/valditara-si-racconta-da-marzullo-ho-ricevuto-uneducazione-molto-tradizionale-prima-il-dovere-poi-il-piacere/",
+                "date": "1 Ago 2025",
+                "time": "12:36",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Pittoni (Lega): “Nuove procedure per sveltire le assunzioni dei docenti”",
+                "link": "https://www.orizzontescuola.it/pittoni-lega-nuove-procedure-per-sveltire-le-procedure-di-assunzione-dei-docenti/",
+                "date": "1 Ago 2025",
+                "time": "12:22",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Giovani violenti, aggressione in parrocchia: volontario 71enne in prognosi riservata dopo un pugno sferrato da un 16enne",
+                "link": "https://www.orizzontescuola.it/giovani-violenti-aggressione-in-parrocchia-volontario-71enne-in-prognosi-riservata-dopo-un-pugno-sferrato-da-un-16enne/",
+                "date": "1 Ago 2025",
+                "time": "11:51",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Alunno bocciato all’esame di terza media, una mamma si sfoga: “I compiti delle vacanze li deve fare? È esonerato o deve rovinarsi pure l’estate?”",
+                "link": "https://www.orizzontescuola.it/alunno-bocciato-allesame-di-terza-media-una-mamma-si-sfoga-i-compiti-delle-vacanze-li-deve-fare-e-esonerato-o-deve-rovinarsi-pure-lestate/",
+                "date": "1 Ago 2025",
+                "time": "9:11",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Docenti",
+                "title": "Assegnazioni provvisorie docenti Bari, 285 domande da fuori provincia + 109 cartacee",
+                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-docenti-bari-285-domande-da-fuori-provincia-109-cartacee/",
+                "date": "1 Ago 2025",
+                "time": "9:10",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Venezia ‘razzista’, ancora episodi contro gli studenti del Sud. “Terrona di m***a”, e viene cacciata. “È un razzismo ‘normalizzato'”. Il video",
+                "link": "https://www.orizzontescuola.it/venezia-razzista-ancora-episodi-contro-gli-studenti-del-sud-terrona-di-ma-e-viene-cacciata-e-un-razzismo-normalizzato-il-video/",
+                "date": "1 Ago 2025",
+                "time": "8:45",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Edilizia scolastica: prorogato al 13 luglio 2026 il termine per i Piani 2023/25",
+                "link": "https://www.orizzontescuola.it/edilizia-scolastica-prorogato-al-13-luglio-2026-il-termine-per-i-piani-2023-25/",
+                "date": "31 Lug 2025",
+                "time": "20:45",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Mobilità gratuita per universitari: nasce in Piemonte la tessera Piemove che fa scuola in Italia, il ministro Pichetto la definisce “traguardo storico” per diritto allo studio e ambiente",
+                "link": "https://www.orizzontescuola.it/mobilita-gratuita-per-universitari-nasce-in-piemonte-la-tessera-piemove-che-fa-scuola-in-italia-il-ministro-pichetto-la-definisce-traguardo-storico-per-diritto-allo-studio-e-ambiente/",
+                "date": "31 Lug 2025",
+                "time": "17:53",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Studenti",
+                "title": "Il semestre aperto mantiene l’appeal di Medicina: 66.414 iscrizioni totali confermano l’interesse",
+                "link": "https://www.orizzontescuola.it/il-semestre-aperto-mantiene-lappeal-di-medicina-66-414-iscrizioni-totali-confermano-linteresse/",
+                "date": "31 Lug 2025",
+                "time": "17:41",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Riforma del voto in condotta, Valditara: “Sanzioni? Non più strumenti unicamente punitivi o sostanzialmente inutili, ma più scuola e più partecipazione”",
+                "link": "https://www.orizzontescuola.it/riforma-del-voto-in-condotta-valditara-sanzioni-non-piu-strumenti-unicamente-punitivi-o-sostanzialmente-inutili-ma-piu-scuola-e-piu-partecipazione/",
+                "date": "31 Lug 2025",
+                "time": "17:39",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Roccella: “Scuola non può sostituire famiglia in crisi, genitori responsabili formano figli consapevoli contro violenza di genere”",
+                "link": "https://www.orizzontescuola.it/roccella-scuola-non-puo-sostituire-famiglia-in-crisi-genitori-responsabili-formano-figli-consapevoli-contro-violenza-di-genere/",
+                "date": "31 Lug 2025",
+                "time": "17:16",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Riforma voto in condotta, Pacifico (Anief): “Siamo d’accordo, serve anche insegnamento di educazione civica affidato a esperti”",
+                "link": "https://www.orizzontescuola.it/riforma-voto-in-condotta-pacifico-anief-siamo-daccordo-serve-anche-insegnamento-di-educazione-civica-affidato-a-esperti/",
+                "date": "31 Lug 2025",
+                "time": "16:12",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Suor Anna Monia Alfieri: “La scuola paritaria resiste nonostante tutto, serve una riforma per l’equità educativa”",
+                "link": "https://www.orizzontescuola.it/suor-anna-monia-alfieri-la-scuola-paritaria-resiste-nonostante-tutto-serve-una-riforma-per-lequita-educativa/",
+                "date": "31 Lug 2025",
+                "time": "16:05",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Immissioni in ruolo docenti 2025/26, suddivisione per classe di concorso in ogni regione [con RETTIFICHE]",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2025-26-ecco-la-suddivisione-per-classe-di-concorso-in-ogni-regione-e-accantonamenti-pnrr2/",
+                "date": "31 Lug 2025",
+                "time": "15:58",
+                "image_link": "N/A"
+            }
+        ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
-        "articles": []
+        "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Assegnazione provvisoria docenti, domanda annullata per aver sbagliato la prima preferenza per chiedere il ricongiungimento",
+                "link": "https://www.orizzontescuola.it/assegnazione-provvisoria-docenti-domanda-annullata-per-non-aver-sbagliato-la-prima-preferenza-per-chiedere-il-ricongiungimento/",
+                "date": "31 Lug 2025",
+                "time": "9:33",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Supplenze GaE e GPS 2025/26: cattedra completa più 6 ore nella scuola paritaria?",
+                "link": "https://www.orizzontescuola.it/supplenze-gae-e-gps-2025-26-cattedra-completa-piu-6-ore-nella-scuola-paritaria/",
+                "date": "30 Lug 2025",
+                "time": "10:02",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Immissioni in ruolo docenti 25/26, meno posti dal concorso per riassorbire gli esuberi",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-25-26-posti-disponibili-assegnati-a-province-diverse-da-quelle-di-destinazione-iniziale-scomparsi-perche-assegnati-tutti-alla-mobilita/",
+                "date": "29 Lug 2025",
+                "time": "15:49",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Immissioni ruolo 25/26: sono stato individuato su una classe si concorso e potrei esserlo anche in un’altra. Cosa faccio con l’accettazione?",
+                "link": "https://www.orizzontescuola.it/immissioni-ruolo-25-26-sono-stato-individuato-su-una-classe-si-concorso-e-potrei-esserlo-anche-in-unaltra-cosa-faccio-con-laccettazione/",
+                "date": "29 Lug 2025",
+                "time": "15:01",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Immissioni in ruolo 25/26: anno prova non si ripete nello stesso grado, anche se assunti con riserva. Vincoli e mobilità",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-25-26-anno-prova-non-si-ripete-nello-stesso-grado-anche-se-assunti-con-riserva-vincoli-e-mobilita/",
+                "date": "29 Lug 2025",
+                "time": "11:00",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Immissioni in ruolo 25/26 e cancellazione graduatorie: effettuata subito dopo il superamento dell’anno di prova?",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-25-26-e-cancellazione-graduatorie-effettuata-subito-dopo-il-superamento-dellanno-di-prova/",
+                "date": "28 Lug 2025",
+                "time": "14:59",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Supplenze GPS 25/26: docente di ruolo può restare incluso per le sole graduatorie incrociate?",
+                "link": "https://www.orizzontescuola.it/supplenze-gps-25-26-docente-di-ruolo-puo-restare-incluso-per-le-sole-graduatorie-incrociate/",
+                "date": "28 Lug 2025",
+                "time": "12:58",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Incarichi per ruolo GPS sostegno 25/26: rinunciatari per sedi non espresse possono partecipare alle supplenze",
+                "link": "https://www.orizzontescuola.it/incarichi-per-ruolo-gps-sostegno-25-26-rinunciatari-per-sedi-non-espresse-possono-partecipare-alle-supplenze/",
+                "date": "28 Lug 2025",
+                "time": "10:27",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Assegnazione provvisoria in altra scuola: se si ottiene, quali saranno le conseguenze sul punteggio",
+                "link": "https://www.orizzontescuola.it/assegnazione-provvisoria-in-altra-scuola-se-si-ottiene-quali-saranno-le-conseguenze-sul-punteggio/",
+                "date": "27 Lug 2025",
+                "time": "14:00",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Utilizzazione docenti 2025/26: come si calcola il punteggio",
+                "link": "https://www.orizzontescuola.it/utilizzazione-docenti-2025-26-come-si-calcola-il-punteggio/",
+                "date": "26 Lug 2025",
+                "time": "12:45",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Assegnazione provvisoria docenti per ricongiungimento familiare: come valgono le preferenze nella domanda",
+                "link": "https://www.orizzontescuola.it/assegnazione-provvisoria-docenti-per-ricongiungimento-familiare-come-valgono-le-preferenze-nella-domanda/",
+                "date": "26 Lug 2025",
+                "time": "11:09",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Nuova immissione in ruolo: il vecchio decade in automatico? Cosa deve fare il docente?",
+                "link": "https://www.orizzontescuola.it/nuova-immissione-in-ruolo-il-vecchio-decade-in-automatico-cosa-deve-fare-il-docente/",
+                "date": "25 Lug 2025",
+                "time": "11:15",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Assegnazioni provvisorie 25/26: la sola domanda non fa perdere la continuità di servizio",
+                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-25-26-la-sola-domanda-non-fa-perdere-la-continuita-di-servizio/",
+                "date": "25 Lug 2025",
+                "time": "10:23",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Assegnazione provvisoria docenti 2025/26, sul sostegno senza titolo: quando è possibile presentare domanda",
+                "link": "https://www.orizzontescuola.it/assegnazione-provvisoria-sul-sostegno-senza-titolo-quando-e-possibile-presentare-domanda-2/",
+                "date": "24 Lug 2025",
+                "time": "13:44",
+                "image_link": "N/A"
+            }
+        ]
     },
     "group_6": {
         "title": "Diventare Insegnanti",
-        "articles": []
+        "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Nuova immissione ruolo docente già a tempo indeterminato: come si calcolerà anzianità di servizio",
+                "link": "https://www.orizzontescuola.it/nuova-immissione-ruolo-docente-gia-a-tempo-indeterminato-come-si-calcolera-anzianita-di-servizio/",
+                "date": "30 Lug 2025",
+                "time": "15:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1129962923-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Da docenti già di ruolo a precari che devono rifare il concorso: accade nelle Marche, posto primaria. Cosa è successo",
+                "link": "https://www.orizzontescuola.it/da-docenti-gia-di-ruolo-a-precari-che-devono-rifare-il-concorso-accade-nelle-marche-posto-primaria-cosa-e-successo/",
+                "date": "30 Lug 2025",
+                "time": "14:41",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2471325395.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Docenti assunti per ruolo da GPS sostegno 25/26 avranno vincolo triennale e quinquennale. Quali le deroghe possibili",
+                "link": "https://www.orizzontescuola.it/docenti-assunti-per-ruolo-da-gps-sostegno-25-26-avranno-vincolo-triennale-e-quinquennale-quali-le-deroghe-possibili/",
+                "date": "30 Lug 2025",
+                "time": "12:47",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/01/insegnanti-mad-sostegno-2022.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Immissioni in ruolo docenti da concorsi PNRR, 30% idonei viene integrato e superato in caso di graduatoria esaurita e posti dei rinunciatari da coprire",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-da-concorsi-pnrr-30-idonei-viene-integrato-e-superato-in-caso-di-graduatoria-esaurita-e-posti-dei-rinunciatari-da-coprire/",
+                "date": "30 Lug 2025",
+                "time": "11:04",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2518506853.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "GPS, 150 preferenze supplenze 2026: il completamento dello spezzone e il timore di essere considerati rinunciatari i due rompicapo della domanda. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/gps-150-preferenze-supplenze-2026-il-completamento-dello-spezzone-e-il-timore-di-essere-considerati-rinunciatari-i-due-rompicapo-della-domanda-risposte-ai-quesiti/",
+                "date": "30 Lug 2025",
+                "time": "9:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_594891590.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: chi chiede la conferma su sostegno deve inserire quella scuola tra le 150? Cos’è il “bollettino zero”",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-26-chi-chiede-la-conferma-su-sostegno-deve-inserire-quella-scuola-tra-le-150-in-prima-posizione/",
+                "date": "30 Lug 2025",
+                "time": "5:57",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_59277838.jpg"
+            }
+        ]
     },
     "group_7": {
         "title": "Notizie ATA",
-        "articles": []
+        "articles": [
+            {
+                "category": "ATA",
+                "title": "Un collaboratore scolastico anticipa l’uscita di mezz’ora e viene denunciato alla Corte dei Conti per danno erariale",
+                "link": "https://www.orizzontescuola.it/un-collaboratore-scolastico-anticipa-luscita-di-mezzora-e-viene-denunciato-alla-corte-dei-conti-per-danno-erariale/",
+                "date": "30 Lug 2025",
+                "time": "8:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/shutterstock_1516477328.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Nuove posizioni economiche ATA, da oggi e fino al 12 settembre i corsi per assistenti. Il 28 agosto terminano quelli per collaboratori e operatori",
+                "link": "https://www.orizzontescuola.it/nuove-posizioni-economiche-ata-oggi-e-fino-al-12-settembre-i-corsi-per-assistenti-fino-al-28-agosto-quelli-per-collaboratori-e-operatori/",
+                "date": "30 Lug 2025",
+                "time": "8:07",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1936676008-scaled.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Posizioni economiche ATA, il riconoscimento economico dal 1° settembre 2024. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-il-riconoscimento-economico-dal-1-settembre-2024-risposte-ai-quesiti/",
+                "date": "29 Lug 2025",
+                "time": "8:21",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_1645535227.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Posizioni economiche ATA, non c’è un punteggio minimo per superare il test di valutazione",
+                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-non-ce-un-punteggio-minimo-per-superare-il-test-di-valutazione/",
+                "date": "28 Lug 2025",
+                "time": "10:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_409299112-scaled.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Supplenze ATA, non si può passare da collaboratore scolastico ad amministrativo dopo la presa di servizio. Si può però attendere",
+                "link": "https://www.orizzontescuola.it/supplenze-ata-non-si-puo-passare-da-collaboratore-scolastico-ad-amministrativo-dopo-la-presa-di-servizio-si-puo-pero-attendere/",
+                "date": "27 Lug 2025",
+                "time": "8:36",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Supplenze ATA 2025/26: non ci saranno convocazioni per operatore scolastico. Mobilità verticale entro quest’anno",
+                "link": "https://www.orizzontescuola.it/supplenze-ata-2025-26-non-ci-saranno-le-convocazioni-da-operatore-scolastico-mobilita-verticale-entro-questanno/",
+                "date": "26 Lug 2025",
+                "time": "17:42",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_484027591.jpg"
+            }
+        ]
     },
     "group_8": {
         "title": "Didattica",
-        "articles": []
+        "articles": [
+            {
+                "category": "Didattica",
+                "title": "Gamification e Storytelling nella didattica",
+                "link": "https://www.orizzontescuola.it/gamification-e-storytelling-nella-didattica/",
+                "date": "29 Giu 2025",
+                "time": "8:01",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_5274478.jpg"
+            },
+            {
+                "category": "Didattica",
+                "title": "Perché utilizzare il diario di bordo come strumento didattico, anzi: pedagogico e neurodidattico",
+                "link": "https://www.orizzontescuola.it/perche-utilizzare-il-diario-di-bordo-come-strumento-didattico-anzi-pedagogico-e-neurodidattico/",
+                "date": "16 Giu 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/shutterstock_587466605.jpg"
+            },
+            {
+                "category": "Didattica",
+                "title": "Scuole che formano band musicali, “Il Suono delle Scuole”: di cosa si tratta. Un modello replicabile di sinergia scolastica, civica e creativa",
+                "link": "https://www.orizzontescuola.it/scuole-che-formano-band-musicali-il-suono-delle-scuole-di-cosa-si-tratta-un-modello-replicabile-di-sinergia-scolastica-civica-e-creativa/",
+                "date": "9 Giu 2025",
+                "time": "8:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/shutterstock_2459962969.jpg"
+            },
+            {
+                "category": "Didattica",
+                "title": "La centralità della scuola nella formazione etica e civica, proposte operative: dal debate al metodo autobiografico, dalla redazione di codici etici ai gemellaggi. Con documenti da scaricare",
+                "link": "https://www.orizzontescuola.it/la-centralita-della-scuola-nella-formazione-etica-e-civica-proposte-operative-dal-debate-al-metodo-autobiografico-dalla-redazione-di-codici-etici-ai-gemellaggi-con-documenti-da-scaricare/",
+                "date": "29 Mag 2025",
+                "time": "8:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2365341849.jpg"
+            },
+            {
+                "category": "Didattica",
+                "title": "“La scuola è la priorità di una comunità. La cultura il suo destino”, la pace come progetto educativo condiviso: come operare, quando iniziare e come valutare questo processo. Scarica i progetti",
+                "link": "https://www.orizzontescuola.it/la-scuola-e-la-priorita-di-una-comunita-la-cultura-il-suo-destino-la-pace-come-progetto-educativo-condiviso-come-operare-quando-iniziare-e-come-valutare-questo-processo-scarica-i-progetti/",
+                "date": "28 Mag 2025",
+                "time": "8:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/Screenshot-2025-05-28-070231.png"
+            },
+            {
+                "category": "Didattica",
+                "title": "Come gestire la classe, farla diventare un luogo sicuro: mini guida per insegnanti consapevoli",
+                "link": "https://www.orizzontescuola.it/come-gestire-la-classe-farla-diventare-un-luogo-sicuro-mini-guida-per-insegnanti-consapevoli/",
+                "date": "27 Mag 2025",
+                "time": "9:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2441967959.jpg"
+            }
+        ]
     },
     "group_9": {
         "title": "Lettere in Redazione",
-        "articles": []
+        "articles": [
+            {
+                "category": "Lettere in redazione",
+                "title": "Intelligenza artificiale a scuola: il Mim sbaglia bersaglio. Lettera",
+                "link": "https://www.orizzontescuola.it/intelligenza-artificiale-a-scuola-il-mim-sbaglia-bersaglio-lettera/",
+                "date": "30 Lug 2025",
+                "time": "9:35",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
+                "title": "Dal liceo classico la dote del ragionamento complesso che non si perde per tutta la vita. Lettera",
+                "link": "https://www.orizzontescuola.it/dal-liceo-classico-la-dote-del-ragionamento-complesso-che-non-si-perde-per-tutta-la-vita-lettera/",
+                "date": "29 Lug 2025",
+                "time": "12:38",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
+                "title": "Effetto emulazione nel rifiutarsi di sostenere prova orale Esami di Stato: i ragazzi cercano più empatia, più umanità. Lettera",
+                "link": "https://www.orizzontescuola.it/effetto-emulazione-nel-rifiutarsi-di-sostenere-prova-orale-esami-di-stato-i-ragazzi-cercano-piu-empatia-piu-umanita-lettera/",
+                "date": "28 Lug 2025",
+                "time": "21:06",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
+                "title": "Il rifiuto dell’Esame di Maturità e l’approccio fenomenico. Lettera",
+                "link": "https://www.orizzontescuola.it/il-rifiuto-dellesame-di-maturita-e-lapproccio-fenomenico-lettera/",
+                "date": "28 Lug 2025",
+                "time": "16:48",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
+                "title": "Immissioni in ruolo, illusione ingiustificata per turno aperto per idonei 2020 poi annullato. Lettera",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-illusione-ingiustificata-per-turno-aperto-per-idonei-2020-poi-annullato-lettera/",
+                "date": "28 Lug 2025",
+                "time": "11:42",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
+                "title": "L’ambiente di apprendimento nei processi formativi. Lettera",
+                "link": "https://www.orizzontescuola.it/lambiente-di-apprendimento-nei-processi-formativi-lettera/",
+                "date": "26 Lug 2025",
+                "time": "16:13",
+                "image_link": "N/A"
+            }
+        ]
     }
 }
