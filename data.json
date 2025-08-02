@@ -24,6 +24,22 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "ATA",
+                "title": "Immissioni in ruolo personale ATA 2025/26 quasi al via: il 4 agosto riunione MIM-Sindacati",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-personale-ata-2025-26-quasi-al-via-il-4-agosto-riunione-mim-sindacati/",
+                "date": "2 Ago 2025",
+                "time": "20:54",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1618026661-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Immissioni in ruolo e supplenze docenti 25/26: quali attività si possono svolgere mentre si insegna e quali no",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-e-supplenze-docenti-25-26-quali-attivita-si-possono-svolgere-mentre-si-insegna-e-quali-no/",
+                "date": "2 Ago 2025",
+                "time": "19:12",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/shutterstock_1727747233-scaled.jpg"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Fame nel mondo, gli ultimi dati raccontano due storie opposte: mentre 673 milioni soffrono ancora la fame, i tagli agli aiuti umanitari rischiano di provocare una strage di 4,5 milioni di bambini",
                 "link": "https://www.orizzontescuola.it/fame-nel-mondo-gli-ultimi-dati-raccontano-due-storie-opposte-mentre-673-milioni-soffrono-ancora-la-fame-i-tagli-agli-aiuti-umanitari-rischiano-di-provocare-una-strage-di-45-milioni-di-bambini/",
@@ -134,7 +150,12 @@
                 "date": "2 Ago 2025",
                 "time": "13:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_2036186264.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Intelligenza artificiale: perché metà degli italiani la usa ma pochi sanno davvero come funziona, tra opportunità, ansie e la necessità di un “patto” tra istituzioni e cittadini",
@@ -150,12 +171,7 @@
                 "date": "2 Ago 2025",
                 "time": "12:40",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_1164407152.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Privacy digitale sul lavoro: quando i messaggi privati diventano fonte di controversie. Attenzione a cosa si scrive sui social",
@@ -276,21 +292,52 @@
                 "date": "2 Ago 2025",
                 "time": "7:40",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Fare-Digital-Storytelling-Con-strumenti-innovativi-1.png"
-            },
-            null,
-            {
-                "category": "Politica scolastica",
-                "title": "Decreto Scuola e Università, assunzione docenti concorso PNRR1, assicurazione per studenti, insegnanti e ATA, genitori nel CSPI. LEGGE in Gazzetta Ufficiale",
-                "link": "https://www.orizzontescuola.it/decreto-scuola-e-universita-assunzione-docenti-concorso-pnrr1-assicurazione-per-studenti-insegnanti-e-ata-genitori-nel-cspi-legge-di-conversione-in-gazzetta-ufficiale/",
-                "date": "1 Ago 2025",
-                "time": "21:47",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1618026661-scaled.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Bonus Sport da 500 euro per le famiglie di Roma: interessati i giovani dai 5 ai 16 anni con ISEE sotto i 40mila euro",
+                "link": "https://www.orizzontescuola.it/bonus-sport-da-500-euro-per-le-famiglie-di-roma-interessati-i-giovani-dai-5-ai-16-anni-con-isee-sotto-i-40mila-euro/",
+                "date": "2 Ago 2025",
+                "time": "20:49",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "YouTube nel mirino: l’Australia include la piattaforma video nel divieto social per i minori. Altri paesi potrebbero seguirla",
+                "link": "https://www.orizzontescuola.it/youtube-nel-mirino-laustralia-include-la-piattaforma-video-nel-divieto-social-per-i-minori-altri-paesi-potrebbero-seguirla/",
+                "date": "2 Ago 2025",
+                "time": "20:15",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "L’Italia celebra il centenario di Andrea Camilleri a settembre con una settimana di eventi: il programma",
+                "link": "https://www.orizzontescuola.it/litalia-celebra-il-centenario-di-andrea-camilleri-a-settembre-con-una-settimana-di-eventi-il-programma/",
+                "date": "2 Ago 2025",
+                "time": "19:59",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Teatro a scuola, la Toscana approva una legge dedicata",
+                "link": "https://www.orizzontescuola.it/teatro-a-scuola-la-toscana-approva-una-legge-dedicata/",
+                "date": "2 Ago 2025",
+                "time": "19:34",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Pubblica Amministrazione: parte “Essere PA”, il nuovo corso di formazione per tutti i dipendenti",
+                "link": "https://www.orizzontescuola.it/pubblica-amministrazione-parte-essere-pa-il-nuovo-corso-di-formazione-per-tutti-i-dipendenti/",
+                "date": "2 Ago 2025",
+                "time": "19:29",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Lega propone stop alla carne da macellazione rituale senza stordimento nelle mense scolastiche dell’Emilia Romagna",
@@ -393,46 +440,6 @@
                 "link": "https://www.orizzontescuola.it/andrea-lenzi-alla-guida-del-cnr-il-nuovo-corso-del-piu-grande-ente-pubblico-di-ricerca-italiano/",
                 "date": "2 Ago 2025",
                 "time": "13:10",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Studenti",
-                "title": "Mobilità studentesca, abbonamenti agevolati e buoni sconto: il Partito Democratico presenta proposta di legge da 750 milioni",
-                "link": "https://www.orizzontescuola.it/mobilita-studentesca-abbonamenti-agevolati-e-buoni-sconto-il-partito-democratico-presenta-proposta-di-legge-da-750-milioni/",
-                "date": "2 Ago 2025",
-                "time": "13:05",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Conflitto Thailandia-Cambogia: oltre 1.200 scuole chiuse per gli scontri al confine. L’allarme di Save The Children",
-                "link": "https://www.orizzontescuola.it/conflitto-thailandia-cambogia-oltre-1-200-scuole-chiuse-per-gli-scontri-al-confine/",
-                "date": "2 Ago 2025",
-                "time": "12:00",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Il prodigio della composizione: a 21 anni Elia Fracella omaggia Disney con la sua tesi di laurea",
-                "link": "https://www.orizzontescuola.it/il-prodigio-della-composizione-a-21-anni-elia-fracella-omaggia-disney-con-la-sua-tesi-di-laurea/",
-                "date": "2 Ago 2025",
-                "time": "11:49",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Boom turismo culturale: l’Italia verso 2,6 trilioni di dollari entro 2035, ma Venezia chiude i battenti e Pompei limita gli ingressi. Ecco i 10 comportamenti da tenere",
-                "link": "https://www.orizzontescuola.it/boom-turismo-culturale-litalia-verso-26-trilioni-di-dollari-entro-2035-ma-venezia-chiude-i-battenti-e-pompei-limita-gli-ingressi-ecco-i-10-comportamenti-da-tenere/",
-                "date": "2 Ago 2025",
-                "time": "11:40",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Assegno di inclusione senza interruzioni: arriva il bonus da 500 euro per evitare il mese di stop",
-                "link": "https://www.orizzontescuola.it/assegno-di-inclusione-senza-interruzioni-arriva-il-bonus-da-500-euro-per-evitare-il-mese-di-stop/",
-                "date": "2 Ago 2025",
-                "time": "11:06",
                 "image_link": "N/A"
             }
         ]
@@ -559,6 +566,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "GPS graduatorie valide per il 2025/26: ecco le pubblicazioni degli Uffici Scolastici [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/gps-uffici-scolastici-iniziano-a-pubblicare-graduatorie-per-il-2025-26-in-aggiornamento/",
+                "date": "1 Ago 2025",
+                "time": "10:53",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_735971833.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Ruoli 2025/26 per il sostegno da GPS prima fascia, in Sicilia non ci saranno",
                 "link": "https://www.orizzontescuola.it/ruoli-2025-26-per-il-sostegno-da-gps-ecco-dove-non-ci-saranno/",
                 "date": "1 Ago 2025",
@@ -596,14 +611,6 @@
                 "date": "31 Lug 2025",
                 "time": "13:51",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/Indire.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Docenti PNRR1 assunti nel 24/25: conseguita l’abilitazione entro il 31 agosto, il 1° settembre la presa di servizio con contratto a tempo indeterminato",
-                "link": "https://www.orizzontescuola.it/docenti-pnrr1-assunti-nel-24-25-conseguita-labilitazione-entro-il-31-agosto-il-1-settembre-la-presa-di-servizio-con-contratto-a-tempo-indeterminato/",
-                "date": "31 Lug 2025",
-                "time": "12:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/09/shutterstock_1240130032.jpg"
             }
         ]
     },
