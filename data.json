@@ -24,6 +24,46 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "Infortuni a scuola, quasi 50mila casi denunciati nel primo semestre (+2,2%). Dal prossimo anno tutela assicurativa per docenti e ATA diventa strutturale",
+                "link": "https://www.orizzontescuola.it/infortuni-a-scuola-quasi-50mila-casi-denunciati-nel-primo-semestre-22-dal-prossimo-anno-tutela-assicurativa-per-docenti-e-ata-diventa-strutturale/",
+                "date": "4 Ago 2025",
+                "time": "16:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/shutterstock_2608174517.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Concorso primaria PNRR2 nelle Marche, annullata la graduatoria. Prove orali dal 18 agosto con 16 candidati esaminati ogni giorno. L’USR rassicura: “Tutti in cattedra per l’inizio delle lezioni”",
+                "link": "https://www.orizzontescuola.it/concorso-primaria-pnrr2-nelle-marche-annullata-la-graduatoria-prove-orali-dal-18-agosto-lusr-rassicura-tutti-in-cattedra-per-linizio-delle-lezioni/",
+                "date": "4 Ago 2025",
+                "time": "16:36",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/prova-orale-concorso-scuola.png"
+            },
+            {
+                "category": "ATA",
+                "title": "Immissioni in ruolo ATA 2025-26, posti e procedura: così si svolgeranno. SPECIALE con Raimondo (Uil Scuola Rua) LIVE al termine della riunione",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-ata-posti-e-procedura-cosi-si-svolgeranno-speciale-con-raimondo-uil-scuola-rua-live-al-termine-della-riunione/",
+                "date": "4 Ago 2025",
+                "time": "16:31",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Template_dentroilpalazzo_1920x1080.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Nomine per il ruolo GPS docenti 2025/26: UIL Scuola chiede intervento su applicazione riserve",
+                "link": "https://www.orizzontescuola.it/nomine-per-il-ruolo-gps-docenti-2025-26-uil-scuola-chiede-intervento-su-applicazione-riserve/",
+                "date": "4 Ago 2025",
+                "time": "15:37",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_409299112-scaled.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Strategie innovative per la formazione del personale scolastico: pubblicato il catalogo delle buone pratiche SAFI",
+                "link": "https://www.orizzontescuola.it/strategie-innovative-per-la-formazione-del-personale-scolastico-pubblicato-il-catalogo-delle-buone-pratiche-safi/",
+                "date": "4 Ago 2025",
+                "time": "15:07",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_48466297.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Assunzioni docenti da GPS sostegno per il ruolo, ecco i  BOLLETTINI. 5 giorni di tempo per ACCETTARE",
                 "link": "https://www.orizzontescuola.it/assunzioni-docenti-da-gps-sostegno-per-il-ruolo-ecco-il-primo-bollettino-5-giorni-di-tempo-per-accettare/",
@@ -62,14 +102,6 @@
                 "date": "4 Ago 2025",
                 "time": "13:03",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_90666529.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Immissioni in ruolo, cosa sta accadendo su posto comune e sostegno? Facciamo il punto. QUESTION TIME con Cannas. LIVE Lunedì 4 agosto alle 14:30",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-cosa-sta-accadendo-su-posto-comune-e-sostegno-facciamo-il-punto-question-time-con-cannas-live-lunedi-4-agosto-alle-1430/",
-                "date": "4 Ago 2025",
-                "time": "13:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Template_questiontime_1920x1080.png"
             },
             {
                 "category": "Scuole",
@@ -118,7 +150,12 @@
                 "date": "4 Ago 2025",
                 "time": "12:17",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/11/hamburg-2687544_1280-1200x800.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Non basta il consenso per rendere legittimo il trattamento dei dati. Garante impartisce multa di 50mila euro",
@@ -150,12 +187,7 @@
                 "date": "4 Ago 2025",
                 "time": "10:34",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_1875061333.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Primo settembre 2025: chi dovrà recarsi a scuola a prendere servizio. Docenti di ruolo e supplenti",
@@ -239,44 +271,28 @@
                 "date": "3 Ago 2025",
                 "time": "23:17",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/08/Alunni_Stranieri.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "“Più scuola per i bulli, non videogiochi a casa”, Valditara rilancia disciplina e maturità: “Basta sindacalisti-genitori, serve autorità”",
-                "link": "https://www.orizzontescuola.it/piu-scuola-per-i-bulli-non-videogiochi-a-casa-valditara-rilancia-disciplina-e-maturita-basta-sindacalisti-genitori-serve-autorita/",
-                "date": "3 Ago 2025",
-                "time": "22:53",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Opera-Snapshot_2025-08-03_223009_www.youtube.com_.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze GPS docenti 2025/26: cosa accade se non è stata compilata la domanda delle 150 preferenze",
-                "link": "https://www.orizzontescuola.it/supplenze-gps-docenti-2025-26-cosa-accade-se-non-e-stata-compilata-la-domanda-delle-150-preferenze/",
-                "date": "3 Ago 2025",
-                "time": "19:53",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1874731318-scaled.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Educare al digitale non sequestrare cellulari”, le parole di Matteo Lancini per una scuola che smetta di perquisire gli studenti e inizi a prepararli davvero al mondo dell’intelligenza artificiale",
-                "link": "https://www.orizzontescuola.it/educare-al-digitale-non-sequestrare-cellulari-le-parole-di-matteo-lancini-per-una-scuola-che-smetta-di-perquisire-gli-studenti-e-inizi-a-prepararli-davvero-al-mondo-dellintelligenza-artificiale/",
-                "date": "3 Ago 2025",
-                "time": "16:24",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/Screenshot-2023-11-25-alle-07.08.30.png"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Periodo di prova docenti neoassunti: si può rinviare e poi svolgerlo in assegnazione? Info congedo parentale",
-                "link": "https://www.orizzontescuola.it/periodo-di-prova-docenti-neoassunti-si-puo-rinviare-e-poi-svolgerlo-in-assegnazione-info-congedo-parentale/",
-                "date": "3 Ago 2025",
-                "time": "16:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_174428519.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Svelato il Diritto alla Meraviglia: la Regione Toscana guida il cambiamento per i bambini in guerra. Una mozione unanime accende la speranza con un simbolo inaspettat",
+                "link": "https://www.orizzontescuola.it/svelato-il-diritto-alla-meraviglia-la-regione-toscana-guida-il-cambiamento-per-i-bambini-in-guerra-una-mozione-unanime-accende-la-speranza-con-un-simbolo-inaspettat/",
+                "date": "4 Ago 2025",
+                "time": "17:07",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Studenti",
+                "title": "Architettura, aumentano i posti per le immatricolazioni per l’anno accademico 2025/2026",
+                "link": "https://www.orizzontescuola.it/architettura-aumentano-i-posti-per-le-immatricolazioni-per-lanno-accademico-2025-2026/",
+                "date": "4 Ago 2025",
+                "time": "15:37",
+                "image_link": "N/A"
+            },
             {
                 "category": "Scuole",
                 "title": "46ª edizione del Meeting per l’amicizia fra i popoli: a Rimini dal 22 al 27 agosto. Approfondimenti per scuole, famiglie e studenti",
@@ -291,6 +307,14 @@
                 "link": "https://www.orizzontescuola.it/tentativi-di-frode-telefonica-noipa-attenzione-alle-false-chiamate-rischio-modifica-iban/",
                 "date": "4 Ago 2025",
                 "time": "13:12",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Immissioni in ruolo, cosa sta accadendo su posto comune e sostegno? Facciamo il punto. QUESTION TIME con Cannas [VIDEO]",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-cosa-sta-accadendo-su-posto-comune-e-sostegno-facciamo-il-punto-question-time-con-cannas-live-lunedi-4-agosto-alle-1430/",
+                "date": "4 Ago 2025",
+                "time": "13:00",
                 "image_link": "N/A"
             },
             {
@@ -396,36 +420,20 @@
                 "date": "3 Ago 2025",
                 "time": "21:03",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Immissioni in ruolo 49mila docenti e 10mila Ata, Pacifico (Anief): “Per sconfiggere la supplentite necessario doppio canale, piano straordinario assunzioni su tutti i posti liberi e cancellazione organici di fatto”",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-49mila-docenti-e-10mila-ata-pacifico-anief-per-sconfiggere-la-supplentite-necessario-doppio-canale-piano-straordinario-assunzioni-su-tutti-i-posti-liberi-e-cancellazione-org/",
-                "date": "3 Ago 2025",
-                "time": "20:32",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Sport d’invasione potenziano l’attenzione visiva: la ricerca conferma vantaggi cognitivi specifici",
-                "link": "https://www.orizzontescuola.it/sport-dinvasione-potenziano-lattenzione-visiva-la-ricerca-conferma-vantaggi-cognitivi-specifici/",
-                "date": "3 Ago 2025",
-                "time": "20:11",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "In Toscana il teatro diventa materia scolastica con 300mila euro in tre anni per formare docenti e creare spettacoli con gli studenti",
-                "link": "https://www.orizzontescuola.it/teatro-nelle-scuole-approvata-la-legge-regionale-in-toscana-per-lintegrazione-educativa-contrasto-allanalfabetismo-emotivo/",
-                "date": "3 Ago 2025",
-                "time": "19:52",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Periodo di prova docenti neoassunti: si può rinviare e poi svolgerlo in assegnazione? Info congedo parentale",
+                "link": "https://www.orizzontescuola.it/periodo-di-prova-docenti-neoassunti-si-puo-rinviare-e-poi-svolgerlo-in-assegnazione-info-congedo-parentale/",
+                "date": "3 Ago 2025",
+                "time": "16:15",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Mini call veloce sostegno 25/26: se accettassi quando potrei rientrare nella mia provincia?",
@@ -529,20 +537,20 @@
                 "date": "28 Lug 2025",
                 "time": "12:58",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Incarichi per ruolo GPS sostegno 25/26: rinunciatari per sedi non espresse possono partecipare alle supplenze",
-                "link": "https://www.orizzontescuola.it/incarichi-per-ruolo-gps-sostegno-25-26-rinunciatari-per-sedi-non-espresse-possono-partecipare-alle-supplenze/",
-                "date": "28 Lug 2025",
-                "time": "10:27",
-                "image_link": "N/A"
             }
         ]
     },
     "group_6": {
         "title": "Diventare Insegnanti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Immissioni in ruolo, supplenze, mini call veloce: procede l’estate dei docenti precari in vista dell’anno scolastico 2025/26. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-supplenze-mini-call-veloce-procede-lestate-dei-docenti-precari-in-vista-dellanno-scolastico-2025-26-risposte-ai-quesiti/",
+                "date": "2 Ago 2025",
+                "time": "14:03",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2090710285.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze GI posti accantonati vincitori concorso PNRR: cosa succede dopo il 31 dicembre. Quando resta il supplente",
@@ -582,14 +590,6 @@
                 "date": "1 Ago 2025",
                 "time": "17:48",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2142727347.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Corsi sostegno INDIRE in sovrapposizione con l’anno scolastico: il Ministero chiede flessibilità alle scuole per permettere la partecipazione ai docenti. NOTA",
-                "link": "https://www.orizzontescuola.it/corsi-sostegno-indire-in-sovrapposizione-con-lanno-scolastico-il-ministero-chiede-flessibilita-alle-scuole-per-permettere-la-partecipazione-ai-docenti-circolare/",
-                "date": "1 Ago 2025",
-                "time": "15:48",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_1164407152.jpg"
             }
         ]
     },
