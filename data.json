@@ -3,26 +3,101 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "Didattica",
+                "title": "Come l’Intelligenza Artificiale ti aiuta a valutare gli alunni. 10 proposte operative",
+                "link": "https://www.orizzontescuola.it/come-lintelligenza-artificiale-ti-aiuta-a-valutare-gli-alunni-10-proposte-operative/",
+                "date": "6 Ago 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1040657359.jpg"
+            },
+            {
                 "category": "Plus",
                 "title": "162 modelli di circolari e documenti per l’inizio anno scolastico, dalla sicurezza al piano annuale allo smartworking, al Piano Estate",
                 "link": "https://www.orizzontescuola.it/100-modelli-circolari-e-documenti-per-linizio-anno-scolastico-dalla-sicurezza-al-piano-annuale-2/",
                 "date": "6 Ago 2025",
                 "time": "6:09",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/100-1-2.png"
-            },
-            {
-                "category": "DSGA",
-                "title": "Immissioni in ruolo funzionari (ex DSGA) 2025/26: sono 824, di cui 698 da concorso ordinario. TABELLA (dati definitivi)",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-funzionari-ex-dsga-2025-26-sono-824-la-maggior-parte-in-lombardia-veneto-ed-emilia-romagna-tabella/",
-                "date": "5 Ago 2025",
-                "time": "10:38",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_1375035419.jpg"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Valditara: “Non è repressivo dire che servono regole, rispetto e responsabilità. Non è accettabile che uno studente si permetta di dire a un docente che di lui non gli importa nulla”",
+                "link": "https://www.orizzontescuola.it/valditara-non-e-repressivo-dire-che-servono-regole-rispetto-e-responsabilita-non-e-accettabile-che-uno-studente-si-permetta-di-dire-a-un-docente-che-di-lui-non-gli-importa-nulla/",
+                "date": "6 Ago 2025",
+                "time": "10:26",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/Valditara_2.jpeg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Mini call veloce GPS Sostegno, domande dal 14 agosto (ore 10) al 19 agosto (ore 9). AVVISO",
+                "link": "https://www.orizzontescuola.it/mini-call-veloce-domande-dal-14-agosto-ore-10-al-19-agosto-ore-9-avviso/",
+                "date": "6 Ago 2025",
+                "time": "10:12",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/prova-orale-concorso-scuola.png"
+            },
+            {
+                "category": "Scuole",
+                "title": "Acquisti in rete: piattaforma chiusa dal 13 al 18 agosto. Come prepararsi alla chiusura",
+                "link": "https://www.orizzontescuola.it/acquisti-in-rete-piattaforma-chiusa-dal-13-al-18-agosto-come-prepararsi-alla-chiusura/",
+                "date": "6 Ago 2025",
+                "time": "10:05",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Modello-immagine-sito-12.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "CPIA verso l’autonomia: dal 2026 percorsi di istruzione tecnica senza intermediari, ma solo se aderiscono alla filiera. Come cambierà l’offerta formativa per adulti",
+                "link": "https://www.orizzontescuola.it/cpia-verso-lautonomia-dal-2026-percorsi-di-istruzione-tecnica-senza-intermediari-come-cambiera-lofferta-formativa-per-adulti-con-la-nuova-sperimentazione-ministeriale/",
+                "date": "6 Ago 2025",
+                "time": "10:02",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/09/shutterstock_567718675.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Minicall veloce estate 2025: ecco quali docenti sono già esclusi. PILLOLE di QUESTION TIME",
+                "link": "https://www.orizzontescuola.it/minicall-veloce-estate-2025-ecco-quali-docenti-sono-gia-esclusi-pillole-di-question-time/",
+                "date": "6 Ago 2025",
+                "time": "9:36",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Immissioni in ruolo ATA, ecco i numeri regione per regione. In arrivo la circolare ministeriale. SPECIALE con Dal Pino (Anief) LIVE Mercoledì 6 agosto alle 16:00",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-ata-ecco-i-numeri-regione-per-regione-in-arrivo-la-circolare-ministeriale-speciale-con-dal-pino-anief-live-mercoledi-6-agosto-alle-1600/",
+                "date": "6 Ago 2025",
+                "time": "9:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Template_questiontime_1920x1080-2.png"
+            },
+            null,
+            {
+                "category": "Scuole",
+                "title": "Gestione e restituzione della polizza fideussoria e della garanzia definitiva per gli affidamenti del PNNR conclusi. Con modello",
+                "link": "https://www.orizzontescuola.it/gestione-e-restituzione-della-polizza-fideussoria-e-della-garanzia-definitiva-per-gli-affidamenti-del-pnnr-conclusi-con-modello/",
+                "date": "6 Ago 2025",
+                "time": "7:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_714174241.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Assunzioni docenti da GPS sostegno per il ruolo 2025/26, ecco i BOLLETTINI",
+                "link": "https://www.orizzontescuola.it/assunzioni-docenti-da-gps-sostegno-per-il-ruolo-ecco-il-primo-bollettino-5-giorni-di-tempo-per-accettare/",
+                "date": "6 Ago 2025",
+                "time": "7:47",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1349362136.jpg"
+            },
+            null,
+            null,
+            {
+                "category": "ATA",
+                "title": "Posizioni economiche ATA, Collaboratori: il simulatore per esercitarti a superare l’esame",
+                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-collaboratori-simulatore-e-video-lezioni-per-superare-la-prova-finale/",
+                "date": "6 Ago 2025",
+                "time": "5:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Assegnazioni-provvisorie-e-utilizzazioni-1.png"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Assunzioni da GPS prima fascia sostegno, ruoli, supplenze. RISPOSTE AI QUESITI",
@@ -54,7 +129,12 @@
                 "date": "5 Ago 2025",
                 "time": "16:14",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Valditara-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Docenti",
                 "title": "Carta docente bonus 500 euro, per il prossimo anno l’importo potrà essere inferiore: ecco cosa sappiamo",
@@ -78,14 +158,6 @@
                 "date": "5 Ago 2025",
                 "time": "15:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_545354773.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Assunzioni docenti da GPS sostegno per il ruolo 2025/26, ecco i BOLLETTINI  del 5 agosto",
-                "link": "https://www.orizzontescuola.it/assunzioni-docenti-da-gps-sostegno-per-il-ruolo-ecco-il-primo-bollettino-5-giorni-di-tempo-per-accettare/",
-                "date": "5 Ago 2025",
-                "time": "14:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1349362136.jpg"
             },
             {
                 "category": "ATA",
@@ -136,6 +208,14 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_270696413.jpg"
             },
             {
+                "category": "DSGA",
+                "title": "Immissioni in ruolo funzionari (ex DSGA) 2025/26: sono 824, di cui 698 da concorso ordinario. TABELLA (dati definitivi)",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-funzionari-ex-dsga-2025-26-sono-824-la-maggior-parte-in-lombardia-veneto-ed-emilia-romagna-tabella/",
+                "date": "5 Ago 2025",
+                "time": "10:38",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_1375035419.jpg"
+            },
+            {
                 "category": "Scuole",
                 "title": "Calendario scolastico 2025/26: quando inizia la scuola a settembre, ponti e festività. PDF e TABELLA",
                 "link": "https://www.orizzontescuola.it/calendario-scolastico-2025-26-quando-inizia-la-scuola-a-settembre-ponti-e-festivita-pdf-e-tabella/",
@@ -150,12 +230,7 @@
                 "date": "5 Ago 2025",
                 "time": "9:47",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/09/shutterstock_1653288208.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "“Ogni estate il mio futuro appeso a un filo”, la storia di Martina, sette anni di precarietà e cinque concorsi superati: “Se devo firmare con riserva, lascio la scuola”",
@@ -189,87 +264,52 @@
                 "time": "8:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1668200203.jpg"
             },
-            null,
-            null,
-            null,
-            {
-                "category": "Scuole",
-                "title": "Adempimenti del dsga e della segreteria scolastica per i primi 90 giorni di avvio anno scolastico: contabilità, prese di servizio, profilature, organizzazione del personale docente e ATA",
-                "link": "https://www.orizzontescuola.it/adempimenti-del-dsga-e-della-segreteria-scolastica-per-i-primi-90-giorni-di-avvio-anno-scolastico-contabilita-prese-di-servizio-profilature-organizzazione-del-personale-docente-e-ata/",
-                "date": "5 Ago 2025",
-                "time": "7:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/6-Webinar-in-regalo.png"
-            },
-            {
-                "category": "ATA",
-                "title": "Posizioni economiche ATA, Collaboratori e Operatori: il simulatore per superare l’esame",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-collaboratori-e-operatori-il-simulatore-per-superare-lesame/",
-                "date": "5 Ago 2025",
-                "time": "7:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Assegnazioni-provvisorie-e-utilizzazioni.png"
-            },
-            null,
-            {
-                "category": "Pensioni",
-                "title": "Pensioni, il 2027 porta tre mesi di lavoro in più: il Governo promette lo stop ma il conto da 1 miliardo rischia di esplodere; chi pagherà davvero la scelta di bloccare l’automatismo sull’età pensionabile?",
-                "link": "https://www.orizzontescuola.it/pensioni-il-2027-porta-tre-mesi-di-lavoro-in-piu-il-governo-promette-lo-stop-ma-il-conto-da-1-miliardo-rischia-di-esplodere-chi-paghera-davvero-la-scelta-di-bloccare-lautomatismo-sull/",
-                "date": "4 Ago 2025",
-                "time": "20:56",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/12/Pensioni.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Immissioni in ruolo ATA, novità domande 2025: ci sarà la voce “rinuncia”. Attenzione però alle conseguenze",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-ata-novita-domande-2025-ci-sara-la-voce-rinuncia-attenzione-pero-alle-conseguenze/",
-                "date": "4 Ago 2025",
-                "time": "19:37",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1508556191.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Semplificazioni PA, Zangrillo: “261 procedure già snellite, obiettivo 600 entro il 2026”. Sostegno agli ITS Academy, previste specifiche convenzioni con le imprese",
-                "link": "https://www.orizzontescuola.it/semplificazioni-pa-zangrillo-261-procedure-gia-snellite-obiettivo-600-entro-il-2026-sostegno-agli-its-academy-previste-specifiche-convenzioni-con-le-imprese/",
-                "date": "4 Ago 2025",
-                "time": "19:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/Zangrillo-1-scaled.jpeg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Immissioni in ruolo ATA, Anief: “Coperto meno di un posto su tre, scandaloso. Necessario assumere su 100% posti e valorizzare i profili EQ”",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-ata-anief-coperto-meno-di-un-posto-su-tre-scandaloso-necessario-assumere-su-100-posti-e-valorizzare-i-profili-eq/",
-                "date": "4 Ago 2025",
-                "time": "19:13",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Il RAV e il Sistema Nazionale di Valutazione 2025/28: il 3,4 e 5 settembre ciclo di seminari Invalsi-MIM per le scuole",
-                "link": "https://www.orizzontescuola.it/il-rav-e-il-sistema-nazionale-di-valutazione-2025-28-il-34-e-5-settembre-ciclo-di-seminari-invalsi-mim-per-le-scuole/",
-                "date": "4 Ago 2025",
-                "time": "18:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_1996119905.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Immissioni in ruolo presidi, docenti e ATA: 65.265 stabilizzazioni. Via libera definitivo da parte del governo",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-presidi-docenti-e-ata-65-265-stabilizzazioni-via-libera-definitivo-da-parte-del-governo/",
-                "date": "4 Ago 2025",
-                "time": "18:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Valditara-scaled.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Immissioni in ruolo personale ATA 2025: oltre 9.000 assunzioni, di cui 6700 di collaboratori scolastici. TABELLE per profilo e regione",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-personale-ata-2025-oltre-9-000-assunzioni-di-cui-6700-di-collaboratori-scolastici-tabelle-per-profilo-e-regione/",
-                "date": "4 Ago 2025",
-                "time": "18:03",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2377454741.jpg"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Intelligenza Artificiale i 10 lavori che scompariranno e quelli che rimarranno: addio a operatori telefonici, scrittori e autori. Salvi gli imbalsamatori, imbianchini e piastrallisti",
+                "link": "https://www.orizzontescuola.it/intelligenza-artificiale-i-10-lavori-che-scompariranno-e-quelli-che-rimarranno-addio-a-operatori-telefonici-scrittori-e-autori-salvi-gli-imbalsamatori-imbianchini-e-piastrallisti/",
+                "date": "6 Ago 2025",
+                "time": "10:00",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Commissione Femminicidio approva relazione su orfani: registro nazionale e iter semplificato per i fondi",
+                "link": "https://www.orizzontescuola.it/commissione-femminicidio-approva-relazione-su-orfani-registro-nazionale-e-iter-semplificato-per-i-fondi/",
+                "date": "6 Ago 2025",
+                "time": "9:34",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Chiamiamoli “compiti per settembre” e non “compiti per le vacanze”: perché farli e come. I consigli del Prof Bramati ai genitori",
+                "link": "https://www.orizzontescuola.it/chiamiamoli-compiti-per-settembre-e-non-compiti-per-le-vacanze-perche-farli-e-come-i-consigli-del-prof-bramanti-ai-genitori/",
+                "date": "6 Ago 2025",
+                "time": "9:20",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Ritorno a scuola con il caro libri: oltre 700 euro annui solo per materiale didattico e sussidi educativi. Interviene l’Antitrust",
+                "link": "https://www.orizzontescuola.it/ritorno-a-scuola-con-il-caro-libri-oltre-700-euro-annui-solo-per-materiale-didattico-e-sussidi-educativi-interviene-lantitrust/",
+                "date": "6 Ago 2025",
+                "time": "9:11",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Software libero nella Pubblica Amministrazione, la proposta di legge parte dal Friuli Venezia Giulia. In cosa consiste",
+                "link": "https://www.orizzontescuola.it/software-libero-nella-pubblica-amministrazione-la-proposta-di-legge-parte-dal-friuli-venezia-giulia-in-cosa-consiste/",
+                "date": "6 Ago 2025",
+                "time": "7:10",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Bolzano: nel 2025/26 120 nuovi posti per i docenti e +30% di collaboratori all’integrazione",
@@ -365,46 +405,6 @@
                 "link": "https://www.orizzontescuola.it/963-ata-in-posizione-di-comando-presso-gli-usr-gli-avvisi-e-le-scadenze/",
                 "date": "5 Ago 2025",
                 "time": "11:40",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Giubileo dei Giovani, Roccella: “Una generazione mal raccontata, non ci sono solo bulli e maranza”",
-                "link": "https://www.orizzontescuola.it/giubileo-dei-giovani-roccella-una-generazione-mal-raccontata-non-ci-sono-solo-bulli-e-maranza/",
-                "date": "5 Ago 2025",
-                "time": "8:52",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Immissioni in ruolo ATA 2025, oltre 9mila assunzioni: a breve l’inizio delle operazioni. SPECIALE con Mileto (Gilda) [VIDEO]",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-ata-2025-oltre-9mila-assunzioni-a-breve-linizio-delle-operazioni-speciale-con-mileto-gilda-live-martedi-5-agosto-alle-1430/",
-                "date": "5 Ago 2025",
-                "time": "8:07",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Immissioni in ruolo DSGA, Anquap: “Siamo delusi. Troppi posti vuoti, penalizzati i vincitori del concorso ordinario”",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-dsga-anquap-siamo-delusi-troppi-posti-vuoti-penalizzati-i-vincitori-del-concorso-ordinario/",
-                "date": "4 Ago 2025",
-                "time": "20:27",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Semestre aperto Medicina, la penalità crolla da –0,25 a –0,10, ma servono sempre 18/30",
-                "link": "https://www.orizzontescuola.it/semestre-aperto-medicina-la-penalita-crolla-da-025-a-010-ma-servono-sempre-18-30/",
-                "date": "4 Ago 2025",
-                "time": "19:55",
-                "image_link": "N/A"
-            },
-            {
-                "category": "ATA",
-                "title": "Immissioni in ruolo ATA 2025-26, posti e procedura: così si svolgeranno. SPECIALE con Raimondo (Uil Scuola Rua) [VIDEO]",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-ata-posti-e-procedura-cosi-si-svolgeranno-speciale-con-raimondo-uil-scuola-rua-live-al-termine-della-riunione/",
-                "date": "4 Ago 2025",
-                "time": "18:00",
                 "image_link": "N/A"
             }
         ]
@@ -584,6 +584,30 @@
         "articles": [
             {
                 "category": "ATA",
+                "title": "Immissioni in ruolo personale ATA 2025/26 quasi al via: il 4 agosto riunione MIM-Sindacati",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-personale-ata-2025-26-quasi-al-via-il-4-agosto-riunione-mim-sindacati/",
+                "date": "2 Ago 2025",
+                "time": "20:54",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1618026661-scaled.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "ATA seconda fascia: in pubblicazione le graduatorie aggiornate. Quando si utilizzano",
+                "link": "https://www.orizzontescuola.it/ata-seconda-fascia-in-pubblicazione-le-graduatorie-aggiornate-quando-si-utilizzano/",
+                "date": "1 Ago 2025",
+                "time": "11:59",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2331500305.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Graduatorie terza fascia ATA aggiornate entro l’estate. La tempistica per la verifica delle CIAD cambia da provincia a provincia",
+                "link": "https://www.orizzontescuola.it/graduatorie-terza-fascia-ata-aggiornate-la-riformulazione-entro-lestate-scuole-allopera-per-la-verifica-delle-ciad/",
+                "date": "1 Ago 2025",
+                "time": "10:27",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1863569833-scaled.jpg"
+            },
+            {
+                "category": "ATA",
                 "title": "Posizioni economiche ATA: quando si concludono i corsi, come tracciare le ore e verificare lo stato di avanzamento. FAQ Indire",
                 "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-quando-si-concludono-i-corsi-come-tracciare-le-ore-e-verificare-lo-stato-di-avanzamento-faq-indire/",
                 "date": "1 Ago 2025",
@@ -605,30 +629,6 @@
                 "date": "31 Lug 2025",
                 "time": "9:32",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Posizioni economiche ATA: indicazioni, FAQ e assistenza. Online la pagina di supporto dedicata a chi segue i corsi di formazione",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-indicazioni-faq-e-assistenza-online-la-pagina-di-supporto-dedicata-a-chi-segue-i-corsi-di-formazione/",
-                "date": "30 Lug 2025",
-                "time": "11:23",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/Screenshot-2025-07-30-110952.png"
-            },
-            {
-                "category": "ATA",
-                "title": "Un collaboratore scolastico anticipa l’uscita di mezz’ora e viene denunciato alla Corte dei Conti per danno erariale",
-                "link": "https://www.orizzontescuola.it/un-collaboratore-scolastico-anticipa-luscita-di-mezzora-e-viene-denunciato-alla-corte-dei-conti-per-danno-erariale/",
-                "date": "30 Lug 2025",
-                "time": "8:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/shutterstock_1516477328.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Nuove posizioni economiche ATA, da oggi e fino al 12 settembre i corsi per assistenti. Il 28 agosto terminano quelli per collaboratori e operatori",
-                "link": "https://www.orizzontescuola.it/nuove-posizioni-economiche-ata-oggi-e-fino-al-12-settembre-i-corsi-per-assistenti-fino-al-28-agosto-quelli-per-collaboratori-e-operatori/",
-                "date": "30 Lug 2025",
-                "time": "8:07",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1936676008-scaled.jpg"
             }
         ]
     },
