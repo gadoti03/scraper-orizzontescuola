@@ -4,7 +4,7 @@
         "articles": [
             {
                 "category": "Dirigenti scolastici",
-                "title": "Assunzione Dirigenti, ecco il Decreto: saranno 347. La divisione ufficiale per Regione. Con l’elenco delle convocazioni USR",
+                "title": "Assunzione Dirigenti, ecco il Decreto, saranno 347. La divisione ufficiale per Regione. Con l’elenco delle convocazioni USR",
                 "link": "https://www.orizzontescuola.it/assunzione-dirigenti-ecco-il-decreto-saranno-347-ecco-la-divisione-ufficiale-per-regione/",
                 "date": "8 Ago 2025",
                 "time": "6:53",
@@ -23,6 +23,39 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Genitori",
+                "title": "“Dormire fuori a 11 anni?” Sui social è dibattito acceso tra esperti e famiglie. Interviene il pedagogista: “Attaccamento eccessivo, estate occasione di autonomia”",
+                "link": "https://www.orizzontescuola.it/dormire-fuori-a-11-anni-sui-social-e-dibattito-acceso-tra-esperti-e-famiglie-interviene-il-pedagogista-attaccamento-eccessivo-estate-occasione-di-autonomia/",
+                "date": "8 Ago 2025",
+                "time": "17:49",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_530454781-scaled.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Domanda immissioni in ruolo ATA: come si presenta. Avviso via e-mail agli aspiranti",
+                "link": "https://www.orizzontescuola.it/domanda-immissioni-in-ruolo-ata-come-si-presenta-avviso-via-e-mail-agli-aspiranti/",
+                "date": "8 Ago 2025",
+                "time": "16:28",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1508556191.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Assunzioni docenti da GPS sostegno per il ruolo 2025/26, ecco i BOLLETTINI con le SURROGHE",
+                "link": "https://www.orizzontescuola.it/assunzioni-docenti-da-gps-sostegno-per-il-ruolo-ecco-il-primo-bollettino-5-giorni-di-tempo-per-accettare/",
+                "date": "8 Ago 2025",
+                "time": "16:19",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1349362136.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Mini call veloce sostegno: opportunità e vincoli per chi accetta la nomina. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/mini-call-veloce-opportunita-e-vincoli-per-chi-accetta-la-nomina-pillole-di-question-time/",
+                "date": "8 Ago 2025",
+                "time": "15:07",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_1831747288.jpg"
+            },
+            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "Corsi sostegno INDIRE art. 7, iscrizioni sovrannumerari università: domande dal 18 al 25 agosto",
@@ -110,24 +143,13 @@
                 "date": "8 Ago 2025",
                 "time": "7:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/FotoLogo1.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             null,
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Immissioni in ruolo docenti, mobilità annuale e mini call veloce, facciamo il punto! QUESTION TIME con Craparo (Gilda) LIVE Venerdì 8 agosto alle 14:30",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-mobilita-annuale-e-mini-call-veloce-facciamo-il-punto-question-time-con-craparo-gilda-live-venerdi-8-agosto-alle-1430/",
-                "date": "8 Ago 2025",
-                "time": "7:21",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Template_questiontime_1920x1080-5.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Assunzioni docenti da GPS sostegno per il ruolo 2025/26, ecco i BOLLETTINI con le SURROGHE",
-                "link": "https://www.orizzontescuola.it/assunzioni-docenti-da-gps-sostegno-per-il-ruolo-ecco-il-primo-bollettino-5-giorni-di-tempo-per-accettare/",
-                "date": "8 Ago 2025",
-                "time": "7:19",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1349362136.jpg"
-            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Mini call veloce sostegno 2025/26: ecco i posti disponibili. Domanda dal 14 agosto [AGGIORNATO]",
@@ -143,12 +165,7 @@
                 "date": "8 Ago 2025",
                 "time": "6:26",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_344044361.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Plus",
                 "title": "162 modelli di circolari e documenti per l’inizio anno scolastico, dalla sicurezza al piano annuale allo smartworking, al Piano Estate",
@@ -196,14 +213,6 @@
                 "date": "7 Ago 2025",
                 "time": "18:08",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_726199168.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Immissioni in ruolo DSGA, 824 stabilizzazioni per il prossimo anno. A che punto siamo? SPECIALE con Sorrentino (Anief) LIVE Venerdì 8 agosto alle 15:30",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-dsga-824-stabilizzazioni-per-il-prossimo-anno-a-che-punto-siamo-speciale-con-sorrentino-anief-live-venerdi-8-agosto-alle-1530/",
-                "date": "7 Ago 2025",
-                "time": "17:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Template_questiontime_1920x1080-6.png"
             },
             {
                 "category": "Genitori",
@@ -276,28 +285,36 @@
                 "date": "7 Ago 2025",
                 "time": "11:54",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_2159948225.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Incarichi al personale ATA delle istituzioni scolastiche: inquadramento normativo e indicazioni operative. GUIDA AGGIORNATA",
-                "link": "https://www.orizzontescuola.it/incarichi-al-personale-ata-delle-istituzioni-scolastiche-inquadramento-normativo-e-indicazioni-operative-guida-aggiornata/",
-                "date": "7 Ago 2025",
-                "time": "11:47",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2377454741.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Immissioni in ruolo ATA 2025/26: domande su Istanze online, riserve e rinuncia. RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-ata-2025-26-domande-su-istanze-online-riserve-e-rinuncia-risposte-ai-quesiti/",
-                "date": "7 Ago 2025",
-                "time": "11:46",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2331500305.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Inps, via libera al contributo straordinario aggiuntivo per l’Assegno di inclusione",
+                "link": "https://www.orizzontescuola.it/inps-via-libera-al-contributo-straordinario-aggiuntivo-per-lassegno-di-inclusione/",
+                "date": "8 Ago 2025",
+                "time": "18:22",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Graduatorie Dsga, Anief: per salvare la continuità amministrativa degli istituti salta la norma taglia-idonei, ma ci sono ancora troppi posti vacanti",
+                "link": "https://www.orizzontescuola.it/graduatorie-dsga-anief-per-salvare-la-continuita-amministrativa-degli-istituti-salta-la-norma-taglia-idonei-ma-ci-sono-ancora-troppi-posti-vacanti/",
+                "date": "8 Ago 2025",
+                "time": "15:46",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Speranza di vita in salute a 69 anni, l’Italia è messa bene",
+                "link": "https://www.orizzontescuola.it/speranza-di-vita-in-salute-69-anni-litalia-e-messa-bene/",
+                "date": "8 Ago 2025",
+                "time": "15:31",
+                "image_link": "N/A"
+            },
             {
                 "category": "Docenti",
                 "title": "Formazione docenti, convegno di studio internazionale e laboratorio annuale. NOTE esonero",
@@ -403,43 +420,19 @@
                 "image_link": "N/A"
             },
             {
+                "category": "Chiedilo a Lalla",
+                "title": "Immissioni in ruolo docenti, mobilità annuale e mini call veloce, facciamo il punto! QUESTION TIME con Craparo (Gilda) [VIDEO]",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-mobilita-annuale-e-mini-call-veloce-facciamo-il-punto-question-time-con-craparo-gilda-live-venerdi-8-agosto-alle-1430/",
+                "date": "8 Ago 2025",
+                "time": "7:21",
+                "image_link": "N/A"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Sostegno alle scuole dell’infanzia paritarie: la Regione Piemonte assegna 7,7 milioni di euro",
                 "link": "https://www.orizzontescuola.it/sostegno-alle-scuole-dellinfanzia-paritarie-la-regione-piemonte-assegna-77-milioni-di-euro/",
                 "date": "7 Ago 2025",
                 "time": "20:34",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Assunzioni per il ruolo da GPS sostegno docenti 2025/26: posti disponibili per provincia e scuola [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/assunzioni-da-gps-sostegno-per-il-ruolo-2025-26-posti-per-provincia-in-aggiornamento/",
-                "date": "7 Ago 2025",
-                "time": "18:55",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Sicilia, manovra da 339 milioni: priorità a emergenza idrica e sanità. 5 milioni alle scuole pubbliche, 8 milioni per l’acquisto di nuovi scuolabus",
-                "link": "https://www.orizzontescuola.it/sicilia-manovra-da-339-milioni-priorita-a-emergenza-idrica-e-sanita-5-milioni-alle-scuole-pubbliche-8-milioni-per-lacquisto-di-nuovi-scuolabus/",
-                "date": "7 Ago 2025",
-                "time": "18:50",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Pagamenti MOF in ritardo, ANCoDiS denuncia l’inerzia del sistema: “Settembre rischia di essere più caldo del solito. Molti potrebbero non fidarsi più del pagherò”",
-                "link": "https://www.orizzontescuola.it/pagamenti-mof-in-ritardo-ancodis-denuncia-linerzia-del-sistema-settembre-rischia-di-essere-piu-caldo-del-solito-molti-potrebbero-non-fidarsi-piu-del-paghero/",
-                "date": "7 Ago 2025",
-                "time": "18:33",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Dirigenti scolastici",
-                "title": "Immissioni in ruolo dirigenti scolastici, ecco i 39 nuovi DS dal concorso ordinario del Lazio",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-dirigenti-scolastici-ecco-i-39-nuovi-ds-del-lazio/",
-                "date": "7 Ago 2025",
-                "time": "18:32",
                 "image_link": "N/A"
             }
         ]
@@ -566,6 +559,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Nomine in ruolo docenti da GPS sostegno 2025/26, potrebbe non esserci tempo per scorrere una seconda volta le graduatorie per coprire i posti dei rinunciatari",
+                "link": "https://www.orizzontescuola.it/nomine-in-ruolo-docenti-da-gps-sostegno-2025-26-potrebbe-non-esserci-tempo-per-scorrere-una-seconda-volta-le-graduatorie-per-coprire-i-posti-dei-rinunciatari/",
+                "date": "6 Ago 2025",
+                "time": "14:31",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_163768811.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Punteggi doppi nel concorso nella secondaria per classi di concorso accorpate. Candidati attendono risposta Ministero. PILLOLE di QUESTION TIME",
                 "link": "https://www.orizzontescuola.it/punteggi-doppi-nel-concorso-nella-secondaria-per-classi-di-concorso-accorpate-candidati-attendono-risposta-ministero-pillole-di-question-time/",
                 "date": "6 Ago 2025",
@@ -603,14 +604,6 @@
                 "date": "5 Ago 2025",
                 "time": "19:05",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/02/shutterstock_1011686965.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze Sostegno 2025/26: precedenza al docente specializzato o alla continuità richiesta dalla famiglia? Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/sostegno-precedenza-al-docente-specializzato-o-alla-continuita-richiesta-dalla-famiglia-pillole-di-question-time/",
-                "date": "5 Ago 2025",
-                "time": "15:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_545354773.jpg"
             }
         ]
     },
