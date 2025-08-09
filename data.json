@@ -25,6 +25,46 @@
         "articles": [
             {
                 "category": "Genitori",
+                "title": "Dalla classe al salotto di casa: quando i robot educativi diventano membri della famiglia e restano per sempre nei ricordi dei bambini. Una ricerca in Canada",
+                "link": "https://www.orizzontescuola.it/dalla-classe-al-salotto-di-casa-quando-i-robot-educativi-diventano-membri-della-famiglia-e-restano-per-sempre-nei-ricordi-dei-bambini-una-ricerca-in-canada/",
+                "date": "9 Ago 2025",
+                "time": "20:31",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2366378773.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Docenti neoassunti, presa di servizio: diritti e doveri. Tutto quello che c’è da sapere. QUESTION TIME con Cannas. LIVE Lunedì 11 agosto alle 14:30",
+                "link": "https://www.orizzontescuola.it/docenti-neoassunti-presa-di-servizio-diritti-e-doveri-tutto-quello-che-ce-da-sapere-question-time-con-cannas-live-lunedi-11-agosto-alle-1430/",
+                "date": "9 Ago 2025",
+                "time": "19:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Template_questiontime_1920x1080-7.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Compiti delle vacanze, Daniele Novara spiega su Facebook l’errore che tutti i genitori commettono e che rovina l’estate ai propri figli",
+                "link": "https://www.orizzontescuola.it/compiti-delle-vacanze-daniele-novara-spiega-su-facebook-lerrore-che-tutti-i-genitori-commettono-e-che-rovina-lestate-ai-propri-figli/",
+                "date": "9 Ago 2025",
+                "time": "19:32",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/1713607528765.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Lo studio sui fratelli che rivela il segreto dell’intelligenza: come l’educazione raddoppia le capacità cognitive per tutta la vita",
+                "link": "https://www.orizzontescuola.it/lo-studio-sui-fratelli-che-rivela-il-segreto-dellintelligenza-come-leducazione-raddoppia-le-capacita-cognitive-per-tutta-la-vita/",
+                "date": "9 Ago 2025",
+                "time": "18:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2492437891.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Supplenze docenti GPS 2025/26, a fine agosto le nomine: come funzioneranno le “riserve”",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-gps-2025-26-a-fine-agosto-le-nomine-come-funzioneranno-le-riserve/",
+                "date": "9 Ago 2025",
+                "time": "18:42",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/09/shutterstock_1240130032.jpg"
+            },
+            {
+                "category": "Genitori",
                 "title": "Dal pianto al sorriso, come l’acustica e l’architettura della classe possono trasformare il primo giorno di asilo in un’esperienza serena per i bimbi",
                 "link": "https://www.orizzontescuola.it/dal-pianto-al-sorriso-come-lacustica-e-larchitettura-della-classe-possono-trasformare-il-primo-giorno-di-asilo-in-unesperienza-serena-per-i-bimbi/",
                 "date": "9 Ago 2025",
@@ -80,14 +120,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Galimberti.png"
             },
             {
-                "category": "Chiedilo a Lalla",
-                "title": "Docenti neoassunti, presa di servizio: diritti e doveri. Tutto quello che c’è da sapere. QUESTION TIME con Cannas. LIVE Lunedì 11 agosto alle 14:30",
-                "link": "https://www.orizzontescuola.it/docenti-neoassunti-presa-di-servizio-diritti-e-doveri-tutto-quello-che-ce-da-sapere-question-time-con-cannas-live-lunedi-11-agosto-alle-1430/",
-                "date": "9 Ago 2025",
-                "time": "13:13",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Template_questiontime_1920x1080-7.png"
-            },
-            {
                 "category": "Diventare Insegnanti",
                 "title": "Scienze della formazione primaria 2025/26, sono 11.822 i posti a disposizione. Ecco la distribuzione per Università e PROGRAMMA test 12 settembre",
                 "link": "https://www.orizzontescuola.it/scienze-della-formazione-primaria-2025-26-sono-11-822-i-posti-a-disposizione-ecco-la-distribuzione-per-universita-e-programma-test-12-settembre/",
@@ -118,7 +150,12 @@
                 "date": "9 Ago 2025",
                 "time": "11:38",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_1931627111.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Il maestro come figura pubblica, quando la scuola prende la scena: “Un’autorità che educa, non che punisce”. Il confronto tra il 1954 e il 2025",
@@ -150,12 +187,7 @@
                 "date": "9 Ago 2025",
                 "time": "10:11",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/09/shutterstock_1930109909.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Caldo estremo nelle aule: ricerca in Australia su 14,5 milioni di studenti rivela perdite cognitive fino al 10% entro il 2050. Le scuole povere pagano il prezzo più alto",
@@ -267,44 +299,44 @@
                 "date": "8 Ago 2025",
                 "time": "20:21",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/06/judge-3665164_1280-1200x641.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Quando non devo aspettare un voto dopo il compito mi sento meglio”. Senza voti e senza esami, l’esempio della Danimarca: “Gli studenti imparano senza il verdetto dei numeri”",
-                "link": "https://www.orizzontescuola.it/quando-non-devo-aspettare-un-voto-dopo-il-compito-mi-sento-meglio-senza-voti-e-senza-esami-lesempio-della-danimarca-gli-studenti-imparano-senza-il-verdetto-dei-numeri/",
-                "date": "8 Ago 2025",
-                "time": "19:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_74012506-scaled.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Docente con invalidità al 75% viene licenziata, fa ricorso al Tribunale e lo vince. I giudici: “Le assenze per disabilità non rientrano nel periodo di comporto. Deve essere reintegrata e risarcita”",
-                "link": "https://www.orizzontescuola.it/docente-con-invalidita-al-75-viene-licenziata-fa-ricorso-al-tribunale-e-lo-vince-i-giudici-le-assenze-per-disabilita-non-rientrano-nel-periodo-di-comporto-deve-essere-reintegrata-e-risarcita-di/",
-                "date": "8 Ago 2025",
-                "time": "19:23",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/03/giustizia.jpg"
-            },
-            {
-                "category": "Pensioni",
-                "title": "Riscatto della laurea, Pacifico (Anief): “Titolo di accesso, deve essere possibile richiederlo gratuitamente o agevolato. Attendiamo cosa deciderà il Parlamento”",
-                "link": "https://www.orizzontescuola.it/riscatto-della-laurea-pacifico-anief-titolo-di-accesso-deve-essere-possibile-richiederlo-gratuitamente-o-agevolato-attendiamo-cosa-decidera-il-parlamento/",
-                "date": "8 Ago 2025",
-                "time": "18:36",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/shutterstock_2224130123-scaled.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Asili nido, Valditara autorizza 164 nuove strutture: oltre 100 milioni dal PNRR. Il 78% delle risorse destinato al Sud",
-                "link": "https://www.orizzontescuola.it/asili-nido-valditara-autorizza-164-nuove-strutture-oltre-100-milioni-dal-pnrr-il-78-delle-risorse-destinato-al-sud/",
-                "date": "8 Ago 2025",
-                "time": "18:33",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/Valditara_2.jpeg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "“Ferma il bullismo prima che sia troppo tardi”: la RAI lancia la prima campagna nazionale contro violenza giovanile",
+                "link": "https://www.orizzontescuola.it/ferma-il-bullismo-prima-che-sia-troppo-tardi-la-rai-lancia-la-prima-campagna-nazionale-contro-violenza-giovanile/",
+                "date": "9 Ago 2025",
+                "time": "21:04",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Passaporti negli uffici postali: 90mila richieste gestite, servizio in espansione verso tutte le questure",
+                "link": "https://www.orizzontescuola.it/passaporti-negli-uffici-postali-90mila-richieste-gestite-servizio-in-espansione-verso-tutte-le-questure/",
+                "date": "9 Ago 2025",
+                "time": "20:06",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Adolescenti sempre più schizzinosi a tavola? Scopri perché la mensa scolastica offre la risposta inattesa: tutti i dati dello studio in Inghilterra e le ricadute per famiglie e scuole",
+                "link": "https://www.orizzontescuola.it/adolescenti-sempre-piu-schizzinosi-a-tavola-scopri-perche-la-mensa-scolastica-offre-la-risposta-inattesa-tutti-i-dati-dello-studio-in-inghilterra-e-le-ricadute-per-famiglie-e-scuole/",
+                "date": "9 Ago 2025",
+                "time": "19:24",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Zaino sospeso a Ferrara: una rete cittadina contro il caro-scuola: quaderni, penne, matite e astucci in donazione",
+                "link": "https://www.orizzontescuola.it/zaino-sospeso-a-ferrara-una-rete-cittadina-contro-il-caro-scuola-quaderni-penne-matite-e-astucci-in-donazione/",
+                "date": "9 Ago 2025",
+                "time": "19:04",
+                "image_link": "N/A"
+            },
             null,
             {
                 "category": "Cronaca",
@@ -408,38 +440,6 @@
                 "link": "https://www.orizzontescuola.it/come-i-bambini-imparano-a-decifrare-le-emozioni-dal-riconoscimento-facciale-alla-comprensione-concettuale-uno-studio-delluniversita-di-pechino/",
                 "date": "9 Ago 2025",
                 "time": "14:42",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Caro libri scolastici, spese in crescita: le dinamiche dietro il rincaro. Lievitano i costi per le famiglie: spesa media e variazioni in dieci anni",
-                "link": "https://www.orizzontescuola.it/caro-libri-scolastici-spese-in-crescita-le-dinamiche-dietro-il-rincaro-lievitano-i-costi-per-le-famiglie-spesa-media-e-variazioni-in-dieci-anni/",
-                "date": "9 Ago 2025",
-                "time": "14:14",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Smartphone come tata e cyberbullismo come spauracchio: una pedagogista svela i rischi che nessuno racconta e offre gli strumenti per guidare i figli nell’era digitale senza ansie né divieti",
-                "link": "https://www.orizzontescuola.it/smartphone-come-tata-e-cyberbullismo-come-spauracchio-una-pedagogista-svela-i-rischi-che-nessuno-racconta-e-offre-gli-strumenti-per-guidare-i-figli-nellera-digitale-senza-ansie-ne-divieti/",
-                "date": "9 Ago 2025",
-                "time": "13:57",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "MAD docenti Trento 2025/26: domande entro le 14 dell’11 agosto",
-                "link": "https://www.orizzontescuola.it/mad-docenti-trento-2025-26-domande-entro-le-14-dell11-agosto/",
-                "date": "9 Ago 2025",
-                "time": "13:33",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Dalle equazioni alle ricette: i corsi di cucina in tutte le scuole per insegnare la dieta mediterranea tra fornelli e social, trasformando ogni studente in nemico di sale e zucchero",
-                "link": "https://www.orizzontescuola.it/dalle-equazioni-alle-ricette-i-corsi-di-cucina-in-tutte-le-scuole-per-insegnare-la-dieta-mediterranea-tra-fornelli-e-social-trasformando-ogni-studente-in-chef-della-propria-salute-e-nemico-di-sale-e/",
-                "date": "9 Ago 2025",
-                "time": "13:11",
                 "image_link": "N/A"
             }
         ]
@@ -619,6 +619,14 @@
         "articles": [
             {
                 "category": "ATA",
+                "title": "Immissioni in ruolo personale ATA 2025/26: quando le domande? Si attende la circolare",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-ata-2025-26-quando-le-domande-si-attende-la-circolare/",
+                "date": "6 Ago 2025",
+                "time": "19:17",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
+            },
+            {
+                "category": "ATA",
                 "title": "Graduatorie terza fascia ATA: non è possibile inserire la CIAD conseguita dopo il 30 aprile. Si aspetta il bando del 2027",
                 "link": "https://www.orizzontescuola.it/graduatorie-terza-fascia-ata-non-e-possibile-inserire-la-ciad-conseguita-dopo-il-30-aprile-si-aspetta-il-bando-del-2027/",
                 "date": "5 Ago 2025",
@@ -656,14 +664,6 @@
                 "date": "4 Ago 2025",
                 "time": "18:03",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2377454741.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Caldo record e scuole fatiscenti: la testimonianza di chi lavora tra temperature insostenibili e carenze strutturali, tra straordinari obbligati e la paura di nuovi malori",
-                "link": "https://www.orizzontescuola.it/caldo-record-e-scuole-fatiscenti-la-testimonianza-di-chi-lavora-tra-temperature-insostenibili-e-carenze-strutturali-tra-straordinari-obbligati-e-la-paura-di-nuovi-malori/",
-                "date": "3 Ago 2025",
-                "time": "9:37",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/Ventilatori.jpeg"
             }
         ]
     },
