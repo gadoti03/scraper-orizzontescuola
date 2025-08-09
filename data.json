@@ -24,6 +24,54 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Genitori",
+                "title": "Dal pianto al sorriso, come l’acustica e l’architettura della classe possono trasformare il primo giorno di asilo in un’esperienza serena per i bimbi",
+                "link": "https://www.orizzontescuola.it/dal-pianto-al-sorriso-come-lacustica-e-larchitettura-della-classe-possono-trasformare-il-primo-giorno-di-asilo-in-unesperienza-serena-per-i-bimbi/",
+                "date": "9 Ago 2025",
+                "time": "17:39",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_570751849-scaled.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Scuola superiore senza smartphone in classe: la circolare ministeriale impone il divieto in orario scolastico, regole e sanzioni aggiornate, poche eccezioni. Come succederà da settembre?",
+                "link": "https://www.orizzontescuola.it/scuola-superiore-senza-smartphone-la-circolare-ministeriale-impone-il-divieto-in-orario-scolastico-regole-e-sanzioni-aggiornate-poche-eccezioni-come-succedera-da-settembre/",
+                "date": "9 Ago 2025",
+                "time": "17:01",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/Valditara_3.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Crepet: “L’inganno dell’intelligenza artificiale mina le basi del pensiero critico. Tecnologie digitali non hanno migliorato tutto. Mi faccio 10mila domande per capire se è vero, un problema enorme”",
+                "link": "https://www.orizzontescuola.it/crepet-linganno-dellintelligenza-artificiale-mina-le-basi-del-pensiero-critico/",
+                "date": "9 Ago 2025",
+                "time": "16:23",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/Crepet.jpeg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Emorragia di talenti: l’Italia perde i suoi figli migliori. In 10 anni 367mila giovani hanno fatto le valigie, quasi la metà con una laurea in tasca. DOSSIER Istat svela la crisi",
+                "link": "https://www.orizzontescuola.it/emorragia-di-talenti-litalia-perde-i-suoi-figli-migliori-in-10-anni-367mila-giovani-hanno-fatto-le-valigie-quasi-la-meta-con-una-laurea-in-tasca-un-dossier-istat-svela-la-crisi-di-unintera-gen/",
+                "date": "9 Ago 2025",
+                "time": "15:53",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1681718125-scaled.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Maturità 2025, dal Trentino-Alto Adige alla Basilicata, in sette regioni nessuno è stato bocciato",
+                "link": "https://www.orizzontescuola.it/maturita-2025-dal-trentino-alto-adige-alla-basilicata-in-sette-regioni-nessuno-e-stato-bocciato/",
+                "date": "9 Ago 2025",
+                "time": "15:38",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_668259205.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Assegnazione provvisoria docente vincitore non abilitato PNRR1: perché la mia domanda non è stata convalidata?",
+                "link": "https://www.orizzontescuola.it/assegnazione-provvisoria-docente-vincitore-non-abilitato-pnrr1-perche-la-mia-domanda-non-e-stata-convalidata/",
+                "date": "9 Ago 2025",
+                "time": "15:25",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/11/hamburg-1593802_1920-1200x800.jpg"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Da 1600 a 500 parole, Galimberti svela il drammatico impoverimento del lessico che sta uccidendo il pensiero degli studenti: “Si usa solo la proposizione principale, soggetto, predicato, complemento e punto”",
                 "link": "https://www.orizzontescuola.it/da-1600-a-500-parole-galimberti-svela-il-drammatico-impoverimento-del-lessico-che-sta-uccidendo-il-pensiero-degli-studenti-si-usa-solo-la-proposizione-principale-soggetto-predicato-complemento-p/",
@@ -102,7 +150,12 @@
                 "date": "9 Ago 2025",
                 "time": "10:11",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/09/shutterstock_1930109909.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Caldo estremo nelle aule: ricerca in Australia su 14,5 milioni di studenti rivela perdite cognitive fino al 10% entro il 2050. Le scuole povere pagano il prezzo più alto",
@@ -150,12 +203,7 @@
                 "date": "9 Ago 2025",
                 "time": "8:31",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/shutterstock_2384798953.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "“Incompetente” alla collega, dirigente rimprovera ATA che fa ricorso e vince in Corte d’Appello. Ecco cosa hanno detto i giudici",
@@ -251,53 +299,117 @@
                 "date": "8 Ago 2025",
                 "time": "18:33",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/Valditara_2.jpeg"
-            },
-            {
-                "category": "Genitori",
-                "title": "“Dormire fuori a 11 anni?” Sui social è dibattito acceso tra esperti e famiglie. Interviene il pedagogista: “Attaccamento eccessivo, estate occasione di autonomia”",
-                "link": "https://www.orizzontescuola.it/dormire-fuori-a-11-anni-sui-social-e-dibattito-acceso-tra-esperti-e-famiglie-interviene-il-pedagogista-attaccamento-eccessivo-estate-occasione-di-autonomia/",
-                "date": "8 Ago 2025",
-                "time": "17:49",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_530454781-scaled.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Domanda immissioni in ruolo ATA: come si presenta. Avviso via e-mail agli aspiranti",
-                "link": "https://www.orizzontescuola.it/domanda-immissioni-in-ruolo-ata-come-si-presenta-avviso-via-e-mail-agli-aspiranti/",
-                "date": "8 Ago 2025",
-                "time": "16:28",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1508556191.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Assunzioni docenti da GPS sostegno per il ruolo 2025/26, ecco i BOLLETTINI con le SURROGHE",
-                "link": "https://www.orizzontescuola.it/assunzioni-docenti-da-gps-sostegno-per-il-ruolo-ecco-il-primo-bollettino-5-giorni-di-tempo-per-accettare/",
-                "date": "8 Ago 2025",
-                "time": "16:19",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1349362136.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Mini call veloce sostegno: opportunità e vincoli per chi accetta la nomina. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/mini-call-veloce-opportunita-e-vincoli-per-chi-accetta-la-nomina-pillole-di-question-time/",
-                "date": "8 Ago 2025",
-                "time": "15:07",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_1831747288.jpg"
-            },
-            null,
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Corsi sostegno INDIRE art. 7, iscrizioni sovrannumerari università: domande dal 18 al 25 agosto",
-                "link": "https://www.orizzontescuola.it/corsi-sostegno-indire-iscrizioni-sovrannumerari-universita-domande-dal-18-al-25-agosto/",
-                "date": "8 Ago 2025",
-                "time": "13:08",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_1029430381.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            null,
+            {
+                "category": "Cronaca",
+                "title": "La pubblica amministrazione riscopre i consulenti: da 35mila a 56mila contratti in 12 mesi. Funzioni Locali da record, ma la spesa supera i 548 milioni di euro",
+                "link": "https://www.orizzontescuola.it/la-pubblica-amministrazione-riscopre-i-consulenti-da-35mila-a-56mila-contratti-in-12-mesi-funzioni-locali-da-record-ma-la-spesa-supera-i-548-milioni-di-euro/",
+                "date": "9 Ago 2025",
+                "time": "18:23",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Quando il cambiamento climatico si fa sentire nella mente: le conseguenze della solastalgia, l’eco-emozione che colpisce chi assiste all’alterazione del proprio territorio",
+                "link": "https://www.orizzontescuola.it/eco-emozioni-quando-i-cambiamenti-ambientali-colpiscono-la-salute-mentale/",
+                "date": "9 Ago 2025",
+                "time": "18:05",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Campania, partiti gli abbonamenti studenti gratuiti: limite di 35mila euro di ISEE e validità fino a luglio 2026. Le info utili",
+                "link": "https://www.orizzontescuola.it/campania-partiti-gli-abbonamenti-studenti-gratuiti-limite-di-35mila-euro-di-isee-e-validita-fino-a-luglio-2026-le-info-utili/",
+                "date": "9 Ago 2025",
+                "time": "17:58",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Allarme rosso nel cyberspazio italiano: la Pubblica Amministrazione nel mirino degli hacker. Un’ondata senza precedenti di attacchi DDoS e ransomware minaccia i servizi essenziali del Paese",
+                "link": "https://www.orizzontescuola.it/allarme-rosso-nel-cyberspazio-italiano-la-pubblica-amministrazione-nel-mirino-degli-hacker-unondata-senza-precedenti-di-attacchi-ddos-e-ransomware-minaccia-i-servizi-essenziali-del-paese/",
+                "date": "9 Ago 2025",
+                "time": "17:25",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "La Regione Toscana approva mozione per valorizzare il gioco spontaneo tra bambini e adolescenti",
+                "link": "https://www.orizzontescuola.it/la-regione-toscana-approva-mozione-per-valorizzare-il-gioco-spontaneo-tra-bambini-e-adolescenti/",
+                "date": "9 Ago 2025",
+                "time": "16:54",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Studenti",
+                "title": "All’Università di Ferrara la voce delle mamme accoglie le matricole: al via il servizio telefonico con Wemamy. Ecco come funzionerà",
+                "link": "https://www.orizzontescuola.it/alluniversita-di-ferrara-la-voce-delle-mamme-accoglie-le-matricole-al-via-il-servizio-telefonico-con-wemamy-ecco-come-funzionera/",
+                "date": "9 Ago 2025",
+                "time": "16:44",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Crolla l’uso di ChatGPT a scuole chiuse, l’esperto: “È il pronto soccorso dei compiti, l’utilizzo è stagionale”",
+                "link": "https://www.orizzontescuola.it/crolla-luso-di-chatgpt-a-scuole-chiuse-lesperto-e-il-pronto-soccorso-dei-compiti-lutilizzo-e-stagionale/",
+                "date": "9 Ago 2025",
+                "time": "16:06",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Controlli sul Terzo settore, via libera al decreto: tre livelli di verifica e ruolo rafforzato per Reti associative e Csv",
+                "link": "https://www.orizzontescuola.it/controlli-sul-terzo-settore-via-libera-al-decreto-tre-livelli-di-verifica-e-ruolo-rafforzato-per-reti-associative-e-csv/",
+                "date": "9 Ago 2025",
+                "time": "16:00",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "YouTube raggiunge i vent’anni: il dominio della piattaforma video tra contenuti lunghi e protezione dei minori",
+                "link": "https://www.orizzontescuola.it/youtube-raggiunge-i-ventanni-il-dominio-della-piattaforma-video-tra-contenuti-lunghi-e-protezione-dei-minori/",
+                "date": "9 Ago 2025",
+                "time": "15:32",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Sicilia, fondi per gli scuolabus: con oltre 10 milioni la Regione finanzia le richieste, contributi fino a 75mila euro e mezzi nuovi per garantire diritto allo studio e mobilità",
+                "link": "https://www.orizzontescuola.it/sicilia-fondi-per-gli-scuolabus-con-oltre-10-milioni-la-regione-finanzia-le-richieste-contributi-fino-a-75mila-euro-e-mezzi-nuovi-per-garantire-diritto-allo-studio-e-mobilita/",
+                "date": "9 Ago 2025",
+                "time": "15:22",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Google lancia la modalità studio per Gemini: arriva l’apprendimento guidato per studenti e docenti",
+                "link": "https://www.orizzontescuola.it/google-lancia-la-modalita-studio-per-gemini-arriva-lapprendimento-guidato-per-studenti-e-docenti/",
+                "date": "9 Ago 2025",
+                "time": "15:07",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Social Card “Dedicata a te” 2025: confermato il bonus da 500 euro per le famiglie in difficoltà",
+                "link": "https://www.orizzontescuola.it/social-card-dedicata-a-te-2025-confermato-il-bonus-da-500-euro-per-le-famiglie-in-difficolta/",
+                "date": "9 Ago 2025",
+                "time": "14:50",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Come i bambini imparano a decifrare le emozioni: dal riconoscimento facciale alla comprensione concettuale. Uno studio dell’Università di Pechino",
+                "link": "https://www.orizzontescuola.it/come-i-bambini-imparano-a-decifrare-le-emozioni-dal-riconoscimento-facciale-alla-comprensione-concettuale-uno-studio-delluniversita-di-pechino/",
+                "date": "9 Ago 2025",
+                "time": "14:42",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Caro libri scolastici, spese in crescita: le dinamiche dietro il rincaro. Lievitano i costi per le famiglie: spesa media e variazioni in dieci anni",
@@ -328,118 +440,6 @@
                 "link": "https://www.orizzontescuola.it/dalle-equazioni-alle-ricette-i-corsi-di-cucina-in-tutte-le-scuole-per-insegnare-la-dieta-mediterranea-tra-fornelli-e-social-trasformando-ogni-studente-in-chef-della-propria-salute-e-nemico-di-sale-e/",
                 "date": "9 Ago 2025",
                 "time": "13:11",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "La Basilicata investe un milione di euro nei laboratori STEM per innovare la didattica",
-                "link": "https://www.orizzontescuola.it/la-basilicata-investe-un-milione-di-euro-nei-laboratori-stem-per-innovare-la-didattica/",
-                "date": "9 Ago 2025",
-                "time": "13:01",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Genitori",
-                "title": "Ogni anno decine di bambini muoiono per annegamento in piscina: dati, cause nascoste e consigli dell’Iss per prevenire tragedie silenziose tra i più piccoli durante l’estate",
-                "link": "https://www.orizzontescuola.it/ogni-anno-decine-di-bambini-muoiono-per-annegamento-in-piscina-dati-cause-nascoste-e-consigli-delliss-per-prevenire-tragedie-silenziose-tra-i-piu-piccoli-durante-lestate/",
-                "date": "9 Ago 2025",
-                "time": "12:52",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Still I Rise, l’idea “sovversiva” di Nicolò Govoni: scuole d’eccellenza, International Baccalaureate gratuito e pari opportunità ai giovani più vulnerabili",
-                "link": "https://www.orizzontescuola.it/still-i-rise-lidea-sovversiva-di-nicolo-govoni-scuole-deccellenza-international-baccalaureate-gratuito-e-pari-opportunita-ai-giovani-piu-vulnerabili/",
-                "date": "9 Ago 2025",
-                "time": "12:44",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "In Francia l’IA entra in classe: dalla firma del preside al no dei genitori che non serve, tutti i passaggi obbligatori per tutelare dati e imparare meglio",
-                "link": "https://www.orizzontescuola.it/in-francia-lia-entra-in-classe-dalla-firma-del-preside-al-no-dei-genitori-che-non-serve-tutti-i-passaggi-obbligatori-per-tutelare-dati-imparare-meglio-e-non-cadere-nelle-trappole-del-marketing-di/",
-                "date": "9 Ago 2025",
-                "time": "12:30",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "SPID al capolinea? Gestori rifiutano il rinnovo, governo punta tutto sulla CIE. A rischio l’accesso digitale per 40 milioni di cittadini entro ottobre",
-                "link": "https://www.orizzontescuola.it/spid-gestori-rifiutano-il-rinnovo-rischio-stop-per-40-milioni-di-utenti-prima-delleu-digital-wallet/",
-                "date": "9 Ago 2025",
-                "time": "11:50",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Michela Murgia, il ricordo della mamma: “Si iscrisse al liceo classico, ma si trovò a disagio per ambiente snob dominato da figli di professionisti”",
-                "link": "https://www.orizzontescuola.it/michela-murgia-il-ricordo-della-mamma-si-iscrisse-al-liceo-classico-ma-si-trovo-a-disagio-per-ambiente-snob-dominato-da-figli-di-professionisti/",
-                "date": "9 Ago 2025",
-                "time": "11:41",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Mobilità docenti 2025/2026: il Coordinamento Diritti Umani denuncia criticità nei criteri di assegnazione",
-                "link": "https://www.orizzontescuola.it/mobilita-docenti-2025-2026-il-coordinamento-diritti-umani-denuncia-criticita-nei-criteri-di-assegnazione/",
-                "date": "9 Ago 2025",
-                "time": "11:33",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "PA, pagamenti ai fornitori: 8,15 miliardi non incassati nel 2024. CGIA: “Ritardi ancora diffusi, Italia maglia nera in Ue”",
-                "link": "https://www.orizzontescuola.it/pa-pagamenti-ai-fornitori-815-miliardi-non-incassati-nel-2024-cgia-ritardi-ancora-diffusi-italia-maglia-nera-in-ue/",
-                "date": "9 Ago 2025",
-                "time": "11:21",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Toscana in prima linea contro la morte cardiaca improvvisa: approvata legge innovativa per salvare i giovani",
-                "link": "https://www.orizzontescuola.it/toscana-in-prima-linea-contro-la-morte-cardiaca-improvvisa-approvata-legge-innovativa-per-salvare-i-giovani/",
-                "date": "9 Ago 2025",
-                "time": "10:56",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Addio rosa e azzurro, arriva il grembiule a scelta tra rosso, giallo e verde: come la scuola di Torrita di Siena cambia il paradigma e scatena il dibattito",
-                "link": "https://www.orizzontescuola.it/addio-rosa-e-azzurro-arriva-il-grembiule-a-scelta-tra-rosso-giallo-e-verde-come-la-scuola-di-torrita-di-siena-cambia-il-paradigma-e-scatena-il-dibattito/",
-                "date": "9 Ago 2025",
-                "time": "10:44",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Tre giorni di stop pagato contro il dolore invisibile: il Portogallo vara il congedo mestruale per lavoratrici e studentesse, mentre le scuole italiane sperimentano soluzioni fai-da-te in attesa di una legge",
-                "link": "https://www.orizzontescuola.it/tre-giorni-di-stop-pagato-contro-il-dolore-invisibile-il-portogallo-vara-il-congedo-mestruale-per-lavoratrici-e-studentesse-mentre-le-scuole-italiane-sperimentano-soluzioni-fai-da-te-in-attesa-di-un/",
-                "date": "9 Ago 2025",
-                "time": "10:29",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Studenti",
-                "title": "“Ansia e depressione, voglio studiare vicino ai miei genitori”. Ateneo nega il trasferimento alla studentessa che fa ricorso al TAR e lo vince. Cosa hanno detto i giudici",
-                "link": "https://www.orizzontescuola.it/ansia-e-depressione-voglio-studiare-vicino-ai-miei-genitori-ateneo-nega-il-trasferimento-alla-studentessa-che-fa-ricorso-al-tar-e-lo-vince-cosa-hanno-detto-i-giudici/",
-                "date": "9 Ago 2025",
-                "time": "10:21",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "“Servono risposte urgenti, ma non tutto può diventare decreto”, il Ministro Ciriani “bacchetta” il governo: “Parlamento non è soggetto debole, Serve uno sforzo anche da parte dei ministri”",
-                "link": "https://www.orizzontescuola.it/servono-risposte-urgenti-ma-non-tutto-puo-diventare-decreto-il-ministro-ciriani-bacchetta-il-governo-parlamento-non-e-soggetto-debole-serve-uno-sforzo-anche-da-parte-dei-ministri/",
-                "date": "9 Ago 2025",
-                "time": "9:20",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "La Francia impone la chat di Stato nella pubblica amministrazione: dal primo settembre obbligatoria Tchap al posto di WhatsApp",
-                "link": "https://www.orizzontescuola.it/la-francia-impone-la-chat-di-stato-nella-pubblica-amministrazione-dal-primo-settembre-obbligatoria-tchap-al-posto-di-whatsapp/",
-                "date": "9 Ago 2025",
-                "time": "8:02",
                 "image_link": "N/A"
             }
         ]
@@ -566,51 +566,51 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Mini call veloce sostegno 2025/26: ecco i posti disponibili. Domanda dal 14 agosto [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/mini-call-veloce-sostegno-2025-26-ecco-i-posti-disponibili-domanda-dal-14-agosto-in-aggiornamento/",
+                "date": "8 Ago 2025",
+                "time": "7:13",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/10/Immagine-promobox-infanzia-1.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Nessuna nomina da GPS sostegno prima fascia: quali possibilità restano. PILLOLE di QUESTION TIME",
+                "link": "https://www.orizzontescuola.it/nessuna-nomina-da-gps-sostegno-prima-fascia-quali-possibilita-restano-pillole-di-question-time/",
+                "date": "7 Ago 2025",
+                "time": "18:08",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_726199168.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Assunta il 1° agosto, nel pomeriggio le viene revocato il ruolo: annullato. Finisce in pronto soccorso per l’ansia e la pressione sanguigna alle stelle",
+                "link": "https://www.orizzontescuola.it/assunta-in-ruolo-il-1-agosto-nel-pomeriggio-le-viene-revocato-il-ruolo-annullato-finisce-in-pronto-soccorso-per-lansia-e-la-pressione-sanguigna-alle-stelle/",
+                "date": "7 Ago 2025",
+                "time": "17:07",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_1692970756.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Graduatorie regionali docenti: come funzionerà la nuova misura prevista dal decreto scuola dal 2026/27. PILLOLE di QUESTION TIME",
+                "link": "https://www.orizzontescuola.it/graduatorie-regionali-come-funzionera-la-nuova-misura-prevista-dal-decreto-scuola-dal-2026-27-pillole-di-question-time/",
+                "date": "7 Ago 2025",
+                "time": "16:35",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2251238405.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Percorsi abilitanti per vincitori del concorso PNRR2 neoassunti: attesa per i bandi del terzo ciclo. PILLOLE di QUESTION TIME",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-per-vincitori-del-concorso-pnrr2-neoassunti-attesa-per-i-bandi-del-terzo-ciclo-pillole-di-question-time/",
+                "date": "7 Ago 2025",
+                "time": "13:33",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2554071589.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Corsi sostegno INDIRE estero art. 7, le attività formative avranno inizio venerdì 22 agosto. Calendario nei prossimi giorni",
                 "link": "https://www.orizzontescuola.it/corsi-sostegno-indire-estero-art-7-le-attivita-formative-avranno-inizio-venerdi-22-agosto-calendario-nei-prossimi-giorni/",
                 "date": "7 Ago 2025",
                 "time": "11:23",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/Indire.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Minicall veloce docenti sostegno 2025/26: sarà attivata solo in caso di posti residui. PILLOLE di QUESTION TIME",
-                "link": "https://www.orizzontescuola.it/minicall-veloce-docenti-sostegno-2025-26-sara-attivata-solo-in-caso-di-posti-residui-pillole-di-question-time/",
-                "date": "7 Ago 2025",
-                "time": "11:09",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2471325395.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Nomine in ruolo da GPS sostegno ADSS Sicilia: Tar annulla  quelle dell’a.s. 24/25. Hanno priorità gli idonei concorso 2020",
-                "link": "https://www.orizzontescuola.it/nomine-in-ruolo-da-gps-docenti-adss-sicilia-tar-annulla-quelle-della-s-24-25-hanno-priorita-gli-idonei-concorso-2020/",
-                "date": "7 Ago 2025",
-                "time": "9:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/01/shutterstock_1697441884-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Docenti ITP specializzati: “24 punti aggiuntivi nella prima  fascia, si ponga fine alla nostra discriminazione”",
-                "link": "https://www.orizzontescuola.it/docenti-itp-specializzati-24-aggiuntivi-nella-prima-fascia-si-ponga-fine-alla-nostra-discriminazione/",
-                "date": "7 Ago 2025",
-                "time": "8:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_2011911242.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi sostegno art. 6 Indire, ulteriore scorrimento graduatoria. Termine ultimo versamento 600 euro l’11 agosto",
-                "link": "https://www.orizzontescuola.it/percorsi-sostegno-art-6-indire-ulteriore-scorrimento-graduatoria-termine-ultimo-versamento-600-euro-l11-agosto/",
-                "date": "7 Ago 2025",
-                "time": "7:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1685909200.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: perché è importante ritirare la domanda delle 150 preferenze per chi ha ottenuto il ruolo",
-                "link": "https://www.orizzontescuola.it/supplenze-2025-26-perche-e-importante-ritirare-la-domanda-delle-150-preferenze-per-chi-ha-ottenuto-il-ruolo/",
-                "date": "6 Ago 2025",
-                "time": "17:59",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_341870168-scaled.jpg"
             }
         ]
     },
@@ -725,6 +725,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Torniamo alla scrittura a mano. Lettera",
+                "link": "https://www.orizzontescuola.it/torniamo-alla-scrittura-a-mano-lettera/",
+                "date": "9 Ago 2025",
+                "time": "16:15",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "Creare un ambiente di apprendimento positivo e supportivo: strategie e risorse per l’educazione. Lettera",
                 "link": "https://www.orizzontescuola.it/creare-un-ambiente-di-apprendimento-positivo-e-supportivo-strategie-e-risorse-per-leducazione-lettera/",
                 "date": "5 Ago 2025",
@@ -761,14 +769,6 @@
                 "link": "https://www.orizzontescuola.it/effetto-emulazione-nel-rifiutarsi-di-sostenere-prova-orale-esami-di-stato-i-ragazzi-cercano-piu-empatia-piu-umanita-lettera/",
                 "date": "28 Lug 2025",
                 "time": "21:06",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Il rifiuto dell’Esame di Maturità e l’approccio fenomenico. Lettera",
-                "link": "https://www.orizzontescuola.it/il-rifiuto-dellesame-di-maturita-e-lapproccio-fenomenico-lettera/",
-                "date": "28 Lug 2025",
-                "time": "16:48",
                 "image_link": "N/A"
             }
         ]
