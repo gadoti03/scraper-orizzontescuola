@@ -24,6 +24,30 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Politica scolastica",
+                "title": "Maturità, Valditara: “Già pronta la riforma. Vogliamo una prova che valuti la persona a 360 gradi, non solo conoscenza e competenza”",
+                "link": "https://www.orizzontescuola.it/maturita-valditara-gia-pronta-la-riforma-vogliamo-una-prova-che-valuti-la-persona-a-360-gradi-non-solo-conoscenza-e-competenza/",
+                "date": "10 Ago 2025",
+                "time": "18:13",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/Valditara-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Percorso sostegno tre anni di servizio, a Padova escluso chi ha presentato domanda di partecipazione in più Atenei. E le altre Università controllano? Cosa non convince",
+                "link": "https://www.orizzontescuola.it/percorso-sostegno-tre-anni-di-servizio-a-padova-escluso-chi-ha-presentato-domanda-di-partecipazione-in-piu-atenei-e-le-altre-universita-controllano-cosa-non-convince/",
+                "date": "10 Ago 2025",
+                "time": "16:45",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_1200155323.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Docenti neoassunti, presa di servizio: diritti e doveri. Tutto quello che c’è da sapere. QUESTION TIME con Cannas. LIVE Lunedì 11 agosto alle 14:30",
+                "link": "https://www.orizzontescuola.it/docenti-neoassunti-presa-di-servizio-diritti-e-doveri-tutto-quello-che-ce-da-sapere-question-time-con-cannas-live-lunedi-11-agosto-alle-1430/",
+                "date": "10 Ago 2025",
+                "time": "15:21",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Template_questiontime_1920x1080-7.png"
+            },
+            {
                 "category": "Genitori",
                 "title": "Assegno unico figli a carico fino a dicembre 2025: date, importi e arretrati. Il calendario INPS e cosa cambia",
                 "link": "https://www.orizzontescuola.it/assegno-unico-fino-a-dicembre-2025-date-importi-e-arretrati-il-calendario-inps-e-cosa-cambia/",
@@ -97,7 +121,7 @@
             },
             {
                 "category": "Dirigenti scolastici",
-                "title": "Concorso Dirigenti, partono le denunce, “opacità nelle procedure e anonimato”. Interviene la Palumbo: “verificheremo l’evolversi della situazione”",
+                "title": "Concorso Dirigenti, partono le denunce, “opacità nelle procedure e anonimato”. Interviene Palumbo: “Verificheremo l’evolversi della situazione”",
                 "link": "https://www.orizzontescuola.it/concordo-dirigenti-partono-le-denunce-opacita-nelle-procedure-e-anonimato-interviene-la-palumbo-verificheremo-levolversi-della-situazione/",
                 "date": "10 Ago 2025",
                 "time": "9:00",
@@ -126,16 +150,13 @@
                 "date": "10 Ago 2025",
                 "time": "7:52",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_668259205.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             null,
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Docenti neoassunti, presa di servizio: diritti e doveri. Tutto quello che c’è da sapere. QUESTION TIME con Cannas. LIVE Lunedì 11 agosto alle 14:30",
-                "link": "https://www.orizzontescuola.it/docenti-neoassunti-presa-di-servizio-diritti-e-doveri-tutto-quello-che-ce-da-sapere-question-time-con-cannas-live-lunedi-11-agosto-alle-1430/",
-                "date": "10 Ago 2025",
-                "time": "7:33",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Template_questiontime_1920x1080-7.png"
-            },
             {
                 "category": "Plus",
                 "title": "6 webinar gratuiti per “Gestire la scuola” senza sbagliare, per Dirigenti, collaboratori del DS, DSGA e segreterie: dagli adempimenti, alla gestione delle assenze, dal programma annuale alle nuove regole dello Smart working",
@@ -143,12 +164,7 @@
                 "date": "10 Ago 2025",
                 "time": "6:45",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/6-webinar-gratuiti-per-Gestire-la-scuola-al-meglio.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Genitori",
                 "title": "Dalla classe al salotto di casa: quando i robot educativi diventano membri della famiglia e restano per sempre nei ricordi dei bambini. Una ricerca in Canada",
@@ -276,28 +292,60 @@
                 "date": "9 Ago 2025",
                 "time": "11:32",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Scuola.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "Migliaia di posti sostegno in deroga 2025/26: utili per assegnazioni provvisorie o supplenze, non per i ruoli [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/posti-in-deroga-sostegno-per-assegnazioni-provvisorie-o-supplenze-al-30-giugno-2026-ecco-i-decreti-in-aggiornamento/",
-                "date": "9 Ago 2025",
-                "time": "11:03",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1349362136.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Ex LSU ATA, 17 anni di co.co.co. travestiti da progetto: la Corte d’Appello stronca il Ministero, impone 69mila euro di arretrati e contributi",
-                "link": "https://www.orizzontescuola.it/ex-lsu-ata-17-anni-di-co-co-co-travestiti-da-progetto-la-corte-dappello-stronca-il-ministero-impone-69mila-euro-di-arretrati-e-contributi/",
-                "date": "9 Ago 2025",
-                "time": "10:51",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/07/shutterstock_1029430792.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Genitori",
+                "title": "Buono Libri 2025/26 studenti del Veneto: domande dal 17 settembre al 17 ottobre",
+                "link": "https://www.orizzontescuola.it/buono-libri-2025-26-studenti-del-veneto-domande-dal-17-settembre-al-17-ottobre/",
+                "date": "10 Ago 2025",
+                "time": "18:02",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Non solo lezioni: la scuola si trasforma con il “Dado della Gentilezza”. Un’arma ludica per allenare l’empatia, prevenire il bullismo e costruire la cittadinanza attiva del futuro",
+                "link": "https://www.orizzontescuola.it/non-solo-lezioni-la-scuola-si-trasforma-con-il-dado-della-gentilezza-unarma-ludica-per-allenare-lempatia-prevenire-il-bullismo-e-costruire-la-cittadinanza-attiva-del-futuro/",
+                "date": "10 Ago 2025",
+                "time": "17:11",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Genitori",
+                "title": "Domande di maternità e paternità Inps: è ora possibile consultare le pratiche",
+                "link": "https://www.orizzontescuola.it/domande-di-maternita-e-paternita-e-ora-possibile-consultare-le-pratiche/",
+                "date": "10 Ago 2025",
+                "time": "16:41",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Videogiochi e azzardo, al via “Gioco Infinito”: corso gratuito per docenti delle medie in Piemonte contro le dipendenze",
+                "link": "https://www.orizzontescuola.it/videogiochi-e-azzardo-al-via-gioco-infinito-corso-gratuito-per-docenti-delle-medie-in-piemonte-contro-le-dipendenze/",
+                "date": "10 Ago 2025",
+                "time": "16:22",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Regione Lombardia e Rondine Cittadella della Pace: protocollo d’intesa per contrastare dispersione scolastica e promuovere educazione alla pace",
+                "link": "https://www.orizzontescuola.it/regione-lombardia-e-rondine-cittadella-della-pace-protocollo-dintesa-per-contrastare-dispersione-scolastica-e-promuovere-educazione-alla-pace/",
+                "date": "10 Ago 2025",
+                "time": "15:31",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Dalle password all’IA generativa: il nuovo vademecum ACN rivela come il 50% degli attacchi cyber alla PA nasce da un clic sbagliato. Le regole per le scuole",
+                "link": "https://www.orizzontescuola.it/dalle-password-allia-generativa-il-nuovo-vademecum-acn-rivela-come-il-50-degli-attacchi-cyber-alla-pa-nasce-da-un-clic-sbagliato-le-regole-per-le-scuole/",
+                "date": "10 Ago 2025",
+                "time": "15:11",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "“Nidi gratis”, in Toscana sono 14mila le famiglie beneficiarie. A settembre riapertura del bando",
@@ -392,47 +440,6 @@
                 "link": "https://www.orizzontescuola.it/zaino-sospeso-a-ferrara-una-rete-cittadina-contro-il-caro-scuola-quaderni-penne-matite-e-astucci-in-donazione/",
                 "date": "9 Ago 2025",
                 "time": "19:04",
-                "image_link": "N/A"
-            },
-            null,
-            {
-                "category": "Cronaca",
-                "title": "La pubblica amministrazione riscopre i consulenti: da 35mila a 56mila contratti in 12 mesi. Funzioni Locali da record, ma la spesa supera i 548 milioni di euro",
-                "link": "https://www.orizzontescuola.it/la-pubblica-amministrazione-riscopre-i-consulenti-da-35mila-a-56mila-contratti-in-12-mesi-funzioni-locali-da-record-ma-la-spesa-supera-i-548-milioni-di-euro/",
-                "date": "9 Ago 2025",
-                "time": "18:23",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Quando il cambiamento climatico si fa sentire nella mente: le conseguenze della solastalgia, l’eco-emozione che colpisce chi assiste all’alterazione del proprio territorio",
-                "link": "https://www.orizzontescuola.it/eco-emozioni-quando-i-cambiamenti-ambientali-colpiscono-la-salute-mentale/",
-                "date": "9 Ago 2025",
-                "time": "18:05",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Campania, partiti gli abbonamenti studenti gratuiti: limite di 35mila euro di ISEE e validità fino a luglio 2026. Le info utili",
-                "link": "https://www.orizzontescuola.it/campania-partiti-gli-abbonamenti-studenti-gratuiti-limite-di-35mila-euro-di-isee-e-validita-fino-a-luglio-2026-le-info-utili/",
-                "date": "9 Ago 2025",
-                "time": "17:58",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Allarme rosso nel cyberspazio italiano: la Pubblica Amministrazione nel mirino degli hacker. Un’ondata senza precedenti di attacchi DDoS e ransomware minaccia i servizi essenziali del Paese",
-                "link": "https://www.orizzontescuola.it/allarme-rosso-nel-cyberspazio-italiano-la-pubblica-amministrazione-nel-mirino-degli-hacker-unondata-senza-precedenti-di-attacchi-ddos-e-ransomware-minaccia-i-servizi-essenziali-del-paese/",
-                "date": "9 Ago 2025",
-                "time": "17:25",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "La Regione Toscana approva mozione per valorizzare il gioco spontaneo tra bambini e adolescenti",
-                "link": "https://www.orizzontescuola.it/la-regione-toscana-approva-mozione-per-valorizzare-il-gioco-spontaneo-tra-bambini-e-adolescenti/",
-                "date": "9 Ago 2025",
-                "time": "16:54",
                 "image_link": "N/A"
             }
         ]
