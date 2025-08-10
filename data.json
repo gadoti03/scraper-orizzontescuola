@@ -24,6 +24,22 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "Libri scolastici, la spesa per le famiglie schizza alle stelle: ecco cifre, cause e sorprese dietro la nuova “tassa” di settembre tra nuove edizioni, flop del digitale e scarsa riutilizzabilità",
+                "link": "https://www.orizzontescuola.it/libri-scolastici-la-spesa-per-le-famiglie-schizza-alle-stelle-ecco-cifre-cause-e-sorprese-dietro-la-nuova-tassa-di-settembre-tra-nuove-edizioni-flop-del-digitale-e-scarsa-riutili/",
+                "date": "10 Ago 2025",
+                "time": "19:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1676167222.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "I videogiochi alleati dell’apprendimento: nuove evidenze scientifiche per l’educazione digitale",
+                "link": "https://www.orizzontescuola.it/i-videogiochi-alleati-dellapprendimento-nuove-evidenze-scientifiche-per-leducazione-digitale/",
+                "date": "10 Ago 2025",
+                "time": "19:04",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_1587426013.jpg"
+            },
+            {
                 "category": "Politica scolastica",
                 "title": "Maturità, Valditara: “Già pronta la riforma. Vogliamo una prova che valuti la persona a 360 gradi, non solo conoscenza e competenza”",
                 "link": "https://www.orizzontescuola.it/maturita-valditara-gia-pronta-la-riforma-vogliamo-una-prova-che-valuti-la-persona-a-360-gradi-non-solo-conoscenza-e-competenza/",
@@ -134,7 +150,12 @@
                 "date": "10 Ago 2025",
                 "time": "8:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/shutterstock_2616892995.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Cittadinanza digitale 5.0 ed equità di accesso: dalla sicurezza informatica all’etica dell’algoritmo",
@@ -150,12 +171,7 @@
                 "date": "10 Ago 2025",
                 "time": "7:52",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_668259205.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             null,
             {
                 "category": "Plus",
@@ -276,28 +292,29 @@
                 "date": "9 Ago 2025",
                 "time": "12:01",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/10/1-mMgTZCL55BBmMX_agydFTw.jpeg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Invalidità, novità per i lavoratori: ora puoi cumulare i contributi di diverse gestioni. In più, una sentenza storica alza l’importo minimo dell’assegno. Scopri chi ne ha diritto",
-                "link": "https://www.orizzontescuola.it/invalidita-novita-per-i-lavoratori-ora-puoi-cumulare-i-contributi-di-diverse-gestioni-in-piu-una-sentenza-storica-alza-limporto-minimo-dellassegno-scopri-chi-ne-ha-diritto/",
-                "date": "9 Ago 2025",
-                "time": "11:38",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_1931627111.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Il maestro come figura pubblica, quando la scuola prende la scena: “Un’autorità che educa, non che punisce”. Il confronto tra il 1954 e il 2025",
-                "link": "https://www.orizzontescuola.it/il-maestro-come-figura-pubblica-quando-la-scuola-prende-la-scena-unautorita-che-educa-non-che-punisce-il-confronto-tra-il-1954-e-il-2025/",
-                "date": "9 Ago 2025",
-                "time": "11:32",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Scuola.png"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            null,
+            {
+                "category": "Cronaca",
+                "title": "Inclusione lavorativa e autonomia: il Ministero sostiene con fondi e legge l’occupazione dei giovani con disabilità",
+                "link": "https://www.orizzontescuola.it/inclusione-lavorativa-e-autonomia-il-ministero-sostiene-con-fondi-e-legge-loccupazione-dei-giovani-con-disabilita/",
+                "date": "10 Ago 2025",
+                "time": "20:32",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Copyright sull’identità: la Danimarca rilancia la lotta ai deepfake a tutela di scuola e giovani",
+                "link": "https://www.orizzontescuola.it/copyright-sullidentita-la-danimarca-rilancia-la-lotta-ai-deepfake-a-tutela-di-scuola-e-giovani/",
+                "date": "10 Ago 2025",
+                "time": "19:21",
+                "image_link": "N/A"
+            },
             {
                 "category": "Genitori",
                 "title": "Buono Libri 2025/26 studenti del Veneto: domande dal 17 settembre al 17 ottobre",
@@ -416,30 +433,6 @@
                 "link": "https://www.orizzontescuola.it/ferma-il-bullismo-prima-che-sia-troppo-tardi-la-rai-lancia-la-prima-campagna-nazionale-contro-violenza-giovanile/",
                 "date": "9 Ago 2025",
                 "time": "21:04",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Passaporti negli uffici postali: 90mila richieste gestite, servizio in espansione verso tutte le questure",
-                "link": "https://www.orizzontescuola.it/passaporti-negli-uffici-postali-90mila-richieste-gestite-servizio-in-espansione-verso-tutte-le-questure/",
-                "date": "9 Ago 2025",
-                "time": "20:06",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Adolescenti sempre più schizzinosi a tavola? Scopri perché la mensa scolastica offre la risposta inattesa: tutti i dati dello studio in Inghilterra e le ricadute per famiglie e scuole",
-                "link": "https://www.orizzontescuola.it/adolescenti-sempre-piu-schizzinosi-a-tavola-scopri-perche-la-mensa-scolastica-offre-la-risposta-inattesa-tutti-i-dati-dello-studio-in-inghilterra-e-le-ricadute-per-famiglie-e-scuole/",
-                "date": "9 Ago 2025",
-                "time": "19:24",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Zaino sospeso a Ferrara: una rete cittadina contro il caro-scuola: quaderni, penne, matite e astucci in donazione",
-                "link": "https://www.orizzontescuola.it/zaino-sospeso-a-ferrara-una-rete-cittadina-contro-il-caro-scuola-quaderni-penne-matite-e-astucci-in-donazione/",
-                "date": "9 Ago 2025",
-                "time": "19:04",
                 "image_link": "N/A"
             }
         ]
