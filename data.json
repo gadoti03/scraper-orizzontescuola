@@ -24,6 +24,14 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Scuole",
+                "title": "Istruzione tecnica e professionale: altri 40 milioni per laboratori innovativi. DECRETO",
+                "link": "https://www.orizzontescuola.it/istruzione-tecnica-e-professionale-altri-40-milioni-per-laboratori-innovativi-decreto/",
+                "date": "14 Ago 2025",
+                "time": "19:37",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_1021963270.jpg"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Quindici ore invece di ventidue: genitori ricorrono al TAR per il sostegno del figlio, ma la giustizia arriva quando è troppo tardi",
                 "link": "https://www.orizzontescuola.it/quindici-ore-invece-di-ventidue-genitori-ricorrono-al-tar-per-il-sostegno-del-figlio-ma-la-giustizia-arriva-quando-e-troppo-tardi/",
@@ -142,7 +150,12 @@
                 "date": "14 Ago 2025",
                 "time": "12:14",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_2033557271.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Mini call veloce sostegno 2025/26: solo 59 posti per ADMM, zero per ADSS anche quest’anno",
@@ -150,12 +163,7 @@
                 "date": "14 Ago 2025",
                 "time": "12:07",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2361952943-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Docenti",
                 "title": "Assicurazione sanitaria docenti e ATA, il Ministero è al lavoro per estenderla anche ai precari al 30 giugno. Varengo (Cisl Scuola): “Servono altri 13-14 milioni di euro all’anno”",
@@ -284,7 +292,6 @@
                 "time": "8:03",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/Crepet.jpg"
             },
-            null,
             null
         ]
     },
@@ -292,19 +299,51 @@
         "title": "In Breve",
         "articles": [
             {
+                "category": "Politica scolastica",
+                "title": "Mini call veloce al via, il Ministero pubblica i posti disponibili per le immissioni in ruolo su sostegno: nessuna cattedra alle superiori e quasi nessuna al Sud. Il commento di Anief",
+                "link": "https://www.orizzontescuola.it/mini-call-veloce-al-via-il-ministero-pubblica-i-posti-disponibili-per-le-immissioni-in-ruolo-su-sostegno-nessuna-cattedra-alle-superiori-e-quasi-nessuna-al-sud-il-commento-di-anief-che-chiede-di-ca/",
+                "date": "14 Ago 2025",
+                "time": "20:06",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Studenti",
+                "title": "Allarme Hikikomori, ragazzi che scompaiono dalle aule: 70mila giovani italiani non escono più di casa, la scuola in prima linea per intercettare i segnali di ritiro sociale",
+                "link": "https://www.orizzontescuola.it/allarme-hikikomori-ragazzi-che-scompaiono-dalle-aule-70mila-giovani-italiani-non-escono-piu-di-casa-la-scuola-in-prima-linea-per-intercettare-i-segnali-di-ritiro-sociale/",
+                "date": "14 Ago 2025",
+                "time": "19:44",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Fondo MOF sui Pos delle scuole, Ancodis: “Occorre definire un calendario per avere le risorse entro luglio”",
+                "link": "https://www.orizzontescuola.it/fondo-mof-sui-pos-delle-scuole-ancodis-occorre-definire-un-calendario-per-avere-le-risorse-entro-luglio/",
+                "date": "14 Ago 2025",
+                "time": "19:28",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Franco Lorenzoni: “Memorizzare senza capire uccide l’apprendimento, serve coinvolgere corpo e mente degli studenti”",
+                "link": "https://www.orizzontescuola.it/franco-lorenzoni-memorizzare-senza-capire-uccide-lapprendimento-serve-coinvolgere-corpo-e-mente-degli-studenti/",
+                "date": "14 Ago 2025",
+                "time": "19:11",
+                "image_link": "N/A"
+            },
+            {
+                "category": "ATA",
+                "title": "ATA 24 mesi 2025/26: ecco le graduatorie utili per i ruoli [AGGIORNATO con Napoli]",
+                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-2025-26-ecco-le-prime-provvisorie-in-aggiornamento/",
+                "date": "14 Ago 2025",
+                "time": "19:02",
+                "image_link": "N/A"
+            },
+            {
                 "category": "Genitori",
                 "title": "Maluma ferma il concerto e si scaglia contro i genitori: “Irresponsabile portare un neonato di pochi mesi senza protezioni acustiche. Non è un giocattolo”",
                 "link": "https://www.orizzontescuola.it/maluma-ferma-il-concerto-e-si-scaglia-contro-i-genitori-irresponsabile-portare-un-neonato-di-pochi-mesi-senza-protezioni-acustiche-non-e-un-giocattolo/",
                 "date": "14 Ago 2025",
                 "time": "18:28",
-                "image_link": "N/A"
-            },
-            {
-                "category": "ATA",
-                "title": "ATA 24 mesi 2025/26: ecco le graduatorie utili per i ruoli [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-2025-26-ecco-le-prime-provvisorie-in-aggiornamento/",
-                "date": "14 Ago 2025",
-                "time": "15:11",
                 "image_link": "N/A"
             },
             {
@@ -401,38 +440,6 @@
                 "link": "https://www.orizzontescuola.it/criminalita-minorile-lex-presidente-gatto-scuola-decisiva-nella-prevenzione-no-alla-punizione-degli-under-14/",
                 "date": "13 Ago 2025",
                 "time": "18:39",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Percorsi abilitanti docenti, Serafini (Snals) al MUR: “Avviarli per tempo per evitare il ripetersi delle criticità”",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-docenti-serafini-snals-al-mur-avviarli-per-tempo-per-evitare-il-ripetersi-delle-criticita/",
-                "date": "13 Ago 2025",
-                "time": "18:31",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Invalsi, il ministro Valditara conferma Roberto Ricci alla presidenza dell’ente: mandato fino al 2029",
-                "link": "https://www.orizzontescuola.it/invalsi-il-ministro-valditara-conferma-roberto-ricci-alla-presidenza-dellente-mandato-fino-al-2029/",
-                "date": "13 Ago 2025",
-                "time": "18:23",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Le culle e le aule si svuotano? Pacifico (Anief) chiede al Governo incentivi e protezioni per favorire la natalità: “Occorre fare di più”",
-                "link": "https://www.orizzontescuola.it/le-culle-e-le-aule-si-svuotano-pacifico-anief-chiede-al-governo-incentivi-e-protezioni-per-favorire-la-natalita-bonus-mamme-e-congedo-parentale-vanno-bene-ma-sono-solo-linizio-di-un-perco/",
-                "date": "13 Ago 2025",
-                "time": "18:03",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Assicurazione sanitaria per il personale della scuola, si parte nel 2026: Anief chiede estensione a tutti i supplenti al termine delle attività e osservatorio burnout",
-                "link": "https://www.orizzontescuola.it/assicurazione-sanitaria-per-il-personale-della-scuola-pubblicato-il-ccni-sottoscritto-dai-sindacati-si-parte-nel-2026-anief-chiede-estensione-a-tutti-i-supplenti-al-termine-delle-attivita-e-osserva/",
-                "date": "13 Ago 2025",
-                "time": "17:50",
                 "image_link": "N/A"
             }
         ]
@@ -559,6 +566,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Mini call veloce sostegno, la domanda è un “impegno”: le conseguenze della mancata accettazione. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/mini-call-veloce-sostegno-la-domanda-e-un-impegno-le-conseguenze-della-mancata-accettazione-pillole-di-question-time/",
+                "date": "12 Ago 2025",
+                "time": "15:31",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_145510552.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Mini call veloce docenti sostegno 2025: cosa fare dopo l’assegnazione della provincia. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/mini-call-veloce-docenti-sostegno-2025-cosa-fare-dopo-lassegnazione-della-provincia-pillole-di-question-time/",
                 "date": "12 Ago 2025",
@@ -596,14 +611,6 @@
                 "date": "11 Ago 2025",
                 "time": "13:01",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_726199168.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Riconferma supplenti sostegno 2025/26, ultima verifica prima delle nomine: trasferimento alunni e nominati in ruolo da escludere",
-                "link": "https://www.orizzontescuola.it/riconferma-supplenti-sostegno-2025-26-ultima-verifica-prima-delle-nomine-trasferimento-alunni-e-nominati-in-ruolo-da-escludere/",
-                "date": "11 Ago 2025",
-                "time": "12:41",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/01/shutterstock_326111021.jpg"
             }
         ]
     },
