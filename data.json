@@ -25,6 +25,54 @@
         "articles": [
             {
                 "category": "Cronaca",
+                "title": "Fuga di cervelli record: oltre 21.000 laureati italiani emigrati nel 2023 (+21,2%), solo 6.000 i rientri mentre la disoccupazione giovanile resta al 19,2%",
+                "link": "https://www.orizzontescuola.it/fuga-di-cervelli-record-oltre-21-000-laureati-italiani-emigrati-nel-2023-212-solo-6-000-i-rientri-mentre-la-disoccupazione-giovanile-resta-al-192/",
+                "date": "16 Ago 2025",
+                "time": "14:04",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2468844255.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Mini Call sostegno 2024/26: è possibile rinunciare dopo l’assegnazione della scuola? Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/mini-call-sostegno-2024-26-e-possibile-rinunciare-dopo-lassegnazione-della-scuola-pillole-di-question-time/",
+                "date": "16 Ago 2025",
+                "time": "12:36",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_1996119905.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Graduatorie terza fascia ATA: non è compito dell’USP valutare le sentenze favorevoli, ma della scuola capofila",
+                "link": "https://www.orizzontescuola.it/graduatorie-terza-fascia-ata-non-e-compito-dellusp-valutare-le-sentenze-favorevoli-ma-della-scuola-capofila/",
+                "date": "16 Ago 2025",
+                "time": "12:12",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_669396973.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Immissioni in ruolo ATA 2025/26: al via le domande. AVVISI, scadenze, posti disponibili [IN AGGIORNAMENTO]",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-ata-2025-26-avvisi-scadenze-posti-disponibili-in-aggiornamento/",
+                "date": "16 Ago 2025",
+                "time": "12:05",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2459519923.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Mini Call veloce sostegno: chi presenta la domanda sarà inserito in graduatorie specifiche? Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/mini-call-veloce-sostegno-chi-presenta-la-domanda-sara-inserito-in-graduatorie-specifiche-pillole-di-question-time/",
+                "date": "16 Ago 2025",
+                "time": "11:06",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2326351789.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Calendario scolastico 2025/26: inizio e fine lezioni, vacanze. Le date regione per regione",
+                "link": "https://www.orizzontescuola.it/calendario-scolastico-2025-26-inizio-e-fine-lezioni-vacanze-le-date-regione-per-regione/",
+                "date": "16 Ago 2025",
+                "time": "10:42",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_2002803581-scaled.jpg"
+            },
+            {
+                "category": "Cronaca",
                 "title": "Pagelle, Corsini: “Basta con i numeri in classe. Il voto numerico riduce l’apprendimento a competizione, serve valutazione descrittiva”",
                 "link": "https://www.orizzontescuola.it/pagelle-corsini-il-voto-numerico-riduce-lapprendimento-a-competizione-giudizio-descrittivo-piu-educativo/",
                 "date": "16 Ago 2025",
@@ -102,7 +150,12 @@
                 "date": "15 Ago 2025",
                 "time": "11:45",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2331500305.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Docenti a mensa con gli alunni, ma il menu non si allarga: la Suprema Corte chiude il caso e precisa che il diritto è alla mensa gratuita, non al “secondo piatto” previsto dalle linee guida",
@@ -143,12 +196,7 @@
                 "time": "6:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Assegnazioni-provvisorie-e-utilizzazioni-2.png"
             },
-            null
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            null,
             {
                 "category": "Plus",
                 "title": "164 modelli di circolari e documenti per l’inizio anno scolastico: dalla sicurezza al piano annuale allo smartworking, al Piano Estate",
@@ -214,14 +262,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/12/Galimberti.jpg"
             },
             {
-                "category": "ATA",
-                "title": "Immissioni in ruolo ATA 2025/26: al via le domande. AVVISI, scadenze, posti disponibili [IN AGGIORNAMENTO]",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-ata-2025-26-avvisi-scadenze-posti-disponibili-in-aggiornamento/",
-                "date": "14 Ago 2025",
-                "time": "15:18",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2459519923.jpg"
-            },
-            {
                 "category": "DSGA",
                 "title": "Immissioni in ruolo DSGA 2025/26 al via (in presenza e via mail).  AVVISI ed elenchi convocati",
                 "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-dsga-al-via-in-puglia-domande-entro-il-18-agosto-ore-12-avviso-ed-elenco-convocati/",
@@ -252,52 +292,44 @@
                 "date": "14 Ago 2025",
                 "time": "13:58",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/10/Immagine-promobox-infanzia-1.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti a.s. 2025/26: ecco chi può ritirare la domanda. Avvisi uffici Scolastici con le DATE",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-a-s-2025-26-ecco-chi-puo-ritirare-la-domanda-avvisi-uffici-scolastici-con-le-date/",
-                "date": "14 Ago 2025",
-                "time": "13:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "La gentilezza nell’infanzia favorisce un’alimentazione sana in adolescenza: ecco cosa dice uno studio internazionale",
-                "link": "https://www.orizzontescuola.it/la-gentilezza-nellinfanzia-favorisce-unalimentazione-sana-in-adolescenza-ecco-cosa-dice-uno-studio-internazionale/",
-                "date": "14 Ago 2025",
-                "time": "13:02",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/10/cibo-1200x854.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Schlein attacca Valditara: “Alla scuola servono investimenti, non regole più rigide. La risposta del Ministro: “Barzellette, abbiamo messo oltre 4,5 miliardi in più”",
-                "link": "https://www.orizzontescuola.it/schlein-attacca-valditara-alla-scuola-servono-investimenti-non-regole-piu-rigide-bisogna-pagare-di-piu-gli-insegnanti-e-rendere-gratuiti-libri-di-testo-mense-e-trasporto-pubblico-locale/",
-                "date": "14 Ago 2025",
-                "time": "12:32",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Schlein_Valditara.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Mini call veloce docenti sostegno a.s. 2025/26: Ministero pubblica elenco disponibilità. SCARICA il file PDF",
-                "link": "https://www.orizzontescuola.it/mini-call-veloce-docenti-sostegno-a-s-2025-26-ministero-pubblica-elenco-disponibilita/",
-                "date": "14 Ago 2025",
-                "time": "12:14",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_2033557271.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Mini call veloce sostegno 2025/26: solo 59 posti per ADMM, zero per ADSS anche quest’anno",
-                "link": "https://www.orizzontescuola.it/mini-call-veloce-sostegno-2025-26-solo-59-posti-per-admm-zero-per-adss-anche-questanno/",
-                "date": "14 Ago 2025",
-                "time": "12:07",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2361952943-scaled.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Stipendio",
+                "title": "NoiPA: attenzione alle frodi telefoniche. Non condividere mai SPID e credenziali",
+                "link": "https://www.orizzontescuola.it/noipa-attenzione-alle-frodi-telefoniche-non-condividere-mai-spid-e-credenziali/",
+                "date": "16 Ago 2025",
+                "time": "13:18",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "Dalla gestione del budget ai prestiti studenteschi: il piano per rafforzare l’educazione finanziaria nelle scuole superiori e colmare il divario nelle competenze economiche dei giovani",
+                "link": "https://www.orizzontescuola.it/dalla-gestione-del-budget-ai-prestiti-studenteschi-il-piano-per-rafforzare-leducazione-finanziaria-nelle-scuole-superiori-e-colmare-il-divario-nelle-competenze-economiche-dei-giovani/",
+                "date": "16 Ago 2025",
+                "time": "13:05",
+                "image_link": "N/A"
+            },
+            {
+                "category": "ATA",
+                "title": "ATA 24 mesi 2025/26: ecco le graduatorie utili per i ruoli [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-2025-26-ecco-le-prime-provvisorie-in-aggiornamento/",
+                "date": "16 Ago 2025",
+                "time": "11:51",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Studenti",
+                "title": "Rinnovo benefici per collegi universitari e convitti nazionali: gli avvisi Inps",
+                "link": "https://www.orizzontescuola.it/rinnovo-benefici-per-collegi-universitari-e-convitti-nazionali-gli-avvisi-inps/",
+                "date": "16 Ago 2025",
+                "time": "11:44",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Schermi e conflitti familiari, in Svizzera il 55% delle famiglie litiga per il tempo digitale dei figli. Genitori divisi tra controllo e libertà tecnologica",
@@ -408,38 +440,6 @@
                 "link": "https://www.orizzontescuola.it/pressione-alta-gia-a-12-anni-due-milioni-di-under-35-ipertesi-in-italia-quando-lo-stile-di-vita-sbagliato-colpisce-i-banchi-di-scuola/",
                 "date": "15 Ago 2025",
                 "time": "10:27",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Antonio Naddeo e la riflessione sulla Pubblica Amministrazione: “Usiamo l’estate per più leggerezza e meno burocrazia”",
-                "link": "https://www.orizzontescuola.it/naddeo-aran-e-la-riflessione-sulla-pubblica-amministrazione-usiamo-lestate-per-piu-leggerezza-e-meno-burocrazia/",
-                "date": "15 Ago 2025",
-                "time": "9:44",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "La morte di Cecilia De Astis: auto rubata e quattro minori non imputabili. Bruzzone: “Sistema penale fallito, servono riforme immediate su imputabilità. Abbassare soglia a 12 anni”",
-                "link": "https://www.orizzontescuola.it/la-morte-di-cecilia-de-astis-auto-rubata-e-quattro-minori-non-imputabili-bruzzone-sistema-penale-fallito-servono-riforme-immediate-su-imputabilita-abbassare-soglia-a-12-anni/",
-                "date": "15 Ago 2025",
-                "time": "8:43",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Ragazzina 13enne in passerella per Miss Italia, scoppia la polemica. Crepet: “Non è civiltà, manca il rispetto. Infanzia e adolescenza sono diventate età dopate”",
-                "link": "https://www.orizzontescuola.it/ragazzina-13enne-in-passerella-per-miss-italia-scoppia-la-polemica-crepet-non-e-civilta-manca-il-rispetto-infanzia-e-adolescenza-sono-diventate-eta-dopate/",
-                "date": "15 Ago 2025",
-                "time": "8:27",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Denatalità e università, Anief: investire su obbligo scolastico fino a 18 anni e orientamento, incentivare le telematiche invece che demonizzarle",
-                "link": "https://www.orizzontescuola.it/denatalita-anief-investire-su-obbligo-scolastico-fino-a-18-anni-e-orientamento-incentivare-le-telematiche-invece-che-demonizzarle/",
-                "date": "15 Ago 2025",
-                "time": "8:01",
                 "image_link": "N/A"
             }
         ]
@@ -566,6 +566,22 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Mini Call veloce sostegno 2025/26, quante regioni, province e scuole si possono scegliere. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/mini-call-veloce-sostegno-2025-26-quante-regioni-province-e-scuole-si-possono-scegliere-pillole-di-question-time/",
+                "date": "13 Ago 2025",
+                "time": "18:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2492437907.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR 3, scatta il conto alla rovescia. Roma Tre incaricata di redigere 2.250 quesiti: consegna entro il 31 ottobre 2025. Affidamento da oltre 100mila euro",
+                "link": "https://www.orizzontescuola.it/concorso-pnrr-3-scatta-il-conto-alla-rovescia-universita-roma-tre-incaricata-di-redigere-2-250-quesiti-consegna-entro-il-31-ottobre-2025-affidamento-da-oltre-100mila-euro/",
+                "date": "13 Ago 2025",
+                "time": "18:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2461893991.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Supplenze docenti 2025/26, ecco i primi INTERPELLI per abilitati Montessori e Sostegno Lingua dei segni LIS",
                 "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-26-ecco-i-primi-interpelli-per-abilitati-montessori-e-sostegno-lingua-dei-segni-lis/",
                 "date": "13 Ago 2025",
@@ -595,22 +611,6 @@
                 "date": "13 Ago 2025",
                 "time": "10:17",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_1448118503.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Mini call veloce sostegno, la domanda è un “impegno”: le conseguenze della mancata accettazione. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/mini-call-veloce-sostegno-la-domanda-e-un-impegno-le-conseguenze-della-mancata-accettazione-pillole-di-question-time/",
-                "date": "12 Ago 2025",
-                "time": "15:31",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_145510552.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Mini call veloce docenti sostegno 2025: cosa fare dopo l’assegnazione della provincia. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/mini-call-veloce-docenti-sostegno-2025-cosa-fare-dopo-lassegnazione-della-provincia-pillole-di-question-time/",
-                "date": "12 Ago 2025",
-                "time": "13:27",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_1996119905.jpg"
             }
         ]
     },
