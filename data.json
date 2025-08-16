@@ -24,6 +24,22 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "Monitoraggio segreto oltre la campanella: come le piattaforme di sorveglianza scolastica seguono studenti e docenti 24/7 usando intelligenza artificiale e dati sensibili. Uno studio internazionale",
+                "link": "https://www.orizzontescuola.it/monitoraggio-segreto-oltre-la-campanella-come-le-piattaforme-di-sorveglianza-scolastica-seguono-studenti-e-docenti-24-7-usando-intelligenza-artificiale-e-dati-sensibili-uno-studio-internazionale/",
+                "date": "16 Ago 2025",
+                "time": "19:41",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1188354160.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Pacifico (Anief): “Meno studenti e più docenti? No, serve un piano per la natalità e la fine delle classi pollaio, con regole nuove per aree a rischio e scuole isolate”",
+                "link": "https://www.orizzontescuola.it/pacifico-anief-meno-studenti-e-piu-docenti-no-serve-un-piano-per-la-natalita-e-la-fine-delle-classi-pollaio-con-regole-nuove-per-aree-a-rischio-e-scuole-isolate/",
+                "date": "16 Ago 2025",
+                "time": "18:59",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/Pacifico.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Mini Call veloce sostegno 2025/26: si sceglie provincia diversa da quella di inserimento nelle GPS. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/mini-call-veloce-sostegno-2025-26-si-sceglie-provincia-diversa-da-quella-di-inserimento-nelle-gps-pillole-di-question-time/",
@@ -134,7 +150,12 @@
                 "date": "16 Ago 2025",
                 "time": "10:02",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Screenshot-2025-04-17-alle-16.06.00.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Mini Call veloce sostegno: conviene fare domanda anche con pochi posti disponibili? Pillole di Question Time",
@@ -150,12 +171,7 @@
                 "date": "16 Ago 2025",
                 "time": "8:31",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2006359358.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "L’insegnante intrappolato, quando la burocrazia scolastica soffoca l’autonomia didattica. Corlazzoli: “Come maestro sono rassegnato a fare il mio dovere, più libero facendo il giornalista”",
@@ -276,28 +292,36 @@
                 "date": "14 Ago 2025",
                 "time": "18:16",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/02/shutterstock_1038344089.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Quando Dante immaginò l’Inferno non poteva conoscere la “chat delle mamme”. L’affondo del preside contro le derive tecnologiche: “Una bolgia speciale”",
-                "link": "https://www.orizzontescuola.it/quando-dante-immagino-linferno-non-poteva-conoscere-la-chat-delle-mamme-laffondo-del-preside-contro-le-derive-tecnologiche-una-bolgia-speciale/",
-                "date": "14 Ago 2025",
-                "time": "17:32",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/shutterstock_2459586761-scaled.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Licenziata per aver insultato il superiore durante una discussione sulle ferie. La Cassazione conferma il provvedimento e ribadisce che la grave insubordinazione può giustificare l’allontanamento immediato",
-                "link": "https://www.orizzontescuola.it/licenziata-per-aver-insultato-il-superiore-durante-una-discussione-sulle-ferie-la-cassazione-conferma-il-licenziamento-e-ribadisce-che-la-grave-insubordinazione-puo-giustificare-lallontaname/",
-                "date": "14 Ago 2025",
-                "time": "16:58",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/06/shutterstock_1890232807.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Lutto nel mondo della tv, addio a Pippo Baudo. Il cordoglio delle istituzioni",
+                "link": "https://www.orizzontescuola.it/lutto-nel-mondo-della-tv-addio-a-pippo-baudo/",
+                "date": "16 Ago 2025",
+                "time": "22:01",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Immissioni in ruolo con doppio canale da Gps e 100% idonei dei concorsi, Anief: 200mila docenti precari attendono risposte dal Senato",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-con-doppio-canale-da-gps-e-100-idonei-dei-concorsi-anief-200mila-docenti-precari-attendono-risposte-dal-senato/",
+                "date": "16 Ago 2025",
+                "time": "20:07",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Felicemente a scuola, il metodo educativo che trasforma aule e insegnanti: cinque anni di sperimentazioni, storie vere e risultati che stanno cambiando il benessere scolastico",
+                "link": "https://www.orizzontescuola.it/felicemente-a-scuola-il-metodo-educativo-che-trasforma-aule-e-insegnanti-cinque-anni-di-sperimentazioni-storie-vere-e-risultati-che-stanno-cambiando-il-benessere-scolastico/",
+                "date": "16 Ago 2025",
+                "time": "19:58",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Francia in rivolta contro i resort ‘vietati ai bambini’, governo lancia crociata anti-discriminazione: “Non fanno parte della nostra cultura”",
@@ -416,30 +440,6 @@
                 "link": "https://www.orizzontescuola.it/autismo-e-sport-la-svolta-dellai-ricercatori-americani-usano-chatgpt-per-adattare-oltre-500-esercizi-fisici-alle-esigenze-dei-bambini-con-disturbi-dello-sviluppo/",
                 "date": "15 Ago 2025",
                 "time": "18:28",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "A Marzabotto il Cardinale Zuppi commemora 12mila bambini uccisi in Terra Santa. L’appello dei docenti per trasformare la memoria in pedagogia: “Farlo anche a scuola”",
-                "link": "https://www.orizzontescuola.it/a-marzabotto-il-cardinale-zuppi-commemora-12mila-bambini-uccisi-in-terra-santa-lappello-dei-docenti-per-trasformare-la-memoria-in-pedagogia-farlo-anche-a-scuola/",
-                "date": "15 Ago 2025",
-                "time": "18:17",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Genitori",
-                "title": "“Canta che ti passa”, quando la musica di casa migliora l’umore dei neonati",
-                "link": "https://www.orizzontescuola.it/canta-che-ti-passa-quando-la-musica-di-casa-migliora-lumore-dei-neonati/",
-                "date": "15 Ago 2025",
-                "time": "17:51",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "L’ex vincitrice di Amici incoraggia i ragazzi: “Ho vissuto l’ansia, ma si può guarire”. Gaia Gozzi condivide la sua battaglia contro i disturbi mentali per aiutare i giovani",
-                "link": "https://www.orizzontescuola.it/lex-vincitrice-di-amici-incoraggia-i-ragazzi-ho-vissuto-lansia-ma-si-puo-guarire-gaia-gozzi-condivide-la-sua-battaglia-contro-i-disturbi-mentali-per-aiutare-i-giovani/",
-                "date": "15 Ago 2025",
-                "time": "17:01",
                 "image_link": "N/A"
             }
         ]
