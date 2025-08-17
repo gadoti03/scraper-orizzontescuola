@@ -24,12 +24,68 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Chiedilo a Lalla",
+                "title": "Docenti neoimmessi in ruolo con decorrenza giuridica: quando parte il vincolo triennale?",
+                "link": "https://www.orizzontescuola.it/docenti-neoimmessi-in-ruolo-con-decorrenza-giuridica-quando-parte-il-vincolo-triennale/",
+                "date": "17 Ago 2025",
+                "time": "17:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/insegnanti-estero.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Italia verso il record negativo: vita lavorativa media di soli 32,8 anni, un divario con l’Europa che minaccia il sistema pensioni e frena l’occupazione dei giovani",
+                "link": "https://www.orizzontescuola.it/italia-verso-il-record-negativo-vita-lavorativa-media-di-soli-328-anni-un-divario-con-leuropa-che-minaccia-il-sistema-pensioni-e-frena-loccupazione-dei-giovani/",
+                "date": "17 Ago 2025",
+                "time": "16:37",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/11/giovani.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Posti di sostegno ADMM e ADSS: perché ce ne sono pochi per le immissioni in ruolo. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/posti-di-sostegno-admm-e-adss-perche-ce-ne-sono-pochi-per-le-immissioni-in-ruolo-pillole-di-question-time/",
+                "date": "17 Ago 2025",
+                "time": "16:07",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2471109123-scaled.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Massimo Cacciari: “La scuola deve unire emozioni e ragione per formare intelligenze libere e consapevoli, oltre ogni visione riduttiva del sapere”",
+                "link": "https://www.orizzontescuola.it/massimo-cacciari-la-scuola-deve-unire-emozioni-e-ragione-per-formare-intelligenze-libere-e-consapevoli-oltre-ogni-visione-riduttiva-del-sapere/",
+                "date": "17 Ago 2025",
+                "time": "15:48",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Cacciari.png"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Presidi guadagnano oltre 2 volte i docenti: 70-110mila euro vs 24-32mila euro. Pacifico: “500 milioni subito in assegno una tantum, risorse in manovra e tavolo Aran per ridurre il gap”",
+                "link": "https://www.orizzontescuola.it/presidi-guadagnano-oltre-2-volte-i-docenti-70-110mila-euro-vs-24-32mila-euro-pacifico-500-milioni-subito-in-assegno-una-tantum-risorse-in-manovra-e-tavolo-aran-per-ridurre-il-gap/",
+                "date": "17 Ago 2025",
+                "time": "15:21",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/Pacifico.jpeg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorsi insegnanti dopo il PNRR: quale futuro per gli idonei. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/concorsi-insegnanti-dopo-il-pnrr-quale-futuro-per-gli-idonei-pillole-di-question-time/",
+                "date": "17 Ago 2025",
+                "time": "14:48",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2498448781.jpg"
+            },
+            {
                 "category": "Politica scolastica",
                 "title": "Valditara: “Dire no per educare” non è punire ma proteggere. Il messaggio del Papa riapre il patto scuola-famiglia su disciplina, autonomia dei docenti e responsabilità che valgono più del consenso",
                 "link": "https://www.orizzontescuola.it/valditara-dire-no-per-educare-non-e-punire-ma-proteggere-il-messaggio-del-papa-riapre-il-patto-scuola-famiglia-su-disciplina-autonomia-dei-docenti-e-responsabilita-che-valgono-piu-del-consenso/",
                 "date": "17 Ago 2025",
                 "time": "14:12",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/collage.png"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Assunzioni scuola 2025/26: 48mila docenti (14mila sul sostegno), 10mila Ata e 347 dirigenti. Ecco il DPCM",
+                "link": "https://www.orizzontescuola.it/assunzioni-scuola-2025-26-48mila-docenti-14mila-sul-sostegno-10mila-ata-e-347-dirigenti-ecco-il-dpcm/",
+                "date": "17 Ago 2025",
+                "time": "13:43",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/Governo.jpg"
             },
             {
                 "category": "Politica scolastica",
@@ -94,7 +150,12 @@
                 "date": "17 Ago 2025",
                 "time": "9:13",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/shutterstock_2180966313-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Maturità 2026, si cambia. Valditara rilancia con riforma pronta e stretta sull’orale: “Valutare autonomia, responsabilità e crescita”. Cosa sappiamo finora",
@@ -143,12 +204,7 @@
                 "date": "16 Ago 2025",
                 "time": "18:04",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_778370800-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Docenti",
                 "title": "Mobilità annuale docenti: entro il 22 agosto gli esiti definitivi, gli interessati hanno 10 giorni per presentare reclamo contro eventuali errori",
@@ -236,68 +292,52 @@
                 "date": "16 Ago 2025",
                 "time": "11:06",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2326351789.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Calendario scolastico 2025/26: inizio e fine lezioni, vacanze. Le date regione per regione",
-                "link": "https://www.orizzontescuola.it/calendario-scolastico-2025-26-inizio-e-fine-lezioni-vacanze-le-date-regione-per-regione/",
-                "date": "16 Ago 2025",
-                "time": "10:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_2002803581-scaled.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Pagelle, Corsini: “Basta con i numeri in classe. Il voto numerico riduce l’apprendimento a competizione, serve valutazione descrittiva”",
-                "link": "https://www.orizzontescuola.it/pagelle-corsini-il-voto-numerico-riduce-lapprendimento-a-competizione-giudizio-descrittivo-piu-educativo/",
-                "date": "16 Ago 2025",
-                "time": "10:02",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Screenshot-2025-04-17-alle-16.06.00.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Mini Call veloce sostegno: conviene fare domanda anche con pochi posti disponibili? Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/mini-call-veloce-sostegno-conviene-fare-domanda-anche-con-pochi-posti-disponibili-pillole-di-question-time/",
-                "date": "16 Ago 2025",
-                "time": "9:17",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1666873585.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Accertamento sanitario docenti e ATA: aggiornata la procedura. Le novità",
-                "link": "https://www.orizzontescuola.it/accertamento-sanitario-docenti-e-ata-aggiornata-la-procedura-le-novita/",
-                "date": "16 Ago 2025",
-                "time": "8:31",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2006359358.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "L’insegnante intrappolato, quando la burocrazia scolastica soffoca l’autonomia didattica. Corlazzoli: “Come maestro sono rassegnato a fare il mio dovere, più libero facendo il giornalista”",
-                "link": "https://www.orizzontescuola.it/linsegnante-intrappolato-quando-la-burocrazia-scolastica-soffoca-lautonomia-didattica-corlazzoli-come-maestro-sono-rassegnato-a-fare-il-mio-dovere-piu-libero-facendo-il-giornalista/",
-                "date": "16 Ago 2025",
-                "time": "8:12",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1811589811.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Non posso, devo lavorare”: studentessa perde ricorso al TAR per bocciatura. I giudici confermano che gli impegni lavorativi non giustificano l’assenza agli esami per debiti formativi",
-                "link": "https://www.orizzontescuola.it/non-posso-devo-lavorare-studentessa-bocciata-per-mancata-presentazione-per-i-debiti-formativi-fa-ricorso-al-tar-ma-lo-perde-i-giudici-attivita-lavorative-non-giustificano-assenza/",
-                "date": "16 Ago 2025",
-                "time": "7:47",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/shutterstock_299616500.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Susanna Tamaro contro la censura nei libri per bambini: “La bonifica dell’infanzia è criminale, i piccoli lettori hanno diritto di confrontarsi con il male e il turbamento”",
-                "link": "https://www.orizzontescuola.it/susanna-tamaro-contro-la-censura-nei-libri-per-bambini-la-bonifica-dellinfanzia-e-criminale-i-piccoli-lettori-hanno-diritto-di-confrontarsi-con-il-male-e-il-turbamento/",
-                "date": "15 Ago 2025",
-                "time": "18:31",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/Susanna-Tamaro.png"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Libri scolastici, boom del 13% nonostante il calo degli studenti: Antitrust fotografa un mercato bloccato da oligopolio editoriale",
+                "link": "https://www.orizzontescuola.it/libri-scolastici-boom-del-13-nonostante-il-calo-degli-studenti-antitrust-fotografa-un-mercato-bloccato-da-oligopolio-editoriale/",
+                "date": "17 Ago 2025",
+                "time": "18:21",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Valditara liquida come “barzelletta” il piano Schlein da 500 milioni per stipendi europei, libri gratis e mense: davvero possibile cambiare tutto con così poche risorse?",
+                "link": "https://www.orizzontescuola.it/valditara-liquida-come-barzelletta-il-piano-schlein-da-500-milioni-per-stipendi-europei-libri-gratis-e-mense-davvero-possibile-cambiare-tutto-con-cosi-poche-risorse/",
+                "date": "17 Ago 2025",
+                "time": "17:16",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Nella Marche riparte “Pappa Fish”, 500mila euro per portare il pesce nelle mense scolastiche",
+                "link": "https://www.orizzontescuola.it/nella-marche-riparte-pappa-fish-500mila-euro-per-portare-il-pesce-nelle-mense-scolastiche/",
+                "date": "17 Ago 2025",
+                "time": "16:22",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Quando la televisione fa scuola di lingua: come Pippo Baudo ha trasformato il suo stile in linguaggio, dando vita a neologismi come “pippobaudismo”, “baudeggiare” e “baudiano”, oggi studiati dalla Crusca",
+                "link": "https://www.orizzontescuola.it/quando-la-televisione-fa-scuola-di-lingua-come-pippo-baudo-ha-trasformato-il-suo-stile-in-linguaggio-dando-vita-a-neologismi-come-pippobaudismo-baudeggiare-e-baudiano-oggi-studiati-dal/",
+                "date": "17 Ago 2025",
+                "time": "15:25",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Esercito italiano sottodimensionato: da 380mila a 100mila soldati, Salvini propone il ritorno del servizio militare (o civile) obbligatorio di sei mesi per i giovani tra 18 e 26 anni",
+                "link": "https://www.orizzontescuola.it/esercito-italiano-sottodimensionato-da-380mila-a-100mila-soldati-salvini-propone-il-ritorno-del-servizio-militare-o-civile-obbligatorio-di-sei-mesi-per-i-giovani-tra-18-e-26-anni/",
+                "date": "17 Ago 2025",
+                "time": "14:48",
+                "image_link": "N/A"
+            },
             {
                 "category": "Docenti",
                 "title": "Seminario ad Aosta sulla storia del Confine orientale: iscrizioni dirigenti e docenti entro il 20 agosto",
@@ -400,46 +440,6 @@
                 "link": "https://www.orizzontescuola.it/dalla-gestione-del-budget-ai-prestiti-studenteschi-il-piano-per-rafforzare-leducazione-finanziaria-nelle-scuole-superiori-e-colmare-il-divario-nelle-competenze-economiche-dei-giovani/",
                 "date": "16 Ago 2025",
                 "time": "13:05",
-                "image_link": "N/A"
-            },
-            {
-                "category": "ATA",
-                "title": "ATA 24 mesi 2025/26: ecco le graduatorie utili per i ruoli [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-2025-26-ecco-le-prime-provvisorie-in-aggiornamento/",
-                "date": "16 Ago 2025",
-                "time": "11:51",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Studenti",
-                "title": "Rinnovo benefici per collegi universitari e convitti nazionali: gli avvisi Inps",
-                "link": "https://www.orizzontescuola.it/rinnovo-benefici-per-collegi-universitari-e-convitti-nazionali-gli-avvisi-inps/",
-                "date": "16 Ago 2025",
-                "time": "11:44",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Schermi e conflitti familiari, in Svizzera il 55% delle famiglie litiga per il tempo digitale dei figli. Genitori divisi tra controllo e libertà tecnologica",
-                "link": "https://www.orizzontescuola.it/schermi-e-conflitti-familiari-in-svizzera-il-55-delle-famiglie-litiga-per-il-tempo-digitale-dei-figli-genitori-divisi-tra-controllo-e-liberta-tecnologica/",
-                "date": "16 Ago 2025",
-                "time": "9:52",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "In Vaticano Papa Leone XIV cambia le regole per le famiglie con figli studenti: assegni fino a 20 anni per le superiori e 26 per l’università, addio alla successione obbligatoria",
-                "link": "https://www.orizzontescuola.it/in-vaticano-papa-leone-xiv-cambia-le-regole-per-le-famiglie-con-figli-studenti-assegni-fino-a-20-anni-per-le-superiori-e-26-per-luniversita-addio-alla-successione-obbligatoria/",
-                "date": "16 Ago 2025",
-                "time": "9:26",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Bullismo, ansia e disturbi non diagnosticati: cosa si nasconde dietro le assenze prolungate da scuola e come interventi mirati possono rompere il circolo vizioso",
-                "link": "https://www.orizzontescuola.it/bullismo-ansia-e-disturbi-non-diagnosticati-cosa-si-nasconde-dietro-le-assenze-prolungate-da-scuola-e-come-interventi-mirati-possono-rompere-il-circolo-vizioso/",
-                "date": "16 Ago 2025",
-                "time": "8:53",
                 "image_link": "N/A"
             }
         ]
@@ -566,6 +566,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Immissioni in ruolo insegnanti di religione cattolica 2025/26: in totale sono 6.022 i posti autorizzati. Ecco da quali graduatorie. DECRETO e TABELLA",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-insegnanti-di-religione-cattolica-2025-26-in-totale-sono-6-022-i-posti-autorizzati-ecco-da-quali-graduatorie-decreto-e-tabella/",
+                "date": "14 Ago 2025",
+                "time": "11:51",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1785502850-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Tanti corsi di specializzazione su sostegno: come cambieranno le GPS nel 2026. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/tanti-corsi-di-specializzazione-su-sostegno-come-cambieranno-le-gps-nel-2026-pillole-di-question-time/",
                 "date": "14 Ago 2025",
@@ -603,14 +611,6 @@
                 "date": "13 Ago 2025",
                 "time": "18:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2461893991.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26, ecco i primi INTERPELLI per abilitati Montessori e Sostegno Lingua dei segni LIS",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-26-ecco-i-primi-interpelli-per-abilitati-montessori-e-sostegno-lingua-dei-segni-lis/",
-                "date": "13 Ago 2025",
-                "time": "12:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2090710285.jpg"
             }
         ]
     },
