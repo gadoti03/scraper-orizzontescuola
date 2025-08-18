@@ -24,6 +24,73 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Diventare Insegnanti",
+                "title": "Minicall veloce: cosa significa se il menu a tendina non mostra regioni selezionabili. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/minicall-veloce-cosa-significa-se-il-menu-a-tendina-non-mostra-regioni-selezionabili-pillole-di-question-time/",
+                "date": "18 Ago 2025",
+                "time": "10:09",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2504877853.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Partita IVA dipendenti pubblici: sì anche senza comunicazione all’Amministrazione. Ecco quando. Sentenza Consiglio di Stato",
+                "link": "https://www.orizzontescuola.it/partita-iva-dipendenti-pubblici-si-anche-senza-comunicazione-allamministrazione-ecco-quando-sentenza-cds/",
+                "date": "18 Ago 2025",
+                "time": "9:25",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/02/shutterstock_714371032.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Immissioni in ruolo ATA 2025/26: al via le domande. AVVISI, scadenze, posti disponibili [IN AGGIORNAMENTO]",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-ata-2025-26-avvisi-scadenze-posti-disponibili-in-aggiornamento/",
+                "date": "18 Ago 2025",
+                "time": "9:02",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2331500305.jpg"
+            },
+            {
+                "category": "Didattica",
+                "title": "Little Miss Sunshine, un film che ti insegna che conformarsi non è sempre la strada giusta. Insegnare attraverso i film",
+                "link": "https://www.orizzontescuola.it/little-miss-sunshine-un-film-che-ti-insegna-che-conformarsi-non-e-sempre-la-strada-giusta-insegnare-attraverso-i-film/",
+                "date": "18 Ago 2025",
+                "time": "8:39",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Screenshot-2025-08-13-074353.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Corsi sostegno INDIRE art. 7, iscrizioni sovrannumerari università: domande dal 18 al 25 agosto",
+                "link": "https://www.orizzontescuola.it/corsi-sostegno-indire-iscrizioni-sovrannumerari-universita-domande-dal-18-al-25-agosto/",
+                "date": "18 Ago 2025",
+                "time": "8:28",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_1029430381.jpg"
+            },
+            {
+                "category": "Didattica",
+                "title": "Benessere digitale e gestione consapevole del tempo online: strumenti e metodologie per prevenire dipendenze e abusi",
+                "link": "https://www.orizzontescuola.it/benessere-digitale-e-gestione-consapevole-del-tempo-online-strumenti-e-metodologie-per-prevenire-dipendenze-e-abusi/",
+                "date": "18 Ago 2025",
+                "time": "8:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/shutterstock_2478722649.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Calendario scolastico sotto accusa: climatizzatori in classe o rinvio a ottobre? Tra emergenza climatica, turismo danneggiato e nostalgia del passato",
+                "link": "https://www.orizzontescuola.it/calendario-scolastico-sotto-accusa-climatizzatori-o-rinvio-a-ottobre-tra-emergenza-climatica-turismo-danneggiato-e-nostalgia-del-passato/",
+                "date": "18 Ago 2025",
+                "time": "7:57",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_697764307-scaled.jpg"
+            },
+            null,
+            null,
+            null,
+            {
+                "category": "Cronaca",
+                "title": "Stop smartphone alla scuola superiore, in un istituto di Pordenone regolamento già aggiornato: anche ATA potranno segnalare uso illecito. Come funziona la stretta e perché la famiglia entra in gioco al secondo richiamo",
+                "link": "https://www.orizzontescuola.it/stop-smartphone-alla-scuola-superiore-in-un-istituto-di-pordenone-regolamento-aggiornato-anche-ata-potranno-segnalare-uso-illecito-come-funziona-la-stretta-sugli-smartphone-e-perche-la-famiglia-ent/",
+                "date": "18 Ago 2025",
+                "time": "7:19",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/shutterstock_2376981017-scaled.jpg"
+            },
+            {
                 "category": "Stipendio",
                 "title": "Stipendio docenti e ATA, il 22 agosto l’accredito, cedolino già visibile. Compensi per incarichi aggiuntivi probabilmente sui conti a settembre",
                 "link": "https://www.orizzontescuola.it/stipendio-docenti-e-ata-il-22-agosto-laccredito-cedolino-gia-visibile-compensi-per-incarichi-aggiuntivi-probabilmente-sui-conti-a-settembre/",
@@ -62,7 +129,12 @@
                 "date": "17 Ago 2025",
                 "time": "16:37",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/11/giovani.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Posti di sostegno ADMM e ADSS: perché ce ne sono pochi per le immissioni in ruolo. Pillole di Question Time",
@@ -150,12 +222,7 @@
                 "date": "17 Ago 2025",
                 "time": "10:11",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/10/Immagine-promobox-infanzia-1.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Elenchi aggiuntivi primaria: ci sono possibilità di nomina per la mini call veloce sostegno? Pillole di Question Time",
@@ -204,100 +271,36 @@
                 "time": "7:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Ti-seguiamo-tutto-lanno-1.png"
             },
-            null,
-            {
-                "category": "Cronaca",
-                "title": "Monitoraggio segreto oltre la campanella: come le piattaforme di sorveglianza scolastica seguono studenti e docenti 24/7 usando intelligenza artificiale e dati sensibili. Uno studio internazionale",
-                "link": "https://www.orizzontescuola.it/monitoraggio-segreto-oltre-la-campanella-come-le-piattaforme-di-sorveglianza-scolastica-seguono-studenti-e-docenti-24-7-usando-intelligenza-artificiale-e-dati-sensibili-uno-studio-internazionale/",
-                "date": "16 Ago 2025",
-                "time": "19:41",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1188354160.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Pacifico (Anief): “Meno studenti e più docenti? No, serve un piano per la natalità e la fine delle classi pollaio, con regole nuove per aree a rischio e scuole isolate”",
-                "link": "https://www.orizzontescuola.it/pacifico-anief-meno-studenti-e-piu-docenti-no-serve-un-piano-per-la-natalita-e-la-fine-delle-classi-pollaio-con-regole-nuove-per-aree-a-rischio-e-scuole-isolate/",
-                "date": "16 Ago 2025",
-                "time": "18:59",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/Pacifico.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Mini Call veloce sostegno 2025/26: si sceglie provincia diversa da quella di inserimento nelle GPS. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/mini-call-veloce-sostegno-2025-26-si-sceglie-provincia-diversa-da-quella-di-inserimento-nelle-gps-pillole-di-question-time/",
-                "date": "16 Ago 2025",
-                "time": "18:04",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_778370800-scaled.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Mobilità annuale docenti: entro il 22 agosto gli esiti definitivi, gli interessati hanno 10 giorni per presentare reclamo contro eventuali errori",
-                "link": "https://www.orizzontescuola.it/mobilita-annuale-docenti-entro-il-22-agosto-gli-esiti-definitivi-gli-interessati-hanno-10-giorni-per-presentare-reclamo-contro-eventuali-errori-amministrativi/",
-                "date": "16 Ago 2025",
-                "time": "17:46",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/download-3.jpg"
-            },
-            {
-                "category": "Genitori",
-                "title": "Daniele Novara contro i genitori ‘amiconi’: “Basta smartphone ai bambini e accettate il conflitto educativo con i vostri figli”",
-                "link": "https://www.orizzontescuola.it/daniele-novara-contro-i-genitori-amiconi-basta-smartphone-ai-bambini-e-accettate-il-conflitto-educativo-con-i-vostri-figli/",
-                "date": "16 Ago 2025",
-                "time": "17:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/novara.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Spopolamento irreversibile, oltre 3.800 scuole già chiuse nelle aree interne: il Piano del governo prevede altri 1.200 istituti ‘sacrificati’ al declino demografico entro il 2030",
-                "link": "https://www.orizzontescuola.it/spopolamento-irreversibile-oltre-3-800-scuole-gia-chiuse-nelle-aree-interne-il-piano-ministeriale-prevede-altri-1-200-istituti-sacrificati-al-declino-demografico-entro-il-2030/",
-                "date": "16 Ago 2025",
-                "time": "16:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/01/shutterstock_1736466005.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Anno di prova: docente con passaggio di ruolo deve svolgerlo, a meno che non l’abbia già superato per lo stesso grado",
-                "link": "https://www.orizzontescuola.it/anno-di-prova-docente-con-passaggio-di-ruolo-deve-svolgerlo-a-meno-che-non-labbia-gia-superato-per-lo-stesso-grado/",
-                "date": "16 Ago 2025",
-                "time": "16:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_1402278662.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Bonus di 40 euro per le madri lavoratrici, slitta al 2026 la tassa sulle bevande zuccherate",
-                "link": "https://www.orizzontescuola.it/bonus-di-40-euro-per-le-madri-lavoratrici-slitta-al-2026-al-tassa-sulle-bevande-zuccherate/",
-                "date": "16 Ago 2025",
-                "time": "15:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/12/shutterstock_1583091217-scaled.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Intelligenza artificiale in classe, addio ai metodi tradizionali? Dal rifiuto alla rinascita digitale: il percorso in 5 fasi dei docenti verso uso consapevole dell’IA",
-                "link": "https://www.orizzontescuola.it/intelligenza-artificiale-in-classe-addio-ai-metodi-tradizionali-dal-rifiuto-alla-rinascita-digitale-il-percorso-in-5-fasi-dei-docenti-verso-uso-consapevole-dellia/",
-                "date": "16 Ago 2025",
-                "time": "15:09",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_1694949499-scaled.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Fuga di cervelli record: oltre 21.000 laureati italiani emigrati nel 2023 (+21,2%), solo 6.000 i rientri mentre la disoccupazione giovanile resta al 19,2%",
-                "link": "https://www.orizzontescuola.it/fuga-di-cervelli-record-oltre-21-000-laureati-italiani-emigrati-nel-2023-212-solo-6-000-i-rientri-mentre-la-disoccupazione-giovanile-resta-al-192/",
-                "date": "16 Ago 2025",
-                "time": "14:04",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2468844255.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Mini Call sostegno 2024/26: è possibile rinunciare dopo l’assegnazione della scuola? Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/mini-call-sostegno-2024-26-e-possibile-rinunciare-dopo-lassegnazione-della-scuola-pillole-di-question-time/",
-                "date": "16 Ago 2025",
-                "time": "12:36",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_1996119905.jpg"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Come richiedere una nuova Tessera Sanitaria per un minore: le indicazioni dell’Agenzia delle Entrate",
+                "link": "https://www.orizzontescuola.it/come-richiedere-una-nuova-tessera-sanitaria-per-un-minore-le-indicazioni-dellagenzia-delle-entrate/",
+                "date": "18 Ago 2025",
+                "time": "10:28",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Strage Vergarolla, Frassinetti: “Ricordare nelle scuole queste pagine di storia”",
+                "link": "https://www.orizzontescuola.it/strage-vergarolla-frassinetti-ricordare-nelle-scuole-queste-pagine-di-storia/",
+                "date": "18 Ago 2025",
+                "time": "10:18",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Molti annegamenti tra giovanissimi, Federica Pellegrini: “Necessario introdurre il nuoto a scuola”",
+                "link": "https://www.orizzontescuola.it/molti-annegamenti-tra-giovanissimi-federica-pellegrini-necessario-introdurre-il-nuoto-a-scuola/",
+                "date": "18 Ago 2025",
+                "time": "10:01",
+                "image_link": "N/A"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Friuli Venezia Giulia stanzia oltre un milione di euro per lo sport a scuola: nuova legge regionale rafforza l’attività motoria",
@@ -417,36 +420,20 @@
                 "date": "16 Ago 2025",
                 "time": "19:58",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Francia in rivolta contro i resort ‘vietati ai bambini’, governo lancia crociata anti-discriminazione: “Non fanno parte della nostra cultura”",
-                "link": "https://www.orizzontescuola.it/francia-in-rivolta-contro-i-resort-vietati-ai-bambini-governo-lancia-crociata-anti-discriminazione-non-fanno-parte-della-nostra-cultura/",
-                "date": "16 Ago 2025",
-                "time": "16:40",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Educazione digitale a scuola, AGCOM stanzia 153mila euro ai Co.re.com: percorsi formativi per migliaia di studenti contro i rischi del web",
-                "link": "https://www.orizzontescuola.it/educazione-digitale-a-scuola-agcom-stanzia-153mila-euro-ai-co-re-com-percorsi-formativi-per-migliaia-di-studenti-contro-i-rischi-del-web/",
-                "date": "16 Ago 2025",
-                "time": "16:02",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Proposta di legge per l’educazione alimentare nelle scuole: l’iniziativa dopo i casi di botulino che hanno scosso l’opinione pubblica",
-                "link": "https://www.orizzontescuola.it/proposta-di-legge-per-leducazione-alimentare-nelle-scuole-liniziativa-dopo-i-casi-di-botulino-che-hanno-scosso-lopinione-pubblica/",
-                "date": "16 Ago 2025",
-                "time": "14:44",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Anno di prova: docente con passaggio di ruolo deve svolgerlo, a meno che non l’abbia già superato per lo stesso grado",
+                "link": "https://www.orizzontescuola.it/anno-di-prova-docente-con-passaggio-di-ruolo-deve-svolgerlo-a-meno-che-non-labbia-gia-superato-per-lo-stesso-grado/",
+                "date": "16 Ago 2025",
+                "time": "16:11",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Docente immesso in ruolo 25/26 da concorso PNRR1: avrebbe vantaggi nel proseguire anche il concorso PNRR2?",
@@ -550,20 +537,28 @@
                 "date": "4 Ago 2025",
                 "time": "17:17",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Assegnazioni provvisorie 25/26: il ricongiungimento al convivente di fatto è una deroga?",
-                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-25-26-il-ricongiungimento-al-convivente-di-fatto-e-una-deroga/",
-                "date": "4 Ago 2025",
-                "time": "12:17",
-                "image_link": "N/A"
             }
         ]
     },
     "group_6": {
         "title": "Diventare Insegnanti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti a.s. 2025/26: ecco chi può ritirare la domanda. Avvisi uffici Scolastici con le DATE",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-a-s-2025-26-ecco-chi-puo-ritirare-la-domanda-avvisi-uffici-scolastici-con-le-date/",
+                "date": "14 Ago 2025",
+                "time": "13:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Mini call veloce docenti sostegno a.s. 2025/26: Ministero pubblica elenco disponibilità. SCARICA il file PDF",
+                "link": "https://www.orizzontescuola.it/mini-call-veloce-docenti-sostegno-a-s-2025-26-ministero-pubblica-elenco-disponibilita/",
+                "date": "14 Ago 2025",
+                "time": "12:14",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_2033557271.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Mini call veloce sostegno 2025/26: solo 59 posti per ADMM, zero per ADSS anche quest’anno",
@@ -595,28 +590,20 @@
                 "date": "14 Ago 2025",
                 "time": "10:44",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_561290041.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Mini call veloce da GPS sostegno, si parte oggi ore 10.00. RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/mini-call-veloce-da-gps-sostegno-si-parte-oggi-ore-10-00-risposte-ai-quesiti/",
-                "date": "14 Ago 2025",
-                "time": "9:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2176731709.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Mini Call veloce sostegno 2025/26, quante regioni, province e scuole si possono scegliere. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/mini-call-veloce-sostegno-2025-26-quante-regioni-province-e-scuole-si-possono-scegliere-pillole-di-question-time/",
-                "date": "13 Ago 2025",
-                "time": "18:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2492437907.jpg"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
+            {
+                "category": "ATA",
+                "title": "Domanda immissioni in ruolo ATA: come si presenta. Avviso via e-mail agli aspiranti",
+                "link": "https://www.orizzontescuola.it/domanda-immissioni-in-ruolo-ata-come-si-presenta-avviso-via-e-mail-agli-aspiranti/",
+                "date": "8 Ago 2025",
+                "time": "16:28",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1508556191.jpg"
+            },
             {
                 "category": "ATA",
                 "title": "Immissioni in ruolo personale ATA 2025, tutto pronto per le domande. Possono partire le convocazioni. Controllare avvisi e turni",
@@ -656,14 +643,6 @@
                 "date": "5 Ago 2025",
                 "time": "13:23",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_2025845477.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Posizioni economiche ATA, Collaboratori e Operatori: il simulatore per superare l’esame",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-collaboratori-e-operatori-il-simulatore-per-superare-lesame/",
-                "date": "5 Ago 2025",
-                "time": "7:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Assegnazioni-provvisorie-e-utilizzazioni.png"
             }
         ]
     },
@@ -725,6 +704,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Costretta a percorrere anche 260 km al giorno per insegnare. Serve una mobilità interprovinciale equa e trasparente. Lettera",
+                "link": "https://www.orizzontescuola.it/costretta-a-percorrere-anche-260-km-al-giorno-per-insegnare-serve-una-mobilita-interprovinciale-equa-e-trasparente-lettera/",
+                "date": "18 Ago 2025",
+                "time": "9:09",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "Educare alla verità: oltre il nozionismo, verso la formazione dell’anima. Lettera",
                 "link": "https://www.orizzontescuola.it/educare-alla-verita-oltre-il-nozionismo-verso-la-formazione-dellanima-lettera/",
                 "date": "15 Ago 2025",
@@ -761,14 +748,6 @@
                 "link": "https://www.orizzontescuola.it/intelligenza-artificiale-a-scuola-il-mim-sbaglia-bersaglio-lettera/",
                 "date": "30 Lug 2025",
                 "time": "9:35",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Dal liceo classico la dote del ragionamento complesso che non si perde per tutta la vita. Lettera",
-                "link": "https://www.orizzontescuola.it/dal-liceo-classico-la-dote-del-ragionamento-complesso-che-non-si-perde-per-tutta-la-vita-lettera/",
-                "date": "29 Lug 2025",
-                "time": "12:38",
                 "image_link": "N/A"
             }
         ]
