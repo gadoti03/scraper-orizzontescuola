@@ -24,6 +24,30 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Guide",
+                "title": "Formazione delle prime classi nelle scuole secondarie di secondo grado: normative, criteri e vincoli per un’organizzazione inclusiva ed equilibrata",
+                "link": "https://www.orizzontescuola.it/formazione-delle-prime-classi-nelle-scuole-secondarie-di-secondo-grado-normative-criteri-e-vincoli-per-unorganizzazione-inclusiva-ed-equilibrata/",
+                "date": "18 Ago 2025",
+                "time": "12:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/02/concorso-dirigenti-scolastici-bolzano.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "GPS prima fascia sostegno: è l’ultimo anno per la procedura straordinaria. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/gps-prima-fascia-sostegno-e-lultimo-anno-per-la-procedura-straordinaria-pillole-di-question-time/",
+                "date": "18 Ago 2025",
+                "time": "11:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_48466297.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Qualificazione delle stazioni appaltanti: pubblicato il nuovo regolamento ANAC",
+                "link": "https://www.orizzontescuola.it/qualificazione-delle-stazioni-appaltanti-pubblicato-il-nuovo-regolamento-anac/",
+                "date": "18 Ago 2025",
+                "time": "10:58",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_409299112-scaled.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Minicall veloce: cosa significa se il menu a tendina non mostra regioni selezionabili. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/minicall-veloce-cosa-significa-se-il-menu-a-tendina-non-mostra-regioni-selezionabili-pillole-di-question-time/",
@@ -105,7 +129,12 @@
                 "date": "17 Ago 2025",
                 "time": "19:47",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_1054012055-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Nuove Indicazioni nazionali: alla primaria arriva l’informatica, alle medie torna il latino, mentre STEM e logica diventano centrali per preparare i ragazzi al futuro",
@@ -129,12 +158,7 @@
                 "date": "17 Ago 2025",
                 "time": "16:37",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/11/giovani.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Posti di sostegno ADMM e ADSS: perché ce ne sono pochi per le immissioni in ruolo. Pillole di Question Time",
@@ -254,29 +278,52 @@
                 "date": "17 Ago 2025",
                 "time": "8:59",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/04/shutterstock_1495708661.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Non è mai troppo tardi per un diploma”, la storia di Alan, 37 anni, che ha rinunciato al tempo libero per tornare sui libri e ora racconta nel suo libro ansie e vittorie di chi riparte da zero",
-                "link": "https://www.orizzontescuola.it/non-e-mai-troppo-tardi-per-un-diploma-la-storia-di-alan-37-anni-che-ha-rinunciato-al-tempo-libero-per-tornare-sui-libri-e-ora-racconta-nel-suo-libro-ansie-e-vittorie-di-chi-riparte-da-zero/",
-                "date": "17 Ago 2025",
-                "time": "8:22",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/01/shutterstock_520160845-2-scaled.jpg"
-            },
-            {
-                "category": "Plus",
-                "title": "Neo Dirigente? Il Kit per avviare l’anno scolastico: tutte le procedure con 157 documenti già pronti all’utilizzo + 2 video",
-                "link": "https://www.orizzontescuola.it/il-kit-per-avviare-lanno-scolastico-tutte-le-procedure-con-155-documenti-gia-utili-allutilizzo/",
-                "date": "17 Ago 2025",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Ti-seguiamo-tutto-lanno-1.png"
-            },
-            null
+            }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Legge di bilancio 2026: si punta a taglio IRPEF. Possibile anche una revisione del codice degli appalti",
+                "link": "https://www.orizzontescuola.it/legge-di-bilancio-2026-si-punta-a-taglio-irpef-possibile-anche-una-revisione-del-codice-degli-appalti/",
+                "date": "18 Ago 2025",
+                "time": "12:51",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Mamme che ballano su TikTok, Crepet: “Una disgrazia”",
+                "link": "https://www.orizzontescuola.it/mamme-che-ballano-su-tiktok-crepet-una-disgrazia/",
+                "date": "18 Ago 2025",
+                "time": "11:20",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Personale ATA, Flc Cgil: “In Sicilia disponibili 1.404 posti, ma solo 404 assunzioni. Superare blocco turnover”",
+                "link": "https://www.orizzontescuola.it/personale-ata-flc-cgil-in-sicilia-disponibili-1-404-posti-ma-solo-404-assunzioni-superare-blocco-turnover/",
+                "date": "18 Ago 2025",
+                "time": "11:05",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Dichiarazione dei redditi 2025, per le spese sanitarie si può usare il prospetto riepilogativo al posto degli scontrini. FAQ Agenzia delle Entrate",
+                "link": "https://www.orizzontescuola.it/dichiarazione-dei-redditi-2025-per-le-spese-sanitarie-si-puo-usare-il-prospetto-riepilogativo-al-posto-degli-scontrini-faq-agenzia-delle-entrate/",
+                "date": "18 Ago 2025",
+                "time": "10:45",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Genitori",
+                "title": "Assegno Unico figli, pagamento di agosto in arrivo il 20 e 21",
+                "link": "https://www.orizzontescuola.it/assegno-unico-pagamento-di-agosto-in-arrivo-il-20-e-21/",
+                "date": "18 Ago 2025",
+                "time": "10:33",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Come richiedere una nuova Tessera Sanitaria per un minore: le indicazioni dell’Agenzia delle Entrate",
@@ -379,46 +426,6 @@
                 "link": "https://www.orizzontescuola.it/opera-nazionale-montessori-stanziato-1-milione-per-il-2025-prosecuzione-delle-attivita-e-copertura-dal-fondo-speciale/",
                 "date": "17 Ago 2025",
                 "time": "10:31",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Rapporto ONU 2025, paradosso fame mondiale: 673 milioni di affamati in meno, ma l’Africa sprofonda con 307 milioni di persone senza cibo",
-                "link": "https://www.orizzontescuola.it/rapporto-onu-2025-paradosso-fame-mondiale-673-milioni-di-affamati-in-meno-ma-lafrica-sprofonda-con-307-milioni-di-persone-senza-cibo/",
-                "date": "17 Ago 2025",
-                "time": "10:01",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Pippo Baudo e il suo ultimo messaggio educativo: “Sbagliamo quando non ascoltiamo i ragazzi, la tv deve uscire dalla bolla e tornare umana. Non deve parlare nel vuoto”",
-                "link": "https://www.orizzontescuola.it/pippo-baudo-e-il-suo-ultimo-messaggio-educativo-sbagliamo-quando-non-ascoltiamo-i-ragazzi-la-tv-deve-uscire-dalla-bolla-e-tornare-umana-non-deve-parlare-nel-vuoto/",
-                "date": "16 Ago 2025",
-                "time": "22:45",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Lutto nel mondo della tv, addio a Pippo Baudo. Il cordoglio delle istituzioni",
-                "link": "https://www.orizzontescuola.it/lutto-nel-mondo-della-tv-addio-a-pippo-baudo/",
-                "date": "16 Ago 2025",
-                "time": "22:01",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Immissioni in ruolo con doppio canale da Gps e 100% idonei dei concorsi, Anief: 200mila docenti precari attendono risposte dal Senato",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-con-doppio-canale-da-gps-e-100-idonei-dei-concorsi-anief-200mila-docenti-precari-attendono-risposte-dal-senato/",
-                "date": "16 Ago 2025",
-                "time": "20:07",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Felicemente a scuola, il metodo educativo che trasforma aule e insegnanti: cinque anni di sperimentazioni, storie vere e risultati che stanno cambiando il benessere scolastico",
-                "link": "https://www.orizzontescuola.it/felicemente-a-scuola-il-metodo-educativo-che-trasforma-aule-e-insegnanti-cinque-anni-di-sperimentazioni-storie-vere-e-risultati-che-stanno-cambiando-il-benessere-scolastico/",
-                "date": "16 Ago 2025",
-                "time": "19:58",
                 "image_link": "N/A"
             }
         ]
