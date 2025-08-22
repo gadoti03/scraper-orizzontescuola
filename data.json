@@ -3,26 +3,34 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "ATA",
+                "title": "Posizioni economiche ATA: il simulatore per esercitarti a superare l’esame",
+                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-collaboratori-simulatore-e-video-lezioni-per-superare-la-prova-finale/",
+                "date": "22 Ago 2025",
+                "time": "18:56",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Assegnazioni-provvisorie-e-utilizzazioni-2.png"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Mini Call veloce sostegno GPS 2025/26: ecco le sedi assegnate [IN AGGIORNAMENTO]",
                 "link": "https://www.orizzontescuola.it/mini-call-veloce-sostegno-gps-2025-26-ecco-graduatorie-e-assegnazione-della-provincia-aggiornato/",
                 "date": "22 Ago 2025",
                 "time": "11:25",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_765925483-scaled.jpg"
-            },
-            {
-                "category": "Didattica",
-                "title": "Come potenziare l’insegnamento delle lingue straniere con l’Intelligenza artificiale: laboratori, tutor virtuali e dialoghi reali nelle classi italiane",
-                "link": "https://www.orizzontescuola.it/come-potenziare-linsegnamento-delle-lingue-straniere-con-lintelligenza-artificiale-laboratori-tutor-virtuali-e-dialoghi-reali-nelle-classi-italiane/",
-                "date": "22 Ago 2025",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/shutterstock_1768658270.jpg"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Quando saranno assegnate le supplenze docenti GaE e GPS 2025/26? Ecco le date utili per il primo giro di algoritmo",
+                "link": "https://www.orizzontescuola.it/quando-saranno-assegnate-le-supplenze-docenti-gae-e-gps-2025-26-ecco-le-date-utili-per-il-primo-giro-di-algoritmo/",
+                "date": "22 Ago 2025",
+                "time": "19:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/shutterstock_346619372.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Bonus carta docente per docenti con contratto al 31 agosto 2025: non c’è il rischio di perderlo come accaduto ai colleghi del 2024",
@@ -142,7 +150,12 @@
                 "date": "22 Ago 2025",
                 "time": "8:18",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Docenti",
                 "title": "Solo il 6% in Europa lavora più di 49 ore a settimana, e i docenti italiani? Fino a 36 ore tra lavoro in cattedra e sommerso",
@@ -150,12 +163,7 @@
                 "date": "22 Ago 2025",
                 "time": "8:16",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/03/shutterstock_141309454.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Assunzioni docenti da GPS sostegno per il ruolo 2025/26, ulteriori BOLLETTINI",
@@ -171,6 +179,14 @@
                 "date": "22 Ago 2025",
                 "time": "8:03",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/shutterstock_2299952603.jpg"
+            },
+            {
+                "category": "Didattica",
+                "title": "Come potenziare l’insegnamento delle lingue straniere con l’Intelligenza artificiale: laboratori, tutor virtuali e dialoghi reali nelle classi italiane",
+                "link": "https://www.orizzontescuola.it/come-potenziare-linsegnamento-delle-lingue-straniere-con-lintelligenza-artificiale-laboratori-tutor-virtuali-e-dialoghi-reali-nelle-classi-italiane/",
+                "date": "22 Ago 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/shutterstock_1768658270.jpg"
             },
             {
                 "category": "Scuole",
@@ -283,28 +299,20 @@
                 "date": "21 Ago 2025",
                 "time": "12:11",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_648728131.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Posizioni economiche ATA, corsi di formazione online: collaboratori scolastici e operatori chiudono entro il 28 agosto",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-corsi-di-formazione-online-collaboratori-scolastici-e-operatori-chiudono-entro-il-28-agosto/",
-                "date": "21 Ago 2025",
-                "time": "11:45",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Docenti, part time + aspettativa per ridurre il numero di ore di lezione in classe: non è possibile",
-                "link": "https://www.orizzontescuola.it/docenti-part-time-aspettativa-per-ridurre-il-numero-di-ore-di-lezione-in-classe-non-e-possibile/",
-                "date": "21 Ago 2025",
-                "time": "11:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_341870168-scaled.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Comunicati stampa",
+                "title": "Call veloce, perché molti posti ancora vacanti? Pacifico (Anief): “Bisogna far combaciare domanda e offerta”",
+                "link": "https://www.orizzontescuola.it/call-veloce-perche-molti-posti-ancora-vacanti-pacifico-anief-bisogna-far-combaciare-domanda-e-offerta/",
+                "date": "22 Ago 2025",
+                "time": "19:34",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Accorpamento di due scuole, il Tar lo annulla: “Coinvolgere le amministrazioni locali”",
@@ -426,20 +434,20 @@
                 "date": "21 Ago 2025",
                 "time": "15:30",
                 "image_link": "N/A"
-            },
-            {
-                "category": "DSGA",
-                "title": "Copertura posti vacanti DSGA: interpello Torino in scadenza il 23 agosto",
-                "link": "https://www.orizzontescuola.it/copertura-posti-vacanti-dsga-2025-26-interpello-torino-in-scadenza-il-23-agosto/",
-                "date": "21 Ago 2025",
-                "time": "15:15",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Docenti, part time + aspettativa per ridurre il numero di ore di lezione in classe: non è possibile",
+                "link": "https://www.orizzontescuola.it/docenti-part-time-aspettativa-per-ridurre-il-numero-di-ore-di-lezione-in-classe-non-e-possibile/",
+                "date": "21 Ago 2025",
+                "time": "11:25",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Anno prova neoassunti GPS: non si ripete se superato anche con riserva ma va svolta lezione simulata",
@@ -543,14 +551,6 @@
                 "date": "10 Ago 2025",
                 "time": "13:13",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Supplenze docenti GPS 2025/26, a fine agosto le nomine: come funzioneranno le “riserve”",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-gps-2025-26-a-fine-agosto-le-nomine-come-funzioneranno-le-riserve/",
-                "date": "9 Ago 2025",
-                "time": "18:42",
-                "image_link": "N/A"
             }
         ]
     },
@@ -612,6 +612,14 @@
         "articles": [
             {
                 "category": "ATA",
+                "title": "Immissioni in ruolo ATA 2025/26: cosa succede se si rinuncia alla nomina",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-ata-2025-26-cosa-succede-se-si-rinuncia-alla-nomina/",
+                "date": "15 Ago 2025",
+                "time": "11:45",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2331500305.jpg"
+            },
+            {
+                "category": "ATA",
                 "title": "Immissioni in ruolo ATA 2025/26: come inoltrare e modificare la domanda. Le indicazioni su Istanze online",
                 "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-ata-2025-26-come-inoltrare-e-modificare-la-domanda-le-indicazioni-su-istanze-online/",
                 "date": "13 Ago 2025",
@@ -649,14 +657,6 @@
                 "date": "7 Ago 2025",
                 "time": "11:46",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2331500305.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Immissioni in ruolo personale ATA 2025/26: quando le domande? Si attende la circolare",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-ata-2025-26-quando-le-domande-si-attende-la-circolare/",
-                "date": "6 Ago 2025",
-                "time": "19:17",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
             }
         ]
     },
