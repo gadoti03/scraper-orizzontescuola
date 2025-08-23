@@ -24,6 +24,14 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Didattica",
+                "title": "Gamification nella valutazione: trasformare la verifica in un’esperienza coinvolgente",
+                "link": "https://www.orizzontescuola.it/gamification-nella-valutazione-trasformare-la-verifica-in-unesperienza-coinvolgente/",
+                "date": "23 Ago 2025",
+                "time": "19:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/shutterstock_633428384.jpg"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Scuole DADA, senza voti, senza zaino, senza cattedra, in outdoor e parentale. Il panorama variegato delle scuole “alternative”",
                 "link": "https://www.orizzontescuola.it/scuole-dada-senza-voti-senza-zaino-senza-cattedra-in-outdoor-e-parentale-il-panorama-variegato-delle-scuole-alternative/",
@@ -128,7 +136,12 @@
                 "time": "8:52",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1863569833-scaled.jpg"
             },
-            null,
+            null
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Dirigenti scolastici",
                 "title": "Docente sostituisce il Dirigente scolastico durante le sue ferie: svolge mansioni superiori? Spetta una retribuzione? Ecco cosa hanno detto i giudici",
@@ -136,12 +149,7 @@
                 "date": "23 Ago 2025",
                 "time": "8:33",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_614642159.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             null,
             null,
             {
@@ -263,20 +271,20 @@
                 "date": "22 Ago 2025",
                 "time": "9:23",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti a.s. 2025/26: ecco chi può ritirare la domanda. Avvisi uffici Scolastici con le DATE",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-a-s-2025-26-ecco-chi-puo-ritirare-la-domanda-avvisi-uffici-scolastici-con-le-date/",
-                "date": "22 Ago 2025",
-                "time": "8:18",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "In ruolo per 24 ore, poi licenziata. Problemi durante la mini-call veloce",
+                "link": "https://www.orizzontescuola.it/in-ruolo-per-24-ore-poi-licenziata-problemi-durante-la-mini-call-veloce/",
+                "date": "23 Ago 2025",
+                "time": "18:31",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "“Studiare fuori casa è diventato un lusso per pochi”, l’intervento del capogruppo M5S Caso",
@@ -405,14 +413,6 @@
                 "date": "22 Ago 2025",
                 "time": "8:48",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Studente esonerato cade durante l’ora di ginnastica, scuola responsabile al 50%. Ecco perché",
-                "link": "https://www.orizzontescuola.it/studente-esonerato-cade-durante-lora-di-ginnastica-scuola-responsabile-al-50-ecco-perche/",
-                "date": "22 Ago 2025",
-                "time": "8:10",
-                "image_link": "N/A"
             }
         ]
     },
@@ -538,6 +538,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Mini call veloce sostegno 2025/26, FASE 2: consigliato “ordinare” le scuole per evitare assegnazione d’ufficio",
+                "link": "https://www.orizzontescuola.it/mini-call-veloce-sostegno-2025-26-fase-2-consigliato-ordinare-le-scuole-per-evitare-assegnazione-dufficio/",
+                "date": "20 Ago 2025",
+                "time": "11:08",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_687037513.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Mini call veloce sostegno 2025/26: nella graduatoria dei vincitori non si evince distinzione tra prima fascia GPS ed elenco aggiuntivo. Come è stata formata",
                 "link": "https://www.orizzontescuola.it/mini-call-veloce-sostegno-2025-26-nella-graduatoria-dei-vincitori-non-si-evince-distinzione-tra-prima-fascia-gps-ed-elenco-aggiuntivo-come-e-stata-formata/",
                 "date": "20 Ago 2025",
@@ -575,14 +583,6 @@
                 "date": "19 Ago 2025",
                 "time": "12:12",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1669106749.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Specializzazione sostegno art. 6 triennalisti, domanda preiscrizione possibile presso più Atenei o Indire e una Università. Nuova FAQ",
-                "link": "https://www.orizzontescuola.it/specializzazione-sostegno-art-6-triennalisti-domanda-preiscrizione-possibile-presso-piu-atenei-o-indire-e-una-universita-nuova-faq/",
-                "date": "19 Ago 2025",
-                "time": "9:32",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
             }
         ]
     },
