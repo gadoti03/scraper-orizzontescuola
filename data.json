@@ -4,25 +4,50 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
-                "title": "Mini Call veloce sostegno GPS 2025/26: ecco le sedi assegnate [IN AGGIORNAMENTO]",
+                "title": "Mini Call veloce sostegno GPS 2025/26: ci sono state rettifiche anche nelle sedi assegnate [AGGIORNATO]",
                 "link": "https://www.orizzontescuola.it/mini-call-veloce-sostegno-gps-2025-26-ecco-graduatorie-e-assegnazione-della-provincia-aggiornato/",
-                "date": "23 Ago 2025",
-                "time": "8:50",
+                "date": "24 Ago 2025",
+                "time": "10:02",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_765925483-scaled.jpg"
             },
             {
                 "category": "ATA",
                 "title": "Posizioni economiche ATA: il simulatore per esercitarti a superare l’esame",
                 "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-collaboratori-simulatore-e-video-lezioni-per-superare-la-prova-finale/",
-                "date": "22 Ago 2025",
-                "time": "18:56",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Assegnazioni-provvisorie-e-utilizzazioni-2.png"
+                "date": "24 Ago 2025",
+                "time": "7:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Assegnazioni-provvisorie-e-utilizzazioni-3.png"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2026: quali saranno al 31 agosto, quali al 30 giugno 2026, quali fino ad avente diritto e quali brevi",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-2026-quali-saranno-al-31-agosto-quali-al-30-giugno-2026-quali-fino-ad-avente-diritto-e-quali-brevi/",
+                "date": "24 Ago 2025",
+                "time": "10:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_1214667418.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Gestione contributiva PA: cosa cambia per le scuole dal 1° ottobre",
+                "link": "https://www.orizzontescuola.it/gestione-contributiva-pa-cosa-cambia-per-le-scuole-dal-1-ottobre/",
+                "date": "24 Ago 2025",
+                "time": "9:29",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_120805804.jpg"
+            },
+            null,
+            {
+                "category": "Plus",
+                "title": "Inizio anno scolastico: la guida operativa per Dirigenti, DSGA, segreterie, staff. 180 pagine di istruzioni e 162 circolari e documenti già pronti",
+                "link": "https://www.orizzontescuola.it/inizio-anno-scolastico-la-guida-operativa-per-dirigenti-dsga-segreterie-staff-180-pagine-di-istruzioni-e-piu-di-70-circolari-e-documenti-gia-pronti/",
+                "date": "24 Ago 2025",
+                "time": "7:16",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/Con-piu-di-70-circolari-e-documenti-gia-pronti-2.png"
+            },
             {
                 "category": "Didattica",
                 "title": "Gamification nella valutazione: trasformare la verifica in un’esperienza coinvolgente",
@@ -55,7 +80,6 @@
                 "time": "17:45",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/shutterstock_1971499796.jpg"
             },
-            null,
             {
                 "category": "Cronaca",
                 "title": "Assistenza ad alunni disabili, i tagli economici non giustificano il mancato servizio. Sentenza",
@@ -119,7 +143,12 @@
                 "date": "23 Ago 2025",
                 "time": "10:45",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/shutterstock_1943815765.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti inglese PNRR 1, Emilia Romagna ripubblica la graduatoria AB25 dopo il riesame dei titoli",
@@ -136,12 +165,7 @@
                 "time": "8:52",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1863569833-scaled.jpg"
             },
-            null
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            null,
             {
                 "category": "Dirigenti scolastici",
                 "title": "Docente sostituisce il Dirigente scolastico durante le sue ferie: svolge mansioni superiori? Spetta una retribuzione? Ecco cosa hanno detto i giudici",
@@ -247,36 +271,20 @@
                 "date": "22 Ago 2025",
                 "time": "10:35",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_2002803581-scaled.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Dal banco alla cattedra come insegnante di ruolo: “Grazie ai prof amo la scuola. I miei 21 anni punto di forza con gli studenti”. La storia di Antonio",
-                "link": "https://www.orizzontescuola.it/dal-banco-alla-cattedra-come-insegnante-di-ruolo-grazie-ai-miei-prof-amo-la-scuola-i-miei-21-anni-punto-di-forza-con-gli-studenti-la-storia-di-antonio/",
-                "date": "22 Ago 2025",
-                "time": "9:59",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Screenshot-2025-08-22-092202.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Riconferma supplenti sostegno 2025/26: ecco come funziona la FASE ZERO dell’algoritmo",
-                "link": "https://www.orizzontescuola.it/supplenti-sostegno-conferma-della-nomina-anche-per-il-2025-26-direttive-alle-scuole/",
-                "date": "22 Ago 2025",
-                "time": "9:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1666873585.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Anche per la mini call veloce sostegno 2025/26 OBBLIGO di accettare esplicitamente la nomina entro 5 giorni. Presa di servizio 1° settembre",
-                "link": "https://www.orizzontescuola.it/anche-per-la-mini-call-veloce-sostegno-2025-26-obbligo-di-accettare-esplicitamente-la-nomina-entro-5-giorni-presa-di-servizio-1-settembre/",
-                "date": "22 Ago 2025",
-                "time": "9:23",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Crepet ai genitori: “Educate togliendo. Sottrarre è un gesto pedagogico”",
+                "link": "https://www.orizzontescuola.it/crepet-ai-genitori-educate-togliendo-sottrarre-e-un-gesto-pedagogico/",
+                "date": "24 Ago 2025",
+                "time": "8:29",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "In ruolo per 24 ore, poi licenziata. Problemi durante la mini-call veloce",
@@ -293,6 +301,7 @@
                 "time": "18:00",
                 "image_link": "N/A"
             },
+            null,
             {
                 "category": "Cronaca",
                 "title": "L’Università italiana cambi rotta: “Futuro, Democrazia e Passione”",
@@ -396,22 +405,6 @@
                 "link": "https://www.orizzontescuola.it/bonus-libri-2025-2026-le-regioni-dove-e-ancora-possibile-fare-domanda/",
                 "date": "22 Ago 2025",
                 "time": "10:00",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Genitori",
-                "title": "Le lauree che danno maggiore possibilità di lavoro: dalla sanità all’elettronica e informatica, ma anche matematica e chimica",
-                "link": "https://www.orizzontescuola.it/le-lauree-che-danno-maggiore-possibilita-di-lavoro-dalla-sanita-allelettronica-e-informatica-ma-anche-matematica-e-chimica/",
-                "date": "22 Ago 2025",
-                "time": "9:12",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Immissioni in ruolo docenti 2025/26, posti accantonati per concorso PNRR2 ancora da concludere [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2025-26-ecco-la-suddivisione-per-classe-di-concorso-in-ogni-regione-e-accantonamenti-pnrr2/",
-                "date": "22 Ago 2025",
-                "time": "8:48",
                 "image_link": "N/A"
             }
         ]
@@ -538,6 +531,22 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Vita da precaria: “Per tornare in Calabria prezzi esorbitanti”, tra abilitazione, costi affitti, concorsi a cattedra vinti da “non riservista”. INTERVISTA",
+                "link": "https://www.orizzontescuola.it/vita-da-precaria-fuorisede-per-tornare-in-calabria-prezzi-esorbitanti-tra-abilitazione-costi-affitti-concorsi-a-cattedra-vinti-da-non-riservista-intervista/",
+                "date": "21 Ago 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Progetto-senza-titolo.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Corsi di specializzazione sostegno Indire art.7: lezioni dal 22 agosto",
+                "link": "https://www.orizzontescuola.it/corsi-di-specializzazione-sostegno-indire-art-7-lezioni-dal-22-agosto/",
+                "date": "20 Ago 2025",
+                "time": "16:16",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/12/shutterstock_1708897081.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Mini call veloce sostegno 2025/26, FASE 2: consigliato “ordinare” le scuole per evitare assegnazione d’ufficio",
                 "link": "https://www.orizzontescuola.it/mini-call-veloce-sostegno-2025-26-fase-2-consigliato-ordinare-le-scuole-per-evitare-assegnazione-dufficio/",
                 "date": "20 Ago 2025",
@@ -567,22 +576,6 @@
                 "date": "19 Ago 2025",
                 "time": "14:44",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_233445877.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Immissioni in ruolo docenti, per posti ancora vuoti si può scorrere oltre il 30% degli idonei?",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-per-posti-ancora-vuoti-si-puo-scorrere-oltre-il-30-degli-idonei/",
-                "date": "19 Ago 2025",
-                "time": "13:06",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_130754711.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Assunzione docenti anche da GPS e tutti gli idonei del concorso in ruolo, 12 settembre in commissione al Senato: tutte le misure",
-                "link": "https://www.orizzontescuola.it/assunzione-docenti-anche-da-gps-e-tutti-gli-idonei-del-concorso-in-ruolo-12-settembre-in-commissione-al-senato-tutte-le-misure/",
-                "date": "19 Ago 2025",
-                "time": "12:12",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1669106749.jpg"
             }
         ]
     },
