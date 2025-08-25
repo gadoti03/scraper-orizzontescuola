@@ -24,20 +24,28 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Scuole",
+                "title": "Privacy ed etica a scuola: guida completa per i dirigenti scolastici 2025",
+                "link": "https://www.orizzontescuola.it/privacy-ed-etica-a-scuola-guida-completa-per-i-dirigenti-scolastici-2025/",
+                "date": "25 Ago 2025",
+                "time": "17:27",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_143084485.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Immissioni in ruolo ATA 2025/26: domande su Istanze online. AVVISI, scadenze, posti disponibili [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-ata-2025-26-avvisi-scadenze-posti-disponibili-in-aggiornamento/",
+                "date": "25 Ago 2025",
+                "time": "14:59",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_1853707816-scaled.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
-                "title": "GPS docenti ripubblicate per le supplenze 2025/26 [AGGIORNATO con Milano]",
+                "title": "GPS docenti ripubblicate per le supplenze 2025/26 [AGGIORNATO con Catania e Milano]",
                 "link": "https://www.orizzontescuola.it/gps-uffici-scolastici-iniziano-a-pubblicare-graduatorie-per-il-2025-26-in-aggiornamento/",
                 "date": "25 Ago 2025",
                 "time": "14:05",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_735971833.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Immissioni in ruolo e supplenze, posto comune e sostegno: a che punto siamo? QUESTION TIME con Cannas. LIVE Lunedì 25 agosto alle 14:30",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-e-supplenze-posto-comune-e-sostegno-a-che-punto-siamo-question-time-con-cannas-live-lunedi-25-agosto-alle-1430/",
-                "date": "25 Ago 2025",
-                "time": "14:01",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Template_questiontime_1920x1080-13.png"
             },
             {
                 "category": "Diventare Insegnanti",
@@ -142,7 +150,12 @@
                 "date": "25 Ago 2025",
                 "time": "9:33",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2518506853.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Nuova funzione SIDI per la gestione dell’abilitazione nei concorsi PNRR. Scarica la guida",
@@ -150,12 +163,7 @@
                 "date": "25 Ago 2025",
                 "time": "9:26",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Screenshot-2025-08-25-072544.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Quando saranno assegnate le supplenze docenti GaE e GPS 2025/26? Ecco le date utili per il primo giro di algoritmo",
@@ -284,14 +292,6 @@
                 "date": "24 Ago 2025",
                 "time": "16:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/10/london-1128803_1280-1200x780.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Addio alla dieta mediterranea: cala consumo di frutta e verdura, si mangia più carne. Il DDL per l’educazione alimentare e le mense sane",
-                "link": "https://www.orizzontescuola.it/addio-alla-dieta-mediterranea-cala-consumo-di-frutta-e-verdura-si-mangia-piu-carne-il-ddl-per-leducazione-alimentare-e-le-mense-sane/",
-                "date": "24 Ago 2025",
-                "time": "15:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/02/shutterstock_1368514142.jpg"
             }
         ]
     },
@@ -300,10 +300,58 @@
         "articles": [
             {
                 "category": "Cronaca",
+                "title": "“Educatrice chiama mio figlio senza cervello”, madre abbandona centro estivo: “YouTube e TikTok meglio di questi pseudo-educatori violenti”",
+                "link": "https://www.orizzontescuola.it/educatrice-chiama-mio-figlio-senza-cervello-madre-abbandona-centro-estivo-youtube-e-tiktok-meglio-di-questi-pseudo-educatori-violenti/",
+                "date": "25 Ago 2025",
+                "time": "16:53",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "La scuola precaria riparte a settembre, Anief chiede la riforma del reclutamento e la fine della supplentite dopo il Pnrr",
+                "link": "https://www.orizzontescuola.it/la-scuola-precaria-riparte-a-settembre-anief-chiede-la-riforma-del-reclutamento-e-la-fine-della-supplentite-dopo-il-pnrr/",
+                "date": "25 Ago 2025",
+                "time": "16:08",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Tar del Lazio, nuove pronunce contro il piano di dimensionamento regionale",
+                "link": "https://www.orizzontescuola.it/tar-del-lazio-nuove-pronunce-contro-il-piano-scolastico-regionale/",
+                "date": "25 Ago 2025",
+                "time": "15:18",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "Migliaia di posti sostegno in deroga 2025/26: utili per assegnazioni provvisorie o supplenze, non per i ruoli [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/posti-in-deroga-sostegno-per-assegnazioni-provvisorie-o-supplenze-al-30-giugno-2026-ecco-i-decreti-in-aggiornamento/",
+                "date": "25 Ago 2025",
+                "time": "14:55",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Paolo Crepet contro i social: “Rendono imbecilli docenti e studenti. Riassumere Kant in 140 caratteri? I ragazzi non sanno più studiare testi lunghi!”",
+                "link": "https://www.orizzontescuola.it/paolo-crepet-contro-i-social-rendono-imbecilli-docenti-e-studenti-riassumere-kant-in-140-caratteri-i-ragazzi-non-sanno-piu-studiare-testi-lunghi-i-cervelli-si-atrofizzano-come-muscoli/",
+                "date": "25 Ago 2025",
+                "time": "14:32",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
                 "title": "In Giappone la città di Toyoake vara la prima legge anti-smartphone: solo due ore al giorno nel tempo libero, niente sanzioni ma regole precise per bambin",
                 "link": "https://www.orizzontescuola.it/in-giappone-la-citta-di-toyoake-vara-la-prima-legge-anti-smartphone-solo-due-ore-al-giorno-nel-tempo-libero-niente-sanzioni-ma-regole-precise-per-bambin/",
                 "date": "25 Ago 2025",
                 "time": "14:13",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Immissioni in ruolo e supplenze, posto comune e sostegno: a che punto siamo? QUESTION TIME con Cannas [VIDEO]",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-e-supplenze-posto-comune-e-sostegno-a-che-punto-siamo-question-time-con-cannas-live-lunedi-25-agosto-alle-1430/",
+                "date": "25 Ago 2025",
+                "time": "14:01",
                 "image_link": "N/A"
             },
             {
@@ -379,48 +427,7 @@
                 "date": "23 Ago 2025",
                 "time": "16:56",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Carta dedicata a te”: confermata per il 2025 con un fondo da 500 milioni. Chi può beneficiarne",
-                "link": "https://www.orizzontescuola.it/carta-dedicata-a-te-confermata-per-il-2025-con-un-fondo-da-500-milioni-chi-puo-beneficiarne/",
-                "date": "23 Ago 2025",
-                "time": "14:13",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Call veloce sostegno, molti posti ancora vacanti. Pacifico (Anief): “Situazione cambierà con i percorsi INDIRE. Per questo chiediamo di prorogare assunzioni da GPS”",
-                "link": "https://www.orizzontescuola.it/call-veloce-perche-molti-posti-ancora-vacanti-pacifico-anief-bisogna-far-combaciare-domanda-e-offerta/",
-                "date": "23 Ago 2025",
-                "time": "13:41",
-                "image_link": "N/A"
-            },
-            {
-                "category": "ATA",
-                "title": "ATA 24 mesi 2025/26: ecco le graduatorie utili per i ruoli [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-2025-26-ecco-le-prime-provvisorie-in-aggiornamento/",
-                "date": "23 Ago 2025",
-                "time": "13:23",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Accorpamento di due scuole, il Tar lo annulla: “Coinvolgere le amministrazioni locali”",
-                "link": "https://www.orizzontescuola.it/accorpamento-di-due-scuole-il-tar-lo-annulla-coinvolgere-le-amministrazioni-locali/",
-                "date": "22 Ago 2025",
-                "time": "15:15",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Docente precario colpito da botulino rischia licenziamento, l’appello perché gli venga conservato il posto in una scuola di Bologna",
-                "link": "https://www.orizzontescuola.it/docente-precario-colpito-da-botulino-rischio-licenziamento-lappello-perche-gli-venga-conservato-il-posto-in-una-scuola-di-bologna/",
-                "date": "22 Ago 2025",
-                "time": "15:10",
-                "image_link": "N/A"
-            },
-            null
+            }
         ]
     },
     "group_5": {
@@ -598,14 +605,6 @@
         "articles": [
             {
                 "category": "ATA",
-                "title": "Convocazioni supplenze personale ATA: cosa portare con sé",
-                "link": "https://www.orizzontescuola.it/convocazioni-supplenze-personale-ata-cosa-portare-con-se/",
-                "date": "21 Ago 2025",
-                "time": "10:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_1645535227.jpg"
-            },
-            {
-                "category": "ATA",
                 "title": "Graduatorie terza fascia ATA: non è compito dell’USP valutare le sentenze favorevoli, ma della scuola capofila",
                 "link": "https://www.orizzontescuola.it/graduatorie-terza-fascia-ata-non-e-compito-dellusp-valutare-le-sentenze-favorevoli-ma-della-scuola-capofila/",
                 "date": "16 Ago 2025",
@@ -643,6 +642,14 @@
                 "date": "8 Ago 2025",
                 "time": "16:28",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1508556191.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Immissioni in ruolo personale ATA 2025, tutto pronto per le domande. Possono partire le convocazioni. Controllare avvisi e turni",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-personale-ata-2025-tutto-pronto-per-le-domande-possono-partire-le-convocazioni-controllare-avvisi-e-turni/",
+                "date": "7 Ago 2025",
+                "time": "19:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2456756593.jpg"
             }
         ]
     },
