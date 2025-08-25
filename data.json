@@ -24,6 +24,54 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Diventare Insegnanti",
+                "title": "GPS docenti ripubblicate per le supplenze 2025/26 [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/gps-uffici-scolastici-iniziano-a-pubblicare-graduatorie-per-il-2025-26-in-aggiornamento/",
+                "date": "25 Ago 2025",
+                "time": "20:54",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_735971833.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Attenzione nei gruppi WhatsApp scolastici: la Cassazione stabilisce che pubblicare la foto profilo altrui senza consenso è reato, soprattutto se coinvolge immagini di minori",
+                "link": "https://www.orizzontescuola.it/attenzione-nei-gruppi-whatsapp-scolastici-la-cassazione-stabilisce-che-pubblicare-la-foto-profilo-altrui-senza-consenso-e-reato-soprattutto-se-coinvolge-immagini-di-minori/",
+                "date": "25 Ago 2025",
+                "time": "20:36",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1900580035-scaled.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Fisco e pensioni, la doppia rivoluzione del governo Meloni: pace fiscale selettiva e taglio tasse al ceto medio. Ecco quanto costa",
+                "link": "https://www.orizzontescuola.it/fisco-e-pensioni-la-doppia-rivoluzione-del-governo-meloni-pace-fiscale-selettiva-e-taglio-tasse-al-ceto-medio-ecco-quanto-costa/",
+                "date": "25 Ago 2025",
+                "time": "20:02",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/Governo.jpeg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Sostegno, posti in deroga o in organico di diritto? Come garantire diritto allo studio e reclutare i precari. SPECIALE con Pacifico (Anief) LIVE Mercoledì 27 agosto alle 16:00",
+                "link": "https://www.orizzontescuola.it/sostegno-posti-in-deroga-o-in-organico-di-diritto-come-garantire-diritto-allo-studio-e-reclutare-i-precari-speciale-con-pacifico-anief-live-mercoledi-27-agosto-alle-1600/",
+                "date": "25 Ago 2025",
+                "time": "19:45",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Template_dentroilpalazzo_1920x1080-1.png"
+            },
+            {
+                "category": "Studenti",
+                "title": "Inizio scuola 2025, dall’8 settembre si torna in classe: 7 milioni di studenti seguiranno le lezioni. Dall’Alto Adige alla Calabria, i dettagli",
+                "link": "https://www.orizzontescuola.it/inizio-scuola-2025-dall8-settembre-si-torna-in-classe-7-milioni-di-studenti-seguiranno-le-lezioni-dallalto-adige-alla-calabria-i-dettagli/",
+                "date": "25 Ago 2025",
+                "time": "19:27",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/prova-orale-concorso-scuola.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Schermi e infanzia: una ricerca internazionale su oltre 292mila bimbi rivela il pericoloso circolo vizioso che trasforma i dispositivi digitali in rifugi emotivi",
+                "link": "https://www.orizzontescuola.it/schermi-e-infanzia-una-ricerca-internazionale-su-oltre-292mila-bimbi-rivela-il-pericoloso-circolo-vizioso-che-trasforma-i-dispositivi-digitali-in-rifugi-emotivi/",
+                "date": "25 Ago 2025",
+                "time": "19:13",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/08/Alunni_Stranieri.jpg"
+            },
+            {
                 "category": "Scuole",
                 "title": "Privacy ed etica a scuola: guida completa per i dirigenti scolastici 2025",
                 "link": "https://www.orizzontescuola.it/privacy-ed-etica-a-scuola-guida-completa-per-i-dirigenti-scolastici-2025/",
@@ -38,14 +86,6 @@
                 "date": "25 Ago 2025",
                 "time": "14:59",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_1853707816-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "GPS docenti ripubblicate per le supplenze 2025/26 [AGGIORNATO con Catania e Milano]",
-                "link": "https://www.orizzontescuola.it/gps-uffici-scolastici-iniziano-a-pubblicare-graduatorie-per-il-2025-26-in-aggiornamento/",
-                "date": "25 Ago 2025",
-                "time": "14:05",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_735971833.jpg"
             },
             {
                 "category": "Diventare Insegnanti",
@@ -110,7 +150,12 @@
                 "date": "25 Ago 2025",
                 "time": "10:35",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/shutterstock_1482154430.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Docenti",
                 "title": "I buoni propositi dei docenti per il 2025/26: tanta passione ma sopravvivere alla burocrazia, pazienza zen e soprattutto “stop alle mansioni aggiuntive non retribuite”",
@@ -150,12 +195,7 @@
                 "date": "25 Ago 2025",
                 "time": "9:33",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2518506853.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "Nuova funzione SIDI per la gestione dell’abilitazione nei concorsi PNRR. Scarica la guida",
@@ -252,52 +292,52 @@
                 "time": "7:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_1523265968.jpg"
             },
-            null,
-            {
-                "category": "Scuole",
-                "title": "Adempimenti del dsga e della segreteria scolastica per i primi 90 giorni di avvio anno scolastico: contabilità, prese di servizio, profilature, organizzazione del personale docente e ATA",
-                "link": "https://www.orizzontescuola.it/adempimenti-del-dsga-e-della-segreteria-scolastica-per-i-primi-90-giorni-di-avvio-anno-scolastico-contabilita-prese-di-servizio-profilature-organizzazione-del-personale-docente-e-ata/",
-                "date": "25 Ago 2025",
-                "time": "7:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/6-Webinar-in-regalo.png"
-            },
-            {
-                "category": "Plus",
-                "title": "164 modelli di circolari e documenti per l’inizio anno scolastico: dalla sicurezza al piano annuale allo smartworking, al Piano Estate",
-                "link": "https://www.orizzontescuola.it/100-modelli-circolari-e-documenti-per-linizio-anno-scolastico-dalla-sicurezza-al-piano-annuale-2/",
-                "date": "25 Ago 2025",
-                "time": "6:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/100.png"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Assunto GPS 24/25: posso ripetere o svolgere l’anno di prova in altra scuola? Posso cambiare quella di assunzione? Posso chiedere assegnazione provvisoria?",
-                "link": "https://www.orizzontescuola.it/assunto-gps-24-25-posso-ripetere-lanno-di-prova-in-altra-scuola-posso-cambiare-quella-di-assunzione/",
-                "date": "24 Ago 2025",
-                "time": "18:18",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/mad-sostegno-2021-convocazioni.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Docenti neoassunti in ruolo non potranno partecipare alla conferma della supplenza su posto sostegno. Invito a ritirare la domanda",
-                "link": "https://www.orizzontescuola.it/docenti-neoassunti-in-ruolo-non-potranno-partecipare-alla-conferma-della-supplenza-su-posto-sostegno-invito-a-ritirare-la-domanda/",
-                "date": "24 Ago 2025",
-                "time": "16:23",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/come-aumentare-punteggio-gps-1.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Miglioramento cattedra orario esterna (COE): da chi e quando può essere chiesto",
-                "link": "https://www.orizzontescuola.it/miglioramento-cattedra-orario-esterna-coe-da-chi-e-quando-puo-essere-chiesto/",
-                "date": "24 Ago 2025",
-                "time": "16:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/10/london-1128803_1280-1200x780.jpg"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Aggressione brutale a Bassano del Grappa: in prognosi riservata docente di liceo accoltellato da un giovane per aver negato una sigaretta",
+                "link": "https://www.orizzontescuola.it/aggressione-brutale-a-bassano-del-grappa-docente-di-liceo-accoltellato-da-un-giovane-per-aver-negato-una-sigaretta/",
+                "date": "25 Ago 2025",
+                "time": "21:34",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Sport e scuola al centro delle politiche giovanili: la strategia del ministro Abodi per contrastare il degrado sociale",
+                "link": "https://www.orizzontescuola.it/sport-e-scuola-al-centro-delle-politiche-giovanili-la-strategia-del-ministro-abodi-per-contrastare-il-degrado-sociale/",
+                "date": "25 Ago 2025",
+                "time": "20:47",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Asili nido in Lombardia, l’opportunità dell’estate: quattro strutture su dieci sfidano agosto per aiutare le famiglie in difficoltà con innovativi servizi flessibili",
+                "link": "https://www.orizzontescuola.it/asili-nido-in-lombardia-la-sfida-dellestate-quattro-strutture-su-dieci-sfidano-agosto-per-aiutare-le-famiglie-in-difficolta-con-innovativi-servizi-flessibili/",
+                "date": "25 Ago 2025",
+                "time": "20:22",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Festività ebraiche 2026: pubblicato sulla Gazzetta Ufficiale il calendario delle celebrazioni religiose",
+                "link": "https://www.orizzontescuola.it/festivita-ebraiche-2026-pubblicato-sulla-gazzetta-ufficiale-il-calendario-delle-celebrazioni-religiose/",
+                "date": "25 Ago 2025",
+                "time": "19:03",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Supplenze, il sindacato Anief riassume le sanzioni per chi rinuncia. Rosano: “Dal 1° settembre probabile pubblicazione dei bollettini”",
+                "link": "https://www.orizzontescuola.it/supplenze-il-sindacato-anief-riassume-le-sanzioni-per-chi-rinuncia-rosano-dal-1-settembre-probabile-pubblicazione-dei-bollettini/",
+                "date": "25 Ago 2025",
+                "time": "18:58",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "“Educatrice chiama mio figlio senza cervello”, madre abbandona centro estivo: “YouTube e TikTok meglio di questi pseudo-educatori violenti”",
@@ -401,38 +441,28 @@
                 "date": "25 Ago 2025",
                 "time": "9:27",
                 "image_link": "N/A"
-            },
-            null,
-            {
-                "category": "Cronaca",
-                "title": "Crepet ai genitori: “Educate togliendo. Sottrarre è un gesto pedagogico”",
-                "link": "https://www.orizzontescuola.it/crepet-ai-genitori-educate-togliendo-sottrarre-e-un-gesto-pedagogico/",
-                "date": "24 Ago 2025",
-                "time": "8:29",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Studiare fuori casa è diventato un lusso per pochi”, l’intervento del capogruppo M5S Caso",
-                "link": "https://www.orizzontescuola.it/studiare-fuori-casa-e-diventato-un-lusso-per-pochi-lintervento-del-capogruppo-m5s-caso/",
-                "date": "23 Ago 2025",
-                "time": "18:00",
-                "image_link": "N/A"
-            },
-            null,
-            {
-                "category": "Cronaca",
-                "title": "L’Università italiana cambi rotta: “Futuro, Democrazia e Passione”",
-                "link": "https://www.orizzontescuola.it/luniversita-italiana-cambi-rotta-futuro-democrazia-e-passione/",
-                "date": "23 Ago 2025",
-                "time": "16:56",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Assunto GPS 24/25: posso ripetere o svolgere l’anno di prova in altra scuola? Posso cambiare quella di assunzione? Posso chiedere assegnazione provvisoria?",
+                "link": "https://www.orizzontescuola.it/assunto-gps-24-25-posso-ripetere-lanno-di-prova-in-altra-scuola-posso-cambiare-quella-di-assunzione/",
+                "date": "24 Ago 2025",
+                "time": "18:18",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Miglioramento cattedra orario esterna (COE): da chi e quando può essere chiesto",
+                "link": "https://www.orizzontescuola.it/miglioramento-cattedra-orario-esterna-coe-da-chi-e-quando-puo-essere-chiesto/",
+                "date": "24 Ago 2025",
+                "time": "16:00",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Assegnazioni provvisorie 25/26: quale doveva essere la prima preferenza per ricongiungimento. Conseguenze differenti per chi fruisce della deroga",
@@ -528,28 +558,20 @@
                 "date": "18 Ago 2025",
                 "time": "16:12",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Docenti neoimmessi in ruolo con decorrenza giuridica: quando parte il vincolo triennale?",
-                "link": "https://www.orizzontescuola.it/docenti-neoimmessi-in-ruolo-con-decorrenza-giuridica-quando-parte-il-vincolo-triennale/",
-                "date": "17 Ago 2025",
-                "time": "17:11",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Anno di prova: docente con passaggio di ruolo deve svolgerlo, a meno che non l’abbia già superato per lo stesso grado",
-                "link": "https://www.orizzontescuola.it/anno-di-prova-docente-con-passaggio-di-ruolo-deve-svolgerlo-a-meno-che-non-labbia-gia-superato-per-lo-stesso-grado/",
-                "date": "16 Ago 2025",
-                "time": "16:11",
-                "image_link": "N/A"
             }
         ]
     },
     "group_6": {
         "title": "Diventare Insegnanti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Continuità didattica sostegno, organico dovrà essere “perfetto” per assicurare nominabilità del docente nella FASE ZERO. Ulteriori istruzioni",
+                "link": "https://www.orizzontescuola.it/continuita-didattica-sostegno-organico-dovra-essere-perfetto-per-assicurare-nominabilita-del-docente-nella-fase-zero-ulteriori-istruzioni/",
+                "date": "22 Ago 2025",
+                "time": "15:33",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_1070096513.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Vincitori concorso PNRR1 assunti a tempo determinato 2024/25, che hanno conseguito l’abilitazione: come avviene trasformazione contratto. ISTRUZIONI",
@@ -589,14 +611,6 @@
                 "date": "22 Ago 2025",
                 "time": "8:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1349362136.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Docente con incarico per il ruolo 24/25: ho accettato nuova nomina ma vorrei tornare indietro. Si può?",
-                "link": "https://www.orizzontescuola.it/docente-con-incarico-per-il-ruolo-24-25-ho-accettato-nuova-nomina-ma-vorrei-tornare-indietro-si-puo/",
-                "date": "21 Ago 2025",
-                "time": "15:27",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/09/shutterstock_1240130032.jpg"
             }
         ]
     },
