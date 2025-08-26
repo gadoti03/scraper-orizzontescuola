@@ -24,12 +24,20 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
-                "category": "ATA",
-                "title": "Immissioni in ruolo ATA, a che punto siamo? Gli ultimi aggiornamenti. QUESTION TIME con Sorrentino (Anief) LIVE Martedì 26 agosto alle 15:00",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-ata-a-che-punto-siamo-gli-ultimi-aggiornamenti-question-time-con-sorrentino-anief-live-martedi-26-agosto-alle-1500/",
+                "category": "Guide",
+                "title": "Formazione volontaria incentivata dei docenti annualità 2024/25: quali sono i compensi, quando arriveranno, saranno per tutti?",
+                "link": "https://www.orizzontescuola.it/formazione-volontaria-incentivata-dei-docenti-annualita-2024-25-quali-sono-i-compensi-quando-arriveranno-saranno-per-tutti/",
                 "date": "26 Ago 2025",
-                "time": "14:45",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Template_questiontime_1920x1080-14.png"
+                "time": "18:08",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1936676008-scaled.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Codice di comportamento nella scuola: le regole che ogni docente e ATA deve conoscere tra obblighi, divieti e rapporti con famiglie per garantire imparzialità, trasparenza e qualità del servizio",
+                "link": "https://www.orizzontescuola.it/codice-di-comportamento-nella-scuola-le-regole-che-ogni-docente-e-ata-deve-conoscere-tra-obblighi-divieti-e-rapporti-con-famiglie-per-garantire-imparzialita-trasparenza-e-qualita-del-servizio/",
+                "date": "26 Ago 2025",
+                "time": "15:45",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1757167814-scaled.jpg"
             },
             {
                 "category": "Politica scolastica",
@@ -142,7 +150,12 @@
                 "date": "26 Ago 2025",
                 "time": "10:41",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_1010594458-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze docenti 2025/26, continuità sostegno e primo bollettino entro il 31 agosto. RISPOSTE AI QUESITI",
@@ -150,12 +163,7 @@
                 "date": "26 Ago 2025",
                 "time": "10:37",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2176731709.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Stop agli smartphone nelle scuole superiori, istituti chiamati a fissare sanzioni, gestire emergenze e decidere se introdurre depositi sicuri",
@@ -256,20 +264,36 @@
                 "date": "25 Ago 2025",
                 "time": "14:59",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_1853707816-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Assegnazioni provvisorie docenti 2025/26: possibili ancora rettifiche e integrazioni ma disponibilità sopravvenute dopo il 22 agosto vanno alle supplenze dei precari",
-                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-docenti-2025-26-disponibilita-sopravvenute-dopo-il-22-agosto-vanno-alle-supplenze-dei-precari/",
-                "date": "25 Ago 2025",
-                "time": "14:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2142727347.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Pensioni, crollano le uscite flessibili nel 2024: ridimensionata opzione donna, in aumento lavori usuranti",
+                "link": "https://www.orizzontescuola.it/pensioni-crollano-le-uscite-flessibili-nel-2024-ridimensionata-opzione-donna-in-aumento-lavori-usuranti/",
+                "date": "26 Ago 2025",
+                "time": "15:28",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "In 5 anni i laureati non basteranno a coprire le richieste di lavoro delle imprese: ingegneri, statistici, medici e infermieri tra le professioni più ricercate",
+                "link": "https://www.orizzontescuola.it/in-5-anni-i-laureati-on-basteranno-a-coprire-le-richieste-di-lavoro-delle-imprese-ingegneri-statistici-medici-e-infermieri-tra-le-professioni-piu-ricercate/",
+                "date": "26 Ago 2025",
+                "time": "15:24",
+                "image_link": "N/A"
+            },
+            {
+                "category": "ATA",
+                "title": "Immissioni in ruolo ATA, a che punto siamo? Gli ultimi aggiornamenti. QUESTION TIME con Sorrentino (Anief)",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-ata-a-che-punto-siamo-gli-ultimi-aggiornamenti-question-time-con-sorrentino-anief-live-martedi-26-agosto-alle-1500/",
+                "date": "26 Ago 2025",
+                "time": "14:45",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Professore accoltellato a Bassano del Grappa, fermato un giovane con problemi psichiatrici",
@@ -312,7 +336,7 @@
             },
             {
                 "category": "Cronaca",
-                "title": "Un adolescente su 7 sviluppa un disturbo mentale per un totale di 166milioni, in età adulta causa di riduzione del reddito fino al 10%",
+                "title": "Un adolescente su 7 sviluppa un disturbo mentale per un totale di 166 milioni, in età adulta causa di riduzione del reddito fino al 10%",
                 "link": "https://www.orizzontescuola.it/un-adolescente-su-7-sviluppa-un-disturbo-mentale-per-un-totale-di-166milioni-in-eta-adulta-causa-di-riduzione-del-reddito-fino-al-10/",
                 "date": "26 Ago 2025",
                 "time": "8:24",
@@ -388,30 +412,6 @@
                 "link": "https://www.orizzontescuola.it/supplenze-il-sindacato-anief-riassume-le-sanzioni-per-chi-rinuncia-rosano-dal-1-settembre-probabile-pubblicazione-dei-bollettini/",
                 "date": "25 Ago 2025",
                 "time": "18:58",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Educatrice chiama mio figlio senza cervello”, madre abbandona centro estivo: “YouTube e TikTok meglio di questi pseudo-educatori violenti”",
-                "link": "https://www.orizzontescuola.it/educatrice-chiama-mio-figlio-senza-cervello-madre-abbandona-centro-estivo-youtube-e-tiktok-meglio-di-questi-pseudo-educatori-violenti/",
-                "date": "25 Ago 2025",
-                "time": "16:53",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "La scuola precaria riparte a settembre, Anief chiede la riforma del reclutamento e la fine della supplentite dopo il Pnrr",
-                "link": "https://www.orizzontescuola.it/la-scuola-precaria-riparte-a-settembre-anief-chiede-la-riforma-del-reclutamento-e-la-fine-della-supplentite-dopo-il-pnrr/",
-                "date": "25 Ago 2025",
-                "time": "16:08",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Tar del Lazio, nuove pronunce contro il piano di dimensionamento regionale",
-                "link": "https://www.orizzontescuola.it/tar-del-lazio-nuove-pronunce-contro-il-piano-scolastico-regionale/",
-                "date": "25 Ago 2025",
-                "time": "15:18",
                 "image_link": "N/A"
             }
         ]
