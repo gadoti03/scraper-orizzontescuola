@@ -25,11 +25,35 @@
         "articles": [
             {
                 "category": "Chiedilo a Lalla",
-                "title": "Supplenze, immissioni in ruolo e non solo: cosa sappiamo finora. QUESTION TIME con Vannini (Uil Scuola) LIVE Mercoledì 27 agosto alle 14:30",
-                "link": "https://www.orizzontescuola.it/supplenze-immissioni-in-ruolo-e-non-solo-cosa-sappiamo-finora-question-time-con-vannini-uil-scuola-live-mercoledi-27-agosto-alle-1430/",
+                "title": "Supplenze GPS, tra bollettini e algoritmo: cresce l’attesa per i docenti precari. QUESTION TIME con Cozzetto (Anief) LIVE Giovedì 28 agosto alle 15:30",
+                "link": "https://www.orizzontescuola.it/supplenze-gps-tra-bollettini-e-algoritmo-cresce-lattesa-per-i-docenti-precari-question-time-con-cozzetto-anief-live-giovedi-28-agosto-alle-1530/",
                 "date": "27 Ago 2025",
-                "time": "13:56",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Template_questiontime_1920x1080-15.png"
+                "time": "17:38",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Template_questiontime_1920x1080-16.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26, attesa per la fase zero e il primo bollettino entro il 31 agosto. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-26-attesa-per-la-fase-zero-e-il-primo-bollettino-entro-il-31-agosto-risposte-ai-quesiti/",
+                "date": "27 Ago 2025",
+                "time": "16:29",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_594891590.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Posti vacanti DSGA 2025/26: ecco gli INTERPELLI aperti",
+                "link": "https://www.orizzontescuola.it/posti-vacanti-dsga-2025-26-ecco-gli-interpelli-aperti/",
+                "date": "27 Ago 2025",
+                "time": "15:51",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Modello-immagine-sito-12.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "GPS docenti ripubblicate per le supplenze 2025/26 [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/gps-uffici-scolastici-iniziano-a-pubblicare-graduatorie-per-il-2025-26-in-aggiornamento/",
+                "date": "27 Ago 2025",
+                "time": "15:37",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_735971833.jpg"
             },
             {
                 "category": "Politica scolastica",
@@ -88,14 +112,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/05/shutterstock_432822817.jpg"
             },
             {
-                "category": "Politica scolastica",
-                "title": "Sostegno, posti in deroga o in organico di diritto? Come garantire diritto allo studio e reclutare i precari. SPECIALE con Pacifico (Anief) LIVE Mercoledì 27 agosto alle 16:00",
-                "link": "https://www.orizzontescuola.it/sostegno-posti-in-deroga-o-in-organico-di-diritto-come-garantire-diritto-allo-studio-e-reclutare-i-precari-speciale-con-pacifico-anief-live-mercoledi-27-agosto-alle-1600/",
-                "date": "27 Ago 2025",
-                "time": "10:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Template_dentroilpalazzo_1920x1080-1.png"
-            },
-            {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze 2025/26: i docenti temono rettifiche alle immissioni in ruolo, avranno ritirato la domanda delle max 150 preferenze?",
                 "link": "https://www.orizzontescuola.it/supplenze-2025-25-i-docenti-temono-rettifiche-alle-immissioni-in-ruolo-avranno-ritirato-la-domanda-delle-max-150-preferenze/",
@@ -134,7 +150,12 @@
                 "date": "27 Ago 2025",
                 "time": "8:27",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/shutterstock_85522261.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Stop ai cellulari in classe alle superiori, una dirigente: “Con le prime abbiamo avuto grossi problemi. Spenderemo 2-3 mila euro per le cassette”",
@@ -150,12 +171,7 @@
                 "date": "27 Ago 2025",
                 "time": "8:11",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_163768811.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "ATA",
                 "title": "Personale ATA: quando usciranno le assegnazioni? Possibile lavorare da allegato G? Servizio nazionale dà riserva? Come funzionano le convocazioni? Le risposte ai vostri quesiti",
@@ -174,14 +190,6 @@
             },
             null,
             null,
-            {
-                "category": "Diventare Insegnanti",
-                "title": "GPS docenti ripubblicate per le supplenze 2025/26 [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/gps-uffici-scolastici-iniziano-a-pubblicare-graduatorie-per-il-2025-26-in-aggiornamento/",
-                "date": "26 Ago 2025",
-                "time": "21:37",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_735971833.jpg"
-            },
             {
                 "category": "Studenti",
                 "title": "Debiti formativi, Solo l’8% dei rimandati non supera l’esame, ma il 17,8% degli studenti è sospeso in giudizio e nel Nord Italia le percentuali volano sopra il 23%. Tutte le cifre",
@@ -277,20 +285,85 @@
                 "date": "26 Ago 2025",
                 "time": "11:47",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2487342921-scaled.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Anno di prova docenti neoassunti e con passaggio ruolo: non si ripete nello stesso grado di istruzione. Sì alle supplenze",
-                "link": "https://www.orizzontescuola.it/anno-di-prova-docenti-neoassunti-e-con-passaggio-ruolo-non-si-ripete-nello-stesso-grado-di-istruzione-si-alle-supplenze/",
-                "date": "26 Ago 2025",
-                "time": "11:35",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/download-2-1.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Un universitario su quattro lascia la propria regione: 1,6 milioni di studenti, 401mila fuorisede. Basilicata perde 7 giovani su 10, Lazio ne trattiene il 91% grazie a Roma",
+                "link": "https://www.orizzontescuola.it/un-universitario-su-quattro-lascia-la-propria-regione-16-milioni-di-studenti-401mila-fuorisede-basilicata-perde-7-giovani-su-10-lazio-ne-trattiene-il-91-grazie-a-roma/",
+                "date": "27 Ago 2025",
+                "time": "16:54",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Sparatoria in una scuola cattolica a Minneapolis: molte vittime",
+                "link": "https://www.orizzontescuola.it/tragedia-alla-scuola-cattolica-di-minneapolis-un-morto-e-sei-feriti-in-un-episodio-di-violenza-armata/",
+                "date": "27 Ago 2025",
+                "time": "16:47",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "L’Italia ultima in Europa per investimenti scolastici, Manzi (PD): “I dati Ue smentiscono la retorica governativa”",
+                "link": "https://www.orizzontescuola.it/litalia-ultima-in-europa-per-investimenti-scolastici-manzi-pd-i-dati-ue-smentiscono-la-retorica-governativa/",
+                "date": "27 Ago 2025",
+                "time": "16:41",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Immissioni in ruolo docenti 2025/26, posti accantonati per concorso PNRR2 ancora da concludere [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2025-26-ecco-la-suddivisione-per-classe-di-concorso-in-ogni-regione-e-accantonamenti-pnrr2/",
+                "date": "27 Ago 2025",
+                "time": "16:33",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26, interpello per A017 Scuola Navale Militare Francesco Morosini di Venezia",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-26-interpello-per-a017-scuola-navale-militare-francesco-morosini-di-venezia/",
+                "date": "27 Ago 2025",
+                "time": "15:58",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Degrado e abbandono, cinque bambini trovati in casa con dodici cani a Latina. Il Garante dell’Infanzia: “Violati i diritti fondamentali dei minori”",
+                "link": "https://www.orizzontescuola.it/degrado-e-abbandono-cinque-bambini-trovati-in-casa-con-dodici-cani-a-latina-il-garante-dellinfanzia-violati-i-diritti-fondamentali-dei-minori/",
+                "date": "27 Ago 2025",
+                "time": "15:54",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Continuità didattica, Corlazzoli attacca Valditara: “La scuola non è un supermercato, agli alunni con disabilità servono specialisti, non precari carini che piacciono ai genitori”",
+                "link": "https://www.orizzontescuola.it/continuita-didattica-corlazzoli-attacca-valditara-la-scuola-non-e-un-supermercato-agli-alunni-con-disabilita-servono-specialisti-non-precari-carini-che-piacciono-ai-genitori/",
+                "date": "27 Ago 2025",
+                "time": "15:47",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Sostegno, posti in deroga o in organico di diritto? Come garantire diritto allo studio e reclutare i precari. SPECIALE con Pacifico (Anief)",
+                "link": "https://www.orizzontescuola.it/sostegno-posti-in-deroga-o-in-organico-di-diritto-come-garantire-diritto-allo-studio-e-reclutare-i-precari-speciale-con-pacifico-anief-live-mercoledi-27-agosto-alle-1600/",
+                "date": "27 Ago 2025",
+                "time": "15:22",
+                "image_link": "N/A"
+            },
+            null,
+            {
+                "category": "Cronaca",
+                "title": "Andrea Maggi: “Gli insegnanti di oggi non hanno cultura, dispiace dirlo. La scuola è morta sotto le carte burocratiche e i voti sono tabù”",
+                "link": "https://www.orizzontescuola.it/andrea-maggi-gli-insegnanti-di-oggi-non-hanno-cultura-dispiace-dirlo-la-scuola-e-morta-sotto-le-carte-burocratiche-e-i-voti-sono-tabu/",
+                "date": "27 Ago 2025",
+                "time": "14:44",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Pari opportunità STEM, Pisa tra gli atenei finanziati per la didattica scientifica",
@@ -300,11 +373,11 @@
                 "image_link": "N/A"
             },
             {
-                "category": "Cronaca",
-                "title": "Andrea Maggi: “Gli insegnanti di oggi non hanno cultura, dispiace dirlo. La scuola è morta sotto le carte burocratiche e i voti sono tabù”",
-                "link": "https://www.orizzontescuola.it/andrea-maggi-gli-insegnanti-di-oggi-non-hanno-cultura-dispiace-dirlo-la-scuola-e-morta-sotto-le-carte-burocratiche-e-i-voti-sono-tabu/",
+                "category": "Chiedilo a Lalla",
+                "title": "Supplenze, immissioni in ruolo e non solo: cosa sappiamo finora. QUESTION TIME con Vannini (Uil Scuola)",
+                "link": "https://www.orizzontescuola.it/supplenze-immissioni-in-ruolo-e-non-solo-cosa-sappiamo-finora-question-time-con-vannini-uil-scuola-live-mercoledi-27-agosto-alle-1430/",
                 "date": "27 Ago 2025",
-                "time": "14:28",
+                "time": "13:56",
                 "image_link": "N/A"
             },
             {
@@ -347,92 +420,20 @@
                 "date": "27 Ago 2025",
                 "time": "10:59",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Immissioni in ruolo docenti e ATA, Pacifico (Anief): “Due pesi e due misure sugli altari del risparmio”",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-e-ata-pacifico-anief-due-pesi-e-due-misure-sugli-altari-del-risparmio/",
-                "date": "27 Ago 2025",
-                "time": "10:47",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Manovra 2025, flat tax e pace fiscale al centro della strategia governativa. Salvini conferma: “Quello che si aspettano milioni di italiani”",
-                "link": "https://www.orizzontescuola.it/manovra-2025-flat-tax-e-pace-fiscale-al-centro-della-strategia-governativa-salvini-conferma-quello-che-si-aspettano-milioni-di-italiani/",
-                "date": "27 Ago 2025",
-                "time": "10:16",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Studenti fuorisede, affitti fino a 750 euro al mese e spesso in ambienti non adeguati",
-                "link": "https://www.orizzontescuola.it/studenti-fuorisede-affitti-fino-a-750-euro-al-mese-e-spesso-in-ambienti-non-adeguati/",
-                "date": "27 Ago 2025",
-                "time": "9:48",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Causa contro OpenAI: genitori accusano ChatGpt di aver spinto il figlio al suicidio",
-                "link": "https://www.orizzontescuola.it/causa-contro-openai-genitori-accusano-chatgpt-di-aver-spinto-il-figlio-al-suicidio/",
-                "date": "27 Ago 2025",
-                "time": "7:39",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Immissioni in ruolo docenti 2025/26, posti accantonati per concorso PNRR2 ancora da concludere [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2025-26-ecco-la-suddivisione-per-classe-di-concorso-in-ogni-regione-e-accantonamenti-pnrr2/",
-                "date": "27 Ago 2025",
-                "time": "6:43",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Dentro il corpo dei bambini: come il grasso “nascosto” nella pancia può influenzare ansia e umore, e perché più muscoli e più movimento sembrano diventare uno scudo fin dalla scuola primaria",
-                "link": "https://www.orizzontescuola.it/dentro-il-corpo-dei-bambini-come-il-grasso-nascosto-nella-pancia-puo-influenzare-ansia-e-umore-e-perche-piu-muscoli-e-piu-movimento-sembrano-diventare-uno-scudo-fin-dalla-scuola-primaria/",
-                "date": "26 Ago 2025",
-                "time": "20:29",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Carta docente, bonus riconosciuto ai supplenti con sentenza, il Mim indica le tempistiche entro le quali è possibile spendere la cifra. Pacifico (Anief): “Sempre al fianco dei precari”",
-                "link": "https://www.orizzontescuola.it/carta-docente-bonus-riconosciuto-ai-supplenti-con-sentenza-il-mim-indica-le-tempistiche-entro-le-quali-e-possibile-spendere-la-cifra-pacifico-anief-sempre-al-fianco-dei-precari/",
-                "date": "26 Ago 2025",
-                "time": "19:17",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Pensioni, crollano le uscite flessibili nel 2024: ridimensionata opzione donna, in aumento lavori usuranti",
-                "link": "https://www.orizzontescuola.it/pensioni-crollano-le-uscite-flessibili-nel-2024-ridimensionata-opzione-donna-in-aumento-lavori-usuranti/",
-                "date": "26 Ago 2025",
-                "time": "15:28",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "In 5 anni i laureati non basteranno a coprire le richieste di lavoro delle imprese: ingegneri, statistici, medici e infermieri tra le professioni più ricercate",
-                "link": "https://www.orizzontescuola.it/in-5-anni-i-laureati-on-basteranno-a-coprire-le-richieste-di-lavoro-delle-imprese-ingegneri-statistici-medici-e-infermieri-tra-le-professioni-piu-ricercate/",
-                "date": "26 Ago 2025",
-                "time": "15:24",
-                "image_link": "N/A"
-            },
-            {
-                "category": "ATA",
-                "title": "Immissioni in ruolo ATA, a che punto siamo? Gli ultimi aggiornamenti. QUESTION TIME con Sorrentino (Anief)",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-ata-a-che-punto-siamo-gli-ultimi-aggiornamenti-question-time-con-sorrentino-anief-live-martedi-26-agosto-alle-1500/",
-                "date": "26 Ago 2025",
-                "time": "14:45",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Anno di prova docenti neoassunti e con passaggio ruolo: non si ripete nello stesso grado di istruzione. Sì alle supplenze",
+                "link": "https://www.orizzontescuola.it/anno-di-prova-docenti-neoassunti-e-con-passaggio-ruolo-non-si-ripete-nello-stesso-grado-di-istruzione-si-alle-supplenze/",
+                "date": "26 Ago 2025",
+                "time": "11:35",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Assegnazioni provvisorie docenti 25/26: dubbi sulle operazioni. Priorità va al comune di ricongiungimento?",
@@ -535,14 +536,6 @@
                 "link": "https://www.orizzontescuola.it/cancellazione-graduatorie-docenti-ruolo-non-dovrebbe-interessare-gm-di-concorsi-successivi/",
                 "date": "19 Ago 2025",
                 "time": "18:32",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Nuova immissione in ruolo su sostegno: vincolo quinquennale ricomincia? E la domanda di assegnazione presentata? Posso accettare una supplenza?",
-                "link": "https://www.orizzontescuola.it/nuova-immissione-in-ruolo-su-sostegno-vincolo-quinquennale-ricomincia-e-la-domanda-di-assegnazione-presentata-posso-accettare-una-supplenza/",
-                "date": "19 Ago 2025",
-                "time": "16:12",
                 "image_link": "N/A"
             }
         ]
