@@ -24,6 +24,70 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Diventare Insegnanti",
+                "title": "Corsi Indire, Collettivo docenti di sostegno: “indeboliscono la qualità dell’insegnamento. Rivedere le modalità di verifica”",
+                "link": "https://www.orizzontescuola.it/corsi-indire-collettivo-docenti-di-sostegno-indeboliscono-la-qualita-dellinsegnamento-rivedere-le-modalita-di-verifica/",
+                "date": "28 Ago 2025",
+                "time": "14:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_2281563893.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Nuove Graduatorie terza fascia ATA, ecco le date di pubblicazione dopo verifica CIAD. Tempistica per provincia [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/graduatorie-terza-fascia-ata-aggiornate-la-riformulazione-entro-lestate-scuole-allopera-per-la-verifica-delle-ciad/",
+                "date": "28 Ago 2025",
+                "time": "14:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1863569833-scaled.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Supplenze GPS, tra bollettini e algoritmo: cresce l’attesa per i docenti precari. QUESTION TIME con Cozzetto (Anief) LIVE Giovedì 28 agosto alle 15:30",
+                "link": "https://www.orizzontescuola.it/supplenze-gps-tra-bollettini-e-algoritmo-cresce-lattesa-per-i-docenti-precari-question-time-con-cozzetto-anief-live-giovedi-28-agosto-alle-1530/",
+                "date": "28 Ago 2025",
+                "time": "13:43",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Template_questiontime_1920x1080-16.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "GPS, dopo sentenza CLIL è necessaria l’autodenuncia per la decurtazione dei 3 punti? Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/gps-dopo-sentenza-clil-e-necessaria-lautodenuncia-per-la-decurtazione-dei-3-punti-pillole-di-question-time/",
+                "date": "28 Ago 2025",
+                "time": "12:23",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2487342921-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Carta docente 500 euro, per i docenti di ruolo il 31 agosto 2025 scade il bonus del 2023/24",
+                "link": "https://www.orizzontescuola.it/carta-docente-500-euro-per-i-docenti-di-ruolo-il-31-agosto-2025-scade-il-bonus-del-2023-24/",
+                "date": "28 Ago 2025",
+                "time": "11:26",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/12/money-1632055_1280-1200x797.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: ecco i posti disponibili per GaE e GPS [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-26-ecco-i-posti-disponibili-per-le-nomine-al-31-agosto-o-30-giugno-con-lalgoritmo-in-aggiornamento/",
+                "date": "28 Ago 2025",
+                "time": "11:18",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_163768811.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze 2025/26, ecco elenchi dei docenti confermati su posto sostegno [IN AGGIORNAMENTO]",
+                "link": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
+                "date": "28 Ago 2025",
+                "time": "11:17",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/tfa-sostegno-IX-ciclo.png"
+            },
+            {
+                "category": "ATA",
+                "title": "Posti vacanti DSGA 2025/26: ecco gli INTERPELLI aperti",
+                "link": "https://www.orizzontescuola.it/posti-vacanti-dsga-2025-26-ecco-gli-interpelli-aperti/",
+                "date": "28 Ago 2025",
+                "time": "11:08",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Modello-immagine-sito-12.png"
+            },
+            {
                 "category": "Docenti",
                 "title": "Stipendio settembre 2025, dovrebbe arrivare anche il cedolino per il pagamento dei compensi ai docenti coordinatori, funzioni strumentali, tutor…",
                 "link": "https://www.orizzontescuola.it/stipendio-settembre-2025-dovrebbe-arrivare-anche-il-cedolino-per-il-pagamento-dei-compensi-ai-docenti-coordinatori-funzioni-strumentali-tutor/",
@@ -86,7 +150,12 @@
                 "date": "28 Ago 2025",
                 "time": "8:25",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_448000054-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Il documento di e-policy: il contenuto, cosa deve fare il Dirigente",
@@ -107,34 +176,13 @@
             },
             null,
             {
-                "category": "Chiedilo a Lalla",
-                "title": "Supplenze GPS, tra bollettini e algoritmo: cresce l’attesa per i docenti precari. QUESTION TIME con Cozzetto (Anief) LIVE Giovedì 28 agosto alle 15:30",
-                "link": "https://www.orizzontescuola.it/supplenze-gps-tra-bollettini-e-algoritmo-cresce-lattesa-per-i-docenti-precari-question-time-con-cozzetto-anief-live-giovedi-28-agosto-alle-1530/",
-                "date": "28 Ago 2025",
-                "time": "6:38",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Template_questiontime_1920x1080-16.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: ecco i posti disponibili per GaE e GPS [AGGIORNATO con Roma, conferma docenti di sostegno il 28 agosto]",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-26-ecco-i-posti-disponibili-per-le-nomine-al-31-agosto-o-30-giugno-con-lalgoritmo-in-aggiornamento/",
-                "date": "27 Ago 2025",
-                "time": "21:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_163768811.jpg"
-            },
-            {
                 "category": "Cronaca",
                 "title": "Se il figlio pubblica un video offensivo con lo smartphone, a pagare sono i genitori: una sentenza esemplare spiega perché educare i propri figli all’uso del digitale è ormai obbligo giuridico, oltre che morale",
                 "link": "https://www.orizzontescuola.it/se-il-figlio-pubblica-un-video-offensivo-con-lo-smartphone-a-pagare-sono-i-genitori-una-sentenza-esemplare-spiega-perche-educare-i-propri-figli-alluso-del-digitale-e-ormai-obbligo-giuridico-oltre/",
                 "date": "27 Ago 2025",
                 "time": "21:36",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2543212665.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Sostegno, oltre 100mila cattedre in deroga da trasformare entro il 2028. Svolta in arrivo? Pacifico (Anief): “Diritti uguali per tutti i docenti, non si può fare cassa sui precari”",
@@ -174,14 +222,6 @@
                 "date": "27 Ago 2025",
                 "time": "16:29",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_594891590.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Posti vacanti DSGA 2025/26: ecco gli INTERPELLI aperti",
-                "link": "https://www.orizzontescuola.it/posti-vacanti-dsga-2025-26-ecco-gli-interpelli-aperti/",
-                "date": "27 Ago 2025",
-                "time": "15:51",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Modello-immagine-sito-12.png"
             },
             {
                 "category": "Diventare Insegnanti",
@@ -238,52 +278,84 @@
                 "date": "27 Ago 2025",
                 "time": "11:02",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/04/seminario-matematica-invalsi.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "Musei: ecco tutte le agevolazioni per giovani, studenti e scolaresche",
-                "link": "https://www.orizzontescuola.it/musei-tutte-le-agevolazioni-per-giovani-studenti-e-scolaresche/",
-                "date": "27 Ago 2025",
-                "time": "11:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/05/shutterstock_432822817.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze 2025/26: i docenti temono rettifiche alle immissioni in ruolo, avranno ritirato la domanda delle max 150 preferenze?",
-                "link": "https://www.orizzontescuola.it/supplenze-2025-25-i-docenti-temono-rettifiche-alle-immissioni-in-ruolo-avranno-ritirato-la-domanda-delle-max-150-preferenze/",
-                "date": "27 Ago 2025",
-                "time": "9:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_2066856038.jpg"
-            },
-            {
-                "category": "Didattica",
-                "title": "Parliamo di Guerra con De Andrè, i suoi “papaveri rossi” e il parallelismo con le “foglio in autunno”. Insegnare usando le canzoni",
-                "link": "https://www.orizzontescuola.it/parliamo-di-guerra-con-de-andre-i-suoi-papaveri-rossi-e-il-parallelismo-con-le-foglio-in-autunno-insegnare-usando-le-canzoni/",
-                "date": "27 Ago 2025",
-                "time": "9:36",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/shutterstock_2427716947.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Due studentesse denunciano molestie, la dirigente non segnala e viene sospesa due mesi dal servizio (senza stipendio). Fa ricorso, ma lo perde. Cosa hanno detto i giudici",
-                "link": "https://www.orizzontescuola.it/due-studentesse-denunciano-molestie-la-dirigente-non-segnala-e-viene-sospesa-due-mesi-dal-servizio-senza-stipendio-fa-ricorso-ma-lo-perde-cosa-hanno-detto-i-giudici/",
-                "date": "27 Ago 2025",
-                "time": "8:49",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/06/shutterstock_1890232807.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "ITS Academy: la formazione terziaria professionalizzante per il futuro del lavoro: l’esperienza della Fondazione ITS Emporium del Golfo",
-                "link": "https://www.orizzontescuola.it/its-academy-la-formazione-terziaria-professionalizzante-per-il-futuro-del-lavoro-lesperienza-della-fondazione-its-emporium-del-golfo/",
-                "date": "27 Ago 2025",
-                "time": "8:27",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/shutterstock_85522261.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Psicologo a scuola, tra fondi nazionali e reti locali: come cambiano ascolto, prevenzione e presa in carico dagli sportelli alle équipe territoriali integrate",
+                "link": "https://www.orizzontescuola.it/psicologo-a-scuola-tra-fondi-nazionali-e-reti-locali-come-cambiano-ascolto-prevenzione-e-presa-in-carico-dagli-sportelli-alle-equipe-territoriali-integrate/",
+                "date": "28 Ago 2025",
+                "time": "13:42",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“Nessuno insegna la salute a scuola”, il nuovo appello di Silvio Garattini: “Un’ora alla settimana a partire della scuola primaria”",
+                "link": "https://www.orizzontescuola.it/nessuno-insegna-la-salute-a-scuola-il-nuovo-appello-di-silvio-garattini-unora-alla-settimana-a-partire-della-scuola-primaria/",
+                "date": "28 Ago 2025",
+                "time": "13:30",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Acquistare casa, un traguardo da “tre vite” per i giovani: tempi record al Nord, Sud frenato dai redditi. I dati",
+                "link": "https://www.orizzontescuola.it/acquistare-casa-un-traguardo-da-tre-vite-per-i-giovani-tempi-record-al-nord-sud-frenato-dai-redditi-i-dati/",
+                "date": "28 Ago 2025",
+                "time": "12:52",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Foto rubate e commenti sessisti: chiude il forum hot nel mirino. Educazione e prevenzione: la sfida oltre le denunce",
+                "link": "https://www.orizzontescuola.it/revenge-porn-e-sessismo-digitale-lindagine-si-allarga-politici-e-istituzioni-invocano-risposte-forti-e-rilanciano-il-dibattito-sulleducazione-digitale/",
+                "date": "28 Ago 2025",
+                "time": "11:51",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Frassinetti rilancia la sfida di Meloni: “La scuola che vogliamo è fatta di libertà, identità e merito”",
+                "link": "https://www.orizzontescuola.it/frassinetti-rilancia-la-sfida-della-meloni-la-scuola-che-vogliamo-e-fatta-di-liberta-identita-e-merito/",
+                "date": "28 Ago 2025",
+                "time": "11:43",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Aggressione a una bambina di 11 anni a Foligno: indagano i Carabinieri, appello della madre e richiesta di intervento politico",
+                "link": "https://www.orizzontescuola.it/aggressione-a-una-bambina-di-11-anni-a-foligno-indagano-i-carabinieri-appello-della-madre-e-richiesta-di-intervento-politico/",
+                "date": "28 Ago 2025",
+                "time": "11:11",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Immissioni in ruolo docenti 2025/26, posti accantonati per concorso PNRR2 ancora da concludere [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2025-26-ecco-la-suddivisione-per-classe-di-concorso-in-ogni-regione-e-accantonamenti-pnrr2/",
+                "date": "28 Ago 2025",
+                "time": "11:04",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Castellana (Gilda) contro i fondi alle paritarie: “Diritto allo studio garantito solo dalla scuola pubblica statale”",
+                "link": "https://www.orizzontescuola.it/castellana-gilda-contro-i-fondi-alle-paritarie-diritto-allo-studio-garantito-solo-dalla-scuola-pubblica-statale/",
+                "date": "28 Ago 2025",
+                "time": "10:48",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Crepet: “Challege, deepfake, ragazze che odiano il proprio corpo. Veleni mentali, preoccupato per la condizione giovanile”",
+                "link": "https://www.orizzontescuola.it/crepet-challege-deepfake-ragazze-che-odiano-il-proprio-corpo-veleni-mentali-preoccupato-per-la-condizione-giovanile/",
+                "date": "28 Ago 2025",
+                "time": "10:36",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "In Svizzera problemi con l’insegnamento della lingua italiana. Gli esperti: “Non sempre percepita come utile, studiata per uso ricreativo e non professionale”",
@@ -354,78 +426,6 @@
                 "link": "https://www.orizzontescuola.it/foto-rubate-e-commenti-osceni-tre-esponenti-pd-denunciano-il-forum-phica-dal-branco-digitale-alle-denunce-lurgenza-di-educazione-al-consenso-e-cooperazione-con-le-autorita/",
                 "date": "27 Ago 2025",
                 "time": "19:34",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Scuole aperte a Roma anche oltre l’orario: 164 istituti coinvolti nel nuovo bando biennale",
-                "link": "https://www.orizzontescuola.it/scuole-aperte-a-roma-anche-oltre-lorario-164-istituti-coinvolti-nel-nuovo-bando-biennale/",
-                "date": "27 Ago 2025",
-                "time": "19:29",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Un universitario su quattro lascia la propria regione: 1,6 milioni di studenti, 401mila fuorisede. Basilicata perde 7 giovani su 10, Lazio ne trattiene il 91% grazie a Roma",
-                "link": "https://www.orizzontescuola.it/un-universitario-su-quattro-lascia-la-propria-regione-16-milioni-di-studenti-401mila-fuorisede-basilicata-perde-7-giovani-su-10-lazio-ne-trattiene-il-91-grazie-a-roma/",
-                "date": "27 Ago 2025",
-                "time": "17:22",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Sparatoria in una scuola cattolica a Minneapolis: due morti e diversi feriti",
-                "link": "https://www.orizzontescuola.it/tragedia-alla-scuola-cattolica-di-minneapolis-un-morto-e-sei-feriti-in-un-episodio-di-violenza-armata/",
-                "date": "27 Ago 2025",
-                "time": "16:47",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "L’Italia ultima in Europa per investimenti scolastici, Manzi (PD): “I dati Ue smentiscono la retorica governativa”",
-                "link": "https://www.orizzontescuola.it/litalia-ultima-in-europa-per-investimenti-scolastici-manzi-pd-i-dati-ue-smentiscono-la-retorica-governativa/",
-                "date": "27 Ago 2025",
-                "time": "16:41",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Immissioni in ruolo docenti 2025/26, posti accantonati per concorso PNRR2 ancora da concludere [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2025-26-ecco-la-suddivisione-per-classe-di-concorso-in-ogni-regione-e-accantonamenti-pnrr2/",
-                "date": "27 Ago 2025",
-                "time": "16:33",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26, interpello per A017 Scuola Navale Militare Francesco Morosini di Venezia",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-26-interpello-per-a017-scuola-navale-militare-francesco-morosini-di-venezia/",
-                "date": "27 Ago 2025",
-                "time": "15:58",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Degrado e abbandono, cinque bambini trovati in casa con dodici cani a Latina. Il Garante dell’Infanzia: “Violati i diritti fondamentali dei minori”",
-                "link": "https://www.orizzontescuola.it/degrado-e-abbandono-cinque-bambini-trovati-in-casa-con-dodici-cani-a-latina-il-garante-dellinfanzia-violati-i-diritti-fondamentali-dei-minori/",
-                "date": "27 Ago 2025",
-                "time": "15:54",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Continuità didattica, Corlazzoli attacca Valditara: “La scuola non è un supermercato, agli alunni con disabilità servono specialisti, non precari carini che piacciono ai genitori”",
-                "link": "https://www.orizzontescuola.it/continuita-didattica-corlazzoli-attacca-valditara-la-scuola-non-e-un-supermercato-agli-alunni-con-disabilita-servono-specialisti-non-precari-carini-che-piacciono-ai-genitori/",
-                "date": "27 Ago 2025",
-                "time": "15:47",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Sostegno, posti in deroga o in organico di diritto? Come garantire diritto allo studio e reclutare i precari. SPECIALE con Pacifico (Anief)",
-                "link": "https://www.orizzontescuola.it/sostegno-posti-in-deroga-o-in-organico-di-diritto-come-garantire-diritto-allo-studio-e-reclutare-i-precari-speciale-con-pacifico-anief-live-mercoledi-27-agosto-alle-1600/",
-                "date": "27 Ago 2025",
-                "time": "15:22",
                 "image_link": "N/A"
             }
         ]
@@ -658,6 +658,14 @@
         "articles": [
             {
                 "category": "Didattica",
+                "title": "Tutto ovunque, tutto insieme: un film per parlare di quando si è sopraffatti e di “femminismo non spettacolare”",
+                "link": "https://www.orizzontescuola.it/tutto-ovunque-tutto-insieme-un-film-per-parlare-di-quando-si-e-sopraffatti-e-di-femminismo-non-spettacolare/",
+                "date": "21 Ago 2025",
+                "time": "8:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Screenshot-2025-08-13-075725.png"
+            },
+            {
+                "category": "Didattica",
                 "title": "Robot in classe. Come la robotica stimola il pensiero critico nella primaria",
                 "link": "https://www.orizzontescuola.it/robot-in-classe-come-la-robotica-stimola-il-pensiero-critico-nella-primaria/",
                 "date": "21 Ago 2025",
@@ -695,14 +703,6 @@
                 "date": "19 Ago 2025",
                 "time": "8:58",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Screenshot-2025-08-18-185812-scaled.png"
-            },
-            {
-                "category": "Didattica",
-                "title": "Progetti di cittadinanza attiva con strumenti digitali: i laboratori scolastici per creare comunità online responsabili",
-                "link": "https://www.orizzontescuola.it/progetti-di-cittadinanza-attiva-con-strumenti-digitali-i-laboratori-scolastici-per-creare-comunita-online-responsabili/",
-                "date": "19 Ago 2025",
-                "time": "8:49",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/shutterstock_1923649436.jpg"
             }
         ]
     },
