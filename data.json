@@ -25,6 +25,14 @@
         "articles": [
             {
                 "category": "Politica scolastica",
+                "title": "Inaugurazione anno scolastico 2025-2026, è Napoli la città scelta per la cerimonia. Si terrà il 22 settembre",
+                "link": "https://www.orizzontescuola.it/inaugurazione-anno-scolastico-2025-2026-mattarella-ha-scelto-napoli-per-la-cerimonia-si-terra-il-22-settembre/",
+                "date": "30 Ago 2025",
+                "time": "0:21",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/75017-scaled.jpg"
+            },
+            {
+                "category": "Politica scolastica",
                 "title": "Continuità didattica e inclusione negata: in Italia più di un posto di sostegno su due è ancora in deroga. Pacifico (Anief): “Non bastano soluzioni tampone, servono ruoli e risorse reali per la scuola”",
                 "link": "https://www.orizzontescuola.it/continuita-didattica-e-inclusione-negata-in-italia-piu-di-un-posto-di-sostegno-su-due-e-ancora-in-deroga-pacifico-anief-non-bastano-soluzioni-tampone-servono-ruoli-e-risorse-reali-per-la-scuol/",
                 "date": "29 Ago 2025",
@@ -142,7 +150,12 @@
                 "date": "29 Ago 2025",
                 "time": "16:05",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Modello-immagine-sito-11.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Assunzioni docenti da GPS sostegno per il ruolo 2025/26, ulteriori BOLLETTINI",
@@ -150,12 +163,7 @@
                 "date": "29 Ago 2025",
                 "time": "15:43",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1349362136.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Sfide virali tra adolescenti: dal “planking” al train surfing, l’allarme degli esperti tra morti, danni cerebrali e cosmeticoressia",
@@ -284,14 +292,6 @@
                 "date": "29 Ago 2025",
                 "time": "10:58",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/07/shutterstock_594891590.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Scuola italiana all’estero, 668 posti tra dirigenti scolastici, docenti (sostegno incluso) e amministrativi, più 115 unità alle Scuole Europee. DECRETI",
-                "link": "https://www.orizzontescuola.it/scuola-italiana-allestero-668-posti-tra-dirigenti-scolastici-docenti-sostegno-incluso-e-amministrativi-piu-115-unita-alle-scuole-europee-decreti/",
-                "date": "29 Ago 2025",
-                "time": "10:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_2116206668.jpg"
             }
         ]
     },
