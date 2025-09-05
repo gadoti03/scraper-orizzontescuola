@@ -24,6 +24,54 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "DSGA",
+                "title": "Posti vacanti DSGA 2025/26: tanti gli INTERPELLI aperti. AGGIORNATO",
+                "link": "https://www.orizzontescuola.it/posti-vacanti-dsga-2025-26-ecco-gli-interpelli-aperti/",
+                "date": "5 Set 2025",
+                "time": "21:34",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Modello-immagine-sito-12.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze “fino ad avente diritto”: quando saranno ancora utilizzate nell’anno scolastico in corso. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/supplenze-fino-ad-avente-diritto-quando-saranno-ancora-utilizzate-nellanno-scolastico-in-corso-pillole-di-question-time/",
+                "date": "5 Set 2025",
+                "time": "20:47",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Supplenze ATA 2025/26: ecco le convocazioni e i posti. Ci sono anche quelle da terza fascia",
+                "link": "https://www.orizzontescuola.it/supplenze-ata-da-prima-e-seconda-fascia-ecco-dove-sono-gia-iniziate-le-convocazioni/",
+                "date": "5 Set 2025",
+                "time": "20:09",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2456756593.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "ATA, supplenze 2025/26 anche da graduatorie di terza fascia: ecco dove c’è la liberatoria",
+                "link": "https://www.orizzontescuola.it/ata-supplenze-2025-26-anche-da-terza-fascia-ecco-dove-ce-la-liberatoria/",
+                "date": "5 Set 2025",
+                "time": "19:53",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1687192501-scaled.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Docenti neoassunti in ruolo: è possibile svolgere l’anno di prova in assegnazione?",
+                "link": "https://www.orizzontescuola.it/neoassunti-in-ruolo-e-possibile-svolgere-lanno-di-prova-in-assegnazione/",
+                "date": "5 Set 2025",
+                "time": "18:28",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2370207525.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Quando una condanna penale giustifica il licenziamento? Frasi shock contro le forze dell’ordine costano il posto di lavoro: legittimo il licenziamento anche a distanza di anni. Cosa hanno detto i giudici",
+                "link": "https://www.orizzontescuola.it/quando-una-condanna-penale-giustifica-il-licenziamento-frasi-shock-contro-le-forze-dellordine-costano-il-posto-di-lavoro-legittimo-il-licenziamento-anche-a-distanza-di-anni-cosa-hanno-detto-i-giu/",
+                "date": "5 Set 2025",
+                "time": "18:27",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/01/shutterstock_1697441884-scaled.jpg"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Stop ai cellulari in classe: sanzioni graduali per gli studenti. In caso di reiterata trasgressione c’è il rischio sospensione",
                 "link": "https://www.orizzontescuola.it/stop-ai-cellulari-in-classe-sanzioni-graduali-per-gli-studenti-in-caso-di-reiterata-trasgressione-ce-il-rischio-sospensione/",
@@ -95,7 +143,12 @@
                 "date": "5 Set 2025",
                 "time": "13:24",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/03/shutterstock_642182779.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Compensi personale ATA per le pratiche pensionistiche, proroga monitoraggio al 20 settembre. NOTA",
@@ -121,14 +174,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-05-at-09.41.00-1.jpeg"
             },
             {
-                "category": "ATA",
-                "title": "ATA, supplenze 2025/26 anche da graduatorie di terza fascia: ecco dove c’è la liberatoria",
-                "link": "https://www.orizzontescuola.it/ata-supplenze-2025-26-anche-da-terza-fascia-ecco-dove-ce-la-liberatoria/",
-                "date": "5 Set 2025",
-                "time": "11:47",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1687192501-scaled.jpg"
-            },
-            {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze docenti 2025/26: ecco gli interpelli di oggi. In classe già da lunedì a Milano",
                 "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
@@ -143,12 +188,7 @@
                 "date": "5 Set 2025",
                 "time": "11:19",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/10/Ministero.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "ATA",
                 "title": "Posizioni economiche ATA: i corsi online per gli assistenti si concludono entro il 12 settembre",
@@ -246,58 +286,66 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Programma-operativo-complementare-POC.png"
             },
             {
-                "category": "ATA",
-                "title": "Supplenze ATA 2025/26: ecco le convocazioni. Ci sono anche quelle da terza fascia",
-                "link": "https://www.orizzontescuola.it/supplenze-ata-da-prima-e-seconda-fascia-ecco-dove-sono-gia-iniziate-le-convocazioni/",
-                "date": "4 Set 2025",
-                "time": "20:45",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2456756593.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Posti vacanti DSGA 2025/26: ecco gli INTERPELLI aperti",
-                "link": "https://www.orizzontescuola.it/posti-vacanti-dsga-2025-26-ecco-gli-interpelli-aperti/",
-                "date": "4 Set 2025",
-                "time": "20:33",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Modello-immagine-sito-12.png"
-            },
-            {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze docenti, verso proroga GPS con le stesse regole del 2024. BOZZA Decreto",
                 "link": "https://www.orizzontescuola.it/supplenze-docenti-verso-proroga-gps-con-le-stesse-regole-del-2024-bozza-decreto/",
                 "date": "4 Set 2025",
                 "time": "18:43",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_1958115694.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Gite scolastiche più sicure, Valditara: “Autobus con frenata assistita obbligatori per garantire la sicurezza di studenti e docenti accompagnatori”",
-                "link": "https://www.orizzontescuola.it/gite-scolastiche-piu-sicure-valditara-autobus-con-frenata-assistita-obbligatori-per-garantire-la-sicurezza-di-studenti-e-docenti-accompagnatori/",
-                "date": "4 Set 2025",
-                "time": "18:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_1517274167.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Riforma maturità, Valditara: “Meno commissari, ma avranno formazione specifica e più soldi. Orale più serio e sereno, le 4 materie saranno decise a gennaio. Addio alla discussione sul documento”",
-                "link": "https://www.orizzontescuola.it/riforma-maturita-valditara-meno-commissari-ma-avranno-formazione-specifica-e-piu-soldi-orale-piu-serio-e-sereno-le-4-materie-saranno-decise-a-gennaio-addio-alla-discussione-sul-documento-final/",
-                "date": "4 Set 2025",
-                "time": "18:06",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-26-at-21.57.37.jpeg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Rinnovo contratto scuola, soldi in arrivo per aumento stipendi, Valditara: “240 milioni una tantum per docenti e ATA”. BOZZA Decreto",
-                "link": "https://www.orizzontescuola.it/rinnovo-contratto-scuola-valditara-annuncia-240-milioni-destinati-alla-valorizzazione-di-docenti-e-ata/",
-                "date": "4 Set 2025",
-                "time": "17:56",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Screenshot-2025-09-04-alle-18.15.44.png"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Riforma maturità, il CNDDU: “La scuola non deve mai trasformarsi in un tribunale. Occorre garantire allo studente la possibilità di esprimere anche il proprio disagio”",
+                "link": "https://www.orizzontescuola.it/riforma-maturita-il-cnddu-la-scuola-non-deve-mai-trasformarsi-in-un-tribunale-occorre-garantire-allo-studente-la-possibilita-di-esprimere-anche-il-proprio-disagio/",
+                "date": "5 Set 2025",
+                "time": "21:30",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Dipartimento Esteri Anief, avviata azione politica finalizzata a rendere ordinaria la misura introdotta per il riconoscimento dei percorsi di formazione tramite Indire",
+                "link": "https://www.orizzontescuola.it/dipartimento-esteri-anief-avviata-azione-politica-finalizzata-a-rendere-ordinaria-la-misura-introdotta-per-il-riconoscimento-dei-percorsi-di-formazione-tramite-indire/",
+                "date": "5 Set 2025",
+                "time": "21:02",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Decreto Scuola, Giannelli promuove il provvedimento, ma avverte: “240 milioni non bastano per i contratti, servono miliardi per migliorare le condizioni”",
+                "link": "https://www.orizzontescuola.it/decreto-scuola-giannelli-promuove-il-provvedimento-ma-avverte-240-milioni-non-bastano-per-i-contratti-servono-miliardi-per-migliorare-le-condizioni/",
+                "date": "5 Set 2025",
+                "time": "20:31",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Gaza, emergenza educativa senza precedenti: 9 scuole su 10 distrutte, 660mila bambini privati di scuola e futuro. Sandro Ruotolo: “L’Europa resta immobile davanti alla tragedia”",
+                "link": "https://www.orizzontescuola.it/gaza-emergenza-educativa-senza-precedenti-9-scuole-su-10-distrutte-660mila-bambini-privati-di-scuola-e-futuro-sandro-ruotolo-leuropa-resta-immobile-davanti-alla-tragedia/",
+                "date": "5 Set 2025",
+                "time": "19:51",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Decreto Scuola sblocca 259 milioni utili a un accordo sul rinnovo del contratto scaduto: l’analisi Anief su risorse per profili professionali Ata, valorizzazione sistema e formazione personale",
+                "link": "https://www.orizzontescuola.it/decreto-approvato-in-cdm-sblocca-259-milioni-utili-a-un-accordo-sul-rinnovo-del-contratto-scaduto-lanalisi-anief-su-risorse-per-profili-professionali-ata-valorizzazione-sistema-e-formazione-person/",
+                "date": "5 Set 2025",
+                "time": "18:59",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Nel decreto Scuola anche 15 milioni per l’allargamento dell’assicurazione sanitaria integrativa a 230 mila supplenti con contratto in scadenza 30 giugno, come chiesto da Anief",
+                "link": "https://www.orizzontescuola.it/nel-decreto-scuola-anche-15-milioni-per-lallargamento-dellassicurazione-sanitaria-integrativa-a-230-mila-supplenti-con-contratto-in-scadenza-30-giugno-come-chiesto-da-anief/",
+                "date": "5 Set 2025",
+                "time": "17:24",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "PizzAut, comitiva di 50 insegnanti fa una prenotazione e non si presenta. Il fondatore: “Meritano una nota sul registro”",
@@ -392,54 +440,6 @@
                 "link": "https://www.orizzontescuola.it/lincredibile-storia-di-angelica-direttrice-di-un-ufficio-postale-in-valle-daosta-a-20-anni-sono-contenta-di-essere-qui-mi-piace-e-per-il-momento-non-ho-nessuna-intenzione-di-andarmene-mi-sen/",
                 "date": "5 Set 2025",
                 "time": "11:59",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Precariato infinito nella scuola: sentenza storica per 24 mensilità dopo 36 anni di contratti e docente di religione stabilizzato a 59 anni. Un sistema che non funziona",
-                "link": "https://www.orizzontescuola.it/precariato-infinito-nella-scuola-sentenza-storica-per-24-mensilita-dopo-36-anni-di-contratti-e-docente-di-religione-stabilizzato-a-59-anni-un-sistema-che-non-funziona/",
-                "date": "5 Set 2025",
-                "time": "11:56",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Nonno va a scuola a prelevare nipotino, ma porta a casa il bambino sbagliato. Maestra sospesa, succede a Sydney",
-                "link": "https://www.orizzontescuola.it/nonno-va-a-scuola-a-prelevare-nipotino-ma-porta-a-casa-il-bambino-sbagliato-maestra-sospesa-succede-a-sydney/",
-                "date": "5 Set 2025",
-                "time": "11:49",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Decreto Scuola e riforma maturità, Frassinetti: “Molto soddisfatti dei provvedimenti approvati”",
-                "link": "https://www.orizzontescuola.it/decreto-scuola-e-riforma-maturita-frassinetti-molto-soddisfatti-dei-provvedimenti-approvati/",
-                "date": "5 Set 2025",
-                "time": "11:38",
-                "image_link": "N/A"
-            },
-            {
-                "category": "ATA",
-                "title": "Nuove Graduatorie terza fascia ATA, ecco le date di pubblicazione dopo verifica CIAD. Tempistica per provincia [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/graduatorie-terza-fascia-ata-aggiornate-la-riformulazione-entro-lestate-scuole-allopera-per-la-verifica-delle-ciad/",
-                "date": "5 Set 2025",
-                "time": "11:35",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "“DSGA in via di estinzione”, l’allarme dell’ANQUAP sul futuro dei direttori amministrativi",
-                "link": "https://www.orizzontescuola.it/dsga-in-via-di-estinzione-lallarme-dellanquap-sul-futuro-dei-direttori-amministrativi/",
-                "date": "5 Set 2025",
-                "time": "11:35",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Berlusconi rivendica il valore educativo de La Ruota della Fortuna, ma Mediaset trasmette ancora Temptation Island: il paradosso dell’intrattenimento televisivo. Televisione educativa o solo business?",
-                "link": "https://www.orizzontescuola.it/berlusconi-rivendica-il-valore-educativo-de-la-ruota-della-fortuna-ma-mediaset-trasmette-ancora-temptation-island-il-paradosso-dellintrattenimento-televisivo-televisione-educativa-o-solo-business/",
-                "date": "5 Set 2025",
-                "time": "11:24",
                 "image_link": "N/A"
             }
         ]
