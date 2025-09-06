@@ -16,6 +16,30 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Stipendio",
+                "title": "Stipendio: quando e quanto saranno pagati i docenti tutor/orientatori del 2024/25. Quali risorse",
+                "link": "https://www.orizzontescuola.it/stipendio-quando-e-quanto-saranno-pagati-i-docenti-tutor-orientatori-del-2024-25-quali-risorse/",
+                "date": "6 Set 2025",
+                "time": "19:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_301075946.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "I docenti possono esercitare la libera professione come Consulenti del Lavoro con il via libera del dirigente scolastico. Le condizioni e i limiti da conoscere prima di iniziare",
+                "link": "https://www.orizzontescuola.it/non-solo-cattedra-i-docenti-possono-esercitare-la-libera-professione-come-consulenti-del-lavoro-con-il-via-libera-del-dirigente-scolastico-le-condizioni-e-i-limiti-da-conoscere-prima-di-iniziare/",
+                "date": "6 Set 2025",
+                "time": "18:47",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/giovane-studentessa-che-ascolta-il-suo-insegnante-di-inglese_23-2148999530.jpg"
+            },
+            {
+                "category": "Genitori",
+                "title": "“I genitori devono sbagliare, è parte del loro ruolo”: il parere della psicologa Aliza Pressman",
+                "link": "https://www.orizzontescuola.it/i-genitori-devono-sbagliare-e-parte-del-loro-ruolo-il-parere-della-psicologa-aliza-pressman/",
+                "date": "6 Set 2025",
+                "time": "18:32",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1714474870.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze docenti 2025: come vengono nominati i “riservisti”, dall’invalidità al servizio civile universale",
                 "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-come-vengono-nominati-i-riservisti-dallinvalidita-al-servizio-civile-universale/",
@@ -118,7 +142,12 @@
                 "date": "6 Set 2025",
                 "time": "9:43",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2471109121.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Pensioni",
                 "title": "Cambiano le regole per il calcolo della pensione integrativa nei fondi Perseo-Sirio ed Espero",
@@ -142,12 +171,7 @@
                 "date": "6 Set 2025",
                 "time": "8:39",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2389522285.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Guide",
                 "title": "Riposo settimanale negato, quali sono le responsabilità del datore di lavoro. Norma di riferimento e sentenza",
@@ -260,36 +284,60 @@
                 "date": "5 Set 2025",
                 "time": "15:42",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2090710285.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Docente dà pacca sul sedere all’alunna con l’agenda. La scuola chiede la destituzione dal servizio, ma i giudici dicono no: “Gesto scomposto, ma non di natura sessuale”. Sospeso sei mesi senza stipendio",
-                "link": "https://www.orizzontescuola.it/pacca-sul-sedere-allalunna-con-lagenda-la-scuola-chiede-la-destituzione-dal-servizio-ma-i-giudici-dicono-no-gesto-scomposto-ma-non-di-natura-sessuale-sospeso-sei-mesi-senza-stipendio/",
-                "date": "5 Set 2025",
-                "time": "15:31",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/12/shutterstock_1905525472-scaled.jpg"
-            },
-            {
-                "category": "DSGA",
-                "title": "DSGA neoassunti, risolto il blocco del SIDI. Da lunedì attive le procedure per contratti ed email istituzionali. Sorrentino (Condir-ANIEF): “Un passo avanti per la serenità operativa nelle segreterie”",
-                "link": "https://www.orizzontescuola.it/dsga-neoassunti-risolto-il-blocco-del-sidi-da-lunedi-attive-le-procedure-per-contratti-ed-email-istituzionali-sorrentino-condir-anief-un-passo-avanti-per-la-serenita-operativa-nelle-segreterie/",
-                "date": "5 Set 2025",
-                "time": "15:23",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/02/shutterstock_1011686965.jpg"
-            },
-            {
-                "category": "Guide",
-                "title": "Congedo parentale: cos’è, quanti giorni mi spettano? La scheda",
-                "link": "https://www.orizzontescuola.it/congedo-parentale-cose-quanti-giorni-mi-spettano-la-scheda/",
-                "date": "5 Set 2025",
-                "time": "15:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_2341637857.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Precari, decine di migliaia ancora da assumere, tanti su sostegno: presto nuovi bollettini da Gps, poi toccherà a chiamate da Graduatorie d’Istituto e interpelli. Impossibile finire prima d’inizio lezioni, Anief: “Cambiare le regole”",
+                "link": "https://www.orizzontescuola.it/precari-decine-di-migliaia-ancora-da-assumere-tanti-su-sostegno-presto-nuovi-bollettini-da-gps-poi-tocchera-a-chiamate-da-graduatorie-distituto-e-interpelli-impossibile-finire-prima-d/",
+                "date": "6 Set 2025",
+                "time": "19:39",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Gaza, il drammatico bilancio di Save the Children: oltre 20mila bambini uccisi in 23 mesi di guerra",
+                "link": "https://www.orizzontescuola.it/gaza-il-drammatico-bilancio-di-save-the-children-oltre-20mila-bambini-uccisi-in-23-mesi-di-guerra/",
+                "date": "6 Set 2025",
+                "time": "18:54",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Bonelli (AVS): “Con noi al governo via il 5% di spesa militare e sì alla patrimoniale. Più soldi per sanità, scuola e trasporto pubblico”",
+                "link": "https://www.orizzontescuola.it/bonelli-avs-con-noi-al-governo-via-il-5-di-spesa-militare-e-si-alla-patrimoniale-piu-soldi-per-sanita-scuola-e-trasporto-pubblico/",
+                "date": "6 Set 2025",
+                "time": "18:52",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Bernini: “Scuola e Università pilastri di una società del rispetto”",
+                "link": "https://www.orizzontescuola.it/bernini-scuola-e-universita-pilastri-di-una-societa-del-rispetto/",
+                "date": "6 Set 2025",
+                "time": "18:49",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Decreto Maturità, Buondonno (SI-Avs): “Misura illegittima e repressiva che umilia tanto gli insegnanti quanto le studentesse e gli studenti”",
+                "link": "https://www.orizzontescuola.it/decreto-maturita-buondonno-si-avs-misura-illegittima-e-repressiva-che-umilia-tanto-gli-insegnanti-quanto-le-studentesse-e-gli-studenti/",
+                "date": "6 Set 2025",
+                "time": "18:39",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Stop agli smartphone a scuola, arriva il tutor AI in tasca: uso quotidiano tra i più piccoli, cyberbullismo in aumento e una scelta culturale che interroga il ruolo della didattica",
+                "link": "https://www.orizzontescuola.it/stop-agli-smartphone-a-scuola-arriva-il-tutor-ai-in-tasca-uso-quotidiano-tra-i-piu-piccoli-cyberbullismo-in-aumento-e-una-scelta-culturale-che-interroga-il-ruolo-della-didattica/",
+                "date": "6 Set 2025",
+                "time": "18:37",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Diritti umani a scuola: torna Amnesty Kids con un nuovo kit didattico",
@@ -348,7 +396,7 @@
             },
             {
                 "category": "Cronaca",
-                "title": "PizzAut …: 50 insegnanti disertano la prenotazione, arriva la telefonata del Presidente della Repubblica",
+                "title": "PizzAut, 50 insegnanti disertano la prenotazione, arriva la telefonata del Presidente della Repubblica",
                 "link": "https://www.orizzontescuola.it/pizzaut-50-insegnanti-disertano-la-prenotazione-arriva-la-telefonata-del-presidente-della-repubblica/",
                 "date": "6 Set 2025",
                 "time": "15:31",
@@ -356,7 +404,7 @@
             },
             {
                 "category": "Cronaca",
-                "title": "Sasso, Lega: “deriva islamista della scuola italiana, presentata risoluzione”",
+                "title": "Sasso (Lega): “Deriva islamista della scuola italiana, presentata risoluzione”",
                 "link": "https://www.orizzontescuola.it/sasso-lega-deriva-islamista-della-scuola-italiana-presentata-risoluzione/",
                 "date": "6 Set 2025",
                 "time": "15:14",
@@ -364,7 +412,7 @@
             },
             {
                 "category": "Cronaca",
-                "title": "Riforma Esami di Stato, SNALS-Confsal: “Accogliamo con interesse”",
+                "title": "Riforma Esami di Stato, Serafini (Snals): “Accogliamo con interesse”",
                 "link": "https://www.orizzontescuola.it/riforma-esami-di-stato-snals-confsal-accogliamo-con-interesse/",
                 "date": "6 Set 2025",
                 "time": "12:54",
@@ -384,54 +432,6 @@
                 "link": "https://www.orizzontescuola.it/premio-bruno-rizzi-2025-aperto-il-bando-per-i-docenti-di-matematica/",
                 "date": "6 Set 2025",
                 "time": "8:52",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Bando da 700mila euro per avvicinare gli studenti al patrimonio artistico di Gibellina",
-                "link": "https://www.orizzontescuola.it/bando-da-700mila-euro-per-avvicinare-gli-studenti-al-patrimonio-artistico-di-gibellina/",
-                "date": "6 Set 2025",
-                "time": "8:35",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Riforma maturità, il CNDDU: “La scuola non deve mai trasformarsi in un tribunale. Occorre garantire allo studente la possibilità di esprimere anche il proprio disagio”",
-                "link": "https://www.orizzontescuola.it/riforma-maturita-il-cnddu-la-scuola-non-deve-mai-trasformarsi-in-un-tribunale-occorre-garantire-allo-studente-la-possibilita-di-esprimere-anche-il-proprio-disagio/",
-                "date": "5 Set 2025",
-                "time": "21:30",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Dipartimento Esteri Anief, avviata azione politica finalizzata a rendere ordinaria la misura introdotta per il riconoscimento dei percorsi di formazione tramite Indire",
-                "link": "https://www.orizzontescuola.it/dipartimento-esteri-anief-avviata-azione-politica-finalizzata-a-rendere-ordinaria-la-misura-introdotta-per-il-riconoscimento-dei-percorsi-di-formazione-tramite-indire/",
-                "date": "5 Set 2025",
-                "time": "21:02",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Decreto Scuola, Giannelli promuove il provvedimento, ma avverte: “240 milioni non bastano per i contratti, servono miliardi per migliorare le condizioni”",
-                "link": "https://www.orizzontescuola.it/decreto-scuola-giannelli-promuove-il-provvedimento-ma-avverte-240-milioni-non-bastano-per-i-contratti-servono-miliardi-per-migliorare-le-condizioni/",
-                "date": "5 Set 2025",
-                "time": "20:31",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Gaza, emergenza educativa senza precedenti: 9 scuole su 10 distrutte, 660mila bambini privati di scuola e futuro. Sandro Ruotolo: “L’Europa resta immobile davanti alla tragedia”",
-                "link": "https://www.orizzontescuola.it/gaza-emergenza-educativa-senza-precedenti-9-scuole-su-10-distrutte-660mila-bambini-privati-di-scuola-e-futuro-sandro-ruotolo-leuropa-resta-immobile-davanti-alla-tragedia/",
-                "date": "5 Set 2025",
-                "time": "19:51",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Decreto Scuola sblocca 259 milioni utili a un accordo sul rinnovo del contratto scaduto: l’analisi Anief su risorse per profili professionali Ata, valorizzazione sistema e formazione personale",
-                "link": "https://www.orizzontescuola.it/decreto-approvato-in-cdm-sblocca-259-milioni-utili-a-un-accordo-sul-rinnovo-del-contratto-scaduto-lanalisi-anief-su-risorse-per-profili-professionali-ata-valorizzazione-sistema-e-formazione-person/",
-                "date": "5 Set 2025",
-                "time": "18:59",
                 "image_link": "N/A"
             }
         ]
@@ -717,6 +717,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Proposta: Commissari interni per entrambe le prove scritte del nuovo Esame di Maturità",
+                "link": "https://www.orizzontescuola.it/proposta-commissari-interni-per-entrambe-le-prove-scritte-del-nuovo-esame-di-maturita/",
+                "date": "6 Set 2025",
+                "time": "19:01",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "In classe senza cellulare: portate a scuola un taccuino. Lettera",
                 "link": "https://www.orizzontescuola.it/in-classe-senza-cellulare-portate-a-scuola-un-taccuino-lettera/",
                 "date": "5 Set 2025",
@@ -753,14 +761,6 @@
                 "link": "https://www.orizzontescuola.it/vincolo-docenti-neoassunti-meglio-dare-la-possibilita-di-trasferimento-che-assegnazioni-provvisorie-che-non-liberano-i-posti-per-i-ruoli-lettera/",
                 "date": "1 Set 2025",
                 "time": "8:39",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Occuparsi, non preoccuparsi: un invito per l’inizio dell’anno scolastico (e non solo). Lettera",
-                "link": "https://www.orizzontescuola.it/occuparsi-non-preoccuparsi-un-invito-per-linizio-dellanno-scolastico-e-non-solo-lettera/",
-                "date": "25 Ago 2025",
-                "time": "12:44",
                 "image_link": "N/A"
             }
         ]
