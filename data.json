@@ -17,6 +17,54 @@
         "articles": [
             {
                 "category": "Cronaca",
+                "title": "Ansia da rientro scolastico: cinque strategie per affrontare serenamente il nuovo anno",
+                "link": "https://www.orizzontescuola.it/ansia-da-rientro-scolastico-cinque-strategie-per-affrontare-serenamente-il-nuovo-anno/",
+                "date": "7 Set 2025",
+                "time": "14:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/0.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Allarme cybersicurezza nelle scuole: 4.356 attacchi informatici a settimana per istituto, phishing mascherato da comunicazioni universitarie inganna studenti e docenti",
+                "link": "https://www.orizzontescuola.it/allarme-cybersicurezza-nelle-scuole-4-356-attacchi-informatici-a-settimana-per-istituto-phishing-mascherato-da-comunicazioni-universitarie-inganna-studenti-e-docenti/",
+                "date": "7 Set 2025",
+                "time": "12:33",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2317938317.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Bonus sociali 2025: luce, gas, acqua e rifiuti, come funzionano gli sconti in bolletta",
+                "link": "https://www.orizzontescuola.it/bonus-sociali-2025-luce-gas-acqua-e-rifiuti-come-funzionano-gli-sconti-in-bolletta/",
+                "date": "7 Set 2025",
+                "time": "11:58",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2520957423.jpg"
+            },
+            {
+                "category": "Genitori",
+                "title": "Zaino o trolley per il ritorno a scuola? La normativa ministeriale fissa il peso massimo al 15% del corpo: cosa rischiano davvero i bambini e come scegliere la soluzione migliore",
+                "link": "https://www.orizzontescuola.it/zaino-o-trolley-per-il-ritorno-a-scuola-la-normativa-ministeriale-fissa-il-peso-massimo-al-15-del-corpo-cosa-rischiano-davvero-i-bambini-e-come-scegliere-la-soluzione-migliore/",
+                "date": "7 Set 2025",
+                "time": "11:43",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2477656059.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti: si può completare un orario su spezzone senza richiesta di completamento? Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-si-puo-completare-un-orario-su-spezzone-senza-richiesta-di-completamento-pillole-di-question-time/",
+                "date": "7 Set 2025",
+                "time": "10:42",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2554071589.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Fascicolo sanitario 2.0: arriva il profilo digitale completo di allergie, terapie e anamnesi familiare gestito dai medici di base per tutti i cittadini",
+                "link": "https://www.orizzontescuola.it/fascicolo-sanitario-2-0-arriva-il-profilo-digitale-completo-di-allergie-terapie-e-anamnesi-familiare-gestito-dai-medici-di-base-per-tutti-i-cittadini/",
+                "date": "7 Set 2025",
+                "time": "10:38",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2154471629.jpg"
+            },
+            {
+                "category": "Cronaca",
                 "title": "Rientro a scuola senza rinunce: perché il gioco all’aperto è il “nutriente” nascosto che rende i bambini più autonomi, sereni e sociali (e come istituzioni e famiglie possono garantirlo anche in città)",
                 "link": "https://www.orizzontescuola.it/rientro-a-scuola-senza-rinunce-perche-il-gioco-allaperto-e-il-nutriente-nascosto-che-rende-i-bambini-piu-autonomi-sereni-e-sociali-e-come-istituzioni-e-famiglie-possono-garantirlo-anch/",
                 "date": "7 Set 2025",
@@ -87,7 +135,12 @@
                 "date": "6 Set 2025",
                 "time": "18:47",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/giovane-studentessa-che-ascolta-il-suo-insegnante-di-inglese_23-2148999530.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Genitori",
                 "title": "“I genitori devono sbagliare, è parte del loro ruolo”: il parere della psicologa Aliza Pressman",
@@ -135,12 +188,7 @@
                 "date": "6 Set 2025",
                 "time": "14:52",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/09/shutterstock_708460591.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Secondo ciclo sostegno Indire: quando sarà avviato? Cisl Scuola chiede incontro al Ministero. Pittoni (Lega): garanzie su 2024/25",
@@ -236,60 +284,60 @@
                 "date": "6 Set 2025",
                 "time": "8:14",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/01/shutterstock_1514545970.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Osservatorio 182, bilancio positivo dopo un anno, Chiocca: “23 associazioni unite per tutelare i diritti degli alunni con disabilità”. INTERVISTA",
-                "link": "https://www.orizzontescuola.it/osservatorio-182-bilancio-positivo-dopo-un-anno-chiocca-23-associazioni-unite-per-tutelare-i-diritti-degli-alunni-con-disabilita-intervista/",
-                "date": "6 Set 2025",
-                "time": "7:56",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/Chiocca.webp"
-            },
-            {
-                "category": "Cronaca",
-                "title": "TAR Lazio annulla bocciatura di un’alunna insufficiente in 6 materie per mancata applicazione del PDP: scuola condannata per verifiche non adeguate ai disturbi dell’apprendimento",
-                "link": "https://www.orizzontescuola.it/tar-lazio-annulla-bocciatura-di-unalunna-insufficiente-in-6-materie-per-mancata-applicazione-del-pdp-scuola-condannata-per-verifiche-non-adeguate-ai-disturbi-dellapprendimento/",
-                "date": "6 Set 2025",
-                "time": "7:52",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_675123196.jpg"
-            },
-            {
-                "category": "Plus",
-                "title": "6 webinar gratuiti per “Gestire la scuola” senza sbagliare, per Dirigenti, collaboratori del DS, DSGA e segreterie: dagli adempimenti, alla gestione delle assenze, dal programma annuale alle nuove regole dello Smart working",
-                "link": "https://www.orizzontescuola.it/6-webinar-gratuiti-per-gestire-la-scuola-al-meglio-per-dirigenti-collaboratori-del-ds-dsga-e-segreterie-dagli-adempimenti-alla-gestione-delle-assenze-dal-programma-annuale-alle-nuove-regole-d/",
-                "date": "6 Set 2025",
-                "time": "7:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/6-webinar-gratuiti-per-Gestire-la-scuola-al-meglio.png"
-            },
-            {
-                "category": "DSGA",
-                "title": "Posti vacanti DSGA 2025/26: tanti gli INTERPELLI aperti. AGGIORNATO",
-                "link": "https://www.orizzontescuola.it/posti-vacanti-dsga-2025-26-ecco-gli-interpelli-aperti/",
-                "date": "5 Set 2025",
-                "time": "21:34",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Modello-immagine-sito-12.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze “fino ad avente diritto”: quando saranno ancora utilizzate nell’anno scolastico in corso. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/supplenze-fino-ad-avente-diritto-quando-saranno-ancora-utilizzate-nellanno-scolastico-in-corso-pillole-di-question-time/",
-                "date": "5 Set 2025",
-                "time": "20:47",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Supplenze ATA 2025/26: ecco le convocazioni e i posti. Ci sono anche quelle da terza fascia",
-                "link": "https://www.orizzontescuola.it/supplenze-ata-da-prima-e-seconda-fascia-ecco-dove-sono-gia-iniziate-le-convocazioni/",
-                "date": "5 Set 2025",
-                "time": "20:09",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2456756593.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Rincari scolastici record: libri di testo e materiali aumentano fino al 24%, alloggi universitari +6%. Un decalogo per risparmiare",
+                "link": "https://www.orizzontescuola.it/rincari-scolastici-record-libri-di-testo-e-materiali-aumentano-fino-al-24-alloggi-universitari-6-un-decalogo-per-risparmiare/",
+                "date": "7 Set 2025",
+                "time": "13:44",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Australia vieta i social ai minori di 16 anni: multe da 50 milioni di dollari alle piattaforme, ma la verifica dell’età presenta sfide tecnologiche e rischi per la privacy",
+                "link": "https://www.orizzontescuola.it/australia-vieta-i-social-ai-minori-di-16-anni-multe-da-50-milioni-di-dollari-alle-piattaforme-ma-la-verifica-delleta-presenta-sfide-tecnologiche-e-rischi-per-la-privacy/",
+                "date": "7 Set 2025",
+                "time": "12:59",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Burnout del caregiver: sette milioni di italiani a rischio esaurimento nell’assistenza familiare",
+                "link": "https://www.orizzontescuola.it/burnout-del-caregiver-sette-milioni-di-italiani-a-rischio-esaurimento-nellassistenza-familiare/",
+                "date": "7 Set 2025",
+                "time": "12:25",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Allarme OMS: 1 adolescente su 7 convive con disturbi mentali, ma laboratori agricoli e carpenteria navale riaccendono fiducia, competenze e reti educative sul territorio",
+                "link": "https://www.orizzontescuola.it/allarme-oms-1-adolescente-su-7-convive-con-disturbi-mentali-tra-neet-e-msna-solitudine-e-dropout-ma-laboratori-agricoli-e-carpenteria-navale-riaccendono-fiducia-competenze-e-reti-educative-sul-ter/",
+                "date": "7 Set 2025",
+                "time": "11:23",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Infanzia al centro, non a margine: il Festival Nidi Fioriti trasforma Milano in un laboratorio urbano di ascolto, cura e connessioni, tra “buona nascita”, sicurezza e “maternità non è un buco nel CV”",
+                "link": "https://www.orizzontescuola.it/infanzia-al-centro-non-a-margine-il-festival-nidi-fioriti-trasforma-milano-in-un-laboratorio-urbano-di-ascolto-cura-e-connessioni-tra-buona-nascita-sicurezza-e-maternita-non-e/",
+                "date": "7 Set 2025",
+                "time": "11:04",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Cuzzupi (UGL Scuola): “Per la scuola diverse novità. La nuova maturità è un passo importante”",
+                "link": "https://www.orizzontescuola.it/cuzzupi-ugl-scuola-per-la-scuola-diverse-novita-la-nuova-maturita-e-un-passo-importante/",
+                "date": "7 Set 2025",
+                "time": "10:38",
+                "image_link": "N/A"
+            },
             {
                 "category": "Scuole",
                 "title": "Erasmus+ corre a Firenze: aperte le iscrizioni per entrare nella squadra a Corri la vita 2025",
@@ -384,54 +432,6 @@
                 "link": "https://www.orizzontescuola.it/decreto-maturita-buondonno-si-avs-misura-illegittima-e-repressiva-che-umilia-tanto-gli-insegnanti-quanto-le-studentesse-e-gli-studenti/",
                 "date": "6 Set 2025",
                 "time": "18:39",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Stop agli smartphone a scuola, arriva il tutor AI in tasca: uso quotidiano tra i più piccoli, cyberbullismo in aumento e una scelta culturale che interroga il ruolo della didattica",
-                "link": "https://www.orizzontescuola.it/stop-agli-smartphone-a-scuola-arriva-il-tutor-ai-in-tasca-uso-quotidiano-tra-i-piu-piccoli-cyberbullismo-in-aumento-e-una-scelta-culturale-che-interroga-il-ruolo-della-didattica/",
-                "date": "6 Set 2025",
-                "time": "18:37",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Diritti umani a scuola: torna Amnesty Kids con un nuovo kit didattico",
-                "link": "https://www.orizzontescuola.it/diritti-umani-a-scuola-torna-amnesty-kids-con-un-nuovo-kit-didattico/",
-                "date": "6 Set 2025",
-                "time": "18:00",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Fanelli riceve il “Salsicciotto d’oro”: “Lo dedico agli sforzi dei miei genitori per farmi studiare”. Dalla cattedra al palco",
-                "link": "https://www.orizzontescuola.it/fanelli-riceve-il-salsicciotto-doro-lo-dedico-agli-sforzi-dei-miei-genitori-per-farmi-studiare-dalla-cattedra-al-palco/",
-                "date": "6 Set 2025",
-                "time": "17:47",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Stop smartphone in classe, Codacons: “Sanzioni anche per le scuole che non fanno rispettare il divieto”",
-                "link": "https://www.orizzontescuola.it/stop-smartphone-in-classe-codacons-sanzioni-anche-per-le-scuole-che-non-fanno-rispettare-il-divieto/",
-                "date": "6 Set 2025",
-                "time": "17:10",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Percorsi educativi all’uso del digitale e affettività, sportelli di ascolto, formazione per insegnanti e dialogo con le piattaforme digitali. Cosa prevede la “Carta di Bologna per l’Affettività Digitale”",
-                "link": "https://www.orizzontescuola.it/percorsi-educativi-alluso-del-digitale-e-affettivita-sportelli-di-ascolto-formazione-per-insegnanti-e-dialogo-con-le-piattaforme-digitali-cosa-prevede-la-carta-di-bologna-per-la/",
-                "date": "6 Set 2025",
-                "time": "16:20",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Duchessa di Kent, muore a 92 anni: l’ex insegnante che preferì la classe alla corte",
-                "link": "https://www.orizzontescuola.it/duchessa-di-kent-muore-a-92-anni-lex-insegnante-che-preferi-la-classe-alla-corte/",
-                "date": "6 Set 2025",
-                "time": "16:07",
                 "image_link": "N/A"
             }
         ]
@@ -558,6 +558,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Supplenze da GPS 2025/26: i docenti lamentano errori nelle nomine, gli Uffici Scolastici rispondono. AVVISI",
+                "link": "https://www.orizzontescuola.it/supplenze-da-gps-2025-26-i-docenti-lamentano-errori-nelle-nomine-gli-uffici-scolastici-rispondono-avvisi/",
+                "date": "4 Set 2025",
+                "time": "11:37",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Supplenze docenti, algoritmi e bollettini: nomine, sanzioni, controlli e punteggi. RISPOSTE AI QUESITI",
                 "link": "https://www.orizzontescuola.it/supplenze-docenti-algoritmi-e-bollettini-nomine-sanzioni-controlli-e-punteggi-risposte-ai-quesiti/",
                 "date": "4 Set 2025",
@@ -595,20 +603,36 @@
                 "date": "3 Set 2025",
                 "time": "10:55",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1129962923-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: quando ci sarà il secondo bollettino?",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-26-quando-ci-sara-il-secondo-bollettino/",
-                "date": "3 Set 2025",
-                "time": "9:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2142727347.jpg"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
+            {
+                "category": "ATA",
+                "title": "Supplenze ATA 2025/26: nomine, CIAD, scorrimento graduatorie. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/supplenze-ata-2025-26-nomine-ciad-scorrimento-graduatorie-risposte-ai-quesiti/",
+                "date": "3 Set 2025",
+                "time": "9:18",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_260198537.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Personale ATA a.s. 2025/2026: riconferma provvisoria sulla sede del 2024/2025. Ecco dove",
+                "link": "https://www.orizzontescuola.it/personale-ata-a-s-2025-2026-riconferma-provvisoria-sulla-sede-del-2024-2025-ecco-dove/",
+                "date": "31 Ago 2025",
+                "time": "13:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_386979994.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Formazione del personale ATA neo immesso in ruolo: la UIL Scuola denuncia l’assenza di un piano stabile e chiede percorsi strutturati per migliorare efficienza e qualità del servizio scolastico",
+                "link": "https://www.orizzontescuola.it/formazione-del-personale-ata-neo-immesso-in-ruolo-la-uil-scuola-denuncia-lassenza-di-un-piano-stabile-e-chiede-percorsi-obbligatori-per-migliorare-efficienza-e-qualita-del-servizio-scolastic/",
+                "date": "28 Ago 2025",
+                "time": "8:25",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_448000054-scaled.jpg"
+            },
             {
                 "category": "ATA",
                 "title": "Personale ATA: quando usciranno le assegnazioni? Possibile lavorare da allegato G? Servizio nazionale dà riserva? Come funzionano le convocazioni? Le risposte ai vostri quesiti",
@@ -632,30 +656,6 @@
                 "date": "22 Ago 2025",
                 "time": "13:17",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/Screenshot-2024-09-03-130127.png"
-            },
-            {
-                "category": "ATA",
-                "title": "Periodo di prova personale ATA: durata, sospensione e conferma in ruolo. La normativa",
-                "link": "https://www.orizzontescuola.it/periodo-di-prova-personale-ata-durata-sospensione-e-conferma-in-ruolo-la-normativa/",
-                "date": "21 Ago 2025",
-                "time": "14:47",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2456756593.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Posizioni economiche ATA, corsi di formazione online: collaboratori scolastici e operatori chiudono entro il 28 agosto",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-corsi-di-formazione-online-collaboratori-scolastici-e-operatori-chiudono-entro-il-28-agosto/",
-                "date": "21 Ago 2025",
-                "time": "11:45",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Convocazioni supplenze personale ATA: cosa portare con sé",
-                "link": "https://www.orizzontescuola.it/convocazioni-supplenze-personale-ata-cosa-portare-con-se/",
-                "date": "21 Ago 2025",
-                "time": "10:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_1645535227.jpg"
             }
         ]
     },
@@ -725,8 +725,8 @@
             },
             {
                 "category": "Lettere in redazione",
-                "title": "Tra soglie di sbarramento nei punteggi, rinunce e sorrisi ho conquistato il mio posto a scuola vincendo il concorso. Lettera",
-                "link": "https://www.orizzontescuola.it/tra-soglie-di-sbarramento-nei-punteggi-rinunce-e-sorrisi-ho-conquistato-il-mio-posto-a-scuola-vincendo-il-concorso-lettera/",
+                "title": "Tra soglie di sbarramento nei punteggi, rinunce e sorrisi: il mio posto a scuola. Lettera",
+                "link": "https://www.orizzontescuola.it/tra-soglie-di-sbarramento-nei-punteggi-rinunce-e-sorrisi-il-mio-posto-a-scuola-lettera/",
                 "date": "7 Set 2025",
                 "time": "9:49",
                 "image_link": "N/A"
