@@ -23,6 +23,32 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
+            null,
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: ecco gli interpelli di oggi 9 settembre",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "9 Set 2025",
+                "time": "15:57",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Sistema Nazionale di Valutazione: dal 10 settembre attivazione funzioni per l’abilitazione docenti al questionario sui processi educativo-didattici e gestionali. NOTA",
+                "link": "https://www.orizzontescuola.it/sistema-nazionale-di-valutazione-dal-10-settembre-attivazione-funzioni-per-labilitazione-docenti-al-questionario-sui-processi-educativo-didattici-e-gestionali-nota/",
+                "date": "9 Set 2025",
+                "time": "15:53",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_120805804.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Come compilare il PEI senza errori: tutta la procedura passo dopo passo. QUESTION TIME con Gallo. LIVE Mercoledì 10 settembre alle 16:00",
+                "link": "https://www.orizzontescuola.it/come-compilare-il-pei-senza-errori-tutta-la-procedura-passo-dopo-passo-question-time-con-gallo-live-mercoledi-10-settembre-alle-1600/",
+                "date": "9 Set 2025",
+                "time": "14:48",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Template_questiontime_1920x1080-8.png"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze docenti 2025/26: nomine del secondo bollettino [AGGIORNATO]",
@@ -46,14 +72,6 @@
                 "date": "9 Set 2025",
                 "time": "14:21",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/concorso-insegnanti-religione.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: ecco gli interpelli di oggi 9 settembre",
-                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
-                "date": "9 Set 2025",
-                "time": "13:53",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
             },
             {
                 "category": "Cronaca",
@@ -118,7 +136,12 @@
                 "date": "9 Set 2025",
                 "time": "11:24",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Primo giorno di scuola, “ancora una foto in verticale per Instagram”, la mamma, la figlia di 8 anni e i rischi dello sharenting: “1.500 foto online prima dei 5 anni, ‘prodotto’ per algoritmo e dark web”",
@@ -150,12 +173,7 @@
                 "date": "9 Set 2025",
                 "time": "10:32",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/1713607528765.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Guide",
                 "title": "Permessi brevi per docenti ed ATA: come funzionano? La scheda",
@@ -221,14 +239,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_358967342.jpg"
             },
             {
-                "category": "Chiedilo a Lalla",
-                "title": "Come compilare il PEI senza errori: tutta la procedura passo dopo passo. QUESTION TIME con Gallo. LIVE Mercoledì 10 settembre alle 16:00",
-                "link": "https://www.orizzontescuola.it/come-compilare-il-pei-senza-errori-tutta-la-procedura-passo-dopo-passo-question-time-con-gallo-live-mercoledi-10-settembre-alle-1600/",
-                "date": "9 Set 2025",
-                "time": "8:48",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Template_questiontime_1920x1080-8.png"
-            },
-            {
                 "category": "Cronaca",
                 "title": "“La noia in classe costa cara”, alunno plusdotato con 6 in condotta viene bocciato. Genitori fanno ricorso al TAR e lo vincono: scuola condannata per aver negato il PDP richiesto",
                 "link": "https://www.orizzontescuola.it/la-noia-in-classe-costa-cara-alunno-plusdotato-con-6-in-condotta-viene-bocciato-genitori-fanno-ricorso-al-tar-e-lo-vincono-scuola-condannata-per-aver-negato-il-pdp-richiesto/",
@@ -254,29 +264,86 @@
             },
             null,
             null,
-            null,
-            null,
-            {
-                "category": "Cronaca",
-                "title": "Studente si infortuna al ginocchio durante calcetto a scuola: respinta la richiesta di danni da oltre 35mila euro, il Tribunale stabilisce che l’incidente era imprevedibile e inevitabile",
-                "link": "https://www.orizzontescuola.it/studente-si-infortuna-al-ginocchio-durante-calcetto-a-scuola-respinta-la-richiesta-di-danni-da-oltre-35mila-euro-il-tribunale-stabilisce-che-lincidente-era-imprevedibile-e-inevitabile/",
-                "date": "9 Set 2025",
-                "time": "7:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/shutterstock_2608174517.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Anac: da oggi è online il nuovo servizio di registrazione utenti. FAQ",
-                "link": "https://www.orizzontescuola.it/anac-da-oggi-e-online-il-nuovo-servizio-di-registrazione-utenti-faq/",
-                "date": "8 Set 2025",
-                "time": "21:05",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Screenshot-2025-09-08-210120.png"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "In Calabria nasce “Discutiamone a Scuola”, otto psicologi contro il disagio adolescenziale",
+                "link": "https://www.orizzontescuola.it/in-calabria-nasce-discutiamone-a-scuola-otto-psicologi-contro-il-disagio-adolescenziale/",
+                "date": "9 Set 2025",
+                "time": "18:04",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“In fuga dal glutine” e “A scuola di celiachia”: i progetti AIC per oltre 34.000 studenti celiaci",
+                "link": "https://www.orizzontescuola.it/in-fuga-dal-glutine-e-a-scuola-di-celiachia-i-progetti-aic-per-oltre-34-000-studenti-celiaci/",
+                "date": "9 Set 2025",
+                "time": "17:37",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "“Scuola al collasso retributivo”, insegnanti penalizzati del 22% rispetto ai colleghi statali. FLC CGIL attacca l’esecutivo",
+                "link": "https://www.orizzontescuola.it/scuola-al-collasso-retributivo-insegnanti-penalizzati-del-22-rispetto-ai-colleghi-statali-flc-cgil-attacca-lesecutivo/",
+                "date": "9 Set 2025",
+                "time": "17:24",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Class action contro Meta e Phica.eu: scatta l’azione legale per le vittime del revenge porn. L’avvocato Bernardini De Pace: “Violenza silenziosa che non lascia lividi”",
+                "link": "https://www.orizzontescuola.it/class-action-contro-meta-e-phica-eu-scatta-lazione-legale-per-le-vittime-del-revenge-porn-lavvocato-bernardini-de-pace-violenza-silenziosa-che-non-lascia-lividi/",
+                "date": "9 Set 2025",
+                "time": "17:12",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Giovani italiani tra incertezze globali e dipendenza digitale: l’allarme del Laboratorio Adolescenza",
+                "link": "https://www.orizzontescuola.it/giovani-italiani-tra-incertezze-globali-e-dipendenza-digitale-lallarme-del-laboratorio-adolescenza/",
+                "date": "9 Set 2025",
+                "time": "17:03",
+                "image_link": "N/A"
+            },
+            null,
+            {
+                "category": "Politica scolastica",
+                "title": "Floridia (M5S): “Famiglie abbandonate di fronte alla stangata dei costi scolastici”",
+                "link": "https://www.orizzontescuola.it/floridia-m5s-famiglie-abbandonate-di-fronte-alla-stangata-dei-costi-scolastici/",
+                "date": "9 Set 2025",
+                "time": "16:34",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "DIDACTA Trentino 2025: al via le iscrizioni per 343 eventi formativi dedicati alla scuola del futuro",
+                "link": "https://www.orizzontescuola.it/didacta-trentino-2025-al-via-le-iscrizioni-per-343-eventi-formativi-dedicati-alla-scuola-del-futuro/",
+                "date": "9 Set 2025",
+                "time": "15:35",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "PizzAut e il “bidone” dei docenti, la pizzeria riceve le scuse della dirigente scolastica: “Errori dovuti a superficialità e leggerezza”. La risposta del fondatore: “Riprenotate e venite a conoscere i nostri ragazzi”",
+                "link": "https://www.orizzontescuola.it/pizzaut-e-il-bidone-dei-docenti-la-pizzeria-riceve-le-scuse-della-dirigente-scolastica-errori-dovuti-a-superficialita-e-leggerezza-la-risposta-del-fondatore-riprenotate-e-venite-a-conosc/",
+                "date": "9 Set 2025",
+                "time": "15:25",
+                "image_link": "N/A"
+            },
+            null,
+            {
+                "category": "Politica scolastica",
+                "title": "Stipendi docenti, Piccolotti attacca: “Basta passerelle, servono risorse concrete. Il report internazionale dell’OCSE smentisce la propaganda governativa”",
+                "link": "https://www.orizzontescuola.it/stipendi-docenti-piccolotti-attacca-basta-passerelle-servono-risorse-concrete-il-report-internazionale-dellocse-smentisce-la-propaganda-governativa/",
+                "date": "9 Set 2025",
+                "time": "14:47",
+                "image_link": "N/A"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "A Palermo avvio con tanti disagi: aule chiuse, spostamenti di alunni in altri plessi, doppi turni, palestre inagibili da anni, lezioni negli scantinati, sale prof in corridoio. La denuncia della Flc Cgil",
@@ -331,94 +398,6 @@
                 "link": "https://www.orizzontescuola.it/a-scuola-di-dono-al-via-la-vii-edizione-del-concorso-fidas-per-le-scuole-iscrizioni-entro-il-15-gennaio-2026/",
                 "date": "9 Set 2025",
                 "time": "11:09",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Ora alternativa alla religione cattolica, in aumento le classi che adottano i libri di testo. Uaar: “Ecco le province più laiche”",
-                "link": "https://www.orizzontescuola.it/ora-alternativa-alla-religione-cattolica-in-aumento-le-classi-che-adottano-i-libri-uaar-ecco-le-province-piu-laiche/",
-                "date": "9 Set 2025",
-                "time": "10:47",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Genitori",
-                "title": "Bonus nuovi nati, domande di recupero entro il 22 settembre",
-                "link": "https://www.orizzontescuola.it/bonus-nuovi-nati-domande-di-recupero-entro-il-22-settembre/",
-                "date": "9 Set 2025",
-                "time": "10:00",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Lutto nel mondo della letteratura, è morto Stefano Benni. Da “Bar Sport” al teatro: un percorso artistico poliedrico",
-                "link": "https://www.orizzontescuola.it/lutto-nel-mondo-della-letteratura-e-morto-stefano-benni-da-bar-sport-al-teatro-un-percorso-artistico-poliedrico/",
-                "date": "9 Set 2025",
-                "time": "9:58",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Borse di studio, irregolarità: recuperati 1,17 milioni di euro",
-                "link": "https://www.orizzontescuola.it/borse-di-studio-irregolarita-recuperati-117-milioni-di-euro/",
-                "date": "9 Set 2025",
-                "time": "8:50",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Tenete gli smartphone silenziosi e lontano dallo sguardo dei bambini”, il divieto anche negli asili: al via il “silenzio digitale”",
-                "link": "https://www.orizzontescuola.it/tenete-gli-smartphone-silenziosi-e-lontano-dallo-sguardo-dei-bambini-il-divieto-anche-negli-asili-al-via-il-silenzio-digitale/",
-                "date": "9 Set 2025",
-                "time": "8:29",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Kim Kardashian: “Compiti a casa? Non ci credo”",
-                "link": "https://www.orizzontescuola.it/kim-kardashian-compiti-a-casa-non-ci-credo/",
-                "date": "9 Set 2025",
-                "time": "8:10",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Competenze digitali: chi vive in città ne ha di più di chi vive in campagna. Percentuali basse in Italia sia indipendentemente dal contesto. I dati",
-                "link": "https://www.orizzontescuola.it/competenze-digitali-chi-vive-in-citta-ne-ha-di-piu-di-chi-vive-in-campagna-percentuali-basse-in-italia-sia-indipendentemente-dal-contesto-i-dati/",
-                "date": "9 Set 2025",
-                "time": "8:10",
-                "image_link": "N/A"
-            },
-            {
-                "category": "ATA",
-                "title": "Immissioni in ruolo 2025/26: oltre 65mila assunzioni autorizzate tra docenti, ATA, dirigenti e personale educativo. DPCM in Gazzetta Ufficiale",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-2025-26-oltre-65mila-assunzioni-autorizzate-tra-docenti-ata-dirigenti-e-personale-educativo-dpcm-in-gazzetta-ufficiale/",
-                "date": "8 Set 2025",
-                "time": "20:55",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Incontro on line Anief sull’insegnante di sostegno scelto dalle famiglie, Miceli (Anief): “La misura rischia di mandarci indietro e verso le classi differenziate”",
-                "link": "https://www.orizzontescuola.it/incontro-on-line-anief-sullinsegnante-di-sostegno-scelto-dalle-famiglie-miceli-anief-la-misura-rischia-di-mandarci-indietro-e-verso-le-classi-differenziate/",
-                "date": "8 Set 2025",
-                "time": "20:29",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Stipendi, Tajani: “Possibile detassazione della tredicesima”",
-                "link": "https://www.orizzontescuola.it/stipendi-tajani-possibile-detassazione-della-tredicesima/",
-                "date": "8 Set 2025",
-                "time": "17:48",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "A soli 20 anni già docente di ruolo: la storia della più giovane insegnante tecnico-pratica che tra cattedra e università dimostra come passione e impegno possano trasformare i sogni in realtà",
-                "link": "https://www.orizzontescuola.it/a-soli-20-anni-gia-docente-di-ruolo-la-storia-della-piu-giovane-insegnante-tecnico-pratica-che-tra-cattedra-e-universita-dimostra-come-passione-e-impegno-possano-trasformare-i-sogni-in-realta/",
-                "date": "8 Set 2025",
-                "time": "17:42",
                 "image_link": "N/A"
             }
         ]
