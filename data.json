@@ -3,25 +3,137 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "Didattica",
+                "title": "Una serie di prompt per intelligenza artificiale, utili per accogliere gli studenti durante i primi giorni di scuola",
+                "link": "https://www.orizzontescuola.it/una-serie-di-prompt-per-intelligenza-artificiale-utili-per-accogliere-gli-studenti-durante-i-primi-giorni-di-scuola/",
+                "date": "10 Set 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1874731318-scaled.jpg"
+            },
+            {
                 "category": "Politica scolastica",
                 "title": "Decreto Scuola, testo in Gazzetta Ufficiale: cambia la maturità, oltre 230 milioni una tantum per contratto scuola, il 4+2 diventa ordinamentale, rinnovo GPS, assicurazione sanitaria anche per i precari. SCARICA",
                 "link": "https://www.orizzontescuola.it/decreto-scuola-testo-in-gazzetta-ufficiale-cambia-la-maturita-240-milioni-una-tantum-per-stipendi-il-42-diventa-ordinamentale-rinnovo-gps-assicurazione-sanitaria-anche-per-i-precari-scarica/",
                 "date": "9 Set 2025",
                 "time": "20:16",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/Ministero-Istruzione.jpeg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025, perché il secondo bollettino ha più cattedre del primo? Cosa non va nell’algoritmo",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-perche-il-secondo-bollettino-ha-piu-cattedre-del-primo-cosa-non-va-nellalgoritmo/",
-                "date": "9 Set 2025",
-                "time": "7:53",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/Classe.jpeg"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
+        "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Cattedra esterna (COE) per contrazione di organico docenti: va assegnata annualmente. Occhio alla graduatoria interna di istituto",
+                "link": "https://www.orizzontescuola.it/cattedra-esterna-coe-per-contrazione-di-organico-docenti-va-assegnata-annualmente-occhio-alla-graduatoria-interna-di-istituto/",
+                "date": "10 Set 2025",
+                "time": "10:27",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_765925483-scaled.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Supplenze, D’Aprile (Uil Scuola Rua): “Serve un regolamento chiaro. Stop alla disparità di punteggio per gli ITP sul sostegno”",
+                "link": "https://www.orizzontescuola.it/supplenze-daprile-uil-scuola-rua-serve-un-regolamento-chiaro-stop-alla-disparita-di-punteggio-per-gli-itp-sul-sostegno/",
+                "date": "10 Set 2025",
+                "time": "10:17",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/IMG-20240325-WA0005.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Studente con malattia rara si frattura correndo a scuola. Famiglia aveva avvisato i docenti, ma la supplente non sapeva nulla. Il Tribunale condanna il Ministero al risarcimento di oltre 9mila euro",
+                "link": "https://www.orizzontescuola.it/studente-con-malattia-rara-si-frattura-correndo-a-scuola-famiglia-aveva-avvisato-i-docenti-ma-la-supplente-non-sapeva-nulla-il-tribunale-condanna-il-ministero-al-risarcimento/",
+                "date": "10 Set 2025",
+                "time": "10:07",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/05/justice-2060093_1280-1200x800.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "“La maturità è sempre più sfuggente nella società”, Valditara riforma l’esame per una “valutazione migliore” che premi “la crescita della persona a 360 gradi”",
+                "link": "https://www.orizzontescuola.it/la-maturita-e-sempre-piu-sfuggente-nella-societa-valditara-riforma-lesame-per-una-valutazione-migliore-che-premi-la-crescita-della-persona-a-360-gradi/",
+                "date": "10 Set 2025",
+                "time": "9:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/Valditara_1.jpeg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Stop ai cellulari in classe, Valditara: “Non facciamo demagogia. Lo smartphone crea dipendenza e compromette memoria e concentrazione”",
+                "link": "https://www.orizzontescuola.it/stop-ai-cellulari-in-classe-valditara-non-facciamo-demagogia-lo-smartphone-crea-dipendenza-e-compromette-memoria-e-concentrazione/",
+                "date": "10 Set 2025",
+                "time": "9:36",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/Valditara.jpeg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti e ATA 2025/26: quali possono essere già attribuite dalle scuole Indicazioni Roma",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-e-ata-2025-26-quali-possono-essere-gia-attribuite-dalle-scuole-indicazioni-roma/",
+                "date": "10 Set 2025",
+                "time": "9:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2142727347.jpg"
+            },
+            {
+                "category": "Didattica",
+                "title": "“Non sei pronta per la matematica”, “Non sei da liceo”: valutare non è condannare. Dalla lezione di Edoardo Prati al bisogno di una nuova scuola",
+                "link": "https://www.orizzontescuola.it/non-sei-pronta-per-la-matematica-non-sei-da-liceo-valutare-non-e-condannare-dalla-lezione-di-edoardo-prati-al-bisogno-di-una-nuova-scuola/",
+                "date": "10 Set 2025",
+                "time": "8:56",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/06/shutterstock_600813572.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“Conoscere è l’unico modo per essere liberi” e “Sono i ‘no’ che ti portano avanti”: cosa ci dice davvero X Factor 2025",
+                "link": "https://www.orizzontescuola.it/conoscere-e-lunico-modo-per-essere-liberi-e-sono-i-no-che-ti-portano-avanti-cosa-ci-dice-davvero-x-factor-2025/",
+                "date": "10 Set 2025",
+                "time": "8:28",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_1498820843.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Docenti neoassunti 2024/25: rendicontazione delle risorse entro il 30 settembre",
+                "link": "https://www.orizzontescuola.it/docenti-neoassunti-2024-25-rendicontazione-delle-risorse-entro-il-30-settembre/",
+                "date": "10 Set 2025",
+                "time": "8:22",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_448000054-scaled.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Convegno internazionale Erickson 2025: “La Qualità dell’inclusione scolastica e sociale”",
+                "link": "https://www.orizzontescuola.it/convegno-internazionale-erickson-2025-la-qualita-dellinclusione-scolastica-e-sociale/",
+                "date": "10 Set 2025",
+                "time": "8:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Screenshot-2025-09-10-061528.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Caro affitti e docenti fuori sede, la storia di Annachiara: “Dalla Basilicata a Firenze, 1.150 euro di affitto. Ho rischiato di perdere il ruolo, ma non mollo”. INTERVISTA",
+                "link": "https://www.orizzontescuola.it/caro-affitti-e-docenti-fuori-sede-la-storia-di-annachiara-dalla-basilicata-a-firenze-1-150-euro-di-affitto-ho-rischiato-di-perdere-il-ruolo-ma-non-mollo-intervista/",
+                "date": "10 Set 2025",
+                "time": "8:01",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_665588911-1.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "La nomina dei referenti per educazione alla salute, INVALSI, dispersione e dipartimento matematica-scienze-tecnologia: i modelli da scaricare",
+                "link": "https://www.orizzontescuola.it/la-nomina-dei-referenti-per-educazione-alla-salute-invalsi-dispersione-e-dipartimento-matematica-scienze-tecnologia-i-modelli-da-scaricare/",
+                "date": "10 Set 2025",
+                "time": "7:57",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1129583327.jpg"
+            },
+            null,
+            null,
+            null,
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Come compilare il PEI senza errori: tutta la procedura passo dopo passo. QUESTION TIME con Gallo. LIVE Mercoledì 10 settembre alle 16:00",
+                "link": "https://www.orizzontescuola.it/come-compilare-il-pei-senza-errori-tutta-la-procedura-passo-dopo-passo-question-time-con-gallo-live-mercoledi-10-settembre-alle-1600/",
+                "date": "10 Set 2025",
+                "time": "7:27",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Template_questiontime_1920x1080-8.png"
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
         "articles": [
             {
                 "category": "Diventare Insegnanti",
@@ -72,14 +184,6 @@
                 "date": "9 Set 2025",
                 "time": "15:53",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_120805804.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Come compilare il PEI senza errori: tutta la procedura passo dopo passo. QUESTION TIME con Gallo. LIVE Mercoledì 10 settembre alle 16:00",
-                "link": "https://www.orizzontescuola.it/come-compilare-il-pei-senza-errori-tutta-la-procedura-passo-dopo-passo-question-time-con-gallo-live-mercoledi-10-settembre-alle-1600/",
-                "date": "9 Set 2025",
-                "time": "14:48",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Template_questiontime_1920x1080-8.png"
             },
             {
                 "category": "Diventare Insegnanti",
@@ -136,12 +240,7 @@
                 "date": "9 Set 2025",
                 "time": "12:01",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1508556191.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Sostegno tra precarietà e continuità didattica su richiesta familiare: dal TAR Lazio al reclamo collettivo in Europa. DIRITTO IN CATTEDRA con Miceli. LIVE Giovedì 11 settembre alle 17:00",
@@ -165,132 +264,36 @@
                 "date": "9 Set 2025",
                 "time": "11:33",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/WhatsApp-Image-2025-03-25-at-07.02.37.jpeg"
-            },
-            {
-                "category": "ATA",
-                "title": "Supplenze ATA su spezzone: completamento sempre garantito, ma solo nello stesso profilo",
-                "link": "https://www.orizzontescuola.it/supplenze-ata-su-spezzone-completamento-sempre-garantito-ma-solo-nello-stesso-profilo/",
-                "date": "9 Set 2025",
-                "time": "11:24",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Primo giorno di scuola, “ancora una foto in verticale per Instagram”, la mamma, la figlia di 8 anni e i rischi dello sharenting: “1.500 foto online prima dei 5 anni, ‘prodotto’ per algoritmo e dark web”",
-                "link": "https://www.orizzontescuola.it/primo-giorno-di-scuola-ancora-una-foto-in-verticale-per-instagram-la-mamma-la-figlia-di-8-anni-e-i-rischi-dello-sharenting-1-500-foto-online-prima-dei-5-anni-prodotto-per-algoritmo-e-da/",
-                "date": "9 Set 2025",
-                "time": "11:19",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_2360709357-scaled.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Rapporto OCSE 2025, Valditara illustra i successi dell’Italia contro la dispersione scolastica: “Dati sotto il 10% per la prima volta. Obiettivi europei raggiunti in anticipo”",
-                "link": "https://www.orizzontescuola.it/rapporto-ocse-2025-valditara-illustra-i-successi-dellitalia-contro-la-dispersione-scolastica-obiettivi-europei-raggiunti-in-anticipo/",
-                "date": "9 Set 2025",
-                "time": "10:53",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Valditara-1.png"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Stipendi docenti, l’Italia fanalino di coda OCSE, diminuiti del 4,4% in 10 anni e inferiori del 33% rispetto a quelli dei lavoratori a tempo pieno con una laurea. I dati",
-                "link": "https://www.orizzontescuola.it/stipendi-docenti-litalia-fanalino-di-coda-ocse-retribuzioni-inferiori-del-33-rispetto-ai-laureati-mentre-gli-altri-paesi-investono-nellistruzione/",
-                "date": "9 Set 2025",
-                "time": "10:38",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Modello-immagine-sito-13.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "Maturità, prove sessione straordinaria al via il 10 settembre. Le date, chi partecipa",
-                "link": "https://www.orizzontescuola.it/maturita-prove-sessione-straordinaria-al-via-il-10-settembre-le-date-chi-partecipa/",
-                "date": "9 Set 2025",
-                "time": "10:34",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/02/shutterstock_1563836323.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Registro elettronico sotto accusa: “Crea accanimento dei genitori e danneggia l’autonomia degli studenti”, la provocazione di Daniele Novara che divide il mondo della scuola",
-                "link": "https://www.orizzontescuola.it/registro-elettronico-sotto-accusa-daniele-novara-chiede-di-eliminare-lo-strumento-che-accanisce-le-famiglie/",
-                "date": "9 Set 2025",
-                "time": "10:32",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/1713607528765.jpg"
-            },
-            {
-                "category": "Guide",
-                "title": "Permessi brevi per docenti ed ATA: come funzionano? La scheda",
-                "link": "https://www.orizzontescuola.it/permessi-brevi-per-docenti-ed-ata-come-funzionano-la-scheda/",
-                "date": "9 Set 2025",
-                "time": "10:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_2229678829.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze GPS docenti 2025, dal primo al secondo bollettino: revoche, rettifiche e nuove disponibilità. RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/supplenze-gps-docenti-2025-dal-primo-al-secondo-bollettino-revoche-rettifiche-e-nuove-disponibilita-risposte-ai-quesiti/",
-                "date": "9 Set 2025",
-                "time": "9:56",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1669106749.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Stipendi docenti e ATA, come leggere il cedolino: guida completa alle voci stipendiali del personale scolastico. Le risposte alle domande più frequenti [VIDEO]",
-                "link": "https://www.orizzontescuola.it/come-decifrare-il-cedolino-guida-completa-alle-voci-stipendiali-del-personale-scolastico-le-risposte-alle-domande-piu-frequenti-video/",
-                "date": "9 Set 2025",
-                "time": "9:38",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Template_questiontime_1920x1080-7.png"
-            },
-            {
-                "category": "Docenti",
-                "title": "Affrontare e gestire i segnali di difficoltà, disagio e pregiudizio a scuola: il Vademecum del Garante Minori e USR Lombardia",
-                "link": "https://www.orizzontescuola.it/affrontare-e-gestire-i-segnali-di-difficolta-disagio-e-pregiudizio-a-scuola-il-vademecum-di-regione-e-usr-lombardia/",
-                "date": "9 Set 2025",
-                "time": "9:26",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_2114992733.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Italia fanalino di coda OCSE per laureati (solo il 22% contro il 42% nel resto del mondo), ma leader nella lotta ai NEET. Un Paese spaccato con segnali di ripresa tra i giovani",
-                "link": "https://www.orizzontescuola.it/italia-fanalino-di-coda-ocse-per-laureati-solo-il-22-contro-il-42-nel-resto-del-mondo-ma-leader-nella-lotta-ai-neet-un-paese-spaccato-ma-con-segnali-di-ripresa-tra-i-giovani/",
-                "date": "9 Set 2025",
-                "time": "9:14",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/12/shutterstock_200191574.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Alfabetizzazione in declino e competenze perdute: 6 adulti su 10 senza diploma superiore non sanno leggere testi complessi. I dati OCSE che preoccupano l’Europa",
-                "link": "https://www.orizzontescuola.it/alfabetizzazione-in-declino-e-competenze-perdute-6-adulti-su-10-senza-diploma-superiore-non-sanno-leggere-testi-complessi-i-dati-ocse-che-preoccupano-leuropa/",
-                "date": "9 Set 2025",
-                "time": "9:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/12/shutterstock_1785688787-scaled.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Piano Casa per gli insegnanti che vincono una cattedra al Nord, Valditara: “Soluzione intelligente ed efficace, mi coordinerò con il Ministro Salvini”",
-                "link": "https://www.orizzontescuola.it/piano-casa-per-gli-insegnanti-che-vincono-una-cattedra-al-nord-valditara-soluzione-intelligente-ed-efficace-mi-coordinero-con-il-ministro-salvini/",
-                "date": "9 Set 2025",
-                "time": "9:04",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Valditara-4.png"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Nei collegi docenti non si parla di attualità geopolitica”, la comunicazione dell’USR Lazio. Poi il chiarimento",
-                "link": "https://www.orizzontescuola.it/nei-collegi-docenti-non-si-parla-di-attualita-geopolitica-la-comunicazione-dellusr-lazio-poi/",
-                "date": "9 Set 2025",
-                "time": "8:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_358967342.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“La noia in classe costa cara”, alunno plusdotato con 6 in condotta viene bocciato. Genitori fanno ricorso al TAR e lo vincono: scuola condannata per aver negato il PDP richiesto",
-                "link": "https://www.orizzontescuola.it/la-noia-in-classe-costa-cara-alunno-plusdotato-con-6-in-condotta-viene-bocciato-genitori-fanno-ricorso-al-tar-e-lo-vincono-scuola-condannata-per-aver-negato-il-pdp-richiesto/",
-                "date": "9 Set 2025",
-                "time": "8:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2556788731-scaled.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Fracassi (Flc Cgil): “La scuola diventa autoritaria, stipendi da fame e precariato record. Mobilitazione il 18 ottobre”",
+                "link": "https://www.orizzontescuola.it/fracassi-flc-cgil-la-scuola-diventa-autoritaria-stipendi-da-fame-e-precariato-record-mobilitazione-il-18-ottobre/",
+                "date": "10 Set 2025",
+                "time": "10:24",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Valditara lancia il modello “campus aziendale”: 4 anni di tecnici più 2 opzionali negli Its per formare figure professionali che il mercato richiede ma non trova",
+                "link": "https://www.orizzontescuola.it/valditara-lancia-il-modello-campus-aziendale-4-anni-di-tecnici-piu-2-opzionali-negli-its-per-formare-figure-professionali-che-il-mercato-richiede-ma-non-trova/",
+                "date": "10 Set 2025",
+                "time": "10:14",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Allarme baby gang (+78%), Tenerini (Forza Italia): “Rafforzare scuola e associazioni sportive per compensare il vuoto lasciato dalle famiglie moderne isolate”",
+                "link": "https://www.orizzontescuola.it/allarme-baby-gang-78-tenerini-forza-italia-rafforzare-scuola-e-associazioni-sportive-per-compensare-il-vuoto-lasciato-dalle-famiglie-moderne-isolate/",
+                "date": "10 Set 2025",
+                "time": "9:03",
+                "image_link": "N/A"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Valditara: “Con il divieto del cellulare in classe difendiamo la salute dei nostri giovani e anche i loro apprendimenti”",
@@ -318,7 +321,7 @@
             null,
             {
                 "category": "ATA",
-                "title": "A Milano circa 5600 docenti assunti in ruolo, prossima settimana II bollettino supplenze da GPS",
+                "title": "A Milano circa 5600 docenti assunti, prossima settimana II bollettino supplenze da GPS",
                 "link": "https://www.orizzontescuola.it/a-milano-circa-5600-docenti-assunti-in-ruolo-prossima-settimana-ii-bollettino-supplenze-da-gps/",
                 "date": "9 Set 2025",
                 "time": "18:41",
@@ -389,36 +392,20 @@
                 "time": "15:25",
                 "image_link": "N/A"
             },
-            null,
-            {
-                "category": "Politica scolastica",
-                "title": "Stipendi docenti, Piccolotti attacca: “Basta passerelle, servono risorse concrete. Il report internazionale dell’OCSE smentisce la propaganda governativa”",
-                "link": "https://www.orizzontescuola.it/stipendi-docenti-piccolotti-attacca-basta-passerelle-servono-risorse-concrete-il-report-internazionale-dellocse-smentisce-la-propaganda-governativa/",
-                "date": "9 Set 2025",
-                "time": "14:47",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "A Palermo avvio con tanti disagi: aule chiuse, spostamenti di alunni in altri plessi, doppi turni, palestre inagibili da anni, lezioni negli scantinati, sale prof in corridoio. La denuncia della Flc Cgil",
-                "link": "https://www.orizzontescuola.it/a-palermo-avvio-con-tanti-disagi-aule-chiuse-spostamenti-di-alunni-in-altri-plessi-doppi-turni-palestre-inagibili-da-anni-lezioni-negli-scantinati-sale-prof-in-corridoio-la-denuncia-della-flc-c/",
-                "date": "9 Set 2025",
-                "time": "14:42",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Riformare il calendario scolastico? Galiano: “La struttura attuale in Italia penalizza i più deboli e accentua le diseguaglianze”",
-                "link": "https://www.orizzontescuola.it/riformare-il-calendario-scolastico-galiano-la-struttura-attuale-in-italia-penalizza-i-piu-deboli-e-accentua-le-diseguaglianze/",
-                "date": "9 Set 2025",
-                "time": "14:33",
-                "image_link": "N/A"
-            }
+            null
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Stipendi docenti e ATA, come leggere il cedolino: guida completa alle voci stipendiali del personale scolastico. Le risposte alle domande più frequenti [VIDEO]",
+                "link": "https://www.orizzontescuola.it/come-decifrare-il-cedolino-guida-completa-alle-voci-stipendiali-del-personale-scolastico-le-risposte-alle-domande-piu-frequenti-video/",
+                "date": "9 Set 2025",
+                "time": "9:38",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Immissioni in ruolo 25/26: docente già assunto può accettare nuova nomina, a prescindere dall’a.s. della precedente assunzione",
@@ -522,20 +509,28 @@
                 "date": "27 Ago 2025",
                 "time": "12:49",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Mobilità docenti e vincolo preferenza: per tre anni non si può chiedere né trasferimento né passaggio",
-                "link": "https://www.orizzontescuola.it/mobilita-docenti-e-vincolo-preferenza-per-tre-anni-non-si-puo-chiedere-ne-trasferimento-ne-passaggio/",
-                "date": "26 Ago 2025",
-                "time": "20:15",
-                "image_link": "N/A"
             }
         ]
     },
     "group_6": {
         "title": "Diventare Insegnanti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Nomine da GPS: l’algoritmo mi ha saltata? mi ha considerato rinunciataria? Come leggere il bollettino. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/nomine-da-gps-lalgoritmo-mi-ha-saltata-mi-ha-considerato-rinunciataria-come-leggere-il-bollettino-pillole-di-question-time/",
+                "date": "7 Set 2025",
+                "time": "15:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2251238405.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti: si può completare un orario su spezzone senza richiesta di completamento? Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-si-puo-completare-un-orario-su-spezzone-senza-richiesta-di-completamento-pillole-di-question-time/",
+                "date": "7 Set 2025",
+                "time": "10:42",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2554071589.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze docenti 2025, l’algoritmo non sbaglia ma le rettifiche alle nomine sono tante. Cosa succede. Pillole di Question Time",
@@ -567,28 +562,20 @@
                 "date": "6 Set 2025",
                 "time": "12:21",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2361952943-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025, come verificare la correttezza delle nomine. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-come-verificare-la-correttezza-delle-nomine-pillole-di-question-time/",
-                "date": "6 Set 2025",
-                "time": "9:43",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2471109121.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze “fino ad avente diritto”: quando saranno ancora utilizzate nell’anno scolastico in corso. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/supplenze-fino-ad-avente-diritto-quando-saranno-ancora-utilizzate-nellanno-scolastico-in-corso-pillole-di-question-time/",
-                "date": "5 Set 2025",
-                "time": "20:47",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
+            {
+                "category": "ATA",
+                "title": "ATA, legittima l’imposizione delle ferie nei giorni di chiusura prefestiva delle scuole. Corte di Cassazione conferma orientamento",
+                "link": "https://www.orizzontescuola.it/legittima-limposizione-delle-ferie-nei-giorni-di-chiusura-prefestiva-delle-scuole-la-corte-di-cassazione-conferma-orientamento/",
+                "date": "3 Set 2025",
+                "time": "15:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/12/corte-suprema-di-cassazione-3682663_1920-1200x800.jpg"
+            },
             {
                 "category": "ATA",
                 "title": "Supplenze ATA 2025/26: nomine, CIAD, scorrimento graduatorie. RISPOSTE AI QUESITI",
@@ -628,14 +615,6 @@
                 "date": "25 Ago 2025",
                 "time": "14:59",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_1853707816-scaled.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Nuove graduatorie di terza fascia ATA senza riservisti CIAD: dove vederle",
-                "link": "https://www.orizzontescuola.it/nuove-graduatorie-di-terza-fascia-ata-senza-riservisti-ciad-dove-vederle/",
-                "date": "22 Ago 2025",
-                "time": "13:17",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/Screenshot-2024-09-03-130127.png"
             }
         ]
     },
