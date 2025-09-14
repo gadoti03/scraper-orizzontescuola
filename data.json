@@ -25,6 +25,30 @@
         "articles": [
             {
                 "category": "Cronaca",
+                "title": "Pagelle solo a fine anno, la decisione di un liceo a Ravenna. La dirigente: “Le verifiche di fine quadrimestre generavano forte stress sugli studenti. Il voto, però, non verrà eliminato”",
+                "link": "https://www.orizzontescuola.it/pagelle-solo-a-fine-anno-la-decisione-di-un-liceo-a-ravenna-la-dirigente-le-verifiche-di-fine-quadrimestre-generavano-forte-stress-sugli-studenti-il-voto-pero-non-verra-eliminato-didattica-fl/",
+                "date": "14 Set 2025",
+                "time": "10:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/03/pagella.jpg"
+            },
+            {
+                "category": "Genitori",
+                "title": "Perché i figli di genitori sedentari trascorrono 8 ore al giorno immobili mentre quelli di genitori attivi no? La scoperta in Brasile che rivoluziona l’educazione familiare",
+                "link": "https://www.orizzontescuola.it/perche-i-figli-di-genitori-sedentari-trascorrono-8-ore-al-giorno-immobili-mentre-quelli-di-genitori-attivi-no-la-scoperta-in-brasile-che-rivoluziona-leducazione-familiare/",
+                "date": "14 Set 2025",
+                "time": "10:42",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/educazione-motoria-edises.png"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Riforma 4+2, Valditara: “Sarà obbligatoria, ogni scuola dovrà proporre almeno un corso, organizzato in collaborazione con Its e imprese”",
+                "link": "https://www.orizzontescuola.it/riforma-42-valditara-sara-obbligatorio-ogni-scuola-dovra-proporre-almeno-un-corso-organizzato-in-collaborazione-con-its-e-imprese/",
+                "date": "14 Set 2025",
+                "time": "10:34",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-26-at-21.57.37.jpeg"
+            },
+            {
+                "category": "Cronaca",
                 "title": "Porta del bagno a scuola si apre all’improvviso e ferisce alunno. I giudici negano il risarcimento di 20mila euro alla famiglia: “Non tutti gli incidenti possono essere prevenuti dal personale scolastico”",
                 "link": "https://www.orizzontescuola.it/porta-del-bagno-a-scuola-si-apre-allimprovviso-e-ferisce-alunno-i-giudici-negano-il-risarcimento-di-20mila-euro-alla-famiglia-non-tutti-gli-incidenti-possono-essere-prevenuti-dal-personale-scola/",
                 "date": "14 Set 2025",
@@ -119,7 +143,12 @@
                 "date": "13 Set 2025",
                 "time": "13:13",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Valditara-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Stipendio",
                 "title": "Stipendi docenti e ATA, come leggere il cedolino: perché dicembre è il “mese pulito” che alleggerisce le ritenute",
@@ -143,12 +172,7 @@
                 "date": "13 Set 2025",
                 "time": "11:29",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/07/shutterstock_1029430792.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Studenti",
                 "title": "Libri di testo, l’Italia che non cambia: mercato da 800 milioni dominato da quattro gruppi mentre studenti e genitori subiscono prezzi in aumento e poche alternative",
@@ -240,36 +264,44 @@
                 "date": "12 Set 2025",
                 "time": "19:54",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/Crepet.png"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Professore universitario escluso per false dichiarazioni: il Consiglio di Stato stabilisce che curriculum vitae e domanda hanno la stessa rilevanza giuridica",
-                "link": "https://www.orizzontescuola.it/professore-universitario-escluso-per-false-dichiarazioni-il-consiglio-di-stato-stabilisce-che-curriculum-vitae-e-domanda-hanno-la-stessa-rilevanza-giuridica/",
-                "date": "12 Set 2025",
-                "time": "19:24",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/06/shutterstock_1890232807.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Il dirigente scolastico e le responsabilità connesse alla sicurezza degli studenti: dall’organizzazione della vigilanza allo svolgimento delle attività esterne",
-                "link": "https://www.orizzontescuola.it/il-dirigente-scolastico-e-le-responsabilita-connesse-alla-sicurezza-degli-studenti-dallorganizzazione-della-vigilanza-allo-svolgimento-delle-attivita-esterne/",
-                "date": "12 Set 2025",
-                "time": "19:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_2411289915.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Decreto Scuola, il 16 settembre inizia l’iter in Commissione Cultura al Senato",
-                "link": "https://www.orizzontescuola.it/decreto-scuola-il-16-settembre-inizia-liter-in-commissione-cultura-al-senato/",
-                "date": "12 Set 2025",
-                "time": "18:53",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/Senato.jpeg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Bonus Psicologo 2025: domande dal 15 settembre, come presentare la richiesta all’INPS",
+                "link": "https://www.orizzontescuola.it/bonus-psicologo-2025-domande-dal-15-settembre-come-presentare-la-richiesta-allinps/",
+                "date": "14 Set 2025",
+                "time": "14:20",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Studente quindicenne si toglie la vita dopo vessazioni continue. La famiglia scrive a Meloni e Valditara",
+                "link": "https://www.orizzontescuola.it/studente-quindicenne-si-toglie-la-vita-dopo-vessazioni-continue-la-famiglia-scrive-a-meloni-e-valditara/",
+                "date": "14 Set 2025",
+                "time": "13:24",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "ErasmusDays 2025, dal 13 al 18 ottobre: come partecipare",
+                "link": "https://www.orizzontescuola.it/erasmusdays-2025-dal-13-al-18-ottobre-come-partecipare/",
+                "date": "14 Set 2025",
+                "time": "11:46",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Papa Leone XIV festeggia i 70 anni: auguri dal mondo istituzionale e scolastico. Mattarella promette visita al Quirinale e lancia appello alla pace, Valditara augura serenità",
+                "link": "https://www.orizzontescuola.it/papa-leone-xiv-festeggia-i-70-anni-auguri-dal-mondo-istituzionale-e-scolastico-mattarella-promette-visita-al-quirinale-e-lancia-appello-alla-pace-valditara-augura-serenita/",
+                "date": "14 Set 2025",
+                "time": "11:41",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "L’obesità infantile sorpassa il sottopeso: allarme UNICEF per 188 milioni di giovani",
@@ -380,38 +412,6 @@
                 "link": "https://www.orizzontescuola.it/educazione-alimentare-obbligatoria-a-scuola-i-tecnologi-alimentari-lanciano-raccolta-firme-per-una-legge-che-rivoluzionera-la-didattica/",
                 "date": "13 Set 2025",
                 "time": "13:53",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Corsa all’ultimo minuto per il materiale scolastico: 7 italiani su 10 rimandano gli acquisti. Tradizione batte tecnologia: carta e penna resistono al digitale",
-                "link": "https://www.orizzontescuola.it/corsa-allultimo-minuto-per-il-materiale-scolastico-7-italiani-su-10-rimandano-gli-acquisti/",
-                "date": "13 Set 2025",
-                "time": "12:52",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Emilia-Romagna, oltre 27 milioni per il nuovo anno scolastico: focus su inclusione e contrasto alla dispersione",
-                "link": "https://www.orizzontescuola.it/emilia-romagna-oltre-27-milioni-per-il-nuovo-anno-scolastico-focus-su-inclusione-e-contrasto-alla-dispersione/",
-                "date": "13 Set 2025",
-                "time": "12:25",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Studenti sempre più fragili, una ricerca in Lombardia rivela: psicologi scolastici essenziali ma mancano ore e spazi adeguati per intervenire efficacemente”",
-                "link": "https://www.orizzontescuola.it/studenti-sempre-piu-fragili-una-ricerca-in-lombardia-rivela-psicologi-scolastici-essenziali-ma-mancano-ore-e-spazi-adeguati-per-intervenire-efficacemente/",
-                "date": "13 Set 2025",
-                "time": "12:14",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Regione Siciliana, 700mila euro per l’intelligenza artificiale nelle scuole: al via il bando per l’innovazione didattica",
-                "link": "https://www.orizzontescuola.it/regione-siciliana-700mila-euro-per-lintelligenza-artificiale-nelle-scuole-al-via-il-bando-per-linnovazione-didattica/",
-                "date": "13 Set 2025",
-                "time": "11:33",
                 "image_link": "N/A"
             }
         ]
