@@ -24,6 +24,22 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Docenti",
+                "title": "Questionario Docente SNV: dal 18 al 25 settembre la compilazione su LimeSurvey",
+                "link": "https://www.orizzontescuola.it/questionario-docente-snv-dal-18-al-25-settembre-la-compilazione-su-limesurvey/",
+                "date": "14 Set 2025",
+                "time": "20:05",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1785502850-scaled.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Alunna bocciata in seconda media, nonostante i voti positivi, per 90 giorni di assenza: il TAR annulla la decisione della scuola e ordina nuovo scrutinio",
+                "link": "https://www.orizzontescuola.it/alunna-bocciata-nonostante-i-voti-positivi-per-90-giorni-di-assenza-il-tar-annulla-la-decisione-della-scuola-e-ordina-nuovo-scrutinio/",
+                "date": "14 Set 2025",
+                "time": "18:31",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/02/shutterstock_1198785832.jpg"
+            },
+            {
                 "category": "Chiedilo a Lalla",
                 "title": "Supplenze GPS docenti: tra bollettini e algoritmi scatta l’ora degli interpelli. QUESTION TIME con Cannas. LIVE Lunedì 15 settembre alle 14:30",
                 "link": "https://www.orizzontescuola.it/supplenze-gps-docenti-tra-bollettini-e-algoritmi-scatta-lora-degli-interpelli-question-time-con-cannas-live-lunedi-15-settembre-alle-1430/",
@@ -81,7 +97,7 @@
             },
             {
                 "category": "Cronaca",
-                "title": "“Abilitazione e master, ma ad oggi non ho la cattedra. Invio curriculum all’estero, voglio uscire da questo sistema iniquo”",
+                "title": "“Abilitazione e master, ma ad oggi non ho la cattedra. Invio curriculum all’estero, voglio uscire da questo sistema iniquo”: la denuncia di Veronica, insegnante precaria",
                 "link": "https://www.orizzontescuola.it/abilitazione-e-master-ma-ad-oggi-non-ho-la-cattedra-invio-curriculum-allestero-voglio-uscire-da-questo-sistema-iniquo/",
                 "date": "14 Set 2025",
                 "time": "8:43",
@@ -127,7 +143,12 @@
                 "date": "13 Set 2025",
                 "time": "15:31",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/shutterstock_2566358253-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Galimberti attacca la scuola-azienda: “Con l’alternanza scuola-lavoro rubiamo 150 ore alla formazione dell’uomo per creare solo strumenti utili al mercato. La scuola non deve servire, deve formare l’uomo”",
@@ -143,12 +164,7 @@
                 "date": "13 Set 2025",
                 "time": "14:32",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/11/shutterstock_140867215.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Verde urbano salva-vita: la ricerca internazionale rivela che il 5% di alberi in più eviterebbe 5mila morti premature, ma le scuole italiane restano in zone poco alberate",
@@ -255,23 +271,7 @@
             },
             null,
             null,
-            null,
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: nomine secondo, terzo, quarto bollettino [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
-                "date": "12 Set 2025",
-                "time": "20:41",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/tfa-sostegno-IX-ciclo.png"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Decreto Scuola, arrivano 300 milioni per aumenti stipendi e assicurazione sanitaria estesa ai precari",
-                "link": "https://www.orizzontescuola.it/decreto-scuola-arrivano-300-milioni-per-aumenti-stipendi-e-assicurazione-sanitaria-estesa-ai-precari/",
-                "date": "12 Set 2025",
-                "time": "20:32",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/m_quanti-soldi-ci-sono-nel-mondo.jpg"
-            }
+            null
         ]
     },
     "group_4": {
@@ -598,6 +598,14 @@
         "articles": [
             {
                 "category": "ATA",
+                "title": "ATA terza fascia: in alcune province sono online le nuove graduatorie. Come visualizzarle",
+                "link": "https://www.orizzontescuola.it/ata-terza-fascia-in-alcune-province-sono-online-le-nuove-graduatorie-come-visualizzarle/",
+                "date": "9 Set 2025",
+                "time": "12:01",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1508556191.jpg"
+            },
+            {
+                "category": "ATA",
                 "title": "Supplenze ATA su spezzone: completamento sempre garantito, ma solo nello stesso profilo",
                 "link": "https://www.orizzontescuola.it/supplenze-ata-su-spezzone-completamento-sempre-garantito-ma-solo-nello-stesso-profilo/",
                 "date": "9 Set 2025",
@@ -635,14 +643,6 @@
                 "date": "3 Set 2025",
                 "time": "9:18",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_260198537.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Personale ATA a.s. 2025/2026: riconferma provvisoria sulla sede del 2024/2025. Ecco dove",
-                "link": "https://www.orizzontescuola.it/personale-ata-a-s-2025-2026-riconferma-provvisoria-sulla-sede-del-2024-2025-ecco-dove/",
-                "date": "31 Ago 2025",
-                "time": "13:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_386979994.jpg"
             }
         ]
     },
