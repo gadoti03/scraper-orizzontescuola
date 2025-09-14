@@ -24,6 +24,30 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Chiedilo a Lalla",
+                "title": "Supplenze GPS docenti: tra bollettini e algoritmi scatta l’ora degli interpelli. QUESTION TIME con Cannas. LIVE Lunedì 15 settembre alle 14:30",
+                "link": "https://www.orizzontescuola.it/supplenze-gps-docenti-tra-bollettini-e-algoritmi-scatta-lora-degli-interpelli-question-time-con-cannas-live-lunedi-15-settembre-alle-1430/",
+                "date": "14 Set 2025",
+                "time": "18:12",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Template_questiontime_1920x1080-10.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Stop ai cellulari in classe, Pellai: “Smartphone incredibile distrattore che deteriora le competenze di apprendimento dello studente”",
+                "link": "https://www.orizzontescuola.it/stop-ai-cellulari-in-classe-pellai-smartphone-incredibile-distrattore-che-deteriora-le-competenze-di-apprendimento-dello-studente/",
+                "date": "14 Set 2025",
+                "time": "15:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Screenshot-2025-02-20-alle-17.40.48.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Insegnante di scuola primaria con allevamento di 250 capi ovicaprini: il Tribunale conferma maxi-addebito INPS da 33mila euro per doppia attività lavorativa non dichiarata",
+                "link": "https://www.orizzontescuola.it/insegnante-di-scuola-primaria-con-allevamento-di-250-capi-ovicaprini-il-tribunale-conferma-maxi-addebito-inps-da-33mila-euro-per-doppia-attivita-lavorativa-non-dichiarata/",
+                "date": "14 Set 2025",
+                "time": "14:49",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_2081360272-scaled.jpg"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Pagelle solo a fine anno, la decisione di un liceo a Ravenna. La dirigente: “Le verifiche di fine quadrimestre generavano forte stress sugli studenti. Il voto, però, non verrà eliminato”",
                 "link": "https://www.orizzontescuola.it/pagelle-solo-a-fine-anno-la-decisione-di-un-liceo-a-ravenna-la-dirigente-le-verifiche-di-fine-quadrimestre-generavano-forte-stress-sugli-studenti-il-voto-pero-non-verra-eliminato-didattica-fl/",
@@ -119,7 +143,12 @@
                 "date": "13 Set 2025",
                 "time": "14:32",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/11/shutterstock_140867215.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Verde urbano salva-vita: la ricerca internazionale rivela che il 5% di alberi in più eviterebbe 5mila morti premature, ma le scuole italiane restano in zone poco alberate",
@@ -143,12 +172,7 @@
                 "date": "13 Set 2025",
                 "time": "13:13",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Valditara-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Stipendio",
                 "title": "Stipendi docenti e ATA, come leggere il cedolino: perché dicembre è il “mese pulito” che alleggerisce le ritenute",
@@ -247,29 +271,28 @@
                 "date": "12 Set 2025",
                 "time": "20:32",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/m_quanti-soldi-ci-sono-nel-mondo.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "ATA, supplenze 2025/26 anche da graduatorie di terza fascia: ecco dove c’è la liberatoria",
-                "link": "https://www.orizzontescuola.it/ata-supplenze-2025-26-anche-da-terza-fascia-ecco-dove-ce-la-liberatoria/",
-                "date": "12 Set 2025",
-                "time": "20:31",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1687192501-scaled.jpg"
-            },
-            null,
-            {
-                "category": "Cronaca",
-                "title": "“Senza passione non si va da nessuna parte”, Crepet: “I cervelli in fuga? Una vigliaccata, vanno in America non scappano dall’Italia”",
-                "link": "https://www.orizzontescuola.it/senza-passione-non-si-va-da-nessuna-parte-crepet-i-cervelli-in-fuga-una-vigliaccata-vanno-in-america-non-scappano-dallitalia/",
-                "date": "12 Set 2025",
-                "time": "19:54",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/Crepet.png"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Ristorazione scolastica in crisi: boom dei prezzi alimentari mette a rischio i pasti nelle scuole. Costi schizzati del 30% dal 2019. Aziende senza tutele economiche",
+                "link": "https://www.orizzontescuola.it/ristorazione-scolastica-in-crisi-boom-dei-prezzi-alimentari-mette-a-rischio-i-pasti-nelle-scuole-costi-schizzati-del-30-dal-2019-aziende-senza-tutele-economiche/",
+                "date": "14 Set 2025",
+                "time": "17:29",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Alunni stranieri, cresce il numero ma non il loro inserimento e profitto: per i due terzi voti bassi e liceo disertato. Anief chiede interventi ad hoc: docenti specializzati, organici maggiorati laddove necessario e compresenze",
+                "link": "https://www.orizzontescuola.it/alunni-stranieri-cresce-il-numero-ma-non-il-loro-inserimento-e-profitto-per-i-due-terzi-voti-bassi-e-liceo-disertato-anief-chiede-interventi-ad-hoc-docenti-specializzati-organici-maggiorati-laddo/",
+                "date": "14 Set 2025",
+                "time": "17:26",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Bonus Psicologo 2025: domande dal 15 settembre, come presentare la richiesta all’INPS",
@@ -280,7 +303,7 @@
             },
             {
                 "category": "Cronaca",
-                "title": "Studente quindicenne si toglie la vita dopo vessazioni continue. La famiglia scrive a Meloni e Valditara",
+                "title": "Studente quindicenne si toglie la vita dopo vessazioni continue. La famiglia scrive a Meloni e Valditara. Il Ministero: “Subito ispezioni”",
                 "link": "https://www.orizzontescuola.it/studente-quindicenne-si-toglie-la-vita-dopo-vessazioni-continue-la-famiglia-scrive-a-meloni-e-valditara/",
                 "date": "14 Set 2025",
                 "time": "13:24",
@@ -396,22 +419,6 @@
                 "link": "https://www.orizzontescuola.it/mollicone-la-sinistra-sprecava-i-soldi-per-i-banchi-a-rotelle-con-noi-dispersione-scolastica-in-calo-record-e-smartphone-vietati-in-classe/",
                 "date": "13 Set 2025",
                 "time": "14:20",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Genitori",
-                "title": "Otto genitori su dieci usano il seggiolino, ma uno su cinque ha ceduto almeno una volta a fretta e comodità. L’indagine Autohero svela le lacune nella sicurezza stradale",
-                "link": "https://www.orizzontescuola.it/otto-genitori-su-dieci-usano-il-seggiolino-ma-uno-su-cinque-ha-ceduto-almeno-una-volta-a-fretta-e-comodita-lindagine-autohero-svela-le-lacune-nella-sicurezza-stradale/",
-                "date": "13 Set 2025",
-                "time": "14:08",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Educazione alimentare obbligatoria a scuola: i tecnologi alimentari lanciano raccolta firme per una legge che rivoluzionerà la didattica",
-                "link": "https://www.orizzontescuola.it/educazione-alimentare-obbligatoria-a-scuola-i-tecnologi-alimentari-lanciano-raccolta-firme-per-una-legge-che-rivoluzionera-la-didattica/",
-                "date": "13 Set 2025",
-                "time": "13:53",
                 "image_link": "N/A"
             }
         ]
@@ -697,6 +704,22 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "La nostra ”amata” chatgpt: forse stiamo diventando noi meno palpabili e reali? Lettera",
+                "link": "https://www.orizzontescuola.it/la-nostra-amata-chatgpt-forse-stiamo-diventando-noi-meno-palpabili-e-reali-lettera/",
+                "date": "14 Set 2025",
+                "time": "18:20",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
+                "title": "La professionalità e il merito di un docente di sostegno dovrebbero essere valorizzati e tutelati. Lettera",
+                "link": "https://www.orizzontescuola.it/la-professionalita-e-il-merito-di-un-docente-di-sostegno-dovrebbero-essere-valorizzati-e-tutelati-lettera/",
+                "date": "14 Set 2025",
+                "time": "18:14",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "Comuni e Province dovrebbero entrare di diritto nei Consigli di Istituto. Lettera",
                 "link": "https://www.orizzontescuola.it/comuni-e-province-dovrebbero-entrare-di-diritto-nei-consigli-di-istituto-lettera/",
                 "date": "10 Set 2025",
@@ -725,22 +748,6 @@
                 "link": "https://www.orizzontescuola.it/decreto-nuova-maturita-una-breve-sintesi-studenti-avvisati-lettera/",
                 "date": "7 Set 2025",
                 "time": "9:52",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Tra soglie di sbarramento nei punteggi, rinunce e sorrisi: il mio posto a scuola. Lettera",
-                "link": "https://www.orizzontescuola.it/tra-soglie-di-sbarramento-nei-punteggi-rinunce-e-sorrisi-il-mio-posto-a-scuola-lettera/",
-                "date": "7 Set 2025",
-                "time": "9:49",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Proposta: Commissari interni per entrambe le prove scritte del nuovo Esame di Maturità",
-                "link": "https://www.orizzontescuola.it/proposta-commissari-interni-per-entrambe-le-prove-scritte-del-nuovo-esame-di-maturita/",
-                "date": "6 Set 2025",
-                "time": "19:01",
                 "image_link": "N/A"
             }
         ]
