@@ -17,6 +17,46 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: i nuovi bollettini [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
+                "date": "15 Set 2025",
+                "time": "14:27",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/tfa-sostegno-IX-ciclo.png"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Valditara: “Docenti di sostegno specializzati con Indire e continuità didattica su richiesta delle famiglie. Il 41% ha confermato l’insegnante”",
+                "link": "https://www.orizzontescuola.it/valditara-docenti-di-sostegno-specializzati-con-indire-e-continuita-didattica-su-richiesta-delle-famiglie-il-41-ha-confermato-linsegnante/",
+                "date": "15 Set 2025",
+                "time": "13:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/Valditara.jpeg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Supplenze GPS docenti: tra bollettini e algoritmi scatta l’ora degli interpelli. QUESTION TIME con Cannas. LIVE Lunedì 15 settembre alle 14:30",
+                "link": "https://www.orizzontescuola.it/supplenze-gps-docenti-tra-bollettini-e-algoritmi-scatta-lora-degli-interpelli-question-time-con-cannas-live-lunedi-15-settembre-alle-1430/",
+                "date": "15 Set 2025",
+                "time": "12:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Template_questiontime_1920x1080-10.png"
+            },
+            {
+                "category": "Scuole",
+                "title": "Il dirigente scolastico e le responsabilità connesse alla sicurezza degli studenti: dall’organizzazione della vigilanza allo svolgimento delle attività esterne",
+                "link": "https://www.orizzontescuola.it/il-dirigente-scolastico-e-le-responsabilita-connesse-alla-sicurezza-degli-studenti-dallorganizzazione-della-vigilanza-allo-svolgimento-delle-attivita-esterne-2/",
+                "date": "15 Set 2025",
+                "time": "11:51",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_219161935.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Conosco l’IA, ma la capisco? Il divario educativo tra consapevolezza e comprensione",
+                "link": "https://www.orizzontescuola.it/conosco-lia-ma-la-capisco-il-divario-educativo-tra-consapevolezza-e-comprensione/",
+                "date": "15 Set 2025",
+                "time": "11:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/shutterstock_2605272025.jpg"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Solo metà degli edifici scolastici è sicura (il 47% possiede il certificato di agibilità), calano gli investimenti e i servizi arretrano. I dati di Legambiente",
                 "link": "https://www.orizzontescuola.it/solo-meta-degli-edifici-scolastici-e-sicura-il-47-possiede-il-certificato-di-agibilita-calano-gli-investimenti-e-i-servizi-arretrano-i-dati-di-legambiente-raccontano-25-anni-di-emergenza-edilizia/",
@@ -96,7 +136,12 @@
                 "time": "7:55",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_2228645243.jpg"
             },
-            null,
+            null
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             null,
             null,
             {
@@ -122,19 +167,6 @@
                 "date": "14 Set 2025",
                 "time": "18:31",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/02/shutterstock_1198785832.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Supplenze GPS docenti: tra bollettini e algoritmi scatta l’ora degli interpelli. QUESTION TIME con Cannas. LIVE Lunedì 15 settembre alle 14:30",
-                "link": "https://www.orizzontescuola.it/supplenze-gps-docenti-tra-bollettini-e-algoritmi-scatta-lora-degli-interpelli-question-time-con-cannas-live-lunedi-15-settembre-alle-1430/",
-                "date": "14 Set 2025",
-                "time": "18:12",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Template_questiontime_1920x1080-10.png"
             },
             {
                 "category": "Cronaca",
@@ -232,44 +264,108 @@
                 "date": "13 Set 2025",
                 "time": "15:31",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/shutterstock_2566358253-scaled.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Galimberti attacca la scuola-azienda: “Con l’alternanza scuola-lavoro rubiamo 150 ore alla formazione dell’uomo per creare solo strumenti utili al mercato. La scuola non deve servire, deve formare l’uomo”",
-                "link": "https://www.orizzontescuola.it/galimberti-attacca-la-scuola-azienda-con-lalternanza-scuola-lavoro-rubiamo-150-ore-alla-formazione-delluomo-per-creare-solo-strumenti-utili-al-mercato-la-scuola-non-deve-servire-deve-formare/",
-                "date": "13 Set 2025",
-                "time": "14:47",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Galimberti.png"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Scuola media boccia alunna con PEI senza misure compensative: il TAR accoglie ricorso e dispone ripetizione prove entro sette giorni dall’ordinanza",
-                "link": "https://www.orizzontescuola.it/scuola-media-boccia-alunna-con-pei-senza-misure-compensative-il-tar-accoglie-ricorso-e-dispone-ripetizione-prove-entro-sette-giorni-dallordinanza/",
-                "date": "13 Set 2025",
-                "time": "14:32",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/11/shutterstock_140867215.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Verde urbano salva-vita: la ricerca internazionale rivela che il 5% di alberi in più eviterebbe 5mila morti premature, ma le scuole italiane restano in zone poco alberate",
-                "link": "https://www.orizzontescuola.it/verde-urbano-salva-vita-la-ricerca-internazionale-rivela-che-il-5-di-alberi-in-piu-eviterebbe-5mila-morti-premature-ma-le-scuole-italiane-restano-in-zone-poco-alberate/",
-                "date": "13 Set 2025",
-                "time": "13:32",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_2428709529-scaled.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Renzi: “Gli insegnanti non possono permettersi un affitto a Milano, lo Stato distrugge la loro vocazione”",
-                "link": "https://www.orizzontescuola.it/renzi-gli-insegnanti-non-possono-permettersi-un-affitto-a-milano-lo-stato-distrugge-la-loro-vocazione/",
-                "date": "13 Set 2025",
-                "time": "13:28",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_2132449195-scaled.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Telefono Azzurro: condividere online le foto del primo giorno di scuola è un rischio per bambini e adolescenti",
+                "link": "https://www.orizzontescuola.it/telefono-azzurro-condividere-online-le-foto-del-primo-giorno-di-scuola-e-un-rischio-per-bambini-e-adolescenti/",
+                "date": "15 Set 2025",
+                "time": "14:40",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Bonus psicologo 2025: aperte le domande INPS fino al 14 novembre per ottenere contributi fino a 1.500 euro. Stanziamento potenziato a 9,5 milioni. Le parole del vice ministro Bellucci",
+                "link": "https://www.orizzontescuola.it/bonus-psicologo-2025-aperte-le-domande-inps-fino-al-14-novembre-per-ottenere-contributi-fino-a-1-500-euro-stanziamento-potenziato-a-95-milioni-le-parole-del-vice-ministro-bellucci/",
+                "date": "15 Set 2025",
+                "time": "14:05",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Stop ai cellulari in classe, Valditara: “Si tratta di ripristinare il senso della regola, il fatto che in una società ci sono dei diritti e dei doveri”",
+                "link": "https://www.orizzontescuola.it/stop-ai-cellulari-in-classe-valditara-si-tratta-di-ripristinare-il-senso-della-regola-il-fatto-che-in-una-societa-ci-sono-dei-diritti-e-dei-doveri/",
+                "date": "15 Set 2025",
+                "time": "13:12",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Ampliamento attività motorie a scuola: progetti Organismi sportivi CONI e CIP dal 15 settembre al 3 ottobre. CIRCOLARE",
+                "link": "https://www.orizzontescuola.it/ampliamento-attivita-motorie-a-scuola-progetti-organismi-sportivi-coni-e-cip-dal-15-settembre-al-3-ottobre-circolare/",
+                "date": "15 Set 2025",
+                "time": "12:52",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Salvini: “L’omicidio Kirk rivela un problema di democrazia. Ci sono stati anche alcuni presunti docenti che hanno festeggiato la morte di un trentunenne che lascia una vedova e due figli”",
+                "link": "https://www.orizzontescuola.it/salvini-lomicidio-kirk-rivela-un-problema-di-democrazia-ci-sono-stati-anche-alcuni-presunti-docenti-sono-quelli-che-festeggiano-la-morte-di-un-trentunenne-che-lascia-una-vedova-e-due-figl/",
+                "date": "15 Set 2025",
+                "time": "12:47",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Mattarella: “La Repubblica ha il dovere di proteggere l’infanzia”",
+                "link": "https://www.orizzontescuola.it/mattarella-la-repubblica-ha-il-dovere-di-proteggere-linfanzia/",
+                "date": "15 Set 2025",
+                "time": "12:43",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Meloni: “Buon rientro a tutti gli studenti. La scuola è il luogo in cui si costruisce il futuro dell’Italia”",
+                "link": "https://www.orizzontescuola.it/meloni-buon-rientro-a-tutti-gli-studenti-la-scuola-e-il-luogo-in-cui-si-costruisce-il-futuro-dellitalia/",
+                "date": "15 Set 2025",
+                "time": "11:33",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Studente morto suicida, Valditara: “Il tema del bullismo mi rattrista parecchio. Fenomeno in aumento in tutta Europa, legato all’abuso dei social network. Verificare se legge è stata rispettata”",
+                "link": "https://www.orizzontescuola.it/studente-morto-suicida-valditara-il-tema-del-bullismo-mi-rattrista-parecchio-fenomeno-in-aumento-in-tutta-europa-legato-allabuso-dei-social-network-verificare-se-legge-e-stata-rispettata/",
+                "date": "15 Set 2025",
+                "time": "11:24",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Valditara contro il caro scuola: defiscalizzazione in arrivo per contrastare spese record fino a 1.250 euro. L’Antitrust mette nel mirino il mercato dei libri scolastici",
+                "link": "https://www.orizzontescuola.it/valditara-contro-il-caro-scuola-defiscalizzazione-in-arrivo-per-contrastare-spese-record-fino-a-1-250-euro-lantitrust-mette-nel-mirino-il-mercato-dei-libri-scolastici/",
+                "date": "15 Set 2025",
+                "time": "11:15",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Gratteri: “I social hanno fatto emergere tutta l’ignoranza sociale. Una volta non si vedevano tanti ignoranti perché non potevano esibire la loro ignoranza, oggi con i social la possono esibire”",
+                "link": "https://www.orizzontescuola.it/gratteri-i-social-hanno-fatto-emergere-tutta-lignoranza-sociale-una-volta-non-si-vedevano-tanti-ignoranti-perche-non-potevano-esibire-la-loro-ignoranza-oggi-con-i-social-la-possono-esibire/",
+                "date": "15 Set 2025",
+                "time": "11:10",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Valditara: “La scuola deve avere un ruolo nel coltivare la cultura del rispetto”",
+                "link": "https://www.orizzontescuola.it/valditara-la-scuola-deve-avere-un-ruolo-nel-coltivare-la-cultura-del-rispetto/",
+                "date": "15 Set 2025",
+                "time": "11:02",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Studentessa di 15 anni muore travolta alla fermata da un camion: indagini sulla dinamica",
+                "link": "https://www.orizzontescuola.it/studentessa-di-15-anni-muore-travolta-alla-fermata-da-un-camion-indagini-sulla-dinamica/",
+                "date": "15 Set 2025",
+                "time": "10:37",
+                "image_link": "N/A"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Libri gratuiti, stop alla scuola-lavoro e trasporti senza costi: le rivendicazioni degli studenti al presidio davanti al Ministero con la “barca di carta” simbolo della loro protesta",
@@ -316,102 +412,6 @@
                 "link": "https://www.orizzontescuola.it/alunni-stranieri-cresce-il-numero-ma-non-il-loro-inserimento-e-profitto-per-i-due-terzi-voti-bassi-e-liceo-disertato-anief-chiede-interventi-ad-hoc-docenti-specializzati-organici-maggiorati-laddo/",
                 "date": "14 Set 2025",
                 "time": "17:26",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Bonus Psicologo 2025: domande dal 15 settembre, come presentare la richiesta all’INPS",
-                "link": "https://www.orizzontescuola.it/bonus-psicologo-2025-domande-dal-15-settembre-come-presentare-la-richiesta-allinps/",
-                "date": "14 Set 2025",
-                "time": "14:20",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Studente quindicenne si toglie la vita dopo vessazioni continue. La famiglia scrive a Meloni e Valditara. Il Ministero: “Subito ispezioni”",
-                "link": "https://www.orizzontescuola.it/studente-quindicenne-si-toglie-la-vita-dopo-vessazioni-continue-la-famiglia-scrive-a-meloni-e-valditara/",
-                "date": "14 Set 2025",
-                "time": "13:24",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "ErasmusDays 2025, dal 13 al 18 ottobre: come partecipare",
-                "link": "https://www.orizzontescuola.it/erasmusdays-2025-dal-13-al-18-ottobre-come-partecipare/",
-                "date": "14 Set 2025",
-                "time": "11:46",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Papa Leone XIV festeggia i 70 anni: auguri dal mondo istituzionale e scolastico. Mattarella promette visita al Quirinale e lancia appello alla pace, Valditara augura serenità",
-                "link": "https://www.orizzontescuola.it/papa-leone-xiv-festeggia-i-70-anni-auguri-dal-mondo-istituzionale-e-scolastico-mattarella-promette-visita-al-quirinale-e-lancia-appello-alla-pace-valditara-augura-serenita/",
-                "date": "14 Set 2025",
-                "time": "11:41",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "L’obesità infantile sorpassa il sottopeso: allarme UNICEF per 188 milioni di giovani",
-                "link": "https://www.orizzontescuola.it/lobesita-infantile-sorpassa-il-sottopeso-allarme-unicef-per-188-milioni-di-giovani/",
-                "date": "14 Set 2025",
-                "time": "9:51",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "I 240 milioni del decreto scuola riconoscimento del grande lavoro che svolge il personale scolastico: il commento di Valditara apprezzato da Anief che ora chiede più risorse per ridurre il gap stipendiale, il 17 audizione in Senato",
-                "link": "https://www.orizzontescuola.it/i-240-milioni-del-decreto-scuola-riconoscimento-del-grande-lavoro-che-svolge-il-personale-scolastico-il-commento-di-valditara-apprezzato-da-anief-che-ora-chiede-piu-risorse-per-ridurre-il-gap-stipend/",
-                "date": "14 Set 2025",
-                "time": "9:32",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Mattarella a Napoli per l’inaugurazione dell’anno scolastico: il 22 settembre torna “Tutti a Scuola”",
-                "link": "https://www.orizzontescuola.it/mattarella-a-napoli-per-linaugurazione-dellanno-scolastico-il-22-settembre-torna-tutti-a-scuola/",
-                "date": "14 Set 2025",
-                "time": "9:29",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Genitori",
-                "title": "Bonus asilo nido, novità dal 2026: domande con validità pluriennale",
-                "link": "https://www.orizzontescuola.it/bonus-asilo-nido-novita-dal-2026-domande-con-validita-pluriennale/",
-                "date": "14 Set 2025",
-                "time": "9:11",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Allarme dispersione scolastica: tre studenti su dieci pensano di abbandonare gli studi, il 25% si sente escluso dalle attività didattiche. INDAGINE Salesiani per il sociale",
-                "link": "https://www.orizzontescuola.it/allarme-dispersione-scolastica-tre-studenti-su-dieci-pensano-di-abbandonare-gli-studi-il-25-si-sente-escluso-dalle-attivita-didattiche-indagine-salesiani-per-il-sociale/",
-                "date": "13 Set 2025",
-                "time": "19:10",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Studenti",
-                "title": "La rivoluzione demografica trasforma le mense scolastiche: crescono servizi e multiculturalità",
-                "link": "https://www.orizzontescuola.it/la-rivoluzione-demografica-trasforma-le-mense-scolastiche-crescono-servizi-e-multiculturalita/",
-                "date": "13 Set 2025",
-                "time": "18:51",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Dopo 80 anni dalla Repubblica, l’Inno nazionale ancora senza tutela costituzionale: ecco la proposta per inserirlo nell’articolo 12 insieme al tricolore",
-                "link": "https://www.orizzontescuola.it/dopo-80-anni-dalla-repubblica-linno-nazionale-ancora-senza-tutela-costituzionale-ecco-la-proposta-per-inserirlo-nellarticolo-12-insieme-al-tricolore/",
-                "date": "13 Set 2025",
-                "time": "18:38",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "L’Oms denuncia: il tabacco causa arresto della crescita in 150 milioni di bambini. Il fumo materno e passivo compromettono lo sviluppo infantile",
-                "link": "https://www.orizzontescuola.it/loms-denuncia-il-tabacco-causa-arresto-della-crescita-in-150-milioni-di-bambini-il-fumo-materno-e-passivo-compromettono-lo-sviluppo-infantile/",
-                "date": "13 Set 2025",
-                "time": "18:32",
                 "image_link": "N/A"
             }
         ]
@@ -538,14 +538,6 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
-                "title": "Riconferma insegnante di sostegno, al momento la norma vale solo per il 2025/26",
-                "link": "https://www.orizzontescuola.it/riconferma-insegnante-di-sostegno-al-momento-la-norma-vale-solo-per-il-2025-26/",
-                "date": "11 Set 2025",
-                "time": "12:24",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_765913051.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
                 "title": "Docenti neoassunti in ruolo o supplenza su posto accantonato 2025/26: ecco le indicazioni per l’inserimento dei contratti al SIDI",
                 "link": "https://www.orizzontescuola.it/docenti-neoassunti-in-ruolo-o-supplenza-su-posto-accantonato-2025-26-ecco-le-indicazioni-per-linserimento-dei-contratti-al-sidi/",
                 "date": "11 Set 2025",
@@ -583,6 +575,14 @@
                 "date": "10 Set 2025",
                 "time": "11:36",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti e ATA 2025/26: quali possono essere già attribuite dalle scuole Indicazioni Roma",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-e-ata-2025-26-quali-possono-essere-gia-attribuite-dalle-scuole-indicazioni-roma/",
+                "date": "10 Set 2025",
+                "time": "9:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2142727347.jpg"
             }
         ]
     },
@@ -697,6 +697,22 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Buon primo giorno di scuola: per me sarà il primo a casa dopo tanti anni da insegnante. Lettera",
+                "link": "https://www.orizzontescuola.it/buon-primo-giorno-di-scuola-per-me-sara-il-primo-a-casa-dopo-tanti-anni-da-insegnante-lettera/",
+                "date": "15 Set 2025",
+                "time": "12:41",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
+                "title": "Un insegnante lo è per sempre: buon anno scolastico. Lettera",
+                "link": "https://www.orizzontescuola.it/un-insegnate-lo-e-per-sempre-buon-anno-scolastico-lettera/",
+                "date": "15 Set 2025",
+                "time": "12:07",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "La nostra ”amata” chatgpt: forse stiamo diventando noi meno palpabili e reali? Lettera",
                 "link": "https://www.orizzontescuola.it/la-nostra-amata-chatgpt-forse-stiamo-diventando-noi-meno-palpabili-e-reali-lettera/",
                 "date": "14 Set 2025",
@@ -725,22 +741,6 @@
                 "link": "https://www.orizzontescuola.it/continuita-sul-sostegno-tutto-in-fumo-lettera/",
                 "date": "10 Set 2025",
                 "time": "16:41",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Anche quest’anno l’algoritmo mi ha saltata. Lettera",
-                "link": "https://www.orizzontescuola.it/anche-questanno-lalgoritmo-mi-ha-saltata-lettera/",
-                "date": "9 Set 2025",
-                "time": "19:38",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Decreto nuova Maturità: una breve sintesi. Studenti avvisati… Lettera",
-                "link": "https://www.orizzontescuola.it/decreto-nuova-maturita-una-breve-sintesi-studenti-avvisati-lettera/",
-                "date": "7 Set 2025",
-                "time": "9:52",
                 "image_link": "N/A"
             }
         ]
