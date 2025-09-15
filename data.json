@@ -2,20 +2,103 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
-            null,
             {
-                "category": "Politica scolastica",
-                "title": "Rinnovo contratto scuola, Valditara: “Gli insegnanti svolgono un gran lavoro, lo riconosciamo con ulteriore stanziamento di 240 milioni una tantum”",
-                "link": "https://www.orizzontescuola.it/rinnovo-contratto-scuola-valditara-gli-insegnanti-svolgono-un-gran-lavoro-lo-riconosciamo-con-ulteriore-stanziamento-di-240-milioni-una-tantum/",
-                "date": "13 Set 2025",
-                "time": "8:29",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_414282427.jpg"
-            }
+                "category": "Cronaca",
+                "title": "Home schooling? “Non è solo fare scuola a casa e vi spiego di cosa si tratta”. INTERVISTA a Sergio Leali",
+                "link": "https://www.orizzontescuola.it/home-schooling-non-e-solo-fare-scuola-a-casa-e-vi-spiego-di-cosa-si-tratta-intervista-a-sergi-leali/",
+                "date": "15 Set 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Progetto-senza-titolo-1-3.png"
+            },
+            null
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Solo metà degli edifici scolastici è sicura (il 47% possiede il certificato di agibilità), calano gli investimenti e i servizi arretrano. I dati di Legambiente",
+                "link": "https://www.orizzontescuola.it/solo-meta-degli-edifici-scolastici-e-sicura-il-47-possiede-il-certificato-di-agibilita-calano-gli-investimenti-e-i-servizi-arretrano-i-dati-di-legambiente-raccontano-25-anni-di-emergenza-edilizia/",
+                "date": "15 Set 2025",
+                "time": "10:26",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/shutterstock_1508556191.jpg"
+            },
+            {
+                "category": "Guide",
+                "title": "Orario aggiuntivo docenti per supplenza colleghi assenti, corsi di recupero e ore non di insegnamento. Quanto mi spetta? La tabella",
+                "link": "https://www.orizzontescuola.it/orario-aggiuntivo-docenti-per-supplenza-colleghi-assenti-corsi-di-recupero-e-ore-non-di-insegnamento-quanto-mi-spetta-la-tabella/",
+                "date": "15 Set 2025",
+                "time": "10:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2240299137.jpg"
+            },
+            {
+                "category": "Guide",
+                "title": "Le aspettative per il personale della scuola: famiglia, personali, studio, lavoro. La scheda",
+                "link": "https://www.orizzontescuola.it/le-aspettative-per-il-personale-della-scuola-famiglia-personali-studio-lavoro-la-scheda/",
+                "date": "15 Set 2025",
+                "time": "10:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_1051414388.jpg"
+            },
+            {
+                "category": "Didattica",
+                "title": "Compiti autentici e potenziamento cognitivo: perché il cervello adolescente ha bisogno di realtà?",
+                "link": "https://www.orizzontescuola.it/compiti-autentici-e-potenziamento-cognitivo-perche-il-cervello-adolescente-ha-bisogno-di-realta/",
+                "date": "15 Set 2025",
+                "time": "10:03",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_2021714885.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "L’anno scolastico 2025/26 inizia con 45mila docenti assunti in ruolo e il 96,5% delle supplenze già assegnate",
+                "link": "https://www.orizzontescuola.it/lanno-scolastico-2025-26-inizia-con-45mila-docenti-assunti-in-ruolo-e-il-965-delle-supplenze-gia-assegnate/",
+                "date": "15 Set 2025",
+                "time": "9:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2120807768.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Infortunio a scuola, genitori chiedono 25mila euro di risarcimento al Ministero ma il Tribunale boccia il ricorso: “Mancano le prove del calcio del compagno, potrebbe essere autolesione”",
+                "link": "https://www.orizzontescuola.it/infortunio-a-scuola-genitori-chiedono-25mila-euro-di-risarcimento-al-ministero-ma-il-tribunale-li-boccia-mancano-le-prove-del-calcio-del-compagno-potrebbe-essere-autolesione/",
+                "date": "15 Set 2025",
+                "time": "8:57",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/shutterstock_299616500.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Education at a glance 2025: intervista a Cusano TV e riflessioni sul futuro dell’istruzione italiana",
+                "link": "https://www.orizzontescuola.it/education-at-a-glance-2025-intervista-a-cusano-tv-e-riflessioni-sul-futuro-dellistruzione-italiana/",
+                "date": "15 Set 2025",
+                "time": "8:31",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Progetto-senza-titolo-2-1.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Recalcati: “Bullismo rovesciato contro i docenti, umiliati da genitori e studenti. La scuola è diventata il luogo del caos e dell’indisciplina permanente”",
+                "link": "https://www.orizzontescuola.it/recalcati-bullismo-rovesciato-contro-i-docenti-umiliati-da-genitori-e-studenti-la-scuola-e-diventata-il-luogo-del-caos-e-dellindisciplina-permanente/",
+                "date": "15 Set 2025",
+                "time": "8:02",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/Screenshot-2025-06-11-alle-19.24.29.png"
+            },
+            {
+                "category": "Plus",
+                "title": "Neo DSGA? Ti supportiamo tutto l’anno a “Gestire la scuola”: webinar, guide, documenti già pronti, scadenze per non dimenticare",
+                "link": "https://www.orizzontescuola.it/neo-dsga-ti-supportiamo-tutto-lanno-a-gestire-la-scuola-webinar-guide-documenti-gia-pronti-scadenze/",
+                "date": "15 Set 2025",
+                "time": "7:56",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Oggi-primo-Webinar.png"
+            },
+            {
+                "category": "Scuole",
+                "title": "Direttiva spegniamo i cellulari: già pronta per il download",
+                "link": "https://www.orizzontescuola.it/direttiva-spegniamo-i-cellulari-gia-pronta-per-il-download/",
+                "date": "15 Set 2025",
+                "time": "7:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_2228645243.jpg"
+            },
+            null,
+            null,
+            null,
             {
                 "category": "ATA",
                 "title": "Posizioni economiche ATA: il simulatore per esercitarti a superare l’esame",
@@ -39,7 +122,12 @@
                 "date": "14 Set 2025",
                 "time": "18:31",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/02/shutterstock_1198785832.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Supplenze GPS docenti: tra bollettini e algoritmi scatta l’ora degli interpelli. QUESTION TIME con Cannas. LIVE Lunedì 15 settembre alle 14:30",
@@ -136,12 +224,7 @@
                 "date": "13 Set 2025",
                 "time": "16:44",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/10/Alunni_Stranieri.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Studenti",
                 "title": "Università, tre italiani su dieci cambierebbero facoltà: i giovani 25-34 anni i più insoddisfatti del proprio percorso di studi. I dati",
@@ -181,102 +264,44 @@
                 "date": "13 Set 2025",
                 "time": "13:28",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_2132449195-scaled.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Riforma Maturità, Valditara: “Valutiamo la persona a 360 gradi, non solo competenze, ma anche la responsabilità dello studente”",
-                "link": "https://www.orizzontescuola.it/riforma-maturita-valditara-valutiamo-la-persona-a-360-gradi-non-solo-competenze-ma-anche-la-responsabilita-dello-studente/",
-                "date": "13 Set 2025",
-                "time": "13:13",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Valditara-scaled.jpg"
-            },
-            {
-                "category": "Stipendio",
-                "title": "Stipendi docenti e ATA, come leggere il cedolino: perché dicembre è il “mese pulito” che alleggerisce le ritenute",
-                "link": "https://www.orizzontescuola.it/stipendi-docenti-e-ata-come-leggere-il-cedolino-perche-dicembre-e-il-mese-pulito-che-alleggerisce-le-ritenute/",
-                "date": "13 Set 2025",
-                "time": "12:32",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/102.-22_7-Novita-per-Docenti-e-ATA_-ecco-quando-arriva-lAssegno-Unico.-Verifica-se-influisce-sul-Quinto-cedibile.png"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Scuola Senza Zaino, il metodo che conquista l’Italia: ospitalità, comunità e spazi flessibili al posto delle aule tradizionali. Ecco come funziona la rivoluzione educativa",
-                "link": "https://www.orizzontescuola.it/scuola-senza-zaino-il-metodo-che-conquista-litalia-ospitalita-comunita-e-spazi-flessibili-al-posto-delle-aule-tradizionali-ecco-come-funziona-la-rivoluzione-educativa/",
-                "date": "13 Set 2025",
-                "time": "11:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2477656059.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Studente denuncia bullismo a scuola, ma il Tribunale dice no e assolve genitori e scuola. I testimoni smentiscono le accuse: “Era solo clima goliardico tra adolescenti, non prevaricazione”",
-                "link": "https://www.orizzontescuola.it/studente-denuncia-bullismo-a-scuola-ma-il-tribunale-dice-no-e-assolve-genitori-e-scuola-i-testimoni-smentiscono-le-accuse-era-solo-clima-goliardico-tra-adolescenti-non-prevaricazione/",
-                "date": "13 Set 2025",
-                "time": "11:29",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/07/shutterstock_1029430792.jpg"
-            },
-            {
-                "category": "Studenti",
-                "title": "Libri di testo, l’Italia che non cambia: mercato da 800 milioni dominato da quattro gruppi mentre studenti e genitori subiscono prezzi in aumento e poche alternative",
-                "link": "https://www.orizzontescuola.it/libri-di-testo-litalia-che-non-cambia-mercato-da-800-milioni-dominato-da-quattro-gruppi-mentre-studenti-e-genitori-subiscono-prezzi-in-aumento-e-poche-alternative/",
-                "date": "13 Set 2025",
-                "time": "10:43",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1932285068.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Rientro a scuola sotto assedio digitale: in Italia +82% di cyber attacchi, l’istruzione è il settore più colpito al mondo secondo i dati di Check Point Research",
-                "link": "https://www.orizzontescuola.it/rientro-a-scuola-sotto-assedio-digitale-in-italia-82-di-cyber-attacchi-listruzione-e-il-settore-piu-colpito-al-mondo-secondo-i-dati-di-check-point-research/",
-                "date": "13 Set 2025",
-                "time": "10:29",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2317938317.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "L’Italia spezzata dei diritti negati: oltre 1,3 milioni di minori in povertà assoluta, scuole inaccessibili e crisi della salute mentale. il drammatico ritratto dell’infanzia nel Monitoraggio UNICEF",
-                "link": "https://www.orizzontescuola.it/litalia-spezzata-dei-diritti-negati-oltre-13-milioni-di-minori-in-poverta-assoluta-scuole-inaccessibili-e-crisi-della-salute-mentale-il-drammatico-ritratto-dellinfanzia-nel-monitoraggio-unicef/",
-                "date": "13 Set 2025",
-                "time": "10:13",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/01/shutterstock_1736466005.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Sabato libero a scuola: il Consiglio di Stato legittima la settimana corta. Nuove opportunità per studenti, docenti e famiglie",
-                "link": "https://www.orizzontescuola.it/sabato-libero-a-scuola-il-consiglio-di-stato-legittima-la-settimana-corta-nuove-opportunita-per-studenti-docenti-e-famiglie/",
-                "date": "13 Set 2025",
-                "time": "9:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/shutterstock_2384798953.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Dress code a scuola, da Nord a Sud i dirigenti scolastici dichiarano “guerra” a short, canottiere e bermuda. Dieci circolari che rivelano le nuove regole e le sanzioni per chi trasgredisce",
-                "link": "https://www.orizzontescuola.it/dress-code-a-scuola-da-nord-a-sud-i-dirigenti-scolastici-dichiarano-guerra-a-short-e-canottiere-dieci-circolari-che-rivelano-le-nuove-regole-e-le-sanzioni-per-chi-trasgredisce-app/",
-                "date": "13 Set 2025",
-                "time": "9:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_153744212-scaled.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Idonea e abilitata, ma sono a casa. Sembra la ruota della fortuna. Niente macchina, né pizza il sabato”: la vita da docente precaria di Daniela",
-                "link": "https://www.orizzontescuola.it/idonea-e-abilitata-ma-sono-a-casa-sembra-la-ruota-della-fortuna-niente-macchina-ne-pizza-il-sabato-la-vita-da-docente-precaria-di-daniela/",
-                "date": "13 Set 2025",
-                "time": "8:53",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Screenshot-2025-09-10-131317.png"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Valditara: “Il voto in condotta non serve tanto per reprimere quanto per educare”. E sullo stop ai cellulari: “Abuso porta a perdita di memoria e creatività”",
-                "link": "https://www.orizzontescuola.it/valditara-il-voto-in-condotta-non-serve-tanto-per-reprimere-quanto-per-educare-e-sullo-stop-ai-cellulari-abuso-porta-a-perdita-di-memoria-e-creativita/",
-                "date": "13 Set 2025",
-                "time": "8:21",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/Valditara-3.png"
-            },
-            null,
-            null
+            }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Libri gratuiti, stop alla scuola-lavoro e trasporti senza costi: le rivendicazioni degli studenti al presidio davanti al Ministero con la “barca di carta” simbolo della loro protesta",
+                "link": "https://www.orizzontescuola.it/libri-gratuiti-stop-alla-scuola-lavoro-e-trasporti-senza-costi-le-rivendicazioni-degli-studenti-al-presidio-davanti-al-ministero-con-la-barca-di-carta-simbolo-della-loro-protesta/",
+                "date": "15 Set 2025",
+                "time": "8:59",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Capitale italiana del libro 2026, ecco le 5 città finaliste",
+                "link": "https://www.orizzontescuola.it/capitale-italiana-del-libro-2026-ecco-le-5-citta-finaliste/",
+                "date": "15 Set 2025",
+                "time": "8:20",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“Perseguitato e insultato”: la storia di Paolo, lo studente morto suicida a Latina. La mamma: “Mio figlio lasciato senza ascolto”",
+                "link": "https://www.orizzontescuola.it/perseguitato-e-insultato-la-storia-di-paolo-lo-studente-morto-suicida-a-latina-la-mamma-mio-figlio-perseguitato-lasciato-senza-ascolto/",
+                "date": "15 Set 2025",
+                "time": "7:56",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Adolescence, miglior miniserie agli Emmy Awards: premiata la narrazione che svela fragilità, bullismo e culture online nascoste dietro l’universo adolescenziale, tra scuola e incomunicabilità familiare",
+                "link": "https://www.orizzontescuola.it/adolescence-miglior-miniserie-agli-emmy-awards-premiata-la-narrazione-che-svela-fragilita-bullismo-e-culture-online-nascoste-dietro-luniverso-adolescenziale-tra-scuola-e-incomunicabilita/",
+                "date": "15 Set 2025",
+                "time": "7:52",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Ristorazione scolastica in crisi: boom dei prezzi alimentari mette a rischio i pasti nelle scuole. Costi schizzati del 30% dal 2019. Aziende senza tutele economiche",
@@ -387,38 +412,6 @@
                 "link": "https://www.orizzontescuola.it/loms-denuncia-il-tabacco-causa-arresto-della-crescita-in-150-milioni-di-bambini-il-fumo-materno-e-passivo-compromettono-lo-sviluppo-infantile/",
                 "date": "13 Set 2025",
                 "time": "18:32",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Youth4Love, ActionAid porta nelle scuole l’educazione contro discriminazioni e violenza di genere",
-                "link": "https://www.orizzontescuola.it/youth4love-actionaid-porta-nelle-scuole-leducazione-contro-discriminazioni-e-violenza-di-genere/",
-                "date": "13 Set 2025",
-                "time": "18:05",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Adolescenza e scuola, YouTube guida l’apprendimento: “È utile” per il 75% dei ragazzi",
-                "link": "https://www.orizzontescuola.it/adolescenza-e-scuola-youtube-guida-lapprendimento-utile-per-il-75-dei-ragazzi/",
-                "date": "13 Set 2025",
-                "time": "17:23",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Morti evitabili: 500 bambini perdono la vita ogni anno per incidenti in Italia, mentre Svezia e Danimarca azzerano le vittime con educazione stradale e corsi di primo soccorso",
-                "link": "https://www.orizzontescuola.it/morti-evitabili-500-bambini-perdono-la-vita-ogni-anno-per-incidenti-in-italia-mentre-svezia-e-danimarca-azzerano-le-vittime-con-educazione-stradale-e-corsi-di-primo-soccorso/",
-                "date": "13 Set 2025",
-                "time": "16:10",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Mollicone: “La sinistra sprecava i soldi per i banchi a rotelle, con noi dispersione scolastica in calo record e smartphone vietati in classe”",
-                "link": "https://www.orizzontescuola.it/mollicone-la-sinistra-sprecava-i-soldi-per-i-banchi-a-rotelle-con-noi-dispersione-scolastica-in-calo-record-e-smartphone-vietati-in-classe/",
-                "date": "13 Set 2025",
-                "time": "14:20",
                 "image_link": "N/A"
             }
         ]
@@ -545,6 +538,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Riconferma insegnante di sostegno, al momento la norma vale solo per il 2025/26",
+                "link": "https://www.orizzontescuola.it/riconferma-insegnante-di-sostegno-al-momento-la-norma-vale-solo-per-il-2025-26/",
+                "date": "11 Set 2025",
+                "time": "12:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_765913051.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Docenti neoassunti in ruolo o supplenza su posto accantonato 2025/26: ecco le indicazioni per l’inserimento dei contratti al SIDI",
                 "link": "https://www.orizzontescuola.it/docenti-neoassunti-in-ruolo-o-supplenza-su-posto-accantonato-2025-26-ecco-le-indicazioni-per-linserimento-dei-contratti-al-sidi/",
                 "date": "11 Set 2025",
@@ -582,14 +583,6 @@
                 "date": "10 Set 2025",
                 "time": "11:36",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti e ATA 2025/26: quali possono essere già attribuite dalle scuole Indicazioni Roma",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-e-ata-2025-26-quali-possono-essere-gia-attribuite-dalle-scuole-indicazioni-roma/",
-                "date": "10 Set 2025",
-                "time": "9:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2142727347.jpg"
             }
         ]
     },
