@@ -2,6 +2,7 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
+            null,
             {
                 "category": "Politica scolastica",
                 "title": "Rinnovo contratto scuola, Valditara: “Gli insegnanti svolgono un gran lavoro, lo riconosciamo con ulteriore stanziamento di 240 milioni una tantum”",
@@ -9,20 +10,20 @@
                 "date": "13 Set 2025",
                 "time": "8:29",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_414282427.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Caro affitti e docenti fuori sede, la storia di Stefania: “Precaria, vivo in 40 metri quadri, pago 700 euro al mese e sopravvivo. Per noi del Sud non è scelta, è costrizione. Mi sono data due anni, poi cambio lavoro”. INTERVISTA",
-                "link": "https://www.orizzontescuola.it/caro-affitti-e-docenti-fuori-sede-la-storia-di-stefania-vivo-in-40-metri-quadri-pago-700-euro-al-mese-e-sopravvivo-per-noi-del-sud-non-e-scelta-e-costrizione-mi-sono-data-due-anni-poi-cambio/",
-                "date": "11 Set 2025",
-                "time": "8:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_2043167858.jpg"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "ATA",
+                "title": "Posizioni economiche ATA: il simulatore per esercitarti a superare l’esame",
+                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-collaboratori-simulatore-e-video-lezioni-per-superare-la-prova-finale/",
+                "date": "15 Set 2025",
+                "time": "5:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Assegnazioni-provvisorie-e-utilizzazioni.png"
+            },
             {
                 "category": "Docenti",
                 "title": "Questionario Docente SNV: dal 18 al 25 settembre la compilazione su LimeSurvey",
@@ -135,7 +136,12 @@
                 "date": "13 Set 2025",
                 "time": "16:44",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/10/Alunni_Stranieri.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Studenti",
                 "title": "Università, tre italiani su dieci cambierebbero facoltà: i giovani 25-34 anni i più insoddisfatti del proprio percorso di studi. I dati",
@@ -143,12 +149,7 @@
                 "date": "13 Set 2025",
                 "time": "15:31",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/shutterstock_2566358253-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Galimberti attacca la scuola-azienda: “Con l’alternanza scuola-lavoro rubiamo 150 ore alla formazione dell’uomo per creare solo strumenti utili al mercato. La scuola non deve servire, deve formare l’uomo”",
@@ -269,7 +270,6 @@
                 "time": "8:21",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/Valditara-3.png"
             },
-            null,
             null,
             null
         ]
