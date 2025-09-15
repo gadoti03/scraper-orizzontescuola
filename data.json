@@ -17,6 +17,38 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "Iscrizioni ai percorsi di istruzione per adulti 2025/2026, delibera in allegato",
+                "link": "https://www.orizzontescuola.it/iscrizioni-ai-percorsi-di-istruzione-per-adulti-2025-2026-delibera-in-allegato/",
+                "date": "15 Set 2025",
+                "time": "17:58",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2377454741.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze 2025/26: ecco gli interpelli del 15 settembre per la ricerca di insegnanti",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "15 Set 2025",
+                "time": "16:56",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Contratto scuola, Valditara: “Gli stipendi degli insegnanti sono rimasti bloccati per 10 anni. Con noi al governo subito un accordo dopo 3 anni di discussioni inutili tra sindacati ed esecutivo precedente”",
+                "link": "https://www.orizzontescuola.it/contratto-scuola-valditara-gli-stipendi-degli-insegnanti-sono-rimasti-bloccati-per-10-anni-con-noi-al-governo-subito-un-accordo-dopo-3-anni-di-discussioni-inutili-tra-sindacati-ed-esecutivo-prece/",
+                "date": "15 Set 2025",
+                "time": "16:26",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/12/shutterstock_92008838.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Passaggio di ruolo: il docente che ha ottenuto una COE può essere libero dal vincolo?",
+                "link": "https://www.orizzontescuola.it/passaggio-di-ruolo-il-docente-che-ha-ottenuto-una-coe-puo-essere-libero-dal-vincolo/",
+                "date": "15 Set 2025",
+                "time": "15:39",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2016/11/banchi_scuola.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze docenti 2025/26: i nuovi bollettini [AGGIORNATO]",
                 "link": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
@@ -31,14 +63,6 @@
                 "date": "15 Set 2025",
                 "time": "13:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/Valditara.jpeg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Supplenze GPS docenti: tra bollettini e algoritmi scatta l’ora degli interpelli. QUESTION TIME con Cannas. LIVE Lunedì 15 settembre alle 14:30",
-                "link": "https://www.orizzontescuola.it/supplenze-gps-docenti-tra-bollettini-e-algoritmi-scatta-lora-degli-interpelli-question-time-con-cannas-live-lunedi-15-settembre-alle-1430/",
-                "date": "15 Set 2025",
-                "time": "12:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Template_questiontime_1920x1080-10.png"
             },
             {
                 "category": "Scuole",
@@ -119,7 +143,12 @@
                 "date": "15 Set 2025",
                 "time": "8:02",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/Screenshot-2025-06-11-alle-19.24.29.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Plus",
                 "title": "Neo DSGA? Ti supportiamo tutto l’anno a “Gestire la scuola”: webinar, guide, documenti già pronti, scadenze per non dimenticare",
@@ -136,12 +165,7 @@
                 "time": "7:55",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_2228645243.jpg"
             },
-            null
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            null,
             null,
             null,
             {
@@ -170,10 +194,10 @@
             },
             {
                 "category": "Cronaca",
-                "title": "Stop ai cellulari in classe, Pellai: “Smartphone incredibile distrattore che deteriora le competenze di apprendimento dello studente”",
-                "link": "https://www.orizzontescuola.it/stop-ai-cellulari-in-classe-pellai-smartphone-incredibile-distrattore-che-deteriora-le-competenze-di-apprendimento-dello-studente/",
+                "title": "Stop ai cellulari, Pellai: “Smartphone incredibile distrattore che deteriora le competenze di apprendimento dello studente”",
+                "link": "https://www.orizzontescuola.it/stop-ai-cellulari-pellai-smartphone-incredibile-distrattore-che-deteriora-le-competenze-di-apprendimento-dello-studente/",
                 "date": "14 Set 2025",
-                "time": "15:15",
+                "time": "15:21",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Screenshot-2025-02-20-alle-17.40.48.png"
             },
             {
@@ -240,36 +264,53 @@
                 "date": "13 Set 2025",
                 "time": "19:58",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2556788731-scaled.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Dispersione scolastica, Valditara: “Crollata all’8,7%. Con Agenda Sud siamo diventati esempio positivo per i Paesi Ocse”",
-                "link": "https://www.orizzontescuola.it/dispersione-scolastica-valditara-crollata-all87-con-agenda-sud-siamo-diventati-esempio-positivo-per-i-paesi-ocse/",
-                "date": "13 Set 2025",
-                "time": "17:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/01/shutterstock_520160845-2-scaled.jpg"
-            },
-            {
-                "category": "Studenti",
-                "title": "Quasi 950mila studenti con cittadinanza straniera nelle scuole italiane, ma solo 1 su 3 sceglie il liceo mentre persiste il gap del ritardo scolastico",
-                "link": "https://www.orizzontescuola.it/quasi-950mila-studenti-con-cittadinanza-straniera-nelle-scuole-italiane-ma-solo-1-su-3-sceglie-il-liceo-mentre-persiste-il-gap-del-ritardo-scolastico/",
-                "date": "13 Set 2025",
-                "time": "16:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/10/Alunni_Stranieri.jpg"
-            },
-            {
-                "category": "Studenti",
-                "title": "Università, tre italiani su dieci cambierebbero facoltà: i giovani 25-34 anni i più insoddisfatti del proprio percorso di studi. I dati",
-                "link": "https://www.orizzontescuola.it/universita-tre-italiani-su-dieci-cambierebbero-facolta-i-giovani-25-34-anni-i-piu-insoddisfatti-del-proprio-percorso-di-studi-la-ricerca-indeed/",
-                "date": "13 Set 2025",
-                "time": "15:31",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/shutterstock_2566358253-scaled.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Docenti",
+                "title": "Joy of moving, il 30 settembre webinar MIM sul metodo che integra movimento, emozioni e apprendimento",
+                "link": "https://www.orizzontescuola.it/joy-of-moving-il-30-settembre-webinar-mim-sul-metodo-che-integra-movimento-emozioni-e-apprendimento/",
+                "date": "15 Set 2025",
+                "time": "17:17",
+                "image_link": "N/A"
+            },
+            null,
+            {
+                "category": "Cronaca",
+                "title": "Assicurazione sanitaria per docenti e ATA (anche con contratto al 30 giugno) Calderone: “È la conferma che per il governo la salute e la sicurezza nelle scuole sono un impegno preciso”",
+                "link": "https://www.orizzontescuola.it/assicurazione-sanitaria-per-docenti-e-ata-anche-con-contratto-al-30-giugno-calderone-e-la-conferma-che-per-il-governo-la-salute-e-la-sicurezza-nelle-scuole-sono-un-impegno-preciso/",
+                "date": "15 Set 2025",
+                "time": "16:19",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Rientro a scuola, oltre il 50% degli studenti prova sentimenti negativi. I 10 consigli anti-ansia dello psicologo",
+                "link": "https://www.orizzontescuola.it/rientro-a-scuola-oltre-il-50-degli-studenti-prova-sentimenti-negativi-i-10-consigli-anti-ansia-dello-psicologo/",
+                "date": "15 Set 2025",
+                "time": "15:50",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Crack tra gli 11enni, Pm minori: “C’è bisogno della collaborazione delle scuole”",
+                "link": "https://www.orizzontescuola.it/crack-tra-gli-11enni-pm-minori-ce-bisogno-della-collaborazione-delle-scuole/",
+                "date": "15 Set 2025",
+                "time": "15:15",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "Lombardia: concorso per le scuole su fumo, binge drinking e promozione dell’attività fisica",
+                "link": "https://www.orizzontescuola.it/lombardia-concorso-per-le-scuole-su-fumo-binge-drinking-e-promozione-dellattivita-fisica/",
+                "date": "15 Set 2025",
+                "time": "14:44",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Telefono Azzurro: condividere online le foto del primo giorno di scuola è un rischio per bambini e adolescenti",
@@ -308,6 +349,14 @@
                 "link": "https://www.orizzontescuola.it/salvini-lomicidio-kirk-rivela-un-problema-di-democrazia-ci-sono-stati-anche-alcuni-presunti-docenti-sono-quelli-che-festeggiano-la-morte-di-un-trentunenne-che-lascia-una-vedova-e-due-figl/",
                 "date": "15 Set 2025",
                 "time": "12:47",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Supplenze GPS docenti: tra bollettini e algoritmi scatta l’ora degli interpelli. QUESTION TIME con Cannas [VIDEO]",
+                "link": "https://www.orizzontescuola.it/supplenze-gps-docenti-tra-bollettini-e-algoritmi-scatta-lora-degli-interpelli-question-time-con-cannas-live-lunedi-15-settembre-alle-1430/",
+                "date": "15 Set 2025",
+                "time": "12:44",
                 "image_link": "N/A"
             },
             {
@@ -356,62 +405,6 @@
                 "link": "https://www.orizzontescuola.it/valditara-la-scuola-deve-avere-un-ruolo-nel-coltivare-la-cultura-del-rispetto/",
                 "date": "15 Set 2025",
                 "time": "11:02",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Studentessa di 15 anni muore travolta alla fermata da un camion: indagini sulla dinamica",
-                "link": "https://www.orizzontescuola.it/studentessa-di-15-anni-muore-travolta-alla-fermata-da-un-camion-indagini-sulla-dinamica/",
-                "date": "15 Set 2025",
-                "time": "10:37",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Libri gratuiti, stop alla scuola-lavoro e trasporti senza costi: le rivendicazioni degli studenti al presidio davanti al Ministero con la “barca di carta” simbolo della loro protesta",
-                "link": "https://www.orizzontescuola.it/libri-gratuiti-stop-alla-scuola-lavoro-e-trasporti-senza-costi-le-rivendicazioni-degli-studenti-al-presidio-davanti-al-ministero-con-la-barca-di-carta-simbolo-della-loro-protesta/",
-                "date": "15 Set 2025",
-                "time": "8:59",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Capitale italiana del libro 2026, ecco le 5 città finaliste",
-                "link": "https://www.orizzontescuola.it/capitale-italiana-del-libro-2026-ecco-le-5-citta-finaliste/",
-                "date": "15 Set 2025",
-                "time": "8:20",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Perseguitato e insultato”: la storia di Paolo, lo studente morto suicida a Latina. La mamma: “Mio figlio lasciato senza ascolto”",
-                "link": "https://www.orizzontescuola.it/perseguitato-e-insultato-la-storia-di-paolo-lo-studente-morto-suicida-a-latina-la-mamma-mio-figlio-perseguitato-lasciato-senza-ascolto/",
-                "date": "15 Set 2025",
-                "time": "7:56",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Adolescence, miglior miniserie agli Emmy Awards: premiata la narrazione che svela fragilità, bullismo e culture online nascoste dietro l’universo adolescenziale, tra scuola e incomunicabilità familiare",
-                "link": "https://www.orizzontescuola.it/adolescence-miglior-miniserie-agli-emmy-awards-premiata-la-narrazione-che-svela-fragilita-bullismo-e-culture-online-nascoste-dietro-luniverso-adolescenziale-tra-scuola-e-incomunicabilita/",
-                "date": "15 Set 2025",
-                "time": "7:52",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Ristorazione scolastica in crisi: boom dei prezzi alimentari mette a rischio i pasti nelle scuole. Costi schizzati del 30% dal 2019. Aziende senza tutele economiche",
-                "link": "https://www.orizzontescuola.it/ristorazione-scolastica-in-crisi-boom-dei-prezzi-alimentari-mette-a-rischio-i-pasti-nelle-scuole-costi-schizzati-del-30-dal-2019-aziende-senza-tutele-economiche/",
-                "date": "14 Set 2025",
-                "time": "17:29",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Alunni stranieri, cresce il numero ma non il loro inserimento e profitto: per i due terzi voti bassi e liceo disertato. Anief chiede interventi ad hoc: docenti specializzati, organici maggiorati laddove necessario e compresenze",
-                "link": "https://www.orizzontescuola.it/alunni-stranieri-cresce-il-numero-ma-non-il-loro-inserimento-e-profitto-per-i-due-terzi-voti-bassi-e-liceo-disertato-anief-chiede-interventi-ad-hoc-docenti-specializzati-organici-maggiorati-laddo/",
-                "date": "14 Set 2025",
-                "time": "17:26",
                 "image_link": "N/A"
             }
         ]
@@ -538,14 +531,6 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
-                "title": "Docenti neoassunti in ruolo o supplenza su posto accantonato 2025/26: ecco le indicazioni per l’inserimento dei contratti al SIDI",
-                "link": "https://www.orizzontescuola.it/docenti-neoassunti-in-ruolo-o-supplenza-su-posto-accantonato-2025-26-ecco-le-indicazioni-per-linserimento-dei-contratti-al-sidi/",
-                "date": "11 Set 2025",
-                "time": "11:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1936676008-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
                 "title": "Scienze della Formazione Primaria: test d’ingresso il 12 settembre. Laurea abilita per infanzia e primaria",
                 "link": "https://www.orizzontescuola.it/scienze-della-formazione-primaria-test-dingresso-il-12-settembre-laurea-abilita-per-infanzia-e-primaria/",
                 "date": "11 Set 2025",
@@ -583,6 +568,14 @@
                 "date": "10 Set 2025",
                 "time": "9:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2142727347.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze GPS docenti 2025, dal primo al secondo bollettino: revoche, rettifiche e nuove disponibilità. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/supplenze-gps-docenti-2025-dal-primo-al-secondo-bollettino-revoche-rettifiche-e-nuove-disponibilita-risposte-ai-quesiti/",
+                "date": "9 Set 2025",
+                "time": "9:56",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1669106749.jpg"
             }
         ]
     },
