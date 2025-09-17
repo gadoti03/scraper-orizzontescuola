@@ -2,15 +2,15 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
+            null,
             {
-                "category": "Cronaca",
-                "title": "Classi di Liceo scienze umane e Liceo scientifico accorpate in un’unica classe di 28 studenti: succede a Pantelleria. La protesta dei genitori",
-                "link": "https://www.orizzontescuola.it/classi-di-liceo-scienze-umane-e-liceo-scientifico-accorpate-in-ununica-classe-di-28-studenti-succede-a-pantelleria-la-protesta-dei-genitori/",
-                "date": "16 Set 2025",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_1829722181.jpg"
-            },
-            null
+                "category": "Politica scolastica",
+                "title": "Rinnovo contratto scuola, Valditara: “Gli insegnanti svolgono un gran lavoro, lo riconosciamo con ulteriore stanziamento di 240 milioni una tantum”",
+                "link": "https://www.orizzontescuola.it/rinnovo-contratto-scuola-valditara-gli-insegnanti-svolgono-un-gran-lavoro-lo-riconosciamo-con-ulteriore-stanziamento-di-240-milioni-una-tantum/",
+                "date": "13 Set 2025",
+                "time": "8:29",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_414282427.jpg"
+            }
         ]
     },
     "group_2": {
@@ -262,7 +262,14 @@
                 "time": "8:05",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_329796599.jpg"
             },
-            null,
+            {
+                "category": "Cronaca",
+                "title": "Classi di Liceo scienze umane e Liceo scientifico accorpate in un’unica classe di 28 studenti: succede a Pantelleria. La protesta dei genitori",
+                "link": "https://www.orizzontescuola.it/classi-di-liceo-scienze-umane-e-liceo-scientifico-accorpate-in-ununica-classe-di-28-studenti-succede-a-pantelleria-la-protesta-dei-genitori/",
+                "date": "16 Set 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_1829722181.jpg"
+            },
             null,
             null
         ]
