@@ -3,7 +3,7 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
-                "category": "Nessuna categoria",
+                "category": "Diventare Insegnanti",
                 "title": "Immissioni in ruolo docenti, autorizzate oltre 58mila assunzioni fino al 2028. Zangrillo firma il decreto",
                 "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-autorizzate-oltre-58mila-assunzioni-fino-al-2028-zangrillo-firma-il-decreto/",
                 "date": "18 Set 2025",
@@ -23,6 +23,54 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: ancora nomine da GPS ma in alcune province sono “mini bollettini”. Ecco perché [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
+                "date": "18 Set 2025",
+                "time": "22:05",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/tfa-sostegno-IX-ciclo.png"
+            },
+            {
+                "category": "DSGA",
+                "title": "Posti vacanti DSGA 2025/26: gli INTERPELLI aperti. AGGIORNATO",
+                "link": "https://www.orizzontescuola.it/posti-vacanti-dsga-2025-26-ecco-gli-interpelli-aperti/",
+                "date": "18 Set 2025",
+                "time": "21:08",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Modello-immagine-sito-12.png"
+            },
+            {
+                "category": "Scuole",
+                "title": "Compensi per pratiche pensioni, monitoraggio Passweb entro il 20 settembre",
+                "link": "https://www.orizzontescuola.it/compensi-per-pratiche-pensioni-monitoraggio-passweb-entro-il-20-settembre/",
+                "date": "18 Set 2025",
+                "time": "20:02",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1757167814-scaled.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Ricostruzione di carriera, domande online entro il 31 dicembre: tutto quello che c’è da sapere. QUESTION TIME con Sciandrone (Uil Scuola Rua) LIVE Venerdì 19 settembre alle 14:30",
+                "link": "https://www.orizzontescuola.it/ricostruzione-di-carriera-domande-online-entro-il-31-dicembre-tutto-quello-che-ce-da-sapere-question-time-con-sciandrone-uil-scuola-rua-live-venerdi-19-settembre-alle-1430/",
+                "date": "18 Set 2025",
+                "time": "19:59",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Template_questiontime_1920x1080-13.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: ecco dove le GPS sono già esaurite [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-26-alcune-gps-gia-esaurite-si-passa-alle-graduatorie-di-istituto/",
+                "date": "18 Set 2025",
+                "time": "19:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1904033662.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Iscrizioni tardive: il dirigente scolastico deve garantire il diritto all’istruzione. Cosa fanno le scuole",
+                "link": "https://www.orizzontescuola.it/iscrizioni-tardive-il-dirigente-deve-garantire-il-diritto-allistruzione-cosa-fanno-le-scuole/",
+                "date": "18 Set 2025",
+                "time": "18:39",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/09/shutterstock_1625227966.jpg"
+            },
             {
                 "category": "Cronaca",
                 "title": "Novità accertamento disabilità e legge 104: dal 30 settembre parte la seconda fase della riforma. FAQ Inps",
@@ -102,7 +150,12 @@
                 "date": "18 Set 2025",
                 "time": "11:49",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/Classi-pollaio.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Torniamo ad insegnare l’uncinetto",
@@ -129,14 +182,6 @@
             },
             {
                 "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: ancora nomine da GPS ma in alcune province sono “mini bollettini”. Ecco perché [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
-                "date": "18 Set 2025",
-                "time": "10:53",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/tfa-sostegno-IX-ciclo.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
                 "title": "Percorsi 2025/26 di abilitazione per docenti: tempi di avvio ancora incerti. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/percorsi-2025-26-di-abilitazione-per-docenti-tempi-di-avvio-ancora-incerti-pillole-di-question-time/",
                 "date": "18 Set 2025",
@@ -150,12 +195,7 @@
                 "date": "18 Set 2025",
                 "time": "10:11",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/11/shutterstock_659768479.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "La scuola distratta e il silenzio che uccide: Paolo, Andrea e il dovere di non dimenticare",
@@ -231,52 +271,28 @@
             null,
             null,
             null,
-            null,
-            {
-                "category": "Scuole",
-                "title": "Dichiarazione di accessibilità siti web scuole entro il 23 settembre",
-                "link": "https://www.orizzontescuola.it/dichiarazione-di-accessibilita-siti-web-scuole-entro-il-23-settembre/",
-                "date": "17 Set 2025",
-                "time": "20:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2467525223.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Supplenze ATA 2025/26: nessuna convocazione per gli operatori scolastici",
-                "link": "https://www.orizzontescuola.it/supplenze-ata-2025-26-nessuna-convocazione-per-gli-operatori-scolastici/",
-                "date": "17 Set 2025",
-                "time": "20:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Alunna al pronto soccorso dopo una lezione di educazione fisica, docente accusata di aggressione verbale. il Tribunale annulla la sospensione per mancanza di prove e condanna l’Ufficio Scolastico a restituire lo stipendio",
-                "link": "https://www.orizzontescuola.it/studentessa-finisce-al-pronto-soccorso-dopo-una-lezione-di-educazione-fisica-docente-accusata-di-aggressione-verbale-il-tribunale-annulla-la-sospensione-per-mancanza-di-prove-e-condanna-lufficio-s/",
-                "date": "17 Set 2025",
-                "time": "19:48",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2492642777.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Intelligenza artificiale, il Parlamento dà il via libera definitivo al disegno di legge: scuola e università al centro della rivoluzione digitale. Cosa è previsto",
-                "link": "https://www.orizzontescuola.it/intelligenza-artificiale-il-parlamento-da-il-via-libera-definitivo-al-disegno-di-legge-scuola-e-universita-al-centro-della-rivoluzione-digitale-cosa-e-previsto/",
-                "date": "17 Set 2025",
-                "time": "19:19",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/shutterstock_2599495969.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Valditara conferma il divieto: “Cellulari in classe rappresentano una minaccia per socializzazione e apprendimento. Tornare a giocare a palla con carta e nastro adesivo nei corridoi”",
-                "link": "https://www.orizzontescuola.it/valditara-conferma-il-divieto-cellulari-in-classe-rappresentano-una-minaccia-per-socializzazione-e-apprendimento-tornare-a-giocare-a-palla-con-carta-e-nastro-adesivo-nei-corridoi/",
-                "date": "17 Set 2025",
-                "time": "18:37",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Valditara_1-scaled.jpg"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Via libera a 58mila assunzioni docenti nel triennio, ma i sindacati contestano. Flc Cgil: “Assunzioni inferiori al turnover”. Gilda e Cisl Scuola: “Priorità agli idonei”",
+                "link": "https://www.orizzontescuola.it/via-libera-a-58mila-assunzioni-nel-triennio-ma-i-sindacati-contestano-flc-cgil-assunzioni-inferiori-al-turnover-gilda-e-cisl-scuola-priorita-agli-idonei/",
+                "date": "18 Set 2025",
+                "time": "19:32",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Autobus in fiamme vicino a Bari: studenti messi in salvo dall’autista",
+                "link": "https://www.orizzontescuola.it/autobus-in-fiamme-vicino-a-bari-studenti-messi-in-salvo-dallautista/",
+                "date": "18 Set 2025",
+                "time": "19:27",
+                "image_link": "N/A"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Il contratto integrativo FMOF 25/26 conterrà anche l’accordo sulle economie, l’incontro coi sindacati slitta a giovedì 25: Anief ribadirà la propria posizione a partire dalla richiesta di remunerare meglio le attività gravose",
@@ -404,15 +420,6 @@
                 "date": "18 Set 2025",
                 "time": "8:21",
                 "image_link": "N/A"
-            },
-            null,
-            {
-                "category": "Docenti",
-                "title": "INVALSI, selezione esperti per prove standardizzate: proroga candidature al 26 settembre",
-                "link": "https://www.orizzontescuola.it/invalsi-selezione-esperti-per-prove-standardizzate-candidature-entro-il-22-settembre/",
-                "date": "17 Set 2025",
-                "time": "20:19",
-                "image_link": "N/A"
             }
         ]
     },
@@ -538,6 +545,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Riconferma supplente sostegno su richiesta famiglia, la novità fa capolino anche negli INTERPELLI 2025/26",
+                "link": "https://www.orizzontescuola.it/riconferma-supplente-sostegno-su-richiesta-famiglia-la-novita-fa-capolino-anche-negli-interpelli-2025-26/",
+                "date": "12 Set 2025",
+                "time": "12:36",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_59277838.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Anno prova neoassunti: non si ripete nello stesso grado di istruzione. No aspettativa per altro ruolo",
                 "link": "https://www.orizzontescuola.it/anno-prova-neoassunti-non-si-ripete-nello-stesso-grado-di-istruzione-no-aspettativa-per-altro-ruolo/",
                 "date": "12 Set 2025",
@@ -575,14 +590,6 @@
                 "date": "10 Set 2025",
                 "time": "16:51",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2518506853.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Riconferma supplenti sostegno 2025/26: Uffici Scolastici spiegano ancora motivo della mancata nomina nonostante la richiesta della famiglia",
-                "link": "https://www.orizzontescuola.it/supplenti-sostegno-conferma-della-nomina-anche-per-il-2025-26-direttive-alle-scuole/",
-                "date": "10 Set 2025",
-                "time": "15:49",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1666873585.jpg"
             }
         ]
     },
