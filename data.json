@@ -3,26 +3,58 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "Nessuna categoria",
+                "title": "Immissioni in ruolo docenti, autorizzate oltre 58mila assunzioni fino al 2028. Zangrillo firma il decreto",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-autorizzate-oltre-58mila-assunzioni-fino-al-2028-zangrillo-firma-il-decreto/",
+                "date": "18 Set 2025",
+                "time": "17:42",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_120805804.jpg"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Consiglio di Stato sulle nuove Indicazioni Nazionali infanzia e primo ciclo, sospeso il parere sul Regolamento. Ministero precisa: nessuna bocciatura",
                 "link": "https://www.orizzontescuola.it/consiglio-di-stato-boccia-le-nuove-indicazioni-nazionali-sospeso-il-parere-sul-regolamento-ministeriale/",
                 "date": "18 Set 2025",
                 "time": "13:43",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/shutterstock_633750290.jpg"
-            },
-            {
-                "category": "Guide",
-                "title": "Permessi per lutto docenti e ATA: quanti giorni spettano ed entro quando fruirli [GUIDA]",
-                "link": "https://www.orizzontescuola.it/permessi-per-lutto-quanti-giorni-per-chi-ed-entro-quando-fruirli-guida/",
-                "date": "18 Set 2025",
-                "time": "9:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1909268731.jpg"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Novità accertamento disabilità e legge 104: dal 30 settembre parte la seconda fase della riforma. FAQ Inps",
+                "link": "https://www.orizzontescuola.it/novita-accertamento-disabilita-e-legge-104-dal-30-settembre-parte-la-seconda-fase-della-riforma-faq-inps/",
+                "date": "18 Set 2025",
+                "time": "18:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_1931627111.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "HUDERIA: la valutazione etico-giuridica per governare l’IA a scuola: un modello in allegato",
+                "link": "https://www.orizzontescuola.it/huderia-la-valutazione-etico-giuridica-per-governare-lia-a-scuola-un-modello-in-allegato/",
+                "date": "18 Set 2025",
+                "time": "16:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2496843175.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Emergenza sicurezza nelle scuole: 71 crolli, in 12 mesi, metà degli edifici ha 60 anni, amianto in 2.292 istituti e solo il 7% ha condizionamento. L’inchiesta di Cittadinanzattiva",
+                "link": "https://www.orizzontescuola.it/edilizia-scolastica-71-crolli-in-un-anno-lindagine-di-cittadinanzattiva-che-chiede-3-miliardi-per-la-sicurezza/",
+                "date": "18 Set 2025",
+                "time": "16:05",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/crollo-tetto.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Il contagio COVID a scuola è infortunio sul lavoro, ATA precaria vince battaglia legale contro INAIL: esposta al rischio per assistenza agli alunni. Cosa hanno detto i giudici",
+                "link": "https://www.orizzontescuola.it/il-contagio-covid-a-scuola-e-infortunio-sul-lavoro-ata-precaria-vince-battaglia-legale-contro-inail-esposta-al-rischio-per-assistenza-agli-alunni-cosa-hanno-detto-i-giudici/",
+                "date": "18 Set 2025",
+                "time": "15:35",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1781910032.jpg"
+            },
             {
                 "category": "Scuole",
                 "title": "La gestione della somministrazione di farmaci a scuola: normativa, procedure e responsabilità",
@@ -118,7 +150,12 @@
                 "date": "18 Set 2025",
                 "time": "10:11",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/11/shutterstock_659768479.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "La scuola distratta e il silenzio che uccide: Paolo, Andrea e il dovere di non dimenticare",
@@ -144,18 +181,21 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_687037513.jpg"
             },
             {
+                "category": "Guide",
+                "title": "Permessi per lutto docenti e ATA: quanti giorni spettano ed entro quando fruirli [GUIDA]",
+                "link": "https://www.orizzontescuola.it/permessi-per-lutto-quanti-giorni-per-chi-ed-entro-quando-fruirli-guida/",
+                "date": "18 Set 2025",
+                "time": "9:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1909268731.jpg"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Dress code, Codacons: “Verso grembiulini e divise? Aggreverebbe spesa delle famiglie”",
                 "link": "https://www.orizzontescuola.it/dress-code-codacons-verso-grembiulini-e-divise-aggreverebbe-spesa-delle-famiglie/",
                 "date": "18 Set 2025",
                 "time": "8:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_774201340.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Consulenza fiscale",
                 "title": "Riforma pensioni 2026 e pensione a 64 anni cosa bolle in pentola?",
@@ -231,52 +271,28 @@
                 "date": "17 Set 2025",
                 "time": "18:37",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/Valditara_1-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: ecco dove le GPS sono già esaurite [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-26-alcune-gps-gia-esaurite-si-passa-alle-graduatorie-di-istituto/",
-                "date": "17 Set 2025",
-                "time": "18:09",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1904033662.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26, Cozzetto (ANIEF): “Se si rinuncia alla nomina da interpello si incappa ugualmente nelle sanzioni”",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-26-cozzetto-anief-se-si-rinuncia-alla-nomina-da-interpello-si-incappa-ugualmente-nelle-sanzioni/",
-                "date": "17 Set 2025",
-                "time": "17:56",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_48466297.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Interdizione dal lavoro per condizioni di lavoro o ambientali pregiudizievoli per lavoratrici madri: nuove linee guida per la Scuola e altri settori",
-                "link": "https://www.orizzontescuola.it/interdizione-dal-lavoro-per-condizioni-di-lavoro-o-ambientali-pregiudizievoli-per-lavoratrici-madri-nuove-linee-guida-per-la-scuola-e-altri-settori/",
-                "date": "17 Set 2025",
-                "time": "16:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/shutterstock_341582660.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Decreto Scuola, Anief chiede aumento del 30% per commissari d’esame e doppio canale di reclutamento: “Personale scolastico discriminato, serve mobilità straordinaria e stop all’abuso dei contratti a termine”",
-                "link": "https://www.orizzontescuola.it/decreto-scuola-anief-chiede-aumento-del-30-per-commissari-desame-e-doppio-canale-di-reclutamento-personale-scolastico-discriminato-serve-mobilita-straordinaria-e-stop-allabuso-dei-contratti-a/",
-                "date": "17 Set 2025",
-                "time": "14:37",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/04/Marcello-Pacifico.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Via libera alla doppia iscrizione ai percorsi abilitanti e TFA sostegno contemporaneamente. NOTA Ministero Università",
-                "link": "https://www.orizzontescuola.it/via-libera-alla-doppia-iscrizione-ai-percorsi-abilitanti-e-tfa-sostegno-contemporaneamente-nota-ministero-universita/",
-                "date": "17 Set 2025",
-                "time": "14:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1323039833.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Il contratto integrativo FMOF 25/26 conterrà anche l’accordo sulle economie, l’incontro coi sindacati slitta a giovedì 25: Anief ribadirà la propria posizione a partire dalla richiesta di remunerare meglio le attività gravose",
+                "link": "https://www.orizzontescuola.it/il-contratto-integrativo-fmof-25-26-conterra-anche-laccordo-sulle-economie-lincontro-coi-sindacati-slitta-a-giovedi-25-anief-ribadira-la-propria-posizione-a-partire-dalla-richiesta/",
+                "date": "18 Set 2025",
+                "time": "16:44",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Studente morto suicida, Pellai: “Le scuole devono diventare luoghi emotivamente competenti. Non vedere il dolore di un ragazzo che chiede aiuto è una sconfitta”",
+                "link": "https://www.orizzontescuola.it/studente-morto-suicida-pellai-le-scuole-devono-diventare-luoghi-emotivamente-competenti-non-vedere-il-dolore-di-un-ragazzo-che-chiede-aiuto-e-una-sconfitta/",
+                "date": "18 Set 2025",
+                "time": "15:53",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "La Francia in piazza contro la Legge di Bilancio con tagli da 43 miliardi di euro. Docenti in sciopero, scuole chiuse",
@@ -287,7 +303,7 @@
             },
             {
                 "category": "Cronaca",
-                "title": "Alunno di 6 anni precipita dal secondo piano di una scuola a Genova: ricoverato in gravi condizioni",
+                "title": "Alunno precipita dal secondo piano di una scuola a Genova: ricoverato in gravi condizioni. Valditara: “Seguo con grande apprensione quanto accaduto, fare chiarezza”",
                 "link": "https://www.orizzontescuola.it/dramma-in-una-scuola-a-genova-alunno-di-6-anni-precipita-dal-secondo-piano-ricoverato-in-gravi-condizioni/",
                 "date": "18 Set 2025",
                 "time": "12:49",
@@ -396,22 +412,6 @@
                 "link": "https://www.orizzontescuola.it/invalsi-selezione-esperti-per-prove-standardizzate-candidature-entro-il-22-settembre/",
                 "date": "17 Set 2025",
                 "time": "20:19",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Roccella: “Rete antiviolenza rafforzata con 80 milioni annui, al via tavolo per recepire direttiva UE”",
-                "link": "https://www.orizzontescuola.it/roccella-rete-antiviolenza-rafforzata-con-80-milioni-annui-al-via-tavolo-per-recepire-direttiva-ue/",
-                "date": "17 Set 2025",
-                "time": "18:50",
-                "image_link": "N/A"
-            },
-            {
-                "category": "ATA",
-                "title": "Interpello ATA Assistente Tecnico AR04 – Imbarcazioni Scuola e Officine per scuola di Bari",
-                "link": "https://www.orizzontescuola.it/interpello-ata-assistente-tecnico-ar04-imbarcazioni-scuola-e-officine-per-scuola-di-bari/",
-                "date": "17 Set 2025",
-                "time": "18:45",
                 "image_link": "N/A"
             }
         ]
@@ -538,6 +538,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Anno prova neoassunti: non si ripete nello stesso grado di istruzione. No aspettativa per altro ruolo",
+                "link": "https://www.orizzontescuola.it/anno-prova-neoassunti-non-si-ripete-nello-stesso-grado-di-istruzione-no-aspettativa-per-altro-ruolo/",
+                "date": "12 Set 2025",
+                "time": "11:29",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/05/come-aumentare-punteggio-gps.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Riconferma insegnante di sostegno, al momento la norma vale solo per il 2025/26",
                 "link": "https://www.orizzontescuola.it/riconferma-insegnante-di-sostegno-al-momento-la-norma-vale-solo-per-il-2025-26/",
                 "date": "11 Set 2025",
@@ -575,14 +583,6 @@
                 "date": "10 Set 2025",
                 "time": "15:49",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1666873585.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Vincitori di concorso PNRR2 da graduatorie pubblicate dopo il 31 agosto: come avvengono le assunzioni. RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/vincitori-di-concorso-pnrr2-da-graduatorie-pubblicate-dopo-il-31-agosto-come-avvengono-le-assunzioni-risposte-ai-quesiti/",
-                "date": "10 Set 2025",
-                "time": "11:36",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
             }
         ]
     },
