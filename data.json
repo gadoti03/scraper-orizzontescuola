@@ -25,6 +25,62 @@
         "articles": [
             {
                 "category": "Scuole",
+                "title": "Dichiarazione di accessibilità: cosa deve fare ogni anno il Dirigente scolastico",
+                "link": "https://www.orizzontescuola.it/dichiarazione-di-accessibilita-cosa-deve-fare-ogni-anno-il-dirigente-scolastico/",
+                "date": "19 Set 2025",
+                "time": "14:09",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_1133469647.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Indicazioni Nazionali infanzia e primo ciclo, il Consiglio di Stato sospende il parere, Valditara smorza le critiche, ma i sindacati vanno all’attacco: “Serve vero percorso condiviso”",
+                "link": "https://www.orizzontescuola.it/indicazioni-nazionali-il-consiglio-di-stato-sospende-il-parere-valditara-smorza-le-critiche-ma-i-sindacati-vanno-allattacco-serve-vero-percorso-condiviso/",
+                "date": "19 Set 2025",
+                "time": "13:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/Ministero-Istruzione.jpeg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Scuola in ospedale e istruzione domiciliare: come funzionano e quale documentazione serve",
+                "link": "https://www.orizzontescuola.it/scuola-in-ospedale-e-istruzione-domiciliare-come-funzionano-e-quale-documentazione-serve/",
+                "date": "19 Set 2025",
+                "time": "12:04",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_1536212639.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Minigonne e tacchi vietati a scuola, il vademecum della discordia. Studenti divisi: “Dobbiamo venire vestiti come le suore”, ma c’è chi dice: “Veniamo in classe per studiare, non per fare sfilate”",
+                "link": "https://www.orizzontescuola.it/minigonne-e-tacchi-vietati-a-scuola-il-vademecum-della-discordia-studenti-divisi-dobbiamo-venire-vestiti-come-le-suore-ma-ce-chi-dice-veniamo-in-classe-per-studiare-non-per-fare-sfilate/",
+                "date": "19 Set 2025",
+                "time": "11:59",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_153744212-scaled.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Istruzione degli adulti 2025/26: riepilogo scadenze e indicazioni operative",
+                "link": "https://www.orizzontescuola.it/istruzione-degli-adulti-2025-26-riepilogo-scadenze-e-indicazioni-operative/",
+                "date": "19 Set 2025",
+                "time": "11:37",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/shutterstock_385737019.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Vincolo mobilità docenti: si supera con deroga, anche in caso di trasferimento ottenuto per il 25/26 su preferenza puntuale",
+                "link": "https://www.orizzontescuola.it/vincolo-mobilita-docenti-si-supera-con-deroga-anche-in-caso-di-trasferimento-ottenuto-per-il-25-26-su-preferenza-puntuale/",
+                "date": "19 Set 2025",
+                "time": "11:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/10/london-58381_1280-1200x802.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze 2025/26: ecco gli interpelli del 19 settembre per la ricerca di insegnanti",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "19 Set 2025",
+                "time": "11:16",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
+            },
+            {
+                "category": "Scuole",
                 "title": "Attrezzature sportive nei licei scientifici sportivi: candidature dal 24 settembre al 10 ottobre. AVVISO",
                 "link": "https://www.orizzontescuola.it/attrezzature-sportive-nei-licei-scientifici-sportivi-candidature-dal-24-settembre-al-10-ottobre-avviso/",
                 "date": "19 Set 2025",
@@ -94,7 +150,12 @@
                 "date": "19 Set 2025",
                 "time": "8:45",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/tfa-sostegno-IX-ciclo.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Genitori",
                 "title": "Figli a carico anche dopo i 30 anni: cosa succede alle detrazioni fiscali",
@@ -129,12 +190,7 @@
             },
             null,
             null,
-            null
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            null,
             {
                 "category": "Plus",
                 "title": "6 webinar gratuiti per “Gestire la scuola” senza sbagliare, per Dirigenti, collaboratori del DS, DSGA e segreterie: dagli adempimenti, alla gestione delle assenze, dal programma annuale alle nuove regole dello Smart working",
@@ -215,68 +271,100 @@
                 "date": "18 Set 2025",
                 "time": "14:28",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/10/shutterstock_552039916.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze da GPS 2025/26: i docenti lamentano errori nelle nomine, gli Uffici Scolastici rispondono [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/supplenze-da-gps-2025-26-i-docenti-lamentano-errori-nelle-nomine-gli-uffici-scolastici-rispondono-avvisi/",
-                "date": "18 Set 2025",
-                "time": "14:05",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze 2025/26: ecco gli interpelli del 18 settembre per la ricerca di insegnanti",
-                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
-                "date": "18 Set 2025",
-                "time": "13:58",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Consiglio di Stato sulle nuove Indicazioni Nazionali infanzia e primo ciclo, sospeso il parere sul Regolamento. Ministero precisa: nessuna bocciatura",
-                "link": "https://www.orizzontescuola.it/consiglio-di-stato-boccia-le-nuove-indicazioni-nazionali-sospeso-il-parere-sul-regolamento-ministeriale/",
-                "date": "18 Set 2025",
-                "time": "13:43",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/shutterstock_633750290.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Insegnanti sottopagati e sovraccarichi: lavorano gratis l’equivalente di 54 giorni l’anno, 12 ore alla settimana extra per compiti burocratici. Lo studio",
-                "link": "https://www.orizzontescuola.it/insegnanti-sottopagati-e-sovraccarichi-lavorano-gratis-lequivalente-di-54-giorni-lanno-12-ore-alla-settimana-extra-per-compiti-burocratici-lo-studio/",
-                "date": "18 Set 2025",
-                "time": "13:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_1964164204.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Polemica per il vademecum anti-minigonne e tacchi a scuola, la dirigente scolastica chiarisce: “Regolamento ereditato dalla precedente gestione, ora solo consigli di buon gusto”",
-                "link": "https://www.orizzontescuola.it/polemica-per-il-vademecum-anti-minigonne-e-tacchi-a-scuola-la-dirigente-scolastica-chiarisce-regolamento-ereditato-dalla-precedente-gestione-ora-solo-consigli-di-buon-gusto/",
-                "date": "18 Set 2025",
-                "time": "11:56",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Screenshot-2025-09-10-alle-11.18.08.png"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Classi pollaio, Alleanza Verdi Sinistra deposita la proposta di legge: “Non più di 20 alunni per classe. Fondo da 500 milioni togliendoli alla scuola privata”",
-                "link": "https://www.orizzontescuola.it/classi-pollaio-alleanza-verdi-sinistra-deposita-la-proposta-di-legge-non-piu-di-20-alunni-per-classe-500-milioni-togliendoli-alla-scuola-privata/",
-                "date": "18 Set 2025",
-                "time": "11:49",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/Classi-pollaio.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Torniamo ad insegnare l’uncinetto",
-                "link": "https://www.orizzontescuola.it/torniamo-ad-insegnare-luncinetto/",
-                "date": "18 Set 2025",
-                "time": "11:39",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_1022331136.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Docenti precari, autorizzate 58mila assunzioni docenti entro il 2028: per Anief copriranno appena il turn over e lasceranno scoperto un posto su due sul sostegno",
+                "link": "https://www.orizzontescuola.it/docenti-precari-autorizzate-58mila-assunzioni-docenti-entro-il-2028-per-anief-copriranno-appena-il-turn-over-e-lasceranno-scoperto-un-posto-su-due-sul-sostegno/",
+                "date": "19 Set 2025",
+                "time": "14:23",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Dopo 13 anni dal sisma del 2012, riapre finalmente la scuola De Amicis di Rolo: investiti 2 milioni di euro per restituire alla comunità emiliana un presidio educativo moderno e sostenibile",
+                "link": "https://www.orizzontescuola.it/dopo-13-anni-dal-sisma-del-2012-riapre-finalmente-la-scuola-de-amicis-di-rolo-investiti-2-milioni-di-euro-per-restituire-alla-comunita-emiliana-un-presidio-educativo-moderno-e-sostenibile/",
+                "date": "19 Set 2025",
+                "time": "14:19",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Decreto Scuola, Pittoni (Lega): “Al lavoro per i correttivi per accesso docenti ai corsi sostegno”",
+                "link": "https://www.orizzontescuola.it/decreto-scuola-la-lega-lavora-agli-emendamenti-corsi-di-specializzazione-sostegno-aperti-a-nuove-categorie-soluzione-anche-per-i-titoli-esteri-bloccati/",
+                "date": "19 Set 2025",
+                "time": "13:04",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Valditara sui test PISA: “La scuola italiana non ha timore di nessuno. Il Nord batte Finlandia e Germania, i problemi sono sociali”",
+                "link": "https://www.orizzontescuola.it/valditara-sui-test-pisa-la-scuola-italiana-non-ha-timore-di-nessuno-il-nord-batte-finlandia-e-germania-i-problemi-sono-sociali/",
+                "date": "19 Set 2025",
+                "time": "12:58",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "“Va’ dove ti porta il bus”: educare a usare il mezzo pubblico e muoversi in autonomia. Il progetto per le scuole della Toscana",
+                "link": "https://www.orizzontescuola.it/va-dove-ti-porta-il-bus-educare-a-usare-il-mezzo-pubblico-e-muoversi-in-autonomia-il-progetto-per-le-scuole-della-toscana/",
+                "date": "19 Set 2025",
+                "time": "11:44",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Nuove Indicazioni Nazionali, il Consiglio di Stato rinvia il testo: la CISL Scuola chiede un confronto vero con le scuole",
+                "link": "https://www.orizzontescuola.it/nuove-indicazioni-nazionali-il-consiglio-di-stato-rinvia-il-testo-la-cisl-scuola-chiede-un-confronto-vero-con-le-scuole/",
+                "date": "19 Set 2025",
+                "time": "11:13",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Jannik Sinner lancia la sua fondazione: “Impegno massimo per sport e istruzione. È un modo per restituire qualcosa agli altri, in particolare ai ragazzi e alle ragazze”",
+                "link": "https://www.orizzontescuola.it/jannik-sinner-lancia-la-sua-fondazione-impegno-massimo-per-sport-e-istruzione-e-un-modo-per-restituire-qualcosa-agli-altri-in-particolare-ai-ragazzi-e-alle-ragazze/",
+                "date": "19 Set 2025",
+                "time": "11:07",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Riforma 4+2, Valditara: “La formazione non può essere solo teorica, ma deve essere calata anche nella realtà”",
+                "link": "https://www.orizzontescuola.it/riforma-42-valditara-la-formazione-non-puo-essere-solo-teorica-ma-deve-essere-calata-anche-nella-realta/",
+                "date": "19 Set 2025",
+                "time": "10:49",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Studente morto suicida, Valditara annuncia: “Massima trasparenza, faremo piena luce su quanto accaduto”",
+                "link": "https://www.orizzontescuola.it/studente-morto-suicida-valditara-annuncia-massima-trasparenza-faremo-piena-luce-su-quanto-accaduto/",
+                "date": "19 Set 2025",
+                "time": "10:43",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Valditara rilancia la scuola del merito: “Luogo di gentilezza e valorizzazione dei talenti”",
+                "link": "https://www.orizzontescuola.it/valditara-rilancia-la-scuola-del-merito-luogo-di-gentilezza-e-valorizzazione-dei-talenti/",
+                "date": "19 Set 2025",
+                "time": "10:40",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "Premio Nazionale sull’Innovazione Digitale 2025/26: iscrizioni scuole dal 6 ottobre al 20 dicembre. NOTA",
+                "link": "https://www.orizzontescuola.it/premio-nazionale-sullinnovazione-digitale-2025-26-iscrizioni-scuole-dal-6-ottobre-al-20-dicembre-nota/",
+                "date": "19 Set 2025",
+                "time": "10:30",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Alunno cade dal secondo piano della scuola, condizioni ancora gravi",
@@ -310,7 +398,7 @@
                 "image_link": "N/A"
             },
             {
-                "category": "Nessuna categoria",
+                "category": "Cronaca",
                 "title": "Controlli antidroga nelle scuole, dirigenti scolastici chiamano le forze dell’ordine: “Blitz concordato con i genitori”",
                 "link": "https://www.orizzontescuola.it/controlli-antidroga-nelle-scuole-dirigenti-scolastici-chiamano-le-forze-dellordine-blitz-concordato-con-i-genitori/",
                 "date": "19 Set 2025",
@@ -331,94 +419,6 @@
                 "link": "https://www.orizzontescuola.it/autobus-in-fiamme-vicino-a-bari-studenti-messi-in-salvo-dallautista/",
                 "date": "18 Set 2025",
                 "time": "19:27",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Il contratto integrativo FMOF 25/26 conterrà anche l’accordo sulle economie, l’incontro coi sindacati slitta a giovedì 25: Anief ribadirà la propria posizione a partire dalla richiesta di remunerare meglio le attività gravose",
-                "link": "https://www.orizzontescuola.it/il-contratto-integrativo-fmof-25-26-conterra-anche-laccordo-sulle-economie-lincontro-coi-sindacati-slitta-a-giovedi-25-anief-ribadira-la-propria-posizione-a-partire-dalla-richiesta/",
-                "date": "18 Set 2025",
-                "time": "16:44",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Studente morto suicida, Pellai: “Le scuole devono diventare luoghi emotivamente competenti. Non vedere il dolore di un ragazzo che chiede aiuto è una sconfitta”",
-                "link": "https://www.orizzontescuola.it/studente-morto-suicida-pellai-le-scuole-devono-diventare-luoghi-emotivamente-competenti-non-vedere-il-dolore-di-un-ragazzo-che-chiede-aiuto-e-una-sconfitta/",
-                "date": "18 Set 2025",
-                "time": "15:53",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "La Francia in piazza contro la Legge di Bilancio con tagli da 43 miliardi di euro. Docenti in sciopero, scuole chiuse",
-                "link": "https://www.orizzontescuola.it/la-francia-in-piazza-contro-la-legge-di-bilancio-con-tagli-da-43-miliardi-di-euro-docenti-in-sciopero-scuole-chiuse/",
-                "date": "18 Set 2025",
-                "time": "14:09",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Alunno precipita dal secondo piano di una scuola a Genova: ricoverato in gravi condizioni. Valditara: “Seguo con grande apprensione quanto accaduto, fare chiarezza”",
-                "link": "https://www.orizzontescuola.it/dramma-in-una-scuola-a-genova-alunno-di-6-anni-precipita-dal-secondo-piano-ricoverato-in-gravi-condizioni/",
-                "date": "18 Set 2025",
-                "time": "12:49",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Boom di richieste per il bonus psicologo 2025: quasi 178mila domande in quattro giorni",
-                "link": "https://www.orizzontescuola.it/boom-di-richieste-per-il-bonus-psicologo-2025-quasi-178mila-domande-in-quattro-giorni/",
-                "date": "18 Set 2025",
-                "time": "12:21",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Nuove Indicazioni Nazionali, il Consiglio di Stato sospende il parere. D’Aprile (Uil Scuola Rua): “Confermate le nostre perplessità. Serve un confronto vero con le scuole”",
-                "link": "https://www.orizzontescuola.it/nuove-indicazioni-nazionali-il-consiglio-di-stato-sospende-il-parere-daprile-uil-scuola-rua-confermate-le-nostre-perplessita-serve-un-confronto-vero-con-le-scuole/",
-                "date": "18 Set 2025",
-                "time": "12:09",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Competenze emotive e sociali a scuola: bando Indire per 60 istituti. Scadenza 5 ottobre",
-                "link": "https://www.orizzontescuola.it/competenze-emotive-e-sociali-a-scuola-bando-indire-per-60-istituti-scadenza-5-ottobre/",
-                "date": "18 Set 2025",
-                "time": "11:39",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Occhiuto: “Corrado Alvaro sarà nelle linee guida del Ministero tra gli autori del ‘900. Come Verga e Pirandello rappresenta un pezzo fondante della nostra storia”",
-                "link": "https://www.orizzontescuola.it/occhiuto-corrado-alvaro-sara-nelle-linee-guida-del-ministero-tra-gli-autori-del-900-come-verga-e-pirandello-rappresenta-un-pezzo-fondante-della-nostra-storia/",
-                "date": "18 Set 2025",
-                "time": "11:33",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "A Bologna boom di casi di studenti con certificazioni di disabilità. Il Comune si organizza: “Un solo educatore per più casi lievi”",
-                "link": "https://www.orizzontescuola.it/dsa-a-bologna-boom-di-casi-di-studenti-con-certificazioni-di-disabilita-il-comune-si-organizza-un-solo-educatore-per-piu-casi-lievi/",
-                "date": "18 Set 2025",
-                "time": "11:17",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Salute mentale giovanile, Progetto Itaca torna nelle scuole: 15mila studenti raggiunti contro ansia e depressione che colpiscono il 18% dei giovani italiani",
-                "link": "https://www.orizzontescuola.it/salute-mentale-giovanile-progetto-itaca-torna-nelle-scuole-15mila-studenti-raggiunti-contro-ansia-e-depressione-che-colpiscono-il-18-dei-giovani-italiani/",
-                "date": "18 Set 2025",
-                "time": "11:08",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Sciopero generale del 22 settembre: avviso Ministero e scheda di rilevazione",
-                "link": "https://www.orizzontescuola.it/sciopero-generale-del-22-settembre-2025-avviso-ministero-e-scheda-di-rilevazione/",
-                "date": "18 Set 2025",
-                "time": "11:01",
                 "image_link": "N/A"
             }
         ]
@@ -598,6 +598,14 @@
         "articles": [
             {
                 "category": "ATA",
+                "title": "Cosa succede se abbandono una supplenza ATA per una da docente?",
+                "link": "https://www.orizzontescuola.it/cosa-succede-se-abbandono-una-supplenza-ata-per-una-da-docente/",
+                "date": "12 Set 2025",
+                "time": "11:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1129962923-scaled.jpg"
+            },
+            {
+                "category": "ATA",
                 "title": "Posizioni economiche ATA: il 12 settembre si concludono i corsi di formazione. Test finale probabile a metà ottobre",
                 "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-il-12-settembre-si-concludono-i-corsi-di-formazione-test-finale-probabile-a-meta-ottobre/",
                 "date": "11 Set 2025",
@@ -635,14 +643,6 @@
                 "date": "9 Set 2025",
                 "time": "11:24",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Supplenze ATA 2025/26: ecco le convocazioni e i posti. Ci sono anche quelle da terza fascia",
-                "link": "https://www.orizzontescuola.it/supplenze-ata-da-prima-e-seconda-fascia-ecco-dove-sono-gia-iniziate-le-convocazioni/",
-                "date": "8 Set 2025",
-                "time": "11:28",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2456756593.jpg"
             }
         ]
     },
