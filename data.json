@@ -24,6 +24,38 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Genitori",
+                "title": "Un genitore su quattro affronta il ritorno a scuola con ansia: bambini con condizioni mediche e comportamentali necessitano di assistenza speciale durante le ore di lezione. Lo studio",
+                "link": "https://www.orizzontescuola.it/un-genitore-su-quattro-affronta-il-ritorno-a-scuola-con-ansia-bambini-con-condizioni-mediche-e-comportamentali-necessitano-di-assistenza-speciale-durante-le-ore-di-lezione-lo-studio/",
+                "date": "20 Set 2025",
+                "time": "14:08",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/01/shutterstock_1736466005.jpg"
+            },
+            {
+                "category": "Studenti",
+                "title": "L’intelligenza artificiale al servizio della prevenzione: individuare la depressione degli studenti attraverso le espressioni facciali",
+                "link": "https://www.orizzontescuola.it/lintelligenza-artificiale-al-servizio-della-prevenzione-individuare-la-depressione-degli-studenti-attraverso-le-espressioni-facciali/",
+                "date": "20 Set 2025",
+                "time": "12:34",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2267533875-scaled.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Graduatorie GPS docenti secondaria: come e quando si valuta il superamento del concorso ordinario",
+                "link": "https://www.orizzontescuola.it/graduatorie-gps-docenti-secondaria-come-e-quando-si-valuta-il-superamento-del-concorso-ordinario/",
+                "date": "20 Set 2025",
+                "time": "11:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_2153640081.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "La trappola emotiva dei giovani nottambuli: come solitudine e ansia li spingono verso la dipendenza da social media e smartphone",
+                "link": "https://www.orizzontescuola.it/la-trappola-emotiva-dei-giovani-nottambuli-come-solitudine-e-ansia-li-spingono-verso-la-dipendenza-da-social-media-e-smartphone/",
+                "date": "20 Set 2025",
+                "time": "11:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_1694949499-scaled.jpg"
+            },
+            {
                 "category": "Politica scolastica",
                 "title": "Docenti precari sostegno: assunzioni, continuità didattica, percorsi di specializzazione. Il piano del Ministero",
                 "link": "https://www.orizzontescuola.it/docenti-precari-sostegno-assunzioni-continuita-didattica-percorsi-di-specializzazione-il-piano-del-ministero/",
@@ -97,7 +129,12 @@
                 "date": "19 Set 2025",
                 "time": "19:35",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_344044361.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Scuole di montagna: più punti in graduatoria per docenti e ATA, fino a 3.500 euro per affitto o mutuo. La LEGGE in Gazzetta Ufficiale",
@@ -129,12 +166,7 @@
                 "date": "19 Set 2025",
                 "time": "16:11",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/tfa-sostegno-IX-ciclo.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR3: si può partecipare con riserva se alla scadenza della domanda abilitazione o titolo sostegno non è stato ancora conseguito? Pillole di Question Time",
@@ -246,44 +278,68 @@
                 "date": "19 Set 2025",
                 "time": "9:22",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/download-3.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Cellulari vietati nelle aule, studenti all’attacco: dispositivi di riserva, telefoni obsoleti e iPod per eludere i controlli. Le strategie creative della Generazione Z",
-                "link": "https://www.orizzontescuola.it/ipod-tornano-sui-banchi-di-scuola-la-gen-z-risponde-al-divieto-smartphone-con-la-tecnologia-vintage/",
-                "date": "19 Set 2025",
-                "time": "9:14",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_2293400089-scaled.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Codice disciplinare ATA: le regole. Sanzioni vanno dal richiamo alle multe, fino al licenziamento",
-                "link": "https://www.orizzontescuola.it/codice-disciplinare-ata-le-regole-sanzioni-vanno-dal-richiamo-alle-multe-fino-al-licenziamento/",
-                "date": "19 Set 2025",
-                "time": "9:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_686339755.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Viaggi di Istruzione, per gli appalti il 70% peserà sulla sicurezza e non sul risparmio. Come cambia",
-                "link": "https://www.orizzontescuola.it/viaggi-di-istruzione-per-gli-appalti-il-70-pesera-sulla-sicurezza-e-non-sul-risparmio-come-cambia/",
-                "date": "19 Set 2025",
-                "time": "8:58",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_199611917.jpg"
-            },
-            {
-                "category": "Genitori",
-                "title": "Figli a carico anche dopo i 30 anni: cosa succede alle detrazioni fiscali",
-                "link": "https://www.orizzontescuola.it/figli-a-carico-anche-dopo-i-30-anni-cosa-succede-alle-detrazioni-fiscali/",
-                "date": "19 Set 2025",
-                "time": "8:34",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_258526907.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Siracusa apre le porte al futuro dell’inclusione: nasce il primo parco pedagogico senza barriere della Sicilia",
+                "link": "https://www.orizzontescuola.it/siracusa-apre-le-porte-al-futuro-dellinclusione-nasce-il-primo-parco-pedagogico-senza-barriere-della-sicilia/",
+                "date": "20 Set 2025",
+                "time": "14:25",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Dalle case per giovani coppie alle start-up: Tajani svela il piano del Governo per gli under 30. “La politica insegna a rialzarsi anche dalle sconfitte”. Il messaggio ai talenti”",
+                "link": "https://www.orizzontescuola.it/dalle-case-per-giovani-coppie-alle-start-up-tajani-svela-il-piano-del-governo-per-gli-under-30-la-politica-insegna-a-rialzarsi-anche-dalle-sconfitte-il-messaggio-ai-talenti/",
+                "date": "20 Set 2025",
+                "time": "13:05",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Allarme rosso UNICEF: l’obesità sorpassa il sottopeso tra i giovani per la prima volta al mondo. 4mila miliardi di costi entro il 2035, l’Italia registra dati stabili ma preoccupanti",
+                "link": "https://www.orizzontescuola.it/allarme-rosso-unicef-lobesita-sorpassa-il-sottopeso-tra-i-giovani-per-la-prima-volta-al-mondo-4mila-miliardi-di-costi-entro-il-2035-litalia-registra-dati-stabili-ma-preoccupanti/",
+                "date": "20 Set 2025",
+                "time": "12:21",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Politica tabù in casa: 4,6 milioni di famiglie italiane non ne parlano mai, Sud in testa con Calabria e Sicilia al 30%. L’Istat rivela il grande disinteresse nazionale",
+                "link": "https://www.orizzontescuola.it/politica-tabu-in-casa-46-milioni-di-famiglie-italiane-non-ne-parlano-mai-sud-in-testa-con-calabria-e-sicilia-al-30-listat-rivela-il-grande-disinteresse-nazionale/",
+                "date": "20 Set 2025",
+                "time": "11:46",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Falsi miti sessuali sui social: perché gli adolescenti che si informano su Instagram rischiano comportamenti pericolosi più di chi usa YouTube. La ricerca negli Usa",
+                "link": "https://www.orizzontescuola.it/falsi-miti-sessuali-sui-social-perche-gli-adolescenti-che-si-informano-su-instagram-rischiano-comportamenti-pericolosi-piu-di-chi-usa-youtube-la-ricerca-negli-usa/",
+                "date": "20 Set 2025",
+                "time": "11:28",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Settembre nero per le famiglie: 1.300 euro a studente per il ritorno sui banchi",
+                "link": "https://www.orizzontescuola.it/settembre-nero-per-le-famiglie-1-300-euro-a-studente-per-il-ritorno-sui-banchi/",
+                "date": "20 Set 2025",
+                "time": "10:50",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Fondi per l’assistenza scolastica: il sindacato ANIEF pronto a tutelare gli studenti con disabilità provincia di Savona",
+                "link": "https://www.orizzontescuola.it/fondi-per-lassistenza-scolastica-il-sindacato-anief-pronto-a-tutelare-gli-studenti-con-disabilita-provincia-di-savona/",
+                "date": "20 Set 2025",
+                "time": "10:33",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Bagni unisex in un istituto scolastico in Svizzera, scoppia la polemica. I genitori: “Mio figlio di sette anni mi ha detto che trovava strano dover fare la pipì insieme alle bambine”",
@@ -364,63 +420,7 @@
                 "time": "16:27",
                 "image_link": "N/A"
             },
-            null,
-            {
-                "category": "Politica scolastica",
-                "title": "Docenti precari, autorizzate 58mila assunzioni docenti entro il 2028: per Anief copriranno appena il turn over e lasceranno scoperto un posto su due sul sostegno",
-                "link": "https://www.orizzontescuola.it/docenti-precari-autorizzate-58mila-assunzioni-docenti-entro-il-2028-per-anief-copriranno-appena-il-turn-over-e-lasceranno-scoperto-un-posto-su-due-sul-sostegno/",
-                "date": "19 Set 2025",
-                "time": "14:23",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Dopo 13 anni dal sisma del 2012, riapre finalmente la scuola De Amicis di Rolo: investiti 2 milioni di euro per restituire alla comunità emiliana un presidio educativo moderno e sostenibile",
-                "link": "https://www.orizzontescuola.it/dopo-13-anni-dal-sisma-del-2012-riapre-finalmente-la-scuola-de-amicis-di-rolo-investiti-2-milioni-di-euro-per-restituire-alla-comunita-emiliana-un-presidio-educativo-moderno-e-sostenibile/",
-                "date": "19 Set 2025",
-                "time": "14:19",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Decreto Scuola, Pittoni (Lega): “Al lavoro per i correttivi per accesso docenti ai corsi sostegno”",
-                "link": "https://www.orizzontescuola.it/decreto-scuola-la-lega-lavora-agli-emendamenti-corsi-di-specializzazione-sostegno-aperti-a-nuove-categorie-soluzione-anche-per-i-titoli-esteri-bloccati/",
-                "date": "19 Set 2025",
-                "time": "13:04",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Valditara sui test PISA: “La scuola italiana non ha timore di nessuno. Il Nord batte Finlandia e Germania, i problemi sono sociali”",
-                "link": "https://www.orizzontescuola.it/valditara-sui-test-pisa-la-scuola-italiana-non-ha-timore-di-nessuno-il-nord-batte-finlandia-e-germania-i-problemi-sono-sociali/",
-                "date": "19 Set 2025",
-                "time": "12:58",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "“Va’ dove ti porta il bus”: educare a usare il mezzo pubblico e muoversi in autonomia. Il progetto per le scuole della Toscana",
-                "link": "https://www.orizzontescuola.it/va-dove-ti-porta-il-bus-educare-a-usare-il-mezzo-pubblico-e-muoversi-in-autonomia-il-progetto-per-le-scuole-della-toscana/",
-                "date": "19 Set 2025",
-                "time": "11:44",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Nuove Indicazioni Nazionali, il Consiglio di Stato rinvia il testo: la CISL Scuola chiede un confronto vero con le scuole",
-                "link": "https://www.orizzontescuola.it/nuove-indicazioni-nazionali-il-consiglio-di-stato-rinvia-il-testo-la-cisl-scuola-chiede-un-confronto-vero-con-le-scuole/",
-                "date": "19 Set 2025",
-                "time": "11:13",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Jannik Sinner lancia la sua fondazione: “Impegno massimo per sport e istruzione. È un modo per restituire qualcosa agli altri, in particolare ai ragazzi e alle ragazze”",
-                "link": "https://www.orizzontescuola.it/jannik-sinner-lancia-la-sua-fondazione-impegno-massimo-per-sport-e-istruzione-e-un-modo-per-restituire-qualcosa-agli-altri-in-particolare-ai-ragazzi-e-alle-ragazze/",
-                "date": "19 Set 2025",
-                "time": "11:07",
-                "image_link": "N/A"
-            }
+            null
         ]
     },
     "group_5": {
