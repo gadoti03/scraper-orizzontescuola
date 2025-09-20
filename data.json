@@ -24,6 +24,54 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Docenti",
+                "title": "Organici docenti di religione cattolica, 16.654 i posti distribuiti: meno 108 rispetto al 2024-2025. Lombardia, Campania e Sicilia con più cattedre",
+                "link": "https://www.orizzontescuola.it/docenti-di-religione-cattolica-16-654-i-posti-distribuiti-meno-108-rispetto-al-2024-2025-lombardia-campania-e-sicilia-con-piu-cattedre/",
+                "date": "20 Set 2025",
+                "time": "16:39",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2263814763.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Settimana corta a scuola anche a dicembre? Il Consiglio di Stato dice sì e boccia il ricorso di una famiglia. Ecco perché le scuole possono cambiare l’orario anche durante l’anno",
+                "link": "https://www.orizzontescuola.it/settimana-corta-a-scuola-anche-a-dicembre-il-consiglio-di-stato-dice-si-e-boccia-il-ricorso-di-una-famiglia-ecco-perche-le-scuole-possono-cambiare-lorario-anche-durante-lanno/",
+                "date": "20 Set 2025",
+                "time": "16:27",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/shutterstock_2384798953.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Sempre meno docenti partecipano ai viaggi d’istruzione. Anief: “Dato in calo di oltre il 70%, 50 euro l’ora per chi è impegnato nell’accompagnamento degli alunni”",
+                "link": "https://www.orizzontescuola.it/sempre-meno-docenti-partecipano-ai-viaggi-distruzione-anief-dato-in-calo-di-oltre-il-70-50-euro-lora-per-chi-e-impegnato-nellaccompagnamento-degli-alunni/",
+                "date": "20 Set 2025",
+                "time": "15:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2475680779.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: ancora nomine da GPS [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
+                "date": "20 Set 2025",
+                "time": "15:31",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/tfa-sostegno-IX-ciclo.png"
+            },
+            {
+                "category": "Genitori",
+                "title": "Telefono Azzurro: “Le foto del primo giorno di scuola diventano materiale per pedofili”. Responsabilità genitoriale: cosa stabilisce la legge",
+                "link": "https://www.orizzontescuola.it/telefono-azzurro-le-foto-del-primo-giorno-di-scuola-diventano-materiale-per-pedofili-responsabilita-genitoriale-cosa-stabilisce-la-legge/",
+                "date": "20 Set 2025",
+                "time": "15:14",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_2360709357-scaled.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Galimberti: “La bellezza ci trafigge, ma a scuola insegniamo solo l’utile”. E sugli studenti: “Conoscono solo 500 parole contro le 1500 del passato, stiamo fallendo sulla formazione del pensiero critico”",
+                "link": "https://www.orizzontescuola.it/galimberti-la-bellezza-ci-trafigge-ma-a-scuola-insegniamo-solo-lutile-e-sugli-studenti-conoscono-solo-500-parole-contro-le-1500-del-passato-stiamo-fallendo-sulla-formazione-del-pensiero-c/",
+                "date": "20 Set 2025",
+                "time": "14:31",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/Galimberti.png"
+            },
+            {
                 "category": "Genitori",
                 "title": "Un genitore su quattro affronta il ritorno a scuola con ansia: bambini con condizioni mediche e comportamentali necessitano di assistenza speciale durante le ore di lezione. Lo studio",
                 "link": "https://www.orizzontescuola.it/un-genitore-su-quattro-affronta-il-ritorno-a-scuola-con-ansia-bambini-con-condizioni-mediche-e-comportamentali-necessitano-di-assistenza-speciale-durante-le-ore-di-lezione-lo-studio/",
@@ -102,7 +150,12 @@
                 "date": "20 Set 2025",
                 "time": "7:57",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_2030407835-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             null,
             null,
             null,
@@ -129,12 +182,7 @@
                 "date": "19 Set 2025",
                 "time": "19:35",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_344044361.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "Scuole di montagna: più punti in graduatoria per docenti e ATA, fino a 3.500 euro per affitto o mutuo. La LEGGE in Gazzetta Ufficiale",
@@ -158,14 +206,6 @@
                 "date": "19 Set 2025",
                 "time": "17:04",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_2425860711.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: ancora nomine da GPS [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
-                "date": "19 Set 2025",
-                "time": "16:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/tfa-sostegno-IX-ciclo.png"
             },
             {
                 "category": "Diventare Insegnanti",
@@ -238,52 +278,68 @@
                 "date": "19 Set 2025",
                 "time": "11:24",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/10/london-58381_1280-1200x802.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze 2025/26: ecco gli interpelli del 19 settembre per la ricerca di insegnanti",
-                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
-                "date": "19 Set 2025",
-                "time": "11:16",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Attrezzature sportive nei licei scientifici sportivi: candidature dal 24 settembre al 10 ottobre. AVVISO",
-                "link": "https://www.orizzontescuola.it/attrezzature-sportive-nei-licei-scientifici-sportivi-candidature-dal-24-settembre-al-10-ottobre-avviso/",
-                "date": "19 Set 2025",
-                "time": "10:21",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/11/shutterstock_139910473.jpg"
-            },
-            {
-                "category": "Genitori",
-                "title": "Unica: per famiglie e personale scolastico notifiche e pagamenti sull’app IO",
-                "link": "https://www.orizzontescuola.it/unica-per-famiglie-e-personale-scolastico-notifiche-e-pagamenti-sullapp-io/",
-                "date": "19 Set 2025",
-                "time": "9:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Screenshot-2025-09-19-093526.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "Monitoraggio viaggi di istruzione: nuovo questionario per le scuole. Scadenza 22 settembre. NOTA",
-                "link": "https://www.orizzontescuola.it/monitoraggio-viaggi-di-istruzione-nuovo-questionario-per-le-scuole-scadenza-22-settembre-nota/",
-                "date": "19 Set 2025",
-                "time": "9:23",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_1326961319.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Servizio civile nazionale entrerà nell’aggiornamento 2026 delle GPS, al pari di quello universale. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/servizio-civile-nazionale-entrera-nellaggiornamento-2026-delle-gps-al-pari-di-quello-universale-pillole-di-question-time/",
-                "date": "19 Set 2025",
-                "time": "9:22",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/download-3.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Riforma Irpef: dal 35% al 33% l’aliquota intermedia, risparmi fino a 1.440 euro annui. La simulazione",
+                "link": "https://www.orizzontescuola.it/riforma-irpef-dal-35-al-33-laliquota-intermedia-risparmi-fino-a-1-440-euro-annui-la-simulazione/",
+                "date": "20 Set 2025",
+                "time": "18:18",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "La tragica morte di uno studente 18enne, un rider appena assunto. La dirigente scolastica: “La sua scomparsa ci lascia completamente attoniti”",
+                "link": "https://www.orizzontescuola.it/la-tragica-morte-di-uno-studente-18enne-un-rider-appena-assunto-la-dirigente-scolastica-la-sua-scomparsa-ci-lascia-completamente-attoniti/",
+                "date": "20 Set 2025",
+                "time": "17:32",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Sciopero lunedì 22 settembre, treni fermi, metro bloccate e non solo. Ecco tutte le città coinvolte",
+                "link": "https://www.orizzontescuola.it/sciopero-lunedi-22-settembre-treni-fermi-metro-bloccate-e-non-solo-ecco-tutte-le-citta-coinvolte/",
+                "date": "20 Set 2025",
+                "time": "17:17",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Libri scolastici, stangata da 1815 euro per le superiori: colpa del nuovo tetto di spesa. Unione dei Consumatori chiede di riportare il tetto di sforamento al 10%",
+                "link": "https://www.orizzontescuola.it/libri-scolastici-stangata-da-1815-euro-per-le-superiori-colpa-del-nuovo-tetto-di-spesa-unione-dei-consumatori-chiede-di-riportare-il-tetto-di-sforamento-al-10/",
+                "date": "20 Set 2025",
+                "time": "16:55",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Giocano a calcio all’isola di Murano e scatta la multa da 50 euro: quattordici famiglie nei guai per il pallone dei figli. Il consigliere attacca: “Intervento sproporzionato”",
+                "link": "https://www.orizzontescuola.it/giocano-a-calcio-allisola-di-murano-e-scatta-la-multa-da-50-euro-quattordici-famiglie-nei-guai-per-il-pallone-dei-figli-il-consigliere-attacca-intervento-sproporzionato/",
+                "date": "20 Set 2025",
+                "time": "16:41",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Alunno cade dal terrazzo di una scuola: la Procura ipotizza l’abbandono di minore.  L’inchiesta si orienta verso l’ipotesi dolosa",
+                "link": "https://www.orizzontescuola.it/alunno-cade-dal-terrazzo-di-una-scuola-la-procura-ipotizza-labbandono-di-minore-linchiesta-si-orienta-verso-lipotesi-dolosa/",
+                "date": "20 Set 2025",
+                "time": "16:09",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“Tutti a scuola”, a Napoli lunedì 22 settembre la cerimonia con Mattarella e Valditara. Diretta su Rai 1 dalle 16:30",
+                "link": "https://www.orizzontescuola.it/tutti-a-scuola-a-napoli-lunedi-22-settembre-la-cerimonia-con-mattarella-e-valditara-diretta-su-rai-1-dalle-1630/",
+                "date": "20 Set 2025",
+                "time": "15:56",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Siracusa apre le porte al futuro dell’inclusione: nasce il primo parco pedagogico senza barriere della Sicilia",
@@ -371,56 +427,7 @@
                 "date": "20 Set 2025",
                 "time": "7:24",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Valditara contestato a Torino, la risposta del Ministro: “Vadano a lavorare e rendersi utili per la società invece di urlare slogan”",
-                "link": "https://www.orizzontescuola.it/valditara-contestato-a-torino-la-risposta-del-ministro-vadano-a-lavorare-e-rendersi-utili-per-la-societa-invece-di-urlare-slogan/",
-                "date": "19 Set 2025",
-                "time": "18:50",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Mobilità attiva: solo 1 su 10 va in bici a scuola o lavoro. Più attivi gli adulti con istruzione alta",
-                "link": "https://www.orizzontescuola.it/mobilita-attiva-solo-1-su-10-va-in-bici-a-scuola-o-lavoro-piu-attivi-gli-adulti-con-istruzione-alta/",
-                "date": "19 Set 2025",
-                "time": "18:39",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Valditara rilancia l’identità nazionale: “Le nuove Indicazioni Nazionali superano i miti del passato. La nostra lingua bellissima va rispettata e coltivata”",
-                "link": "https://www.orizzontescuola.it/valditara-rilancia-lidentita-nazionale-le-nuove-linee-guida-scolastiche-superano-i-miti-del-passato-siamo-orgogliosi-di-essere-italiani-della-nostra-storia-civilta-lingua-bellissima-che-va-r/",
-                "date": "19 Set 2025",
-                "time": "18:20",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Certificazioni obbligatorie, 9 istituti su 10 non le possiedono. Anief chiede di fare pressione su enti proprietari e organi di vigilanza",
-                "link": "https://www.orizzontescuola.it/certificazioni-obbligatorie-9-istituti-su-10-non-le-possiedono-anief-chiede-di-fare-pressione-su-enti-proprietari-e-organi-di-vigilanza/",
-                "date": "19 Set 2025",
-                "time": "17:55",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Diritto allo studio, Bernini: investimenti record da 880 milioni e 60mila studentati, ma l’ISEE non funziona per i falsi poveri con auto di lusso",
-                "link": "https://www.orizzontescuola.it/diritto-allo-studio-bernini-investimenti-record-da-880-milioni-e-60mila-studentati-ma-lisee-non-funziona-per-i-falsi-poveri-con-auto-di-lusso/",
-                "date": "19 Set 2025",
-                "time": "16:36",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Campionati italiani della Geografia 2026: iscrizioni aperte fino al 17 gennaio, gare il 26 e 27 febbraio",
-                "link": "https://www.orizzontescuola.it/campionati-italiani-della-geografia-2026-iscrizioni-aperte-fino-al-17-gennaio-gare-il-26-e-27-febbraio/",
-                "date": "19 Set 2025",
-                "time": "16:27",
-                "image_link": "N/A"
-            },
-            null
+            }
         ]
     },
     "group_5": {
@@ -545,6 +552,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Via libera alla doppia iscrizione ai percorsi abilitanti e TFA sostegno contemporaneamente. NOTA Ministero Università",
+                "link": "https://www.orizzontescuola.it/via-libera-alla-doppia-iscrizione-ai-percorsi-abilitanti-e-tfa-sostegno-contemporaneamente-nota-ministero-universita/",
+                "date": "17 Set 2025",
+                "time": "14:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1323039833.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Concorsi scuola: titolo di accesso sarà l’abilitazione, ma il corso costa almeno 2.000 euro. È sostenibile per i giovani aspiranti? Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/concorsi-scuola-titolo-di-accesso-sara-labilitazione-ma-il-corso-costa-almeno-2-000-euro-e-sostenibile-per-i-giovani-aspiranti-pillole-di-question-time/",
                 "date": "17 Set 2025",
@@ -582,14 +597,6 @@
                 "date": "12 Set 2025",
                 "time": "12:36",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_59277838.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Anno prova neoassunti: non si ripete nello stesso grado di istruzione. No aspettativa per altro ruolo",
-                "link": "https://www.orizzontescuola.it/anno-prova-neoassunti-non-si-ripete-nello-stesso-grado-di-istruzione-no-aspettativa-per-altro-ruolo/",
-                "date": "12 Set 2025",
-                "time": "11:29",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/05/come-aumentare-punteggio-gps.jpg"
             }
         ]
     },
