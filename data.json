@@ -25,6 +25,54 @@
         "articles": [
             {
                 "category": "Cronaca",
+                "title": "Troppe assenze ma giustificate, il TAR cancella la bocciatura di una studentessa e richiama la scuola sul limite delle assenze",
+                "link": "https://www.orizzontescuola.it/troppe-assenze-ma-giustificate-il-tar-cancella-la-bocciatura-di-una-studentessa-e-richiama-la-scuola-sul-limite-delle-assenze/",
+                "date": "21 Set 2025",
+                "time": "17:36",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/10/hammer-485712_960_720-e1510732434584.jpg"
+            },
+            {
+                "category": "Genitori",
+                "title": "“Metti a posto non funziona”, Daniele Novara smonta il mito dell’obbedienza infantile e svela il segreto per insegnare l’ordine attraverso l’imitazione e la collaborazione",
+                "link": "https://www.orizzontescuola.it/metti-a-posto-non-funziona-daniele-novara-smonta-il-mito-dellobbedienza-infantile-e-svela-il-segreto-per-insegnare-lordine-attraverso-limitazione-e-la-collaborazione/",
+                "date": "21 Set 2025",
+                "time": "16:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_2125397312-scaled.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Supplenze docenti, tra graduatorie d’istituto e interpelli: le ultime notizie. QUESTION TIME con Cozzetto (Anief) LIVE Lunedì 22 settembre alle 15:30",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-tra-graduatorie-distituto-e-interpelli-le-ultime-notizie-question-time-con-cozzetto-anief-live-lunedi-22-settembre-alle-1530/",
+                "date": "21 Set 2025",
+                "time": "16:43",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Template_questiontime_1920x1080-14.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Sicurezza dei trasporti scolastici: addio al prezzo più basso, le scuole dovranno privilegiare qualità e sicurezza dei mezzi. Ecco cosa cambia per gite e viaggi di istruzione",
+                "link": "https://www.orizzontescuola.it/sicurezza-dei-trasporti-scolastici-addio-al-prezzo-piu-basso-le-scuole-dovranno-privilegiare-qualita-e-sicurezza-dei-mezzi-ecco-cosa-cambia-per-gite-e-viaggi-di-istruzione/",
+                "date": "21 Set 2025",
+                "time": "15:33",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_1435821560.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Titoli non validi per immissioni in ruolo e GPS: il docente rischia la revoca dell’incarico. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/titoli-non-validi-per-immissioni-in-ruolo-e-gps-il-docente-rischia-la-revoca-dellincarico-pillole-di-question-time/",
+                "date": "21 Set 2025",
+                "time": "15:25",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_302086268.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Gruppi WhatsApp dei genitori a scuola: quando la comunicazione digitale si trasforma in un pericoloso labirinto di notifiche che confonde ruoli e genera ansia collettiva tra le famiglie",
+                "link": "https://www.orizzontescuola.it/gruppi-whatsapp-dei-genitori-a-scuola-quando-la-comunicazione-digitale-si-trasforma-in-un-pericoloso-labirinto-di-notifiche-che-confonde-ruoli-e-genera-ansia-collettiva-tra-le-famiglie/",
+                "date": "21 Set 2025",
+                "time": "15:05",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/shutterstock_2525875883.jpg"
+            },
+            {
+                "category": "Cronaca",
                 "title": "Recalcati: “La scuola uccide l’apprendimento con regole standardizzate, servono maestri veri che parlino solo di ciò che davvero li appassiona”",
                 "link": "https://www.orizzontescuola.it/recalcati-la-scuola-uccide-lapprendimento-con-regole-standardizzate-servono-maestri-veri-che-parlino-solo-di-cio-che-davvero-li-appassiona/",
                 "date": "21 Set 2025",
@@ -95,7 +143,12 @@
                 "date": "20 Set 2025",
                 "time": "19:02",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/11/Soldi-1.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Docenti",
                 "title": "Organici docenti di religione cattolica, 16.654 i posti distribuiti: meno 108 rispetto al 2024-2025. Lombardia, Campania e Sicilia con più cattedre",
@@ -143,12 +196,7 @@
                 "date": "20 Set 2025",
                 "time": "14:31",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/Galimberti.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Genitori",
                 "title": "Un genitore su quattro affronta il ritorno a scuola con ansia: bambini con condizioni mediche e comportamentali necessitano di assistenza speciale durante le ore di lezione. Lo studio",
@@ -230,53 +278,52 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_2030407835-scaled.jpg"
             },
             null,
-            null,
-            null,
-            {
-                "category": "Pensioni",
-                "title": "Oltre 120.000 firme spingono la riforma: riscatto della laurea a 900 euro l’anno per anticipare l’uscita dal servizio e contrastare il burnout nel comparto scuola. Ddl Bucalo in Parlamento",
-                "link": "https://www.orizzontescuola.it/oltre-120-000-firme-spingono-la-riforma-riscatto-laurea-a-900-euro-lanno-per-anticipare-luscita-dal-servizio-e-contrastare-il-burnout-nel-comparto-scuola-ddl-bucalo-in-parlamento/",
-                "date": "19 Set 2025",
-                "time": "20:33",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/shutterstock_1810018570.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Paolo Crepet: “I giovani protestino per ballare a scuola, non per i telefonini. L’intelligenza artificiale è una gabbia che uccide creatività e autenticità del pensiero umano”",
-                "link": "https://www.orizzontescuola.it/paolo-crepet-i-giovani-protestino-per-ballare-a-scuola-non-per-i-telefonini-lintelligenza-artificiale-e-una-gabbia-che-uccide-creativita-e-autenticita-del-pensiero-umano/",
-                "date": "19 Set 2025",
-                "time": "19:47",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/Crepet.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Assegnazioni provvisorie e utilizzazioni docenti e ATA, ecco i Contratti integrativi regionali: utilizzo su sostegno, part time, ottimizzazione cattedra",
-                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-e-utilizzazioni-docenti-e-ata-ecco-i-contratti-integrativi-regionali-utilizzo-su-sostegno-part-time-ottimizzazione-cattedra/",
-                "date": "19 Set 2025",
-                "time": "19:35",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_344044361.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Scuole di montagna: più punti in graduatoria per docenti e ATA, fino a 3.500 euro per affitto o mutuo. La LEGGE in Gazzetta Ufficiale",
-                "link": "https://www.orizzontescuola.it/scuole-di-montagna-piu-punti-in-graduatoria-per-docenti-e-ata-fino-a-3-500-euro-per-affitto-o-mutuo-la-legge-in-gazzetta-ufficiale/",
-                "date": "19 Set 2025",
-                "time": "19:26",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/03/shutterstock_165749363-scaled.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Dal freddo “Esame di Stato” al calore della “Maturità”, Valditara: “La commissione non sia un plotone di esecuzione, ma un organismo comprensivo. Si deve valutare la crescita personale dello studente”",
-                "link": "https://www.orizzontescuola.it/dal-freddo-esame-di-stato-al-calore-della-maturita-valditara-la-commissione-non-sia-un-plotone-di-esecuzione-ma-un-organismo-comprensivo-si-deve-valutare-la-crescita-personale-dello-stud/",
-                "date": "19 Set 2025",
-                "time": "18:41",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/Valditara-4.jpeg"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Allerta meteo scuole chiuse lunedì 22 settembre: stop alle lezioni in diversi comuni della Liguria. L’elenco",
+                "link": "https://www.orizzontescuola.it/allerta-meteo-scuole-chiuse-lunedi-22-settembre-stop-alle-lezioni-in-diversi-comuni-della-liguria-lelenco/",
+                "date": "21 Set 2025",
+                "time": "18:05",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Studenti",
+                "title": "Borse di studio “Supermedia” da 750 a 1300 euro: domande al via dal 22 settembre",
+                "link": "https://www.orizzontescuola.it/borse-di-studio-supermedia-da-750-a-1300-euro-domande-al-via-dal-22-settembre/",
+                "date": "21 Set 2025",
+                "time": "16:00",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Meloni: “Chi fa scena muta per motivi politici rischia di ripetere l’anno, stop ai disastri della sinistra sessantottina. Abbiamo rimesso al centro il merito”",
+                "link": "https://www.orizzontescuola.it/meloni-chi-fa-scena-muta-per-motivi-politici-rischia-di-ripetere-lanno-stop-ai-disastri-della-sinistra-sessantottina-abbiamo-rimesso-al-centro-il-merito/",
+                "date": "21 Set 2025",
+                "time": "15:41",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Meloni: “Il merito è l’unico vero ascensore sociale”. Il M5S attacca: “Tagli vergognosi all’istruzione, tutto chiacchiere e distintivo”",
+                "link": "https://www.orizzontescuola.it/meloni-il-merito-e-lunico-vero-ascensore-sociale-il-m5s-attacca-tagli-vergognosi-allistruzione-tutto-chiacchiere-e-distintivo/",
+                "date": "21 Set 2025",
+                "time": "15:21",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Nessuna categoria",
+                "title": "Manzi (PD) all’attacco del governo: “Basta fantasmi ideologici, la scuola ha bisogno di investimenti”",
+                "link": "https://www.orizzontescuola.it/manzi-allattacco-del-governo-basta-fantasmi-ideologici-la-scuola-ha-bisogno-di-investimenti/",
+                "date": "21 Set 2025",
+                "time": "14:52",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Vannacci (Lega) a Pontida: “Il giuramento del 1167 va insegnato nelle scuole insieme ai veri eroi. Gli alunni sanno chi è Greta Thunberg, che non ha combinato nulla”",
@@ -379,46 +426,6 @@
                 "link": "https://www.orizzontescuola.it/alunno-cade-dal-terrazzo-di-una-scuola-la-procura-ipotizza-labbandono-di-minore-linchiesta-si-orienta-verso-lipotesi-dolosa/",
                 "date": "20 Set 2025",
                 "time": "16:09",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Tutti a scuola”, a Napoli lunedì 22 settembre la cerimonia con Mattarella e Valditara. Diretta su Rai 1 dalle 16:30",
-                "link": "https://www.orizzontescuola.it/tutti-a-scuola-a-napoli-lunedi-22-settembre-la-cerimonia-con-mattarella-e-valditara-diretta-su-rai-1-dalle-1630/",
-                "date": "20 Set 2025",
-                "time": "15:56",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Siracusa apre le porte al futuro dell’inclusione: nasce il primo parco pedagogico senza barriere della Sicilia",
-                "link": "https://www.orizzontescuola.it/siracusa-apre-le-porte-al-futuro-dellinclusione-nasce-il-primo-parco-pedagogico-senza-barriere-della-sicilia/",
-                "date": "20 Set 2025",
-                "time": "14:25",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Dalle case per giovani coppie alle start-up: Tajani svela il piano del Governo per gli under 30. “La politica insegna a rialzarsi anche dalle sconfitte”. Il messaggio ai talenti”",
-                "link": "https://www.orizzontescuola.it/dalle-case-per-giovani-coppie-alle-start-up-tajani-svela-il-piano-del-governo-per-gli-under-30-la-politica-insegna-a-rialzarsi-anche-dalle-sconfitte-il-messaggio-ai-talenti/",
-                "date": "20 Set 2025",
-                "time": "13:05",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Allarme rosso UNICEF: l’obesità sorpassa il sottopeso tra i giovani per la prima volta al mondo. 4mila miliardi di costi entro il 2035, l’Italia registra dati stabili ma preoccupanti",
-                "link": "https://www.orizzontescuola.it/allarme-rosso-unicef-lobesita-sorpassa-il-sottopeso-tra-i-giovani-per-la-prima-volta-al-mondo-4mila-miliardi-di-costi-entro-il-2035-litalia-registra-dati-stabili-ma-preoccupanti/",
-                "date": "20 Set 2025",
-                "time": "12:21",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Politica tabù in casa: 4,6 milioni di famiglie italiane non ne parlano mai, Sud in testa con Calabria e Sicilia al 30%. L’Istat rivela il grande disinteresse nazionale",
-                "link": "https://www.orizzontescuola.it/politica-tabu-in-casa-46-milioni-di-famiglie-italiane-non-ne-parlano-mai-sud-in-testa-con-calabria-e-sicilia-al-30-listat-rivela-il-grande-disinteresse-nazionale/",
-                "date": "20 Set 2025",
-                "time": "11:46",
                 "image_link": "N/A"
             }
         ]
@@ -545,6 +552,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Supplenze da GPS 2025/26: i docenti lamentano errori nelle nomine, gli Uffici Scolastici rispondono [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/supplenze-da-gps-2025-26-i-docenti-lamentano-errori-nelle-nomine-gli-uffici-scolastici-rispondono-avvisi/",
+                "date": "18 Set 2025",
+                "time": "14:05",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Percorsi 2025/26 di abilitazione per docenti: tempi di avvio ancora incerti. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/percorsi-2025-26-di-abilitazione-per-docenti-tempi-di-avvio-ancora-incerti-pillole-di-question-time/",
                 "date": "18 Set 2025",
@@ -582,14 +597,6 @@
                 "date": "17 Set 2025",
                 "time": "10:31",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/09/shutterstock_1653288208.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Anno scolastico 2025/26, continuità didattica sostegno: più di 11.000 i docenti confermati tra Piemonte, Lombardia, Veneto, Liguria. IL DETTAGLIO",
-                "link": "https://www.orizzontescuola.it/anno-scolastico-2025-26-continuita-didattica-sostegno-piu-di-8-000-i-docenti-confermati-tra-piemonte-e-lombardia-e-supplenze-assegnate-entro-il-31-agosto-il-dettaglio/",
-                "date": "16 Set 2025",
-                "time": "10:27",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2498448781.jpg"
             }
         ]
     },
