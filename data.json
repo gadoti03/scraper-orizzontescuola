@@ -3,26 +3,59 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "ATA",
+                "title": "Posizioni economiche ATA: il simulatore per esercitarti a superare l’esame",
+                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-collaboratori-simulatore-e-video-lezioni-per-superare-la-prova-finale/",
+                "date": "21 Set 2025",
+                "time": "5:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Assegnazioni-provvisorie-e-utilizzazioni.png"
+            },
+            {
                 "category": "Guide",
                 "title": "Contributo volontario delle famiglie alle scuole: cos’è? È legittimo? Per cosa può essere utilizzato? Scheda",
                 "link": "https://www.orizzontescuola.it/contributo-volontario-delle-famiglie-alle-scuole-cose-e-legittimo-per-cosa-puo-essere-utilizzato-scheda/",
                 "date": "20 Set 2025",
                 "time": "8:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/12/money-2665826_1280-1200x800.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Ricciardelli sul rapporto CNEL: “Mancano saldatori, posatori di tralicci e operatori di macchine utensili, dobbiamo fare le riforme per formare le persone che mancano”",
-                "link": "https://www.orizzontescuola.it/ricciardelli-sul-rapporto-cnes-mancano-saldatori-posatori-di-tralicci-e-operatori-di-macchine-utensili-dobbiamo-fare-le-riforme-per-formare-le-persone-che-mancano/",
-                "date": "19 Set 2025",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/ricciardelli.jpg"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Genitori",
+                "title": "Quattordicenni davanti allo specchio, Novara: “Il luogo meno adatto per cercare conferma”. Cosa deve fare una madre",
+                "link": "https://www.orizzontescuola.it/quattordicenni-davanti-allo-specchio-novar-il-luogo-meno-adatto-per-cercare-conferma-cosa-deve-fare-una-madre/",
+                "date": "21 Set 2025",
+                "time": "10:16",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_2408068221.jpg"
+            },
+            {
+                "category": "Genitori",
+                "title": "Specchio, selfie e ossessioni: quando il corpo diventa nemico degli adolescenti. I consigli degli esperti per famiglie e scuola che funzionano sul serio",
+                "link": "https://www.orizzontescuola.it/specchio-selfie-e-ossessioni-quando-il-corpo-diventa-nemico-degli-adolescenti-i-consigli-degli-esperti-per-famiglie-e-scuola-che-funzionano-sul-serio/",
+                "date": "21 Set 2025",
+                "time": "10:13",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1498591895.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Amianto killer nelle scuole: 356.900 studenti a rischio, solo 2.500 bonifiche su 4.800 edifici contaminati. Genova prima in Italia con 154 istituti a rischio",
+                "link": "https://www.orizzontescuola.it/amianto-killer-nelle-scuole-356-900-studenti-a-rischio-solo-2-500-bonifiche-su-4-800-edifici-contaminati-genova-prima-in-italia-con-154-istituti-a-rischio/",
+                "date": "21 Set 2025",
+                "time": "9:32",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/WhatsApp_Image_2023-06-01_at_14.37.02-1685623040901.jpeg-taranto__la_pioggia_fa_crollare_un_solaio_in_una_scuola_media_al_quartiere_paolo_vi__nessun_ferito.jpeg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Docente colpita da aneurisma durante la lezione, chiede 200mila euro di risarcimento ma il Tribunale respinge il ricorso. Quando lo stress lavorativo non basta per ottenere l’indennizzo",
+                "link": "https://www.orizzontescuola.it/docente-colpita-da-aneurisma-durante-la-lezione-chiede-200mila-euro-di-risarcimento-ma-il-tribunale-respinge-il-ricorso-quando-lo-stress-lavorativo-non-basta-per-ottenere-lindennizzo/",
+                "date": "21 Set 2025",
+                "time": "8:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_675123196.jpg"
+            },
+            null,
             {
                 "category": "Docenti",
                 "title": "Ricostruzione della carriera, entro il 31 dicembre occorre presentarla. Ma dal 2022 ci sono “regole penalizzanti”, ecco perché [VIDEO]",
@@ -110,7 +143,12 @@
                 "date": "20 Set 2025",
                 "time": "11:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_1694949499-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Politica scolastica",
                 "title": "Docenti precari sostegno: assunzioni, continuità didattica, percorsi di specializzazione. Il piano del Ministero",
@@ -150,12 +188,7 @@
                 "date": "20 Set 2025",
                 "time": "8:08",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_1452565784-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Banchi ‘a uncino’ non conformi causano frattura a studente 17enne. Corte d’Appello ribalta sentenza e condanna Ministero a 80mila euro di risarcimento",
@@ -238,52 +271,28 @@
                 "date": "19 Set 2025",
                 "time": "14:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1904033662.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Dichiarazione di accessibilità: cosa deve fare ogni anno il Dirigente scolastico",
-                "link": "https://www.orizzontescuola.it/dichiarazione-di-accessibilita-cosa-deve-fare-ogni-anno-il-dirigente-scolastico/",
-                "date": "19 Set 2025",
-                "time": "14:09",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_1133469647.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Indicazioni Nazionali infanzia e primo ciclo, il Consiglio di Stato sospende il parere, Valditara smorza le critiche, ma i sindacati vanno all’attacco: “Serve vero percorso condiviso”",
-                "link": "https://www.orizzontescuola.it/indicazioni-nazionali-il-consiglio-di-stato-sospende-il-parere-valditara-smorza-le-critiche-ma-i-sindacati-vanno-allattacco-serve-vero-percorso-condiviso/",
-                "date": "19 Set 2025",
-                "time": "13:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/Ministero-Istruzione.jpeg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Scuola in ospedale e istruzione domiciliare: come funzionano e quale documentazione serve",
-                "link": "https://www.orizzontescuola.it/scuola-in-ospedale-e-istruzione-domiciliare-come-funzionano-e-quale-documentazione-serve/",
-                "date": "19 Set 2025",
-                "time": "12:04",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_1536212639.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Minigonne e tacchi vietati a scuola, il vademecum della discordia. Studenti divisi: “Dobbiamo venire vestiti come le suore”, ma c’è chi dice: “Veniamo in classe per studiare, non per fare sfilate”",
-                "link": "https://www.orizzontescuola.it/minigonne-e-tacchi-vietati-a-scuola-il-vademecum-della-discordia-studenti-divisi-dobbiamo-venire-vestiti-come-le-suore-ma-ce-chi-dice-veniamo-in-classe-per-studiare-non-per-fare-sfilate/",
-                "date": "19 Set 2025",
-                "time": "11:59",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_153744212-scaled.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Istruzione degli adulti 2025/26: riepilogo scadenze e indicazioni operative",
-                "link": "https://www.orizzontescuola.it/istruzione-degli-adulti-2025-26-riepilogo-scadenze-e-indicazioni-operative/",
-                "date": "19 Set 2025",
-                "time": "11:37",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/shutterstock_385737019.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Temporanea sospensione dei servizi NoiPA fino alla mattina di lunedì 22 settembre",
+                "link": "https://www.orizzontescuola.it/temporanea-sospensione-dei-servizi-noipa-fino-alla-mattina-di-lunedi-22-settembre/",
+                "date": "21 Set 2025",
+                "time": "8:46",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Madre presenta querela contro 14 insegnanti per un procedimento disciplinare contro suo figlio che ritiene illegittimo",
+                "link": "https://www.orizzontescuola.it/madre-presenta-querela-contro-14-insegnanti-per-un-procedimento-disciplinare-contro-suo-figlio-che-ritiene-illegittimo/",
+                "date": "21 Set 2025",
+                "time": "8:26",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Riforma Irpef: dal 35% al 33% l’aliquota intermedia, risparmi fino a 1.440 euro annui. La simulazione",
@@ -302,7 +311,7 @@
             },
             {
                 "category": "Cronaca",
-                "title": "Gelmini, “Sì al piano casa di Valditara”",
+                "title": "Gelmini: “Sì al piano casa di Valditara”",
                 "link": "https://www.orizzontescuola.it/gelmini-si-al-piano-casa-di-valditara/",
                 "date": "20 Set 2025",
                 "time": "17:27",
@@ -410,22 +419,6 @@
                 "link": "https://www.orizzontescuola.it/bagni-unisex-in-un-istituto-scolastico-in-svizzera-scoppia-la-polemica-i-genitori-mio-figlio-di-sette-anni-mi-ha-detto-che-trovava-strano-dover-fare-la-pipi-insieme-alle-bambine/",
                 "date": "20 Set 2025",
                 "time": "9:05",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Scuole di montagna, Valditara lancia il Piano Casa per docenti: “In Piemonte c’è una drammatica penuria di docenti disposti a spostarsi, li aiutiamo”",
-                "link": "https://www.orizzontescuola.it/scuole-di-montagna-valditara-lancia-il-piano-casa-per-docenti-in-piemonte-ce-una-drammatica-penuria-di-docenti-disposti-a-spostarsi-li-aiutiamo/",
-                "date": "20 Set 2025",
-                "time": "8:31",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Nicola Gratteri: “L’istruzione può avvenire solo in presenza di educazione. C’è bisogno di educare le nuove generazioni, spiegando loro l’importanza di fare la scelta giusta”",
-                "link": "https://www.orizzontescuola.it/nicola-gratteri-listruzione-puo-avvenire-solo-in-presenza-di-educazione-ce-bisogno-di-educare-le-nuove-generazioni-spiegando-loro-limportanza-di-fare-la-scelta-giusta/",
-                "date": "20 Set 2025",
-                "time": "8:19",
                 "image_link": "N/A"
             }
         ]
@@ -552,6 +545,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26, Cozzetto (ANIEF): “Se si rinuncia alla nomina da interpello si incappa ugualmente nelle sanzioni”",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-26-cozzetto-anief-se-si-rinuncia-alla-nomina-da-interpello-si-incappa-ugualmente-nelle-sanzioni/",
+                "date": "17 Set 2025",
+                "time": "17:56",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_48466297.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Via libera alla doppia iscrizione ai percorsi abilitanti e TFA sostegno contemporaneamente. NOTA Ministero Università",
                 "link": "https://www.orizzontescuola.it/via-libera-alla-doppia-iscrizione-ai-percorsi-abilitanti-e-tfa-sostegno-contemporaneamente-nota-ministero-universita/",
                 "date": "17 Set 2025",
@@ -589,14 +590,6 @@
                 "date": "12 Set 2025",
                 "time": "18:04",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2518506853.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Riconferma supplente sostegno su richiesta famiglia, la novità fa capolino anche negli INTERPELLI 2025/26",
-                "link": "https://www.orizzontescuola.it/riconferma-supplente-sostegno-su-richiesta-famiglia-la-novita-fa-capolino-anche-negli-interpelli-2025-26/",
-                "date": "12 Set 2025",
-                "time": "12:36",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_59277838.jpg"
             }
         ]
     },
