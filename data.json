@@ -24,6 +24,14 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Docenti",
+                "title": "Scienze della formazione primaria: 380 esoneri per docenti e dirigenti scolastici nel 2025/26. DECRETO",
+                "link": "https://www.orizzontescuola.it/scienze-della-formazione-primaria-380-esoneri-per-docenti-e-dirigenti-scolastici-nel-2025-26/",
+                "date": "26 Set 2025",
+                "time": "19:08",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_341870168-scaled.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Quando sarà pubblicato il bando per il nuovo concorso scuola previsto dal PNRR e per quali posti? Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/quando-sara-pubblicato-il-bando-per-il-nuovo-concorso-scuola-previsto-dal-pnrr-e-per-quali-posti-pillole-di-question-time/",
@@ -135,7 +143,12 @@
                 "date": "26 Set 2025",
                 "time": "8:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/tfa-sostegno-IX-ciclo.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Alcuni modelli di Intelligenza artificiale forniscono 6 risposte errate su 10, e lo fanno appositamente. Ecco perché",
@@ -143,12 +156,7 @@
                 "date": "26 Set 2025",
                 "time": "8:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_1883391985.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Docenti",
                 "title": "Docenti di sostegno, contitolari della classe, partecipano alla valutazione di tutti gli studenti e studentesse in Consiglio. DPR in Gazzetta Ufficiale",
@@ -263,20 +271,28 @@
                 "date": "25 Set 2025",
                 "time": "12:35",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1197053242.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Pensioni docenti e ATA, domande fino al 21 ottobre: le risposte alle vostre domande. QUESTION TIME con Sciandrone (Uil Scuola Rua) LIVE Venerdì 26 settembre alle 14:30",
-                "link": "https://www.orizzontescuola.it/pensioni-docenti-e-ata-domande-fino-al-21-ottobre-le-risposte-alle-vostre-domande-question-time-con-sciandrone-uil-scuola-rua-live-venerdi-26-settembre-alle-1830/",
-                "date": "25 Set 2025",
-                "time": "12:13",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Template_questiontime_1920x1080-16.png"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Comunicati stampa",
+                "title": "CCNL Scuola Estero, Anief: “La bozza prevede sabato lavorativo per calcolo ferie. Siamo fermamente contrari”",
+                "link": "https://www.orizzontescuola.it/ccnl-scuola-estero-anief-la-bozza-prevede-sabato-lavorativo-per-calcolo-ferie-siamo-fermamente-contrari/",
+                "date": "26 Set 2025",
+                "time": "19:11",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "A Milano domiciliari per due liceali arrestati negli scontri post-corteo Gaza. Il GIP: “Contesto di violenza crescente”",
+                "link": "https://www.orizzontescuola.it/a-milano-domiciliari-per-due-liceali-arrestati-negli-scontri-post-corteo-gaza-il-gip-contesto-di-violenza-crescente/",
+                "date": "26 Set 2025",
+                "time": "18:52",
+                "image_link": "N/A"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso a cattedra da rifare per 250 docenti, arriva la sentenza",
@@ -397,21 +413,20 @@
                 "date": "25 Set 2025",
                 "time": "18:13",
                 "image_link": "N/A"
-            },
-            null,
-            {
-                "category": "Comunicati stampa",
-                "title": "Rinnovo contratto, prossimo incontro il 9 ottobre. Anief tornerà alla carica per tutelare 1,3 milioni di lavoratori",
-                "link": "https://www.orizzontescuola.it/rinnovo-contratto-prossimo-incontro-il-9-ottobre-anief-tornera-alla-carica-per-tutelare-13-milioni-di-lavoratori/",
-                "date": "25 Set 2025",
-                "time": "17:30",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Pensioni docenti e ATA, domande fino al 21 ottobre: le risposte alle vostre domande. QUESTION TIME con Sciandrone (Uil Scuola Rua) LIVE Venerdì 26 settembre alle 14:30",
+                "link": "https://www.orizzontescuola.it/pensioni-docenti-e-ata-domande-fino-al-21-ottobre-le-risposte-alle-vostre-domande-question-time-con-sciandrone-uil-scuola-rua-live-venerdi-26-settembre-alle-1830/",
+                "date": "25 Set 2025",
+                "time": "12:13",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Docenti immessi in ruolo 2025/26: possono accettare supplenze? Possono chiedere trasferimento?",
@@ -514,14 +529,6 @@
                 "link": "https://www.orizzontescuola.it/mobilita-25-26-docente-trasferito-su-preferenza-sintetica-non-ha-vincolo-triennale/",
                 "date": "6 Set 2025",
                 "time": "16:45",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Supplenze, nella nomina c’è scritto “posto comune”, ma Dirigente mi propone “potenziamento”. E’ corretto?",
-                "link": "https://www.orizzontescuola.it/supplenze-nella-nomina-ce-scritto-posto-comune-ma-dirigente-mi-propone-potenziamento-e-corretto/",
-                "date": "6 Set 2025",
-                "time": "11:23",
                 "image_link": "N/A"
             }
         ]
