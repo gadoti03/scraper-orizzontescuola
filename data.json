@@ -23,9 +23,50 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/216: sanzioni per rinuncia, mancata presa di servizio, abbandono nomina da Graduatorie di istituto",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-216-sanzioni-per-rinuncia-mancata-presa-di-servizio-abbandono-nomina-da-graduatorie-di-istituto/",
+                "date": "26 Set 2025",
+                "time": "11:39",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_130754711.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Attribuzione delle ore eccedenti e Modelli di decreto per l’a.s. 2025/2026: standard, caso COE e criterio dell’anzianità di servizio in caso di più richiedenti",
+                "link": "https://www.orizzontescuola.it/attribuzione-delle-ore-eccedenti-e-modelli-di-decreto-per-la-s-2025-2026-standard-caso-coe-e-criterio-dellanzianita-di-servizio-in-caso-di-piu-richiedenti/",
+                "date": "26 Set 2025",
+                "time": "11:22",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_145510552.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: migliaia di INTERPELLI per la ricerca di insegnanti",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "26 Set 2025",
+                "time": "11:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
+            },
+            {
+                "category": "Pensioni",
+                "title": "Pensioni personale scuola 2026: ecco i requisiti per vecchiaia, anticipata, Opzione donna, Quota 100 e 102",
+                "link": "https://www.orizzontescuola.it/pensioni-personale-scuola-2026-ecco-i-requisiti-per-vecchiaia-anticipata-opzione-donna-quota-100-e-102-tutti-i-requisiti/",
+                "date": "26 Set 2025",
+                "time": "10:54",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/shutterstock_1818500471.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso scuola PNRR 3, il Ministero accelera: posti, requisiti e prove. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/concorso-scuola-pnrr-3-il-ministero-accelera-posti-requisiti-e-prove-risposte-ai-quesiti/",
+                "date": "26 Set 2025",
+                "time": "10:53",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2003113223.jpg"
+            },
             {
                 "category": "Politica scolastica",
-                "title": "Carta docente, sarà ancora di 500 euro? Miceli (Anief): “La formazione è un diritto di tutti i docenti. La riduzione dell’importo sarebbe un’inaudita gravità”",
+                "title": "Carta docente, sarà ancora di 500 euro? Miceli (Anief): “La formazione è un diritto di tutti i docenti. La riduzione dell’importo sarebbe di inaudita gravità”",
                 "link": "https://www.orizzontescuola.it/carta-docente-sara-ancora-di-500-euro-miceli-anief-la-formazione-e-un-diritto-di-tutti-i-docenti-la-riduzione-dellimporto-sarebbe-uninaudita-gravita/",
                 "date": "26 Set 2025",
                 "time": "9:28",
@@ -95,7 +136,12 @@
                 "time": "7:44",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Modello-immagine-sito-11.png"
             },
-            null,
+            null
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             null,
             null,
             {
@@ -105,14 +151,6 @@
                 "date": "25 Set 2025",
                 "time": "19:24",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/05/shutterstock_199611962.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Pensioni docenti e ATA, domande fino al 21 ottobre: le risposte alle vostre domande. QUESTION TIME con Sciandrone (Uil Scuola Rua) LIVE Venerdì 26 settembre alle 14:30",
-                "link": "https://www.orizzontescuola.it/pensioni-docenti-e-ata-domande-fino-al-21-ottobre-le-risposte-alle-vostre-domande-question-time-con-sciandrone-uil-scuola-rua-live-venerdi-26-settembre-alle-1830/",
-                "date": "25 Set 2025",
-                "time": "19:13",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Template_questiontime_1920x1080-16.png"
             },
             {
                 "category": "Diventare Insegnanti",
@@ -129,12 +167,7 @@
                 "date": "25 Set 2025",
                 "time": "18:33",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_2305178333.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Pensioni",
                 "title": "Pensioni scuola 2026: domande docenti e ATA entro il 21 ottobre, entro il 28 febbraio dirigenti scolastici. DECRETO, CIRCOLARE e TABELLA requisiti",
@@ -216,6 +249,14 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1197053242.jpg"
             },
             {
+                "category": "Chiedilo a Lalla",
+                "title": "Pensioni docenti e ATA, domande fino al 21 ottobre: le risposte alle vostre domande. QUESTION TIME con Sciandrone (Uil Scuola Rua) LIVE Venerdì 26 settembre alle 14:30",
+                "link": "https://www.orizzontescuola.it/pensioni-docenti-e-ata-domande-fino-al-21-ottobre-le-risposte-alle-vostre-domande-question-time-con-sciandrone-uil-scuola-rua-live-venerdi-26-settembre-alle-1830/",
+                "date": "25 Set 2025",
+                "time": "12:13",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Template_questiontime_1920x1080-16.png"
+            },
+            {
                 "category": "Docenti",
                 "title": "Dichiarazione online dei servizi: solo docenti già assunti a tempo indeterminato, anche nel corso dell’anno",
                 "link": "https://www.orizzontescuola.it/dichiarazione-online-dei-servizi-solo-docenti-gia-assunti-a-tempo-indeterminato-anche-nel-corso-dellanno/",
@@ -230,60 +271,28 @@
                 "date": "25 Set 2025",
                 "time": "11:22",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_392166814.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Stipendi docenti, Valditara: “Dobbiamo aumentare le risorse a disposizione. Con welfare e assicurazione sanitaria in arrivo anche Piano Casa”",
-                "link": "https://www.orizzontescuola.it/stipendi-docenti-valditara-dobbiamo-aumentare-le-risorse-a-disposizione-con-welfare-e-assicurazione-sanitaria-in-arrivo-anche-piano-casa/",
-                "date": "25 Set 2025",
-                "time": "11:07",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/Valditara-2.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "I controlli dei revisori dei conti sul PNRR",
-                "link": "https://www.orizzontescuola.it/i-controlli-dei-revisori-dei-conti-sul-pnrr/",
-                "date": "25 Set 2025",
-                "time": "11:05",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2306056481.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Riforma Maturità, Valditara: “Il vecchio orale aveva una formula ansiogena e poco seria. Ecco cosa mi è capitato di sentire in un liceo classico…”",
-                "link": "https://www.orizzontescuola.it/maturita-valditara-il-vecchio-orale-aveva-una-formula-ansiogena-e-poco-seria-ecco-cosa-mi-e-capitato-di-sentire-in-un-liceo-classico/",
-                "date": "25 Set 2025",
-                "time": "10:45",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/Valditara-3.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "Giubileo del mondo educativo, il 30 ottobre Papa Leone XIV incontra gli studenti: indicazioni e scadenze adesioni scuole. NOTE USR",
-                "link": "https://www.orizzontescuola.it/giubileo-del-mondo-educativo-il-30-ottobre-papa-leone-xiv-incontra-gli-studenti-indicazioni-e-scadenze-adesioni-scuole-note-usr/",
-                "date": "25 Set 2025",
-                "time": "10:38",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2626454827-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR3, requisito “tre anni di servizio”: come si contano, il 2025/26 è escluso",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-requisito-tre-anni-di-servizio-come-si-contano-il-2025-26-e-escluso/",
-                "date": "25 Set 2025",
-                "time": "10:28",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_1819849748.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Mense biologiche ed educazione alimentare nelle scuole: in Gazzetta Ufficiale il decreto con il riparto 2025 dei fondi alle Regioni",
-                "link": "https://www.orizzontescuola.it/mense-biologiche-ed-educazione-alimentare-nelle-scuole-in-gazzetta-ufficiale-il-decreto-con-il-riparto-2025-dei-fondi-alle-regioni/",
-                "date": "25 Set 2025",
-                "time": "10:08",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_687083455.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Premio UNESCO-Hamdan per lo sviluppo professionale degli insegnanti: candidature in scadenza il 30 settembre",
+                "link": "https://www.orizzontescuola.it/premio-unesco-hamdan-per-lo-sviluppo-professionale-degli-insegnanti-candidature-in-scadenza-il-30-settembre/",
+                "date": "26 Set 2025",
+                "time": "12:13",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "Concorso di idee per il logo dell’Autorità Garante Nazionale per i Diritti delle Persone con Disabilità: candidature scuole entro il 20 ottobre",
+                "link": "https://www.orizzontescuola.it/concorso-di-idee-per-il-logo-dellautorita-garante-nazionale-per-i-diritti-delle-persone-con-disabilita-candidature-scuole-entro-il-20-ottobre/",
+                "date": "26 Set 2025",
+                "time": "11:25",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "La scuola con due soli italiani su 61, scoppia la polemica. Vannacci: “Agli stranieri scuole pubbliche gratis e gli Italiani costretti a pagare la privata”",
@@ -293,7 +302,7 @@
                 "image_link": "N/A"
             },
             {
-                "category": "Nessuna categoria",
+                "category": "Politica scolastica",
                 "title": "Valditara: “La rivoluzione della bellezza nelle nostre scuole come risposta a una società sempre più sciatta e superficiale dove i social spesso sono esempi di odio e violenza”",
                 "link": "https://www.orizzontescuola.it/valditara-la-rivoluzione-della-bellezza-nelle-nostre-scuole-come-risposta-a-una-societa-sempre-piu-sciatta-e-superficiale-dove-i-social-spesso-sono-esempi-di-odio-e-violenza/",
                 "date": "26 Set 2025",
@@ -403,22 +412,6 @@
                 "link": "https://www.orizzontescuola.it/tragedia-durante-gita-scolastica-studentessa-19enne-in-gravi-condizioni-dopo-volo-dal-terzo-piano/",
                 "date": "25 Set 2025",
                 "time": "15:23",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Indennità di sede per chi lavora in aree disagiate o lontano dalla residenza, per Anief è un aiuto economico necessario",
-                "link": "https://www.orizzontescuola.it/indennita-di-sede-per-chi-lavora-in-aree-disagiate-o-lontano-dalla-residenza-per-anief-e-un-aiuto-economico-necessario/",
-                "date": "25 Set 2025",
-                "time": "15:19",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Rinnovo contratto, dopo l’incontro di ieri su Afam, atenei e scuole all’estero, Anief chiede esaminare la parte economica del Ccnl 2022-24 nel confronto del 9 ottobre: vanno distribuiti i 240 milioni del DL 127/25",
-                "link": "https://www.orizzontescuola.it/rinnovo-contratto-dopo-lincontro-di-ieri-su-afam-atenei-e-scuole-allestero-anief-chiede-esaminare-la-parte-economica-del-ccnl-2022-24-nel-confronto-del-9-ottobre-vanno-distribuit/",
-                "date": "25 Set 2025",
-                "time": "15:16",
                 "image_link": "N/A"
             }
         ]
