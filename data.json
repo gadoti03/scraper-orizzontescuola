@@ -2,14 +2,7 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
-            {
-                "category": "Scuole",
-                "title": "Elezioni degli organi collegiali, 4 documenti tra circolari e decreti pronti all’uso da scaricare",
-                "link": "https://www.orizzontescuola.it/elezioni-degli-organi-collegiali-4-documenti-tra-circolari-e-decreti-pronti-alluso-da-scaricare/",
-                "date": "26 Set 2025",
-                "time": "7:22",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_764908237.jpg"
-            },
+            null,
             {
                 "category": "Scuole",
                 "title": "Riforma voto in condotta, con il 6 scatta il compito di cittadinanza: elaborato da fare su rispetto delle regole. DPR in Gazzetta Ufficiale, in vigore dal 10 ottobre",
@@ -169,6 +162,14 @@
             null,
             null,
             {
+                "category": "Scuole",
+                "title": "Elezioni degli organi collegiali, 4 documenti tra circolari e decreti pronti all’uso da scaricare",
+                "link": "https://www.orizzontescuola.it/elezioni-degli-organi-collegiali-4-documenti-tra-circolari-e-decreti-pronti-alluso-da-scaricare/",
+                "date": "26 Set 2025",
+                "time": "7:22",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_764908237.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR3, titolo di specializzazione unico requisito per i posti sostegno. Non contano anni di servizio",
                 "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-titolo-di-specializzazione-unico-requisito-per-i-posti-sostegno-non-contano-anni-di-servizio/",
@@ -263,14 +264,6 @@
                 "date": "25 Set 2025",
                 "time": "13:49",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/12/shutterstock_1905525472-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Diploma magistrale entro il 2002: confermato il valore abilitante, sia nelle GPS che nei concorsi. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/diploma-magistrale-entro-il-2002-confermato-il-valore-abilitante-sia-nelle-gps-che-nei-concorsi-pillole-di-question-time/",
-                "date": "25 Set 2025",
-                "time": "12:35",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1197053242.jpg"
             }
         ]
     },
