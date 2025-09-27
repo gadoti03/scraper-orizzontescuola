@@ -2,23 +2,66 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
-            null,
             {
-                "category": "Scuole",
-                "title": "Riforma voto in condotta, con il 6 scatta il compito di cittadinanza: elaborato da fare su rispetto delle regole. DPR in Gazzetta Ufficiale, in vigore dal 10 ottobre",
-                "link": "https://www.orizzontescuola.it/riforma-voto-in-condotta-con-il-6-scatta-il-compito-di-cittadinanza-elaborato-da-fare-su-rispetto-delle-regole-dpr-in-gazzetta-ufficiale/",
-                "date": "25 Set 2025",
-                "time": "19:21",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/Ministero-Istruzione.jpeg"
-            }
+                "category": "Cronaca",
+                "title": "Docenti, ATA e Dirigenti dovranno giurare fedeltà alla Repubblica, la proposta di Zangrillo",
+                "link": "https://www.orizzontescuola.it/docenti-ata-e-dirigenti-dovranno-giurare-fedelta-alla-repubblica-la-proposta-di-zangrillo/",
+                "date": "27 Set 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_1728004561.jpg"
+            },
+            null
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Chiedilo a Lalla",
+                "title": "Assegnazione docenti ai plessi, anche in altro comune: chi decide e come",
+                "link": "https://www.orizzontescuola.it/assegnazione-docenti-ai-plessi-anche-in-altro-comune-chi-decide-e-come/",
+                "date": "27 Set 2025",
+                "time": "10:13",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_392166814.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Domanda NASpI: l’esito con una notifica INPS. Nell’avviso anche una video guida personalizzata",
+                "link": "https://www.orizzontescuola.it/domanda-naspi-lesito-con-una-notifica-inps-nellavviso-anche-una-video-guida-personalizzata/",
+                "date": "27 Set 2025",
+                "time": "9:43",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_711786115.jpg"
+            },
+            {
+                "category": "Stipendio",
+                "title": "Supplenze docenti: spezzoni fino a ore 6 ore, aggiuntivi alle 18, sono retribuiti fino al 30 giugno. Valgono per la pensione?",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-spezzoni-fino-a-ore-6-ore-aggiuntivi-alle-18-sono-retribuiti-fino-al-30-giugno-valgono-per-la-pensione/",
+                "date": "27 Set 2025",
+                "time": "9:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_523827235.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: le nomine di fine settembre da GPS [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
+                "date": "27 Set 2025",
+                "time": "8:16",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/tfa-sostegno-IX-ciclo.png"
+            },
+            null,
+            null,
+            null,
+            {
+                "category": "Plus",
+                "title": "6 webinar gratuiti per “Gestire la scuola” senza sbagliare, per Dirigenti, collaboratori del DS, DSGA e segreterie: dagli adempimenti, alla gestione delle assenze, dal programma annuale alle nuove regole dello Smart working",
+                "link": "https://www.orizzontescuola.it/6-webinar-gratuiti-per-gestire-la-scuola-al-meglio-per-dirigenti-collaboratori-del-ds-dsga-e-segreterie-dagli-adempimenti-alla-gestione-delle-assenze-dal-programma-annuale-alle-nuove-regole-d/",
+                "date": "27 Set 2025",
+                "time": "7:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/6-webinar-gratuiti-per-Gestire-la-scuola-al-meglio.png"
+            },
+            {
                 "category": "Docenti",
-                "title": "Scienze della formazione primaria: 380 esoneri per docenti e dirigenti scolastici nel 2025/26. DECRETO",
+                "title": "Scienze della formazione primaria, 380 esoneri per docenti e dirigenti scolastici nel 2025/26. DECRETO",
                 "link": "https://www.orizzontescuola.it/scienze-della-formazione-primaria-380-esoneri-per-docenti-e-dirigenti-scolastici-nel-2025-26/",
                 "date": "26 Set 2025",
                 "time": "19:08",
@@ -72,7 +115,12 @@
                 "date": "26 Set 2025",
                 "time": "11:11",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Pensioni",
                 "title": "Pensioni personale scuola 2026: ecco i requisiti per vecchiaia, anticipata, Opzione donna, Quota 100 e 102",
@@ -130,19 +178,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/10/istanze_online.jpg"
             },
             {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: le nomine di fine settembre da GPS [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
-                "date": "26 Set 2025",
-                "time": "8:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/tfa-sostegno-IX-ciclo.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
-            {
                 "category": "Cronaca",
                 "title": "Alcuni modelli di Intelligenza artificiale forniscono 6 risposte errate su 10, e lo fanno appositamente. Ecco perché",
                 "link": "https://www.orizzontescuola.it/alcuni-modelli-di-intelligenza-artificiale-forniscono-6-risposte-errata-su-10-e-lo-fa-appositamente-ecco-perche/",
@@ -158,6 +193,7 @@
                 "time": "7:44",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Modello-immagine-sito-11.png"
             },
+            null,
             null,
             null,
             null,
@@ -178,6 +214,14 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/05/shutterstock_199611962.jpg"
             },
             {
+                "category": "Scuole",
+                "title": "Riforma voto in condotta, con il 6 scatta il compito di cittadinanza: elaborato da fare su rispetto delle regole. DPR in Gazzetta Ufficiale, in vigore dal 10 ottobre",
+                "link": "https://www.orizzontescuola.it/riforma-voto-in-condotta-con-il-6-scatta-il-compito-di-cittadinanza-elaborato-da-fare-su-rispetto-delle-regole-dpr-in-gazzetta-ufficiale/",
+                "date": "25 Set 2025",
+                "time": "19:21",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/Ministero-Istruzione.jpeg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Graduatorie regionali per il ruolo: cosa sono, quando ci si iscrive. Riguardano anche gli idonei del 30%? Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/graduatorie-regionali-per-il-ruolo-cosa-sono-quando-ci-si-iscrive-riguardano-anche-gli-idonei-del-30-pillole-di-question-time/",
@@ -192,84 +236,28 @@
                 "date": "25 Set 2025",
                 "time": "18:33",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_2305178333.jpg"
-            },
-            {
-                "category": "Pensioni",
-                "title": "Pensioni scuola 2026: domande docenti e ATA entro il 21 ottobre, entro il 28 febbraio dirigenti scolastici. DECRETO, CIRCOLARE e TABELLA requisiti",
-                "link": "https://www.orizzontescuola.it/pensioni-scuola-2026-domande-docenti-e-ata-entro-il-21-ottobre-entro-il-28-febbraio-dirigenti-scolastici-decreto/",
-                "date": "25 Set 2025",
-                "time": "18:06",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2499290035.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Stipendio docenti, ricostruzione di carriera: domanda online entro il 31 dicembre. Serve a “recuperare” gli anni di precariato. VIDEO",
-                "link": "https://www.orizzontescuola.it/stipendio-docenti-ricostruzione-di-carriera-domanda-online-entro-il-31-dicembre-serve-a-recuperare-gli-anni-di-precariato-video/",
-                "date": "25 Set 2025",
-                "time": "17:36",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2016/12/euro-1557431_960_720.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Studente si frattura a scuola in una sfida di braccio di ferro durante ora di supplenza. Chiede 44mila euro di risarcimento, ma il Tribunale dice no: “Non risultano prove di mancata vigilanza del docente”",
-                "link": "https://www.orizzontescuola.it/studente-si-frattura-a-scuola-in-una-sfida-di-braccio-di-ferro-durante-ora-di-supplenza-chiede-44mila-euro-di-risarcimento-ma-il-tribunale-dice-no-non-risultano-prove-di-mancata-vigilanza-del-doc/",
-                "date": "25 Set 2025",
-                "time": "16:34",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_675123196.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso PNRR3 docenti infanzia e primaria, non ci saranno posti per ed. motoria. Pillole di Question time",
-                "link": "https://www.orizzontescuola.it/concorso-pnrr3-docenti-infanzia-e-primaria-non-ci-saranno-posti-per-ed-motoria-pillole-di-question-time/",
-                "date": "25 Set 2025",
-                "time": "16:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_568917082.jpg"
-            },
-            {
-                "category": "Pensioni",
-                "title": "In pensione anticipata a 60 anni con il riscatto della laurea a 900 euro, conviene davvero? Ecco due simulazioni",
-                "link": "https://www.orizzontescuola.it/in-pensione-anticipata-a-60-anni-con-il-riscatto-della-laurea-a-900-euro-conviene-davvero-ecco-due-simulazioni/",
-                "date": "25 Set 2025",
-                "time": "15:32",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/Pensioni-Agosto-24.webp"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze da GPS 2025/26: risposte a reclami, diffide, istanze di accesso agli atti [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/supplenze-da-gps-2025-26-i-docenti-lamentano-errori-nelle-nomine-gli-uffici-scolastici-rispondono-avvisi/",
-                "date": "25 Set 2025",
-                "time": "15:22",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Interpelli: docenti non ancora raggiunti dal bollettino delle GPS possono accettare una supplenza? Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/interpelli-docenti-non-ancora-raggiunti-dal-bollettino-delle-gps-possono-accettare-una-supplenza-pillole-di-question-time/",
-                "date": "25 Set 2025",
-                "time": "15:01",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_765925483-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025, spezzone difficile da completare perché le cattedre “non si spezzano”. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-spezzone-difficile-da-completare-perche-le-cattedre-non-si-spezzano-pillole-di-question-time/",
-                "date": "25 Set 2025",
-                "time": "13:57",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/concorso-insegnanti-religione.png"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Studentessa con PDP viene bocciata: fa ricorso al TAR e lo vince. I giudici: “Mancata promozione illogica e sproporzionata, il Consiglio di Classe rivaluti”",
-                "link": "https://www.orizzontescuola.it/studentessa-con-pdp-viene-bocciata-fa-ricorso-al-tar-e-lo-vince-i-giudici-mancata-promozione-illogica-e-sproporzionata-il-consiglio-di-classe-rivaluti/",
-                "date": "25 Set 2025",
-                "time": "13:49",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/12/shutterstock_1905525472-scaled.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "“Fallimento Educazione civica”, il CNDDU: “Riconoscerla come disciplina autonoma e affidarla a docenti A046”",
+                "link": "https://www.orizzontescuola.it/fallimento-educazione-civica-il-cnddu-riconoscerla-come-disciplina-autonoma-affidata-a-docenti-a046/",
+                "date": "27 Set 2025",
+                "time": "10:06",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Anche FISM firma il protocollo d’intesa tra l’Associazione Bottega dei Talenti Caterina & Francesca APS: “La scuola senza barriere”",
+                "link": "https://www.orizzontescuola.it/anche-fism-firma-il-protocollo-dintesa-tra-lassociazione-bottega-dei-talenti-caterina-francesca-aps-la-scuola-senza-barriere/",
+                "date": "27 Set 2025",
+                "time": "9:31",
+                "image_link": "N/A"
+            },
             {
                 "category": "Comunicati stampa",
                 "title": "CCNL Scuola Estero, Anief: “La bozza prevede sabato lavorativo per calcolo ferie. Siamo fermamente contrari”",
@@ -389,22 +377,6 @@
                 "link": "https://www.orizzontescuola.it/trasparenza-online-nella-pa-il-garante-chiede-piu-attenzione-alla-privacy/",
                 "date": "25 Set 2025",
                 "time": "19:29",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Spazi e scoperte: il 26 settembre torna la Notte Europea dei Ricercatori",
-                "link": "https://www.orizzontescuola.it/spazi-e-scoperte-il-26-settembre-torna-la-notte-europea-dei-ricercatori/",
-                "date": "25 Set 2025",
-                "time": "19:03",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Candeggina nella borraccia, studentessa finisce in ospedale. Episodio shock in una scuola",
-                "link": "https://www.orizzontescuola.it/candeggina-nella-borraccia-studentessa-finisce-in-ospedale-episodio-shock-in-una-scuola/",
-                "date": "25 Set 2025",
-                "time": "18:13",
                 "image_link": "N/A"
             }
         ]
@@ -531,65 +503,57 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3: bando a ottobre, prova scritta selettiva entro dicembre: ecco come si supera. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-bando-a-ottobre-prova-scritta-selettiva-entro-dicembre-ecco-come-si-supera-risposte-ai-quesiti/",
+                "date": "25 Set 2025",
+                "time": "9:19",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_687037513.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3, tabella titoli confermata ma attenzione al superpunteggio per il concorso precedente",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-tabella-titoli-confermata-ma-attenzione-al-superpunteggio-per-il-concorso-precedente/",
+                "date": "24 Set 2025",
+                "time": "17:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3, confermate prova scritta e prova orale. No preselettiva",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-confermate-prova-scritta-e-prova-orale-no-preselettiva/",
+                "date": "24 Set 2025",
+                "time": "14:43",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_302086268.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Nuovo concorso per insegnanti, pronta BOZZA del bando PNRR3. Requisiti di accesso, prove e assunzioni. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/nuovo-concorso-per-insegnanti-pronta-bozza-del-bando-pnrr3-requisiti-di-accesso-prove-e-assunzioni-risposte-ai-quesiti/",
+                "date": "24 Set 2025",
+                "time": "13:03",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2176731709.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso insegnanti PNRR3, accesso con riserva per chi conseguirà abilitazione o titolo sostegno Indire entro 31 gennaio 2026 (data da confermare)",
+                "link": "https://www.orizzontescuola.it/concorso-insegnanti-pnrr3-accesso-con-riserva-per-chi-conseguira-abilitazione-o-titolo-sostegno-indire-entro-31-gennaio-2026-data-da-confermare/",
+                "date": "24 Set 2025",
+                "time": "11:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_1745285486.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Nuovo concorso PNRR3 infanzia e primaria, attesi 27mila posti: si accede con laurea in Scienze Formazione primaria o “vecchio” diploma magistrale entro 2001/02",
                 "link": "https://www.orizzontescuola.it/nuovo-concorso-pnrr3-infanzia-e-primaria-attesi-27mila-posti-si-accede-con-laurea-in-scienze-formazione-primaria-o-vecchio-diploma-magistrale-entro-2001-02/",
                 "date": "24 Set 2025",
                 "time": "11:27",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2016/05/to-write-774648_640-1-1.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Nuovo concorso 2025 per la scuola: quasi 60.000 posti per le assunzioni fino al 2027/28",
-                "link": "https://www.orizzontescuola.it/nuovo-concorso-2025-per-la-scuola-quasi-60-000-posti-per-le-assunzioni-fino-al-2027-28/",
-                "date": "24 Set 2025",
-                "time": "11:04",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2491902319.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Nuovo Concorso scuola PNRR3, ecco i REQUISITI posti comuni secondaria: abilitazione o tre anni di servizio, i 24 CFU in soffitta",
-                "link": "https://www.orizzontescuola.it/nuovo-concorso-scuola-pnrr3-ecco-i-requisiti-posti-comuni-secondaria-abilitazione-o-tre-anni-di-servizio-i-24-cfu-in-soffitta/",
-                "date": "24 Set 2025",
-                "time": "9:33",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_130754711.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR3, ITP possono partecipare con il diploma. Ultimo bando",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-itp-possono-partecipare-con-il-diploma-ultimo-bando/",
-                "date": "24 Set 2025",
-                "time": "8:58",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_388588420.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Immissioni in ruolo, chi deve essere cancellato dalle graduatorie. La nota del Ministero dell’Istruzione e del Merito",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-chi-deve-essere-cancellato-dalle-graduatorie-la-nota-del-ministero-dellistruzione-e-del-merito/",
-                "date": "23 Set 2025",
-                "time": "20:33",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2498448781.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso PNRR 3, bando entro ottobre, 20 giorni di tempo per le istanze, prove prima di Natale, tutto da concludere entro giugno 2026. Le parole di Cozzetto (Anief)",
-                "link": "https://www.orizzontescuola.it/concorso-pnrr-3-bando-entro-ottobre-20-giorni-di-tempo-per-le-istanze-prove-prima-di-natale-tutto-da-concludere-entro-giugno-2026-le-parole-di-cozzetto-anief/",
-                "date": "23 Set 2025",
-                "time": "19:26",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1197053242.jpg"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
-            {
-                "category": "ATA",
-                "title": "Supplenza docente: quanti punti in graduatoria ATA?",
-                "link": "https://www.orizzontescuola.it/supplenza-docente-quanti-punti-in-graduatoria-ata/",
-                "date": "18 Set 2025",
-                "time": "11:29",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_344044361.jpg"
-            },
             {
                 "category": "ATA",
                 "title": "Supplenze ATA 2025/26: nessuna convocazione per gli operatori scolastici",
@@ -629,6 +593,14 @@
                 "date": "11 Set 2025",
                 "time": "10:27",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2198390061.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Personale ATA: cosa comporta rinunciare a una supplenza",
+                "link": "https://www.orizzontescuola.it/personale-ata-cosa-comporta-rinunciare-a-una-supplenza/",
+                "date": "11 Set 2025",
+                "time": "9:04",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_1070096513.jpg"
             }
         ]
     },
