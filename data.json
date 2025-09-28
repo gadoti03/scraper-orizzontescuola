@@ -3,12 +3,12 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
-                "category": "Cronaca",
-                "title": "Docenti, ATA e Dirigenti dovranno giurare fedeltà alla Repubblica, la proposta di Zangrillo",
-                "link": "https://www.orizzontescuola.it/docenti-ata-e-dirigenti-dovranno-giurare-fedelta-alla-repubblica-la-proposta-di-zangrillo/",
-                "date": "27 Set 2025",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_1728004561.jpg"
+                "category": "Dirigenti scolastici",
+                "title": "Ore eccedenti tra continuità didattica e aspettative dei docenti. La gestione da parte dei Dirigenti. Marsala (Sentenza n. 62/2016)",
+                "link": "https://www.orizzontescuola.it/ore-eccedenti-tra-continuita-didattica-e-aspettative-dei-docenti-la-gestione-da-parte-dei-dirigenti-marsala-sentenza-n-62-2016/",
+                "date": "28 Set 2025",
+                "time": "7:54",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2538269019.jpg"
             },
             null
         ]
@@ -16,6 +16,40 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Docente in part-time: consigli di classe quando non ho lezioni. Cosa si può fare?",
+                "link": "https://www.orizzontescuola.it/docente-in-part-time-consigli-di-classe-quando-non-ho-lezioni-cosa-si-puo-fare/",
+                "date": "28 Set 2025",
+                "time": "10:13",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/12/shutterstock_152334629-scaled.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Venerdì nero: i dati confermano il giorno preferito per gli scioperi in Italia (soprattutto per scuola e università). Ecco che cosa ci dicono i numeri",
+                "link": "https://www.orizzontescuola.it/venerdi-nero-i-dati-confermano-il-giorno-preferito-per-gli-scioperi-in-italia-soprattutto-per-scuola-e-universita-ecco-che-cosa-ci-dicono-i-numeri/",
+                "date": "28 Set 2025",
+                "time": "9:33",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_1135501646.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Studentessa si ferisce durante partita di rugby a scuola: ottiene risarcimento in primo grado, ma la Corte d’Appello ribalta tutto. Ecco cosa hanno detto i giudici",
+                "link": "https://www.orizzontescuola.it/studentessa-si-ferisce-durante-partita-di-rugby-a-scuola-ottiene-risarcimento-in-primo-grado-ma-la-corte-dappello-ribalta-tutto-ecco-cosa-hanno-detto-i-giudici/",
+                "date": "28 Set 2025",
+                "time": "9:04",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/01/shutterstock_1832431576.jpg"
+            },
+            {
+                "category": "Genitori",
+                "title": "Controllo digitale dei minori, Pellai spiega la regola dei 14 anni che tutti i genitori dovrebbero conoscere per proteggere i figli dai rischi",
+                "link": "https://www.orizzontescuola.it/controllo-digitale-dei-minori-pellai-spiega-la-regola-dei-14-anni-che-tutti-i-genitori-dovrebbero-conoscere-per-proteggere-i-figli-dai-rischi/",
+                "date": "28 Set 2025",
+                "time": "7:34",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Screenshot-2025-02-20-alle-17.40.48.png"
+            },
+            null,
+            null,
             {
                 "category": "Scuole",
                 "title": "Ciclo di webinar sul modello PEI informatizzato: pubblicato il calendario degli incontri regionali. NOTA Ministero",
@@ -95,7 +129,12 @@
                 "date": "27 Set 2025",
                 "time": "11:21",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2282044199.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Intelligenza artificiale nelle Pubbliche Amministrazioni: deve migliorare le condizioni lavorative, deve aumentare l’efficienza e ridurre i tempi di lavoro",
@@ -136,12 +175,15 @@
                 "time": "8:16",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/tfa-sostegno-IX-ciclo.png"
             },
-            null
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Docenti, ATA e Dirigenti dovranno giurare fedeltà alla Repubblica, la proposta di Zangrillo",
+                "link": "https://www.orizzontescuola.it/docenti-ata-e-dirigenti-dovranno-giurare-fedelta-alla-repubblica-la-proposta-di-zangrillo/",
+                "date": "27 Set 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_1728004561.jpg"
+            },
+            null,
             null,
             null,
             {
@@ -208,68 +250,44 @@
                 "date": "26 Set 2025",
                 "time": "11:11",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
-            },
-            {
-                "category": "Pensioni",
-                "title": "Pensioni personale scuola 2026: ecco i requisiti per vecchiaia, anticipata, Opzione donna, Quota 100 e 102",
-                "link": "https://www.orizzontescuola.it/pensioni-personale-scuola-2026-ecco-i-requisiti-per-vecchiaia-anticipata-opzione-donna-quota-100-e-102-tutti-i-requisiti/",
-                "date": "26 Set 2025",
-                "time": "10:54",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/shutterstock_1818500471.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso scuola PNRR 3, il Ministero accelera: posti, requisiti e prove. RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/concorso-scuola-pnrr-3-il-ministero-accelera-posti-requisiti-e-prove-risposte-ai-quesiti/",
-                "date": "26 Set 2025",
-                "time": "10:53",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2003113223.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Carta docente, sarà ancora di 500 euro? Miceli (Anief): “La formazione è un diritto di tutti i docenti. La riduzione dell’importo sarebbe di inaudita gravità”",
-                "link": "https://www.orizzontescuola.it/carta-docente-sara-ancora-di-500-euro-miceli-anief-la-formazione-e-un-diritto-di-tutti-i-docenti-la-riduzione-dellimporto-sarebbe-uninaudita-gravita/",
-                "date": "26 Set 2025",
-                "time": "9:28",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/Screenshot-2023-04-28-065108.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "Intelligenza Artificiale, in Gazzetta il testo della delega al Governo, cosa c’è per la scuola: dagli studenti ad alto potenziale, alla formazione STEM",
-                "link": "https://www.orizzontescuola.it/intelligenza-artificiale-in-gazzetta-il-testo-della-delega-al-governo-cosa-ce-per-la-scuola-dagli-studenti-ad-alto-potenziale-alla-formazione-stem/",
-                "date": "26 Set 2025",
-                "time": "9:17",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_2346306093.jpg"
-            },
-            {
-                "category": "Guide",
-                "title": "Accesso agli atti: chi può presentarlo? Quali documenti sono esclusi? Quanto costa? A chi presentare ricorso in caso di diniego? La scheda",
-                "link": "https://www.orizzontescuola.it/accesso-agli-atti-chi-puo-presentarla-quali-documenti-sono-esclusi-quanto-costa-a-chi-presentare-ricorso-in-caso-di-diniego-la-scheda/",
-                "date": "26 Set 2025",
-                "time": "9:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2502117529.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Supplenze, spezzoni pari o inferiori a 6 ore: docente in servizio al diurno può accettare le ore del serale?",
-                "link": "https://www.orizzontescuola.it/supplenze-spezzoni-pari-o-inferiori-a-6-ore-docente-in-servizio-al-diurno-puo-accettare-le-ore-del-serale/",
-                "date": "26 Set 2025",
-                "time": "9:04",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_388588420.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Pensioni scuola 2026: al via le domande per docenti, ATA e dirigenti, 7 le istanze disponibili",
-                "link": "https://www.orizzontescuola.it/pensioni-scuola-2026-al-via-le-domande-per-docenti-ata-e-dirigenti-7-le-istanze-disponibili/",
-                "date": "26 Set 2025",
-                "time": "8:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/10/istanze_online.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Gli italiani odiano l’inciviltà politica, ma il 16% la accetta se “funziona”. Media intrappolati: chi insulta emerge, chi resta civile paga il prezzo. La ricerca",
+                "link": "https://www.orizzontescuola.it/gli-italiani-odiano-lincivilta-politica-ma-il-16-la-accetta-se-funziona-media-intrappolati-chi-insulta-emerge-chi-resta-civile-paga-il-prezzo-la-ricerca/",
+                "date": "28 Set 2025",
+                "time": "10:05",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "La storia contemporanea come laboratorio di educazione civica e per preservare la dimensione umana dell’apprendimento",
+                "link": "https://www.orizzontescuola.it/la-storia-contemporanea-come-laboratorio-di-educazione-civica-e-per-preservare-la-dimensione-umana-dellapprendimento/",
+                "date": "28 Set 2025",
+                "time": "9:53",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "L’incredibile richiesta di un asilo in Australia: “Pagate 2.200 dollari o non riavrete i disegni dei vostri figli”. Il caso arriva fino al governo",
+                "link": "https://www.orizzontescuola.it/lincredibile-richiesta-di-un-asilo-in-australia-pagate-2-200-dollari-o-non-riavrete-i-disegni-dei-vostri-figli-il-caso-arriva-fino-al-governo/",
+                "date": "28 Set 2025",
+                "time": "8:57",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "INPS raggiunge quota 27 milioni di assicurati e lancia la sfida dell’intelligenza artificiale: 38 progetti attivi per rivoluzionare i servizi previdenziali e sostenere le nuove generazioni",
+                "link": "https://www.orizzontescuola.it/inps-raggiunge-quota-27-milioni-di-assicurati-e-lancia-la-sfida-dellintelligenza-artificiale-38-progetti-attivi-per-rivoluzionare-i-servizi-previdenziali-e-sostenere-le-nuove-generazioni/",
+                "date": "28 Set 2025",
+                "time": "8:29",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Assistenti familiari: in cosa consistono i corsi formativi e chi può accedere. Pubblicate le Linee guida nazionali",
@@ -380,38 +398,6 @@
                 "link": "https://www.orizzontescuola.it/ccnl-scuola-estero-anief-la-bozza-prevede-sabato-lavorativo-per-calcolo-ferie-siamo-fermamente-contrari/",
                 "date": "26 Set 2025",
                 "time": "19:11",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "A Milano domiciliari per due liceali arrestati negli scontri post-corteo Gaza. Il GIP: “Contesto di violenza crescente”",
-                "link": "https://www.orizzontescuola.it/a-milano-domiciliari-per-due-liceali-arrestati-negli-scontri-post-corteo-gaza-il-gip-contesto-di-violenza-crescente/",
-                "date": "26 Set 2025",
-                "time": "18:52",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso a cattedra da rifare per 250 docenti, arriva la sentenza",
-                "link": "https://www.orizzontescuola.it/concorso-a-cattedra-da-rifare-per-250-docenti-arriva-la-sentenza/",
-                "date": "26 Set 2025",
-                "time": "17:56",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Carta digitale da 100 euro per acquisto libri: domande dal 1° ottobre per famiglie con ISEE sotto i 15mila euro",
-                "link": "https://www.orizzontescuola.it/carta-digitale-da-100-euro-per-acquisto-libri-domande-dal-1-ottobre-per-famiglie-con-isee-sotto-i-15mila-euro/",
-                "date": "26 Set 2025",
-                "time": "17:23",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Bullismo, adulti sottovalutano la “presa in giro”. I posti più a rischio: bagni, cortili e mezzi di trasporto",
-                "link": "https://www.orizzontescuola.it/bullismo-adulti-sottovalutano-la-presa-in-giro-i-posti-piu-a-rischio-bagni-cortili-e-mezzi-di-trasporto/",
-                "date": "26 Set 2025",
-                "time": "16:51",
                 "image_link": "N/A"
             }
         ]
