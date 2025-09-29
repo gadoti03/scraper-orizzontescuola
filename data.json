@@ -17,6 +17,46 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Scuole",
+                "title": "Il 30 settembre manutenzione straordinaria su Acquisti in Rete, attenzione alle schede ANAC in bozza",
+                "link": "https://www.orizzontescuola.it/il-30-settembre-2025-manutenzione-straordinaria-su-acquisti-in-rete-attenzione-alle-schede-anac-in-bozza/",
+                "date": "29 Set 2025",
+                "time": "18:17",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Bando viaggi d’istruzione e stage linguistici: domande fornitori entro il 3 novembre",
+                "link": "https://www.orizzontescuola.it/bando-viaggi-distruzione-e-stage-linguistici-domande-fornitori-entro-il-3-novembre/",
+                "date": "29 Set 2025",
+                "time": "18:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_2232673671.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Come compilare il PEI senza errori: il percorso curricolare dello studente con disabilità nella scuola secondaria di secondo grado. SPECIALE con Gallo. LIVE Martedì 30 settembre alle 16:00",
+                "link": "https://www.orizzontescuola.it/come-compilare-il-pei-senza-errori-il-percorso-curricolare-dello-studente-con-disabilita-nella-scuola-secondaria-di-secondo-grado-speciale-con-gallo-live-martedi-30-settembre-alle-1600/",
+                "date": "29 Set 2025",
+                "time": "15:34",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Template_questiontime_1920x1080-19.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Ecco i TeachTokers, quando i professori diventano star sui social: come si ridisegna il confine tra educazione e narrazione digitale con attenzione alla privacy",
+                "link": "https://www.orizzontescuola.it/ecco-i-teachtokers-quando-i-professori-diventano-star-sui-social-come-si-ridisegna-il-confine-tra-educazione-e-narrazione-digitale-con-attenzione-alla-privacy/",
+                "date": "29 Set 2025",
+                "time": "15:29",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2543212665.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Si può partecipare contemporaneamente al concorso PNRR3 per insegnanti su materia e sostegno, anche per lo stesso grado. Quante prove bisognerà svolgere",
+                "link": "https://www.orizzontescuola.it/si-puo-partecipare-contemporaneamente-al-concorso-pnrr3-per-insegnanti-su-materia-e-sostegno-anche-per-lo-stesso-grado-quante-prove-bisognera-svolgere/",
+                "date": "29 Set 2025",
+                "time": "15:09",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_1996119905.jpg"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Lavoratori over 50, la maggior parte impiegata nell’istruzione, PA e sanità. I dati CNEL",
                 "link": "https://www.orizzontescuola.it/lavoratori-over-50-la-maggior-parte-impiegata-nellistruzione-pa-e-sanita-i-dati-cnel/",
@@ -25,14 +65,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1253691592.jpg"
             },
             null,
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Graduatorie, interpelli e concorsi: facciamo il punto sulle opportunità per i docenti. QUESTION TIME con Capraro (Gilda) LIVE Lunedì 29 settembre alle 14:30",
-                "link": "https://www.orizzontescuola.it/graduatorie-interpelli-e-concorsi-facciamo-il-punto-sulle-opportunita-per-i-docenti-question-time-con-capraro-gilda-live-lunedi-29-settembre-alle-1430/",
-                "date": "29 Set 2025",
-                "time": "14:09",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Template_questiontime_1920x1080-18.png"
-            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze docenti 2025/26: migliaia di INTERPELLI per la ricerca di insegnanti",
@@ -104,15 +136,12 @@
                 "date": "29 Set 2025",
                 "time": "10:46",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/11/shutterstock_1401525788-scaled.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Come compilare il PEI senza errori: il percorso curricolare dello studente con disabilità nella scuola secondaria di secondo grado. SPECIALE con Gallo. LIVE Martedì 30 settembre alle 16:00",
-                "link": "https://www.orizzontescuola.it/come-compilare-il-pei-senza-errori-il-percorso-curricolare-dello-studente-con-disabilita-nella-scuola-secondaria-di-secondo-grado-speciale-con-gallo-live-martedi-30-settembre-alle-1600/",
-                "date": "29 Set 2025",
-                "time": "10:34",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Template_questiontime_1920x1080-19.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Politica scolastica",
                 "title": "Valditara rilancia: “Il merito nella scuola non è più tabù, anche intellettuali non certo di destra come Recalcati, Canfora e Crepet iniziano a riconoscere la validità dei nostri provvedimenti educativi”",
@@ -136,12 +165,7 @@
                 "date": "29 Set 2025",
                 "time": "9:42",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/12/shutterstock_2055944831-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Guide",
                 "title": "Docenti, responsabilità penale e civile: sono responsabile degli atti di bullismo? E se uno studente si ferisce da solo? Scheda",
@@ -240,36 +264,36 @@
                 "date": "28 Set 2025",
                 "time": "18:06",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/shutterstock_2599495969.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "INPS avvia la seconda fase sperimentale della riforma disabilità: nove province coinvolte fino al 2026",
-                "link": "https://www.orizzontescuola.it/inps-avvia-la-seconda-fase-sperimentale-della-riforma-disabilita-nove-province-coinvolte-fino-al-2026/",
-                "date": "28 Set 2025",
-                "time": "17:48",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_1740063014.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Divieto smartphone a scuola: studenti riscoprono i giochi di carte e la socializzazione, ma i docenti lamentano difficoltà didattiche e i genitori protestano per le emergenze",
-                "link": "https://www.orizzontescuola.it/divieto-smartphone-a-scuola-studenti-riscoprono-i-giochi-di-carte-e-la-socializzazione-ma-i-docenti-lamentano-difficolta-didattiche-e-i-genitori-protestano-per-le-emergenze/",
-                "date": "28 Set 2025",
-                "time": "15:18",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2494808151.jpg"
-            },
-            {
-                "category": "Pensioni",
-                "title": "Riscatto laurea a soli 900 euro l’anno: la proposta di legge che cambia le regole per docenti e ATA, aprendo la strada al pensionamento a 60 anni e al ricambio generazionale nella scuola",
-                "link": "https://www.orizzontescuola.it/riscatto-laurea-a-soli-900-euro-lanno-la-proposta-di-legge-che-cambia-le-regole-per-docenti-e-ata-aprendo-la-strada-al-pensionamento-a-60-anni-e-al-ricambio-generazionale-nella-scuola/",
-                "date": "28 Set 2025",
-                "time": "15:03",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/Pensioni-Agosto-24.webp"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Comunicati stampa",
+                "title": "PA, sempre più over 50. Anief: quasi mezzo milione solo di docenti che vengono stabilizzati e mandati in pensione sempre più tardi, servono provvedimenti immediati",
+                "link": "https://www.orizzontescuola.it/anief-quasi-mezzo-milione-solo-di-docenti-che-vengono-stabilizzati-e-mandati-in-pensione-sempre-piu-tardi-servono-provvedimenti-immediati/",
+                "date": "29 Set 2025",
+                "time": "17:59",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Indire, a Riccione due giorni di incontri con gli assistenti di lingua straniera in Italia per promuovere l’integrazione multiculturale",
+                "link": "https://www.orizzontescuola.it/indire-a-riccione-due-giorni-di-incontri-con-gli-assistenti-di-lingua-straniera-in-italia-per-promuovere-lintegrazione-multiculturale/",
+                "date": "29 Set 2025",
+                "time": "15:38",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Anno di prova e formazione docenti neoassunti, in Campania inaugurazione l’8 ottobre con un seminario a Città della Scienza",
+                "link": "https://www.orizzontescuola.it/anno-di-prova-e-formazione-docenti-neoassunti-in-campania-inaugurazione-l8-ottobre-con-un-seminario-a-citta-della-scienza/",
+                "date": "29 Set 2025",
+                "time": "15:21",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Il volley italiano sul tetto del mondo, ma la Federazione avverte: “Aprite le palestre scolastiche ai bambini che vogliono giocare a pallavolo. Non sono della burocrazia, ma della comunità”",
@@ -282,6 +306,14 @@
                 "category": "Scuole",
                 "title": "Consip avvia la prima gara nazionale per i viaggi scolastici: consentirà alle scuole di acquistare servizi “chiavi in mano” direttamente da imprese qualificate",
                 "link": "https://www.orizzontescuola.it/consip-avvia-la-prima-gara-nazionale-per-i-viaggi-scolastici-consentira-alle-scuole-di-acquistare-servizi-chiavi-in-mano-direttamente-da-imprese-qualificate/",
+                "date": "29 Set 2025",
+                "time": "14:09",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Graduatorie, interpelli e concorsi: facciamo il punto sulle opportunità per i docenti. QUESTION TIME con Capraro (Gilda)",
+                "link": "https://www.orizzontescuola.it/graduatorie-interpelli-e-concorsi-facciamo-il-punto-sulle-opportunita-per-i-docenti-question-time-con-capraro-gilda-live-lunedi-29-settembre-alle-1430/",
                 "date": "29 Set 2025",
                 "time": "14:09",
                 "image_link": "N/A"
@@ -380,38 +412,6 @@
                 "link": "https://www.orizzontescuola.it/dal-pannolino-alluniversita-156mila-euro-il-prezzo-di-un-figlio-in-italia-con-picchi-di-11-750-euro-annui-nelladolescenza-e-costi-maggiorati-del-20-nelle-metropoli-i-dati/",
                 "date": "29 Set 2025",
                 "time": "8:52",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "La Regione Piemonte investe 1,3 milioni per il benessere scolastico: ecco i progetti previsti",
-                "link": "https://www.orizzontescuola.it/la-regione-piemonte-investe-13-milioni-per-il-benessere-scolastico-ecco-i-progetti-previsti/",
-                "date": "29 Set 2025",
-                "time": "8:17",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Volto di una compagna di classe su un corpo nudo di una donna grazie all’Intelligenza Artificiale, adesso rischiano denuncia per “revenge porn”",
-                "link": "https://www.orizzontescuola.it/volto-di-una-compagna-di-classe-su-un-corpo-nudo-di-una-donna-grazie-allintelligenza-artificiale-adesso-rischiano-denuncia-per-revenge-port/",
-                "date": "29 Set 2025",
-                "time": "8:10",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "A Venezia ragazzini multati perché giocano a calcio. La loro lettera al sindaco: “Cellulare no, pallone nemmeno. Come dobbiamo crescere?”",
-                "link": "https://www.orizzontescuola.it/a-venezia-ragazzini-multati-perche-giocano-a-calcio-la-loro-lettera-al-sindaco-cellulare-no-pallone-nemmeno-come-dobbiamo-crescere/",
-                "date": "28 Set 2025",
-                "time": "18:11",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Studenti",
-                "title": "Studiare lontano da casa: tra solitudine, costi alle stelle e ansia da esami, ecco le cinque paure che preoccupano le famiglie degli studenti fuori sede in Italia",
-                "link": "https://www.orizzontescuola.it/studiare-lontano-da-casa-tra-solitudine-costi-alle-stelle-e-ansia-da-esami-ecco-le-cinque-paure-che-preoccupano-le-famiglie-degli-studenti-fuori-sede-in-italia/",
-                "date": "28 Set 2025",
-                "time": "17:33",
                 "image_link": "N/A"
             }
         ]
