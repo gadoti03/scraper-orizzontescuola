@@ -17,20 +17,36 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Docenti",
+                "title": "Cedolino stipendio, cosa significa se la scadenza del gradone è in un mese diverso da agosto o dicembre? PILLOLE DI QUESTION TIME",
+                "link": "https://www.orizzontescuola.it/cedolino-stipendio-cosa-significa-se-la-scadenza-del-gradone-e-in-un-mese-diverso-da-agosto-o-dicembre-pillole-di-question-time/",
+                "date": "29 Set 2025",
+                "time": "19:54",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/10/Soldi-1.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Obbligo vaccinale Covid-19, il TAR conferma la misura per docenti e ATA. Ecco cosa hanno detto i giudici",
+                "link": "https://www.orizzontescuola.it/obbligo-vaccinale-covid-19-il-tar-conferma-la-misura-per-docenti-e-ata-ecco-cosa-hanno-detto-i-giudici/",
+                "date": "29 Set 2025",
+                "time": "18:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/shutterstock_299616500.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "ANAC: aggiornato il Bando Tipo n. 1 per servizi e forniture. Novità dopo il decreto legislativo del 31 dicembre 2024",
+                "link": "https://www.orizzontescuola.it/anac-aggiornato-il-bando-tipo-n-1-per-servizi-e-forniture-novita-dopo-il-decreto-legislativo-del-31-dicembre-2024/",
+                "date": "29 Set 2025",
+                "time": "18:27",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1936676008-scaled.jpg"
+            },
+            {
                 "category": "Scuole",
                 "title": "Il 30 settembre manutenzione straordinaria su Acquisti in Rete, attenzione alle schede ANAC in bozza",
                 "link": "https://www.orizzontescuola.it/il-30-settembre-2025-manutenzione-straordinaria-su-acquisti-in-rete-attenzione-alle-schede-anac-in-bozza/",
                 "date": "29 Set 2025",
                 "time": "18:17",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Bando viaggi d’istruzione e stage linguistici: domande fornitori entro il 3 novembre",
-                "link": "https://www.orizzontescuola.it/bando-viaggi-distruzione-e-stage-linguistici-domande-fornitori-entro-il-3-novembre/",
-                "date": "29 Set 2025",
-                "time": "18:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_2232673671.jpg"
             },
             {
                 "category": "Chiedilo a Lalla",
@@ -65,6 +81,14 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1253691592.jpg"
             },
             null,
+            {
+                "category": "Scuole",
+                "title": "Consip avvia la prima gara nazionale per i viaggi scolastici: consentirà alle scuole di acquistare servizi “chiavi in mano” direttamente da imprese qualificate",
+                "link": "https://www.orizzontescuola.it/consip-avvia-la-prima-gara-nazionale-per-i-viaggi-scolastici-consentira-alle-scuole-di-acquistare-servizi-chiavi-in-mano-direttamente-da-imprese-qualificate/",
+                "date": "29 Set 2025",
+                "time": "14:09",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_1517274167.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze docenti 2025/26: migliaia di INTERPELLI per la ricerca di insegnanti",
@@ -112,7 +136,12 @@
                 "date": "29 Set 2025",
                 "time": "11:11",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_120805804.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Elezioni Fondo Scuola Espero: il 27, 28 e 29 ottobre voto online per il rinnovo dell’Assemblea dei Delegati",
@@ -136,12 +165,7 @@
                 "date": "29 Set 2025",
                 "time": "10:46",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/11/shutterstock_1401525788-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Valditara rilancia: “Il merito nella scuola non è più tabù, anche intellettuali non certo di destra come Recalcati, Canfora e Crepet iniziano a riconoscere la validità dei nostri provvedimenti educativi”",
@@ -240,36 +264,36 @@
                 "date": "28 Set 2025",
                 "time": "19:52",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/12/shutterstock_1905525472-scaled.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Cosa succede nelle camere degli adolescenti prima di dormire: uno studio rivoluziona le idee su schermi, sport e snack serali e sfida le raccomandazioni sulle buone abitudini del riposo notturno",
-                "link": "https://www.orizzontescuola.it/cosa-succede-nelle-camere-degli-adolescenti-prima-di-dormire-uno-studio-rivoluziona-le-idee-su-schermi-sport-e-snack-serali-e-sfida-le-raccomandazioni-sulle-buone-abitudini-del-riposo-notturno/",
-                "date": "28 Set 2025",
-                "time": "19:03",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2431380597.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Amianto killer nelle scuole italiane: oltre 400mila tra studenti e docenti esposti ogni giorno, 2.500 istituti ancora contaminati nonostante i divieti. L’allarme choc dell’Osservatorio Nazionale: “Una bomba sanitaria”",
-                "link": "https://www.orizzontescuola.it/amianto-killer-nelle-scuole-italiane-oltre-400mila-tra-studenti-e-docenti-esposti-ogni-giorno-2-500-istituti-ancora-contaminati-nonostante-i-divieti-lallarme-choc-dellosservatorio-nazionale/",
-                "date": "28 Set 2025",
-                "time": "18:23",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/shutterstock_2384798953.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Come l’Intelligenza Artificiale sta riscrivendo le regole della ricerca educativa: sfide, opportunità e le domande scomode che scuotono scuole, docenti e studiosi di tutto il mondo",
-                "link": "https://www.orizzontescuola.it/come-lintelligenza-artificiale-sta-riscrivendo-le-regole-della-ricerca-educativa-sfide-opportunita-e-le-domande-scomode-che-scuotono-scuole-docenti-e-studiosi-di-tutto-il-mondo/",
-                "date": "28 Set 2025",
-                "time": "18:06",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/shutterstock_2599495969.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Negli Usa, il docente usa ChatGPT per le lezioni, la studentessa protesta: “Ci viene proibito di usarlo, mentre lo fa chi ci insegna. Paghiamo per una didattica umana, non per contenuti creati da un algoritmo”",
+                "link": "https://www.orizzontescuola.it/negli-usa-il-docente-usa-chatgpt-per-le-lezioni-la-studentessa-protesta-ci-viene-proibito-di-usarla-mentre-lo-fa-chi-ci-insegna-paghiamo-per-una-didattica-umana-non-per-contenuti-creati-da-un/",
+                "date": "29 Set 2025",
+                "time": "20:22",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "Sciopero scuola il 3 ottobre: avviso Ministero",
+                "link": "https://www.orizzontescuola.it/sciopero-scuola-il-3-ottobre-avviso-ministero/",
+                "date": "29 Set 2025",
+                "time": "19:01",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Bando viaggi d’istruzione e stage linguistici: domande fornitori entro il 3 novembre",
+                "link": "https://www.orizzontescuola.it/bando-viaggi-distruzione-e-stage-linguistici-domande-fornitori-entro-il-3-novembre/",
+                "date": "29 Set 2025",
+                "time": "18:10",
+                "image_link": "N/A"
+            },
             {
                 "category": "Comunicati stampa",
                 "title": "PA, sempre più over 50. Anief: quasi mezzo milione solo di docenti che vengono stabilizzati e mandati in pensione sempre più tardi, servono provvedimenti immediati",
@@ -303,14 +327,6 @@
                 "image_link": "N/A"
             },
             {
-                "category": "Scuole",
-                "title": "Consip avvia la prima gara nazionale per i viaggi scolastici: consentirà alle scuole di acquistare servizi “chiavi in mano” direttamente da imprese qualificate",
-                "link": "https://www.orizzontescuola.it/consip-avvia-la-prima-gara-nazionale-per-i-viaggi-scolastici-consentira-alle-scuole-di-acquistare-servizi-chiavi-in-mano-direttamente-da-imprese-qualificate/",
-                "date": "29 Set 2025",
-                "time": "14:09",
-                "image_link": "N/A"
-            },
-            {
                 "category": "Chiedilo a Lalla",
                 "title": "Graduatorie, interpelli e concorsi: facciamo il punto sulle opportunità per i docenti. QUESTION TIME con Capraro (Gilda)",
                 "link": "https://www.orizzontescuola.it/graduatorie-interpelli-e-concorsi-facciamo-il-punto-sulle-opportunita-per-i-docenti-question-time-con-capraro-gilda-live-lunedi-29-settembre-alle-1430/",
@@ -320,7 +336,7 @@
             },
             {
                 "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: ecco dove le GPS sono già esaurite [AGGIORNATO]",
+                "title": "Supplenze docenti 2025/26: ecco dove le GPS sono esaurite [AGGIORNATO]",
                 "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-26-alcune-gps-gia-esaurite-si-passa-alle-graduatorie-di-istituto/",
                 "date": "29 Set 2025",
                 "time": "14:06",
@@ -396,22 +412,6 @@
                 "link": "https://www.orizzontescuola.it/cuzzupi-ugl-scuola-aumentare-il-potere-dacquisto-degli-stipendi-attraverso-soluzioni-concrete-e-innovative/",
                 "date": "29 Set 2025",
                 "time": "9:56",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "UIL Scuola Rua contro il sabato lavorativo: “Disparità inaccettabile per il personale scolastico all’estero”",
-                "link": "https://www.orizzontescuola.it/uil-scuola-rua-contro-il-sabato-lavorativo-disparita-inaccettabile-per-il-personale-scolastico-allestero/",
-                "date": "29 Set 2025",
-                "time": "9:20",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Genitori",
-                "title": "Dal pannolino all’università: 156mila euro il prezzo di un figlio in Italia, con picchi di 11.750 euro annui nell’adolescenza e costi maggiorati del 20% nelle metropoli. I dati",
-                "link": "https://www.orizzontescuola.it/dal-pannolino-alluniversita-156mila-euro-il-prezzo-di-un-figlio-in-italia-con-picchi-di-11-750-euro-annui-nelladolescenza-e-costi-maggiorati-del-20-nelle-metropoli-i-dati/",
-                "date": "29 Set 2025",
-                "time": "8:52",
                 "image_link": "N/A"
             }
         ]
