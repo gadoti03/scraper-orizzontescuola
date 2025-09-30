@@ -17,6 +17,70 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "Nel 2035 ci saranno 200mila alunni in meno: a rischio scuole e posti di lavoro soprattutto al Sud",
+                "link": "https://www.orizzontescuola.it/nel-2035-ci-saranno-200mila-alunni-in-meno-a-rischio-scuole-e-posti-di-lavoro-soprattutto-al-sud/",
+                "date": "30 Set 2025",
+                "time": "14:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Graduatorie ATA: riserva del 15% anche per il servizio civile nazionale, ma solo in prima fascia",
+                "link": "https://www.orizzontescuola.it/graduatorie-ata-riserva-del-15-anche-per-il-servizio-civile-nazionale-ma-solo-in-prima-fascia/",
+                "date": "30 Set 2025",
+                "time": "12:13",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2459519923.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Riforma Maturità, la Lega propone più risorse per la formazione dei commissari, fino a 11 milioni in più dal 2027. Emendamento al Dl Scuola",
+                "link": "https://www.orizzontescuola.it/riforma-maturita-la-lega-propone-piu-risorse-per-la-formazione-dei-commissari-fino-a-11-milioni-in-piu-dal-2027-emendamento-al-dl-scuola/",
+                "date": "30 Set 2025",
+                "time": "12:12",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/Commissione-Cultura.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Riforma Maturità, il PD chiede di confermare il termine “Esami di Stato” e di chiamare i PCTO con il nome di “Alleanza scuola-lavoro”. Emendamenti al Decreto Scuola",
+                "link": "https://www.orizzontescuola.it/riforma-maturita-il-pd-chiede-di-confermare-il-termine-esami-di-stato-e-di-chiamare-lalternanza-scuola-lavoro-alleanza-scuola-lavoro-emendamenti/",
+                "date": "30 Set 2025",
+                "time": "11:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/10/1-mMgTZCL55BBmMX_agydFTw.jpeg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Secondo ciclo Indire: valido a.s. 2024/25 e servizio utile negli ultimi 8 anni, spostata al 24 aprile 2025 data per il titolo estero. Emendamenti Lega – FdI al Decreto Scuola",
+                "link": "https://www.orizzontescuola.it/secondo-ciclo-indire-valido-a-s-2024-25-e-servizio-utile-negli-ultimi-8-anni-spostata-al-24-aprile-2025-data-per-il-titolo-estero-emendamenti-lega-fdi-al-decreto-scuola/",
+                "date": "30 Set 2025",
+                "time": "11:42",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_2281563893.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: migliaia di INTERPELLI per la ricerca di insegnanti",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "30 Set 2025",
+                "time": "11:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Valditara: “L’intelligenza artificiale potenzia la scuola, ma il docente resta insostituibile”",
+                "link": "https://www.orizzontescuola.it/valditara-lintelligenza-artificiale-potenzia-la-scuola-ma-il-docente-resta-insostituibile/",
+                "date": "30 Set 2025",
+                "time": "11:16",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Screenshot-2025-09-30-alle-11.05.15.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Immissioni in ruolo sostegno da GPS prima fascia e mini call veloce: proroga al 2026. Emendamento Bucalo (FdI) al Decreto Scuola",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-sostegno-da-gps-prima-fascia-e-mini-call-veloce-proroga-al-2026-emendamento-bucalo-fdi-al-decreto-scuola/",
+                "date": "30 Set 2025",
+                "time": "10:36",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_302086268.jpg"
+            },
+            {
                 "category": "Docenti",
                 "title": "Concorso Dirigenti tecnici MIM, prova preselettiva il 3 ottobre. Prorogata l’estrazione: si terrà il 2 alle 16:30",
                 "link": "https://www.orizzontescuola.it/concorso-dirigenti-tecnici-mim-prova-preselettiva-il-3-ottobre-sorteggio-il-giorno-prima/",
@@ -79,7 +143,12 @@
                 "date": "30 Set 2025",
                 "time": "8:27",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_1953654112.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Lo scadenzario delle elezioni degli organi collegiali. Scarica una tabella già pronta all’uso",
@@ -122,12 +191,7 @@
                 "date": "29 Set 2025",
                 "time": "18:17",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Ecco i TeachTokers, quando i professori diventano star sui social: come si ridisegna il confine tra educazione e narrazione digitale con attenzione alla privacy",
@@ -160,14 +224,6 @@
                 "date": "29 Set 2025",
                 "time": "14:09",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_1517274167.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: migliaia di INTERPELLI per la ricerca di insegnanti",
-                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
-                "date": "29 Set 2025",
-                "time": "14:03",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
             },
             {
                 "category": "Politica scolastica",
@@ -208,68 +264,84 @@
                 "date": "29 Set 2025",
                 "time": "11:03",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_409299112-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: le nomine di fine settembre da GPS [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
-                "date": "29 Set 2025",
-                "time": "10:53",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/tfa-sostegno-IX-ciclo.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "Accreditamento Erasmus+ per le scuole: la scadenza del 1° ottobre",
-                "link": "https://www.orizzontescuola.it/accreditamento-erasmus-per-le-scuole-la-scadenza-del-1-ottobre/",
-                "date": "29 Set 2025",
-                "time": "10:46",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/11/shutterstock_1401525788-scaled.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Valditara rilancia: “Il merito nella scuola non è più tabù, anche intellettuali non certo di destra come Recalcati, Canfora e Crepet iniziano a riconoscere la validità dei nostri provvedimenti educativi”",
-                "link": "https://www.orizzontescuola.it/valditara-rilancia-il-merito-nella-scuola-non-e-piu-tabu-anche-intellettuali-di-sinistra-come-recalcati-e-canfora-iniziano-a-riconoscere-la-validita-dei-nostri-provvedimenti-educativi/",
-                "date": "29 Set 2025",
-                "time": "10:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/JobOrienta2024_Veronafiere_EnneviFoto_Valditara_light-scaled.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Per una didattica STEAM incentrata sul processo e non sul risultato, docente e formatrice internazionale: parliamo con Paola Mattioli. INTERVISTA",
-                "link": "https://www.orizzontescuola.it/per-una-didattica-steam-incentrata-sul-processo-e-non-sul-risultato-docente-e-formatrice-internazionale-parliamo-con-paola-mattioli-intervista/",
-                "date": "29 Set 2025",
-                "time": "9:51",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1242074680.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Anche Poste Italiane verso lo SPID a pagamento: 5 euro all’anno. A rischio 28 milioni di utenti",
-                "link": "https://www.orizzontescuola.it/anche-poste-italiane-verso-lo-spid-a-pagamento-5-euro-allanno-a-rischio-28-milioni-di-utenti/",
-                "date": "29 Set 2025",
-                "time": "9:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/12/shutterstock_2055944831-scaled.jpg"
-            },
-            {
-                "category": "Guide",
-                "title": "Docenti, responsabilità penale e civile: sono responsabile degli atti di bullismo? E se uno studente si ferisce da solo? Scheda",
-                "link": "https://www.orizzontescuola.it/docenti-responsabilita-penale-e-civile-sono-responsabile-degli-atti-di-bullismo-e-se-uno-studente-si-ferisce-da-solo-scheda/",
-                "date": "29 Set 2025",
-                "time": "9:32",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_691583158.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Riforma Maturità, Valditara: “Tornano le materie, ormai nel nome dell’interdisciplinarietà non si studiavano quasi più. Chi cerca scorciatoie pretendendo di non sostenere l’orale sarà bocciato”",
-                "link": "https://www.orizzontescuola.it/riforma-maturita-valditara-tornano-le-materie-ormai-nel-nome-dellinterdisciplinarieta-non-si-studiavano-quasi-piu-chi-cerca-scorciatoie-pretendendo-di-non-sostenere-lorale-sara-bocciato/",
-                "date": "29 Set 2025",
-                "time": "9:14",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Valditara-2.png"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Crepet: “preoccupato per giovani indifferenti che stanno a guardare il telefonino. Soprattutto davanti ai massacri terrificanti”",
+                "link": "https://www.orizzontescuola.it/crepet-preoccupato-per-giovani-che-sono-indifferenti-che-stanno-a-guardare-il-telefonino-soprattutto-davanti-ai-massacri-terrificanti/",
+                "date": "30 Set 2025",
+                "time": "12:38",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Genitori",
+                "title": "Oltre il 50% dei nonni prepara la merenda per i nipoti: lo spuntino pomeridiano è il pasto più condiviso. Un rituale quotidiano che vale tre ore al giorno e trasmette valori tra generazioni",
+                "link": "https://www.orizzontescuola.it/oltre-il-50-dei-nonni-prepara-la-merenda-per-i-nipoti-lo-spuntino-pomeridiano-e-il-pasto-piu-condiviso-un-rituale-quotidiano-che-vale-tre-ore-al-giorno-e-trasmette-valori-tra-generazioni/",
+                "date": "30 Set 2025",
+                "time": "12:23",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Stipendi nella Pubblica Amministrazione: crescita del 16% in dieci anni ma l’inflazione al 19% vince la sfida. Dipendenti pubblici con potere d’acquisto reale in calo del 3% dal 2014",
+                "link": "https://www.orizzontescuola.it/stipendi-nella-pubblica-amministrazione-crescita-del-16-in-dieci-anni-ma-linflazione-al-19-vince-la-sfida-dipendenti-pubblici-con-potere-dacquisto-reale-in-calo-del-3-dal-2014/",
+                "date": "30 Set 2025",
+                "time": "12:17",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "Regione Piemonte: al via i bandi per ampliare l’offerta formativa, 1,3 milioni disponibili",
+                "link": "https://www.orizzontescuola.it/regione-piemonte-al-via-i-bandi-per-ampliare-lofferta-formativa-13-milioni-disponibili/",
+                "date": "30 Set 2025",
+                "time": "12:04",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Pubblica Amministrazione sempre più rosa: le donne sono il 59,8% degli addetti e il 60% dei nuovi assunti, ma solo il 4,9% arriva ai vertici dirigenziali contro il 7,4% degli uomini",
+                "link": "https://www.orizzontescuola.it/pubblica-amministrazione-sempre-piu-rosa-le-donne-sono-il-598-degli-addetti-e-il-60-dei-nuovi-assunti-ma-solo-il-49-arriva-ai-vertici-dirigenziali-contro-il-74-degli-uomini/",
+                "date": "30 Set 2025",
+                "time": "12:01",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Valditara: “Social senza limiti e famiglie senza bussola. Servono valori forti e sanzioni efficaci”",
+                "link": "https://www.orizzontescuola.it/valditara-social-senza-limiti-e-famiglie-senza-bussola-servono-valori-forti-e-sanzioni-efficaci/",
+                "date": "30 Set 2025",
+                "time": "11:30",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Studenti",
+                "title": "Borse di studio Supermedia 2025: verifica delle domande e riesami entro il 20 ottobre",
+                "link": "https://www.orizzontescuola.it/borse-di-studio-supermedia-2025-verifica-delle-domande-e-riesami-entro-il-20-ottobre/",
+                "date": "30 Set 2025",
+                "time": "11:17",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Valditara: “Digitalizzazione sì, cellulari in classe no. Non c’è contraddizione”",
+                "link": "https://www.orizzontescuola.it/valditara-digitalizzazione-si-cellulari-in-classe-no-non-ce-contraddizione/",
+                "date": "30 Set 2025",
+                "time": "11:12",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Studenti",
+                "title": "Programma Itaca 2026/27: 1.500 borse di studio per studiare all’estero. Domande dall’8 ottobre al 10 novembre",
+                "link": "https://www.orizzontescuola.it/programma-itaca-2026-27-1-500-borse-di-studio-per-studiare-allestero-domande-dall8-ottobre-al-10-novembre/",
+                "date": "30 Set 2025",
+                "time": "11:11",
+                "image_link": "N/A"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "“Scuole paritarie con esiti di apprendimento superiori”, suor Alfieri: “Libertà di scelta per tutti, basta con le scuole solo per i ricchi”",
@@ -340,78 +412,6 @@
                 "link": "https://www.orizzontescuola.it/anno-di-prova-e-formazione-docenti-neoassunti-in-campania-inaugurazione-l8-ottobre-con-un-seminario-a-citta-della-scienza/",
                 "date": "29 Set 2025",
                 "time": "15:21",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Il volley italiano sul tetto del mondo, ma la Federazione avverte: “Aprite le palestre scolastiche ai bambini che vogliono giocare a pallavolo. Non sono della burocrazia, ma della comunità”",
-                "link": "https://www.orizzontescuola.it/il-volley-italiano-sul-tetto-del-mondo-ma-la-federazione-avverte-aprite-le-palestre-scolastiche-ai-bambini-che-vogliono-giocare-a-pallavolo-non-sono-della-burocrazia-ma-della-comunita/",
-                "date": "29 Set 2025",
-                "time": "14:17",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Graduatorie, interpelli e concorsi: facciamo il punto sulle opportunità per i docenti. QUESTION TIME con Capraro (Gilda)",
-                "link": "https://www.orizzontescuola.it/graduatorie-interpelli-e-concorsi-facciamo-il-punto-sulle-opportunita-per-i-docenti-question-time-con-capraro-gilda-live-lunedi-29-settembre-alle-1430/",
-                "date": "29 Set 2025",
-                "time": "14:09",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: ecco dove le GPS sono esaurite [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-26-alcune-gps-gia-esaurite-si-passa-alle-graduatorie-di-istituto/",
-                "date": "29 Set 2025",
-                "time": "14:06",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Al via le domande per il Bonus Sport 2025: 300 euro per famiglia destinati alle attività extrascolastiche. Tutte le info utili",
-                "link": "https://www.orizzontescuola.it/al-via-le-domande-per-il-bonus-sport-2025-300-euro-per-famiglia-destinati-alle-attivita-extrascolastiche-tutte-le-info-utili/",
-                "date": "29 Set 2025",
-                "time": "13:20",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Roccella: “Se noi stiamo al governo per i prossimi 10 anni, secondo me la sfida demografica la vinciamo”",
-                "link": "https://www.orizzontescuola.it/roccella-se-noi-stiamo-al-governo-per-i-prossimi-10-anni-secondo-me-la-sfida-demografica-la-vinciamo/",
-                "date": "29 Set 2025",
-                "time": "12:50",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Valditara difende il pluralismo scolastico: “Insegnanti non devono indottrinare gli studenti”. E sullo sciopero: “Solo il 7,5% dei docenti ha aderito”",
-                "link": "https://www.orizzontescuola.it/valditara-difende-il-pluralismo-scolastico-insegnanti-non-devono-indottrinare-gli-studenti-e-sullo-sciopero-solo-il-75-dei-docenti-ha-aderito/",
-                "date": "29 Set 2025",
-                "time": "12:27",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Non temete il vuoto, siamo il vostro campo magnetico”, il monologo di Schettini a Le Iene insegna ai ragazzi che l’energia della crescita nasce dall’ansia, dall’inerzia e dalla forza riflessa nello specchio",
-                "link": "https://www.orizzontescuola.it/non-temete-il-vuoto-siamo-il-vostro-campo-magnetico-l-monologo-di-schettini-a-le-iene-insegna-ai-ragazzi-che-lenergia-della-crescita-nasce-dallansia-dallinerzia-e-dalla-forz/",
-                "date": "29 Set 2025",
-                "time": "12:13",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "A Palermo prima aiuto educatrice con disabilità educatrice nella scuola dell’infanzia: Serena e il valore dell’inclusione attiva",
-                "link": "https://www.orizzontescuola.it/a-palermo-prima-aiuto-educatrice-con-disabilita-educatrice-nella-scuola-dellinfanzia-serena-e-il-valore-dellinclusione-attiva/",
-                "date": "29 Set 2025",
-                "time": "11:50",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Studenti",
-                "title": "Premio “Leggersi dentro”: il concorso dedicato ad Annalisa Durante, uccisa dalla camorra a 14 anni. Scadenza 22 dicembre",
-                "link": "https://www.orizzontescuola.it/premio-leggersi-dentro-il-concorso-dedicato-ad-annalisa-durante-uccisa-dalla-camorra-a-14-anni-scadenza-22-dicembre/",
-                "date": "29 Set 2025",
-                "time": "11:15",
                 "image_link": "N/A"
             }
         ]
@@ -697,6 +697,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Educare alla pace: il ruolo della scuola in un mondo di conflitti. Lettera",
+                "link": "https://www.orizzontescuola.it/educare-alla-pace-il-ruolo-della-scuola-in-un-mondo-di-conflitti-lettera/",
+                "date": "30 Set 2025",
+                "time": "11:03",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "Educare i giovani nel tempo dell’intelligenza artificiale. Lettera",
                 "link": "https://www.orizzontescuola.it/educare-i-giovani-nel-tempo-dellintelligenza-artificiale-lettera/",
                 "date": "27 Set 2025",
@@ -733,14 +741,6 @@
                 "link": "https://www.orizzontescuola.it/lingiustizia-sullassegnazione-delle-gps-lettera/",
                 "date": "16 Set 2025",
                 "time": "18:40",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Il dramma della scuola calabrese: l’inizio di un anno senza tutti i docenti di sostegno. Lettera",
-                "link": "https://www.orizzontescuola.it/il-dramma-della-scuola-calabrese-linizio-di-un-anno-senza-tutti-i-docenti-di-sostegno-lettera/",
-                "date": "16 Set 2025",
-                "time": "10:48",
                 "image_link": "N/A"
             }
         ]
