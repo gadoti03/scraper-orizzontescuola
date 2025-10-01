@@ -17,6 +17,46 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "Studente 14enne viene bocciato, ma denuncia atti di bullismo. Il Tar sospende la bocciatura. Cosa hanno detto i giudici",
+                "link": "https://www.orizzontescuola.it/studente-14enne-viene-bocciato-ma-denuncia-atti-di-bullismo-il-tar-sospende-la-bocciatura-cosa-hanno-detto-i-giudici/",
+                "date": "1 Ott 2025",
+                "time": "22:18",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/12/shutterstock_1905525472-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: migliaia di INTERPELLI per la ricerca di insegnanti",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "1 Ott 2025",
+                "time": "21:48",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Acquisti in rete: aggiornate le funzionalità ANAC per l’integrazione con la Piattaforma dei Contratti Pubblici",
+                "link": "https://www.orizzontescuola.it/acquisti-in-rete-aggiornate-le-funzionalita-anac-per-lintegrazione-con-la-piattaforma-dei-contratti-pubblici/",
+                "date": "1 Ott 2025",
+                "time": "18:53",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2467525223.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Agenda Sud e Agenda Nord: 500 milioni di euro per ridurre i divari e contrastare la dispersione scolastica. DECRETI ed elenco delle scuole",
+                "link": "https://www.orizzontescuola.it/agenda-sud-e-agenda-nord-500-milioni-di-euro-per-ridurre-i-divari-e-contrastare-la-dispersione-scolastica-ecco-i-decreti-e-lelenco-delle-scuole/",
+                "date": "1 Ott 2025",
+                "time": "18:46",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_154155695.jpg"
+            },
+            {
+                "category": "Stipendio",
+                "title": "Stipendio, da oggi è possibile scegliere come ricevere i pagamenti tramite l’App NoiPA. Ecco come fare",
+                "link": "https://www.orizzontescuola.it/stipendio-da-oggi-e-possibile-scegliere-come-ricevere-i-pagamenti-tramite-lapp-noipa-ecco-come-fare/",
+                "date": "1 Ott 2025",
+                "time": "18:31",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/03/NOIPA.jpg"
+            },
+            {
                 "category": "Politica scolastica",
                 "title": "UIL Scuola incontra 250 insegnanti tecnico-pratici, Pizzo: “Basta disparità nelle graduatorie di sostegno. Intervento urgente in vista dell’aggiornamento del 2026”",
                 "link": "https://www.orizzontescuola.it/uil-scuola-incontra-250-insegnanti-tecnico-pratici-basta-disparita-nelle-graduatorie-di-sostegno-intervento-urgente-in-vista-dellaggiornamento-del-2026/",
@@ -83,14 +123,6 @@
             },
             {
                 "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: migliaia di INTERPELLI per la ricerca di insegnanti",
-                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
-                "date": "1 Ott 2025",
-                "time": "12:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR3, esclusi alcuni candidati già idonei a PNRR1 e 2. Il paradosso",
                 "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-esclusi-alcuni-candidati-gia-idonei-a-pnrr1-e-2-il-paradosso/",
                 "date": "1 Ott 2025",
@@ -104,7 +136,12 @@
                 "date": "1 Ott 2025",
                 "time": "11:43",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/shutterstock_211281469.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Proseguono le immissioni in ruolo 2025/26 da concorsi PNRR: ecco quando il docente mantiene la stessa sede della supplenza",
@@ -136,12 +173,7 @@
                 "date": "1 Ott 2025",
                 "time": "9:11",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_2352507533.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Studenti",
                 "title": "Scuola, il grande bluff degli Istituti Alberghieri: da MasterChef al crollo di iscritti. Parla un docente",
@@ -232,44 +264,30 @@
                 "date": "30 Set 2025",
                 "time": "16:14",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_48466297.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti docenti: appello alle scuole per il tirocinio. Ecco quali attività sono utili",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-docenti-appello-alle-scuole-per-il-tirocinio-ecco-quali-attivita-sono-utili/",
-                "date": "30 Set 2025",
-                "time": "15:33",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_2023734317-scaled.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Docenti sempre più preparati ma meno riconosciuti: indagine su 9.671 insegnanti rivela che l’88% rifarebbe la scelta nonostante il prestigio in declino da dieci anni",
-                "link": "https://www.orizzontescuola.it/docenti-sempre-piu-preparati-ma-meno-riconosciuti-indagine-su-9-671-insegnanti-rivela-che-l88-rifarebbe-la-scelta-nonostante-il-prestigio-in-declino-da-dieci-anni/",
-                "date": "30 Set 2025",
-                "time": "15:18",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_1134548471.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Reclutamento, Pizzo (Uil Scuola): “Importante apertura della politica sulle GPS. Si va verso un canale strutturale per le assunzioni in ruolo” C’è la volontà di attuare quanto da noi rivendicato da anni”",
-                "link": "https://www.orizzontescuola.it/reclutamento-pizzo-uil-scuola-importante-apertura-della-politica-sulle-gps-si-va-verso-un-canale-strutturale-per-le-assunzioni-in-ruolo-ce-la-volonta-di-attuare-quanto-da-noi-rivendi/",
-                "date": "30 Set 2025",
-                "time": "15:05",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/IMG-20250219-WA0007.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Ore di potenziamento anche nel pomeriggio, ma attenzione a rispetto orario docenti",
-                "link": "https://www.orizzontescuola.it/ore-di-potenziamento-anche-nel-pomeriggio-ma-attenzione-a-rispetto-orario-docenti/",
-                "date": "30 Set 2025",
-                "time": "14:49",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2003113223.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Global Flotilla, proteste in tutta Italia: sciopero generale (anche nel settore pubblico) di Cgil e Usb per venerdì 3 ottobre",
+                "link": "https://www.orizzontescuola.it/global-flotilla-sciopero-e-proteste-agitazione-sindacale-di-cgil-e-usb-per-venerdi-3-ottobre/",
+                "date": "1 Ott 2025",
+                "time": "21:55",
+                "image_link": "N/A"
+            },
+            null,
+            null,
+            {
+                "category": "Cronaca",
+                "title": "Napoli ospita “Next Gen AI”: dall’8 al 13 ottobre il primo summit internazionale sull’Intelligenza Artificiale nella scuola",
+                "link": "https://www.orizzontescuola.it/napoli-ospita-next-gen-ai-dall8-al-13-ottobre-il-primo-summit-internazionale-sullintelligenza-artificiale-nella-scuola/",
+                "date": "1 Ott 2025",
+                "time": "19:03",
+                "image_link": "N/A"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Rinnovo del contratto, la prossima settimana riprendono le trattative: il tempo stringe. Anief rinnova l’invito a confrontarsi sulle risorse approvate e da approvare",
@@ -380,38 +398,6 @@
                 "link": "https://www.orizzontescuola.it/apprendi-quando-ti-emozioni-non-quando-ti-annoi-il-segreto-di-vincenzo-schettini-per-trasformare-la-scuola-in-un-laboratorio-di-entusiasmo-e-scoperta-personale/",
                 "date": "1 Ott 2025",
                 "time": "10:45",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Abbandono scolastico sotto osservazione: il Decreto Caivano impone ai sindaci un ruolo diretto, dal monitoraggio degli studenti fino alle denunce per chi non rispetta l’obbligo d’istruzione",
-                "link": "https://www.orizzontescuola.it/abbandono-scolastico-sotto-osservazione-il-decreto-caivano-impone-ai-sindaci-un-ruolo-diretto-dal-monitoraggio-degli-studenti-fino-alle-denunce-per-chi-non-rispetta-lobbligo-distru/",
-                "date": "1 Ott 2025",
-                "time": "9:51",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Rinnovo contratto scuola, Barbacci (Cisl Scuola): “È il momento di chiudere, nessuno sia autorizzato a confondere la firma di un contratto con il consenso politico”",
-                "link": "https://www.orizzontescuola.it/rinnovo-contratto-scuola-barbacci-cisl-scuola-e-il-momento-di-chiudere-nessuno-sia-autorizzato-a-confondere-la-firma-di-un-contratto-con-il-consenso-politico/",
-                "date": "1 Ott 2025",
-                "time": "9:00",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Reclutamento docenti e riscatto agevolato della laurea. A che punto siamo? SPECIALE con Pacifico (Anief)",
-                "link": "https://www.orizzontescuola.it/riscatto-laurea-a-soli-900-euro-lanno-la-proposta-di-legge-che-cambia-le-regole-per-docenti-e-ata-speciale-con-pacifico-anief-live-mercoledi-1-ottobre-alle-1600/",
-                "date": "1 Ott 2025",
-                "time": "8:33",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Crepet: “Manifestare contro la guerra è un diritto, ma non si rompono le vetrine delle banche e non si blocca il treno di un povero pendolare”",
-                "link": "https://www.orizzontescuola.it/crepet-manifestare-contro-la-guerra-e-un-diritto-ma-non-si-rompono-le-vetrine-delle-banche-e-non-si-blocca-il-treno-di-un-povero-pendolare/",
-                "date": "1 Ott 2025",
-                "time": "8:24",
                 "image_link": "N/A"
             }
         ]
@@ -591,6 +577,14 @@
         "articles": [
             {
                 "category": "ATA",
+                "title": "Permessi ATA per visite ed esami: 18 ore annue, come richiederle",
+                "link": "https://www.orizzontescuola.it/permessi-ata-per-visite-ed-esami-18-ore-annue-come-richiederle/",
+                "date": "23 Set 2025",
+                "time": "10:27",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2154471629.jpg"
+            },
+            {
+                "category": "ATA",
                 "title": "Supplenza docente: quanti punti in graduatoria ATA?",
                 "link": "https://www.orizzontescuola.it/supplenza-docente-quanti-punti-in-graduatoria-ata/",
                 "date": "18 Set 2025",
@@ -628,14 +622,6 @@
                 "date": "12 Set 2025",
                 "time": "11:24",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1129962923-scaled.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Posizioni economiche ATA: il 12 settembre si concludono i corsi di formazione. Test finale probabile a metà ottobre",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-il-12-settembre-si-concludono-i-corsi-di-formazione-test-finale-probabile-a-meta-ottobre/",
-                "date": "11 Set 2025",
-                "time": "10:27",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2198390061.jpg"
             }
         ]
     },
@@ -697,6 +683,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Oltre 40 anni fa, quando era normale il rispetto da parte di quegli alunni semplici e genuini. Lettera",
+                "link": "https://www.orizzontescuola.it/oltre-40-anni-fa-quando-era-normale-il-rispetto-da-parte-di-quegli-alunni-semplici-e-genuini-lettera/",
+                "date": "1 Ott 2025",
+                "time": "21:30",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "Educare alla pace: il ruolo della scuola in un mondo di conflitti. Lettera",
                 "link": "https://www.orizzontescuola.it/educare-alla-pace-il-ruolo-della-scuola-in-un-mondo-di-conflitti-lettera/",
                 "date": "30 Set 2025",
@@ -733,14 +727,6 @@
                 "link": "https://www.orizzontescuola.it/ieri-sera-ho-pianto-la-voce-di-una-docente-dimenticata-dallalgoritmo-lettera/",
                 "date": "23 Set 2025",
                 "time": "14:07",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "L’ingiustizia sull’assegnazione delle GPS. Lettera",
-                "link": "https://www.orizzontescuola.it/lingiustizia-sullassegnazione-delle-gps-lettera/",
-                "date": "16 Set 2025",
-                "time": "18:40",
                 "image_link": "N/A"
             }
         ]
