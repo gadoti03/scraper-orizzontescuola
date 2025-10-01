@@ -16,15 +16,63 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
-            null,
             {
-                "category": "Chiedilo a Lalla",
-                "title": "Concorso PNRR 3, conto alla rovescia per il bando: nuove opportunità per i docenti. QUESTION TIME con Cannas. LIVE Mercoledì 1 ottobre alle 14:30",
-                "link": "https://www.orizzontescuola.it/concorso-pnrr-3-conto-alla-rovescia-per-il-bando-nuove-opportunita-per-i-docenti-question-time-con-cannas-live-mercoledi-1-ottobre-alle-1430/",
+                "category": "Politica scolastica",
+                "title": "UIL Scuola incontra 250 insegnanti tecnico-pratici, Pizzo: “Basta disparità nelle graduatorie di sostegno. Intervento urgente in vista dell’aggiornamento del 2026”",
+                "link": "https://www.orizzontescuola.it/uil-scuola-incontra-250-insegnanti-tecnico-pratici-basta-disparita-nelle-graduatorie-di-sostegno-intervento-urgente-in-vista-dellaggiornamento-del-2026/",
                 "date": "1 Ott 2025",
-                "time": "13:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Template_questiontime_1920x1080-20.png"
+                "time": "17:37",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/IMG-20250219-WA0007.jpg"
             },
+            {
+                "category": "Politica scolastica",
+                "title": "Fondi MOF, firmata l’ipotesi di CCNI: a breve le scuole riceveranno comunicazioni sulle risorse spettanti. TESTO",
+                "link": "https://www.orizzontescuola.it/fondi-mof-firmata-lipotesi-di-ccni-a-breve-le-scuole-riceveranno-comunicazioni-sulle-risorse-spettanti-testo/",
+                "date": "1 Ott 2025",
+                "time": "17:31",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1618026661-scaled.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Il 4 ottobre sarà festa nazionale: via libera definitivo dal Parlamento. Dal 2026 scuole e uffici pubblici chiusi",
+                "link": "https://www.orizzontescuola.it/il-4-ottobre-sara-festa-nazionale-via-libera-definitivo-dal-parlamento-dal-2026-scuole-e-uffici-pubblici-chiusi/",
+                "date": "1 Ott 2025",
+                "time": "16:58",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_1269814924-scaled.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Promozione della lettura in classe. BANDO 2025/26 per abbonamenti a quotidiani, periodici e riviste. NOTA Ministero",
+                "link": "https://www.orizzontescuola.it/promozione-della-lettura-in-classe-bando-2025-26-per-abbonamenti-a-quotidiani-periodici-e-riviste-nota-ministero/",
+                "date": "1 Ott 2025",
+                "time": "16:08",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2517453067.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Contratti PA 2025-2027: arrivano social media manager e digital manager nella Pubblica Amministrazione",
+                "link": "https://www.orizzontescuola.it/contratti-pa-2025-2027-arrivano-social-media-manager-e-digital-manager-nella-pubblica-amministrazione/",
+                "date": "1 Ott 2025",
+                "time": "15:54",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/Zangrillo.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Nasce la Giornata nazionale sul body shaming: la data scelta sarà il 16 maggio e il colore simbolo sarà il fucsia",
+                "link": "https://www.orizzontescuola.it/nasce-la-giornata-nazionale-sul-body-shaming-la-data-scelta-sara-il-16-maggio-e-il-colore-simbolo-sara-il-fucsia/",
+                "date": "1 Ott 2025",
+                "time": "15:35",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_1954351741-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: le nomine di ottobre da GPS [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
+                "date": "1 Ott 2025",
+                "time": "15:08",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/tfa-sostegno-IX-ciclo.png"
+            },
+            null,
             {
                 "category": "Dirigenti scolastici",
                 "title": "Sicurezza scuole, aggiornamento dei dati ARES entro il 3 ottobre. Il Ministero sollecita compilazione. NOTA",
@@ -88,7 +136,12 @@
                 "date": "1 Ott 2025",
                 "time": "9:11",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_2352507533.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Studenti",
                 "title": "Scuola, il grande bluff degli Istituti Alberghieri: da MasterChef al crollo di iscritti. Parla un docente",
@@ -122,26 +175,13 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_2284581609.jpg"
             },
             {
-                "category": "Chiedilo a Lalla",
-                "title": "Reclutamento docenti e riscatto agevolato della laurea. A che punto siamo? SPECIALE con Pacifico (Anief) LIVE Mercoledì 1 ottobre alle 16:00",
-                "link": "https://www.orizzontescuola.it/riscatto-laurea-a-soli-900-euro-lanno-la-proposta-di-legge-che-cambia-le-regole-per-docenti-e-ata-speciale-con-pacifico-anief-live-mercoledi-1-ottobre-alle-1600/",
-                "date": "1 Ott 2025",
-                "time": "8:33",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-01-at-12.23.45.jpeg"
-            },
-            {
                 "category": "Guide",
                 "title": "Sono obbligato agli incontri individuali con i genitori? Solo se deliberati e su appuntamento. La scheda",
                 "link": "https://www.orizzontescuola.it/sono-obbligato-agli-incontri-individuali-con-i-genitori-solo-se-deliberati-e-su-appuntamento-la-scheda/",
                 "date": "1 Ott 2025",
                 "time": "8:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/02/shutterstock_1007096035.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             null,
             null,
             null,
@@ -160,14 +200,6 @@
                 "date": "30 Set 2025",
                 "time": "21:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_1708378216.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: le nomine di fine settembre da GPS [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
-                "date": "30 Set 2025",
-                "time": "18:48",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/tfa-sostegno-IX-ciclo.png"
             },
             {
                 "category": "Diventare Insegnanti",
@@ -232,44 +264,68 @@
                 "date": "30 Set 2025",
                 "time": "14:49",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2003113223.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Nel 2035 ci saranno 200mila alunni in meno: a rischio scuole e posti di lavoro soprattutto al Sud",
-                "link": "https://www.orizzontescuola.it/nel-2035-ci-saranno-200mila-alunni-in-meno-a-rischio-scuole-e-posti-di-lavoro-soprattutto-al-sud/",
-                "date": "30 Set 2025",
-                "time": "14:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Graduatorie ATA: riserva del 15% anche per il servizio civile nazionale, ma solo in prima fascia",
-                "link": "https://www.orizzontescuola.it/graduatorie-ata-riserva-del-15-anche-per-il-servizio-civile-nazionale-ma-solo-in-prima-fascia/",
-                "date": "30 Set 2025",
-                "time": "12:13",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2459519923.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Riforma Maturità, la Lega propone più risorse per la formazione dei commissari, fino a 11 milioni in più dal 2027. Emendamento al Dl Scuola",
-                "link": "https://www.orizzontescuola.it/riforma-maturita-la-lega-propone-piu-risorse-per-la-formazione-dei-commissari-fino-a-11-milioni-in-piu-dal-2027-emendamento-al-dl-scuola/",
-                "date": "30 Set 2025",
-                "time": "12:12",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/Commissione-Cultura.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Riforma Maturità, il PD chiede di confermare il termine “Esami di Stato” e di chiamare i PCTO con il nome di “Alleanza scuola-lavoro”. Emendamenti al Decreto Scuola",
-                "link": "https://www.orizzontescuola.it/riforma-maturita-il-pd-chiede-di-confermare-il-termine-esami-di-stato-e-di-chiamare-lalternanza-scuola-lavoro-alleanza-scuola-lavoro-emendamenti/",
-                "date": "30 Set 2025",
-                "time": "11:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/10/1-mMgTZCL55BBmMX_agydFTw.jpeg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Rinnovo del contratto, la prossima settimana riprendono le trattative: il tempo stringe. Anief rinnova l’invito a confrontarsi sulle risorse approvate e da approvare",
+                "link": "https://www.orizzontescuola.it/rinnovo-del-contratto-la-prossima-settimana-riprendono-le-trattative-il-tempo-stringe-anief-rinnova-linvito-a-confrontarsi-sulle-risorse-approvate-e-da-approvare/",
+                "date": "1 Ott 2025",
+                "time": "17:11",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Smartphone vietati in aula ma oltre la metà resta con gli studenti: il 33% continua a usarli, diffuso lo stratagemma del ‘doppio telefono’. Attenzione migliorata solo nel 9% delle classi",
+                "link": "https://www.orizzontescuola.it/smartphone-vietati-in-aula-ma-oltre-la-meta-resta-con-gli-studenti-il-33-continua-a-usarli-diffuso-lo-stratagemma-del-doppio-telefono-attenzione-migliorata-solo-nel-9-delle-classi/",
+                "date": "1 Ott 2025",
+                "time": "16:44",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "L’incredibile caso di una “falsa” insegnante in Germania: arrestata dopo 4 anni di frodi e oltre 150mila euro intascati. Scoperta dopo un incidente stradale",
+                "link": "https://www.orizzontescuola.it/lincredibile-caso-di-una-falsa-insegnante-in-germania-arrestata-dopo-4-anni-di-frodi-e-oltre-150mila-euro-intascati-scoperta-dopo-un-incidente-stradale/",
+                "date": "1 Ott 2025",
+                "time": "15:46",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Nasce “Italia Semplice”, il portale anti-burocrazia, Zangrillo: “Ad oggi semplificate oltre 350 procedure in 11 settori”",
+                "link": "https://www.orizzontescuola.it/nasce-italia-semplice-il-portale-anti-burocrazia-zangrillo-ad-oggi-semplificate-oltre-350-procedure-in-11-settori/",
+                "date": "1 Ott 2025",
+                "time": "15:23",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Fondi MOF, la Gilda non firma il rinnovo. Castellana: “Le nostre proposte non sono state accolte”",
+                "link": "https://www.orizzontescuola.it/fondi-mof-la-gilda-non-firma-il-rinnovo-castellana-le-nostre-proposte-non-sono-state-accolte/",
+                "date": "1 Ott 2025",
+                "time": "15:19",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: ecco dove le GPS sono esaurite [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-26-alcune-gps-gia-esaurite-si-passa-alle-graduatorie-di-istituto/",
+                "date": "1 Ott 2025",
+                "time": "14:59",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Concorso PNRR 3, conto alla rovescia per il bando: nuove opportunità per i docenti. QUESTION TIME con Cannas",
+                "link": "https://www.orizzontescuola.it/concorso-pnrr-3-conto-alla-rovescia-per-il-bando-nuove-opportunita-per-i-docenti-question-time-con-cannas-live-mercoledi-1-ottobre-alle-1430/",
+                "date": "1 Ott 2025",
+                "time": "13:50",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Nubifragio ad Agrigento, una scuola invasa dall’acqua: la tromba delle scale diventa una cascata. Il video shock",
@@ -343,70 +399,21 @@
                 "image_link": "N/A"
             },
             {
+                "category": "Chiedilo a Lalla",
+                "title": "Reclutamento docenti e riscatto agevolato della laurea. A che punto siamo? SPECIALE con Pacifico (Anief)",
+                "link": "https://www.orizzontescuola.it/riscatto-laurea-a-soli-900-euro-lanno-la-proposta-di-legge-che-cambia-le-regole-per-docenti-e-ata-speciale-con-pacifico-anief-live-mercoledi-1-ottobre-alle-1600/",
+                "date": "1 Ott 2025",
+                "time": "8:33",
+                "image_link": "N/A"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Crepet: “Manifestare contro la guerra è un diritto, ma non si rompono le vetrine delle banche e non si blocca il treno di un povero pendolare”",
                 "link": "https://www.orizzontescuola.it/crepet-manifestare-contro-la-guerra-e-un-diritto-ma-non-si-rompono-le-vetrine-delle-banche-e-non-si-blocca-il-treno-di-un-povero-pendolare/",
                 "date": "1 Ott 2025",
                 "time": "8:24",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Due studenti arrestati dopo il corteo per Gaza a Milano ottengono l’ok per andare a scuola",
-                "link": "https://www.orizzontescuola.it/due-studenti-arrestati-dopo-il-corteo-per-gaza-a-milano-ottengono-lok-per-andare-a-scuola/",
-                "date": "30 Set 2025",
-                "time": "20:38",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Il Ministro Zangrillo ai giovani: “La Pubblica Amministrazione punta su merito e innovazione”",
-                "link": "https://www.orizzontescuola.it/il-ministro-zangrillo-ai-giovani-la-pubblica-amministrazione-punta-su-merito-e-innovazione/",
-                "date": "30 Set 2025",
-                "time": "19:50",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Studenti con disabilità sensoriale, la Lombardia stanzia 26,4 milioni per assistenti e ore aggiuntive",
-                "link": "https://www.orizzontescuola.it/studenti-con-disabilita-sensoriale-la-lombardia-stanzia-264-milioni-per-assistenti-e-ore-aggiuntive/",
-                "date": "30 Set 2025",
-                "time": "19:36",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Precariato, DDL 545 all’esame dei senatori: perché secondo Anief risolverebbe il problema alla base",
-                "link": "https://www.orizzontescuola.it/precariato-ddl-545-allesame-dei-senatori-perche-secondo-anief-risolverebbe-il-problema-alla-base/",
-                "date": "30 Set 2025",
-                "time": "19:29",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Campionato Nazionale delle Lingue 2025/26: iscrizioni scuole aperte fino al 5 dicembre",
-                "link": "https://www.orizzontescuola.it/campionato-nazionale-delle-lingue-2025-2026-iscrizioni-scuole-aperte-fino-al-5-dicembre/",
-                "date": "30 Set 2025",
-                "time": "18:55",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Oltre 300.000 supplenti docenti e ATA, FLC CGIL: “Sul reclutamento serve investimento, no a riforme a costo zero”",
-                "link": "https://www.orizzontescuola.it/oltre-300-000-supplenti-docenti-e-ata-flc-cgil-sul-reclutamento-serve-investimento-no-a-riforme-a-costo-zero/",
-                "date": "30 Set 2025",
-                "time": "18:18",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Reclutamento, Castellana (Gilda): “Chiediamo al Parlamento riforma chiara per procedure trasparenti”",
-                "link": "https://www.orizzontescuola.it/reclutamento-castellana-gilda-chiediamo-al-parlamento-riforma-chiara-per-procedure-trasparenti/",
-                "date": "30 Set 2025",
-                "time": "17:16",
-                "image_link": "N/A"
-            },
-            null
+            }
         ]
     },
     "group_5": {
@@ -531,6 +538,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3: differenze di punteggio tra l’accesso con laurea + tre anni di servizio e abilitazione. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-differenze-di-punteggio-tra-laccesso-con-laurea-tre-anni-di-servizio-e-abilitazione-pillole-di-question-time/",
+                "date": "27 Set 2025",
+                "time": "12:45",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_778370800-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Decreto Scuola, scorrimento sugli idonei rinunciatari da concorsi PNRR e nuovo ciclo Indire con requisiti più ampi. Emendamenti",
                 "link": "https://www.orizzontescuola.it/decreto-scuola-scorrimento-sugli-idonei-rinunciatari-da-concorsi-pnrr-e-nuovo-ciclo-indire-con-requisiti-piu-ampi-emendamenti/",
                 "date": "27 Set 2025",
@@ -568,14 +583,6 @@
                 "date": "26 Set 2025",
                 "time": "10:53",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2003113223.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR3, titolo di specializzazione unico requisito per i posti sostegno. Non contano anni di servizio",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-titolo-di-specializzazione-unico-requisito-per-i-posti-sostegno-non-contano-anni-di-servizio/",
-                "date": "25 Set 2025",
-                "time": "19:24",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/05/shutterstock_199611962.jpg"
             }
         ]
     },
