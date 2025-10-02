@@ -16,6 +16,63 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
+            {
+                "category": "Politica scolastica",
+                "title": "Economie FMOF anni precedenti, oltre 30milioni di euro: verso la firma del CCNI con la ripartizione dei fondi",
+                "link": "https://www.orizzontescuola.it/economie-fmof-anni-precedenti-oltre-30milioni-di-euro-verso-la-firma-del-ccni-con-la-ripartizione-dei-fondi/",
+                "date": "2 Ott 2025",
+                "time": "14:18",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1223398957.jpg"
+            },
+            {
+                "category": "Pensioni",
+                "title": "Pensioni scuola, domande APE sociale e lavoratori precoci entro il 31 agosto. Prima il riconoscimento dall’INPS",
+                "link": "https://www.orizzontescuola.it/pensioni-scuola-domande-ape-sociale-e-lavoratori-precoci-entro-il-31-agosto-prima-il-riconoscimento-dallinps/",
+                "date": "2 Ott 2025",
+                "time": "12:18",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/shutterstock_213616528.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3: anche il servizio civile nazionale darà diritto a riserva ma la percentuale rimane al 15% Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-anche-il-servizio-civile-nazionale-dara-diritto-a-riserva-ma-la-percentuale-rimane-al-15-pillole-di-question-time/",
+                "date": "2 Ott 2025",
+                "time": "12:05",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_606143765.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: migliaia di INTERPELLI per la ricerca di insegnanti",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "2 Ott 2025",
+                "time": "11:42",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Carta del docente: atteso il Decreto che stabilisce importo per a.s. 2025/26. A chi spetterà il bonus. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/carta-del-docente-atteso-il-decreto-che-stabilisce-importo-per-a-s-2025-26-a-chi-spettera-il-bonus-risposte-ai-quesiti/",
+                "date": "2 Ott 2025",
+                "time": "11:05",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2016/12/euro-1647400_960_720.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Fondo ESPERO: elezioni assemblea delegati, con modello di circolare pronta all’uso",
+                "link": "https://www.orizzontescuola.it/fondo-espero-elezioni-assemblea-delegati-con-modello-di-circolare-pronta-alluso/",
+                "date": "2 Ott 2025",
+                "time": "11:04",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/shutterstock_1818500471.jpg"
+            },
+            {
+                "category": "Genitori",
+                "title": "La scuola non sostituisce i genitori: il suo ruolo fondamentale nel Piano nazionale per l’infanzia e l’adolescenza 2025/27",
+                "link": "https://www.orizzontescuola.it/la-scuola-non-sostituisce-i-genitori-il-suo-ruolo-fondamentale-nel-piano-nazionale-per-linfanzia-e-ladolescenza-2025-27/",
+                "date": "2 Ott 2025",
+                "time": "10:38",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/Roccella.jpeg"
+            },
             {
                 "category": "Docenti",
                 "title": "Come compilare il PEI senza errori: la responsabilità del Consiglio nella proposta della Progettazione. RISPOSTE AI QUESITI",
@@ -23,14 +80,6 @@
                 "date": "2 Ott 2025",
                 "time": "10:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/01/shutterstock_448989766.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: migliaia di INTERPELLI per la ricerca di insegnanti",
-                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
-                "date": "2 Ott 2025",
-                "time": "9:58",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
             },
             {
                 "category": "Didattica",
@@ -87,7 +136,12 @@
                 "date": "2 Ott 2025",
                 "time": "9:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_388588420.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Il documento di e-policy. Guida normativa a cura di Anna Armone",
@@ -122,12 +176,7 @@
                 "date": "1 Ott 2025",
                 "time": "18:46",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_154155695.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Stipendio",
                 "title": "Stipendio, da oggi è possibile scegliere come ricevere i pagamenti tramite l’App NoiPA. Ecco come fare",
@@ -208,68 +257,36 @@
                 "date": "1 Ott 2025",
                 "time": "11:43",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/shutterstock_211281469.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Proseguono le immissioni in ruolo 2025/26 da concorsi PNRR: ecco quando il docente mantiene la stessa sede della supplenza",
-                "link": "https://www.orizzontescuola.it/proseguono-le-immissioni-in-ruolo-2025-26-da-concorsi-pnrr-ecco-quando-il-docente-mantiene-la-stessa-sede-della-supplenza/",
-                "date": "1 Ott 2025",
-                "time": "10:54",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Istruzione tecnica e professionale: 210 milioni per laboratori innovativi Ecco le GRADUATORIE",
-                "link": "https://www.orizzontescuola.it/istruzione-tecnica-e-professionale-210-milioni-per-laboratori-innovativi-ecco-le-graduatorie/",
-                "date": "1 Ott 2025",
-                "time": "10:39",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Oxford apre a ChatGPT Edu: per il Presidente ANP Friuli Venezia Giulia Luca Gervasutti un segnale che l’Italia non può ignorare",
-                "link": "https://www.orizzontescuola.it/oxford-apre-a-chatgpt-edu-per-il-presidente-anp-friuli-venezia-giulia-luca-gervasutti-un-segnale-che-litalia-non-puo-ignorare/",
-                "date": "1 Ott 2025",
-                "time": "9:35",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_2471286741.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "L’età giusta di un insegnante per andare in pensione? “Immaginate un insegnante di 67 anni a correre dietro a bimbi di 3 anni…”",
-                "link": "https://www.orizzontescuola.it/leta-giusta-di-un-insegnante-per-andare-in-pensione-immaginate-un-insegnante-di-67-anni-a-correre-dietro-a-bimbi-di-3-anni/",
-                "date": "1 Ott 2025",
-                "time": "9:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_2352507533.jpg"
-            },
-            {
-                "category": "Studenti",
-                "title": "Scuola, il grande bluff degli Istituti Alberghieri: da MasterChef al crollo di iscritti. Parla un docente",
-                "link": "https://www.orizzontescuola.it/scuola-il-grande-bluff-degli-istituti-alberghieri-da-masterchef-al-crollo-di-iscritti-parla-un-docente/",
-                "date": "1 Ott 2025",
-                "time": "9:09",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_1927957907.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Studente-atleta di alto livello viene bocciato, fa ricorso al TAR, ma lo perde. I giudici: “Preparazione insufficiente, la bocciatura non ha intento punitivo”",
-                "link": "https://www.orizzontescuola.it/studente-atleta-di-alto-livello-viene-bocciato-fa-ricorso-al-tar-ma-lo-perde-i-giudici-preparazione-insufficiente-la-bocciatura-non-ha-intento-punitivo/",
-                "date": "1 Ott 2025",
-                "time": "9:07",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/12/shutterstock_1905525472-scaled.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Caro affitti insostenibile in alcune città per un docente neoassunto con stipendio iniziale di 1.350 euro: quali soluzioni?",
-                "link": "https://www.orizzontescuola.it/caro-affitti-insostenibile-in-alcune-citta-per-un-docente-neoassunto-con-stipendio-iniziale-di-1-350-euro-quali-soluzioni/",
-                "date": "1 Ott 2025",
-                "time": "9:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/shutterstock_2408468955-scaled.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: ecco dove le GPS sono esaurite [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-26-alcune-gps-gia-esaurite-si-passa-alle-graduatorie-di-istituto/",
+                "date": "2 Ott 2025",
+                "time": "11:35",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "Filiera 4+2, bando della Fondazione per la scuola italiana: 600mila euro per premiare le 20 filiere più efficaci. Candidature entro il 24 ottobre",
+                "link": "https://www.orizzontescuola.it/filiera-42-bando-della-fondazione-per-la-scuola-italiana-candidature-entro-il-24-ottobre/",
+                "date": "2 Ott 2025",
+                "time": "11:17",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "La CISL Scuola sarà presente alla Marcia Perugia Assisi del 12 ottobre, un appuntamento dedicato alla pace e alla fraternità",
+                "link": "https://www.orizzontescuola.it/la-cisl-scuola-sara-presente-alla-marcia-perugia-assisi-del-12-ottobre-un-appuntamento-dedicato-alla-pace-e-alla-fraternita/",
+                "date": "2 Ott 2025",
+                "time": "11:06",
+                "image_link": "N/A"
+            },
             {
                 "category": "ATA",
                 "title": "Interpello ATA profilo Infermiera supplenza fino al 31 agosto a Belluno",
@@ -353,14 +370,6 @@
                 "image_link": "N/A"
             },
             {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: ecco dove le GPS sono esaurite [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-26-alcune-gps-gia-esaurite-si-passa-alle-graduatorie-di-istituto/",
-                "date": "1 Ott 2025",
-                "time": "14:59",
-                "image_link": "N/A"
-            },
-            {
                 "category": "Chiedilo a Lalla",
                 "title": "Concorso PNRR 3, conto alla rovescia per il bando: nuove opportunità per i docenti. QUESTION TIME con Cannas",
                 "link": "https://www.orizzontescuola.it/concorso-pnrr-3-conto-alla-rovescia-per-il-bando-nuove-opportunita-per-i-docenti-question-time-con-cannas-live-mercoledi-1-ottobre-alle-1430/",
@@ -383,28 +392,20 @@
                 "date": "1 Ott 2025",
                 "time": "12:40",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Dalla povertà del Bihar al trionfo mondiale: la straordinaria ascesa di Adarsh Kumar, lo studente che ha vinto il Global Student Prize 2025 con un progetto capace di cambiare migliaia di vite",
-                "link": "https://www.orizzontescuola.it/dalla-poverta-del-bihar-al-trionfo-mondiale-la-straordinaria-ascesa-di-adarsh-kumar-lo-studente-che-ha-vinto-il-global-student-prize-2025-con-un-progetto-capace-di-cambiare-migliaia-di-vite/",
-                "date": "1 Ott 2025",
-                "time": "12:32",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "A Platì ecco l’intelligenza artificiale a scuola: “Non usiamo ChatGPT, ma Classroom con funzioni di IA. La sperimentazione funziona”",
-                "link": "https://www.orizzontescuola.it/a-plati-ecco-lintelligenza-artificiale-a-scuola-non-usiamo-chatgpt-ma-classroom-con-funzioni-di-ia-la-sperimentazione-funziona/",
-                "date": "1 Ott 2025",
-                "time": "12:25",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Proseguono le immissioni in ruolo 2025/26 da concorsi PNRR: ecco quando il docente mantiene la stessa sede della supplenza",
+                "link": "https://www.orizzontescuola.it/proseguono-le-immissioni-in-ruolo-2025-26-da-concorsi-pnrr-ecco-quando-il-docente-mantiene-la-stessa-sede-della-supplenza/",
+                "date": "1 Ott 2025",
+                "time": "10:54",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Docente in part-time: consigli di classe quando non ho lezioni. Cosa si può fare?",
@@ -507,14 +508,6 @@
                 "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-25-26-docente-gia-assunto-puo-accettare-nuova-nomina-a-prescindere-dalla-s-della-precedente-assunzione/",
                 "date": "8 Set 2025",
                 "time": "17:29",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Permessi matrimonio ATA e docenti di ruolo o supplenti: quando si possono prendere i 15 giorni",
-                "link": "https://www.orizzontescuola.it/permessi-matrimonio-ata-e-docenti-di-ruolo-o-supplenti-quando-si-possono-prendere-i-15-giorni/",
-                "date": "8 Set 2025",
-                "time": "10:59",
                 "image_link": "N/A"
             }
         ]
@@ -630,6 +623,14 @@
         "articles": [
             {
                 "category": "Didattica",
+                "title": "Compiti autentici e potenziamento cognitivo: perché il cervello adolescente ha bisogno di realtà?",
+                "link": "https://www.orizzontescuola.it/compiti-autentici-e-potenziamento-cognitivo-perche-il-cervello-adolescente-ha-bisogno-di-realta/",
+                "date": "15 Set 2025",
+                "time": "10:03",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_2021714885.jpg"
+            },
+            {
+                "category": "Didattica",
                 "title": "“Non sei pronta per la matematica”, “Non sei da liceo”: valutare non è condannare. Dalla lezione di Edoardo Prati al bisogno di una nuova scuola",
                 "link": "https://www.orizzontescuola.it/non-sei-pronta-per-la-matematica-non-sei-da-liceo-valutare-non-e-condannare-dalla-lezione-di-edoardo-prati-al-bisogno-di-una-nuova-scuola/",
                 "date": "10 Set 2025",
@@ -667,14 +668,6 @@
                 "date": "5 Set 2025",
                 "time": "8:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_1522924052-scaled.jpg"
-            },
-            {
-                "category": "Didattica",
-                "title": "Usare The Martian per fare didattica: un percorso interdisciplinare dalla scienza alla tecnologia, dall’inglese alla scrittura creativa. Usare il cinema per insegnare",
-                "link": "https://www.orizzontescuola.it/usare-the-martian-per-fare-didattica-un-percorso-interdisciplinare-dalla-scienza-alla-tecnologia-dallinglese-alla-scrittura-creativa-usare-il-cinema-per-insegnare/",
-                "date": "3 Set 2025",
-                "time": "15:47",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/Screenshot-2025-08-27-155030.png"
             }
         ]
     },
