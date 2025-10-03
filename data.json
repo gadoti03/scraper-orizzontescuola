@@ -3,12 +3,12 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
-                "category": "Guide",
-                "title": "Preghiere e atti di culto a scuola: cosa è consentito e cosa no. Scheda",
-                "link": "https://www.orizzontescuola.it/preghiere-e-atti-di-culto-a-scuola-cosa-e-consentito-e-cosa-no-scheda/",
-                "date": "2 Ott 2025",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_2629705971.jpg"
+                "category": "Cronaca",
+                "title": "“In pensione a 60 anni? Mai stanca, a fine carriera avevo una classe con soli 4 italiani e ho sperimentato il Reciprocal Teaching”, parla l’ex maestra Lorena Ronchi. INTERVISTA",
+                "link": "https://www.orizzontescuola.it/in-pensione-a-60-anni-mai-stanca-a-fine-carriera-avevo-una-classe-con-soli-4-italiani-e-ho-sperimentato-il-reciprocal-teaching-parla-lex-maestra-lorena-ronchi-intervista/",
+                "date": "3 Ott 2025",
+                "time": "8:02",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Progetto-senza-titolo.png"
             },
             null
         ]
@@ -16,6 +16,65 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Valditara: “La Costituzione mette la persona al centro della democrazia. Dignità, pace e famiglia siano valori imprescindibili”",
+                "link": "https://www.orizzontescuola.it/valditara-la-costituzione-mette-la-persona-al-centro-della-democrazia-dignita-pace-e-famiglia-siano-valori-imprescindibili/",
+                "date": "3 Ott 2025",
+                "time": "10:12",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/JobOrienta2024_Veronafiere_EnneviFoto_Valditara_light-scaled.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Bonus 2025 studenti diplomati con 100 e lode: NOTA assegnazione fondi",
+                "link": "https://www.orizzontescuola.it/bonus-2025-studenti-diplomati-con-100-e-lode-nota-assegnazione-fondi/",
+                "date": "3 Ott 2025",
+                "time": "10:07",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_1021963270.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Percorsi abilitanti docenti 2025/26 da 30, 36 e 60 CFU per laureati, laureandi, vincitori PNRR neoassunti. NOTA MUR",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-docenti-2025-26-da-30-36-e-60-cfu-per-laureati-laureandi-vincitori-pnrr-neoassunti-nota-mur/",
+                "date": "3 Ott 2025",
+                "time": "9:41",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_1937156512.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: migliaia di INTERPELLI per la ricerca di insegnanti",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "3 Ott 2025",
+                "time": "8:53",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
+            },
+            {
+                "category": "Studenti",
+                "title": "ChatGpt, predominanza assoluta tra gli studenti. Perché? Per l’immediata applicabilità all’ambito scolastico",
+                "link": "https://www.orizzontescuola.it/chatgpt-predominanza-assoluta-tra-gli-studenti-perche-per-limmediata-applicabilita-allambito-scolastico/",
+                "date": "3 Ott 2025",
+                "time": "8:45",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_2237091713-scaled.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Sono possibili programmazioni diverse per disciplina? Cosa prevede il PEI. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/sono-possibili-programmazioni-diverse-per-disciplina-cosa-prevede-il-pei-pillole-di-question-time/",
+                "date": "3 Ott 2025",
+                "time": "8:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2487342921-scaled.jpg"
+            },
+            {
+                "category": "Didattica",
+                "title": "Un nonno in classe: educazione intergenerazionale e Service Learning",
+                "link": "https://www.orizzontescuola.it/un-nonno-in-classe-educazione-intergenerazionale-e-service-learning/",
+                "date": "3 Ott 2025",
+                "time": "8:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_1438419599.jpg"
+            },
+            null,
+            null,
+            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze docenti 2025/26: le nomine di ottobre da GPS [AGGIORNATO con quarto turno Roma]",
@@ -63,7 +122,12 @@
                 "date": "2 Ott 2025",
                 "time": "18:33",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2322853035.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Percorsi abilitanti docenti 2025/26: il MUR dà le indicazioni alle Università. Offerte formative entro il 24 ottobre",
@@ -98,14 +162,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2431380597.jpg"
             },
             {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: migliaia di INTERPELLI per la ricerca di insegnanti",
-                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
-                "date": "2 Ott 2025",
-                "time": "15:13",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
-            },
-            {
                 "category": "Cronaca",
                 "title": "In Italia la media è di 11 alunni per docente (tra i valori più bassi), in Europa 12,2. Record nei Paesi Bassi con 16 alunni. I dati Eurostat",
                 "link": "https://www.orizzontescuola.it/in-italia-la-media-e-di-11-alunni-per-docente-tra-le-piu-basse-in-europa-122-record-nei-paesi-bassi-con-16-alunni-i-dati-eurostat/",
@@ -129,12 +185,7 @@
                 "date": "2 Ott 2025",
                 "time": "14:18",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1223398957.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Pensioni",
                 "title": "Pensioni scuola, domande APE sociale e lavoratori precoci entro il 31 agosto. Prima il riconoscimento dall’INPS",
@@ -206,63 +257,44 @@
                 "date": "2 Ott 2025",
                 "time": "9:36",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_1918252379.jpg"
-            },
-            {
-                "category": "Didattica",
-                "title": "Imparare con la tecnologia oltre l’aula: dal Maker Lab (costruire per apprendere), alla didattica immersiva a distanza (con il caso V‑Lab)",
-                "link": "https://www.orizzontescuola.it/imparare-con-la-tecnologia-oltre-laula-dal-maker-lab-costruire-per-apprendere-alla-didattica-immersiva-a-distanza-con-il-caso-v%e2%80%91lab/",
-                "date": "2 Ott 2025",
-                "time": "9:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_1652722261.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Precariato scolastico e pensioni, Pacifico (Anief): “Solo con nuove assunzioni e riscatto agevolato della laurea si può garantire vera continuità didattica”",
-                "link": "https://www.orizzontescuola.it/precariato-scolastico-e-pensioni-pacifico-anief-solo-con-nuove-assunzioni-e-riscatto-agevolato-della-laurea-si-puo-garantire-vera-continuita-didattica/",
-                "date": "2 Ott 2025",
-                "time": "9:14",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/Pacifico.jpeg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR 3, requisiti di accesso, riserva, punteggio. RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr-3-requisiti-di-accesso-riserva-punteggio-risposte-ai-quesiti/",
-                "date": "2 Ott 2025",
-                "time": "9:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_388588420.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Il documento di e-policy. Guida normativa a cura di Anna Armone",
-                "link": "https://www.orizzontescuola.it/il-documento-di-e-policy-guida-normativa-a-cura-di-anna-armone/",
-                "date": "2 Ott 2025",
-                "time": "7:49",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_2630658341.jpg"
-            },
-            null,
-            null,
-            null,
-            {
-                "category": "Cronaca",
-                "title": "Studente 14enne viene bocciato, ma denuncia atti di bullismo. Il Tar sospende la bocciatura. Cosa hanno detto i giudici",
-                "link": "https://www.orizzontescuola.it/studente-14enne-viene-bocciato-ma-denuncia-atti-di-bullismo-il-tar-sospende-la-bocciatura-cosa-hanno-detto-i-giudici/",
-                "date": "1 Ott 2025",
-                "time": "22:18",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/12/shutterstock_1905525472-scaled.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Acquisti in rete: aggiornate le funzionalità ANAC per l’integrazione con la Piattaforma dei Contratti Pubblici",
-                "link": "https://www.orizzontescuola.it/acquisti-in-rete-aggiornate-le-funzionalita-anac-per-lintegrazione-con-la-piattaforma-dei-contratti-pubblici/",
-                "date": "1 Ott 2025",
-                "time": "18:53",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2467525223.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Dirigenti scolastici",
+                "title": "Il 16 ottobre seminario MIM “Cultura classica e formazione contemporanea”: iscrizioni DS e docenti entro l’11. NOTA",
+                "link": "https://www.orizzontescuola.it/il-16-ottobre-seminario-mim-cultura-classica-e-formazione-contemporanea-iscrizioni-ds-e-docenti-entro-l11-nota/",
+                "date": "3 Ott 2025",
+                "time": "10:15",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "Programma Unicef Scuole per i diritti dell’infanzia e dell’adolescenza: iscrizioni entro il 20 ottobre. NOTA",
+                "link": "https://www.orizzontescuola.it/programma-unicef-scuole-per-i-diritti-dellinfanzia-e-delladolescenza-iscrizioni-entro-il-20-ottobre-nota/",
+                "date": "3 Ott 2025",
+                "time": "9:23",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Il governo approva il Documento Programmatico di finanza pubblica: deficit al 3% e debito in calo dal 2027",
+                "link": "https://www.orizzontescuola.it/il-governo-approva-il-documento-programmatico-di-finanza-pubblica-deficit-al-3-e-debito-in-calo-dal-2027/",
+                "date": "3 Ott 2025",
+                "time": "8:47",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Sciopero generale 3 ottobre, per il Garante è illegittimo: “Il problema è il mancato preavviso, non stiamo giudicando le motivazioni dello sciopero”",
+                "link": "https://www.orizzontescuola.it/sciopero-generale-3-ottobre-per-il-garante-e-illegittimo-il-problema-e-il-mancato-preavviso-non-stiamo-giudicando-le-motivazioni-dello-sciopero/",
+                "date": "3 Ott 2025",
+                "time": "8:08",
+                "image_link": "N/A"
+            },
             {
                 "category": "Scuole",
                 "title": "Sciopero scuola il 3 ottobre: adesione di altre sigle sindacali, nuovo AVVISO del Ministero",
@@ -367,25 +399,7 @@
                 "date": "2 Ott 2025",
                 "time": "10:22",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Custodire il presente, costruire il futuro”: a Roma la Conferenza nazionale sull’infanzia e l’adolescenza (2-3 ottobre)",
-                "link": "https://www.orizzontescuola.it/custodire-il-presente-costruire-il-futuro-a-roma-la-conferenza-nazionale-sullinfanzia-e-ladolescenza-2-3-ottobre/",
-                "date": "2 Ott 2025",
-                "time": "10:10",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "La ex maestra malata di Alzheimer riabbraccia i suoi vecchi studenti grazie alla figlia",
-                "link": "https://www.orizzontescuola.it/la-ex-maestra-malata-di-alzheimer-riabbraccio-i-suoi-vecchi-studenti-grazie-alla-figlia/",
-                "date": "2 Ott 2025",
-                "time": "9:00",
-                "image_link": "N/A"
-            },
-            null,
-            null
+            }
         ]
     },
     "group_5": {
@@ -510,6 +524,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Immissioni in ruolo sostegno da GPS prima fascia e mini call veloce: proroga al 2026. Emendamento Bucalo (FdI) al Decreto Scuola",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-sostegno-da-gps-prima-fascia-e-mini-call-veloce-proroga-al-2026-emendamento-bucalo-fdi-al-decreto-scuola/",
+                "date": "30 Set 2025",
+                "time": "10:36",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_302086268.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Si può partecipare contemporaneamente al concorso PNRR3 per insegnanti su materia e sostegno, anche per lo stesso grado. Quante prove bisognerà svolgere",
                 "link": "https://www.orizzontescuola.it/si-puo-partecipare-contemporaneamente-al-concorso-pnrr3-per-insegnanti-su-materia-e-sostegno-anche-per-lo-stesso-grado-quante-prove-bisognera-svolgere/",
                 "date": "29 Set 2025",
@@ -547,14 +569,6 @@
                 "date": "27 Set 2025",
                 "time": "12:45",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_778370800-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Decreto Scuola, scorrimento sugli idonei rinunciatari da concorsi PNRR e nuovo ciclo Indire con requisiti più ampi. Emendamenti",
-                "link": "https://www.orizzontescuola.it/decreto-scuola-scorrimento-sugli-idonei-rinunciatari-da-concorsi-pnrr-e-nuovo-ciclo-indire-con-requisiti-piu-ampi-emendamenti/",
-                "date": "27 Set 2025",
-                "time": "11:33",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/Pittoni.jpeg"
             }
         ]
     },
@@ -669,6 +683,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Scuola: il bivio educativo. Ubbidire o crescere? Lettera",
+                "link": "https://www.orizzontescuola.it/scuola-il-bivio-educativo-ubbidire-o-crescere-lettera/",
+                "date": "3 Ott 2025",
+                "time": "9:26",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "Oltre 40 anni fa, quando era normale il rispetto da parte di quegli alunni semplici e genuini. Lettera",
                 "link": "https://www.orizzontescuola.it/oltre-40-anni-fa-quando-era-normale-il-rispetto-da-parte-di-quegli-alunni-semplici-e-genuini-lettera/",
                 "date": "1 Ott 2025",
@@ -705,14 +727,6 @@
                 "link": "https://www.orizzontescuola.it/generazione-dsm-cosi-la-scuola-fabbrica-malati-immaginari-lettera/",
                 "date": "25 Set 2025",
                 "time": "10:21",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Ieri sera ho pianto. La voce di una docente dimenticata dall’algoritmo. Lettera",
-                "link": "https://www.orizzontescuola.it/ieri-sera-ho-pianto-la-voce-di-una-docente-dimenticata-dallalgoritmo-lettera/",
-                "date": "23 Set 2025",
-                "time": "14:07",
                 "image_link": "N/A"
             }
         ]
