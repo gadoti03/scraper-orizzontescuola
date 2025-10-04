@@ -3,19 +3,91 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
-                "category": "Cronaca",
-                "title": "“In pensione a 60 anni? Mai stanca, a fine carriera avevo una classe con soli 4 italiani e ho sperimentato il Reciprocal Teaching”, parla l’ex maestra Lorena Ronchi. INTERVISTA",
-                "link": "https://www.orizzontescuola.it/in-pensione-a-60-anni-mai-stanca-a-fine-carriera-avevo-una-classe-con-soli-4-italiani-e-ho-sperimentato-il-reciprocal-teaching-parla-lex-maestra-lorena-ronchi-intervista/",
-                "date": "3 Ott 2025",
-                "time": "8:02",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Progetto-senza-titolo.png"
-            },
-            null
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3: requisiti, posti, prove [Speciale BOZZA Bando]",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-requisiti-posti-prove-speciale-bozza-bando/",
+                "date": "4 Ott 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Concorso-docenti-PNRR3.png"
+            }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Valditara: “Ragioniamo sull’incremento degli stipendi per il contratto 2025-2027”. E sull’intelligenza artificiale: “Sì al suo ingresso a scuola, ma carta e penna restano fondamentali per l’apprendimento”",
+                "link": "https://www.orizzontescuola.it/valditara-ragioniamo-sullincremento-degli-stipendi-per-il-contratto-2025-2027-e-sullintelligenza-artificiale-si-al-suo-ingresso-a-scuola-ma-carta-e-penna-restano-fondamentali-per-lappr/",
+                "date": "4 Ott 2025",
+                "time": "10:21",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/Valditara-4.jpeg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Alpha School: la scuola americana dove l’intelligenza artificiale prende il posto dei docenti e ridisegna il futuro dell’istruzione privata tra sfide, dubbi e progetti innovativi per le nuove generazioni",
+                "link": "https://www.orizzontescuola.it/alpha-school-la-scuola-americana-dove-lintelligenza-artificiale-prende-il-posto-dei-docenti-e-ridisegna-il-futuro-dellistruzione-privata-tra-sfide-dubbi-e-progetti-innovativi-per-l/",
+                "date": "4 Ott 2025",
+                "time": "10:16",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_2425860711.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: migliaia di INTERPELLI per la ricerca di insegnanti",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "4 Ott 2025",
+                "time": "10:14",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
+            },
+            {
+                "category": "Genitori",
+                "title": "Bonus 40 euro alle mamme lavoratrici, il governo promette il potenziamento della misura. Chi ha diritto al contributo e come richiederlo",
+                "link": "https://www.orizzontescuola.it/bonus-40-euro-alle-mamme-lavoratrici-il-governo-promette-il-potenziamento-della-misura-chi-ha-diritto-al-contributo-e-come-richiederlo/",
+                "date": "4 Ott 2025",
+                "time": "10:06",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/111.-12_8-Avviso-NoiPA_-novita-Bonus-mamme-lavoratrici.-Verifica-le-opportunita.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: le nomine di ottobre da GPS [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
+                "date": "4 Ott 2025",
+                "time": "9:59",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/tfa-sostegno-IX-ciclo.png"
+            },
+            {
+                "category": "Studenti",
+                "title": "Europa multilingue: cresce l’apprendimento delle lingue straniere nelle scuole UE, Italia a due facce",
+                "link": "https://www.orizzontescuola.it/europa-multilingue-cresce-lapprendimento-delle-lingue-straniere-nelle-scuole-ue-italia-a-due-facce/",
+                "date": "4 Ott 2025",
+                "time": "9:14",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/certificazioni-linguistiche-clil.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Oltre i dati: quale scuola nell’era dell’intelligenza artificiale?",
+                "link": "https://www.orizzontescuola.it/oltre-i-dati-quale-scuola-nellera-dellintelligenza-artificiale/",
+                "date": "4 Ott 2025",
+                "time": "9:02",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1668200203.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Il 4 ottobre torna festa nazionale: San Francesco d’Assisi Patrono d’Italia celebrato per legge. Dal 2026 scuole e uffici pubblici chiusi",
+                "link": "https://www.orizzontescuola.it/il-4-ottobre-torna-festa-nazionale-san-francesco-dassisi-patrono-ditalia-celebrato-per-legge-dal-2026-scuole-e-uffici-pubblici-chiusi/",
+                "date": "4 Ott 2025",
+                "time": "8:18",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2338262217.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Viaggi di istruzione: novità con un modello di circolare già pronto all’uso + Guida aggiornata per la loro gestione",
+                "link": "https://www.orizzontescuola.it/viaggi-di-istruzione-novita-con-un-modello-di-circolare-gia-pronto-alluso-guida-aggiornata-per-la-loro-gestione/",
+                "date": "4 Ott 2025",
+                "time": "7:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/shutterstock_1530295208.jpg"
+            },
+            null,
             {
                 "category": "Cronaca",
                 "title": "“L’intelligenza artificiale come banco dei pegni”, Crepet lancia l’allarme sul declino cognitivo dei giovani. QI in calo da 30 anni, oltre 70mila ragazzi dipendenti dai chatbot: “Stiamo diventando idioti isolati”",
@@ -63,7 +135,12 @@
                 "date": "3 Ott 2025",
                 "time": "15:38",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Progetto-senza-titolo-2.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             null,
             {
                 "category": "Cronaca",
@@ -123,32 +200,11 @@
             },
             {
                 "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: migliaia di INTERPELLI per la ricerca di insegnanti",
-                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
-                "date": "3 Ott 2025",
-                "time": "11:06",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
                 "title": "Educazione Motoria alla Primaria, il ruolo dei docenti specialisti resta un rebus. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/educazione-motoria-alla-primaria-il-ruolo-dei-docenti-specialisti-resta-un-rebus-pillole-di-question-time/",
                 "date": "3 Ott 2025",
                 "time": "10:58",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2384798515.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: le nomine di ottobre da GPS [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
-                "date": "3 Ott 2025",
-                "time": "10:48",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/tfa-sostegno-IX-ciclo.png"
             },
             {
                 "category": "Diventare Insegnanti",
@@ -206,70 +262,44 @@
                 "time": "8:11",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_1438419599.jpg"
             },
-            null,
-            null,
-            null,
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti: ci sarà un nuovo ciclo utile per il concorso docenti PNRR3? Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-ci-sara-un-nuovo-ciclo-utile-per-il-concorso-docenti-pnrr3-pillole-di-question-time/",
-                "date": "2 Ott 2025",
-                "time": "20:04",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_2151065011.jpg"
-            },
             {
                 "category": "Cronaca",
-                "title": "Incentivi al 100% per la riqualificazione degli edifici scolastici nei piccoli Comuni: ecco come il Conto Termico 3.0 trasformerà il futuro dell’efficienza energetica e il benessere degli studenti",
-                "link": "https://www.orizzontescuola.it/incentivi-al-100-per-la-riqualificazione-degli-edifici-scolastici-nei-piccoli-comuni-ecco-come-il-conto-termico-3-0-trasformera-il-futuro-dellefficienza-energetica-e-il-benessere-degli-studenti/",
-                "date": "2 Ott 2025",
-                "time": "19:46",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/03/Pannelli-fotovoltaici-5.png"
+                "title": "“In pensione a 60 anni? Mai stanca, a fine carriera avevo una classe con soli 4 italiani e ho sperimentato il Reciprocal Teaching”, parla l’ex maestra Lorena Ronchi. INTERVISTA",
+                "link": "https://www.orizzontescuola.it/in-pensione-a-60-anni-mai-stanca-a-fine-carriera-avevo-una-classe-con-soli-4-italiani-e-ho-sperimentato-il-reciprocal-teaching-parla-lex-maestra-lorena-ronchi-intervista/",
+                "date": "3 Ott 2025",
+                "time": "8:02",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Progetto-senza-titolo.png"
             },
-            {
-                "category": "Cronaca",
-                "title": "Quando l’assenza non basta: il TAR smonta la bocciatura automatica di una studentessa e ordina alle scuole di spiegare davvero le loro scelte sulla non ammissione",
-                "link": "https://www.orizzontescuola.it/quando-lassenza-non-basta-il-tar-smonta-la-bocciatura-automatica-di-una-studentessa-e-ordina-alle-scuole-di-spiegare-davvero-le-loro-scelte-sulla-non-ammissione/",
-                "date": "2 Ott 2025",
-                "time": "19:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_675123196.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "L’Italia dei DSA a due velocità: perché al Sud le diagnosi restano ferme al 2,8% contro l’8% del Nord e cosa rischiano migliaia di studenti in attesa di una presa in carico tempestiva",
-                "link": "https://www.orizzontescuola.it/litalia-dei-dsa-a-due-velocita-perche-al-sud-le-diagnosi-restano-ferme-al-28-contro-l8-del-nord-e-cosa-rischiano-migliaia-di-studenti-in-attesa-di-una-presa-in-carico-tempestiva/",
-                "date": "2 Ott 2025",
-                "time": "19:05",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/shutterstock_1508556191.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Valorizzazione delle eccellenze: riconoscimenti e premi agli studenti per le competizioni del 2023/24. DECRETO",
-                "link": "https://www.orizzontescuola.it/valorizzazione-delle-eccellenze-riconoscimenti-e-premi-agli-studenti-per-le-competizioni-del-2023-24-decreto/",
-                "date": "2 Ott 2025",
-                "time": "18:33",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2322853035.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti docenti 2025/26: il MUR dà le indicazioni alle Università. Offerte formative entro il 24 ottobre",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-docenti-2025-26-il-mur-da-le-indicazioni-alle-universita-offerte-formative-entro-il-24-ottobre/",
-                "date": "2 Ott 2025",
-                "time": "18:14",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1129962923-scaled.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Stipendi docenti, fino a 59.585 euro a inizio carriera. E in Italia poco più di 27mila: quanto guadagnano gli insegnanti in Europa? I dati",
-                "link": "https://www.orizzontescuola.it/stipendi-docenti-fino-a-59-585-euro-a-inizio-carriera-e-in-italia-poco-piu-di-27mila-quanto-guadagnano-gli-insegnanti-in-europa/",
-                "date": "2 Ott 2025",
-                "time": "17:56",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Dove il lavoro piace di più: le sorprese della classifica nazionale e i dati ufficiali sulla soddisfazione, tra 51,7% di italiani contenti e forti squilibri territoriali nel mondo dell’occupazione",
+                "link": "https://www.orizzontescuola.it/dove-il-lavoro-piace-di-piu-le-sorprese-della-classifica-nazionale-e-i-dati-ufficiali-sulla-soddisfazione-tra-517-di-italiani-contenti-e-forti-squilibri-territoriali-nel-mondo-delloccupazi/",
+                "date": "4 Ott 2025",
+                "time": "9:51",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Studenti transgender limitano cibo e acqua per evitare di andare in bagno a scuola. L’allarme in Scozia",
+                "link": "https://www.orizzontescuola.it/studenti-transgender-limitano-cibo-e-acqua-per-evitare-di-andare-in-bagno-a-scuola-lallarme-in-scozia/",
+                "date": "4 Ott 2025",
+                "time": "9:21",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Prendersi cura dei nipoti allunga la vita agli over 65: gli uomini anziani raggiungono il traguardo in forma migliore delle coetanee, ma la mobilità lavorativa dei figli lascia i nonni sempre più soli",
+                "link": "https://www.orizzontescuola.it/prendersi-cura-dei-nipoti-allunga-la-vita-agli-over-65-gli-uomini-anziani-raggiungono-il-traguardo-in-forma-migliore-delle-coetanee-ma-la-mobilita-lavorativa-dei-figli-lascia-i-nonni-sempre-piu-soli/",
+                "date": "4 Ott 2025",
+                "time": "8:50",
+                "image_link": "N/A"
+            },
             {
                 "category": "Genitori",
                 "title": "INPS: AppLI arriva sul Portale Giovani come assistente digitale per studio, formazione e lavoro",
@@ -280,7 +310,7 @@
             },
             {
                 "category": "Cronaca",
-                "title": "INPS: dal 15 ottobre i pensionati devono comunicare i figli a carico per la CU 2026",
+                "title": "INPS, dal 15 ottobre i pensionati devono comunicare i figli a carico per la CU 2026",
                 "link": "https://www.orizzontescuola.it/inps-dal-15-ottobre-i-pensionati-devono-comunicare-i-figli-a-carico-per-la-cu-2026/",
                 "date": "3 Ott 2025",
                 "time": "20:05",
@@ -381,30 +411,6 @@
                 "link": "https://www.orizzontescuola.it/a-barletta-scomparse-due-studentesse-17enni-allarme-per-nikol-e-sofia/",
                 "date": "3 Ott 2025",
                 "time": "14:23",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Abilitazioni docenti 2025/2026, SNALS-CONFSAL chiede avvio tempestivo dei percorsi",
-                "link": "https://www.orizzontescuola.it/abilitazioni-docenti-2025-2026-snals-confsal-chiede-avvio-tempestivo-dei-percorsi/",
-                "date": "3 Ott 2025",
-                "time": "13:50",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Padre fa irruzione in una scuola e minaccia docenti e alunni per presunti episodi di bullismo. Interviene la Polizia",
-                "link": "https://www.orizzontescuola.it/padre-fa-irruzione-in-una-scuola-e-minaccia-docenti-e-alunni-per-presunti-episodi-di-bullismo-interviene-la-polizia/",
-                "date": "3 Ott 2025",
-                "time": "12:32",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Dirigenti scolastici",
-                "title": "Il 16 ottobre seminario MIM “Cultura classica e formazione contemporanea”: iscrizioni DS e docenti entro l’11. NOTA",
-                "link": "https://www.orizzontescuola.it/il-16-ottobre-seminario-mim-cultura-classica-e-formazione-contemporanea-iscrizioni-ds-e-docenti-entro-l11-nota/",
-                "date": "3 Ott 2025",
-                "time": "10:15",
                 "image_link": "N/A"
             }
         ]
@@ -531,6 +537,22 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3, esclusi alcuni candidati già idonei a PNRR1 e 2. Il paradosso",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-esclusi-alcuni-candidati-gia-idonei-a-pnrr1-e-2-il-paradosso/",
+                "date": "1 Ott 2025",
+                "time": "12:21",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/10/shutterstock_116039263.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Diploma ITP ancora valido per accesso ai concorsi fino al 31 dicembre 2026. Presentato emendamento al Decreto Scuola",
+                "link": "https://www.orizzontescuola.it/diploma-itp-ancora-valido-per-accesso-ai-concorsi-fino-al-31-dicembre-2026-emendamento-al-decreto-scuola/",
+                "date": "30 Set 2025",
+                "time": "21:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_1708378216.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Graduatorie, interpelli e concorso: il punto sulle opportunità 2025/26 per i docenti. RISPOSTE AI QUESITI",
                 "link": "https://www.orizzontescuola.it/graduatorie-interpelli-e-concorso-il-punto-sulle-opportunita-2025-26-per-i-docenti-risposte-ai-quesiti/",
                 "date": "30 Set 2025",
@@ -560,22 +582,6 @@
                 "date": "30 Set 2025",
                 "time": "10:36",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_302086268.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Si può partecipare contemporaneamente al concorso PNRR3 per insegnanti su materia e sostegno, anche per lo stesso grado. Quante prove bisognerà svolgere",
-                "link": "https://www.orizzontescuola.it/si-puo-partecipare-contemporaneamente-al-concorso-pnrr3-per-insegnanti-su-materia-e-sostegno-anche-per-lo-stesso-grado-quante-prove-bisognera-svolgere/",
-                "date": "29 Set 2025",
-                "time": "15:09",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_1996119905.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "È possibile bandire il concorso PNRR3 per gli insegnanti senza aver concluso il PNRR2 e assunto gli idonei? PILLOLE DI QUESTION TIME",
-                "link": "https://www.orizzontescuola.it/e-possibile-bandire-il-concorso-pnrr3-per-gli-insegnanti-senza-aver-concluso-il-pnrr2-e-assunto-gli-idonei-pillole-di-question-time/",
-                "date": "29 Set 2025",
-                "time": "11:29",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492177333-scaled.jpg"
             }
         ]
     },
