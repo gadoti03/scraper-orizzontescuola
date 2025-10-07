@@ -3,12 +3,12 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
-                "category": "Guide",
-                "title": "Per merenda a scuola, solo cibi confezionati? Profili giuridici, limiti dell’autonomia scolastica e tutela della libertà genitoriale",
-                "link": "https://www.orizzontescuola.it/per-merenda-a-scuola-solo-cibi-confezionati-profili-giuridici-limiti-dellautonomia-scolastica-e-tutela-della-liberta-genitoriale/",
+                "category": "ATA",
+                "title": "Organici personale ATA, ecco come cambiano dal 2026/27: meno collaboratori scolastici, arrivano 42mila operatori scolastici e 899 funzionari",
+                "link": "https://www.orizzontescuola.it/organici-personale-ata-ecco-come-cambiano-dal-2026-27-meno-collaboratori-scolastici-arrivano-gli-operatori-scolastici-e-i-funzionari/",
                 "date": "7 Ott 2025",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2452912305.jpg"
+                "time": "13:51",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2198390061.jpg"
             },
             {
                 "category": "Scuole",
@@ -23,15 +23,39 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
-            null,
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Nuovi percorsi abilitanti e TFA sostegno, informativa al Ministero: ecco cosa è previsto. SPECIALE con Cozzetto (Anief) LIVE alle 19:00",
+                "link": "https://www.orizzontescuola.it/nuovi-percorsi-abilitanti-e-tfa-sostegno-informativa-al-ministero-ecco-cosa-e-previsto-speciale-con-cozzetto-anief-live-alle-1900/",
+                "date": "7 Ott 2025",
+                "time": "18:04",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Template_dentroilpalazzo_1920x1080-3.png"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "“Non più docente di sostegno, ma docente per l’inclusione”. Parte alla Camera l’esame della proposta di legge della Lega. Miele: “Non è un banale atto formale, ma un cambiamento culturale”",
+                "link": "https://www.orizzontescuola.it/non-piu-docente-di-sostegno-ma-docente-per-linclusione-parte-alla-camera-lesame-della-proposta-di-legge-della-lega-miele-non-e-un-banale-atto-formale-ma-un/",
+                "date": "7 Ott 2025",
+                "time": "16:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/tfa-sostegno-IX-ciclo.png"
+            },
             {
                 "category": "ATA",
-                "title": "Organici e reclutamento ATA, ecco cosa cambierà nei prossimi anni. SPECIALE con Raimondo (Uil Scuola Rua) LIVE alle 15:00",
-                "link": "https://www.orizzontescuola.it/organici-e-reclutamento-ata-ecco-cosa-cambiera-nei-prossimi-anni-speciale-con-raimondo-uil-scuola-rua-live/",
+                "title": "Reclutamento personale ATA verso il cambiamento: ci saranno concorsi per esami? Aperto il confronto MIM-Sindacati",
+                "link": "https://www.orizzontescuola.it/reclutamento-personale-ata-verso-il-cambiamento-ci-saranno-concorsi-per-esami-aperto-il-confronto-mim-sindacati/",
                 "date": "7 Ott 2025",
-                "time": "14:29",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Template_dentroilpalazzo_1920x1080-1.png"
+                "time": "15:41",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_1645535227.jpg"
             },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: migliaia di INTERPELLI per la ricerca di insegnanti",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "7 Ott 2025",
+                "time": "14:53",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/05/gps-2022-maggio-1.jpg"
+            },
+            null,
             {
                 "category": "Cronaca",
                 "title": "Carta del docente utilizzata per comprare Smart Tv ed elettrodomestici, Sasso annuncia interrogazione parlamentare",
@@ -47,14 +71,6 @@
                 "date": "7 Ott 2025",
                 "time": "14:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/crefin.png"
-            },
-            {
-                "category": "ATA",
-                "title": "Organici personale ATA, ecco come cambiano dal 2026/27: meno collaboratori scolastici, arrivano gli operatori scolastici e i funzionari",
-                "link": "https://www.orizzontescuola.it/organici-personale-ata-ecco-come-cambiano-dal-2026-27-meno-collaboratori-scolastici-arrivano-gli-operatori-scolastici-e-i-funzionari/",
-                "date": "7 Ott 2025",
-                "time": "13:51",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2198390061.jpg"
             },
             {
                 "category": "Diventare Insegnanti",
@@ -127,7 +143,12 @@
                 "date": "7 Ott 2025",
                 "time": "10:24",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/scienze-formazione-primaria.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Politica scolastica",
                 "title": "Palestre scolastiche aperte alle associazioni sportive, la proposta di legge del Partito Democratico verso il via libera",
@@ -143,12 +164,7 @@
                 "date": "7 Ott 2025",
                 "time": "10:05",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1906380526.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Dislessia, “il carico emotivo che non si vede”: quando la scuola non applica il Piano Didattico Personalizzato, famiglie e studenti pagano con stress elevato e perdita di autostima",
@@ -181,16 +197,16 @@
                 "time": "8:29",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_117815416.jpg"
             },
-            null,
-            null,
             {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: migliaia di INTERPELLI per la ricerca di insegnanti",
-                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
-                "date": "6 Ott 2025",
-                "time": "22:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/05/gps-2022-maggio-1.jpg"
+                "category": "Guide",
+                "title": "Per merenda a scuola, solo cibi confezionati? Profili giuridici, limiti dell’autonomia scolastica e tutela della libertà genitoriale",
+                "link": "https://www.orizzontescuola.it/per-merenda-a-scuola-solo-cibi-confezionati-profili-giuridici-limiti-dellautonomia-scolastica-e-tutela-della-liberta-genitoriale/",
+                "date": "7 Ott 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2452912305.jpg"
             },
+            null,
+            null,
             {
                 "category": "Cronaca",
                 "title": "Infortuni studenti: 50.232 denunce tra gennaio e agosto 2025, 7 morti. I dati INAIL",
@@ -262,28 +278,109 @@
                 "date": "6 Ott 2025",
                 "time": "17:33",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2543212665.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Crepet lancia l’allarme: “Smartphone vietati a scuola, l’intelligenza artificiale rischia di renderci tutti più stupidi”",
-                "link": "https://www.orizzontescuola.it/crepet-lancia-lallarme-smartphone-vietati-a-scuola-lintelligenza-artificiale-rischia-di-renderci-tutti-piu-stupidi/",
-                "date": "6 Ott 2025",
-                "time": "17:22",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/P.-CREPET-UGDP-RADIO1-1.jpeg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Mantenimento in servizio fino a 71 anni del personale scolastico, guida per le segreterie",
-                "link": "https://www.orizzontescuola.it/mantenimento-in-servizio-fino-a-71-anni-del-personale-scolastico-guida-per-le-segreterie/",
-                "date": "6 Ott 2025",
-                "time": "16:02",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_2352507533.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Scuole",
+                "title": "Concorso studenti “Infanzia negata: i bambini vittime della guerra”: elaborati entro il 30 novembre",
+                "link": "https://www.orizzontescuola.it/concorso-studenti-infanzia-negata-i-bambini-vittime-della-guerra-elaborati-entro-il-30-novembre/",
+                "date": "7 Ott 2025",
+                "time": "18:14",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Famiglie in pressing sul Governo: “Stabilizzare gli ASACOM per garantire l’inclusione scolastica”. Lettera al Ministro Locatelli",
+                "link": "https://www.orizzontescuola.it/famiglie-in-pressing-sul-governo-stabilizzare-gli-asacom-per-garantire-linclusione-scolastica-lettera-al-ministro-locatelli/",
+                "date": "7 Ott 2025",
+                "time": "18:11",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: ecco dove le GPS sono esaurite [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-26-alcune-gps-gia-esaurite-si-passa-alle-graduatorie-di-istituto/",
+                "date": "7 Ott 2025",
+                "time": "17:34",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Decreto organici Ata, Anief: “Parametri da rivedere e numeri insufficienti”. Il MIM pensa a nuovi concorsi per il reclutamento",
+                "link": "https://www.orizzontescuola.it/decreto-organici-ata-anief-parametri-da-rivedere-e-numeri-insufficienti-il-mim-pensa-a-nuovi-concorsi-per-il-reclutamento/",
+                "date": "7 Ott 2025",
+                "time": "16:54",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Italia fanalino di coda in Europa: solo il 66,7% degli adulti ha un diploma superiore. I dati ISTAT",
+                "link": "https://www.orizzontescuola.it/italia-fanalino-di-coda-in-europa-solo-il-667-degli-adulti-ha-un-diploma-superiore-i-dati-istat/",
+                "date": "7 Ott 2025",
+                "time": "16:50",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "MIM, tre bandi per i progetti “π Day 2026”, “LS-OSAlab” e “Scuola estiva Dante per la scuola”: offerte entro il 17 ottobre",
+                "link": "https://www.orizzontescuola.it/mim-tre-bandi-per-i-progetti-%cf%80-day-2026-ls-osalab-e-scuola-estiva-dante-per-la-scuola-offerte-entro-il-17-ottobre/",
+                "date": "7 Ott 2025",
+                "time": "16:46",
+                "image_link": "N/A"
+            },
+            null,
+            {
+                "category": "Politica scolastica",
+                "title": "Scuole occupate, Giannelli duro: “Le occupazioni sono illegali anche se la ragione è buona. Studenti che vogliono occupare sono una ristretta minoranza, gli altri subiscono”",
+                "link": "https://www.orizzontescuola.it/scuole-occupate-giannelli-duro-le-occupazioni-sono-illegali-anche-se-la-ragione-e-buona-studenti-che-vogliono-occupare-sono-una-ristretta-minoranza-gli-altri-subiscono/",
+                "date": "7 Ott 2025",
+                "time": "16:23",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Cesi, necessaria la creazione della carta degli insegnanti. Pacifico (Anief): “Bisogna tutelare e valorizzare quella categoria che già Platone deputava a governante della nostra comunità”",
+                "link": "https://www.orizzontescuola.it/cesi-necessaria-la-creazione-della-carta-degli-insegnanti-pacifico-anief-bisogna-tutelare-e-valorizzare-quella-categoria-che-gia-platone-deputava-a-governante-della-nostra-comunita/",
+                "date": "7 Ott 2025",
+                "time": "16:17",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "La Danimarca vieterà i social agli under 15: il governo annuncia stretta per proteggere l’infanzia",
+                "link": "https://www.orizzontescuola.it/la-danimarca-vietera-i-social-agli-under-15-il-governo-annuncia-stretta-per-proteggere-linfanzia/",
+                "date": "7 Ott 2025",
+                "time": "16:12",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Prevenzione, controlli e dark web: il Piano nazionale anti‑fentanyl un anno dopo, il governo rilancia la strategia per tenere l’Italia al riparo dal rischio oppioidi",
+                "link": "https://www.orizzontescuola.it/prevenzione-controlli-e-dark-web-il-piano-nazionale-anti%e2%80%91fentanyl-un-anno-dopo-il-governo-rilancia-la-strategia-per-tenere-litalia-al-riparo-dal-rischio-oppioidi/",
+                "date": "7 Ott 2025",
+                "time": "15:59",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Sasso (Lega): “Serve il consenso dei genitori per le attività religiose a scuola. Stop ai tentativi di islamizzazione”",
+                "link": "https://www.orizzontescuola.it/sasso-lega-serve-il-consenso-dei-genitori-per-le-attivita-religiose-a-scuola-stop-ai-tentativi-di-islamizzazione/",
+                "date": "7 Ott 2025",
+                "time": "14:50",
+                "image_link": "N/A"
+            },
+            {
+                "category": "ATA",
+                "title": "Organici e reclutamento ATA, ecco cosa cambierà nei prossimi anni. SPECIALE con Raimondo (Uil Scuola Rua)",
+                "link": "https://www.orizzontescuola.it/organici-e-reclutamento-ata-ecco-cosa-cambiera-nei-prossimi-anni-speciale-con-raimondo-uil-scuola-rua-live/",
+                "date": "7 Ott 2025",
+                "time": "14:29",
+                "image_link": "N/A"
+            },
             {
                 "category": "Comunicati stampa",
                 "title": "Carta docente 2025-26, Anief ribadisce la necessità di confermare il bonus di 500 euro",
@@ -322,103 +419,6 @@
                 "link": "https://www.orizzontescuola.it/oltre-7mila-reati-sui-minori-in-italia-pornografia-online-63-bambine-le-vittime-principali-la-famiglia-resta-il-luogo-piu-pericoloso/",
                 "date": "7 Ott 2025",
                 "time": "8:19",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: ecco dove le GPS sono esaurite [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-26-alcune-gps-gia-esaurite-si-passa-alle-graduatorie-di-istituto/",
-                "date": "6 Ott 2025",
-                "time": "22:14",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "“Juvenes Translatores”, il concorso europeo per giovani traduttori: iscrizioni entro il 14 ottobre",
-                "link": "https://www.orizzontescuola.it/juvenes-translatores-il-concorso-europeo-per-giovani-traduttori-iscrizioni-entro-il-14-ottobre/",
-                "date": "6 Ott 2025",
-                "time": "22:00",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "AIRC sbarca su Roblox: prevenzione e ricerca oncologica diventano un videogioco per gli studenti",
-                "link": "https://www.orizzontescuola.it/airc-sbarca-su-roblox-prevenzione-e-ricerca-oncologica-diventano-un-videogioco-per-gli-studenti/",
-                "date": "6 Ott 2025",
-                "time": "21:04",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Addio ai quadrimestri, un liceo pugliese sperimenta il periodo unico di valutazione: ci sarà una sola pagella finale",
-                "link": "https://www.orizzontescuola.it/addio-ai-quadrimestri-un-liceo-pugliese-sperimenta-il-periodo-unico-di-valutazione-ci-sara-una-sola-pagella-finale/",
-                "date": "6 Ott 2025",
-                "time": "18:59",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Sconti su ristoranti, viaggi ed elettronica per docenti e ATA: adesione operatori entro il 15 ottobre. L’avviso",
-                "link": "https://www.orizzontescuola.it/sconti-su-ristoranti-viaggi-ed-elettronica-per-docenti-e-ata-adesione-operatori-entro-il-15-ottobre-lavviso/",
-                "date": "6 Ott 2025",
-                "time": "18:45",
-                "image_link": "N/A"
-            },
-            null,
-            {
-                "category": "Cronaca",
-                "title": "Laurea Honoris causa a Carlo Verdone, in medicina: dall’ipocondria alla cura dell’umore",
-                "link": "https://www.orizzontescuola.it/laurea-honoris-causa-a-carlo-verdone-in-medicina-dallipocondria-alla-cura-dellumore/",
-                "date": "6 Ott 2025",
-                "time": "17:59",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Sicilia, 700 milioni per la scuola: al via la manifestazione nei territori",
-                "link": "https://www.orizzontescuola.it/sicilia-700-milioni-per-la-scuola-al-via-la-manifestazione-nei-territori/",
-                "date": "6 Ott 2025",
-                "time": "16:55",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "La Comunità Ebraica di Milano chiede: “Inserire il 7 ottobre 2023 nei libri di scuola. In tutti gli istituti sia proiettato un video su cosa è accaduto”",
-                "link": "https://www.orizzontescuola.it/la-comunita-ebraica-di-milano-chiede-inserire-il-7-ottobre-2023-nei-libri-di-scuola-in-tutti-gli-istituti-sia-proiettato-un-video-su-cosa-e-accaduto/",
-                "date": "6 Ott 2025",
-                "time": "16:45",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Le frasi choc di un docente universitario: “Dovrebbe studiare Medicina solo chi proviene dal liceo classico o scientifico. Iniziate a 25 anni? Meglio se consegnate le pizze”. Il Ministro Bernini: “Parole inaccettabili”",
-                "link": "https://www.orizzontescuola.it/le-frasi-choc-di-un-docente-universitario-dovrebbe-studiare-medicina-solo-chi-proviene-dal-liceo-classico-o-scientifico-iniziate-a-25-anni-meglio-se-consegnate-le-pizze-il-ministro-bernini/",
-                "date": "6 Ott 2025",
-                "time": "16:30",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Precariato docenti, Pittoni: “Obiettivo stabilizzare chi ha dato anni alla scuola. Decreto Scuola vicino al traguardo”",
-                "link": "https://www.orizzontescuola.it/precariato-docenti-pittoni-obiettivo-stabilizzare-chi-ha-dato-anni-alla-scuola-decreto-scuola-vicino-al-traguardo/",
-                "date": "6 Ott 2025",
-                "time": "16:01",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Svolta per la PA: via libera ai contratti 2022-24 per 400mila dipendenti, ddl Zangrillo apre la strada ai funzionari verso ruoli dirigenziali",
-                "link": "https://www.orizzontescuola.it/svolta-per-la-pa-via-libera-ai-contratti-2022-24-per-400mila-dipendenti-ddl-zangrillo-apre-la-strada-ai-funzionari-verso-ruoli-dirigenziali/",
-                "date": "6 Ott 2025",
-                "time": "15:57",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "Assegnazioni provvisorie e utilizzazioni docenti e ATA, ecco i Contratti integrativi regionali: utilizzo su sostegno, part time, ottimizzazione cattedra",
-                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-e-utilizzazioni-docenti-e-ata-ecco-i-contratti-integrativi-regionali-utilizzo-su-sostegno-part-time-ottimizzazione-cattedra/",
-                "date": "6 Ott 2025",
-                "time": "14:04",
                 "image_link": "N/A"
             }
         ]
@@ -545,6 +545,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Nuovi Elenchi regionali assunzioni insegnanti, il candidato idoneo in classe di concorso accorpata si iscrive solo in quella del concorso. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/nuovi-elenchi-regionali-assunzioni-insegnanti-il-candidato-idoneo-in-classe-di-concorso-accorpata-si-iscrive-solo-in-quella-del-concorso-pillole-di-question-time/",
+                "date": "4 Ott 2025",
+                "time": "17:37",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1799044252.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Carta del Docente: novità attese e modalità di ottenimento del bonus nei prossimi mesi. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/carta-del-docente-novita-attese-e-modalita-di-ottenimento-del-bonus-nei-prossimi-mesi-pillole-di-question-time/",
                 "date": "4 Ott 2025",
@@ -582,14 +590,6 @@
                 "date": "3 Ott 2025",
                 "time": "10:58",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2384798515.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Decreto Scuola 127/2025: ancora assunzioni GPS sostegno, proroga diploma ITP, pubblicazione elenchi idonei concorsi PNRR. 44 emendamenti al voto la prossima settimana. Il DETTAGLIO",
-                "link": "https://www.orizzontescuola.it/decreto-scuola-127-2025-ancora-anief-assunzioni-gps-sostegno-proroga-diploma-itp-pubblicazione-elenchi-idonei-concorsi-pnrr-44-gli-emendamenti-al-voto-la-prossima-settimana-il-dettaglio/",
-                "date": "3 Ott 2025",
-                "time": "10:43",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_388588465.jpg"
             }
         ]
     },
