@@ -24,6 +24,22 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: le nomine di ottobre da GPS [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
+                "date": "11 Ott 2025",
+                "time": "20:19",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/shutterstock_1871534923.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: migliaia di INTERPELLI per la ricerca di insegnanti",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "11 Ott 2025",
+                "time": "20:19",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/05/gps-2022-maggio-1.jpg"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Epilessia in classe, insegnanti “impreparati”: la paura di gestire le crisi blocca l’inclusione. Lega Italiana contro l’Epilessia chiede protocolli vincolanti per formare i docenti",
                 "link": "https://www.orizzontescuola.it/epilessia-in-classe-insegnanti-impreparati-la-paura-di-gestire-le-crisi-blocca-linclusione-lega-italiana-contro-lepilessia-chiede-protocolli-vincolanti-per-formare-i-docenti/",
@@ -134,7 +150,12 @@
                 "date": "11 Ott 2025",
                 "time": "11:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_2501646519.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR 3: domande entro 29 ottobre, prove attese a Natale. RISPOSTE AI QUESITI",
@@ -150,12 +171,7 @@
                 "date": "11 Ott 2025",
                 "time": "9:05",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Template_questiontime_1920x1080-2.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             null,
             {
                 "category": "Cronaca",
@@ -172,22 +188,6 @@
                 "date": "11 Ott 2025",
                 "time": "8:32",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Screenshot-2025-10-10-175732.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: le nomine di ottobre da GPS [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
-                "date": "11 Ott 2025",
-                "time": "8:12",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/shutterstock_1871534923.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: migliaia di INTERPELLI per la ricerca di insegnanti",
-                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
-                "date": "11 Ott 2025",
-                "time": "8:12",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/05/gps-2022-maggio-1.jpg"
             },
             {
                 "category": "Cronaca",
@@ -277,6 +277,14 @@
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Coop e servizio psicologico pubblico, al via la raccolta firme nei supermercati per il benessere a scuola",
+                "link": "https://www.orizzontescuola.it/coop-e-servizio-psicologico-pubblico-al-via-la-raccolta-firme-nei-supermercati-per-il-benessere-a-scuola/",
+                "date": "11 Ott 2025",
+                "time": "19:44",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Spray al peperoncino in aula: evacuato un istituto scolastico a Lecco, 26 persone soccorse",
@@ -411,14 +419,6 @@
                 "link": "https://www.orizzontescuola.it/salute-mentale-neuropsichiatri-infantili-un-bambino-su-cinque-soffre-di-disturbi-neuropsichiatrici-necessario-intervenire-precocemente/",
                 "date": "10 Ott 2025",
                 "time": "12:19",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Giornata mondiale della salute mentale, l’allarme UNICEF: “Un adolescente su 7 soffre di disturbi mentali. Servono più investimenti nelle scuole e nei servizi”",
-                "link": "https://www.orizzontescuola.it/giornata-mondiale-della-salute-mentale-lallarme-unicef-un-adolescente-su-7-soffre-di-disturbi-mentali-servono-piu-investimenti-nelle-scuole-e-nei-servizi/",
-                "date": "10 Ott 2025",
-                "time": "11:45",
                 "image_link": "N/A"
             }
         ]
