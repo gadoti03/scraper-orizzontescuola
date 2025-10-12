@@ -24,6 +24,23 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "Più poteri ai Dirigenti per sanzionare i docenti? Naddeo (ARAN): mai proposto ai sindacati",
+                "link": "https://www.orizzontescuola.it/piu-poteri-ai-dirigenti-per-sanzionare-i-docenti-naddeo-aran-mai-proposto-ai-sindacati/",
+                "date": "12 Ott 2025",
+                "time": "20:48",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/naddeo.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3, ecco quando può essere indicato il servizio senza titolo. Non vale 2025/26. FAQ Ministero",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-ecco-quando-puo-essere-indicato-il-servizio-senza-titolo-non-vale-2025-26-faq-ministero/",
+                "date": "12 Ott 2025",
+                "time": "20:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_415216972.jpg"
+            },
+            null,
+            {
                 "category": "Chiedilo a Lalla",
                 "title": "Concorso PNRR 3, a cosa fare attenzione nella compilazione della domanda. QUESTION TIME con Quattrocchi. LIVE Lunedì 13 ottobre alle 15:00",
                 "link": "https://www.orizzontescuola.it/concorso-pnrr-3-a-cosa-fare-attenzione-nella-compilazione-della-domanda-question-time-con-quattrocchi-live-lunedi-13-ottobre-alle-1500/",
@@ -103,14 +120,6 @@
                 "time": "8:06",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-08-at-14.07.57-1.jpeg"
             },
-            {
-                "category": "Plus",
-                "title": "Concorso PNRR3, bando pubblicato: ti aiutiamo a compilare la domanda. Posti limitati",
-                "link": "https://www.orizzontescuola.it/concorso-pnrr3-bando-pubblicato-ti-aiutiamo-a-compilare-la-domanda-posti-limitati/",
-                "date": "12 Ott 2025",
-                "time": "7:45",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Sottotitolo-2.png"
-            },
             null,
             {
                 "category": "Diventare Insegnanti",
@@ -127,7 +136,12 @@
                 "date": "11 Ott 2025",
                 "time": "20:19",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/05/gps-2022-maggio-1.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Epilessia in classe, insegnanti “impreparati”: la paura di gestire le crisi blocca l’inclusione. Lega Italiana contro l’Epilessia chiede protocolli vincolanti per formare i docenti",
@@ -143,12 +157,7 @@
                 "date": "11 Ott 2025",
                 "time": "16:56",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_2045001101.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Genitori",
                 "title": "Famiglie spendono per istruzione 2.728 euro di media l’anno, meno dei servizi ricreativi. A Nord-Ovest costa il doppio rispetto alle Isole",
@@ -253,7 +262,6 @@
                 "time": "10:36",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2176731709.jpg"
             },
-            null,
             {
                 "category": "Cronaca",
                 "title": "5 insufficienze, 10 note disciplinari e 5 in condotta: viene bocciata, ma la mamma fa ricorso",
@@ -277,20 +285,20 @@
                 "date": "11 Ott 2025",
                 "time": "8:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/Screenshot-2025-06-11-alle-19.24.29.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti 30, 36, 60 CFU 2025/26: chi può partecipare, tempi e costi [LO SPECIALE]",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-30-36-60-cfu-2025-26-chi-puo-partecipare-tempi-e-costi-lo-speciale/",
-                "date": "11 Ott 2025",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_163768811.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Il ministro Roccella critica i viaggi della memoria, scoppia la polemica. Segre: “La verità storica fa male a chi ha scheletri nell’armadio”. La controreplica: “Parole strumentalizzate”",
+                "link": "https://www.orizzontescuola.it/il-ministro-roccella-critica-i-viaggi-della-memoria-scoppia-la-polemica-segre-la-verita-storica-fa-male-a-chi-ha-scheletri-nellarmadio-la-controreplica-parole-strumentalizzate/",
+                "date": "12 Ott 2025",
+                "time": "21:09",
+                "image_link": "N/A"
+            },
             {
                 "category": "Comunicati stampa",
                 "title": "Anief denuncia al Consiglio Ministri il difficile stato del personale della scuola e dei loro stipendi indietro di 10 mila euro rispetto ai ministeriali",
@@ -425,14 +433,6 @@
                 "link": "https://www.orizzontescuola.it/pensione-a-64-anni-con-e-senza-tfr-come-funziona-la-nuova-misura/",
                 "date": "10 Ott 2025",
                 "time": "18:32",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Isole minori, Meloni: “Non sempre garantito il diritto all’istruzione. Vogliamo siano abitate tutto l’anno. Primi interventi su scuole”",
-                "link": "https://www.orizzontescuola.it/isole-minori-meloni-non-sempre-garantito-il-diritto-allistruzione-vogliamo-siano-abitate-tutto-lanno-primi-interventi-su-scuole/",
-                "date": "10 Ott 2025",
-                "time": "18:02",
                 "image_link": "N/A"
             }
         ]
