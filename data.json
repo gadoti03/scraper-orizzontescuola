@@ -24,6 +24,30 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Chiedilo a Lalla",
+                "title": "Concorso PNRR 3, a cosa fare attenzione nella compilazione della domanda. QUESTION TIME con Quattrocchi. LIVE Lunedì 13 ottobre alle 15:00",
+                "link": "https://www.orizzontescuola.it/concorso-pnrr-3-a-cosa-fare-attenzione-nella-compilazione-della-domanda-question-time-con-quattrocchi-live-lunedi-13-ottobre-alle-1500/",
+                "date": "12 Ott 2025",
+                "time": "17:59",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Template_questiontime_1920x1080-2.png"
+            },
+            {
+                "category": "Docenti",
+                "title": "Novara: “Possibile che così tanti bambini manifestino problemi? No agli screening neuropsichiatrici, no alla moda del difetto”",
+                "link": "https://www.orizzontescuola.it/novara-possibile-che-cosi-tanti-bambini-manifestino-problemi-no-agli-screening-neuropsichiatrici-no-alla-moda-del-difetto/",
+                "date": "12 Ott 2025",
+                "time": "17:16",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/Novara.jpeg"
+            },
+            {
+                "category": "Genitori",
+                "title": "Intelligenza Artificiale: il consenso dei minore è valido dai 14 anni in su, prima spetta ai genitori",
+                "link": "https://www.orizzontescuola.it/intelligenza-artificiale-il-consenso-dei-minore-e-valido-dai-14-anni-in-su-prima-spetta-ai-genitori/",
+                "date": "12 Ott 2025",
+                "time": "16:36",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/shutterstock_2599495969.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso scuola PNRR3: prova scritte e prove orali per le classi di concorso accorpate, come si svolgono. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/concorso-scuola-pnrr3-prova-scritte-e-prove-orali-per-le-classi-di-concorso-accorpate-come-si-svolgono-pillole-di-question-time/",
@@ -119,7 +143,12 @@
                 "date": "11 Ott 2025",
                 "time": "16:56",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_2045001101.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Genitori",
                 "title": "Famiglie spendono per istruzione 2.728 euro di media l’anno, meno dei servizi ricreativi. A Nord-Ovest costa il doppio rispetto alle Isole",
@@ -143,12 +172,7 @@
                 "date": "11 Ott 2025",
                 "time": "15:01",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_2679705347.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Si può partecipare contemporaneamente al concorso PNRR3 per insegnanti su materia e sostegno, anche per lo stesso grado. Quante prove bisognerà svolgere",
@@ -229,14 +253,6 @@
                 "time": "10:36",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2176731709.jpg"
             },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Concorso PNRR 3, a cosa fare attenzione nella compilazione della domanda. QUESTION TIME con Quattrocchi. LIVE Lunedì 13 ottobre alle 15:00",
-                "link": "https://www.orizzontescuola.it/concorso-pnrr-3-a-cosa-fare-attenzione-nella-compilazione-della-domanda-question-time-con-quattrocchi-live-lunedi-13-ottobre-alle-1500/",
-                "date": "11 Ott 2025",
-                "time": "9:05",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Template_questiontime_1920x1080-2.png"
-            },
             null,
             {
                 "category": "Cronaca",
@@ -269,14 +285,28 @@
                 "date": "11 Ott 2025",
                 "time": "7:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_163768811.jpg"
-            },
-            null,
-            null
+            }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Comunicati stampa",
+                "title": "Anief denuncia al Consiglio Ministri il difficile stato del personale della scuola e dei loro stipendi indietro di 10 mila euro rispetto ai ministeriali",
+                "link": "https://www.orizzontescuola.it/anief-denuncia-al-consiglio-ministri-il-difficile-stato-del-personale-della-scuola-e-dei-loro-stipendi-indietro-di-10-mila-euro-rispetto-ai-ministeriali/",
+                "date": "12 Ott 2025",
+                "time": "17:56",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Bambini di 8 anni con il cellulare? Schettini: “Putrefazione mentale. I bambini devono disegnare, colorare parlare, suonare",
+                "link": "https://www.orizzontescuola.it/bambini-di-8-anni-con-il-cellulare-schettini-putrefazione-mentale-i-bambini-devono-disegnare-colorare-parlare-suonare/",
+                "date": "12 Ott 2025",
+                "time": "16:25",
+                "image_link": "N/A"
+            },
             {
                 "category": "Scuole",
                 "title": "EOESit 2026, iscrizioni aperte fino al 31 ottobre per la selezione italiana della European Olympiad of Experimental Science",
@@ -403,22 +433,6 @@
                 "link": "https://www.orizzontescuola.it/isole-minori-meloni-non-sempre-garantito-il-diritto-allistruzione-vogliamo-siano-abitate-tutto-lanno-primi-interventi-su-scuole/",
                 "date": "10 Ott 2025",
                 "time": "18:02",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Concorso PNRR3, Anief: pubblicati i bandi per assumere 58.135 nuovi docenti. 10 euro la tassa per partecipare, format online identico ai precedenti",
-                "link": "https://www.orizzontescuola.it/concorso-pnrr3-anief-pubblicati-i-bandi-per-assumere-58-135-nuovi-docenti-10-euro-la-tassa-per-partecipare-format-online-identico-ai-precedenti/",
-                "date": "10 Ott 2025",
-                "time": "17:24",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Intelligenza artificiale, Frassinetti: “Strumento a servizio della scuola. Decisiva la formazione dei docenti”",
-                "link": "https://www.orizzontescuola.it/intelligenza-artificiale-frassinetti-strumento-a-servizio-della-scuola-decisiva-la-formazione-dei-docenti/",
-                "date": "10 Ott 2025",
-                "time": "15:52",
                 "image_link": "N/A"
             }
         ]
@@ -704,6 +718,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Tessere sanitarie scadute, sigarette accese: un paradosso che lo Stato deve spegnere. Lettera",
+                "link": "https://www.orizzontescuola.it/tessere-sanitarie-scadute-sigarette-accese-un-paradosso-che-lo-stato-deve-spegnere-lettera/",
+                "date": "12 Ott 2025",
+                "time": "18:06",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "Il primo consiglio di classe: un momento chiave per la progettazione educativa. Lettera",
                 "link": "https://www.orizzontescuola.it/il-primo-consiglio-di-classe-un-momento-chiave-per-la-progettazione-educativa-lettera/",
                 "date": "10 Ott 2025",
@@ -740,14 +762,6 @@
                 "link": "https://www.orizzontescuola.it/tra-il-voto-e-la-valutazione-come-i-regolamenti-soffocano-la-valutazione-autentica-lettera/",
                 "date": "6 Ott 2025",
                 "time": "9:07",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Grafologia e Autismo. Lettera",
-                "link": "https://www.orizzontescuola.it/grafologia-e-autismo-lettera/",
-                "date": "5 Ott 2025",
-                "time": "19:04",
                 "image_link": "N/A"
             }
         ]
