@@ -3,12 +3,12 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR3, come compilare la domanda. Video guida completa per Infanzia e Primaria",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-come-compilare-la-domanda-video-guida-completa-per-infanzia-e-primaria/",
-                "date": "14 Ott 2025",
-                "time": "8:14",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Template_videoguide_1920x1080-2.png"
+                "category": "ATA",
+                "title": "Ecco gli stipendi del personale ATA (ex DSGA inclusi) dal 2026, come cambieranno per fascia di anzianità. Ipotesi nel CCNL",
+                "link": "https://www.orizzontescuola.it/ecco-gli-stipendi-del-personale-ata-ex-dsga-inclusi-dal-2026-come-cambieranno-per-fascia-di-anzianita-ipotesi-nel-ccnl/",
+                "date": "15 Ott 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_2678601879.jpg"
             },
             {
                 "category": "ATA",
@@ -23,6 +23,49 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Concorso PNRR 3, preferenze, riserve e titoli valutabili: a cosa fare attenzione. QUESTION TIME con Varengo (Cisl Scuola)",
+                "link": "https://www.orizzontescuola.it/concorso-pnrr-3-preferenze-riserve-e-titoli-valutabili-a-cosa-fare-attenzione-question-time-con-varengo-cisl-scuola/",
+                "date": "15 Ott 2025",
+                "time": "10:26",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Template_questiontime_1920x1080-4.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3, ITP: meglio dichiarare diploma o abilitazione? Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-itp-meglio-dichiarare-diploma-o-abilitazione-pillole-di-question-time/",
+                "date": "15 Ott 2025",
+                "time": "9:37",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_2184045625.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "VIDEO TUTORIAL | Concorso docenti PNRR 3, come fare la domanda passo dopo passo",
+                "link": "https://www.orizzontescuola.it/video-tutorial-concorso-docenti-pnrr-3-come-fare-la-domanda-passo-dopo-passo/",
+                "date": "15 Ott 2025",
+                "time": "9:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_2112392237.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Studenti sotto pressione? Il 20% ha almeno un disturbo psichico entro i 18 anni, il 39,7% degli universitari presenta livelli alti di ansia. I dati e le cause",
+                "link": "https://www.orizzontescuola.it/studenti-sotto-pressione-il-20-ha-almeno-un-disturbo-psichico-entro-i-18-anni-il-397-degli-universitari-presenta-livelli-alti-di-ansia-i-dati-e-le-cause/",
+                "date": "15 Ott 2025",
+                "time": "8:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_1836356938.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Con la festività di San Francesco giorno 4 ottobre il numero complessivo delle festività sale a 12. Che differenza tra festa nazionale, celebrazione e festa patronale?",
+                "link": "https://www.orizzontescuola.it/con-la-festivita-di-san-francesco-giorno-4-ottobre-il-numero-complessivo-delle-festivita-sale-a-12-che-differenza-tra-festa-nazionale-celebrazione-e-festa-patronale/",
+                "date": "15 Ott 2025",
+                "time": "8:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_453692419.jpg"
+            },
+            null,
+            null,
+            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "Perché un nuovo concorso PNRR per la scuola se ci sono vincitori e idonei di concorsi precedenti ancora non assunti?",
@@ -86,7 +129,12 @@
                 "date": "14 Ott 2025",
                 "time": "17:25",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso, Riserva 15% servizio civile nazionale o universale: titolo vale solo se già concluso entro il 29 ottobre. Pillole di Question Time",
@@ -150,12 +198,7 @@
                 "date": "14 Ott 2025",
                 "time": "13:22",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2223351439-1.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Plus",
                 "title": "Concorso PNRR3, bando pubblicato: ti aiutiamo a compilare la domanda. Posti limitati",
@@ -229,61 +272,26 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1849649497-scaled.jpg"
             },
             {
-                "category": "Docenti",
-                "title": "Educare a sentire: la scuola come laboratorio dell’indignazione, del ribrezzo, della pietà e della coscienza",
-                "link": "https://www.orizzontescuola.it/educare-a-sentire-la-scuola-come-laboratorio-dellindignazione-del-ribrezzo-della-pieta-e-della-coscienza/",
-                "date": "14 Ott 2025",
-                "time": "8:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Screenshot-2025-10-14-064115.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "Contrattazione Integrativa d’Istituto e fondo MOF, tutte le novità 2025/26",
-                "link": "https://www.orizzontescuola.it/contrattazione-integrativa-distituto-e-fondo-mof-tutte-le-novita-2025-26/",
-                "date": "14 Ott 2025",
-                "time": "7:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Contrattazione-integrativa-distituto-e-fondo-MOF-alla-luce-del-nuovo-CCNL-201921.png"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Marciapiede dissestato, docente cade davanti alla scuola e si frattura l’omero. Fa ricorso, ma il Tribunale dice no: “Avrebbe dovuto prestare maggiore attenzione”",
-                "link": "https://www.orizzontescuola.it/marciapiede-dissestato-docente-cade-davanti-alla-scuola-e-si-frattura-lomero-fa-ricorso-ma-il-tribunale-dice-no-avrebbe-dovuto-prestare-maggiore-attenzione/",
-                "date": "14 Ott 2025",
-                "time": "7:53",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/06/shutterstock_1890232807.jpg"
-            },
-            null,
-            null,
-            null,
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "VIDEO TUTORIAL | Concorso PNRR 3, come fare la domanda passo dopo passo. QUESTION TIME con Vannini (Uil Scuola) LIVE Martedì 14 ottobre alle 15:00",
-                "link": "https://www.orizzontescuola.it/video-tutorial-concorso-pnrr-3-come-fare-la-domanda-passo-dopo-passo-question-time-con-vannini-uil-scuola-live-martedi-14-ottobre-alle-1500/",
-                "date": "14 Ott 2025",
-                "time": "7:17",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Template_questiontime_1920x1080-3.png"
-            },
-            {
                 "category": "Diventare Insegnanti",
-                "title": "Iscrizione con riserva al concorso PNRR3: esclusi i laureandi di Scienze della formazione primaria. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/iscrizione-con-riserva-al-concorso-pnrr3-esclusi-i-laureandi-di-scienze-della-formazione-primaria-pillole-di-question-time/",
-                "date": "13 Ott 2025",
-                "time": "21:56",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_2102451475.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "In fila per andare in bagno, alunno di 10 anni urta contro il termosifone e si fa male. Famiglia chiede risarcimento, ma il tribunale dice no: “Sorveglianza diligente, nessuna colpa accertata”",
-                "link": "https://www.orizzontescuola.it/in-fila-per-andare-in-bagno-alunno-di-10-anni-urta-contro-il-termosifone-e-si-fa-male-famiglia-chiede-risarcimento-ma-il-tribunale-dice-no-sorveglianza-diligente-nessuna-colpa-accertata/",
-                "date": "13 Ott 2025",
-                "time": "21:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/11/shutterstock_140867215.jpg"
+                "title": "Concorso docenti PNRR3, come compilare la domanda. Video guida completa per Infanzia e Primaria",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-come-compilare-la-domanda-video-guida-completa-per-infanzia-e-primaria/",
+                "date": "14 Ott 2025",
+                "time": "8:14",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Template_videoguide_1920x1080-2.png"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Un calendario scolastico più funzionale per le famiglie, la Lombardia ci pensa: “Utile una riflessione nazionale”",
+                "link": "https://www.orizzontescuola.it/un-calendario-scolastico-piu-funzionale-per-le-famiglie-la-lombardia-ci-pensa-utile-una-riflessione-nazionale/",
+                "date": "15 Ott 2025",
+                "time": "9:55",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Pubblica amministrazione, Brunetta: “Segnali di miglioramento ma restano i divari territoriali”",
@@ -412,20 +420,20 @@
                 "date": "14 Ott 2025",
                 "time": "14:49",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Studenti manifestano volontà di occupare il liceo, dirigente la chiude “a tempo indeterminato”",
-                "link": "https://www.orizzontescuola.it/studenti-manifestano-volonta-di-occupare-il-liceo-dirigente-la-chiude-a-tempo-indeterminato/",
-                "date": "14 Ott 2025",
-                "time": "14:41",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "VIDEO TUTORIAL | Concorso PNRR 3, come fare la domanda passo dopo passo. QUESTION TIME con Vannini (Uil Scuola) LIVE Martedì 14 ottobre alle 15:00",
+                "link": "https://www.orizzontescuola.it/video-tutorial-concorso-pnrr-3-come-fare-la-domanda-passo-dopo-passo-question-time-con-vannini-uil-scuola-live-martedi-14-ottobre-alle-1500/",
+                "date": "14 Ott 2025",
+                "time": "7:17",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "VIDEO TUTORIAL | Concorso scuola 2025, bandi pubblicati: come fare la domanda. I passaggi spiegati",
@@ -529,20 +537,36 @@
                 "date": "10 Set 2025",
                 "time": "10:27",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Vincolo docenti neoassunti in ruolo: anno di aspettativa si computa nel triennio?",
-                "link": "https://www.orizzontescuola.it/vincolo-docenti-neoassunti-in-ruolo-anno-di-aspettativa-si-computa-nel-triennio/",
-                "date": "9 Set 2025",
-                "time": "14:21",
-                "image_link": "N/A"
             }
         ]
     },
     "group_6": {
         "title": "Diventare Insegnanti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso scuola PNRR3: importo, regole di pagamento e generazione del bollettino. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/concorso-scuola-pnrr3-importo-regole-di-pagamento-e-generazione-del-bollettino-pillole-di-question-time/",
+                "date": "13 Ott 2025",
+                "time": "12:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3: è possibile presentare domanda secondaria in una regione diversa da quella indicata per infanzia/primaria. FAQ MIM",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-e-possibile-presentare-domanda-secondaria-in-una-regione-diversa-da-quella-indicata-per-infanzia-primaria-faq-mim/",
+                "date": "13 Ott 2025",
+                "time": "11:53",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1685909200.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso scuola PNRR3: per gli ITP è sufficiente il diploma. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/concorso-scuola-pnrr3-per-gli-itp-e-sufficiente-il-diploma-pillole-di-question-time/",
+                "date": "13 Ott 2025",
+                "time": "11:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_1745285486.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR3: requisiti, posti, prove. Domande entro le 23:59 del 29 ottobre [Speciale Bando]",
@@ -566,30 +590,6 @@
                 "date": "13 Ott 2025",
                 "time": "9:42",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_1745285486.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Il servizio svolto nelle scuole paritarie vale per il concorso PNRR3? Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/il-servizio-svolto-nelle-scuole-paritarie-vale-per-il-concorso-pnrr3-pillole-di-question-time/",
-                "date": "13 Ott 2025",
-                "time": "9:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2554071589.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR3, come compilare la domanda. Videoguida completa per la Secondaria di I e II grado",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-come-compilare-la-domanda-videoguida-completa-per-la-secondaria-di-i-e-ii-grado/",
-                "date": "13 Ott 2025",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Template_videoguide_1920x1080-1.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR3, ecco quando può essere indicato il servizio senza titolo. Non vale 2025/26. FAQ Ministero",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-ecco-quando-puo-essere-indicato-il-servizio-senza-titolo-non-vale-2025-26-faq-ministero/",
-                "date": "12 Ott 2025",
-                "time": "20:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_415216972.jpg"
             }
         ]
     },
