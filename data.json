@@ -24,6 +24,46 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "“Scuole sicure” 2025/26: 1,5 milioni di euro per contrastare lo spaccio di droga. Circolare Ministero Interno",
+                "link": "https://www.orizzontescuola.it/scuole-sicure-2025-26-15-milioni-di-euro-per-contrastare-lo-spaccio-di-droghe-circolare-ministero-interno/",
+                "date": "15 Ott 2025",
+                "time": "20:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_737360479.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Alunna subisce frattura a scuola per una sedia difettosa, la Corte d’Appello condanna la scuola a oltre 6mila euro di risarcimento: “Mancata vigilanza”",
+                "link": "https://www.orizzontescuola.it/alunna-subisce-frattura-a-scuola-per-una-sedia-difettosa-la-corte-dappello-condanna-la-scuola-a-oltre-6mila-euro-di-risarcimento-mancata-vigilanza/",
+                "date": "15 Ott 2025",
+                "time": "20:18",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/02/shutterstock_714371032.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR: abilitazione su classe di concorso non dà punteggio sul sostegno. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr-abilitazione-su-classe-di-concorso-non-da-punteggio-sul-sostegno-pillole-di-question-time/",
+                "date": "15 Ott 2025",
+                "time": "20:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1440992648.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Concorso scuola PNRR 3, i consigli giusti per non sbagliare la domanda. QUESTION TIME con Cannas. LIVE Giovedì 16 ottobre alle 15:00",
+                "link": "https://www.orizzontescuola.it/concorso-scuola-pnrr-3-i-consigli-giusti-per-non-sbagliare-la-domanda-question-time-con-cannas-live-giovedi-16-ottobre-alle-1500/",
+                "date": "15 Ott 2025",
+                "time": "19:46",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Template_questiontime_1920x1080-5.png"
+            },
+            {
+                "category": "Docenti",
+                "title": "Bonus Mamme 40 euro al mese ed Esonero Contributivo fino a 3.000 euro. A chi spetta? Quando fare domanda? LE FAQ",
+                "link": "https://www.orizzontescuola.it/bonus-mamme-40-euro-al-mese-ed-esonero-contributivo-fino-a-3-000-euro-a-chi-spetta-quando-fare-domanda-le-faq/",
+                "date": "15 Ott 2025",
+                "time": "18:34",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_1660546246.jpg"
+            },
+            {
                 "category": "Politica scolastica",
                 "title": "Viaggi d’istruzione nel caos burocratico, il nuovo Codice degli appalti mette a rischio le gite degli studenti. La Lega chiede l’intervento di Valditara",
                 "link": "https://www.orizzontescuola.it/viaggi-distruzione-nel-caos-burocratico-il-nuovo-codice-degli-appalti-mette-a-rischio-le-gite-degli-studenti-la-lega-chiede-lintervento-di-valditara/",
@@ -103,7 +143,12 @@
                 "date": "15 Ott 2025",
                 "time": "12:48",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/12/invalsi.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Genitori",
                 "title": "ComUnica: cos’è e a cosa serve la piattaforma di scambio scuola-famiglia. Le FAQ del Ministero",
@@ -143,19 +188,6 @@
                 "date": "15 Ott 2025",
                 "time": "11:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_302086268.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Concorso PNRR 3, preferenze, riserve e titoli valutabili: a cosa fare attenzione. QUESTION TIME con Varengo (Cisl Scuola) LIVE Mercoledì 15 ottobre alle 15:30",
-                "link": "https://www.orizzontescuola.it/concorso-pnrr-3-preferenze-riserve-e-titoli-valutabili-a-cosa-fare-attenzione-question-time-con-varengo-cisl-scuola/",
-                "date": "15 Ott 2025",
-                "time": "10:26",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Template_questiontime_1920x1080-4.png"
             },
             {
                 "category": "Diventare Insegnanti",
@@ -232,44 +264,68 @@
                 "date": "14 Ott 2025",
                 "time": "19:14",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/Carta-del-docente-2.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Manovra 2026, il disegno di legge sarà approvato venerdì. Taglio Irpef, riforma ISEE, pace fiscale, congedo parentale. Le misure annunciate",
-                "link": "https://www.orizzontescuola.it/manovra-2026-slitta-il-varo-del-provvedimento-il-testo-del-disegno-di-legge-sara-approvato-venerdi-le-misure-annunciate/",
-                "date": "14 Ott 2025",
-                "time": "18:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/Governo_1-scaled.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Prove Invalsi 2026: pubblicato il calendario. Tutte le date da marzo a maggio",
-                "link": "https://www.orizzontescuola.it/prove-invalsi-2026-pubblicato-il-calendario-tutte-le-date-da-marzo-a-maggio/",
-                "date": "14 Ott 2025",
-                "time": "17:56",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Screenshot-2025-10-14-175342.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso, Riserva 15% servizio civile nazionale o universale: titolo vale solo se già concluso entro il 29 ottobre. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/riserva-del-15-per-il-servizio-civile-nazionale-o-universale-titolo-vale-solo-se-gia-concluso-entro-il-29-ottobre-pillole-di-question-time/",
-                "date": "14 Ott 2025",
-                "time": "16:46",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_388588465.jpg"
-            },
-            {
-                "category": "Pensioni",
-                "title": "Pensioni scuola 2026: abolito il pensionamento d’ufficio a 65 anni. Nuovo limite ordinamentale è 67 anni",
-                "link": "https://www.orizzontescuola.it/pensioni-scuola-2026-abolito-il-pensionamento-dufficio-a-65-anni-nuovo-limite-ordinamentale-e-67-anni/",
-                "date": "14 Ott 2025",
-                "time": "16:36",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2499290035.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Studenti",
+                "title": "Programma Itaca 2026/27: disponibile il memorandum con le scadenze",
+                "link": "https://www.orizzontescuola.it/programma-itaca-2026-27-disponibile-il-memorandum-con-le-scadenze/",
+                "date": "15 Ott 2025",
+                "time": "20:10",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "Lutto nazionale per i tre Carabinieri morti nell’esplosione: bandiere a mezz’asta anche nelle scuole",
+                "link": "https://www.orizzontescuola.it/lutto-nazionale-per-i-tre-carabinieri-morti-nellesplosione-bandiere-a-mezzasta-anche-nelle-scuole/",
+                "date": "15 Ott 2025",
+                "time": "19:59",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Incubo sonoro in una scuola a Murcia: la canzone di compleanno risuona tutta la notte, intervengono i Vigili del Fuoco per staccare l’altoparlante",
+                "link": "https://www.orizzontescuola.it/incubo-sonoro-in-una-scuola-a-murcia-la-canzone-di-compleanno-risuona-tutta-la-notte-intervengono-i-vigili-del-fuoco-per-staccare-laltoparlante/",
+                "date": "15 Ott 2025",
+                "time": "19:26",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Fa videochiamata oscena alla compagna di classe con il cellulare del padre. Quest’ultimo viene indagato. Di chi è la responsabilità?",
+                "link": "https://www.orizzontescuola.it/fa-videochiamata-oscena-alla-compagna-di-classe-con-il-cellulare-del-padre-questultimo-viene-indagato-di-chi-e-la-responsabilita/",
+                "date": "15 Ott 2025",
+                "time": "19:12",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "D’Aprile: “Bene la Carta docente estesa ai supplenti, ma sul sostegno la priorità è stabilizzare, non prorogare nuovi percorsi straordinari”",
+                "link": "https://www.orizzontescuola.it/daprile-bene-la-carta-docente-estesa-ai-supplenti-ma-sul-sostegno-la-priorita-e-stabilizzare-non-prorogare-nuovi-percorsi-straordinari/",
+                "date": "15 Ott 2025",
+                "time": "18:56",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Vincenzo Schettini: “La felicità dura dieci secondi, non va cercata né pretesa”. Le verità del prof che ispira i giovani: “Vivila qui ed ora”",
+                "link": "https://www.orizzontescuola.it/vincenzo-schettini-la-felicita-dura-dieci-secondi-non-va-cercata-ne-pretesa-le-verita-del-prof-che-ispira-i-giovani-vivila-qui-ed-ora/",
+                "date": "15 Ott 2025",
+                "time": "18:55",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Maturità, via libera al Senato alla riforma, Valditara: “Restituiamo serietà e valore all’esame”",
+                "link": "https://www.orizzontescuola.it/maturita-via-libera-al-senato-alla-riforma-valditara-restituiamo-serieta-e-valore-allesame/",
+                "date": "15 Ott 2025",
+                "time": "18:31",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Oltre un milione e mezzo di euro contro lo spaccio nelle scuole: fondi per videosorveglianza e controlli",
@@ -356,62 +412,6 @@
                 "link": "https://www.orizzontescuola.it/valditara-chi-pensa-si-possa-fare-una-formazione-adeguata-con-il-telefonino-sbaglia-cosi-come-chi-pensa-lintelligenza-artificiale-comporti-necessariamente-luso-del-cellulare/",
                 "date": "15 Ott 2025",
                 "time": "14:11",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Contratto scuola: il CNDDU propone l’indennità di equità territoriale e il fondo per la valorizzazione dei docenti",
-                "link": "https://www.orizzontescuola.it/contratto-scuola-il-cnddu-propone-lindennita-di-equita-territoriale-e-il-fondo-per-la-valorizzazione-dei-docenti/",
-                "date": "15 Ott 2025",
-                "time": "13:20",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Allarme armi a scuola a Napoli: docente trova coltello con lama da 20 cm nascosto nel wc, avviate le indagini",
-                "link": "https://www.orizzontescuola.it/allarme-armi-a-scuola-a-napoli-docente-trova-coltello-con-lama-da-20-cm-nascosto-nel-wc-avviate-le-indagini/",
-                "date": "15 Ott 2025",
-                "time": "12:20",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Giornata mondiale dell’alimentazione: tra le iniziative FAO dedicate ai più giovani il concorso poster e il libro per bambini",
-                "link": "https://www.orizzontescuola.it/giornata-mondiale-dellalimentazione-tra-le-iniziative-fao-dedicate-ai-piu-giovani-il-concorso-poster-e-il-libro-per-bambini/",
-                "date": "15 Ott 2025",
-                "time": "12:13",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Concorsi scuola: censimento e collaudo delle aule entro il 20 ottobre",
-                "link": "https://www.orizzontescuola.it/concorsi-scuola-censimento-e-collaudo-delle-aule-entro-il-20-ottobre/",
-                "date": "15 Ott 2025",
-                "time": "11:24",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Olimpiadi Milano Cortina 2026: studenti in platea, domande entro il 20 ottobre",
-                "link": "https://www.orizzontescuola.it/olimpiadi-milano-cortina-2026-studenti-in-platea-domande-entro-il-20-ottobre/",
-                "date": "15 Ott 2025",
-                "time": "11:06",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Giornata mondiale del lavaggio delle mani, Unicef: 1 scuola su 2 nel mondo senza acqua e sapone",
-                "link": "https://www.orizzontescuola.it/giornata-mondiale-del-lavaggio-delle-mani-unicef-1-scuola-su-2-nel-mondo-senza-acqua-e-sapone/",
-                "date": "15 Ott 2025",
-                "time": "11:00",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Un calendario scolastico più funzionale per le famiglie, la Lombardia ci pensa: “Utile una riflessione nazionale”",
-                "link": "https://www.orizzontescuola.it/un-calendario-scolastico-piu-funzionale-per-le-famiglie-la-lombardia-ci-pensa-utile-una-riflessione-nazionale/",
-                "date": "15 Ott 2025",
-                "time": "9:55",
                 "image_link": "N/A"
             }
         ]
@@ -538,6 +538,22 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Concorso scuola PNRR3, a cosa fare attenzione nella compilazione della domanda. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/concorso-scuola-pnrr3-a-cosa-fare-attenzione-nella-compilazione-della-domanda-risposte-ai-quesiti/",
+                "date": "14 Ott 2025",
+                "time": "9:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1799044252.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3, come compilare la domanda. Video guida completa per Infanzia e Primaria",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-come-compilare-la-domanda-video-guida-completa-per-infanzia-e-primaria/",
+                "date": "14 Ott 2025",
+                "time": "8:14",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Template_videoguide_1920x1080-2.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Iscrizione con riserva al concorso PNRR3: esclusi i laureandi di Scienze della formazione primaria. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/iscrizione-con-riserva-al-concorso-pnrr3-esclusi-i-laureandi-di-scienze-della-formazione-primaria-pillole-di-question-time/",
                 "date": "13 Ott 2025",
@@ -567,28 +583,20 @@
                 "date": "13 Ott 2025",
                 "time": "18:03",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_1448118503.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR3, requisito “tre anni di servizio”: come si contano, il 2025/26 è escluso",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-requisito-tre-anni-di-servizio-come-si-contano-il-2025-26-e-escluso/",
-                "date": "13 Ott 2025",
-                "time": "17:16",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_1819849748.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso scuola PNRR3: si può scegliere solo la regione, non la provincia specifica. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/concorso-scuola-pnrr3-si-puo-scegliere-solo-la-regione-non-la-provincia-specifica-pillole-di-question-time/",
-                "date": "13 Ott 2025",
-                "time": "14:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_322543976.jpg"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
+            {
+                "category": "ATA",
+                "title": "Immissioni in ruolo personale ATA 2025/26: 99,86% le nomine effettuate. I DATI del Ministero per regione e profilo",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-personale-ata-2025-26-9986-le-nomine-effettuate-i-dati-del-ministero-per-regione-e-profilo/",
+                "date": "8 Ott 2025",
+                "time": "11:26",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2198683335.jpg"
+            },
             {
                 "category": "ATA",
                 "title": "Posizioni economiche ATA, il test finale slitta probabilmente a novembre",
@@ -628,14 +636,6 @@
                 "date": "30 Set 2025",
                 "time": "12:13",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2459519923.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Supplenze ATA da graduatoria 24 mesi, precedenza nella scelta della sede. Chiarimenti",
-                "link": "https://www.orizzontescuola.it/supplenze-ata-da-graduatoria-24-mesi-precedenza-nella-scelta-della-sede-chiarimenti/",
-                "date": "24 Set 2025",
-                "time": "15:41",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_1562828788.jpg"
             }
         ]
     },
