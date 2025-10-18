@@ -18,6 +18,38 @@
         "articles": [
             {
                 "category": "Docenti",
+                "title": "Il 25% dei docenti italiani usa lntelligenza Artificiale. Ecco come",
+                "link": "https://www.orizzontescuola.it/il-25-dei-docenti-italiani-usa-lntelligenza-artificiale-ecco-come/",
+                "date": "18 Ott 2025",
+                "time": "14:04",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_2599999921.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Il 67% dei docenti insegna in scuole con il 10% di studenti con Bisogni educativi speciali",
+                "link": "https://www.orizzontescuola.it/il-67-dei-docenti-insegna-in-scuole-con-il-10-di-studenti-con-bisogni-educativi-speciali/",
+                "date": "18 Ott 2025",
+                "time": "12:02",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_107800838.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3: possibili prove scritte entro la fine dell’anno. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-possibili-prove-scritte-entro-la-fine-dellanno-pillole-di-question-time/",
+                "date": "18 Ott 2025",
+                "time": "11:32",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2518506853.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Proroga delle assunzioni da GPS sostegno è un sì al “doppio canale” di reclutamento?",
+                "link": "https://www.orizzontescuola.it/proroga-delle-assunzioni-da-gps-sostegno-e-un-si-al-doppio-canale-di-reclutamento/",
+                "date": "18 Ott 2025",
+                "time": "10:58",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Pacifico.jpg"
+            },
+            {
+                "category": "Docenti",
                 "title": "Autolesionismo negli adolescenti, l’allarme: aumento del 200%. Il fenomeno, le cause, i sintomi da attenzionare",
                 "link": "https://www.orizzontescuola.it/autolesionismo-negli-adolescenti-lallarme-aumento-del-200-il-fenomeno-le-cause-i-sintomi-da-attenzionare/",
                 "date": "18 Ott 2025",
@@ -104,7 +136,12 @@
                 "date": "17 Ott 2025",
                 "time": "18:09",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/shutterstock_1871534923.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Concorso PNRR 3, gli aspetti da chiarire per una corretta compilazione. QUESTION TIME con Cozzetto (Anief) LIVE Lunedì 20 ottobre alle 15:30",
@@ -136,12 +173,7 @@
                 "date": "17 Ott 2025",
                 "time": "16:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/Parlamento-1.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             null,
             {
                 "category": "Diventare Insegnanti",
@@ -239,30 +271,100 @@
                 "date": "17 Ott 2025",
                 "time": "8:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Screenshot-2025-10-17-071224.png"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Appena finisce la scuola vengo a trovarti”, studente sospeso per 25 giorni minaccia docente. La Cassazione annulla il processo in Appello. Ecco cosa hanno detto i giudici",
-                "link": "https://www.orizzontescuola.it/appena-finisce-la-scuola-vengo-a-trovarti-studente-sospeso-per-25-giorni-minaccia-docente-la-cassazione-annulla-il-processo-in-appello-ecco-cosa-hanno-detto-i-giudici/",
-                "date": "17 Ott 2025",
-                "time": "8:23",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/12/shutterstock_1905525472-scaled.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Trama Solidale. Un laboratorio scolastico per cucire turbanti e borsette per le donne in chemioterapia. VIDEO",
-                "link": "https://www.orizzontescuola.it/un-laboratorio-scolastico-che-cuce-turbanti-e-borsette-per-le-donne-in-chemioterapia-video/",
-                "date": "17 Ott 2025",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Screenshot-2025-10-15-144133.png"
-            },
-            null,
-            null
+            }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Nel Regno Unito il 31% dei bambini vive in povertà pari a 4,5 milioni",
+                "link": "https://www.orizzontescuola.it/nel-regno-unito-il-31-dei-bambini-vive-in-poverta-pari-a-45-milioni/",
+                "date": "18 Ott 2025",
+                "time": "14:02",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Genitori",
+                "title": "Instagram, i genitori potranno bloccare le chat tra minori e intelligenze artificiali. Meta annuncia la novità",
+                "link": "https://www.orizzontescuola.it/instagram-i-genitori-potranno-bloccare-le-chat-tra-minori-e-intelligenze-artificiali-meta-annuncia-la-novita/",
+                "date": "18 Ott 2025",
+                "time": "13:57",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Scuola in ospedale, Friuli Venezia Giulia stanzia 240mila euro: “La didattica strumento di cura e normalità”",
+                "link": "https://www.orizzontescuola.it/scuola-in-ospedale-friuli-venezia-giulia-stanzia-240mila-euro-la-didattica-strumento-di-cura-e-normalita/",
+                "date": "18 Ott 2025",
+                "time": "13:31",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "No alle nuove Indicazioni Nazionali, il PD in piazza: “La scuola resti un bene comune, spazio di crescita, libertà e cittadinanza”",
+                "link": "https://www.orizzontescuola.it/no-alle-nuove-indicazioni-nazionali-il-pd-in-piazza-la-scuola-resti-un-bene-comune-spazio-di-crescita-liberta-e-cittadinanza/",
+                "date": "18 Ott 2025",
+                "time": "13:08",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "A 81 anni torna a scuola per il biennio delle superiori",
+                "link": "https://www.orizzontescuola.it/a-81-anni-torna-a-scuola-per-il-biennio-delle-superiori/",
+                "date": "18 Ott 2025",
+                "time": "12:55",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Giulia Stabile ad Amici parla di bullismo e insulti online: “Dopo certi commenti ho deciso di tornare in terapia”",
+                "link": "https://www.orizzontescuola.it/giulia-stabile-ad-amici-parla-di-bullismo-e-insulti-online-dopo-certi-commenti-ho-deciso-di-tornare-in-terapia/",
+                "date": "18 Ott 2025",
+                "time": "12:00",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Papa Leone XIV sui matrimoni: “Ai giovani si presentano contro-modelli di coppia”",
+                "link": "https://www.orizzontescuola.it/papa-leone-xiv-sui-matrimoni-ai-giovani-si-presentano-contro-modelli-di-coppia/",
+                "date": "18 Ott 2025",
+                "time": "11:55",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "100 km al giorno per andare a scuola: il viaggio quotidiano di un alunno di 9 anni dopo la frana",
+                "link": "https://www.orizzontescuola.it/100-km-al-giorno-per-andare-a-scuola-il-viaggio-quotidiano-di-un-alunno-di-9-anni-dopo-la-frana/",
+                "date": "18 Ott 2025",
+                "time": "11:37",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Genitori",
+                "title": "Assegno Unico Universale: pagamenti ottobre il 20 e 21",
+                "link": "https://www.orizzontescuola.it/assegno-unico-universale-pagamenti-ottobre-il-20-e-21/",
+                "date": "18 Ott 2025",
+                "time": "11:20",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Soggiorni invernali nelle Case del Maestro: online la graduatoria",
+                "link": "https://www.orizzontescuola.it/soggiorni-invernali-nelle-case-del-maestro-online-la-graduatoria/",
+                "date": "18 Ott 2025",
+                "time": "11:12",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Studenti",
+                "title": "Portale INPS giovani: più di un milione di accessi. il 32% da studenti. Borse di studio e riscatto laurea tra i servizi più usati",
+                "link": "https://www.orizzontescuola.it/portale-inps-giovani-piu-di-un-milione-di-accessi-il-32-da-studenti-borse-di-studio-e-riscatto-laurea-tra-i-servizi-piu-usati/",
+                "date": "18 Ott 2025",
+                "time": "11:03",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Il professore offre caramella a un alunno, ma è naftalina",
@@ -317,87 +419,6 @@
                 "link": "https://www.orizzontescuola.it/premio-inge-feltrinelli-raccontare-il-mondo-difendere-i-diritti-scheda-progettuale-entro-il-20-novembre-nota/",
                 "date": "17 Ott 2025",
                 "time": "17:47",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Genitori",
-                "title": "Centri estivi: nuove modalità di accesso alla piattaforma",
-                "link": "https://www.orizzontescuola.it/centri-estivi-nuove-modalita-di-accesso-alla-piattaforma/",
-                "date": "17 Ott 2025",
-                "time": "17:12",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Riforma della disabilità: disponibile la brochure INPS con tutte le novità su accertamento sanitario e Disability Card",
-                "link": "https://www.orizzontescuola.it/riforma-della-disabilita-disponibile-la-brochure-inps-con-tutte-le-novita-su-accertamento-sanitario-e-disability-card/",
-                "date": "17 Ott 2025",
-                "time": "17:00",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Legge di Bilancio, AIE: “Manca la detrazione per la spesa dei libri scolastici. Siamo delusi”",
-                "link": "https://www.orizzontescuola.it/legge-di-bilancio-aie-manca-la-detrazione-per-la-spesa-dei-libri-scolastici-siamo-delusi/",
-                "date": "17 Ott 2025",
-                "time": "16:48",
-                "image_link": "N/A"
-            },
-            null,
-            {
-                "category": "Cronaca",
-                "title": "Calabria regione italiana a più alto rischio povertà ed esclusione sociale dopo il Guyana francese, seguono Campania, Sicilia e Puglia",
-                "link": "https://www.orizzontescuola.it/calabria-regione-italiana-a-piu-alto-rischio-poverta-ed-esclusione-sociale-dopo-il-guyana-francese-seguono-campania-sicilia-e-puglia/",
-                "date": "17 Ott 2025",
-                "time": "15:13",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Il monito di Veltroni ai giovani: “Oggi la vita è dentro il telefono, ma questo non è gratis. Il prezzo siamo noi”",
-                "link": "https://www.orizzontescuola.it/il-monito-di-veltroni-ai-giovani-oggi-la-vita-e-dentro-il-telefono-ma-questo-non-e-gratis-il-prezzo-siamo-noi/",
-                "date": "17 Ott 2025",
-                "time": "14:53",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Panico in un istituto di Ancona: spray urticante spruzzato nei corridoi, scuola evacuata e studenti intossicati",
-                "link": "https://www.orizzontescuola.it/panico-in-un-istituto-di-ancona-spray-urticante-spruzzato-nei-corridoi-scuola-evacuata-e-studenti-intossicati/",
-                "date": "17 Ott 2025",
-                "time": "14:41",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Giornata internazionale per l’eliminazione della povertà, oltre un milione di minori in povertà assoluta",
-                "link": "https://www.orizzontescuola.it/giornata-internazionale-per-leliminazione-della-poverta-oltre-un-milione-di-minori-in-poverta-assoluta/",
-                "date": "17 Ott 2025",
-                "time": "14:36",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Bonus per acquistare i libri di scuola? Giorgetti dice no: “Abbiamo dirottato i fondi su riforma ISEE e bonus mamme”",
-                "link": "https://www.orizzontescuola.it/bonus-per-acquistare-i-libri-di-scuola-giorgetti-dice-no-abbiamo-dirottato-i-fondi-su-riforma-isee-e-bonus-mamme/",
-                "date": "17 Ott 2025",
-                "time": "14:24",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Premio UNESCO – Hamdan per lo sviluppo professionale degli insegnanti 2025/26: proroga candidature al 1° dicembre",
-                "link": "https://www.orizzontescuola.it/premio-unesco-hamdan-per-lo-sviluppo-professionale-degli-insegnanti-2025-26-proroga-candidature-al-1-dicembre/",
-                "date": "17 Ott 2025",
-                "time": "14:07",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Acquistinretepa: manutenzione straordinaria dal 17 al 20 ottobre",
-                "link": "https://www.orizzontescuola.it/acquistinretepa-manutenzione-straordinaria-dal-17-al-20-ottobre/",
-                "date": "17 Ott 2025",
-                "time": "14:00",
                 "image_link": "N/A"
             }
         ]
@@ -524,6 +545,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3: Ministero chiarisce riserva per iscritti ai percorsi da 30 CFU e servizio classi di concorso accorpate. LE FAQ",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-ministero-chiarisce-riserva-per-iscritti-ai-percorsi-da-30-cfu-e-servizio-classi-di-concorso-accorpate-le-faq/",
+                "date": "16 Ott 2025",
+                "time": "12:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2493334753-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Docenti neoimmessi in ruolo 2025: anno di prova e formazione. Chi deve svolgerlo, quali attività. Prima scadenza 31 ottobre",
                 "link": "https://www.orizzontescuola.it/docenti-neoimmessi-in-ruolo-2025-anno-di-prova-e-formazione-chi-deve-svolgerlo-quali-attivita-prima-scadenza-31-ottobre/",
                 "date": "16 Ott 2025",
@@ -561,14 +590,6 @@
                 "date": "16 Ott 2025",
                 "time": "9:25",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2420206409.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR3, requisito “tre anni di servizio”: come si contano, il 2025/26 è escluso",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-requisito-tre-anni-di-servizio-come-si-contano-il-2025-26-e-escluso/",
-                "date": "16 Ott 2025",
-                "time": "8:54",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_1819849748.jpg"
             }
         ]
     },
