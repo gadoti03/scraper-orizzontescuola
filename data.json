@@ -4,18 +4,41 @@
         "articles": [
             {
                 "category": "Cronaca",
+                "title": "Contratto scuola, in arrivo fino a 600 milioni di euro in più per aumenti stipendiali",
+                "link": "https://www.orizzontescuola.it/contratto-scuola-in-arrivo-fino-a-600-milioni-di-euro-in-piu-per-aumenti-stipendiali/",
+                "date": "18 Ott 2025",
+                "time": "16:41",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_375340615.jpg"
+            },
+            {
+                "category": "Cronaca",
                 "title": "Abbandona l’insegnamento dopo 18 anni di servizio e apre un negozio di alimentari: “Non ne potevo più della burocrazia e non ho rimpianti”",
                 "link": "https://www.orizzontescuola.it/abbandona-linsegnamento-dopo-18-anni-di-servizio-e-apre-un-negozio-di-alimentari-non-ne-potevo-piu-della-burocrazia-e-non-ho-rimpianti/",
                 "date": "18 Ott 2025",
                 "time": "8:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Immagine-WhatsApp-2025-10-12-ore-16.38.50_3d4e8422.jpg"
-            },
-            null
+            }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Potrete lavorare fino a 75 anni",
+                "link": "https://www.orizzontescuola.it/potrete-lavorare-fino-a-75-anni/",
+                "date": "18 Ott 2025",
+                "time": "17:03",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_2688777197.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Formazione dei docenti durante la carriera, mancano incentivi. A sostenerlo il 63%. Al secondo posto l’eccessivo carico di lavoro",
+                "link": "https://www.orizzontescuola.it/formazione-dei-docenti-durante-la-carriera-mancano-incentivi-a-sostenerlo-il-63-al-secondo-posto-leccessivo-carico-di-lavoro/",
+                "date": "18 Ott 2025",
+                "time": "16:07",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2090710285.jpg"
+            },
             {
                 "category": "Docenti",
                 "title": "Il 25% dei docenti italiani usa lntelligenza Artificiale. Ecco come",
@@ -105,6 +128,7 @@
                 "time": "7:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Assegnazioni-provvisorie-e-utilizzazioni-1.png"
             },
+            null,
             {
                 "category": "Cronaca",
                 "title": "Manovra 2026, più aiuti alle famiglie e pensioni minime: nuovo bonus mamme, centri estivi e incremento degli assegni. Cosa è previsto",
@@ -112,7 +136,12 @@
                 "date": "17 Ott 2025",
                 "time": "22:01",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Governo-scaled.jpeg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Consulenza fiscale",
                 "title": "Pensione di vecchiaia, non si andrà più a 67 anni. L’età pensionabile aumenta dal 2027",
@@ -136,12 +165,7 @@
                 "date": "17 Ott 2025",
                 "time": "18:09",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/shutterstock_1871534923.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Concorso PNRR 3, gli aspetti da chiarire per una corretta compilazione. QUESTION TIME con Cozzetto (Anief) LIVE Lunedì 20 ottobre alle 15:30",
@@ -247,36 +271,44 @@
                 "date": "17 Ott 2025",
                 "time": "9:15",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Sottotitolo-2.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Conferma supplente di sostegno su richiesta della famiglia: ci sarà anche nel 2026/27 e 2027/28. I dettagli",
-                "link": "https://www.orizzontescuola.it/conferma-supplente-di-sostegno-su-richiesta-della-famiglia-ci-sara-anche-nel-2026-27-e-2027-28-i-dettagli/",
-                "date": "17 Ott 2025",
-                "time": "9:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_1056955391.jpg"
-            },
-            {
-                "category": "Studenti",
-                "title": "Il browser Comet può fare i compiti al posto tuo in 16 secondi. Il CEO di Perplexity: “Assolutamente non fatelo”",
-                "link": "https://www.orizzontescuola.it/il-browser-comet-puo-fare-i-compiti-al-posto-tuo-in-16-secondi-il-ceo-di-perplexity-assolutamente-non-fatelo/",
-                "date": "17 Ott 2025",
-                "time": "8:45",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_2669345789.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "In Europa si sprecano 130 kili di cibo annui a testa, nelle mense scolastiche il 21,7% del cibo non viene consumato (90 grammi al giorno). UE: “Dimezzare entro il 2030”",
-                "link": "https://www.orizzontescuola.it/in-europa-si-sprecano-130-kili-di-cibo-annui-a-testa-nelle-mense-scolastiche-il-217-del-cibo-non-viene-consumato-90-grammi-al-giorno-ue-dimezzare-entro-il-2030/",
-                "date": "17 Ott 2025",
-                "time": "8:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Screenshot-2025-10-17-071224.png"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Un murale per Nicola Gratteri accanto ad una scuola: “La cultura rende liberi”",
+                "link": "https://www.orizzontescuola.it/un-murale-per-nicola-gratteri-accanto-ad-una-scuola-la-cultura-rende-liberi/",
+                "date": "18 Ott 2025",
+                "time": "16:45",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Manovra, le richieste Anief: dal riconoscimento del lavoro usurante per tutti all’aumento di risorse per detassazione, Carta docente, Mof e altro",
+                "link": "https://www.orizzontescuola.it/manovra-le-richieste-anief-dal-riconoscimento-del-lavoro-usurante-per-tutti-allaumento-di-risorse-per-detassazione-carta-docente-mof-e-altro/",
+                "date": "18 Ott 2025",
+                "time": "16:43",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Consenso informato a scuola, il Forum delle Associazioni Familiari: “Una garanzia per tutti”",
+                "link": "https://www.orizzontescuola.it/consenso-informato-a-scuola-il-forum-delle-associazioni-familiari-una-garanzia-per-tutti/",
+                "date": "18 Ott 2025",
+                "time": "16:40",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Si è spenta Sofia Corradi, la “mamma Erasmus”",
+                "link": "https://www.orizzontescuola.it/si-e-spenta-sofia-corradi-la-mamma-erasmus/",
+                "date": "18 Ott 2025",
+                "time": "16:34",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Nel Regno Unito il 31% dei bambini vive in povertà pari a 4,5 milioni",
@@ -387,38 +419,6 @@
                 "link": "https://www.orizzontescuola.it/ancora-spry-al-peperoncino-in-una-scuola-evacuazione-e-malessere-tra-gli-studenti/",
                 "date": "18 Ott 2025",
                 "time": "8:54",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Alba è la Capitale italiana dell’Arte Contemporanea 2027: rilevanti i percorsi innovativi per giovani e scuole",
-                "link": "https://www.orizzontescuola.it/alba-e-la-capitale-italiana-dellarte-contemporanea-2027-rilevanti-i-percorsi-innovativi-per-giovani-e-scuole/",
-                "date": "17 Ott 2025",
-                "time": "19:09",
-                "image_link": "N/A"
-            },
-            {
-                "category": "ATA",
-                "title": "Mobilità docenti e ATA: l’USP di Venezia avvia i controlli. Per i figli a carico verifica all’ufficio anagrafe",
-                "link": "https://www.orizzontescuola.it/mobilita-docenti-e-ata-lusp-di-venezia-avvia-i-controlli-per-i-figli-a-carico-verifica-allufficio-anagrafe/",
-                "date": "17 Ott 2025",
-                "time": "18:57",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Viaggi di istruzione: MIM, MIT e MITUR a confronto, presto un tavolo per supportare le scuole",
-                "link": "https://www.orizzontescuola.it/viaggi-di-istruzione-mim-mit-e-mitur-a-confronto-presto-un-tavolo-per-supportare-le-scuole/",
-                "date": "17 Ott 2025",
-                "time": "18:23",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "“Premio Inge Feltrinelli. Raccontare il mondo, difendere i diritti”: scheda progettuale entro il 20 novembre. NOTA",
-                "link": "https://www.orizzontescuola.it/premio-inge-feltrinelli-raccontare-il-mondo-difendere-i-diritti-scheda-progettuale-entro-il-20-novembre-nota/",
-                "date": "17 Ott 2025",
-                "time": "17:47",
                 "image_link": "N/A"
             }
         ]
