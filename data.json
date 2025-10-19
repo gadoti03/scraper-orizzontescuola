@@ -24,6 +24,22 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso sostegno secondaria: si valutano solo gli anni di servizio specifico. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/concorso-sostegno-secondaria-si-valutano-solo-gli-anni-di-servizio-specifico-pillole-di-question-time/",
+                "date": "19 Ott 2025",
+                "time": "12:32",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_107800838.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Educazione sessuale vietata fino alla scuola media, scontro in Parlamento: “Deriva oscurantista” contro “Tutela per le famiglie”",
+                "link": "https://www.orizzontescuola.it/educazione-sessuale-vietata-fino-alla-scuola-media-scontro-in-parlamento-deriva-oscurantista-contro-tutela-per-le-famiglie/",
+                "date": "19 Ott 2025",
+                "time": "11:22",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_1205245405.jpg"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Palestre scolastiche accessibili tutto l’anno, Berruto: “Collaborazione forte tra istituti e società sportive, con un’apertura culturale che favorisca la crescita dello sport di base”",
                 "link": "https://www.orizzontescuola.it/palestre-scolastiche-accessibili-tutto-lanno-berruto-serve-una-collaborazione-forte-tra-istituti-e-societa-sportive-con-unapertura-culturale-che-favorisca-la-crescita-dello-sport/",
@@ -127,7 +143,12 @@
                 "date": "18 Ott 2025",
                 "time": "9:34",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2480765345.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Didattica",
                 "title": "Possibile una scuola senza voti? Vi dico come fare e perché conviene",
@@ -143,12 +164,7 @@
                 "date": "18 Ott 2025",
                 "time": "8:46",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_1592219284.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Abbandona l’insegnamento dopo 18 anni di servizio e apre un negozio di alimentari: “Non ne potevo più della burocrazia e non ho rimpianti”",
@@ -255,28 +271,52 @@
                 "date": "17 Ott 2025",
                 "time": "12:32",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Scuola in ospedale e Istruzione domiciliare: quadro normativo e indicazioni operative per l’A.S. 2025/26",
-                "link": "https://www.orizzontescuola.it/scuola-in-ospedale-e-istruzione-domiciliare-quadro-normativo-e-indicazioni-operative-per-la-s-2025-26/",
-                "date": "17 Ott 2025",
-                "time": "11:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/shutterstock_1051861454-1.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "“Figli a carico” nella domanda di concorso PNRR3: si inseriscono ma non danno punteggio. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/figli-a-carico-nella-domanda-di-concorso-pnrr3-si-inseriscono-ma-non-danno-punteggio-pillole-di-question-time/",
-                "date": "17 Ott 2025",
-                "time": "11:36",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_210414061.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Solo 1 bambino su 4 legge più di 6 libri: Topolino risponde con #IoLeggoTopolino e un podcast con Treccani",
+                "link": "https://www.orizzontescuola.it/solo-1-bambino-su-4-legge-piu-di-6-libri-topolino-risponde-con-ioleggotopolino-e-un-podcast-con-treccani/",
+                "date": "19 Ott 2025",
+                "time": "12:49",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Contributi INPS per master e corsi universitari: domande entro il 22 ottobre",
+                "link": "https://www.orizzontescuola.it/contributi-inps-per-master-e-corsi-universitari-domande-entro-il-22-ottobre/",
+                "date": "19 Ott 2025",
+                "time": "12:48",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Daniele Luchetti celebra “La scuola” trent’anni dopo: “Quel film resta un unicum”. In streaming una versione restaurata",
+                "link": "https://www.orizzontescuola.it/daniele-luchetti-celebra-la-scuola-trentanni-dopo-quel-film-resta-un-unicum-in-streaming-una-versione-restaurata/",
+                "date": "19 Ott 2025",
+                "time": "11:51",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Intelligenza artificiale sempre più vicina agli studenti: solo il 4% si sente competente",
+                "link": "https://www.orizzontescuola.it/intelligenza-artificiale-sempre-piu-vicina-agli-studenti-solo-il-4-si-sente-competente/",
+                "date": "19 Ott 2025",
+                "time": "11:00",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Genitori",
+                "title": "Sharenting: cosa rischiano i bambini quando la loro vita finisce online. I suggerimenti del Garante per la privacy ai genitori",
+                "link": "https://www.orizzontescuola.it/sharenting-cosa-rischiano-i-bambini-quando-la-loro-vita-finisce-online-i-suggerimenti-del-garante-per-la-privacy-ai-genitori/",
+                "date": "19 Ott 2025",
+                "time": "10:38",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Domenica 26 ottobre ritorna l’ora solare: un’ora in più di sonno ma cresce lo scetticismo sull’utilità",
@@ -379,46 +419,6 @@
                 "link": "https://www.orizzontescuola.it/100-km-al-giorno-per-andare-a-scuola-il-viaggio-quotidiano-di-un-alunno-di-9-anni-dopo-la-frana/",
                 "date": "18 Ott 2025",
                 "time": "11:37",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Genitori",
-                "title": "Assegno Unico Universale: pagamenti ottobre il 20 e 21",
-                "link": "https://www.orizzontescuola.it/assegno-unico-universale-pagamenti-ottobre-il-20-e-21/",
-                "date": "18 Ott 2025",
-                "time": "11:20",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Soggiorni invernali nelle Case del Maestro: online la graduatoria",
-                "link": "https://www.orizzontescuola.it/soggiorni-invernali-nelle-case-del-maestro-online-la-graduatoria/",
-                "date": "18 Ott 2025",
-                "time": "11:12",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Studenti",
-                "title": "Portale INPS giovani: più di un milione di accessi. il 32% da studenti. Borse di studio e riscatto laurea tra i servizi più usati",
-                "link": "https://www.orizzontescuola.it/portale-inps-giovani-piu-di-un-milione-di-accessi-il-32-da-studenti-borse-di-studio-e-riscatto-laurea-tra-i-servizi-piu-usati/",
-                "date": "18 Ott 2025",
-                "time": "11:03",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Il professore offre caramella a un alunno, ma è naftalina",
-                "link": "https://www.orizzontescuola.it/il-professore-offre-caramella-a-un-alunno-ma-e-naftalina/",
-                "date": "18 Ott 2025",
-                "time": "10:15",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Rincontra i suoi vecchi studenti a 92 anni: “Rivedervi mi ha ridato anni e forza”",
-                "link": "https://www.orizzontescuola.it/rincontra-i-suoi-vecchi-studenti-a-92-anni-rivedervi-mi-ha-ridato-anni-e-forza/",
-                "date": "18 Ott 2025",
-                "time": "9:55",
                 "image_link": "N/A"
             }
         ]
@@ -598,6 +598,14 @@
         "articles": [
             {
                 "category": "ATA",
+                "title": "Organici e reclutamento ATA, dal 2026/27 44mila posti in meno per i collaboratori scolastici, rischi per mobilità. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/organici-e-reclutamento-ata-dal-2026-27-44mila-posti-in-meno-per-i-collaboratori-scolastici-rischio-complicazioni-mobilita-risposte-ai-quesiti/",
+                "date": "9 Ott 2025",
+                "time": "8:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
+            },
+            {
+                "category": "ATA",
                 "title": "Revisione degli organici ATA dal 2026/27: operatori scolastici nelle scuole con più alunni, aggiunte per disabilità e tempo pieno. I nuovi criteri",
                 "link": "https://www.orizzontescuola.it/revisione-degli-organici-ata-dal-2026-27-operatori-scolastici-nelle-scuole-con-piu-alunni-aggiunte-per-disabilita-e-tempo-pieno-i-nuovi-criteri/",
                 "date": "8 Ott 2025",
@@ -635,14 +643,6 @@
                 "date": "7 Ott 2025",
                 "time": "13:51",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2198390061.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Ricostruzione di carriera per gli ATA: bisogna riconoscere il pre ruolo. Cosa hanno detto i giudici",
-                "link": "https://www.orizzontescuola.it/ricostruzione-di-carriera-per-gli-ata-bisogna-riconoscere-il-pre-ruolo-cosa-hanno-detto-i-giudici/",
-                "date": "4 Ott 2025",
-                "time": "11:16",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/12/shutterstock_1905525472-scaled.jpg"
             }
         ]
     },
@@ -704,7 +704,7 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
-                "title": "Riorganizzazione calendario scolastico, posticipo elezioni, ed. civica digitale. Le proposte al Ministro. Lettera",
+                "title": "Riorganizzazione calendario scolastico, posticipo lezioni, ed. civica digitale. Le proposte al Ministro. Lettera",
                 "link": "https://www.orizzontescuola.it/riorganizzazione-calendario-scolastico-posticipo-elezioni-ed-civica-digitale-le-proposte-al-ministro-lettera/",
                 "date": "19 Ott 2025",
                 "time": "10:08",
