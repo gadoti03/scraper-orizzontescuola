@@ -4,25 +4,50 @@
         "articles": [
             {
                 "category": "Cronaca",
+                "title": "Insegnante a 21 anni, supera il concorso e passa alla cattedra: “Si sente la poca differenza d’età, ma c’è rispetto”. La storia di Libera",
+                "link": "https://www.orizzontescuola.it/insegnante-a-21-anni-supera-il-concorso-e-passa-alla-cattedra-si-sente-la-poca-differenze-di-eta-ma-ce-rispetto-la-storia-di-libera/",
+                "date": "19 Ott 2025",
+                "time": "8:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Screenshot-2025-10-18-170134.png"
+            },
+            {
+                "category": "Cronaca",
                 "title": "Contratto scuola, in arrivo fino a 600 milioni di euro in più per aumenti stipendiali",
                 "link": "https://www.orizzontescuola.it/contratto-scuola-in-arrivo-fino-a-600-milioni-di-euro-in-piu-per-aumenti-stipendiali/",
                 "date": "18 Ott 2025",
                 "time": "16:41",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_375340615.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Abbandona l’insegnamento dopo 18 anni di servizio e apre un negozio di alimentari: “Non ne potevo più della burocrazia e non ho rimpianti”",
-                "link": "https://www.orizzontescuola.it/abbandona-linsegnamento-dopo-18-anni-di-servizio-e-apre-un-negozio-di-alimentari-non-ne-potevo-piu-della-burocrazia-e-non-ho-rimpianti/",
-                "date": "18 Ott 2025",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Immagine-WhatsApp-2025-10-12-ore-16.38.50_3d4e8422.jpg"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Palestre scolastiche accessibili tutto l’anno, Berruto: “Collaborazione forte tra istituti e società sportive, con un’apertura culturale che favorisca la crescita dello sport di base”",
+                "link": "https://www.orizzontescuola.it/palestre-scolastiche-accessibili-tutto-lanno-berruto-serve-una-collaborazione-forte-tra-istituti-e-societa-sportive-con-unapertura-culturale-che-favorisca-la-crescita-dello-sport/",
+                "date": "19 Ott 2025",
+                "time": "9:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/Berruto.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso scuola PNRR3: non è possibile conoscere in anticipo la distribuzione dei posti per provincia. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/concorso-scuola-pnrr3-non-e-possibile-conoscere-in-anticipo-la-distribuzione-dei-posti-per-provincia-e-classe-di-concorso-pillole-di-question-time/",
+                "date": "19 Ott 2025",
+                "time": "9:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2120807768.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Educazione sessuale a scuola, Valditara: “No a teorie gender e indottrinamento. Stop alle strumentalizzazioni da parte dell’opposizione”",
+                "link": "https://www.orizzontescuola.it/educazione-sessuale-a-scuola-valditara-no-a-teorie-gender-e-indottrinamento-stop-alle-strumentalizzazioni-da-parte-dellopposizione/",
+                "date": "19 Ott 2025",
+                "time": "9:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Valditara.png"
+            },
+            null,
             {
                 "category": "Pensioni",
                 "title": "Pensioni d’ufficio docenti e ATA, cosa cambia: si esce solo a 67 anni, stop al collocamento a riposo a 65 anni",
@@ -118,6 +143,19 @@
                 "date": "18 Ott 2025",
                 "time": "8:46",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_1592219284.jpg"
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Abbandona l’insegnamento dopo 18 anni di servizio e apre un negozio di alimentari: “Non ne potevo più della burocrazia e non ho rimpianti”",
+                "link": "https://www.orizzontescuola.it/abbandona-linsegnamento-dopo-18-anni-di-servizio-e-apre-un-negozio-di-alimentari-non-ne-potevo-piu-della-burocrazia-e-non-ho-rimpianti/",
+                "date": "18 Ott 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Immagine-WhatsApp-2025-10-12-ore-16.38.50_3d4e8422.jpg"
             },
             null,
             {
@@ -136,12 +174,7 @@
                 "time": "7:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Assegnazioni-provvisorie-e-utilizzazioni-1.png"
             },
-            null
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            null,
             {
                 "category": "Cronaca",
                 "title": "Manovra 2026, più aiuti alle famiglie e pensioni minime: nuovo bonus mamme, centri estivi e incremento degli assegni. Cosa è previsto",
@@ -173,14 +206,6 @@
                 "date": "17 Ott 2025",
                 "time": "18:09",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/shutterstock_1871534923.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Concorso PNRR 3, gli aspetti da chiarire per una corretta compilazione. QUESTION TIME con Cozzetto (Anief) LIVE Lunedì 20 ottobre alle 15:30",
-                "link": "https://www.orizzontescuola.it/concorso-pnrr-3-gli-aspetti-da-chiarire-per-una-corretta-compilazione-question-time-con-cozzetto-anief-live-lunedi-20-ottobre-alle-1530/",
-                "date": "17 Ott 2025",
-                "time": "17:47",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Template_questiontime_1920x1080-8.png"
             },
             {
                 "category": "Diventare Insegnanti",
@@ -246,37 +271,20 @@
                 "date": "17 Ott 2025",
                 "time": "11:36",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_210414061.jpg"
-            },
-            {
-                "category": "Plus",
-                "title": "Concorso docenti PNRR3: iscrizioni entro 29 ottobre. Scarica l’e-book di Lalla. Scopri come averlo gratuitamente",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-al-via-le-iscrizioni-scarica-le-book-di-lalla-scopri-come-averlo-gratuitamente/",
-                "date": "17 Ott 2025",
-                "time": "11:02",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/E-Book-concorso-a-cattedra-1.jpg"
-            },
-            {
-                "category": "Dirigenti scolastici",
-                "title": "Dirigenti scolastici, possibili nuove assunzioni. Al vaglio del Ministero dell’economia",
-                "link": "https://www.orizzontescuola.it/dirigenti-scolastici-possibili-nuove-assunzioni-al-vaglio-del-ministero-delleconomia/",
-                "date": "17 Ott 2025",
-                "time": "10:33",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_1523265968.jpg"
-            },
-            null,
-            {
-                "category": "Scuole",
-                "title": "Supplenze, Interpelli nelle scuole: un modello di regolamento pronto all’utilizzo per gestirli in modo efficace",
-                "link": "https://www.orizzontescuola.it/interpelli-nelle-scuole-un-modello-di-regolamento-per-gestirli-in-modo-efficace-pronto-allutilizzo/",
-                "date": "17 Ott 2025",
-                "time": "9:31",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2538269019.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Domenica 26 ottobre ritorna l’ora solare: un’ora in più di sonno ma cresce lo scetticismo sull’utilità",
+                "link": "https://www.orizzontescuola.it/domenica-26-ottobre-ritorna-lora-solare-unora-in-piu-di-sonno-ma-cresce-lo-scetticismo-sullutilita/",
+                "date": "19 Ott 2025",
+                "time": "8:30",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Un murale per Nicola Gratteri accanto ad una scuola: “La cultura rende liberi”",
@@ -412,20 +420,20 @@
                 "date": "18 Ott 2025",
                 "time": "9:55",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Ancora spray al peperoncino in una scuola: evacuazione e malessere tra gli studenti",
-                "link": "https://www.orizzontescuola.it/ancora-spry-al-peperoncino-in-una-scuola-evacuazione-e-malessere-tra-gli-studenti/",
-                "date": "18 Ott 2025",
-                "time": "8:54",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Concorso PNRR 3, gli aspetti da chiarire per una corretta compilazione. QUESTION TIME con Cozzetto (Anief) LIVE Lunedì 20 ottobre alle 15:30",
+                "link": "https://www.orizzontescuola.it/concorso-pnrr-3-gli-aspetti-da-chiarire-per-una-corretta-compilazione-question-time-con-cozzetto-anief-live-lunedi-20-ottobre-alle-1530/",
+                "date": "17 Ott 2025",
+                "time": "9:27",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "VIDEO TUTORIAL | Concorso PNRR 3, come fare la domanda passo dopo passo. QUESTION TIME con Vannini (Uil Scuola) LIVE Martedì 14 ottobre alle 15:00",
@@ -529,20 +537,20 @@
                 "date": "10 Set 2025",
                 "time": "12:32",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Cattedra esterna (COE) per contrazione di organico docenti: va assegnata annualmente. Occhio alla graduatoria interna di istituto",
-                "link": "https://www.orizzontescuola.it/cattedra-esterna-coe-per-contrazione-di-organico-docenti-va-assegnata-annualmente-occhio-alla-graduatoria-interna-di-istituto/",
-                "date": "10 Set 2025",
-                "time": "10:27",
-                "image_link": "N/A"
             }
         ]
     },
     "group_6": {
         "title": "Diventare Insegnanti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso scuola PNRR3: è possibile partecipare sia per posto comune che per sostegno. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/concorso-scuola-pnrr3-e-possibile-partecipare-sia-per-posto-comune-che-per-sostegno-pillole-di-question-time/",
+                "date": "16 Ott 2025",
+                "time": "13:29",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2501727439-1.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Graduatorie concorso docenti PNRR1, da oggi anche idonei visualizzano la propria posizione",
@@ -582,20 +590,20 @@
                 "date": "16 Ott 2025",
                 "time": "12:06",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2538269019.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR3: chiarimenti su iscrizione con riserva ex art. 13, titoli di accesso e altri titoli. RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-chiarimenti-su-iscrizione-con-riserva-ex-art-13-titoli-di-accesso-e-altri-titoli-risposte-ai-quesiti/",
-                "date": "16 Ott 2025",
-                "time": "9:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_2066856038.jpg"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
+            {
+                "category": "ATA",
+                "title": "Revisione degli organici ATA dal 2026/27: operatori scolastici nelle scuole con più alunni, aggiunte per disabilità e tempo pieno. I nuovi criteri",
+                "link": "https://www.orizzontescuola.it/revisione-degli-organici-ata-dal-2026-27-operatori-scolastici-nelle-scuole-con-piu-alunni-aggiunte-per-disabilita-e-tempo-pieno-i-nuovi-criteri/",
+                "date": "8 Ott 2025",
+                "time": "13:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_2079528205.jpg"
+            },
             {
                 "category": "ATA",
                 "title": "Immissioni in ruolo personale ATA 2025/26: 99,86% le nomine effettuate. I DATI del Ministero per regione e profilo",
@@ -635,14 +643,6 @@
                 "date": "4 Ott 2025",
                 "time": "11:16",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/12/shutterstock_1905525472-scaled.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Graduatorie ATA: riserva del 15% anche per il servizio civile nazionale, ma solo in prima fascia",
-                "link": "https://www.orizzontescuola.it/graduatorie-ata-riserva-del-15-anche-per-il-servizio-civile-nazionale-ma-solo-in-prima-fascia/",
-                "date": "30 Set 2025",
-                "time": "12:13",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2459519923.jpg"
             }
         ]
     },
@@ -704,6 +704,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Riorganizzazione calendario scolastico, posticipo elezioni, ed. civica digitale. Le proposte al Ministro. Lettera",
+                "link": "https://www.orizzontescuola.it/riorganizzazione-calendario-scolastico-posticipo-elezioni-ed-civica-digitale-le-proposte-al-ministro-lettera/",
+                "date": "19 Ott 2025",
+                "time": "10:08",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "Scuola, l’aggiornamento serva al Parlamento. Lettera",
                 "link": "https://www.orizzontescuola.it/scuola-laggiornamento-serva-al-parlamento-lettera/",
                 "date": "15 Ott 2025",
@@ -740,14 +748,6 @@
                 "link": "https://www.orizzontescuola.it/il-primo-consiglio-di-classe-un-momento-chiave-per-la-progettazione-educativa-lettera/",
                 "date": "10 Ott 2025",
                 "time": "9:27",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Open Day: rendere appetibile una scuola di montagna. Lettera",
-                "link": "https://www.orizzontescuola.it/open-day-rendere-appetibile-una-scuola-di-montagna-lettera/",
-                "date": "9 Ott 2025",
-                "time": "9:23",
                 "image_link": "N/A"
             }
         ]
