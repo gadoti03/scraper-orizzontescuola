@@ -2,20 +2,62 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
-            null,
             {
                 "category": "Cronaca",
-                "title": "Stop a supplenze fino a 10 giorni nella secondaria di I e II grado, il Dirigente avrà l’obbligo di copertura con l’organico interno. È nella BOZZA di Legge di Bilancio",
-                "link": "https://www.orizzontescuola.it/stop-a-supplenze-temporanee-nella-secondaria-di-i-e-ii-grado-il-dirigente-avra-lobbligo-di-copertura-con-lorganico-a-disposizione/",
-                "date": "19 Ott 2025",
-                "time": "19:27",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2487342921-scaled.jpg"
-            }
+                "title": "Aumenti stipendiali, detassazione dei compensi accessori: 15% per un massimo di 800 euro annui. È nella bozza di Legge di Bilancio",
+                "link": "https://www.orizzontescuola.it/aumenti-stipendiali-detassazione-dei-compensi-accessori-15-per-un-massimo-di-800-euro-annui-e-nella-bozza-di-legge-di-bilancio/",
+                "date": "21 Ott 2025",
+                "time": "8:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/shutterstock_1025637199.jpg"
+            },
+            null
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Pensioni",
+                "title": "Pensioni scuola 2026: domande entro oggi 21 ottobre, anche per trattenimento in servizio. Requisiti e modalità",
+                "link": "https://www.orizzontescuola.it/pensioni-scuola-2026-domande-entro-domanda-21-ottobre-anche-per-trattenimento-in-servizio-chi-puo-presentarla-e-come/",
+                "date": "21 Ott 2025",
+                "time": "10:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3, servizio svolto in una delle classi di concorso accorpate può valere come titolo di accesso anche per l’altra? Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-servizio-svolto-in-una-delle-classi-di-concorso-accorpate-puo-valere-come-titolo-di-accesso-anche-per-laltra-pillole-di-question-time/",
+                "date": "21 Ott 2025",
+                "time": "10:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_130754711.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "La Pubblica Amministrazione pagherà solo i professionisti in regola con le tasse e i contributi (che lo dovranno dimostrare). BOZZA Legge di Bilancio",
+                "link": "https://www.orizzontescuola.it/la-pubblica-amministrazione-paghera-solo-i-professionisti-in-regola-con-le-tasse-e-i-contributi-che-lo-dovranno-dimostrare-bozza-legge-di-bilancio/",
+                "date": "21 Ott 2025",
+                "time": "8:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_106178696.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Ipotesi di Contratto Integrativo di Istituto, modello con allegati operativi per la Contrattazione Decentrata d’Istituto",
+                "link": "https://www.orizzontescuola.it/ipotesi-di-contratto-integrativo-di-istituto-modello-con-allegati-operativi-per-la-contrattazione-decentrata-distituto/",
+                "date": "21 Ott 2025",
+                "time": "7:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_299260052.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Concorso PNRR 3, servizio, classi accorpate e non solo: gli aspetti da chiarire. QUESTION TIME con Pascarella (Flc Cgil) LIVE Martedì 21 ottobre alle 15:00",
+                "link": "https://www.orizzontescuola.it/concorso-pnrr-3-servizio-classi-accorpate-e-non-solo-aspetti-da-chiarire-question-time-con-pascarella-flc-cgil-live-martedi-21-ottobre-alle-1500/",
+                "date": "21 Ott 2025",
+                "time": "7:48",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Template_questiontime_1920x1080-9.png"
+            },
+            null,
+            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze docenti 2025/26: INTERPELLI  per nomine anche fino al 30 giugno",
@@ -87,7 +129,12 @@
                 "date": "20 Ott 2025",
                 "time": "18:54",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2287076115.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Coltelli nelle scuole di Napoli, Carabinieri con i metal detector per prevenire l’introduzione negli istituti",
@@ -128,20 +175,7 @@
                 "time": "17:01",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/shutterstock_299616500.jpg"
             },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Concorso PNRR 3, servizio, classi accorpate e non solo: gli aspetti da chiarire. QUESTION TIME con Pascarella (Flc Cgil) LIVE Martedì 21 ottobre alle 15:00",
-                "link": "https://www.orizzontescuola.it/concorso-pnrr-3-servizio-classi-accorpate-e-non-solo-aspetti-da-chiarire-question-time-con-pascarella-flc-cgil-live-martedi-21-ottobre-alle-1500/",
-                "date": "20 Ott 2025",
-                "time": "16:48",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Template_questiontime_1920x1080-9.png"
-            },
-            null
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            null,
             {
                 "category": "Pensioni",
                 "title": "Pensione dal 2027: scatta l’aumento dell’età, ma non per gli insegnanti della scuola dell’Infanzia e nidi",
@@ -174,7 +208,6 @@
                 "time": "13:03",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/Valditara-3.png"
             },
-            null,
             {
                 "category": "Scuole",
                 "title": "Orientamento, aggiornamenti attività CNO e Officine Futuro: tra i progetti operativi MiASSUMO. NOTA",
@@ -238,52 +271,68 @@
                 "date": "20 Ott 2025",
                 "time": "10:17",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_153744212-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR3: titolo di accesso, riserve, altri titoli e preferenze. RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-titolo-di-accesso-riserve-altri-titoli-e-preferenze-risposte-ai-quesiti/",
-                "date": "20 Ott 2025",
-                "time": "10:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/04/shutterstock_1743117419.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Sicurezza delle scuole: responsabilità e lacune normative. Dal piano nazionale permanente alle azioni strategie di emergenza",
-                "link": "https://www.orizzontescuola.it/sicurezza-delle-scuole-responsabilita-e-lacune-normative-dal-piano-nazionale-permanente-alle-azioni-strategie-di-emergenza/",
-                "date": "20 Ott 2025",
-                "time": "10:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_2244741397.jpg"
-            },
-            {
-                "category": "Pensioni",
-                "title": "Pensioni scuola 2026: domande entro domani 21 ottobre, anche per trattenimento in servizio. Requisiti e modalità",
-                "link": "https://www.orizzontescuola.it/pensioni-scuola-2026-domande-entro-domanda-21-ottobre-anche-per-trattenimento-in-servizio-chi-puo-presentarla-e-come/",
-                "date": "20 Ott 2025",
-                "time": "10:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
-            },
-            {
-                "category": "Plus",
-                "title": "Concorso docenti PNRR3: iscrizioni entro 29 ottobre. Scarica l’e-book di Lalla con le istruzioni sui titoli di accesso. Scopri come averlo gratuitamente",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-al-via-le-iscrizioni-scarica-le-book-di-lalla-scopri-come-averlo-gratuitamente/",
-                "date": "20 Ott 2025",
-                "time": "10:02",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/E-Book-concorso-a-cattedra-1.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Questionario Scuola e Questionario Docente SNV: proroga termine compilazione al 29 ottobre. NOTA",
-                "link": "https://www.orizzontescuola.it/questionario-scuola-e-questionario-docente-snv-proroga-termine-compilazione-al-29-ottobre-nota/",
-                "date": "20 Ott 2025",
-                "time": "9:59",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_409299112-scaled.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Docente deceduta mentre correggeva i compiti: “insegnare è usurante, garantire sostegno psicologico”, l’appello del CNDDU",
+                "link": "https://www.orizzontescuola.it/docente-deceduta-mentre-correggeva-i-compiti-insegnare-e-usurante-garantire-sostegno-psicologico-lappello-del-cnddu/",
+                "date": "21 Ott 2025",
+                "time": "9:55",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Docenti",
+                "title": "Uno studente su 4 vittima di bullismo: condizioni fisiche come obesità, ma anche identità personali, tra i motivi di scherno",
+                "link": "https://www.orizzontescuola.it/uno-studente-su-4-vittima-di-bullismo-condizioni-fisiche-come-obesita-ma-anche-identita-personali-tra-i-motivi-di-scherno/",
+                "date": "21 Ott 2025",
+                "time": "9:45",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Disegno osceno sul pavimento di una scuola: stop alle lezioni per rimuovere la scritta offensiva",
+                "link": "https://www.orizzontescuola.it/disegno-osceno-sul-pavimento-di-una-scuola-stop-alle-lezioni-per-rimuovere-la-scritta-offensiva/",
+                "date": "21 Ott 2025",
+                "time": "8:58",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "Maltempo in Toscana: scuole chiuse e criticità a Massa e Carrara",
+                "link": "https://www.orizzontescuola.it/maltempo-in-toscana-scuole-chiuse-e-criticita-a-massa-e-carrara/",
+                "date": "21 Ott 2025",
+                "time": "8:55",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Esplosione in aula, petardo lanciato da fuori perfora un banco. Tanta paura: “Sarebbe potuta essere una strage”",
+                "link": "https://www.orizzontescuola.it/esplosione-in-aula-petardo-lanciato-da-fuori-perfora-un-banco-tanta-paura-sarebbe-potuta-essere-una-strage/",
+                "date": "21 Ott 2025",
+                "time": "8:39",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "TFR/TFS in 9 mesi invece che in 12: è nella bozza della legge di Bilancio",
+                "link": "https://www.orizzontescuola.it/tfr-tfs-in-9-mesi-invece-che-in-12-e-nella-bozza-della-legge-di-bilancio/",
+                "date": "21 Ott 2025",
+                "time": "8:10",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Tragedia a scuola, le cade una finestra addosso: collaboratrice scolastica muore dopo 4 giorni. Si indaga",
+                "link": "https://www.orizzontescuola.it/tragedia-a-scuola-le-cade-una-finestra-addosso-collaboratrice-scolastica-muore-dopo-4-giorni-si-indaga/",
+                "date": "21 Ott 2025",
+                "time": "8:02",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "“Come stai?”: a Reggio Emilia la scuola si ferma per ascoltare. Al via gli Stati generali dell’Educazione e della Formazione",
@@ -370,55 +419,6 @@
                 "link": "https://www.orizzontescuola.it/legge-di-bilancio-2026-flc-cgil-nessuna-risorsa-per-gli-stipendi-nella-scuola-e-nella-ricerca-il-25-ottobre-si-scende-in-piazza/",
                 "date": "20 Ott 2025",
                 "time": "12:44",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Abodi: “Più opportunità e dignità nelle periferie, lo sport sociale diventa pilastro di governo”",
-                "link": "https://www.orizzontescuola.it/abodi-piu-opportunita-e-dignita-nelle-periferie-lo-sport-sociale-diventa-pilastro-di-governo/",
-                "date": "20 Ott 2025",
-                "time": "12:36",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Regole chiare sui viaggi d’istruzione: confronto tra turismo organizzato e Ministeri per la revisione del bando Consip",
-                "link": "https://www.orizzontescuola.it/regole-chiare-sui-viaggi-distruzione-confronto-tra-turismo-organizzato-e-ministeri-per-la-revisione-del-bando-consip/",
-                "date": "20 Ott 2025",
-                "time": "12:16",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Diritti dell’infanzia, firmato Protocollo tra UNICEF Italia e Associazione Sociologi Italiani",
-                "link": "https://www.orizzontescuola.it/diritti-dellinfanzia-firmato-protocollo-tra-unicef-italia-e-associazione-sociologi-italiani/",
-                "date": "20 Ott 2025",
-                "time": "12:07",
-                "image_link": "N/A"
-            },
-            null,
-            {
-                "category": "Comunicati stampa",
-                "title": "Legge di Bilancio, per Istruzione e Ricerca il testo dovrà essere modificato: Anief predispone gli emendamenti e si prepara ad informare il personale",
-                "link": "https://www.orizzontescuola.it/legge-di-bilancio-per-istruzione-e-ricerca-il-testo-dovra-essere-modificato-anief-predispone-gli-emendamenti-e-si-prepara-ad-informare-il-personale/",
-                "date": "20 Ott 2025",
-                "time": "11:57",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Educazione sessuale a scuola, la FISS allarmata dal disegno di legge sul consenso preventivo: “Grave passo indietro per la salute dei giovani”",
-                "link": "https://www.orizzontescuola.it/educazione-sessuale-a-scuola-la-fiss-allarmata-dal-disegno-di-legge-sul-consenso-preventivo-grave-passo-indietro-per-la-salute-dei-giovani/",
-                "date": "20 Ott 2025",
-                "time": "11:40",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Carta docente, ancora ritardo per l’apertura della piattaforma. Castellana (Gilda): “Non si può parlare di innovazione e aggiornamento se si mettono tagli e vincoli”",
-                "link": "https://www.orizzontescuola.it/carta-docente-ancora-ritardo-per-lapertura-della-piattaforma-castellana-gilda-non-si-puo-parlare-di-innovazione-e-aggiornamento-se-si-mettono-tagli-e-vincoli/",
-                "date": "20 Ott 2025",
-                "time": "10:23",
                 "image_link": "N/A"
             }
         ]
@@ -598,6 +598,14 @@
         "articles": [
             {
                 "category": "ATA",
+                "title": "Organici e reclutamento ATA, dal 2026/27 44mila posti in meno per i collaboratori scolastici, rischi per mobilità. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/organici-e-reclutamento-ata-dal-2026-27-44mila-posti-in-meno-per-i-collaboratori-scolastici-rischio-complicazioni-mobilita-risposte-ai-quesiti/",
+                "date": "9 Ott 2025",
+                "time": "8:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
+            },
+            {
+                "category": "ATA",
                 "title": "Revisione degli organici ATA dal 2026/27: operatori scolastici nelle scuole con più alunni, aggiunte per disabilità e tempo pieno. I nuovi criteri",
                 "link": "https://www.orizzontescuola.it/revisione-degli-organici-ata-dal-2026-27-operatori-scolastici-nelle-scuole-con-piu-alunni-aggiunte-per-disabilita-e-tempo-pieno-i-nuovi-criteri/",
                 "date": "8 Ott 2025",
@@ -635,14 +643,6 @@
                 "date": "7 Ott 2025",
                 "time": "13:51",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2198390061.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Ricostruzione di carriera per gli ATA: bisogna riconoscere il pre ruolo. Cosa hanno detto i giudici",
-                "link": "https://www.orizzontescuola.it/ricostruzione-di-carriera-per-gli-ata-bisogna-riconoscere-il-pre-ruolo-cosa-hanno-detto-i-giudici/",
-                "date": "4 Ott 2025",
-                "time": "11:16",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/12/shutterstock_1905525472-scaled.jpg"
             }
         ]
     },
@@ -704,6 +704,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "“Rendere obbligatoria la frequenza della scuola dell’infanzia”. Lettera di un’insegnante",
+                "link": "https://www.orizzontescuola.it/rendere-obbligatoria-la-frequenza-della-scuola-dellinfanzia-lettera-di-uninsegnante/",
+                "date": "21 Ott 2025",
+                "time": "9:53",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "Riorganizzazione calendario scolastico, posticipo lezioni, ed. civica digitale. Le proposte al Ministro. Lettera",
                 "link": "https://www.orizzontescuola.it/riorganizzazione-calendario-scolastico-posticipo-elezioni-ed-civica-digitale-le-proposte-al-ministro-lettera/",
                 "date": "19 Ott 2025",
@@ -740,14 +748,6 @@
                 "link": "https://www.orizzontescuola.it/tessere-sanitarie-scadute-sigarette-accese-un-paradosso-che-lo-stato-deve-spegnere-lettera/",
                 "date": "12 Ott 2025",
                 "time": "18:06",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Il primo consiglio di classe: un momento chiave per la progettazione educativa. Lettera",
-                "link": "https://www.orizzontescuola.it/il-primo-consiglio-di-classe-un-momento-chiave-per-la-progettazione-educativa-lettera/",
-                "date": "10 Ott 2025",
-                "time": "9:27",
                 "image_link": "N/A"
             }
         ]
