@@ -24,12 +24,20 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
-                "category": "Chiedilo a Lalla",
-                "title": "Ferie assegnate d’ufficio: quando scatta il diritto al risarcimento? DIRITTO IN CATTEDRA con Miceli (Anief) LIVE Giovedì 23 ottobre alle 17:00",
-                "link": "https://www.orizzontescuola.it/ferie-assegnate-dufficio-quando-scatta-il-diritto-al-risarcimento-diritto-in-cattedra-con-miceli-anief-live-giovedi-23-ottobre-alle-1700/",
+                "category": "Cronaca",
+                "title": "“Fuga” dal sostegno, il CNEL: “Incentivare i docenti e limitare la mobilità per garantire continuità didattica”",
+                "link": "https://www.orizzontescuola.it/contro-la-fuga-dal-sostegno-il-ddl-cnel-punta-a-limitare-la-mobilita-per-garantire-continuita-didattica/",
                 "date": "23 Ott 2025",
-                "time": "14:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Template_dentroilpalazzo_1920x1080-6.png"
+                "time": "17:08",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_2347243785.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Fondo MOF sarà di 31.800.000 euro, ecco la ripartizione tra: incarichi ATA, indennità DSGA, supplenze dei docenti, funzioni strumentali, tirocini. Scarica testo [pdf]",
+                "link": "https://www.orizzontescuola.it/fondo-mof-sara-di-31-800-000-euro-ecco-come-sara-ripartito-tra-incarichi-ata-indennita-dsga-supplenze-dei-docenti-funzioni-strumentali-tirocini/",
+                "date": "23 Ott 2025",
+                "time": "16:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2086336066.jpg"
             },
             {
                 "category": "Cronaca",
@@ -78,14 +86,6 @@
                 "date": "23 Ott 2025",
                 "time": "12:34",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_1892432797.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Fondo MOF sarà di 31.800.000 euro, ecco la ripartizione tra: incarichi ATA, indennità DSGA, supplenze dei docenti, funzioni strumentali, tirocini",
-                "link": "https://www.orizzontescuola.it/fondo-mof-sara-di-31-800-000-euro-ecco-come-sara-ripartito-tra-incarichi-ata-indennita-dsga-supplenze-dei-docenti-funzioni-strumentali-tirocini/",
-                "date": "23 Ott 2025",
-                "time": "12:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2086336066.jpg"
             },
             {
                 "category": "ATA",
@@ -285,6 +285,39 @@
         "title": "In Breve",
         "articles": [
             {
+                "category": "Politica scolastica",
+                "title": "Regioni, 70 milioni di euro per il trasporto scolastico degli studenti con disabilità",
+                "link": "https://www.orizzontescuola.it/regioni-70-milioni-di-euro-per-il-trasporto-scolastico-degli-studenti-con-disabilita/",
+                "date": "23 Ott 2025",
+                "time": "18:08",
+                "image_link": "N/A"
+            },
+            null,
+            {
+                "category": "Cronaca",
+                "title": "Concorso scuola secondaria, il Consiglio di Stato autorizza ammissione con riserva a un candidato alle prove orali dopo errore nella prova scritta",
+                "link": "https://www.orizzontescuola.it/concorso-scuola-secondaria-il-consiglio-di-stato-autorizza-ammissione-con-riserva-a-un-candidato-alle-prove-orali-dopo-errore-nella-prova-scritta/",
+                "date": "23 Ott 2025",
+                "time": "16:30",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Ferie assegnate d’ufficio: quando scatta il diritto al risarcimento? DIRITTO IN CATTEDRA con Miceli (Anief)",
+                "link": "https://www.orizzontescuola.it/ferie-assegnate-dufficio-quando-scatta-il-diritto-al-risarcimento-diritto-in-cattedra-con-miceli-anief-live-giovedi-23-ottobre-alle-1700/",
+                "date": "23 Ott 2025",
+                "time": "16:25",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Sicurezza scolastica, Piantedosi: “Priorità assoluta per il Governo”. Un milione e mezzo di euro ai Comuni per il progetto Scuole sicure",
+                "link": "https://www.orizzontescuola.it/sicurezza-scolastica-piantedosi-priorita-assoluta-per-il-governo-un-milione-e-mezzo-di-euro-ai-comuni-per-il-progetto-scuole-sicure/",
+                "date": "23 Ott 2025",
+                "time": "16:04",
+                "image_link": "N/A"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Messina, laurea alla memoria per Sara Campanella: “La sua luce vivrà per sempre”",
                 "link": "https://www.orizzontescuola.it/messina-laurea-alla-memoria-per-sara-campanella-la-sua-luce-vivra-per-sempre/",
@@ -386,39 +419,6 @@
                 "link": "https://www.orizzontescuola.it/sicurezza-nel-lavoro-fava-inps-serve-una-campagna-permanente-che-parta-dalle-scuole/",
                 "date": "22 Ott 2025",
                 "time": "21:09",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Sciopero nazionale del comparto Scuola il 4 novembre",
-                "link": "https://www.orizzontescuola.it/sciopero-nazionale-del-comparto-scuola-il-4-novembre/",
-                "date": "22 Ott 2025",
-                "time": "20:54",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Didattica",
-                "title": "Open the Whistle: l’ANAC incontra gli studenti per parlare di anticorruzione",
-                "link": "https://www.orizzontescuola.it/open-the-whistle-lanac-incontra-gli-studenti-umbri-per-parlare-di-anticorruzione/",
-                "date": "22 Ott 2025",
-                "time": "20:47",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Pensioni, Pacifico (Anief): “Più rispetto e tutele per docenti e ATA sotto burnout”",
-                "link": "https://www.orizzontescuola.it/pensioni-pacifico-anief-piu-rispetto-e-tutele-per-docenti-e-ata-sotto-burnout/",
-                "date": "22 Ott 2025",
-                "time": "19:58",
-                "image_link": "N/A"
-            },
-            null,
-            {
-                "category": "Cronaca",
-                "title": "Scuole chiuse allerta meteo giovedì 23 ottobre, stop alle lezioni in diversi comuni in Toscana e Liguria",
-                "link": "https://www.orizzontescuola.it/scuole-chiuse-allerta-meteo-giovedi-23-ottobre-stop-alle-lezioni-in-diversi-comuni-in-toscana-e-liguria/",
-                "date": "22 Ott 2025",
-                "time": "17:24",
                 "image_link": "N/A"
             }
         ]
