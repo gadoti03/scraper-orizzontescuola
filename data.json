@@ -25,6 +25,46 @@
         "articles": [
             {
                 "category": "Cronaca",
+                "title": "Lo zaino non provoca scoliosi: i falsi miti che confondono studenti e genitori. Cosa dice la scienza",
+                "link": "https://www.orizzontescuola.it/lo-zaino-non-provoca-scoliosi-i-falsi-miti-che-confondono-studenti-e-genitori-cosa-dice-la-scienza/",
+                "date": "24 Ott 2025",
+                "time": "22:05",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_1680176929-scaled.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "YouTube batte la scuola? Il 75% degli adolescenti in Italia sceglie i video per studiare: ecco cosa rivela una ricerca in Europa",
+                "link": "https://www.orizzontescuola.it/youtube-batte-la-scuola-il-75-degli-adolescenti-in-italia-sceglie-i-video-per-studiare-ecco-cosa-rivela-una-ricerca-in-europa/",
+                "date": "24 Ott 2025",
+                "time": "21:43",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/youtube-2.jpg"
+            },
+            {
+                "category": "Genitori",
+                "title": "Italia ultima in Europa per istruzione orientata al futuro: 49% degli studenti non si sente preparato, mancano formazione sull’IA e competenze digitali",
+                "link": "https://www.orizzontescuola.it/italia-ultima-in-europa-per-istruzione-orientata-al-futuro-49-degli-studenti-non-si-sente-preparato-mancano-formazione-sullia-e-competenze-digitali/",
+                "date": "24 Ott 2025",
+                "time": "20:31",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/shutterstock_697901584.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "SPID e identità digitale in Italia: evoluzione, costi e prospettive future tra wallet europeo e sostenibilità del sistema",
+                "link": "https://www.orizzontescuola.it/spid-e-identita-digitale-in-italia-evoluzione-costi-e-prospettive-future-tra-wallet-europeo-e-sostenibilita-del-sistema/",
+                "date": "24 Ott 2025",
+                "time": "19:22",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/card-spid.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso scuola: chi lo supera non perde il diritto al risarcimento per il numero eccessivo di contratti a termine. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/concorso-scuola-chi-lo-supera-non-perde-il-diritto-al-risarcimento-per-il-numero-eccessivo-di-contratti-a-termine-pillole-di-question-time/",
+                "date": "24 Ott 2025",
+                "time": "18:58",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2010657266.jpg"
+            },
+            {
+                "category": "Cronaca",
                 "title": "Calcio ricevuto in classe, lesioni gravi ai genitali: 80mila euro di risarcimento. I giudici chiariscono perché il Ministero deve rispondere per l’infortunio subito dallo studente",
                 "link": "https://www.orizzontescuola.it/calcio-ricevuto-in-classe-lesioni-gravi-ai-genitali-80mila-euro-di-risarcimento-i-giudici-chiariscono-perche-il-ministero-deve-rispondere-per-linfortunio-subito-dallo-studente/",
                 "date": "24 Ott 2025",
@@ -110,7 +150,12 @@
                 "date": "24 Ott 2025",
                 "time": "14:35",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/02/shutterstock_1117902230.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Quale indirizzo email indicare nella domanda al concorso docenti PNRR3: PEC, privato o scuola.istruzione.it? Pillole di Question Time",
@@ -150,12 +195,7 @@
                 "date": "24 Ott 2025",
                 "time": "12:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_2102457295.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Riserva del 30% dei posti: è necessario selezionare un’opzione nella domanda del concorso docenti PNRR3? Pillole di Question Time",
@@ -252,31 +292,36 @@
                 "date": "24 Ott 2025",
                 "time": "7:57",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_145558645.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Studenti con disabilità: più ore di assistenza e qualità attraverso i LEP. E’ nel DDL di Legge di Bilancio",
-                "link": "https://www.orizzontescuola.it/studenti-con-disabilita-piu-ore-di-assistenza-e-qualita-attraverso-i-lep-e-nel-ddl-di-legge-di-bilancio/",
-                "date": "24 Ott 2025",
-                "time": "7:49",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/shutterstock_1440992648.jpg"
-            },
-            null,
-            null,
-            null,
-            {
-                "category": "Genitori",
-                "title": "Prevenire l’abuso sessuale sui minori: il ruolo centrale della scuola nel Piano nazionale 2025/27",
-                "link": "https://www.orizzontescuola.it/prevenire-labuso-sessuale-sui-minori-il-ruolo-centrale-della-scuola-nel-piano-nazionale-2025-27/",
-                "date": "23 Ott 2025",
-                "time": "20:27",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/shutterstock_1295413129.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Dispersione scolastica, l’Italia verso il target UE 2030: tasso nazionale all’8,3% entro fine anno. Le parole di Valditara",
+                "link": "https://www.orizzontescuola.it/dispersione-scolastica-litalia-verso-il-target-ue-2030-tasso-nazionale-all83-entro-fine-anno/",
+                "date": "24 Ott 2025",
+                "time": "20:56",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Disinformazione digitale in crescita: dalle truffe online alle nuove norme penali, cosa può fare la scuola per formare i giovani e prevenire i rischi",
+                "link": "https://www.orizzontescuola.it/disinformazione-digitale-in-crescita-dalle-truffe-online-alle-nuove-norme-penali-cosa-puo-fare-la-scuola-per-formare-i-giovani-e-prevenire-i-rischi/",
+                "date": "24 Ott 2025",
+                "time": "20:13",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Scuole italiane all’estero: come la diplomazia culturale rafforza la formazione e il dialogo tra Italia, Africa e mercati globali. Le parole di Frassinetti",
+                "link": "https://www.orizzontescuola.it/scuole-italiane-allestero-come-la-diplomazia-culturale-rafforza-la-formazione-e-il-dialogo-tra-italia-africa-e-mercati-globali-le-parole-di-frassinetti/",
+                "date": "24 Ott 2025",
+                "time": "18:43",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Violenza sessuale su dodicenne e diffusione di video su Whatsapp, il Sindaco: “Lavoro preventivo, rafforzare legame con la scuola”",
@@ -389,24 +434,7 @@
                 "date": "24 Ott 2025",
                 "time": "8:23",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "100 alla maturità e una media del 9,98 per cinque anni: Valentino tra i 25 giovani Alfieri del Lavoro",
-                "link": "https://www.orizzontescuola.it/100-alla-maturita-e-una-media-del-998-per-cinque-anni-valentino-tra-i-25-giovani-alfieri-del-lavoro/",
-                "date": "23 Ott 2025",
-                "time": "22:22",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "In Emilia-Romagna oltre 35mila studenti con Dsa: la Regione verso un Tavolo di lavoro per nuove Linee guida",
-                "link": "https://www.orizzontescuola.it/in-emilia-romagna-oltre-35mila-studenti-con-dsa-la-regione-verso-un-tavolo-di-lavoro-per-nuove-linee-guida/",
-                "date": "23 Ott 2025",
-                "time": "21:01",
-                "image_link": "N/A"
-            },
-            null
+            }
         ]
     },
     "group_5": {
@@ -531,6 +559,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Concorsi PNRR 3 docenti: problemi pagamento bollettino. FAQ e assistenza Pago In Rete",
+                "link": "https://www.orizzontescuola.it/concorsi-pnrr-3-docenti-per-problemi-legati-al-pagamento-del-bollettino-rivolgersi-allassistenza-pago-in-rete/",
+                "date": "22 Ott 2025",
+                "time": "21:34",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_2377017671.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Concorso PNRR3: Concorso straordinario bis non può essere inserito tra i titoli culturali. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/concorso-pnrr3-concorso-straordinario-bis-non-puo-essere-inserito-tra-i-titoli-culturali-pillole-di-question-time/",
                 "date": "22 Ott 2025",
@@ -568,14 +604,6 @@
                 "date": "22 Ott 2025",
                 "time": "10:15",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_2102457295.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR3: servizio, classi accorpate, titoli. RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-servizio-classi-accorpate-titoli-risposte-ai-quesiti/",
-                "date": "22 Ott 2025",
-                "time": "9:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2498781455.jpg"
             }
         ]
     },
