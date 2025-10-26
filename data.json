@@ -24,6 +24,40 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Scuole",
+                "title": "Calendario scolastico 2025/26: niente ponte per Tutti i Santi e l’Immacolata, ma resta il weekend lungo",
+                "link": "https://www.orizzontescuola.it/calendario-scolastico-nel-2025-niente-ponte-per-tutti-i-santi-e-limmacolata-ma-resta-il-weekend-lungo/",
+                "date": "26 Ott 2025",
+                "time": "9:16",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_2002803581-scaled.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Halloween a scuola sì o no? Tra chi è favorevole e chi “assolutamente no”. C’è anche chi ne rivendica la paternità: “E’ una festa sarda”",
+                "link": "https://www.orizzontescuola.it/halloween-a-scuola-si-o-no-tra-chi-e-favorevole-e-chi-assolutamente-no-ce-anche-chi-ne-rivendica-la-paternita-e-una-festa-sarda/",
+                "date": "26 Ott 2025",
+                "time": "8:51",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_2674453687.jpg"
+            },
+            {
+                "category": "Didattica",
+                "title": "Buone pratiche di orientamento nel primo e secondo ciclo",
+                "link": "https://www.orizzontescuola.it/buone-pratiche-di-orientamento-nel-primo-e-secondo-ciclo/",
+                "date": "26 Ott 2025",
+                "time": "8:33",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2339228197.jpg"
+            },
+            null,
+            null,
+            {
+                "category": "Cronaca",
+                "title": "Terremoto in Irpinia, magnitudo 4.0: Lunedì le scuole rimarranno chiuse",
+                "link": "https://www.orizzontescuola.it/terremoto-in-irpinia-magnitudo-4-0-lunedi-le-scuole-rimarranno-chiuse/",
+                "date": "26 Ott 2025",
+                "time": "6:58",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_1027733023.jpg"
+            },
+            {
                 "category": "Plus",
                 "title": "Nasce il gruppo Telegram “Diventare insegnante”: abilitazione, specializzazione sul sostegno, Scienze della formazione primaria, supplenze, concorsi e assunzioni. Superati i 15mila membri",
                 "link": "https://www.orizzontescuola.it/nasce-il-gruppo-telegram-diventare-insegnante-abilitazione-specializzazione-sul-sostegno-scienze-della-formazione-primaria-supplenze-concorsi-e-assunzioni/",
@@ -102,7 +136,12 @@
                 "date": "25 Ott 2025",
                 "time": "14:21",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1799044252.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR3: una sola prova scritta e due orali per chi partecipa ad AM12 e AS12? Pillole di Question Time",
@@ -150,12 +189,7 @@
                 "date": "25 Ott 2025",
                 "time": "10:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/Orientamento-840x560-1.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Studenti",
                 "title": "Perché sentirsi accolti a scuola può cambiare le abitudini motorie degli studenti? I dati di una ricerca internazionale",
@@ -230,60 +264,20 @@
             },
             null,
             null,
-            null,
-            {
-                "category": "ATA",
-                "title": "Posizioni economiche ATA: il simulatore per esercitarti a superare l’esame",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-collaboratori-simulatore-e-video-lezioni-per-superare-la-prova-finale/",
-                "date": "25 Ott 2025",
-                "time": "7:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Assegnazioni-provvisorie-e-utilizzazioni-1.png"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Lo zaino non provoca scoliosi: i falsi miti che confondono studenti e genitori. Cosa dice la scienza",
-                "link": "https://www.orizzontescuola.it/lo-zaino-non-provoca-scoliosi-i-falsi-miti-che-confondono-studenti-e-genitori-cosa-dice-la-scienza/",
-                "date": "24 Ott 2025",
-                "time": "22:05",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_1680176929-scaled.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "YouTube batte la scuola? Il 75% degli adolescenti in Italia sceglie i video per studiare: ecco cosa rivela una ricerca in Europa",
-                "link": "https://www.orizzontescuola.it/youtube-batte-la-scuola-il-75-degli-adolescenti-in-italia-sceglie-i-video-per-studiare-ecco-cosa-rivela-una-ricerca-in-europa/",
-                "date": "24 Ott 2025",
-                "time": "21:43",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/youtube-2.jpg"
-            },
-            {
-                "category": "Genitori",
-                "title": "Italia ultima in Europa per istruzione orientata al futuro: 49% degli studenti non si sente preparato, mancano formazione sull’IA e competenze digitali",
-                "link": "https://www.orizzontescuola.it/italia-ultima-in-europa-per-istruzione-orientata-al-futuro-49-degli-studenti-non-si-sente-preparato-mancano-formazione-sullia-e-competenze-digitali/",
-                "date": "24 Ott 2025",
-                "time": "20:31",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/shutterstock_697901584.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "SPID e identità digitale in Italia: evoluzione, costi e prospettive future tra wallet europeo e sostenibilità del sistema",
-                "link": "https://www.orizzontescuola.it/spid-e-identita-digitale-in-italia-evoluzione-costi-e-prospettive-future-tra-wallet-europeo-e-sostenibilita-del-sistema/",
-                "date": "24 Ott 2025",
-                "time": "19:22",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/card-spid.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso scuola: chi lo supera non perde il diritto al risarcimento per il numero eccessivo di contratti a termine. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/concorso-scuola-chi-lo-supera-non-perde-il-diritto-al-risarcimento-per-il-numero-eccessivo-di-contratti-a-termine-pillole-di-question-time/",
-                "date": "24 Ott 2025",
-                "time": "18:58",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2010657266.jpg"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Scuole",
+                "title": "Piano Estate, il 27 ottobre webinar sulla progettazione integrata",
+                "link": "https://www.orizzontescuola.it/piano-estate-il-27-ottobre-webinar-sulla-progettazione-integrata/",
+                "date": "26 Ott 2025",
+                "time": "8:25",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Scopri i tesori nascosti degli Archivi di Stato: arriva la newsletter gratuita del Ministero della Cultura",
@@ -398,6 +392,14 @@
             },
             {
                 "category": "Cronaca",
+                "title": "Solo il 30% degli studenti riconosce la merce contraffatta: i dati della Settimana Anticontraffazione",
+                "link": "https://www.orizzontescuola.it/solo-il-30-degli-studenti-riconosce-la-merce-contraffatta-i-dati-della-settimana-anticontraffazione/",
+                "date": "25 Ott 2025",
+                "time": "12:09",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
                 "title": "Portale Giovani Inps, oltre un milione di accessi. Il presidente Fava: “Un’offerta completa per sostenere crescita e partecipazione attiva”",
                 "link": "https://www.orizzontescuola.it/portale-giovani-inps-oltre-un-milione-di-accessi-il-presidente-fava-unofferta-completa-per-sostenere-crescita-e-partecipazione-attiva/",
                 "date": "25 Ott 2025",
@@ -410,22 +412,6 @@
                 "link": "https://www.orizzontescuola.it/mense-scolastiche-il-10-rating-di-foodinsider-il-nord-innova-il-sud-rallenta-ma-il-biologico-conquista-anche-le-scuole/",
                 "date": "25 Ott 2025",
                 "time": "11:32",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Caro affitti, 446 euro al mese la spesa media per chi studia fuori sede",
-                "link": "https://www.orizzontescuola.it/caro-affitti-446-euro-al-mese-la-spesa-media-per-chi-studia-fuori-sede/",
-                "date": "25 Ott 2025",
-                "time": "11:17",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Manovra 2026, assegno unico e bonus infanzia: cosa cambia con il nuovo ISEE",
-                "link": "https://www.orizzontescuola.it/manovra-2026-assegno-unico-e-bonus-infanzia-cosa-cambia-con-il-nuovo-isee/",
-                "date": "25 Ott 2025",
-                "time": "11:00",
                 "image_link": "N/A"
             }
         ]
@@ -552,6 +538,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Tanti laureati in Psicologia e affini preparati su sostegno, ma il titolo di accesso a GPS prima fascia e concorso è la specializzazione. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/tanti-laureati-in-psicologia-e-affini-preparati-su-sostegno-ma-il-titolo-di-accesso-a-gps-prima-fascia-e-concorso-e-la-specializzazione-pillole-di-question-time/",
+                "date": "24 Ott 2025",
+                "time": "12:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_2102457295.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Riserva del 30% dei posti: è necessario selezionare un’opzione nella domanda del concorso docenti PNRR3? Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/riserva-del-30-dei-posti-e-necessario-selezionare-unopzione-nella-domanda-del-concorso-docenti-pnrr3-pillole-di-question-time/",
                 "date": "24 Ott 2025",
@@ -589,20 +583,20 @@
                 "date": "23 Ott 2025",
                 "time": "13:24",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2456270825.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso PNRR3 per insegnanti Sardegna: dove si svolgeranno le prove orali. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/concorso-pnrr3-per-insegnanti-sardegna-dove-si-svolgeranno-le-prove-orali-pillole-di-question-time/",
-                "date": "23 Ott 2025",
-                "time": "12:34",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_1892432797.jpg"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
+            {
+                "category": "ATA",
+                "title": "Illegittimo non riconoscere il servizio OSA prestato a scuola nelle graduatorie ATA",
+                "link": "https://www.orizzontescuola.it/illegittimo-non-riconoscere-il-servizio-osa-prestato-a-scuola-nelle-graduatorie-ata/",
+                "date": "22 Ott 2025",
+                "time": "8:33",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_2434093829.jpg"
+            },
             {
                 "category": "ATA",
                 "title": "Nuovo profilo di operatore scolastico ATA: quando si lavorerà da graduatoria di terza fascia?",
@@ -642,14 +636,6 @@
                 "date": "8 Ott 2025",
                 "time": "11:26",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2198683335.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Posizioni economiche ATA, il test finale slitta probabilmente a novembre",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-il-test-finale-slitta-probabilmente-a-novembre/",
-                "date": "8 Ott 2025",
-                "time": "8:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1757167814-scaled.jpg"
             }
         ]
     },
