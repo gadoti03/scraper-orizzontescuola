@@ -32,6 +32,22 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Politica scolastica",
+                "title": "Pubblico impiego, firmato il CCNQ 2025/27: primo passo per rinnovo contratti. CIDA non firma, “DSGA esclusi dall’area dirigenziale”",
+                "link": "https://www.orizzontescuola.it/pubblico-impiego-firmato-il-ccnq-2025-27-primo-passo-per-rinnovo-contratti-cida-non-firma-dsga-esclusi-dallarea-dirigenziale/",
+                "date": "29 Ott 2025",
+                "time": "21:05",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_669396973.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Ferie assegnate d’ufficio ai docenti precari: quando è legittima la richiesta di indennizzo economico",
+                "link": "https://www.orizzontescuola.it/ferie-assegnate-dufficio-ai-docenti-precari-quando-e-legittima-la-richiesta-di-indennizzo-economico/",
+                "date": "29 Ott 2025",
+                "time": "19:25",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/06/shutterstock_1890232807.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR3, bandi in Campania con tanti posti nonostante graduatorie precedenti ancora piene. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-bandi-in-campania-con-tanti-posti-nonostante-graduatorie-precedenti-ancora-piene-pillole-di-question-time/",
@@ -142,7 +158,12 @@
                 "date": "29 Ott 2025",
                 "time": "11:21",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_2658038967.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Carta del docente, le nuove regole: dai precari ai biglietti aerei, alle limitazioni su hardware e software. Quando sarà disponibile?",
@@ -158,12 +179,7 @@
                 "date": "29 Ott 2025",
                 "time": "10:31",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_1448118503.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Studentessa con DSA si laurea: “Ricordo i 6 dislessici e le mani che cancellavano in fretta la lavagna. PDP necessario anche all’università”. La storia di Deborah",
@@ -263,28 +279,53 @@
                 "date": "28 Ott 2025",
                 "time": "21:12",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/03/giustizia.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Ferie docenti con contratto al 30 giugno: è obbligatorio richiederle a Natale e Pasqua o si possono spostare a giugno? Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/ferie-docenti-con-contratto-al-30-giugno-e-obbligatorio-richiederle-a-natale-e-pasqua-o-si-possono-spostare-a-giugno-pillole-di-question-time/",
-                "date": "28 Ott 2025",
-                "time": "20:14",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/05/shutterstock_2063725133.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Formazione Scuola Lavoro (ex PCTO): non si potrà svolgere in attività ad alto rischio",
-                "link": "https://www.orizzontescuola.it/formazione-scuola-lavoro-ex-pcto-non-si-potra-svolgere-in-attivita-ad-alto-rischio/",
-                "date": "28 Ott 2025",
-                "time": "18:39",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1705421503-scaled.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Nuova Maturità, Valditara agli studenti: “Via il documento che creava ansia. Adesso 4 materie che saprete a gennaio. Valorizziamo i talenti”",
+                "link": "https://www.orizzontescuola.it/nuova-maturita-valditara-agli-studenti-via-il-documento-che-creava-ansia-adesso-4-materie-che-saprete-a-gennaio-valorizziamo-i-talenti/",
+                "date": "29 Ott 2025",
+                "time": "20:39",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Carta del docente ancora bloccata, Manzi (PD): “Ritardo inaccettabile”",
+                "link": "https://www.orizzontescuola.it/carta-del-docente-ancora-bloccata-manzi-pd-ritardo-inaccettabile/",
+                "date": "29 Ott 2025",
+                "time": "18:31",
+                "image_link": "N/A"
+            },
+            null,
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: ecco dove le GPS sono esaurite [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-26-alcune-gps-gia-esaurite-si-passa-alle-graduatorie-di-istituto/",
+                "date": "29 Ott 2025",
+                "time": "17:54",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Frassinetti: “Tecnologia al servizio della persona, la scuola formi cittadini consapevoli e innovatori”",
+                "link": "https://www.orizzontescuola.it/frassinetti-tecnologia-al-servizio-della-persona-la-scuola-formi-cittadini-consapevoli-e-innovatori/",
+                "date": "29 Ott 2025",
+                "time": "17:35",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Benessere degli insegnanti e diritto all’educazione: CNDDU lancia l’allarme burnout e propone una “Carta del Benessere Docente”",
+                "link": "https://www.orizzontescuola.it/benessere-degli-insegnanti-e-diritto-alleducazione-cnddu-lancia-lallarme-burnout-e-propone-una-carta-del-benessere-docente/",
+                "date": "29 Ott 2025",
+                "time": "17:32",
+                "image_link": "N/A"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Suor Alfieri: “Le scuole paritarie garantiscono eterogeneità e diritto di scelta alla pari delle statali”",
@@ -379,54 +420,6 @@
                 "link": "https://www.orizzontescuola.it/frassinetti-lia-deve-rimanere-uno-strumento-ma-non-puo-sostituire-il-lavoro-degli-insegnanti/",
                 "date": "29 Ott 2025",
                 "time": "12:08",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Oltre 52.000 scuole senza fotovoltaico, l’ANP: “Urgente la transizione energetica degli istituti scolastici”",
-                "link": "https://www.orizzontescuola.it/oltre-52-000-scuole-senza-fotovoltaico-lanp-urgente-la-transizione-energetica-degli-istituti-scolastici/",
-                "date": "29 Ott 2025",
-                "time": "11:29",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Dress code obbligatorio nel Principato di Monaco: divisa standard per studenti, pacchetto base a 140 euro. Chi non si adegua è fuori dai corsi",
-                "link": "https://www.orizzontescuola.it/dress-code-obbligatorio-nel-principato-di-monaco-divisa-standard-per-studenti-pacchetto-base-a-140-euro-chi-non-si-adegua-e-fuori-dai-corsi/",
-                "date": "29 Ott 2025",
-                "time": "11:19",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Sciopero scuola il 4 novembre: coinvolto tutto il personale. AVVISO MIM",
-                "link": "https://www.orizzontescuola.it/sciopero-scuola-il-4-novembre-coinvolto-tutto-il-personale-avviso-mim/",
-                "date": "29 Ott 2025",
-                "time": "11:14",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Storia dell’arte fin dalla prima classe della scuola primaria, Valditara: “Rispetto per i beni culturali fin da piccoli”",
-                "link": "https://www.orizzontescuola.it/storia-dellarte-fin-dalla-prima-classe-della-scuola-primaria-valditara-rispetto-per-i-beni-culturali-fin-da-piccoli/",
-                "date": "29 Ott 2025",
-                "time": "11:05",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Occupare una scuola è un atto di prepotenza”, a dirlo la vicepresidente della Regione Piemonte",
-                "link": "https://www.orizzontescuola.it/occupare-una-scuola-e-un-atto-di-prepotenza-a-dirlo-la-vicepresidente-della-regione-piemonte/",
-                "date": "29 Ott 2025",
-                "time": "11:05",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Da SocialMediaGirls alle chat di classe: l’IA che “fabbrica” pornografia ora colpisce studentesse e professoresse",
-                "link": "https://www.orizzontescuola.it/da-socialmediagirls-alle-chat-di-classe-lia-che-fabbrica-pornografia-ora-colpisce-studentesse-e-professoresse/",
-                "date": "29 Ott 2025",
-                "time": "10:26",
                 "image_link": "N/A"
             }
         ]
@@ -553,6 +546,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Abilitazione/specializzazione estera e accesso al concorso PNRR3: cosa è ammesso con riserva e cosa no. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/abilitazione-specializzazione-estera-e-accesso-al-concorso-pnrr3-cosa-e-ammesso-con-riserva-e-cosa-no-pillole-di-question-time/",
+                "date": "28 Ott 2025",
+                "time": "11:25",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2251238405.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Docenti assunti da concorsi PNRR hanno obbligo di abilitazione: si può conseguire prima o dopo la nomina",
                 "link": "https://www.orizzontescuola.it/docenti-assunti-da-concorsi-pnrr-hanno-obbligo-di-abilitazione-si-puo-conseguire-prima-o-dopo-la-nomina/",
                 "date": "28 Ott 2025",
@@ -590,14 +591,6 @@
                 "date": "27 Ott 2025",
                 "time": "17:37",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_130754711.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR3, riserva dei posti: il servizio civile nazionale può essere anche “datato”, quello universale vale dal 2017. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-riserva-dei-posti-il-servizio-civile-nazionale-puo-essere-anche-datato-quello-universale-vale-dal-2017-pillole-di-question-time/",
-                "date": "27 Ott 2025",
-                "time": "15:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/04/shutterstock_2033916281.jpg"
             }
         ]
     },
