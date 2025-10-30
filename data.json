@@ -32,6 +32,71 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Genitori",
+                "title": "Laureati magistrali in Ingegneria sono il 14,7%. In aumento il numero di donne, il 31,5%",
+                "link": "https://www.orizzontescuola.it/laureati-magistrali-in-ingegneria-sono-il-147-in-aumento-il-numero-di-donne-il-315/",
+                "date": "30 Ott 2025",
+                "time": "17:01",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/10/shutterstock_1085718137.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3: data prova scritta potrebbe coincidere con esame finale Sostegno Indire?",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-data-prova-scritta-potrebbe-coincidere-con-esame-finale-sostegno-indire/",
+                "date": "30 Ott 2025",
+                "time": "16:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_1831747288.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: nuove nomine di fine ottobre da GPS [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
+                "date": "30 Ott 2025",
+                "time": "15:58",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_2377017671.jpg"
+            },
+            {
+                "category": "Guide",
+                "title": "Diritto allo studio 2026, permessi 150 ore docenti e ATA: ecco gli AVVISI degli Uffici Scolastici e le scadenze [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/permessi-diritto-allo-studio-150-ore-docenti-e-ata-15-novembre-scade-domanda-per-tfa-sostegno-corsi-lauree-no-preparazione-concorso-guida/",
+                "date": "30 Ott 2025",
+                "time": "15:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1906380526.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3, avvio PROVA SCRITTA. Domanda per ausili e tempi aggiuntivi, rinvio per gravidanza, spazi per allattamento",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-avvio-prova-scritta-richiesta-documenti-per-ausili-e-tempi-aggiuntivi-candidati-con-dsa-e-rinvio-per-gravidanza-scadenze-usr/",
+                "date": "30 Ott 2025",
+                "time": "15:22",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2120807768.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Docenti assunti GPS sostegno: chi è vincolato e chi potrà presentare domanda di mobilità",
+                "link": "https://www.orizzontescuola.it/docenti-assunti-gps-sostegno-chi-e-vincolato-e-chi-potra-presentare-domanda-di-mobilita/",
+                "date": "30 Ott 2025",
+                "time": "15:17",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_1448118503.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: INTERPELLI per nomine anche fino al 30 giugno",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "30 Ott 2025",
+                "time": "15:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
+            },
+            null,
+            {
+                "category": "Scuole",
+                "title": "Studente straniero bocciato all’Esame di Stato: il TAR dà ragione al candidato. C’è obbligo di considerare il PDP? L’analisi su PLUS",
+                "link": "https://www.orizzontescuola.it/studente-straniero-bocciato-allesame-di-stato-il-tar-da-ragione-al-candidato-ce-obbligo-di-considerare-il-pdp-lanalisi-su-plus/",
+                "date": "30 Ott 2025",
+                "time": "14:12",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2556788731-scaled.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Pubblicazione delle posizioni degli idonei del concorso scuola PNRR1: cosa cambia per le assunzioni in ruolo?",
                 "link": "https://www.orizzontescuola.it/pubblicazione-delle-posizioni-degli-idonei-del-concorso-scuola-pnrr1-cosa-cambia-per-le-assunzioni-in-ruolo/",
@@ -86,7 +151,12 @@
                 "date": "30 Ott 2025",
                 "time": "9:31",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_2041483871.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Docenti neoimmessi 2025: anno di prova e formazione. Bilancio di competenze e Patto di sviluppo professionale [MODELLI]",
@@ -130,12 +200,7 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Intelligenza-Artificiale-e-amministrazione-scolastica.png"
             },
             null,
-            null
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            null,
             {
                 "category": "Politica scolastica",
                 "title": "Pubblico impiego, firmato il CCNQ 2025/27: primo passo per rinnovo contratti. CIDA non firma, “DSGA esclusi dall’area dirigenziale”",
@@ -201,90 +266,50 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2456756593.jpg"
             },
             {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: nuove nomine su posti sostegno in deroga, spezzoni part time, rinunce dei colleghi [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
-                "date": "29 Ott 2025",
-                "time": "12:59",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_48466297.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: INTERPELLI per nomine anche fino al 30 giugno",
-                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
-                "date": "29 Ott 2025",
-                "time": "12:58",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
-            },
-            {
                 "category": "Scuole",
                 "title": "Cinema e audiovisivo nelle scuole, 138 progetti in tutta Italia: oltre 370 mila studenti coinvolti, 10 milioni di euro stanziati",
                 "link": "https://www.orizzontescuola.it/cinema-e-audiovisivo-nelle-scuole-138-progetti-in-tutta-italia-oltre-370-mila-studenti-coinvolti-10-milioni-di-euro-stanziati/",
                 "date": "29 Ott 2025",
                 "time": "12:34",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_1860823585.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso scuola PNRR 2025, domanda inoltrata. Dove controllare il PDF con tutte le dichiarazioni",
-                "link": "https://www.orizzontescuola.it/concorsi-scuola-2024-domanda-inoltrata-dove-controllare-il-pdf-con-tutte-le-dichiarazioni/",
-                "date": "29 Ott 2025",
-                "time": "12:22",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/02/shutterstock_213616528.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Valditara: “Bellezza e identità, educare partendo dal patrimonio artistico e ambientale. Le scuole devono essere luoghi armoniosi, si impara meglio quando la qualità degli spazi è adeguata”",
-                "link": "https://www.orizzontescuola.it/valditara-bellezza-e-identita-educare-partendo-dal-patrimonio-artistico-e-ambientale-le-scuole-devono-essere-luoghi-armoniosi-si-impara-meglio-quando-la-qualita-degli-spazi-e-adeguata/",
-                "date": "29 Ott 2025",
-                "time": "11:57",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Screenshot-2025-10-29-alle-11.31.29.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Riserva Legge 68/1999: come va indicata nelle domande del concorso PNRR3. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/riserva-legge-68-1999-come-va-indicata-nelle-domande-del-concorso-pnrr3-pillole-di-question-time/",
-                "date": "29 Ott 2025",
-                "time": "11:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_388588420.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Assistente per l’autonomia e la comunicazione ora anche per alunni con malattie rare. Via libera bipartisan all’emendamento",
-                "link": "https://www.orizzontescuola.it/assistente-per-lautonomia-e-la-comunicazione-ora-anche-per-alunni-con-malattie-rare-via-libera-bipartisan-allemendamento/",
-                "date": "29 Ott 2025",
-                "time": "11:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2152303575.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Domanda concorso docenti PNRR3 con riserva: bisogna compilare tutte le sezioni, scioglimento riguarderà solo titolo di accesso. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/domanda-concorso-docenti-pnrr3-con-riserva-bisogna-compilare-tutte-le-sezioni-scioglimento-riguardera-solo-titolo-di-accesso-pillole-di-question-time/",
-                "date": "29 Ott 2025",
-                "time": "11:31",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_1958115694.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Docenti sommersi da mail e chat, oltre il 30% dedica fino a 10 ore mensili alle famiglie: WhatsApp e burocrazia stravolgono il tempo della scuola",
-                "link": "https://www.orizzontescuola.it/docenti-sommersi-da-mail-e-chat-oltre-il-30-dedica-fino-a-10-ore-mensili-alle-famiglie-whatsapp-e-burocrazia-stravolgono-il-tempo-della-scuola/",
-                "date": "29 Ott 2025",
-                "time": "11:21",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_2658038967.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Maturità 2026, come cambia: colloquio con 4 discipline scelte entro il 31 gennaio, 2 commissari esterni e due interni, voti [LO SPECIALE]",
-                "link": "https://www.orizzontescuola.it/maturita-2026-come-cambia-colloquio-con-4-discipline-scelte-entro-il-31-gennaio-2-commissari-esterni-e-due-interni-voti-lo-speciale/",
-                "date": "29 Ott 2025",
-                "time": "10:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1229865952.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "A soli 18 anni si laurea in Didattica della Musica, nelle sue canzoni bullismo e femminicidi: “La musica mi ha salvata”",
+                "link": "https://www.orizzontescuola.it/a-soli-18-anni-si-laurea-in-didattica-della-musica-nelle-sue-canzoni-bullismo-e-femminicidi/",
+                "date": "30 Ott 2025",
+                "time": "17:22",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Allerta meteo scuole chiuse venerdì 31 ottobre: stop alle lezioni in diversi comuni della Calabria. L’elenco",
+                "link": "https://www.orizzontescuola.it/allerta-meteo-scuole-chiuse-venerdi-31-ottobre-stop-alle-lezioni-in-diversi-comuni-della-calabria-lelenco/",
+                "date": "30 Ott 2025",
+                "time": "16:29",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Rinnovo CCNL scuola: Cisl sollecita la chiusura del triennio 2022-24 per avviare subito la trattativa 2025-27",
+                "link": "https://www.orizzontescuola.it/rinnovo-ccnl-scuola-cisl-sollecita-la-chiusura-del-triennio-2022-24-per-avviare-subito-la-trattativa-2025-27/",
+                "date": "30 Ott 2025",
+                "time": "14:28",
+                "image_link": "N/A"
+            },
+            {
+                "category": "ATA",
+                "title": "Miele (Lega): riconosciamo il grande valore del personale ATA",
+                "link": "https://www.orizzontescuola.it/miele-lega-riconosciamo-il-grande-valore-del-personale-ata/",
+                "date": "30 Ott 2025",
+                "time": "13:49",
+                "image_link": "N/A"
+            },
             {
                 "category": "Scuole",
                 "title": "“STEAM in Minecraft”: dal 3 al 21 novembre aperte le iscrizioni al contest per scuole primarie e secondarie",
@@ -389,39 +414,7 @@
                 "time": "18:31",
                 "image_link": "N/A"
             },
-            null,
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: ecco dove le GPS sono esaurite [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-26-alcune-gps-gia-esaurite-si-passa-alle-graduatorie-di-istituto/",
-                "date": "29 Ott 2025",
-                "time": "17:54",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Frassinetti: “Tecnologia al servizio della persona, la scuola formi cittadini consapevoli e innovatori”",
-                "link": "https://www.orizzontescuola.it/frassinetti-tecnologia-al-servizio-della-persona-la-scuola-formi-cittadini-consapevoli-e-innovatori/",
-                "date": "29 Ott 2025",
-                "time": "17:35",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Benessere degli insegnanti e diritto all’educazione: CNDDU lancia l’allarme burnout e propone una “Carta del Benessere Docente”",
-                "link": "https://www.orizzontescuola.it/benessere-degli-insegnanti-e-diritto-alleducazione-cnddu-lancia-lallarme-burnout-e-propone-una-carta-del-benessere-docente/",
-                "date": "29 Ott 2025",
-                "time": "17:32",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Suor Alfieri: “Le scuole paritarie garantiscono eterogeneità e diritto di scelta alla pari delle statali”",
-                "link": "https://www.orizzontescuola.it/suor-alfieri-le-scuole-paritarie-garantiscono-eterogeneita-e-diritto-di-scelta-alla-pari-delle-statali/",
-                "date": "29 Ott 2025",
-                "time": "17:16",
-                "image_link": "N/A"
-            }
+            null
         ]
     },
     "group_5": {
@@ -546,11 +539,43 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR3, avvio PROVA SCRITTA. Domanda per ausili e tempi aggiuntivi candidati con DSA e legge 104, rinvio per gravidanza",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-avvio-prova-scritta-richiesta-documenti-per-ausili-e-tempi-aggiuntivi-candidati-con-dsa-e-rinvio-per-gravidanza-scadenze-usr/",
+                "title": "Concorso docenti PNRR3: requisiti, posti, prove. Domande entro le 23:59 del 29 ottobre [Speciale Bando]",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-requisiti-posti-prove-speciale-bozza-bando/",
+                "date": "29 Ott 2025",
+                "time": "6:22",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Concorso-docenti-PNRR3-6.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3, i consigli “dell’ultimo minuto”: domanda scade mercoledì 29 ottobre alle 23:59",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-i-consigli-dellultimo-minuto-domanda-scade-mercoledi-29-ottobre-alle-2359/",
                 "date": "28 Ott 2025",
-                "time": "14:59",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2120807768.jpg"
+                "time": "22:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2471109123-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Ferie docenti con contratto al 30 giugno: è obbligatorio richiederle a Natale e Pasqua o si possono spostare a giugno? Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/ferie-docenti-con-contratto-al-30-giugno-e-obbligatorio-richiederle-a-natale-e-pasqua-o-si-possono-spostare-a-giugno-pillole-di-question-time/",
+                "date": "28 Ott 2025",
+                "time": "20:14",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/05/shutterstock_2063725133.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Servizi su posto comune e sostegno: vanno inseriti una o due volte nella domanda concorso PNRR3? Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/servizi-su-posto-comune-e-sostegno-vanno-inseriti-una-o-due-volte-nella-domanda-concorso-pnrr3-pillole-di-question-time/",
+                "date": "28 Ott 2025",
+                "time": "18:32",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2519280093.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Domanda concorso PNRR3: non si inseriscono i CFU integrativi per l’accesso alla classe di concorso. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/inserimento-dei-cfu-integrativi-per-laccesso-alla-classe-di-concorso-cosa-bisogna-fare-pillole-di-question-time/",
+                "date": "28 Ott 2025",
+                "time": "15:59",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/05/shutterstock_2063725133.jpg"
             },
             {
                 "category": "Diventare Insegnanti",
@@ -559,38 +584,6 @@
                 "date": "28 Ott 2025",
                 "time": "14:34",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_388588465.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti secondaria Valle d’Aosta: domande entro il 12 novembre. 76 i posti a bando",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-secondaria-valle-daosta-domande-dal-28-ottobre-al-12-novembre-76-posti-posti-a-bando/",
-                "date": "28 Ott 2025",
-                "time": "12:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_341870168-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Abilitazione da 30 CFU: quale vale 5 punti e quale 12.5 nella domanda del concorso. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/abilitazione-da-30-cfu-quale-vale-5-punti-e-quale-12-5-nella-domanda-del-concorso-pillole-di-question-time/",
-                "date": "28 Ott 2025",
-                "time": "12:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1685909200.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Abilitazione/specializzazione estera e accesso al concorso PNRR3: cosa è ammesso con riserva e cosa no. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/abilitazione-specializzazione-estera-e-accesso-al-concorso-pnrr3-cosa-e-ammesso-con-riserva-e-cosa-no-pillole-di-question-time/",
-                "date": "28 Ott 2025",
-                "time": "11:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2251238405.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Docenti assunti da concorsi PNRR hanno obbligo di abilitazione: si può conseguire prima o dopo la nomina",
-                "link": "https://www.orizzontescuola.it/docenti-assunti-da-concorsi-pnrr-hanno-obbligo-di-abilitazione-si-puo-conseguire-prima-o-dopo-la-nomina/",
-                "date": "28 Ott 2025",
-                "time": "11:04",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_1996119905.jpg"
             }
         ]
     },
