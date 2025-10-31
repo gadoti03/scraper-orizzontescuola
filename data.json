@@ -3,26 +3,99 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "Docenti",
+                "title": "Carta del docente, l’attivazione potrebbe slittare a febbraio 2026. Ecco perché",
+                "link": "https://www.orizzontescuola.it/carta-del-docente-lattivazione-potrebbe-slittare-a-febbraio-2026-ecco-perche/",
+                "date": "31 Ott 2025",
+                "time": "11:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/Carta-del-docente-2.jpg"
+            },
+            {
                 "category": "Plus",
                 "title": "Ciclo di 5 webinar. Intelligenza Artificiale per l’amministrazione scolastica: strumenti e strategie per semplificare il lavoro",
                 "link": "https://www.orizzontescuola.it/ciclo-di-5-webinar-intelligenza-artificiale-per-lamministrazione-scolastica-strumenti-e-strategie-per-semplificare-il-lavoro/",
                 "date": "31 Ott 2025",
                 "time": "7:40",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Intelligenza-Artificiale-e-amministrazione-scolastica-2.png"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Legge di bilancio: novità sui congedi e 104, stop alle supplenze brevi, modifiche ai congedi parentali alle lavoratrici madri",
-                "link": "https://www.orizzontescuola.it/legge-di-bilancio-dallo-stop-alle-supplenze-brevi-alle-novita-per-il-tfr-tfs-dalle-modifiche-ai-congedi-parentali-alle-lavoratrici-madri-quello-che-interessa-il-mondo-della-scuola/",
-                "date": "31 Ott 2025",
-                "time": "7:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Legge-di-Bilancio-2.png"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: INTERPELLI per nomine anche fino al 30 giugno",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "31 Ott 2025",
+                "time": "13:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: nuove nomine di fine ottobre da GPS [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
+                "date": "31 Ott 2025",
+                "time": "12:58",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_2377017671.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Papa Leone XIV ai docenti: “Per insegnare serve amore, andare incontro a fragili ed esclusi. Educate col sorriso e grazie per il vostro lavoro”",
+                "link": "https://www.orizzontescuola.it/papa-leone-xiv-ai-docenti-condividere-la-conoscenza-non-basta-per-insegnare-serve-amore-andare-incontro-a-fragili-ed-esclusi/",
+                "date": "31 Ott 2025",
+                "time": "12:26",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2626454827-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Perché i docenti precari devono presentare domanda di ferie anche durante “le vacanze” nel corso dell’anno scolastico? Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/perche-i-docenti-precari-devono-presentare-domanda-di-ferie-anche-durante-le-vacanze-nel-corso-dellanno-scolastico-pillole-di-question-time/",
+                "date": "31 Ott 2025",
+                "time": "12:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/09/shutterstock_1553133782.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "A rischio le gite scolastiche, ANQUAP denuncia: “Mancano 161 funzionari e le scuole non sanno a chi rivolgersi”",
+                "link": "https://www.orizzontescuola.it/a-rischio-le-gite-scolastiche-anquap-denuncia-mancano-161-funzionari-e-le-scuole-non-sanno-a-chi-rivolgersi/",
+                "date": "31 Ott 2025",
+                "time": "10:46",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2266968387.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Periodo di prova del personale ATA: quanto dura, come avviene la conferma in servizio",
+                "link": "https://www.orizzontescuola.it/periodo-di-prova-del-personale-ata-quanto-dura-come-avviene-la-conferma-in-servizio/",
+                "date": "31 Ott 2025",
+                "time": "10:42",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Calendario scolastico, lezioni fino al 30 giugno alla primaria e alle medie. L’idea dell’Emilia Romagna",
+                "link": "https://www.orizzontescuola.it/calendario-scolastico-lezioni-fino-al-30-giugno-alla-primaria-e-alle-medie-lidea-dellemilia-romagna/",
+                "date": "31 Ott 2025",
+                "time": "10:22",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_2002803581-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Docenti neoimmessi 2025: anno di prova e formazione. Bilancio di competenze e Patto di sviluppo professionale [MODELLI]",
+                "link": "https://www.orizzontescuola.it/docenti-neoimmessi-in-ruolo-2025-anno-di-prova-e-formazione-chi-deve-svolgerlo-quali-attivita-prima-scadenza-31-ottobre/",
+                "date": "31 Ott 2025",
+                "time": "10:07",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/GPS-2026-1.png"
+            },
+            null,
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Percorsi abilitanti 60 e 30 CFU del 2025/26, quanti punti varranno gli anni di servizio di insegnamento e i titoli culturali",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-60-e-30-cfu-del-2025-26-quanti-punti-varranno-gli-anni-di-servizio-di-insegnamento-e-i-titoli-culturali/",
+                "date": "31 Ott 2025",
+                "time": "9:28",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2500605417.jpg"
+            },
             {
                 "category": "Didattica",
                 "title": "Grammatica valenziale: “Perché utilizzare il metodo valenziale per insegnare la grammatica? I vantaggi”",
@@ -63,9 +136,22 @@
                 "time": "8:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_2216868883.jpg"
             },
+            null
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             null,
             null,
-            null,
+            {
+                "category": "Cronaca",
+                "title": "Legge di bilancio: novità sui congedi e 104, stop alle supplenze brevi, modifiche ai congedi parentali alle lavoratrici madri",
+                "link": "https://www.orizzontescuola.it/legge-di-bilancio-dallo-stop-alle-supplenze-brevi-alle-novita-per-il-tfr-tfs-dalle-modifiche-ai-congedi-parentali-alle-lavoratrici-madri-quello-che-interessa-il-mondo-della-scuola/",
+                "date": "31 Ott 2025",
+                "time": "7:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Legge-di-Bilancio-2.png"
+            },
             {
                 "category": "Cronaca",
                 "title": "Studentessa con PDP viene bocciata dopo cinque insufficienze, la famiglia fa ricorso al TAR ma lo perde. I giudici confermano la legittimità della mancata ammissione",
@@ -123,19 +209,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_1831747288.jpg"
             },
             {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: nuove nomine di fine ottobre da GPS [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
-                "date": "30 Ott 2025",
-                "time": "15:58",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_2377017671.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
-            {
                 "category": "Guide",
                 "title": "Diritto allo studio 2026, permessi 150 ore docenti e ATA: ecco gli AVVISI degli Uffici Scolastici e le scadenze [AGGIORNATO]",
                 "link": "https://www.orizzontescuola.it/permessi-diritto-allo-studio-150-ore-docenti-e-ata-15-novembre-scade-domanda-per-tfa-sostegno-corsi-lauree-no-preparazione-concorso-guida/",
@@ -158,14 +231,6 @@
                 "date": "30 Ott 2025",
                 "time": "15:17",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_1448118503.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: INTERPELLI per nomine anche fino al 30 giugno",
-                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
-                "date": "30 Ott 2025",
-                "time": "15:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
             },
             null,
             {
@@ -199,77 +264,85 @@
                 "date": "30 Ott 2025",
                 "time": "10:43",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/12/shutterstock_1708897081.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "“Pochi parlano di ATA, eppure è parte della comunità educante”, D’Aprile (Uil Scuola): “Il bidello educa quando dice a mia figlia di non buttare la carta a terra”",
-                "link": "https://www.orizzontescuola.it/pochi-parlano-di-ata-eppure-e-parte-della-comunita-educante-daprile-uil-scuola-il-bidello-educa-quando-dice-a-mia-figlia-di-non-buttare-la-carta-a-terra/",
-                "date": "30 Ott 2025",
-                "time": "10:22",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Screenshot-2025-10-30-101306.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "Regolamento della Biblioteca Scolastica: scarica una bozza di regolamento",
-                "link": "https://www.orizzontescuola.it/regolamento-della-biblioteca-scolastica-scarica-una-bozza-di-regolamento/",
-                "date": "30 Ott 2025",
-                "time": "10:12",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_330332900.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Studente inciampa e si rompe il mento, assenti sia docente che collaboratore scolastico ma non sono responsabili. Ecco perché",
-                "link": "https://www.orizzontescuola.it/studente-inciampa-e-si-rompe-il-mento-assenti-sia-docente-che-collaboratore-scolastico-ma-non-sono-responsabili-ecco-perche/",
-                "date": "30 Ott 2025",
-                "time": "9:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_2196719007.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "I docenti hanno più difficoltà a relazionarsi con le famiglie che con il gruppo classe, “negano i problemi da noi segnalati”. Lo studio",
-                "link": "https://www.orizzontescuola.it/i-docenti-hanno-piu-difficolta-a-relazionarsi-con-famiglie-e-colleghi-che-con-il-gruppo-classe-lo-studio/",
-                "date": "30 Ott 2025",
-                "time": "9:31",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_2041483871.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Docenti neoimmessi 2025: anno di prova e formazione. Bilancio di competenze e Patto di sviluppo professionale [MODELLI]",
-                "link": "https://www.orizzontescuola.it/docenti-neoimmessi-in-ruolo-2025-anno-di-prova-e-formazione-chi-deve-svolgerlo-quali-attivita-prima-scadenza-31-ottobre/",
-                "date": "30 Ott 2025",
-                "time": "9:28",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/GPS-2026-1.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorsi scuola PNRR: quanti punti danno nelle GPS e nelle graduatorie interne dei docenti di ruolo. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/concorsi-scuola-pnrr-quanti-punti-danno-nelle-gps-e-nelle-graduatorie-interne-dei-docenti-di-ruolo-pillole-di-question-time/",
-                "date": "30 Ott 2025",
-                "time": "9:28",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2471325395.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Laboratori innovativi e avanzati: pubblicato il Manuale operativo di gestione",
-                "link": "https://www.orizzontescuola.it/laboratori-innovativi-e-avanzati-pubblicato-il-manuale-operativo-di-gestione/",
-                "date": "30 Ott 2025",
-                "time": "9:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_409299112-scaled.jpg"
-            },
-            null,
-            {
-                "category": "Docenti",
-                "title": "Dalla conoscenza passiva alla conoscenza attiva: la scuola come officina del pensiero digitale",
-                "link": "https://www.orizzontescuola.it/dalla-conoscenza-passiva-alla-conoscenza-attiva-la-scuola-come-officina-del-pensiero-digitale/",
-                "date": "30 Ott 2025",
-                "time": "8:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2326351789.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Il Papa: “Insegnanti spesso stanchi e sopraffatti dalla burocrazia. Si rischia di dimenticare che il cuore parla al cuore”",
+                "link": "https://www.orizzontescuola.it/il-papa-insegnanti-spesso-stanchi-e-sopraffatti-dalla-burocrazia-si-rischia-di-dimenticare-che-il-cuore-parla-al-cuore/",
+                "date": "31 Ott 2025",
+                "time": "12:56",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Tre bambini cresciuti nel bosco senza scuola né servizi: la Procura interviene per “grave pregiudizio”",
+                "link": "https://www.orizzontescuola.it/tre-bambini-cresciuti-nel-bosco-senza-scuola-ne-servizi-la-procura-interviene-per-grave-pregiudizio/",
+                "date": "31 Ott 2025",
+                "time": "12:45",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Papa Leone XIV ai giovani: “Attenti alla fede scoperta sui social, rischia di restare disincarnata”",
+                "link": "https://www.orizzontescuola.it/papa-leone-xiv-ai-giovani-attenti-alla-fede-scoperta-sui-social-rischia-di-restare-disincarnata/",
+                "date": "31 Ott 2025",
+                "time": "12:10",
+                "image_link": "N/A"
+            },
+            null,
+            {
+                "category": "Scuole",
+                "title": "Educazione finanziaria, torna a novembre il mese dedicato alla consapevolezza economica. Un programma per tutte le età",
+                "link": "https://www.orizzontescuola.it/educazione-finanziaria-torna-a-novembre-il-mese-dedicato-alla-consapevolezza-economica-un-programma-per-tutte-le-eta/",
+                "date": "31 Ott 2025",
+                "time": "11:50",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Educatrice avrebbe legato bambina con una sciarpa: licenziata dopo quattro giorni dall’assunzione",
+                "link": "https://www.orizzontescuola.it/educatrice-lega-bambina-con-una-sciarpa-licenziata-dopo-quattro-giorni/",
+                "date": "31 Ott 2025",
+                "time": "11:40",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Registro elettronico violato da studenti minorenni: minori denunciati per accesso abusivo al sistema di valutazione",
+                "link": "https://www.orizzontescuola.it/registro-elettronico-violato-da-studenti-minorenni-minori-denunciati-per-accesso-abusivo-al-sistema-di-valutazione/",
+                "date": "31 Ott 2025",
+                "time": "11:24",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“I bambini non possono vestirsi per Halloween”, la richiesta della scuola che fa discutere",
+                "link": "https://www.orizzontescuola.it/i-bambini-non-possono-vestirsi-per-halloweeb-la-richiesta-della-scuola-che-fa-discutere/",
+                "date": "31 Ott 2025",
+                "time": "11:14",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Manovra 2026, Fracassi (Flc Cgil): “Va cambiata. Dal taglio Irpef una media di 0,3 centesimi al giorno. Fondi alle paritarie, solo tagli per scuole statali”",
+                "link": "https://www.orizzontescuola.it/manovra-2026-fracassi-flc-cgil-va-cambiata-dal-taglio-irpef-una-media-di-03-centesimi-al-giorno-fondi-alle-paritarie-solo-tagli-per-scuole-statali/",
+                "date": "31 Ott 2025",
+                "time": "11:05",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Lanciano una sedia dalla finestra della classe e si filmano, rischiata la tragedia. Il video",
+                "link": "https://www.orizzontescuola.it/lanciano-una-sedia-dalla-finestra-della-classe-e-si-filmano-rischiata-la-tragedia-il-video/",
+                "date": "31 Ott 2025",
+                "time": "10:12",
+                "image_link": "N/A"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Permessi diritto allo studio, in Sicilia nuovo Contratto Integrativo 2026-28. Indicazioni per i percorsi abilitanti",
@@ -325,86 +398,6 @@
                 "link": "https://www.orizzontescuola.it/allerta-meteo-scuole-chiuse-venerdi-31-ottobre-stop-alle-lezioni-in-diversi-comuni-della-calabria-lelenco/",
                 "date": "30 Ott 2025",
                 "time": "16:29",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Rinnovo CCNL scuola: Cisl sollecita la chiusura del triennio 2022-24 per avviare subito la trattativa 2025-27",
-                "link": "https://www.orizzontescuola.it/rinnovo-ccnl-scuola-cisl-sollecita-la-chiusura-del-triennio-2022-24-per-avviare-subito-la-trattativa-2025-27/",
-                "date": "30 Ott 2025",
-                "time": "14:28",
-                "image_link": "N/A"
-            },
-            {
-                "category": "ATA",
-                "title": "Miele (Lega): riconosciamo il grande valore del personale ATA",
-                "link": "https://www.orizzontescuola.it/miele-lega-riconosciamo-il-grande-valore-del-personale-ata/",
-                "date": "30 Ott 2025",
-                "time": "13:49",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "“STEAM in Minecraft”: dal 3 al 21 novembre aperte le iscrizioni al contest per scuole primarie e secondarie",
-                "link": "https://www.orizzontescuola.it/steam-in-minecraft-dal-3-al-21-novembre-aperte-le-iscrizioni-al-contest-per-scuole-primarie-e-secondarie/",
-                "date": "30 Ott 2025",
-                "time": "12:37",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Papa Leone agli studenti: “Siate costruttori di pace e non lasciate che l’algoritmo scriva la vostra storia. Non fermatevi sugli smartphone”",
-                "link": "https://www.orizzontescuola.it/papa-leone-agli-studenti-siate-costruttori-di-pace-e-non-lasciate-che-lalgoritmo-scriva-la-vostra-storia/",
-                "date": "30 Ott 2025",
-                "time": "12:01",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Compresenze nella scuola primaria, Uil Scuola Emilia Romagna: “Da risorsa educativa a tappabuchi organizzativo. Deriva pericolosa”",
-                "link": "https://www.orizzontescuola.it/compresenze-nella-scuola-primaria-uil-scuola-emilia-romagna-da-risorsa-educativa-a-tappabuchi-organizzativo-deriva-pericolosa/",
-                "date": "30 Ott 2025",
-                "time": "11:47",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Punteggio aggiuntivo per i docenti delle piccole isole: la Gilda accoglie il DL con favore",
-                "link": "https://www.orizzontescuola.it/punteggio-aggiuntivo-per-i-docenti-delle-piccole-isole-la-gilda-accoglie-il-dl-con-favore/",
-                "date": "30 Ott 2025",
-                "time": "11:17",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Giubileo del Mondo educativo, Valditara: “La scuola deve valorizzare i talenti di ogni studente”",
-                "link": "https://www.orizzontescuola.it/giubileo-del-mondo-educativo-valditara-la-scuola-deve-valorizzare-i-talenti-di-ogni-studente/",
-                "date": "30 Ott 2025",
-                "time": "11:05",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Alberto Pellai: “Le scuole medie sono il momento chiave per prevenire il disagio adolescenziale”",
-                "link": "https://www.orizzontescuola.it/alberto-pellai-le-scuole-medie-sono-il-momento-chiave-per-prevenire-il-disagio-adolescenziale/",
-                "date": "30 Ott 2025",
-                "time": "10:56",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Controlli antidroga nelle scuole a Napoli: minore denunciato per possesso di coltello a scatto",
-                "link": "https://www.orizzontescuola.it/controlli-antidroga-nelle-scuole-a-napoli-minore-denunciato-per-possesso-di-coltello-a-scatto/",
-                "date": "30 Ott 2025",
-                "time": "10:28",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Rinnovo del contratto scuola, la Gilda insiste: servono più fondi e una trattativa autonoma",
-                "link": "https://www.orizzontescuola.it/rinnovo-del-contratto-scuola-la-gilda-insiste-servono-piu-fondi-e-una-trattativa-autonoma/",
-                "date": "30 Ott 2025",
-                "time": "9:22",
                 "image_link": "N/A"
             }
         ]
@@ -531,6 +524,22 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Riserva Legge 68/1999: come va indicata nelle domande del concorso PNRR3. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/riserva-legge-68-1999-come-va-indicata-nelle-domande-del-concorso-pnrr3-pillole-di-question-time/",
+                "date": "29 Ott 2025",
+                "time": "11:42",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_388588420.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Domanda concorso docenti PNRR3 con riserva: bisogna compilare tutte le sezioni, scioglimento riguarderà solo titolo di accesso. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/domanda-concorso-docenti-pnrr3-con-riserva-bisogna-compilare-tutte-le-sezioni-scioglimento-riguardera-solo-titolo-di-accesso-pillole-di-question-time/",
+                "date": "29 Ott 2025",
+                "time": "11:31",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_1958115694.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Maturità 2026, come cambia: colloquio con 4 discipline scelte entro il 31 gennaio, 2 commissari esterni e due interni, voti [LO SPECIALE]",
                 "link": "https://www.orizzontescuola.it/maturita-2026-come-cambia-colloquio-con-4-discipline-scelte-entro-il-31-gennaio-2-commissari-esterni-e-due-interni-voti-lo-speciale/",
                 "date": "29 Ott 2025",
@@ -560,36 +569,12 @@
                 "date": "29 Ott 2025",
                 "time": "9:17",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2487699197.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR3: requisiti, posti, prove. Domande entro le 23:59 del 29 ottobre [Speciale Bando]",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-requisiti-posti-prove-speciale-bozza-bando/",
-                "date": "29 Ott 2025",
-                "time": "6:22",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Concorso-docenti-PNRR3-6.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR3, i consigli “dell’ultimo minuto”: domanda scade mercoledì 29 ottobre alle 23:59",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-i-consigli-dellultimo-minuto-domanda-scade-mercoledi-29-ottobre-alle-2359/",
-                "date": "28 Ott 2025",
-                "time": "22:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2471109123-scaled.jpg"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
-            {
-                "category": "ATA",
-                "title": "Supplenze ATA: completamento spezzone possibile solo nello stesso profilo",
-                "link": "https://www.orizzontescuola.it/supplenze-ata-completamento-spezzone-possibile-solo-nello-stesso-profilo/",
-                "date": "23 Ott 2025",
-                "time": "12:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2331500305.jpg"
-            },
             {
                 "category": "ATA",
                 "title": "Permessi 104: il personale ATA può scegliere tra fruizione giornaliera o a ore",
@@ -629,6 +614,14 @@
                 "date": "9 Ott 2025",
                 "time": "18:35",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1687192501-scaled.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Organici e reclutamento ATA, dal 2026/27 44mila posti in meno per i collaboratori scolastici, rischi per mobilità. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/organici-e-reclutamento-ata-dal-2026-27-44mila-posti-in-meno-per-i-collaboratori-scolastici-rischio-complicazioni-mobilita-risposte-ai-quesiti/",
+                "date": "9 Ott 2025",
+                "time": "8:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
             }
         ]
     },
