@@ -24,6 +24,14 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Scuole",
+                "title": "Elezioni Consigli di circolo e di istituto: voto entro 30 novembre e 1° dicembre",
+                "link": "https://www.orizzontescuola.it/elezioni-consigli-di-circolo-e-di-istituto-voto-entro-30-novembre-e-1-dicembre/",
+                "date": "2 Nov 2025",
+                "time": "9:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/09/shutterstock_727613272.jpg"
+            },
+            {
                 "category": "Cronaca",
                 "title": "“Oltre il voto; valutazione, autovalutazione, rubriche di feedback e uso dell’intelligenza artificiale”: un viaggio pedagogico e culturale guidato dal prof. Antonio Fundarò",
                 "link": "https://www.orizzontescuola.it/oltre-il-voto-valutazione-autovalutazione-rubriche-di-feedback-e-uso-dellintelligenza-artificiale-un-viaggio-pedagogico-e-culturale-guidato-dal-prof-antonio-fundaro/",
@@ -135,7 +143,12 @@
                 "date": "1 Nov 2025",
                 "time": "10:31",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_142220581.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Docenti di ruolo esprimono solidarietà ai colleghi precari idonei: “Assumeteli con un piano straordinario come fece Renzi”",
@@ -143,12 +156,7 @@
                 "date": "1 Nov 2025",
                 "time": "10:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/07/precario-maglia1-e1556333162785.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Frassinetti: “L’esame di maturità torna a verificare conoscenze, competenze e responsabilità personale. Una crescita a 360 gradi”",
@@ -270,20 +278,44 @@
                 "date": "31 Ott 2025",
                 "time": "17:04",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/shutterstock_2384798953.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Ragazzo si fa male dopo spinta di un compagno, la famiglia chiede risarcimento, ma il Tribunale dice no: la scuola deve fare tutto il possibile, ma non può prevedere tutto",
-                "link": "https://www.orizzontescuola.it/ragazzo-si-fa-male-dopo-spinta-di-un-compagno-la-famiglia-chiede-risarcimento-ma-il-tribunale-dice-no-la-scuola-deve-fare-tutto-il-possibile-ma-non-puo-prevedere-tutto/",
-                "date": "31 Ott 2025",
-                "time": "16:02",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/07/shutterstock_565403533.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Nuove librerie: contributi fino a 24mila euro per giovani under 35",
+                "link": "https://www.orizzontescuola.it/nuove-librerie-contributi-fino-a-24mila-euro-per-giovani-under-35/",
+                "date": "2 Nov 2025",
+                "time": "12:34",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Genitori",
+                "title": "Dove cresce di più l’Assegno Unico 2025? Come cambiano gli importi medi da Nord a Sud",
+                "link": "https://www.orizzontescuola.it/dove-cresce-di-piu-lassegno-unico-2025-come-cambiano-gli-importi-medi-da-nord-a-sud/",
+                "date": "2 Nov 2025",
+                "time": "10:04",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Schettini avverte i giovani: “Se non rallenti, sbatti e ti fai male. Non so dove stiamo andando a finire. Stiamo correndo troppo”",
+                "link": "https://www.orizzontescuola.it/il-prof-schettini-avverte-i-giovani-se-non-rallenti-sbatti-e-ti-fai-male-non-so-dove-stiamo-andando-a-finire-stiamo-correndo-troppo/",
+                "date": "2 Nov 2025",
+                "time": "10:00",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Studenti",
+                "title": "Programma Itaca 2026/27, 1.500 borse di studio INPS per studiare all’estero: domande entro il 10 novembre",
+                "link": "https://www.orizzontescuola.it/programma-itaca-2026-27-1-500-borse-di-studio-inps-per-studiare-allestero-domande-entro-il-10-novembre/",
+                "date": "2 Nov 2025",
+                "time": "9:46",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Palermo, al via il piano “Stop Emergenza Minori”: il programma completo del Garante per scuole e famiglie",
@@ -294,7 +326,7 @@
             },
             {
                 "category": "Cronaca",
-                "title": "Scuola cattolica nel mondo: oltre 70 milioni di studenti e 231mila scuole. Quasi la metà si concentra in Africa.",
+                "title": "Scuola cattolica nel mondo: oltre 70 milioni di studenti e 231mila scuole. Quasi la metà si concentra in Africa",
                 "link": "https://www.orizzontescuola.it/scuola-cattolica-nel-mondo-oltre-70-milioni-di-studenti-e-231mila-scuole-quasi-la-meta-si-concentra-in-africa/",
                 "date": "1 Nov 2025",
                 "time": "19:56",
@@ -394,38 +426,6 @@
                 "link": "https://www.orizzontescuola.it/digitalizzazione-della-pubblica-amministrazione-azioni-mirate-a-scuola-universita-e-lavoro-con-il-nuovo-protocollo-interministeriale/",
                 "date": "1 Nov 2025",
                 "time": "10:37",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Klarna integra pagoPA: multe, bollo auto e tasse scolastiche pagabili a rate senza interessi",
-                "link": "https://www.orizzontescuola.it/klarna-integra-pagopa-multe-bollo-auto-e-tasse-scolastiche-pagabili-a-rate-senza-interessi/",
-                "date": "1 Nov 2025",
-                "time": "9:11",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Expo Training Milano, “Così vedrai come spara”: tutorial sulla mitraglietta allo stand dei Baschi Azzurri che ha suscitato polemiche",
-                "link": "https://www.orizzontescuola.it/expo-training-milano-cosi-vedrai-come-spara-tutorial-sulla-mitraglietta-allo-stand-dei-baschi-azzurri-che-ha-suscitato-polemiche/",
-                "date": "1 Nov 2025",
-                "time": "8:10",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Ognissanti, musei aperti con tariffa ordinaria. Il 2 e 4 novembre ingresso gratuito",
-                "link": "https://www.orizzontescuola.it/ognissanti-musei-aperti-con-tariffa-ordinaria-il-2-e-4-novembre-ingresso-gratuito/",
-                "date": "1 Nov 2025",
-                "time": "7:55",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Abolire il cambio d’ora? La posizione divisa dei Paesi Ue sulla proposta",
-                "link": "https://www.orizzontescuola.it/abolire-il-cambio-dora-la-posizione-divisa-dei-paesi-ue-sulla-proposta/",
-                "date": "1 Nov 2025",
-                "time": "7:35",
                 "image_link": "N/A"
             }
         ]
@@ -552,6 +552,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Neoassunti, disponibile modello per il bilancio delle competenze 2025/26",
+                "link": "https://www.orizzontescuola.it/neoassunti-disponibile-modello-per-il-bilancio-2025-26/",
+                "date": "30 Ott 2025",
+                "time": "17:42",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2471325395.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR3: data prova scritta potrebbe coincidere con esame finale Sostegno Indire?",
                 "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-data-prova-scritta-potrebbe-coincidere-con-esame-finale-sostegno-indire/",
                 "date": "30 Ott 2025",
@@ -589,14 +597,6 @@
                 "date": "30 Ott 2025",
                 "time": "9:28",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2471325395.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Prova scritta concorso docenti PNRR3: dove, quando e come si svolgerà [LO SPECIALE]",
-                "link": "https://www.orizzontescuola.it/prova-scritta-concorso-docenti-pnrr3-dove-quando-e-come-si-svolgera-lo-speciale/",
-                "date": "30 Ott 2025",
-                "time": "8:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Concorso-docenti.png"
             }
         ]
     },
