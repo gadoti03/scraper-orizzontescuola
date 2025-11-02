@@ -24,6 +24,22 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Chiedilo a Lalla",
+                "title": "Decreto Scuola, Carta docente ai precari, percorsi Indire e non solo: le novità. QUESTION TIME con Cozzetto (Anief) LIVE Lunedì 3 novembre alle 15:30",
+                "link": "https://www.orizzontescuola.it/decreto-scuola-carta-docente-ai-precari-percorsi-indire-e-non-solo-le-novita-question-time-con-cozzetto-anief-live-lunedi-3-novembre-alle-1530/",
+                "date": "2 Nov 2025",
+                "time": "15:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/DECRETO.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Studente bocciato per 5 in condotta, la famiglia fa ricorso al TAR e lo vince. I giudici: “Ragazzo in difficoltà emotiva, la scuola non ha attivato tutte le attività di supporto”",
+                "link": "https://www.orizzontescuola.it/studente-bocciato-per-5-in-condotta-la-famiglia-fa-ricorso-al-tar-e-lo-vince-i-giudici-ragazzo-in-difficolta-emotiva-la-scuola-non-ha-attivato-tutte-le-attivita-di-supporto/",
+                "date": "2 Nov 2025",
+                "time": "15:27",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/02/shutterstock_1198785832.jpg"
+            },
+            {
                 "category": "Scuole",
                 "title": "Elezioni Consigli di circolo e di istituto: voto entro 30 novembre e 1° dicembre",
                 "link": "https://www.orizzontescuola.it/elezioni-consigli-di-circolo-e-di-istituto-voto-entro-30-novembre-e-1-dicembre/",
@@ -127,7 +143,12 @@
                 "date": "1 Nov 2025",
                 "time": "11:29",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/11/giovani.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Quasi la metà dei docenti sempre reperibile: il 41% riceve comunicazioni dopo le 20, il 75% dedica più di 6 ore al mese al registro elettronico. Una vita sommersa tra messaggi e burocrazia",
@@ -143,12 +164,7 @@
                 "date": "1 Nov 2025",
                 "time": "10:31",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_142220581.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Docenti di ruolo esprimono solidarietà ai colleghi precari idonei: “Assumeteli con un piano straordinario come fece Renzi”",
@@ -262,28 +278,36 @@
                 "date": "31 Ott 2025",
                 "time": "20:25",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Modello-immagine-sito-4.png"
-            },
-            {
-                "category": "Docenti",
-                "title": "A 10 anni dalla “Buona Scuola” ancora dubbi sul potenziamento: supplenze sì, no? Progetti, compresenze, consigli di classe",
-                "link": "https://www.orizzontescuola.it/a-10-anni-dalla-buona-scuola-ancora-dubbi-sul-potenziamento-supplenze-si-no-progetti-compresenze-consigli-di-classe/",
-                "date": "31 Ott 2025",
-                "time": "18:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/download-1.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "La scuola media è l’anello debole del sistema scolastico? I commenti su Reddit: “Scarse competenze trasmesse”, “una voragine che si apre”. E c’è chi propone: “Sei anni di elementari, poi sei di liceo”",
-                "link": "https://www.orizzontescuola.it/la-scuola-media-e-lanello-debole-del-sistema-scolastico-i-commenti-su-reddit-scarse-competenze-trasmesse-una-voragine-che-si-apre-e-ce-chi-propone-sei-anni-di-elementari-poi-sei-di/",
-                "date": "31 Ott 2025",
-                "time": "17:04",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/shutterstock_2384798953.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Suor Alfieri in Senato: “Serve un buono scuola nazionale per chi vuole frequentare le scuole non statali”",
+                "link": "https://www.orizzontescuola.it/suor-alfieri-in-senato-serve-un-buono-scuola-nazionale-per-chi-vuole-frequentare-le-scuole-non-statali/",
+                "date": "2 Nov 2025",
+                "time": "16:08",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Studenti",
+                "title": "Concorso “I Giovani e le Scienze”: candidature aperte fino al 31 gennaio",
+                "link": "https://www.orizzontescuola.it/concorso-i-giovani-e-le-scienze-candidature-aperte-fino-al-31-gennaio/",
+                "date": "2 Nov 2025",
+                "time": "16:00",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Educazione alla salute, 24 progetti Iss per la “Mappa della Città Educante”",
+                "link": "https://www.orizzontescuola.it/educazione-alla-salute-24-progetti-iss-per-la-mappa-della-citta-educante/",
+                "date": "2 Nov 2025",
+                "time": "14:10",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Nuove librerie: contributi fino a 24mila euro per giovani under 35",
@@ -402,30 +426,6 @@
                 "link": "https://www.orizzontescuola.it/petizione-in-svizzera-per-vietare-simboli-religiosi-e-politici-ostentati-dai-docenti-preservare-il-principio-di-laicita-e-neutralita-confessionale-dellinsegnamento-pubblico/",
                 "date": "1 Nov 2025",
                 "time": "11:08",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Manovra 2026: il tetto del 5 per mille sale a 610 milioni, primo aumento dal 2013",
-                "link": "https://www.orizzontescuola.it/manovra-2026-il-tetto-del-5-per-mille-sale-a-610-milioni-primo-aumento-dal-2013/",
-                "date": "1 Nov 2025",
-                "time": "10:43",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Roberto Bolle: “Non abbiate paura della fatica, dell’incertezza, del dubbio. Date valore al percorso prima ancora che al risultato”",
-                "link": "https://www.orizzontescuola.it/roberto-bolle-non-abbiate-paura-della-fatica-dellincertezza-del-dubbio-date-valore-al-percorso-prima-ancora-che-al-risultato/",
-                "date": "1 Nov 2025",
-                "time": "10:37",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Digitalizzazione della pubblica amministrazione: azioni mirate a scuola, università e lavoro con il nuovo protocollo interministeriale",
-                "link": "https://www.orizzontescuola.it/digitalizzazione-della-pubblica-amministrazione-azioni-mirate-a-scuola-universita-e-lavoro-con-il-nuovo-protocollo-interministeriale/",
-                "date": "1 Nov 2025",
-                "time": "10:37",
                 "image_link": "N/A"
             }
         ]
