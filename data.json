@@ -25,6 +25,23 @@
         "articles": [
             {
                 "category": "Cronaca",
+                "title": "“Oltre il voto; valutazione, autovalutazione, rubriche di feedback e uso dell’intelligenza artificiale”: un viaggio pedagogico e culturale guidato dal prof. Antonio Fundarò",
+                "link": "https://www.orizzontescuola.it/oltre-il-voto-valutazione-autovalutazione-rubriche-di-feedback-e-uso-dellintelligenza-artificiale-un-viaggio-pedagogico-e-culturale-guidato-dal-prof-antonio-fundaro/",
+                "date": "2 Nov 2025",
+                "time": "9:05",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Screenshot-2025-11-02-070605.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“Solo pasta e frutta”, niente secondo, pane o contorno per i docenti. Scoppia il caso mensa",
+                "link": "https://www.orizzontescuola.it/solo-pasta-e-frutta-niente-secondo-pane-o-contorno-per-i-docenti-scoppia-il-caso-mensa/",
+                "date": "2 Nov 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/shutterstock_2220989491.jpg"
+            },
+            null,
+            {
+                "category": "Cronaca",
                 "title": "Hikikomori in Italia, come un ragazzo colto e consapevole diventa prigioniero della sua stanza. Il racconto di una madre",
                 "link": "https://www.orizzontescuola.it/hikikomori-in-italia-come-un-ragazzo-colto-e-consapevole-diventa-prigioniero-della-sua-stanza-il-racconto-di-una-madre/",
                 "date": "1 Nov 2025",
@@ -126,7 +143,12 @@
                 "date": "1 Nov 2025",
                 "time": "10:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/07/precario-maglia1-e1556333162785.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Frassinetti: “L’esame di maturità torna a verificare conoscenze, competenze e responsabilità personale. Una crescita a 360 gradi”",
@@ -150,12 +172,7 @@
                 "date": "1 Nov 2025",
                 "time": "9:55",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_2159948225.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "Privacy, convocazione GLO visibile a tutti i genitori. Garante ammonisce scuola: possibile desumere dati perché associato al PEI",
@@ -261,36 +278,20 @@
                 "date": "31 Ott 2025",
                 "time": "16:02",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/07/shutterstock_565403533.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Quante ore si passa in classe in Europa? In media 7.868 obbligatorie, in Danimarca 10.600. E l’Italia?",
-                "link": "https://www.orizzontescuola.it/quante-ore-si-passa-in-classe-in-europa-in-media-7-868-obbligatorie-in-danimarca-10-600-e-litalia/",
-                "date": "31 Ott 2025",
-                "time": "14:51",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_2033349842.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR 3: le nuove graduatorie bloccheranno l’accesso degli idonei agli elenchi regionali? Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr-3-le-nuove-graduatorie-bloccheranno-laccesso-degli-idonei-agli-elenchi-regionali-pillole-di-question-time/",
-                "date": "31 Ott 2025",
-                "time": "14:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_59277838.jpg"
-            },
-            {
-                "category": "Pensioni",
-                "title": "Elezioni Fondo Espero 2025, sindacato FLC CGIL il più votato. UIL Scuola RUA cresce con + 3 seggi",
-                "link": "https://www.orizzontescuola.it/elezioni-fondo-espero-2025-sindacato-flc-cgil-il-piu-votato-uil-scuola-rua-cresce-con-3-seggi/",
-                "date": "31 Ott 2025",
-                "time": "13:46",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/FotoLogo1-1.png"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Palermo, al via il piano “Stop Emergenza Minori”: il programma completo del Garante per scuole e famiglie",
+                "link": "https://www.orizzontescuola.it/palermo-al-via-il-piano-stop-emergenza-minori-il-programma-completo-del-garante-per-scuole-e-famiglie/",
+                "date": "2 Nov 2025",
+                "time": "8:23",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Scuola cattolica nel mondo: oltre 70 milioni di studenti e 231mila scuole. Quasi la metà si concentra in Africa.",
@@ -426,14 +427,6 @@
                 "date": "1 Nov 2025",
                 "time": "7:35",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Organico di fatto e organico di diritto: la trasformazione non eliminerebbe le supplenze ma farebbe aumentare le assunzioni. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/organico-di-fatto-e-organico-di-diritto-la-trasformazione-non-eliminerebbe-le-gps-ma-farebbe-aumentare-le-assunzioni-pillole-di-question-time/",
-                "date": "31 Ott 2025",
-                "time": "20:17",
-                "image_link": "N/A"
             }
         ]
     },
@@ -559,6 +552,22 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3: data prova scritta potrebbe coincidere con esame finale Sostegno Indire?",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-data-prova-scritta-potrebbe-coincidere-con-esame-finale-sostegno-indire/",
+                "date": "30 Ott 2025",
+                "time": "16:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_1831747288.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3, avvio PROVA SCRITTA. Domanda per ausili e tempi aggiuntivi, rinvio per gravidanza, spazi per allattamento",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-avvio-prova-scritta-richiesta-documenti-per-ausili-e-tempi-aggiuntivi-candidati-con-dsa-e-rinvio-per-gravidanza-scadenze-usr/",
+                "date": "30 Ott 2025",
+                "time": "15:22",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2120807768.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Pubblicazione delle posizioni degli idonei del concorso scuola PNRR1: cosa cambia per le assunzioni in ruolo?",
                 "link": "https://www.orizzontescuola.it/pubblicazione-delle-posizioni-degli-idonei-del-concorso-scuola-pnrr1-cosa-cambia-per-le-assunzioni-in-ruolo/",
                 "date": "30 Ott 2025",
@@ -588,22 +597,6 @@
                 "date": "30 Ott 2025",
                 "time": "8:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Concorso-docenti.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Ferie assegnate d’ufficio ai docenti precari: quando è legittima la richiesta di indennizzo economico",
-                "link": "https://www.orizzontescuola.it/ferie-assegnate-dufficio-ai-docenti-precari-quando-e-legittima-la-richiesta-di-indennizzo-economico/",
-                "date": "29 Ott 2025",
-                "time": "19:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/06/shutterstock_1890232807.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR3, bandi in Campania con tanti posti nonostante graduatorie precedenti ancora piene. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-bandi-in-campania-con-tanti-posti-nonostante-graduatorie-precedenti-ancora-piene-pillole-di-question-time/",
-                "date": "29 Ott 2025",
-                "time": "16:34",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1669106749.jpg"
             }
         ]
     },
