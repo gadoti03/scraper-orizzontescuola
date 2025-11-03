@@ -24,6 +24,14 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso: Legge 104, art. 3 comma 3: quando si può esercitare la priorità nella scelta della sede. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/concorso-legge-104-art-3-comma-3-quando-si-puo-esercitare-la-priorita-nella-scelta-della-sede-pillole-di-question-time/",
+                "date": "3 Nov 2025",
+                "time": "20:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_1708378216.jpg"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Infortuni a scuola: oltre 53mila denunce Inail tra gli studenti nei primi nove mesi del 2025. Sette i morti",
                 "link": "https://www.orizzontescuola.it/infortuni-a-scuola-oltre-53mila-denunce-inail-tra-gli-studenti-nei-primi-nove-mesi-del-2025-sette-i-morti/",
@@ -142,7 +150,12 @@
                 "date": "3 Nov 2025",
                 "time": "11:53",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/09/shutterstock_540816676.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Formazione docenti sull’inclusione: il MIM proroga al 6 novembre 2025 il termine per la rendicontazione. NOTA",
@@ -150,12 +163,7 @@
                 "date": "3 Nov 2025",
                 "time": "11:35",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_521791969.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "Liceo del made in Italy, attivazione svincolata dall’opzione economico – sociale del liceo delle scienze umane",
@@ -277,20 +285,84 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_409299112-scaled.jpg"
             },
             null,
-            null,
-            {
-                "category": "Plus",
-                "title": "Ciclo di 5 webinar. Intelligenza Artificiale per l’amministrazione scolastica: strumenti e strategie per semplificare il lavoro",
-                "link": "https://www.orizzontescuola.it/ciclo-di-5-webinar-intelligenza-artificiale-per-lamministrazione-scolastica-strumenti-e-strategie-per-semplificare-il-lavoro/",
-                "date": "3 Nov 2025",
-                "time": "6:45",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Intelligenza-Artificiale-e-amministrazione-scolastica-2.png"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Firmata l’ipotesi di CCNL Funzioni Locali 2022/24: aumenti fino a 140 euro in busta paga e orario flessibile per chi ha figli a scuola",
+                "link": "https://www.orizzontescuola.it/firmata-lipotesi-di-ccnl-funzioni-locali-2022-24-aumenti-fino-a-140-euro-in-busta-paga-e-orario-flessibile-per-chi-ha-figli-a-scuola/",
+                "date": "3 Nov 2025",
+                "time": "21:16",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Docenti",
+                "title": "Esonero dal servizio per la partecipazione ai convegni “Nel nome di chi?” e “Dal Cantico delle Creature”",
+                "link": "https://www.orizzontescuola.it/esonero-dal-servizio-per-la-partecipazione-ai-convegni-nel-nome-di-chi-e-dal-cantico-delle-creature/",
+                "date": "3 Nov 2025",
+                "time": "20:42",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3: i candidati di quali classi di concorso dovranno recarsi in Puglia per la prova orale",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-i-candidati-di-quali-classi-di-concorso-dovranno-recarsi-in-puglia-per-la-prova-orale/",
+                "date": "3 Nov 2025",
+                "time": "20:09",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Rafforzare le misure per l’infanzia: Save the Children chiede interventi incisivi nella Legge di Bilancio a tutela di minori e famiglie",
+                "link": "https://www.orizzontescuola.it/rafforzare-le-misure-per-linfanzia-save-the-children-chiede-interventi-incisivi-nella-legge-di-bilancio-a-tutela-di-minori-e-famiglie/",
+                "date": "3 Nov 2025",
+                "time": "19:22",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "AIRC nelle Scuole, il 5 novembre a Foligno una delle tappe del programma nazionale che coinvolge 50.000 studenti",
+                "link": "https://www.orizzontescuola.it/airc-nelle-scuole-il-5-novembre-a-foligno-una-delle-tappe-del-programma-nazionale-che-coinvolge-50-000-studenti/",
+                "date": "3 Nov 2025",
+                "time": "19:10",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Nessuna categoria",
+                "title": "Pubblica Amministrazione, semplificazioni e reclutamento: Zangrillo presenta i risultati e i nuovi strumenti digitali",
+                "link": "https://www.orizzontescuola.it/pubblica-amministrazione-semplificazioni-e-reclutamento-zangrillo-presenta-i-risultati-e-i-nuovi-strumenti-digitali/",
+                "date": "3 Nov 2025",
+                "time": "19:03",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Suor Alfieri, appello al Governo: “La paritaria non è la scuola dei ricchi. La soluzione c’è, ora serve il coraggio di cambiare. Basta narrazioni stucchevoli”",
+                "link": "https://www.orizzontescuola.it/suor-alfieri-appello-al-governo-la-paritaria-non-e-la-scuola-dei-ricchi-la-soluzione-ce-ora-serve-il-coraggio-di-cambiare-basta-narrazioni-stucchevoli/",
+                "date": "3 Nov 2025",
+                "time": "18:57",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Pittoni (Lega): “Docenti precari disposti ad attendere, ma non tutta la vita”",
+                "link": "https://www.orizzontescuola.it/pittoni-lega-docenti-precari-disposti-ad-attendere-ma-non-tutta-la-vita/",
+                "date": "3 Nov 2025",
+                "time": "18:37",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "Giorno dell’Unità Nazionale e Giornata delle Forze Armate, il 4 novembre la cerimonia della consegna delle bandiere alle scuole",
+                "link": "https://www.orizzontescuola.it/4-novembre-il-mim-rilancia-la-cerimonia-della-consegna-delle-bandiere-alle-scuole/",
+                "date": "3 Nov 2025",
+                "time": "18:02",
+                "image_link": "N/A"
+            },
             null,
             {
                 "category": "Cronaca",
@@ -354,78 +426,6 @@
                 "link": "https://www.orizzontescuola.it/eletta-miss-italia-ma-ha-scelto-la-scuola-ho-insegnato-per-28-anni-la-mia-vera-passione-ci-davano-delle-oche-io-chiesi-dellaoristo/",
                 "date": "3 Nov 2025",
                 "time": "10:47",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Recalcati: “La sessualità non si insegna come si insegna la grammatica o la matematica. Desiderio e libertà non si apprendono con un’ora di lezione”",
-                "link": "https://www.orizzontescuola.it/recalcati-la-sessualita-non-si-insegna-come-si-insegna-la-grammatica-o-la-matematica-desiderio-e-liberta-non-si-apprendono-con-unora-di-lezione/",
-                "date": "3 Nov 2025",
-                "time": "7:54",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Un concorso sull’identità lombarda rivolto alle scuole primarie e medie, si vincono fino a 5mila euro",
-                "link": "https://www.orizzontescuola.it/un-concorso-sullidentita-lombarda-rivolto-alle-scuole-primarie-e-medie-si-vincono-fino-a-5mila-euro/",
-                "date": "2 Nov 2025",
-                "time": "18:55",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Il personale scolastico non può lasciare il lavoro a quasi 67 anni e mezzo, Anief: burnout in crescita esponenziale, in settimana presenteremo un emendamento alla legge di bilancio per consentire l’accesso all’APE Sociale",
-                "link": "https://www.orizzontescuola.it/il-personale-scolastico-non-puo-lasciare-il-lavoro-a-quasi-67-anni-e-mezzo-anief-burnout-in-crescita-esponenziale-in-settimana-presenteremo-un-emendamento-alla-legge-di-bilancio-per-consentire-l/",
-                "date": "2 Nov 2025",
-                "time": "17:49",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Suor Alfieri in Senato: “Serve un buono scuola nazionale per chi vuole frequentare le scuole non statali”",
-                "link": "https://www.orizzontescuola.it/suor-alfieri-in-senato-serve-un-buono-scuola-nazionale-per-chi-vuole-frequentare-le-scuole-non-statali/",
-                "date": "2 Nov 2025",
-                "time": "16:08",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Studenti",
-                "title": "Concorso “I Giovani e le Scienze”: candidature aperte fino al 31 gennaio",
-                "link": "https://www.orizzontescuola.it/concorso-i-giovani-e-le-scienze-candidature-aperte-fino-al-31-gennaio/",
-                "date": "2 Nov 2025",
-                "time": "16:00",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Educazione alla salute, 24 progetti Iss per la “Mappa della Città Educante”",
-                "link": "https://www.orizzontescuola.it/educazione-alla-salute-24-progetti-iss-per-la-mappa-della-citta-educante/",
-                "date": "2 Nov 2025",
-                "time": "14:10",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Nuove librerie: contributi fino a 24mila euro per giovani under 35",
-                "link": "https://www.orizzontescuola.it/nuove-librerie-contributi-fino-a-24mila-euro-per-giovani-under-35/",
-                "date": "2 Nov 2025",
-                "time": "12:34",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Genitori",
-                "title": "Dove cresce di più l’Assegno Unico 2025? Come cambiano gli importi medi da Nord a Sud",
-                "link": "https://www.orizzontescuola.it/dove-cresce-di-piu-lassegno-unico-2025-come-cambiano-gli-importi-medi-da-nord-a-sud/",
-                "date": "2 Nov 2025",
-                "time": "10:04",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Schettini avverte i giovani: “Se non rallenti, sbatti e ti fai male. Non so dove stiamo andando a finire. Stiamo correndo troppo”",
-                "link": "https://www.orizzontescuola.it/il-prof-schettini-avverte-i-giovani-se-non-rallenti-sbatti-e-ti-fai-male-non-so-dove-stiamo-andando-a-finire-stiamo-correndo-troppo/",
-                "date": "2 Nov 2025",
-                "time": "10:00",
                 "image_link": "N/A"
             }
         ]
