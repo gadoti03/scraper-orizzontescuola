@@ -23,6 +23,8 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
+            null,
             {
                 "category": "Politica scolastica",
                 "title": "Rinnovo contratto scuola, i sindacati firmatari: “La firma è un atto di responsabilità, ora servono più risorse. Aumenti reali sotto il livello dell’inflazione”. VIDEO INTERVISTE",
@@ -127,7 +129,12 @@
                 "date": "5 Nov 2025",
                 "time": "11:07",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2554071589.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR3: attesi a breve i numeri ufficiali dei candidati. Pillole di Question Time",
@@ -143,12 +150,7 @@
                 "date": "5 Nov 2025",
                 "time": "10:46",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "Storia dell’emigrazione italiana: come insegnarla. Le indicazioni per le scuole nella NOTA MIM",
@@ -248,22 +250,6 @@
                 "date": "4 Nov 2025",
                 "time": "16:24",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_177305711.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Nuovo Bonus mamme 2025, come presentare la domanda entro il 9 dicembre. GUIDA INPS",
-                "link": "https://www.orizzontescuola.it/nuovo-bonus-mamme-come-presentare-la-domanda-entro-il-9-dicembre-guida-inps/",
-                "date": "4 Nov 2025",
-                "time": "16:06",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1129962923-scaled.jpg"
-            },
-            {
-                "category": "Guide",
-                "title": "Diritto allo studio 2026, permessi 150 ore docenti e ATA: ecco gli AVVISI degli Uffici Scolastici e le scadenze [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/permessi-diritto-allo-studio-150-ore-docenti-e-ata-15-novembre-scade-domanda-per-tfa-sostegno-corsi-lauree-no-preparazione-concorso-guida/",
-                "date": "4 Nov 2025",
-                "time": "15:56",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1906380526.jpg"
             }
         ]
     },
