@@ -24,6 +24,46 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: le nomine di novembre da GPS [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
+                "date": "6 Nov 2025",
+                "time": "20:59",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_2377017671.jpg"
+            },
+            {
+                "category": "DSGA",
+                "title": "Arretrati 2024–2025: quanto spetta a funzionari e DSGA del comparto scuola",
+                "link": "https://www.orizzontescuola.it/arretrati-2024-2025-quanto-spetta-a-funzionari-e-dsga-del-comparto-scuola/",
+                "date": "6 Nov 2025",
+                "time": "19:42",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_112240901.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Rinnovo contratto scuola, aumenti e arretrati per docenti e ATA: ecco tutte le cifre. QUESTION TIME con Sciandrone (Uil Scuola Rua) LIVE Venerdì 7 novembre alle 16:00",
+                "link": "https://www.orizzontescuola.it/rinnovo-contratto-scuola-aumenti-e-arretrati-per-docenti-e-ata-ecco-tutte-le-cifre-question-time-con-sciandrone-uil-scuola-rua-live-venerdi-7-novembre-alle-1600/",
+                "date": "6 Nov 2025",
+                "time": "19:34",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Template_questiontime_1920x1080-3.png"
+            },
+            {
+                "category": "Scuole",
+                "title": "Anac, nuove funzionalità per il Portale dei pagamenti e la Gestione Contributi Gara: ecco le novità",
+                "link": "https://www.orizzontescuola.it/anac-nuove-funzionalita-per-il-portale-dei-pagamenti-e-la-gestione-contributi-gara-ecco-le-novita/",
+                "date": "6 Nov 2025",
+                "time": "19:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_1070096513.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Maturità 2026, come cambia: colloquio con 4 discipline scelte entro il 31 gennaio, 2 commissari esterni e due interni, voti [LO SPECIALE]",
+                "link": "https://www.orizzontescuola.it/maturita-2026-come-cambia-colloquio-con-4-discipline-scelte-entro-il-31-gennaio-2-commissari-esterni-e-due-interni-voti-lo-speciale/",
+                "date": "6 Nov 2025",
+                "time": "19:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1229865952.jpg"
+            },
+            {
                 "category": "Genitori",
                 "title": "Congedo di paternità obbligatorio: l’INPS chiarisce effetti retroattivi e riesame delle domande per le madri intenzionali. MESSAGGIO INPS",
                 "link": "https://www.orizzontescuola.it/congedo-di-paternita-obbligatorio-linps-chiarisce-effetti-retroattivi-e-riesame-delle-domande-per-le-madri-intenzionali-messaggio-inps/",
@@ -46,14 +86,6 @@
                 "date": "6 Nov 2025",
                 "time": "17:25",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2120807768.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: le nomine di novembre da GPS [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
-                "date": "6 Nov 2025",
-                "time": "17:19",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_2377017671.jpg"
             },
             {
                 "category": "Diventare Insegnanti",
@@ -111,7 +143,12 @@
                 "date": "6 Nov 2025",
                 "time": "13:48",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_1660546246.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Docenti neoassunti da Concorso PNRR: chi deve (o può) conseguire abilitazione entro il 31 dicembre 2025. Pillole di Question Time",
@@ -143,12 +180,7 @@
                 "date": "6 Nov 2025",
                 "time": "10:46",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/Carta-del-docente-2.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "ATA",
                 "title": "Arretrati personale ATA: quanto spetta tra gennaio 2024 e dicembre 2025. Fino a 1300 euro lordi",
@@ -232,44 +264,36 @@
             null,
             null,
             null,
-            null,
-            {
-                "category": "Scuole",
-                "title": "Programma Annuale: modello di lettera di trasmissione ai Revisori dei conti",
-                "link": "https://www.orizzontescuola.it/programma-annuale-modello-di-lettera-di-trasmissione-ai-revisori-dei-conti/",
-                "date": "6 Nov 2025",
-                "time": "1:04",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_2229678829.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Rinnovo contratto scuola, i sindacati firmatari: “La firma è un atto di responsabilità, ora servono più risorse. Aumenti reali sotto il livello dell’inflazione”. VIDEO INTERVISTE",
-                "link": "https://www.orizzontescuola.it/rinnovo-contratto-scuola-i-sindacati-firmatari-la-firma-e-un-atto-di-responsabilita-ora-servono-piu-risorse-aumenti-reali-sotto-il-livello-dellinflazione-video-interviste/",
-                "date": "5 Nov 2025",
-                "time": "21:46",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Sindacati.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "PEI informatizzato, come si compila: il videotutorial del MIM per le scuole",
-                "link": "https://www.orizzontescuola.it/pei-informatizzato-come-si-compila-il-videotutorial-del-mim-per-le-scuole/",
-                "date": "5 Nov 2025",
-                "time": "20:07",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/shutterstock_1440992648.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Nuova maturità, Carta docente ai precari e per biglietti aerei, assicurazione sanitaria, GPS, II ciclo corsi Indire, validità titolo ITP e molto altro. Decreto scuola in Gazzetta Ufficiale [SPECIALE]",
-                "link": "https://www.orizzontescuola.it/nuovo-esame-di-stato-carta-docente-ai-precari-e-per-biglietti-aerei-assicurazione-sanitaria-gps-ii-ciclo-corsi-indire-validita-titolo-itp-e-molto-altro-decreto-scuola-approvato/",
-                "date": "5 Nov 2025",
-                "time": "19:19",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Speciali.png"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Secondo ciclo Sostegno Indire: decreto già in lavorazione",
+                "link": "https://www.orizzontescuola.it/secondo-ciclo-sostegno-indire-decreto-gia-in-lavorazione/",
+                "date": "6 Nov 2025",
+                "time": "21:45",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Corsi di lingua: l’esenzione Iva non si applica senza un riconoscimento pubblico dell’attività didattica. Risposta Agenzia delle entrate",
+                "link": "https://www.orizzontescuola.it/corsi-di-lingua-lesenzione-iva-non-si-applica-senza-un-riconoscimento-pubblico-dellattivita-didattica-risposta-agenzia-delle-entrate/",
+                "date": "6 Nov 2025",
+                "time": "19:43",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Pubblico impiego, in Gazzetta Ufficiale il nuovo CCNQ 2025/27: primo passo per l’avvio della tornata contrattuale",
+                "link": "https://www.orizzontescuola.it/pubblico-impiego-in-gazzetta-ufficiale-il-nuovo-ccnq-2025-27-primo-passo-per-lavvio-della-tornata-contrattuale/",
+                "date": "6 Nov 2025",
+                "time": "19:33",
+                "image_link": "N/A"
+            },
             {
                 "category": "Scuole",
                 "title": "Educazione civica, offerta formativa Camera e Senato: “Dalle aule parlamentari alle aule di scuola” in scadenza il 10 novembre",
@@ -381,30 +405,6 @@
                 "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-in-emilia-romagna-prova-scritta-per-la-secondaria-in-tre-giorni-1-2-e-5-dicembre/",
                 "date": "6 Nov 2025",
                 "time": "15:29",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Valditara: “L’11 novembre sarà la Prima Giornata Nazionale degli abiti storici. Sarà una giornata simbolo dell’Italia, Paese della bellezza”",
-                "link": "https://www.orizzontescuola.it/valditara-l11-novembre-sara-la-prima-giornata-nazionale-degli-abiti-storici-sara-una-giornata-simbolo-dellitalia-paese-della-bellezza/",
-                "date": "6 Nov 2025",
-                "time": "14:33",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "#ioleggoperché compie dieci anni: una festa nazionale per donare libri alle scuole in tutta Italia",
-                "link": "https://www.orizzontescuola.it/ioleggoperche-compie-dieci-anni-una-festa-nazionale-per-donare-libri-alle-scuole-in-tutta-italia/",
-                "date": "6 Nov 2025",
-                "time": "14:20",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "Domanda per docenti Lazio come membri delle commissioni esaminatrici nel concorso per l’Arma dei Carabinieri",
-                "link": "https://www.orizzontescuola.it/domanda-per-docenti-lazio-come-membri-delle-commissioni-esaminatrici-nel-concorso-per-larma-dei-carabinieri/",
-                "date": "6 Nov 2025",
-                "time": "13:30",
                 "image_link": "N/A"
             }
         ]
