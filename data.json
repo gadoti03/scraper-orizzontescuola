@@ -3,26 +3,86 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "Stipendio",
+                "title": "Aumenti stipendiali dei docenti e del personale ATA: le cifre, l’una tantum, gli arretrati. [SPECIALE]",
+                "link": "https://www.orizzontescuola.it/aumenti-stipendiali-dei-docenti-e-del-personale-ata-le-cifre-luna-tantum-gli-arretrati-speciale/",
+                "date": "7 Nov 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Aumenti-stipendiali-docenti-Contratto-firmato-Tutte-le-cifre-2.png"
+            },
+            {
                 "category": "Politica scolastica",
                 "title": "Riforma istituti tecnici, via al gruppo lavoro: dall’adeguamento dei curricoli, all’allineamento con l’industria 4.0. Più competenze linguistiche e STEM, più rapporto con il tessuto economico. I punti",
                 "link": "https://www.orizzontescuola.it/riforma-istituti-tecnici-via-al-gruppo-lavoro-dalladeguamento-dei-curricoli-allallineamento-con-lindustria-4-0-piu-competenze-linguistiche-e-stem-piu-rapporto-con-il-tessuto-economico-i-p/",
                 "date": "6 Nov 2025",
                 "time": "17:52",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/shutterstock_2343152703.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Rinnovo contratto, sindacati firmano tranne Cgil: tutti gli aumenti. Una tantum per ATA e anticipi stipendiali 2025-2027. [scarica TESTO]",
-                "link": "https://www.orizzontescuola.it/rinnovo-contratto-sindacati-firmano-tranne-cgil-tutti-gli-aumenti-una-tantum-per-ata-e-anticipi-stipendiali-2025-2027/",
-                "date": "5 Nov 2025",
-                "time": "17:43",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Firma.jpeg"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Rinnovo contratto scuola, aumenti e arretrati per docenti e ATA: ecco tutte le cifre. QUESTION TIME con Sciandrone (Uil Scuola Rua) LIVE Venerdì 7 novembre alle 16:00",
+                "link": "https://www.orizzontescuola.it/rinnovo-contratto-scuola-aumenti-e-arretrati-per-docenti-e-ata-ecco-tutte-le-cifre-question-time-con-sciandrone-uil-scuola-rua-live-venerdi-7-novembre-alle-1600/",
+                "date": "7 Nov 2025",
+                "time": "12:34",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Template_questiontime_1920x1080-3.png"
+            },
+            {
+                "category": "Didattica",
+                "title": "“Io vengo dalla Luna” di Caparezza: una lezione di diversità e identità",
+                "link": "https://www.orizzontescuola.it/io-vengo-dalla-luna-di-caparezza-una-lezione-di-diversita-e-identita/",
+                "date": "7 Nov 2025",
+                "time": "12:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-07-at-10.01.59.jpeg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Permessi per il diritto allo studio: cosa prevede la normativa per il 2026. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/permessi-per-il-diritto-allo-studio-cosa-prevede-la-normativa-per-il-2026-pillole-di-question-time/",
+                "date": "7 Nov 2025",
+                "time": "10:53",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_107800838.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Relazioni e conflitti a scuola: dal narcisismo che divide alla cultura della cura reciproca",
+                "link": "https://www.orizzontescuola.it/relazioni-e-conflitti-a-scuola-dal-narcisismo-che-divide-alla-cultura-della-cura-reciproca/",
+                "date": "7 Nov 2025",
+                "time": "9:37",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/shutterstock_2346908037.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Gratteri ai docenti: “Contro studenti e genitori ‘scostumati’ fate rete tra di voi per difendervi”",
+                "link": "https://www.orizzontescuola.it/gratteri-ai-docenti-contro-studenti-e-genitori-scostumati-fate-rete-tra-di-voi-per-difendervi/",
+                "date": "7 Nov 2025",
+                "time": "9:03",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Screenshot-2025-11-07-071123.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3: prova scritta. Quale permesso si può richiedere, bisognerà portare “giustificazione” a scuola",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-prova-scritta-quale-permesso-si-puo-richiedere-bisognera-portare-giustificazione-a-scuola/",
+                "date": "7 Nov 2025",
+                "time": "8:53",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/09/shutterstock_2114059190.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Sugar Tax: rinviata. E nelle scuole la merenda è 77% dolci contro 1% frutta",
+                "link": "https://www.orizzontescuola.it/sugar-tax-rinviata-e-nelle-scuole-la-merenda-e-77-dolci-contro-1-frutta/",
+                "date": "7 Nov 2025",
+                "time": "8:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/12/shutterstock_1583091217-scaled.jpg"
+            },
+            null,
+            null,
+            null,
+            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze docenti 2025/26: le nomine di novembre da GPS [AGGIORNATO]",
@@ -38,14 +98,6 @@
                 "date": "6 Nov 2025",
                 "time": "19:42",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_112240901.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Rinnovo contratto scuola, aumenti e arretrati per docenti e ATA: ecco tutte le cifre. QUESTION TIME con Sciandrone (Uil Scuola Rua) LIVE Venerdì 7 novembre alle 16:00",
-                "link": "https://www.orizzontescuola.it/rinnovo-contratto-scuola-aumenti-e-arretrati-per-docenti-e-ata-ecco-tutte-le-cifre-question-time-con-sciandrone-uil-scuola-rua-live-venerdi-7-novembre-alle-1600/",
-                "date": "6 Nov 2025",
-                "time": "19:34",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Template_questiontime_1920x1080-3.png"
             },
             {
                 "category": "Scuole",
@@ -70,7 +122,12 @@
                 "date": "6 Nov 2025",
                 "time": "18:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_760999171.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Politica scolastica",
                 "title": "Rinnovo contratto, Fracassi (Flc Cgil): “Risorse insufficienti, non possiamo accontentarci delle briciole. Scelte politiche penalizzano i salari e ignorano la precarietà”. VIDEO INTERVISTA",
@@ -143,12 +200,7 @@
                 "date": "6 Nov 2025",
                 "time": "13:48",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_1660546246.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Docenti neoassunti da Concorso PNRR: chi deve (o può) conseguire abilitazione entro il 31 dicembre 2025. Pillole di Question Time",
@@ -212,64 +264,116 @@
                 "date": "6 Nov 2025",
                 "time": "9:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_605958425.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti e corsi sostegno INDIRE, ecco le ultime novità. RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-e-corsi-sostegno-indire-ecco-le-ultime-novita-risposte-ai-quesiti/",
-                "date": "6 Nov 2025",
-                "time": "9:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1795173919.jpg"
-            },
-            {
-                "category": "Stipendio",
-                "title": "Stipendi accessori per docenti per docenti, DSGA e personale ATA. Gli aumenti previsti, tutti i dati",
-                "link": "https://www.orizzontescuola.it/stipendi-accessori-per-docenti-per-docenti-dsga-e-personale-ata-gli-aumenti-previsti-tutti-i-dati/",
-                "date": "6 Nov 2025",
-                "time": "9:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/01/shutterstock_1715497669.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Scuola Attiva Kids 2025/26: candidature aperte per i tutor sportivi fino al 10 novembre (ore 12)",
-                "link": "https://www.orizzontescuola.it/scuola-attiva-kids-2025-26-candidature-aperte-per-i-tutor-sportivi-fino-al-10-novembre-ore-12/",
-                "date": "6 Nov 2025",
-                "time": "8:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/09/shutterstock_1505260688.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Aumenti stipendiali: quanto guadagnerà annualmente il personale ATA dal 1 gennaio 2026? Tutti gli importi",
-                "link": "https://www.orizzontescuola.it/aumenti-stipendiali-docenti-quanto-guadagnera-annualmente-il-personale-ata-dal-1-gennaio-2026-tutti-gli-importi-per-ordine-e-grado-di-scuola/",
-                "date": "6 Nov 2025",
-                "time": "8:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/12/shutterstock_92008838.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Il Patto educativo di corresponsabilità 2025: aggiornato alle indicazioni sull’Intelligenza Artificiale. Documento da scaricare",
-                "link": "https://www.orizzontescuola.it/il-patto-educativo-di-corresponsabilita-2025-aggiornato-alle-indicazioni-sullintelligenza-artificiale-documento-da-scaricare/",
-                "date": "6 Nov 2025",
-                "time": "8:05",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_714174241.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Aumenti stipendiali, quanto guadagnerà annualmente un docente dal 1 gennaio 2026? Tutti gli importi per ordine e grado di scuola",
-                "link": "https://www.orizzontescuola.it/aumenti-stipendiali-docenti-ecco-guadagnera-annualmente-un-docente-dal-1-gennaio-2026-tutti-gli-importi-per-ordine-e-grado-di-scuola/",
-                "date": "6 Nov 2025",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_106178696.jpg"
-            },
-            null,
-            null,
-            null,
-            null
+            }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Dipendenze e giovani, il Papa: la scuola aiuti a formare coscienze in un tempo in cui non si distingue più il bene dal male",
+                "link": "https://www.orizzontescuola.it/dipendenze-e-giovani-il-papa-la-scuola-aiuti-a-formare-coscienze-in-un-tempo-in-cui-non-si-distingue-piu-il-bene-dal-male/",
+                "date": "7 Nov 2025",
+                "time": "13:01",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "ANP chiede il rinnovo del contratto per i dirigenti scolastici: arretrati entro il 2026 e mobilità senza vincoli già dalla primavera",
+                "link": "https://www.orizzontescuola.it/anp-chiede-il-rinnovo-del-contratto-per-i-dirigenti-scolastici-arretrati-entro-il-2026-e-mobilita-senza-vincoli-gia-dalla-primavera/",
+                "date": "7 Nov 2025",
+                "time": "12:31",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“Leggere può cambiare tutto”: online su RaiPlay il documentario che racconta 10 anni di #ioleggoperché, presentazione alle scuole il 10 novembre",
+                "link": "https://www.orizzontescuola.it/leggere-puo-cambiare-tutto-online-su-raiplay-il-documentario-che-racconta-10-anni-di-ioleggoperche-presentazione-alle-scuole-il-10-novembre/",
+                "date": "7 Nov 2025",
+                "time": "11:38",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "Figure femminili da promuovere, al via la seconda edizione dell’Italia delle donne: candidature aperte, anche per le scuole, fino al 19 dicembre. NOTA MIM",
+                "link": "https://www.orizzontescuola.it/figure-femminili-da-promuovere-al-via-la-seconda-edizione-dellitalia-delle-donne-candidature-aperte-anche-alle-scuole-fino-al-19-dicembre/",
+                "date": "7 Nov 2025",
+                "time": "11:25",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Contratti pubblici, Zangrillo: “Aumenti fino al 10%. La Cgil non firma perché fa opposizione politica”",
+                "link": "https://www.orizzontescuola.it/contratti-pubblici-zangrillo-aumenti-fino-al-10-la-cgil-non-firma-perche-fa-opposizione-politica/",
+                "date": "7 Nov 2025",
+                "time": "11:09",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Cuzzupi (UGL Scuola): “Rivedere la contrattazione. Serve un welfare allargato con fitti calmierati e bonus fiscali”",
+                "link": "https://www.orizzontescuola.it/cuzzupi-ugl-scuola-rivedere-la-contrattazione-serve-un-welfare-allargato-con-fitti-calmierati-e-bonus-fiscali/",
+                "date": "7 Nov 2025",
+                "time": "10:34",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Insegnante colpisce uno studente al collo, rischia il licenziamento",
+                "link": "https://www.orizzontescuola.it/insegnante-colpisce-uno-studente-al-collo-rischia-il-licenziamento/",
+                "date": "7 Nov 2025",
+                "time": "10:16",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "Filiere 4+2, in Lombardia partono i percorsi di supporto per le scuole",
+                "link": "https://www.orizzontescuola.it/filiere-42-in-lombardia-partono-i-percorsi-di-supporto-per-le-scuole/",
+                "date": "7 Nov 2025",
+                "time": "9:35",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“Senza umanesimo non c’è più niente”: la lezione (attualissima) del Prof. Vecchioni su Pasolini",
+                "link": "https://www.orizzontescuola.it/senza-umanesimo-non-ce-piu-niente-la-lezione-attualissima-del-prof-vecchioni-su-pasolini/",
+                "date": "7 Nov 2025",
+                "time": "8:40",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Chicago, l’orrore in un asilo: “Pensavamo a un attacco”. Agenti ICE arrestano una maestra davanti ai bambini",
+                "link": "https://www.orizzontescuola.it/chicago-lorrore-in-un-asilo-pensavamo-a-un-attacco-agenti-ice-arrestano-una-maestra-davanti-ai-bambini/",
+                "date": "7 Nov 2025",
+                "time": "8:24",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Viterbo capitale delle emozioni: torna il Festival dell’Educazione Emotiva",
+                "link": "https://www.orizzontescuola.it/viterbo-capitale-delle-emozioni-torna-il-festival-delleducazione-emotiva/",
+                "date": "7 Nov 2025",
+                "time": "8:21",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Contratto Scuola, Lollobrigida: “Diamo dignità a 1,2 milioni di lavoratori fondamentali”",
+                "link": "https://www.orizzontescuola.it/contratto-scuola-lollobrigida-diamo-dignita-a-12-milioni-di-lavoratori-fondamentali/",
+                "date": "7 Nov 2025",
+                "time": "8:05",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Legge di Bilancio, Istruzione e Ricerca, Anief presenta oltre 70 emendamenti in Parlamento: tra le richieste il mantenimento dei 500 euro della Carta del docente, l’uscita anticipata dal lavoro, indennità ai lavoratori fuori sede",
+                "link": "https://www.orizzontescuola.it/legge-di-bilancio-istruzione-e-ricerca-anief-presenta-oltre-70-emendamenti-in-parlamento-tra-le-richieste-il-mantenimento-dei-500-euro-della-carta-del-docente-luscita-anticipata-dal-lavor/",
+                "date": "7 Nov 2025",
+                "time": "8:04",
+                "image_link": "N/A"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Secondo ciclo Sostegno Indire: decreto già in lavorazione",
@@ -308,103 +412,6 @@
                 "link": "https://www.orizzontescuola.it/riduzione-a-20-studenti-per-classe-la-proposta-alleanza-verdi-sinistra-tra-inclusione-qualita-didattica-e-riscontro-scientifico/",
                 "date": "6 Nov 2025",
                 "time": "18:43",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "D’Aprile e Luongo (UIL Scuola RUA): “Il personale all’estero tra le priorità del prossimo contratto”",
-                "link": "https://www.orizzontescuola.it/daprile-e-luongo-uil-scuola-rua-il-personale-allestero-tra-le-priorita-del-prossimo-contratto/",
-                "date": "6 Nov 2025",
-                "time": "18:35",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Educazione previdenziale e orientamento al lavoro: l’INPS incontra studenti e famiglie a Napoli e Verona",
-                "link": "https://www.orizzontescuola.it/educazione-previdenziale-e-orientamento-al-lavoro-linps-incontra-studenti-e-famiglie-a-napoli-e-verona/",
-                "date": "6 Nov 2025",
-                "time": "18:01",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Educazione sessuoaffettiva a scuola: a Cagliari studenti ed esperti insieme per un podcast su emozioni, relazioni e sessualità",
-                "link": "https://www.orizzontescuola.it/educazione-sessuoaffettiva-a-scuola-a-cagliari-studenti-ed-esperti-insieme-per-un-podcast-su-emozioni-relazioni-e-sessualita/",
-                "date": "6 Nov 2025",
-                "time": "17:57",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "ITS, il 93% degli studenti in Lombardia trova lavoro entro sei mesi, ma un giovane su tre non sa cosa fare dopo il diploma",
-                "link": "https://www.orizzontescuola.it/its-il-93-degli-studenti-in-lombardia-trova-lavoro-entro-sei-mesi-un-giovane-su-tre-non-sa-cosa-fare-dopo-il-diploma/",
-                "date": "6 Nov 2025",
-                "time": "17:16",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Pornografia online: il 40% dei giovani italiani ne fruisce regolarmente, l’Italia tra i primi 10 Paesi al mondo. Dal 12 novembre scatta la stretta Agcom sull’accesso ai siti",
-                "link": "https://www.orizzontescuola.it/pornografia-online-il-40-dei-giovani-italiani-ne-fruisce-regolarmente-litalia-tra-i-primi-10-paesi-al-mondo-dal-12-novembre-scatta-la-stretta-agcom-sullaccesso-ai-siti/",
-                "date": "6 Nov 2025",
-                "time": "17:04",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Un’ora con Nicola Gratteri: parliamo di educazione alla legalità. Webinar gratuito per docenti",
-                "link": "https://www.orizzontescuola.it/unora-con-nicola-gratteri-parliamo-di-educazione-alla-legalita-webinar-gratuito-per-docenti-adesso-live/",
-                "date": "6 Nov 2025",
-                "time": "16:55",
-                "image_link": "N/A"
-            },
-            null,
-            {
-                "category": "Cronaca",
-                "title": "Docente aggredita da genitore. Le sue parole: “Nessuno deve sentirsi minacciato, la scuola deve rimanere luogo sicuro”",
-                "link": "https://www.orizzontescuola.it/docente-aggredita-da-genitore-le-sue-parole-nessuno-deve-sentirsi-minacciato-la-scuola-deve-rimanere-luogo-sicuro/",
-                "date": "6 Nov 2025",
-                "time": "16:33",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Rinnovo contratto scuola 2022-24, Giannelli (ANP): “Un’altra occasione mancata per la scuola. Impianto contrattuale condizionato da un’idea di scuola antiquata ed ottocentesca. Una coltre di ambiguità e confusione”",
-                "link": "https://www.orizzontescuola.it/rinnovo-contratto-scuola-2022-24-giannelli-anp-unaltra-occasione-mancata-per-la-scuola-impianto-contrattuale-condizionato-da-unidea-di-scuola-antiquata-ed-ottocentesca-una-coltre-di/",
-                "date": "6 Nov 2025",
-                "time": "16:13",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Emergenza sanitaria a Prato: accertamenti su acqua potabile dopo numerosi casi di nausea e vomito tra bambini",
-                "link": "https://www.orizzontescuola.it/emergenza-sanitaria-a-prato-accertamenti-su-acqua-potabile-dopo-numerosi-casi-di-nausea-e-vomito-tra-bambini/",
-                "date": "6 Nov 2025",
-                "time": "16:06",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Spray al peperoncino in un liceo a Pescara: evacuazione e indagini",
-                "link": "https://www.orizzontescuola.it/spray-al-peperoncino-in-un-liceo-a-pescara-evacuazione-e-indagini/",
-                "date": "6 Nov 2025",
-                "time": "16:02",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Kim Kardashian: “A causa di Chatgpt ho fallito il test in giurisprudenza. Non è buono per studiare”",
-                "link": "https://www.orizzontescuola.it/kim-kardashian-a-causa-di-chatgpt-ho-fallito-il-test-in-giurisprudenza-non-e-buono-per-studiare/",
-                "date": "6 Nov 2025",
-                "time": "15:33",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR3, in Emilia Romagna prova scritta per la secondaria in tre giorni: 1, 2 e 5 dicembre",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-in-emilia-romagna-prova-scritta-per-la-secondaria-in-tre-giorni-1-2-e-5-dicembre/",
-                "date": "6 Nov 2025",
-                "time": "15:29",
                 "image_link": "N/A"
             }
         ]
@@ -530,6 +537,22 @@
         "title": "Diventare Insegnanti",
         "articles": [
             {
+                "category": "ATA",
+                "title": "Nuovo Bonus mamme 2025, come presentare la domanda entro il 9 dicembre. GUIDA INPS",
+                "link": "https://www.orizzontescuola.it/nuovo-bonus-mamme-come-presentare-la-domanda-entro-il-9-dicembre-guida-inps/",
+                "date": "4 Nov 2025",
+                "time": "16:06",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1129962923-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Carta docente anche ai docenti precari, secondo ciclo sostegno Indire, doppio canale per assunzioni in ruolo. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/carta-docente-anche-ai-docenti-precari-secondo-ciclo-sostegno-indire-doppio-canale-per-assunzioni-in-ruolo-risposte-ai-quesiti/",
+                "date": "4 Nov 2025",
+                "time": "9:42",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/corsi-aprile.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso: Legge 104, art. 3 comma 3: quando si può esercitare la priorità nella scelta della sede. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/concorso-legge-104-art-3-comma-3-quando-si-puo-esercitare-la-priorita-nella-scelta-della-sede-pillole-di-question-time/",
@@ -560,22 +583,6 @@
                 "date": "3 Nov 2025",
                 "time": "10:53",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/struttura-concorso-docenti.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Docenti neoimmessi: anno di prova e formazione. Bilancio di competenze [MODELLO 2025/26 e NOVITÀ]",
-                "link": "https://www.orizzontescuola.it/docenti-neoimmessi-in-ruolo-2025-anno-di-prova-e-formazione-chi-deve-svolgerlo-quali-attivita-prima-scadenza-31-ottobre/",
-                "date": "3 Nov 2025",
-                "time": "10:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/GPS-2026-1.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Docenti neoassunti, Indire: prossimamente attivo l’ambiente online 2025/26. Al centro del nuovo portale l’applicazione Portfolio",
-                "link": "https://www.orizzontescuola.it/docenti-neoassunti-indire-prossimamente-attivo-lambiente-online-2025-26-al-centro-del-nuovo-portale-lapplicazione-portfolio/",
-                "date": "3 Nov 2025",
-                "time": "9:56",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/12/shutterstock_1708897081.jpg"
             }
         ]
     },
@@ -690,6 +697,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Per una vera educazione sessuale: l’arte di insegnare l’alterità, la relazione e la reciprocità. Lettera",
+                "link": "https://www.orizzontescuola.it/per-una-vera-educazione-sessuale-larte-di-insegnare-lalterita-la-relazione-e-la-reciprocita-lettera/",
+                "date": "7 Nov 2025",
+                "time": "10:13",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "Il nuovo Decreto sulla “disciplina scolastica”: il retaggio della scuola italiana, le azioni educative e la prevenzione per arginare devianze e abbandono. Lettera",
                 "link": "https://www.orizzontescuola.it/il-nuovo-decreto-sulla-disciplina-scolastica-il-retaggio-della-scuola-italiana-le-azioni-educative-e-la-prevenzione-per-arginare-devianze-e-abbandono-lettera/",
                 "date": "5 Nov 2025",
@@ -726,14 +741,6 @@
                 "link": "https://www.orizzontescuola.it/la-lezione-del-4-novembre-alla-scuola-di-oggi-lettera/",
                 "date": "4 Nov 2025",
                 "time": "9:22",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "“Io so, ma non ho le prove”: cosa insegna Pasolini alla scuola di oggi a 50 anni dalla sua scomparsa. Lettera",
-                "link": "https://www.orizzontescuola.it/io-so-ma-non-ho-le-prove-cosa-insegna-pasolini-alla-scuola-di-oggi-a-50-anni-dalla-sua-scomparsa-lettera/",
-                "date": "3 Nov 2025",
-                "time": "9:36",
                 "image_link": "N/A"
             }
         ]
