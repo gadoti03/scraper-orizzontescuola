@@ -3,26 +3,50 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "Scuole",
+                "title": "Viaggi istruzione: cosa possono fare le scuole in autonomia, quando possibile fare le gare, in arrivo nuovi strumenti. La nota del Ministero",
+                "link": "https://www.orizzontescuola.it/viaggi-istruzione-cosa-possono-fare-le-scuole-quando-possibile-fare-le-gare-in-arrivo-nuovi-strumenti-la-nota-del-ministero/",
+                "date": "7 Nov 2025",
+                "time": "20:38",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_432834643.jpg"
+            },
+            {
                 "category": "Stipendio",
                 "title": "Aumenti stipendiali dei docenti e del personale ATA: le cifre, l’una tantum, gli arretrati. [SPECIALE]",
                 "link": "https://www.orizzontescuola.it/aumenti-stipendiali-dei-docenti-e-del-personale-ata-le-cifre-luna-tantum-gli-arretrati-speciale/",
                 "date": "7 Nov 2025",
                 "time": "8:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Aumenti-stipendiali-docenti-Contratto-firmato-Tutte-le-cifre-2.png"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Riforma istituti tecnici, via al gruppo lavoro: dall’adeguamento dei curricoli, all’allineamento con l’industria 4.0. Più competenze linguistiche e STEM, più rapporto con il tessuto economico. I punti",
-                "link": "https://www.orizzontescuola.it/riforma-istituti-tecnici-via-al-gruppo-lavoro-dalladeguamento-dei-curricoli-allallineamento-con-lindustria-4-0-piu-competenze-linguistiche-e-stem-piu-rapporto-con-il-tessuto-economico-i-p/",
-                "date": "6 Nov 2025",
-                "time": "17:52",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/shutterstock_2343152703.jpg"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze 2026/27: nuova riconferma docente per il sostegno [LO SPECIALE]",
+                "link": "https://www.orizzontescuola.it/supplenze-2026-27-nuova-riconferma-docente-per-il-sostegno-lo-speciale/",
+                "date": "7 Nov 2025",
+                "time": "20:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_710754361.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“La scuola è luogo di fortificazione”, Pellai invita genitori e docenti a educare attraverso il confronto: “No alla protezione eccessiva”",
+                "link": "https://www.orizzontescuola.it/la-scuola-e-luogo-di-fortificazione-pellai-invita-genitori-e-docenti-a-educare-attraverso-il-confronto-no-alla-protezione-eccessiva/",
+                "date": "7 Nov 2025",
+                "time": "19:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/Pellai.png"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Buoni pasto e pensione anticipata Ape sociale per tutto il personale scolastico. La Commissione Cultura chiede di prevederli nella Legge di Bilancio",
+                "link": "https://www.orizzontescuola.it/buoni-pasto-e-pensione-anticipata-ape-sociale-per-tutto-il-personale-scolastico-la-commissione-cultura-chiede-di-prevederli-nella-legge-di-bilancio/",
+                "date": "7 Nov 2025",
+                "time": "19:21",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/Parlamento.jpeg"
+            },
             {
                 "category": "Scuole",
                 "title": "Eventi pubblici a scuola, il Ministero chiede: ospiti autorevoli e competenti, pluralismo, confronto pacato e pensiero critico. NOTA",
@@ -126,7 +150,12 @@
                 "date": "7 Nov 2025",
                 "time": "12:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-07-at-10.01.59.jpeg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Permessi per il diritto allo studio: cosa prevede la normativa per il 2026. Pillole di Question Time",
@@ -150,12 +179,7 @@
                 "date": "7 Nov 2025",
                 "time": "9:03",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Screenshot-2025-11-07-071123.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR3: prova scritta. Quale permesso si può richiedere, bisognerà portare “giustificazione” a scuola",
@@ -217,6 +241,14 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/Fracassi.jpg"
             },
             {
+                "category": "Politica scolastica",
+                "title": "Riforma istituti tecnici, via al gruppo lavoro: dall’adeguamento dei curricoli, all’allineamento con l’industria 4.0. Più competenze linguistiche e STEM, più rapporto con il tessuto economico. I punti",
+                "link": "https://www.orizzontescuola.it/riforma-istituti-tecnici-via-al-gruppo-lavoro-dalladeguamento-dei-curricoli-allallineamento-con-lindustria-4-0-piu-competenze-linguistiche-e-stem-piu-rapporto-con-il-tessuto-economico-i-p/",
+                "date": "6 Nov 2025",
+                "time": "17:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/shutterstock_2343152703.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Il DDL Bucalo e il doppio canale di reclutamento: verso una nuova modalità di assunzione dei docenti. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/il-ddl-bucalo-e-il-doppio-canale-di-reclutamento-verso-una-nuova-modalita-di-assunzione-dei-docenti-pillole-di-question-time/",
@@ -239,37 +271,28 @@
                 "date": "6 Nov 2025",
                 "time": "17:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Aumenti-stipendiali-docenti-Contratto-firmato-Tutte-le-cifre-1.png"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Concorso “I giovani ricordano la Shoah”: pubblicata la XXIV edizione",
-                "link": "https://www.orizzontescuola.it/concorso-i-giovani-ricordano-la-shoah-pubblicata-la-xxiv-edizione/",
-                "date": "6 Nov 2025",
-                "time": "15:39",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/01/shutterstock_1072623200-scaled.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Sicurezza e provvedimento di interdizione pre e post partum: cosa deve fare il dirigente scolastico",
-                "link": "https://www.orizzontescuola.it/sicurezza-e-provvedimento-di-interdizione-pre-e-post-partum-cosa-deve-fare-il-dirigente-scolastico/",
-                "date": "6 Nov 2025",
-                "time": "15:05",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2587779235.jpg"
-            },
-            null,
-            {
-                "category": "Docenti",
-                "title": "Bonus Mamme 40 euro al mese ed Esonero Contributivo fino a 3.000 euro. A chi spetta? Quando fare domanda? LE FAQ",
-                "link": "https://www.orizzontescuola.it/bonus-mamme-40-euro-al-mese-ed-esonero-contributivo-fino-a-3-000-euro-a-chi-spetta-quando-fare-domanda-le-faq/",
-                "date": "6 Nov 2025",
-                "time": "13:48",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_1660546246.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Doubt and Debate: la piattaforma di media literacy che forma cittadini digitali consapevoli nelle scuole italiane",
+                "link": "https://www.orizzontescuola.it/doubt-and-debate-la-piattaforma-di-media-literacy-che-forma-cittadini-digitali-consapevoli-nelle-scuole-italiane/",
+                "date": "7 Nov 2025",
+                "time": "20:47",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Gualtieri chiede al Governo 100 milioni per la sicurezza degli edifici scolastici nella Città Metropolitana di Roma",
+                "link": "https://www.orizzontescuola.it/gualtieri-chiede-al-governo-100-milioni-per-la-sicurezza-degli-edifici-scolastici-nella-citta-metropolitana-di-roma/",
+                "date": "7 Nov 2025",
+                "time": "19:39",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Circolare su eventi scolastici, dibattito acceso: autonomia e pluralismo al centro dello scontro politico. Il PD: “La scuola non è luogo da sorvegliare”. Valditara risponde: “Preoccupante confusione”",
@@ -397,22 +420,6 @@
                 "date": "7 Nov 2025",
                 "time": "12:31",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Leggere può cambiare tutto”: online su RaiPlay il documentario che racconta 10 anni di #ioleggoperché, presentazione alle scuole il 10 novembre",
-                "link": "https://www.orizzontescuola.it/leggere-puo-cambiare-tutto-online-su-raiplay-il-documentario-che-racconta-10-anni-di-ioleggoperche-presentazione-alle-scuole-il-10-novembre/",
-                "date": "7 Nov 2025",
-                "time": "11:38",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Figure femminili da promuovere, al via la seconda edizione dell’Italia delle donne: candidature aperte, anche per le scuole, fino al 19 dicembre. NOTA MIM",
-                "link": "https://www.orizzontescuola.it/figure-femminili-da-promuovere-al-via-la-seconda-edizione-dellitalia-delle-donne-candidature-aperte-anche-alle-scuole-fino-al-19-dicembre/",
-                "date": "7 Nov 2025",
-                "time": "11:25",
-                "image_link": "N/A"
             }
         ]
     },
@@ -538,6 +545,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3: attesi a breve i numeri ufficiali dei candidati. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-attesi-a-breve-i-numeri-ufficiali-dei-candidati-pillole-di-question-time/",
+                "date": "5 Nov 2025",
+                "time": "11:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2142727347.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Secondo ciclo sostegno Indire: chi partecipa, quando partono i corsi, il titolo ottenuto [LO SPECIALE]",
                 "link": "https://www.orizzontescuola.it/secondo-ciclo-sostegno-indire-chi-partecipa-quando-partono-i-corsi-il-titolo-ottenuto-lo-speciale/",
                 "date": "5 Nov 2025",
@@ -575,14 +590,6 @@
                 "date": "3 Nov 2025",
                 "time": "20:15",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_1708378216.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti 2025/26: chi dovrà iscriversi ai 36 CFU?",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-2025-26-chi-dovra-iscriversi-ai-36-cfu/",
-                "date": "3 Nov 2025",
-                "time": "15:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1349362136.jpg"
             }
         ]
     },
