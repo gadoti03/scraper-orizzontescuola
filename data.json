@@ -23,6 +23,23 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
+            {
+                "category": "Cronaca",
+                "title": "Genitori e insegnanti, attenzione! La scienza svela i segreti della distrazione nei bambini e cambia le regole del gioco",
+                "link": "https://www.orizzontescuola.it/genitori-e-insegnanti-attenzione-la-scienza-svela-i-segreti-della-distrazione-nei-bambini-e-cambia-le-regole-del-gioco/",
+                "date": "8 Nov 2025",
+                "time": "19:59",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1681417285-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3 per 58.135 posti, autorizzazione pubblicata in Gazzetta Ufficiale [PDF]",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-per-58-135-posti-autorizzazione-pubblicata-in-gazzetta-ufficiale-pdf/",
+                "date": "8 Nov 2025",
+                "time": "19:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2176731709.jpg"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Valditara: “Sostegno psicologico previsto e finanziato, la scuola primo presidio della svolta culturale”",
@@ -126,7 +143,12 @@
                 "date": "8 Nov 2025",
                 "time": "10:14",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/10/shutterstock_2170549303-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Secondo ciclo percorso sostegno INDIRE: avranno la precedenza triennalisti esclusi dal primo ciclo. Pillole di Question Time",
@@ -150,12 +172,7 @@
                 "date": "8 Nov 2025",
                 "time": "9:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_344044361.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Contratto scuola, i soldi quando arriveranno? Pacifico (Anief): “Tutto dipende dalla firma definitiva. In busta paga a dicembre o all’inizio del nuovo anno ma con tassazione separata”",
@@ -275,36 +292,28 @@
                 "date": "7 Nov 2025",
                 "time": "15:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_726199168.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Studente bocciato, famiglia fa ricorso al TAR ma lo perde. I giudici: “Legittima la bocciatura nonostante PDP. La presenza di BES non esonera dagli obiettivi minimi”",
-                "link": "https://www.orizzontescuola.it/studente-bocciato-famiglia-fa-ricorso-al-tar-ma-lo-perde-i-giudici-legittima-la-bocciatura-nonostante-pdp-la-presenza-di-bes-non-esonera-dagli-obiettivi-minimi/",
-                "date": "7 Nov 2025",
-                "time": "14:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/06/shutterstock_1890232807.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Immissioni in ruolo docenti: essere inseriti in graduatoria di merito garantisce il diritto all’assunzione. Ecco per quali concorsi",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-essere-inseriti-in-graduatoria-di-merito-garantisce-il-diritto-allassunzione-ecco-per-quali-concorsi/",
-                "date": "7 Nov 2025",
-                "time": "13:41",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2492437907.jpg"
-            },
-            {
-                "category": "Didattica",
-                "title": "“Io vengo dalla Luna” di Caparezza: una lezione di diversità e identità",
-                "link": "https://www.orizzontescuola.it/io-vengo-dalla-luna-di-caparezza-una-lezione-di-diversita-e-identita/",
-                "date": "7 Nov 2025",
-                "time": "12:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-07-at-10.01.59.jpeg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Fentanyl e nuovi oppioidi: la formazione scolastica si aggiorna per prevenire tossicodipendenza e rischi psicofisici tra gli adolescenti",
+                "link": "https://www.orizzontescuola.it/fentanyl-e-nuovi-oppioidi-la-formazione-scolastica-si-aggiorna-per-prevenire-tossicodipendenza-e-rischi-psicofisici-tra-gli-adolescenti/",
+                "date": "8 Nov 2025",
+                "time": "20:50",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Legge di Bilancio 2026: ANIEF presenta emendamenti per tutelare il personale della scuola e contrastare il precariato",
+                "link": "https://www.orizzontescuola.it/legge-di-bilancio-2026-anief-presenta-emendamenti-per-tutelare-il-personale-della-scuola-e-contrastare-il-precariato/",
+                "date": "8 Nov 2025",
+                "time": "19:33",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Pellai: “Chi vive conflitti perenni si ammala più spesso, imparare a gestirli protegge la salute. Il corpo è il quaderno delle emozioni irrisolte”",
@@ -432,22 +441,6 @@
                 "date": "7 Nov 2025",
                 "time": "19:12",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Occupazioni, Sasso (Lega): “Proteste talvolta causate da dirigenti e docenti ideologizzati. Chi rompe paga, sbagliato chiedere soldi a tutte le famiglie”",
-                "link": "https://www.orizzontescuola.it/occupazioni-sasso-lega-proteste-spesso-causate-da-dirigenti-e-docenti-ideologizzati-chi-rompe-paga-sbagliato-chiedere-soldi-a-tutte-le-famiglie/",
-                "date": "7 Nov 2025",
-                "time": "16:47",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "“Cuori connessi” e Giornata Internazionale degli Studenti: eventi in streaming della Polizia di Stato su rispetto digitale e contrasto alla violenza di genere",
-                "link": "https://www.orizzontescuola.it/cuori-connessi-e-giornata-internazionale-degli-studenti-eventi-in-streaming-della-polizia-di-stato-su-rispetto-digitale-e-contrasto-alla-violenza-di-genere/",
-                "date": "7 Nov 2025",
-                "time": "16:34",
-                "image_link": "N/A"
             }
         ]
     },
@@ -573,6 +566,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Scuola Attiva Kids 2025/26: candidature aperte per i tutor sportivi fino al 10 novembre (ore 12)",
+                "link": "https://www.orizzontescuola.it/scuola-attiva-kids-2025-26-candidature-aperte-per-i-tutor-sportivi-fino-al-10-novembre-ore-12/",
+                "date": "6 Nov 2025",
+                "time": "8:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/09/shutterstock_1505260688.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Prova scritta concorso docenti PNRR3, 27 novembre infanzia e primaria, dal 1° al 5 dicembre secondaria [LO SPECIALE]",
                 "link": "https://www.orizzontescuola.it/prova-scritta-concorso-docenti-pnrr3-dove-quando-e-come-si-svolgera-lo-speciale/",
                 "date": "5 Nov 2025",
@@ -610,14 +611,6 @@
                 "date": "5 Nov 2025",
                 "time": "9:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/05/cellulare-1200x800.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Nuovo Bonus mamme 2025, come presentare la domanda entro il 9 dicembre. GUIDA INPS",
-                "link": "https://www.orizzontescuola.it/nuovo-bonus-mamme-come-presentare-la-domanda-entro-il-9-dicembre-guida-inps/",
-                "date": "4 Nov 2025",
-                "time": "16:06",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1129962923-scaled.jpg"
             }
         ]
     },
@@ -679,6 +672,14 @@
         "articles": [
             {
                 "category": "Didattica",
+                "title": "Buone pratiche di orientamento nel primo e secondo ciclo",
+                "link": "https://www.orizzontescuola.it/buone-pratiche-di-orientamento-nel-primo-e-secondo-ciclo/",
+                "date": "26 Ott 2025",
+                "time": "8:33",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2339228197.jpg"
+            },
+            {
+                "category": "Didattica",
                 "title": "La felicità va insegnata a scuola, è una competenza educativa. Ecco l’alfabeto delle passioni nella scuola italiana",
                 "link": "https://www.orizzontescuola.it/la-felicita-va-insegnata-a-scuola-e-una-competenza-educativa-ecco-lalfabeto-delle-passioni-nella-scuola-italiana/",
                 "date": "25 Ott 2025",
@@ -716,14 +717,6 @@
                 "date": "18 Ott 2025",
                 "time": "9:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Possibile-una-scuola-senza-voti.png"
-            },
-            {
-                "category": "Didattica",
-                "title": "Studenti eccellenti: come sostenerli tra PDP, classi avanzate e metodologie innovative",
-                "link": "https://www.orizzontescuola.it/studenti-eccellenti-come-sostenerli-tra-pdp-classi-avanzate-e-metodologie-innovative/",
-                "date": "13 Ott 2025",
-                "time": "17:03",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2461893991.jpg"
             }
         ]
     },
