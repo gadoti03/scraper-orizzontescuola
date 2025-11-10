@@ -3,20 +3,20 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
-                "category": "Cronaca",
-                "title": "I libri sono in pericolo? Un tè con Emilia Aru: “Nonostante la concorrenza spietata degli smartphone, vedo tra gli adolescenti grandi lettori”. INTERVISTA",
-                "link": "https://www.orizzontescuola.it/i-libri-sono-in-pericolo-un-the-con-emilia-aru-nonostante-la-concorrenza-spietata-degli-smartphone-tra-gli-adolescenti-dei-grandi-lettori/",
-                "date": "9 Nov 2025",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Progetto-senza-titolo-1-1.png"
-            },
-            {
                 "category": "Stipendio",
                 "title": "Aumenti stipendiali dei docenti e del personale ATA: le cifre, l’una tantum, gli arretrati. [SPECIALE]",
                 "link": "https://www.orizzontescuola.it/aumenti-stipendiali-dei-docenti-e-del-personale-ata-le-cifre-luna-tantum-gli-arretrati-speciale/",
                 "date": "7 Nov 2025",
                 "time": "8:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Aumenti-stipendiali-docenti-Contratto-firmato-Tutte-le-cifre-2.png"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Riforma istituti tecnici, via al gruppo lavoro: dall’adeguamento dei curricoli, all’allineamento con l’industria 4.0. Più competenze linguistiche e STEM, più rapporto con il tessuto economico. I punti",
+                "link": "https://www.orizzontescuola.it/riforma-istituti-tecnici-via-al-gruppo-lavoro-dalladeguamento-dei-curricoli-allallineamento-con-lindustria-4-0-piu-competenze-linguistiche-e-stem-piu-rapporto-con-il-tessuto-economico-i-p/",
+                "date": "6 Nov 2025",
+                "time": "17:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/shutterstock_2343152703.jpg"
             }
         ]
     },
@@ -111,6 +111,14 @@
                 "time": "8:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_2622764617.jpg"
             },
+            {
+                "category": "Cronaca",
+                "title": "I libri sono in pericolo? Un tè con Emilia Aru: “Nonostante la concorrenza spietata degli smartphone, vedo tra gli adolescenti grandi lettori”. INTERVISTA",
+                "link": "https://www.orizzontescuola.it/i-libri-sono-in-pericolo-un-the-con-emilia-aru-nonostante-la-concorrenza-spietata-degli-smartphone-tra-gli-adolescenti-dei-grandi-lettori/",
+                "date": "9 Nov 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Progetto-senza-titolo-1-1.png"
+            },
             null,
             null,
             null,
@@ -121,7 +129,12 @@
                 "date": "8 Nov 2025",
                 "time": "19:59",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1681417285-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR3 per 58.135 posti, autorizzazione pubblicata in Gazzetta Ufficiale [PDF]",
@@ -129,12 +142,7 @@
                 "date": "8 Nov 2025",
                 "time": "19:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2176731709.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Valditara: “Sostegno psicologico previsto e finanziato, la scuola primo presidio della svolta culturale”",
@@ -270,14 +278,6 @@
                 "date": "8 Nov 2025",
                 "time": "8:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Screenshot-2025-11-08-075622.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "Viaggi istruzione: cosa possono fare le scuole in autonomia, quando possibile fare le gare, in arrivo nuovi strumenti. La nota del Ministero",
-                "link": "https://www.orizzontescuola.it/viaggi-istruzione-cosa-possono-fare-le-scuole-quando-possibile-fare-le-gare-in-arrivo-nuovi-strumenti-la-nota-del-ministero/",
-                "date": "7 Nov 2025",
-                "time": "20:38",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_432834643.jpg"
             }
         ]
     },
@@ -710,7 +710,7 @@
         "title": "Lettere in Redazione",
         "articles": [
             {
-                "category": "Nessuna categoria",
+                "category": "Lettere in redazione",
                 "title": "Oltre la tecnologia: le responsabilità formative del Ministro Valditara. Lettera",
                 "link": "https://www.orizzontescuola.it/oltre-la-tecnologia-le-responsabilita-formative-del-ministro-valditara-lettera/",
                 "date": "9 Nov 2025",
