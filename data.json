@@ -17,6 +17,38 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Scuole",
+                "title": "Dimensionamento scolastico 2026/27: ecco i piani regionali [IN AGGIORNAMENTO]",
+                "link": "https://www.orizzontescuola.it/dimensionamento-scolastico-2026-27-ecco-i-piani-regionali-in-aggiornamento/",
+                "date": "10 Nov 2025",
+                "time": "20:43",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Caselle email scolastiche con vecchi codici: accesso possibile fino al 14 novembre",
+                "link": "https://www.orizzontescuola.it/caselle-email-scolastiche-con-vecchi-codici-accesso-possibile-fino-al-14-novembre/",
+                "date": "10 Nov 2025",
+                "time": "20:22",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_411184843.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "11 novembre: prima Giornata nazionale degli abiti storici, le scuole possono promuovere attività didattiche",
+                "link": "https://www.orizzontescuola.it/11-novembre-prima-giornata-nazionale-degli-abiti-storici-le-scuole-possono-promuovere-attivita-didattiche/",
+                "date": "10 Nov 2025",
+                "time": "19:34",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2293866861.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti scuola secondaria Valle d’Aosta: scadenza domande il 12 novembre",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-scuola-secondaria-valle-daosta-scadenza-domande-il-12-novembre/",
+                "date": "10 Nov 2025",
+                "time": "19:26",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/12/shutterstock_1708897081.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Tutor sportivi per Scuola Attiva Infanzia 2025/26: candidature fino al 3 dicembre. AVVISO e GUIDA",
                 "link": "https://www.orizzontescuola.it/tutor-sportivi-per-scuola-attiva-infanzia-2025-26-candidature-fino-al-3-dicembre-avviso-e-guida/",
@@ -111,7 +143,12 @@
                 "date": "10 Nov 2025",
                 "time": "14:38",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Guide",
                 "title": "Diritto allo studio 2026, permessi 150 ore docenti e ATA: ecco gli AVVISI degli Uffici Scolastici e le scadenze [AGGIORNATO]",
@@ -143,12 +180,7 @@
                 "date": "10 Nov 2025",
                 "time": "11:47",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/12/shutterstock_1905525472-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR3: prova scritta prima ancora di avere il titolo di accesso, scioglimento riserva parte dal 15 dicembre",
@@ -260,30 +292,28 @@
                 "date": "10 Nov 2025",
                 "time": "8:15",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/shutterstock_226501819.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Discarico inventariale: 5 documenti già pronti all’uso, da scaricare",
-                "link": "https://www.orizzontescuola.it/discarico-inventariale-5-documenti-gia-pronti-alluso-da-scaricare/",
-                "date": "10 Nov 2025",
-                "time": "7:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Discarico-inventariale.png"
-            },
-            {
-                "category": "Cronaca",
-                "title": "La scuola a Genova che utilizza l’intelligenza artificiale. Il preside: “ChatGPT non serve soltanto per fregare i docenti, occorre guida gli studenti all’utilizzo critico”",
-                "link": "https://www.orizzontescuola.it/la-scuola-a-genova-che-utilizza-lintelligenza-artificiale-il-preside-chatgpt-non-serve-soltanto-per-fregare-i-docenti-occorre-guida-gli-studenti-allutilizzo-critico/",
-                "date": "10 Nov 2025",
-                "time": "7:53",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_2622764617.jpg"
-            },
-            null,
-            null
+            }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Educazione sessuale vietata a scuola? Frassinetti replica: “Basta leggere il testo per capire che non è così”",
+                "link": "https://www.orizzontescuola.it/educazione-sessuale-vietata-a-scuola-frassinetti-replica-basta-leggere-il-testo-per-capire-che-non-e-cosi/",
+                "date": "10 Nov 2025",
+                "time": "20:18",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Lancini: “Se noi adulti vogliamo davvero essere presenti nella crescita dei figli, occorre smettere di pensare di poterli proteggere da ogni difficoltà”",
+                "link": "https://www.orizzontescuola.it/lancini-se-noi-adulti-vogliamo-davvero-essere-presenti-nella-crescita-dei-figli-occorre-smettere-di-pensare-di-poterli-proteggere-da-ogni-difficolta/",
+                "date": "10 Nov 2025",
+                "time": "19:44",
+                "image_link": "N/A"
+            },
             null,
             {
                 "category": "Politica scolastica",
@@ -403,22 +433,6 @@
                 "link": "https://www.orizzontescuola.it/la-paternita-oggi-come-cambia-linfluenza-del-papa-nello-sviluppo-dei-bambini-e-degli-adolescenti-le-parole-di-novara/",
                 "date": "10 Nov 2025",
                 "time": "12:47",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Julio Velasco e l’importanza della consapevolezza e del superamento degli alibi nella scuola: “Se scarichiamo costantemente all’esterno la responsabilità degli insuccessi, non si compie alcun progresso”",
-                "link": "https://www.orizzontescuola.it/julio-velasco-e-limportanza-della-consapevolezza-e-del-superamento-degli-alibi-nella-scuola-se-scarichiamo-costantemente-allesterno-la-responsabilita-degli-insuccessi-non-si-compie-alcu/",
-                "date": "10 Nov 2025",
-                "time": "12:22",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Ministeri Istruzione e Turismo: nuove regole operative per i viaggi scolastici, Santanchè soddisfatta per il coinvolgimento delle categorie",
-                "link": "https://www.orizzontescuola.it/ministeri-istruzione-e-turismo-nuove-regole-operative-per-i-viaggi-scolastici-santanche-soddisfatta-per-il-coinvolgimento-delle-categorie/",
-                "date": "10 Nov 2025",
-                "time": "12:11",
                 "image_link": "N/A"
             }
         ]
@@ -545,6 +559,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Concorsi docenti 2025, candidati assenti alla prova scritta saranno esclusi. Solo candidate in gravidanza o allattamento possono differire [CHIARIMENTI]",
+                "link": "https://www.orizzontescuola.it/concorsi-docenti-2025-candidati-assenti-alla-prova-scritta-saranno-esclusi-solo-candidate-in-gravidanza-o-allattamento-possono-differire/",
+                "date": "8 Nov 2025",
+                "time": "17:27",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2454619561.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "GPS 2026, ci saranno differenze di punteggio tra sostegno INDIRE e TFA classico? Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/gps-2026-ci-saranno-differenze-di-punteggio-tra-sostegno-indire-e-tfa-classico-pillole-di-question-time/",
                 "date": "8 Nov 2025",
@@ -582,14 +604,6 @@
                 "date": "7 Nov 2025",
                 "time": "13:41",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2492437907.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Permessi per il diritto allo studio: cosa prevede la normativa per il 2026. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/permessi-per-il-diritto-allo-studio-cosa-prevede-la-normativa-per-il-2026-pillole-di-question-time/",
-                "date": "7 Nov 2025",
-                "time": "10:53",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_107800838.jpg"
             }
         ]
     },
@@ -704,6 +718,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Il consiglio di classe con il rappresentante dei genitori: una collaborazione mancata. Lettera",
+                "link": "https://www.orizzontescuola.it/il-consiglio-di-classe-con-il-rappresentante-dei-genitori-una-collaborazione-mancata-lettera/",
+                "date": "10 Nov 2025",
+                "time": "21:45",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "Rincaro treni Natale per Personale ATA fuori sede. Lettera",
                 "link": "https://www.orizzontescuola.it/rincaro-treni-natale-per-personale-ata-fuori-sede-lettera/",
                 "date": "10 Nov 2025",
@@ -740,14 +762,6 @@
                 "link": "https://www.orizzontescuola.it/il-nuovo-decreto-sulla-disciplina-scolastica-il-retaggio-della-scuola-italiana-le-azioni-educative-e-la-prevenzione-per-arginare-devianze-e-abbandono-lettera/",
                 "date": "5 Nov 2025",
                 "time": "22:01",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Dignità, questa sconosciuta. Lettera",
-                "link": "https://www.orizzontescuola.it/dignita-questa-sconosciuta-lettera/",
-                "date": "5 Nov 2025",
-                "time": "19:54",
                 "image_link": "N/A"
             }
         ]
