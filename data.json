@@ -17,6 +17,38 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3: con pochi candidati più facile rientrare nel triplo dei posti. Ma occorre il punteggio di almeno 70/100",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-con-pochi-candidati-piu-facile-rientrare-nel-triplo-dei-posti-ma-occorre-il-punteggio-di-almeno-70-100/",
+                "date": "15 Nov 2025",
+                "time": "18:03",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/esami-24-cfu-online-bando-concorso-2.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Graduatorie dei concorsi si accorciano: cancellato chi è stato assunto da altra procedura",
+                "link": "https://www.orizzontescuola.it/graduatorie-dei-concorsi-si-accorciano-cancellato-chi-e-stato-assunto-da-altra-procedura/",
+                "date": "15 Nov 2025",
+                "time": "17:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_1819849748.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: INTERPELLI per nomine anche fino al 30 giugno",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "15 Nov 2025",
+                "time": "15:46",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Posizioni economiche ATA, prova finale a dicembre. Richiesta tempi aggiuntivi e ausili",
+                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-prova-finale-a-dicembre-richiesta-tempi-aggiuntivi-e-ausili/",
+                "date": "15 Nov 2025",
+                "time": "15:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_1066344359.jpg"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Perché il 44,2% degli studenti con disabilità abbandona? L’allarme Eurostat sull’inclusione che non funziona",
                 "link": "https://www.orizzontescuola.it/perche-il-442-degli-studenti-con-disabilita-abbandona-lallarme-eurostat-sullinclusione-che-non-funziona/",
@@ -104,7 +136,12 @@
                 "time": "8:07",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Screenshot-2025-11-05-alle-21.20.00.png"
             },
-            null,
+            null
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "ATA",
                 "title": "Posizioni economiche ATA: il simulatore per esercitarti a superare l’esame",
@@ -136,12 +173,7 @@
                 "date": "14 Nov 2025",
                 "time": "20:51",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2518506853.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Domenico, dalla Sicilia al Veneto, è già prof di ruolo a 19 anni: “Con gli studenti stessa lunghezza d’onda”",
@@ -224,14 +256,6 @@
             },
             {
                 "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: INTERPELLI per nomine anche fino al 30 giugno",
-                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
-                "date": "14 Nov 2025",
-                "time": "13:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
                 "title": "Supplenze docenti 2025/26: le nomine di novembre da GPS [AGGIORNATO]",
                 "link": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
                 "date": "14 Nov 2025",
@@ -261,36 +285,60 @@
                 "date": "14 Nov 2025",
                 "time": "11:42",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/05/cellulare-1200x800.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR3: quanti punti vale nelle GPS e cosa cambia tra prima e seconda fascia. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-quanti-punti-vale-nelle-gps-e-cosa-cambia-tra-prima-e-seconda-fascia-pillole-di-question-time/",
-                "date": "14 Nov 2025",
-                "time": "10:38",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_2266810191.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "ePolicy d’Istituto: una buona pratica di cultura digitale, tutela e responsabilità educativa. L’esperienza dell’Istituto Tecnico “Carlo Alberto Dalla Chiesa” di Partinico",
-                "link": "https://www.orizzontescuola.it/epolicy-distituto-una-buona-pratica-di-cultura-digitale-tutela-e-responsabilita-educativa-lesperienza-dellistituto-tecnico-carlo-alberto-dalla-chiesa-di/",
-                "date": "14 Nov 2025",
-                "time": "10:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/shutterstock_1932107069.jpg"
-            },
-            {
-                "category": "Guide",
-                "title": "Diritto allo studio 2026, permessi 150 ore docenti e ATA: scadenza 15 novembre, richiesta con riserva per percorsi abilitanti e sostegno [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/permessi-diritto-allo-studio-150-ore-docenti-e-ata-15-novembre-scade-domanda-per-tfa-sostegno-corsi-lauree-no-preparazione-concorso-guida/",
-                "date": "14 Nov 2025",
-                "time": "10:23",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1906380526.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "“Carta del Docente da 500 euro senza riduzioni dal 2026”: la petizione di Pacifico (Anief)",
+                "link": "https://www.orizzontescuola.it/carta-del-docente-da-500-euro-senza-riduzioni-dal-2026-la-petizione-di-pacifico-anief/",
+                "date": "15 Nov 2025",
+                "time": "17:00",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Formazione docenti per “decolonizzare” l’approccio in classe: “Vogliono rieducarci in nome dell’Islam”, “Noi difendiamo l’autodeterminazione”. Scontro tra Lega e AVS",
+                "link": "https://www.orizzontescuola.it/formazione-docenti-per-decolonizzare-lapproccio-in-classe-vogliono-rieducarci-in-nome-dellislam-noi-difendiamo-lautodeterminazione-scontr/",
+                "date": "15 Nov 2025",
+                "time": "16:18",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“Scuole come tribunali e aziende”: il Blocco Studentesco Roma contro il DDL Gasparri e la riforma Valditara",
+                "link": "https://www.orizzontescuola.it/scuole-come-tribunali-e-aziende-il-blocco-studentesco-roma-contro-il-ddl-gasparri-e-la-riforma-valditara/",
+                "date": "15 Nov 2025",
+                "time": "15:48",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Concorso INPS-INAIL per 448 funzionari ispettivi: domande entro il 10 dicembre",
+                "link": "https://www.orizzontescuola.it/concorso-inps-inail-per-448-funzionari-ispettivi-domande-entro-il-10-dicembre/",
+                "date": "15 Nov 2025",
+                "time": "14:15",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Valutazione DS, punteggi entro novembre e retribuzione entro marzo. ANP: “Ora basta disparità con gli altri dirigenti”",
+                "link": "https://www.orizzontescuola.it/valutazione-ds-punteggi-entro-novembre-e-retribuzione-entro-marzo-anp-ora-basta-disparita-con-gli-altri-dirigenti/",
+                "date": "15 Nov 2025",
+                "time": "13:40",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Serafini (Snals Confsal): “Soddisfazione per la rappresentanza nel comparto istruzione e ricerca. Ora occorre un rinnovato impegno anche per i dirigenti scolastici”",
+                "link": "https://www.orizzontescuola.it/serafini-snals-confsal-soddisfazione-per-la-rappresentanza-nel-comparto-istruzione-e-ricerca-ora-occorre-un-rinnovato-impegno-anche-per-i-dirigenti-scolastici/",
+                "date": "15 Nov 2025",
+                "time": "13:26",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Master executive 2025/26: contributi INPS per dipendenti pubblici, scadenza il 18 novembre",
@@ -386,48 +434,7 @@
                 "date": "14 Nov 2025",
                 "time": "21:02",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Studente aggredisce la vicepreside, Ancodis: “Figure importanti senza riconoscimento giuridico e contrattuale”",
-                "link": "https://www.orizzontescuola.it/studente-aggredisce-la-vicepreside-ancodis-figure-importanti-senza-riconoscimento-giuridico-e-contrattuale/",
-                "date": "14 Nov 2025",
-                "time": "20:33",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Rappresentatività Sindacati, Uil Scuola: “Registriamo la maggior crescita per iscritti”. D’Aprile: “Risultato straordinario”",
-                "link": "https://www.orizzontescuola.it/rappresentativita-sindacati-uil-scuola-registriamo-la-maggior-crescita-per-iscritti-daprile-risultato-straordinario/",
-                "date": "14 Nov 2025",
-                "time": "20:16",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Rappresentatività Sindacati, Anief: “Primo sindacato che cresce per voti RSU e deleghe nel triennio”. Pacifico: “Grazie e avanti tutta per una scuola giusta”",
-                "link": "https://www.orizzontescuola.it/rappresentativita-sindacati-anief-primo-sindacato-che-cresce-per-voti-rsu-e-deleghe-nel-triennio-pacifico-grazie-e-avanti-tutta-per-una-scuola-giusta/",
-                "date": "14 Nov 2025",
-                "time": "20:11",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Garante Privacy e Carabinieri con gli studenti: “Difendere i dati come il proprio corpo”",
-                "link": "https://www.orizzontescuola.it/garante-privacy-e-carabinieri-con-gli-studenti-difendere-i-dati-come-il-proprio-corpo/",
-                "date": "14 Nov 2025",
-                "time": "19:01",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Posizioni economiche ATA: aumenti da 700 a 2.000 euro a partire da settembre 2024 per 52 mila che superano le prove. Anief: “Pubblicato il calendario”",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-aumenti-da-700-a-2-000-euro-a-partire-da-settembre-2024-per-52-mila-che-superano-le-prove-anief-pubblicato-il-calendario/",
-                "date": "14 Nov 2025",
-                "time": "17:38",
-                "image_link": "N/A"
-            },
-            null
+            }
         ]
     },
     "group_5": {
@@ -552,6 +559,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Graduatorie GPS 2026, con aggiornamento “anticipato” aspiranti rischiano di perdere titoli e servizi del 2025/26",
+                "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-con-aggiornamento-anticipato-aspiranti-rischiano-di-perdere-titoli-e-servizi-del-2025-26/",
+                "date": "13 Nov 2025",
+                "time": "11:41",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_2102451475.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Supplenze docenti 2025, tanti gli interpelli per A023 sia medie che superiori. I titoli di studio richiesti",
                 "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-tanti-gli-interpelli-per-a023-sia-medie-che-superiori-i-titoli-di-studio-richiesti/",
                 "date": "13 Nov 2025",
@@ -589,14 +604,6 @@
                 "date": "12 Nov 2025",
                 "time": "18:34",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_1958115694.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR3, avvio PROVA SCRITTA. Domanda tempi aggiuntivi, rinvio per gravidanza, spazi per allattamento [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-avvio-prova-scritta-richiesta-documenti-per-ausili-e-tempi-aggiuntivi-candidati-con-dsa-e-rinvio-per-gravidanza-scadenze-usr/",
-                "date": "12 Nov 2025",
-                "time": "13:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2120807768.jpg"
             }
         ]
     },
