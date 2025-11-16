@@ -3,19 +3,20 @@
         "title": "Notizie in Evidenza",
         "articles": [
             null,
-            {
-                "category": "Plus",
-                "title": "Ciclo di 5 webinar. Intelligenza Artificiale per l’amministrazione scolastica: strumenti e strategie per semplificare il lavoro",
-                "link": "https://www.orizzontescuola.it/ciclo-di-5-webinar-intelligenza-artificiale-per-lamministrazione-scolastica-strumenti-e-strategie-per-semplificare-il-lavoro/",
-                "date": "14 Nov 2025",
-                "time": "11:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Intelligenza-Artificiale-e-amministrazione-scolastica-2.png"
-            }
+            null
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Plus",
+                "title": "6 webinar gratuiti per “Gestire la scuola” senza sbagliare, per Dirigenti, collaboratori del DS, DSGA e segreterie: dagli adempimenti, alla gestione delle assenze, dal programma annuale alle nuove regole dello Smart working",
+                "link": "https://www.orizzontescuola.it/6-webinar-gratuiti-per-gestire-la-scuola-al-meglio-per-dirigenti-collaboratori-del-ds-dsga-e-segreterie-dagli-adempimenti-alla-gestione-delle-assenze-dal-programma-annuale-alle-nuove-regole-d/",
+                "date": "16 Nov 2025",
+                "time": "7:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/6-webinar-gratuiti-per-Gestire-la-scuola-al-meglio.png"
+            },
             {
                 "category": "ATA",
                 "title": "Seconda posizione economica ATA dal 2011 riconosciuta solo in parte: il Tribunale condanna il Ministero a pagare 21.600 euro",
@@ -135,7 +136,12 @@
                 "date": "15 Nov 2025",
                 "time": "8:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_106178696.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Politica scolastica",
                 "title": "Contratto scuola, Serafini (Snals): “Firma non risolve tutte le criticità, ma rifiutare aumenti sarebbe stato incomprensibile. Welfare e buoni pasto tra le priorità della prossima trattativa”",
@@ -143,12 +149,7 @@
                 "date": "15 Nov 2025",
                 "time": "8:07",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Screenshot-2025-11-05-alle-21.20.00.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             null,
             {
                 "category": "ATA",
@@ -277,14 +278,6 @@
                 "date": "14 Nov 2025",
                 "time": "12:41",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2520271471.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "GPS 2026, ci sarà un punteggio aggiuntivo per il servizio nelle scuole di montagna? Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/gps-2026-ci-sara-un-punteggio-aggiuntivo-per-il-servizio-nelle-scuole-di-montagna-pillole-di-question-time/",
-                "date": "14 Nov 2025",
-                "time": "12:38",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_2352507533.jpg"
             }
         ]
     },
@@ -559,6 +552,22 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025: fino al 31 dicembre ancora possibili nomine da GPS. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-fino-al-31-dicembre-ancora-possibili-nomine-da-gps-pillole-di-question-time/",
+                "date": "13 Nov 2025",
+                "time": "14:37",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_1158978574.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3, quando si rischia l’esclusione nel corso della prova scritta",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-quando-si-rischia-lesclusione-nel-corso-della-prova-scritta/",
+                "date": "13 Nov 2025",
+                "time": "12:29",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_605958425.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Graduatorie GPS 2026, con aggiornamento “anticipato” aspiranti rischiano di perdere titoli e servizi del 2025/26",
                 "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-con-aggiornamento-anticipato-aspiranti-rischiano-di-perdere-titoli-e-servizi-del-2025-26/",
                 "date": "13 Nov 2025",
@@ -588,22 +597,6 @@
                 "date": "13 Nov 2025",
                 "time": "10:12",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_594891590.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Permessi diritto allo studio 2026: si possono richiedere se non si è ancora iscritti al percorso abilitante? CHIARIMENTI",
-                "link": "https://www.orizzontescuola.it/permessi-diritto-allo-studio-si-possono-richiedere-se-non-si-e-ancora-iscritti-al-percorso-abilitante-chiarimenti/",
-                "date": "12 Nov 2025",
-                "time": "19:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2491902319.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR3: scioglimento della riserva sarà possibile dal 15 dicembre. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-scioglimento-della-riserva-sara-possibile-dal-15-dicembre-pillole-di-question-time/",
-                "date": "12 Nov 2025",
-                "time": "18:34",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_1958115694.jpg"
             }
         ]
     },
