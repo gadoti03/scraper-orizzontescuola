@@ -2,12 +2,131 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
-            null,
+            {
+                "category": "Docenti",
+                "title": "Docenti tutor per l’orientamento 2024/25, arrivano i compensi. Quanto devono essere retribuiti? Conta il numero di ore svolte?",
+                "link": "https://www.orizzontescuola.it/docenti-tutor-per-lorientamento-2024-25-quando-e-quanto-devono-essere-retribuiti-conta-il-numero-di-ore-svolte/",
+                "date": "17 Nov 2025",
+                "time": "10:04",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/05/shutterstock_789252712.jpg"
+            },
             null
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
+        "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: INTERPELLI con scadenza 17 novembre, da sostegno primaria a Matematica e Inglese",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "17 Nov 2025",
+                "time": "13:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Meno figli, meno iscritti a scuola: un problema di denatalità, ma anche di degenitorialità",
+                "link": "https://www.orizzontescuola.it/meno-figli-meno-iscritti-a-scuola-un-problema-di-denatalita-ma-anche-di-degenitorialita/",
+                "date": "17 Nov 2025",
+                "time": "10:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/shutterstock_1742135183.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Valditara: “L’educazione sessuo-affettiva ci sarà, anche alle medie. Ma con vincoli”. Ecco quali",
+                "link": "https://www.orizzontescuola.it/valditara-leducazione-sessuo-affettiva-ci-sara-anche-alle-medie-ma-con-vincoli-ecco-quali/",
+                "date": "17 Nov 2025",
+                "time": "10:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Screenshot-2025-11-17-104436.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Ora legale permanente arriva in Parlamento, potrebbe diventare legge. Favorevole o contrario?",
+                "link": "https://www.orizzontescuola.it/ora-legale-permanente-arriva-in-parlamento-potrebbe-diventare-legge-favorevole-o-contrario/",
+                "date": "17 Nov 2025",
+                "time": "10:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1422003920-scaled.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Docente di religione precario ottiene 66mila euro di risarcimento: il Tribunale condanna il Ministero per abuso di contratti a termine",
+                "link": "https://www.orizzontescuola.it/docente-di-religione-precario-ottiene-66mila-euro-di-risarcimento-il-tribunale-condanna-il-ministero-per-abuso-di-contratti-a-termine/",
+                "date": "17 Nov 2025",
+                "time": "9:51",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/shutterstock_633750290.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "“Non ridurre l’importo di 500 euro della Carta Docente”: la petizione di Pacifico (Anief)",
+                "link": "https://www.orizzontescuola.it/carta-del-docente-da-500-euro-senza-riduzioni-dal-2026-la-petizione-di-pacifico-anief/",
+                "date": "17 Nov 2025",
+                "time": "9:35",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_1866188485.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Concorso docenti PNNR3: aperta domanda per Presidenti e Commissari. Si presenta da Concorsi e Procedure selettive fino al 24 novembre",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnnr3-requisiti-e-compensi-per-le-commissioni-giudicatrici/",
+                "date": "17 Nov 2025",
+                "time": "9:26",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_322543976.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3, oltre 220mila domande per la prova scritta: candidati e sindacati chiedono numeri per classe di concorso",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-oltre-220mila-domande-per-la-prova-scritta-candidati-e-sindacati-chiedono-numeri-per-classe-di-concorso/",
+                "date": "17 Nov 2025",
+                "time": "9:23",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_409299112-scaled.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Orientarsi per conoscersi: l’educazione alla scelta come percorso di consapevolezza",
+                "link": "https://www.orizzontescuola.it/orientarsi-per-conoscersi-leducazione-alla-scelta-come-percorso-di-consapevolezza/",
+                "date": "17 Nov 2025",
+                "time": "8:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_1027746913.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "I genitori che hanno deciso di crescere i figli nel bosco, interviene Laif Italia: “Un caso di unschooling, di cosa si tratta”",
+                "link": "https://www.orizzontescuola.it/i-genitori-che-hanno-deciso-di-crescere-i-figli-nel-bosco-interviene-laif-italia-un-caso-di-unschooling-di-cosa-si-tratta/",
+                "date": "17 Nov 2025",
+                "time": "8:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/shutterstock_2027604446.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Doppio canale? Pittoni: “Per me è ancora la madre di tutte le battaglie”",
+                "link": "https://www.orizzontescuola.it/doppio-canale-pittoni-per-me-e-ancora-la-madre-di-tutte-le-battaglie/",
+                "date": "17 Nov 2025",
+                "time": "8:14",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-10-at-12.01.28.jpeg"
+            },
+            {
+                "category": "Docenti",
+                "title": "A scuola di plusdotazione: come riconoscere e sviluppare l’alto potenziale cognitivo degli studenti",
+                "link": "https://www.orizzontescuola.it/a-scuola-di-plusdotazione-come-riconoscere-e-sviluppare-lalto-potenziale-cognitivo-degli-studenti/",
+                "date": "17 Nov 2025",
+                "time": "8:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1752957914.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Revisione del Piano di Miglioramento (PdM): in allegato una bozza di regolamento",
+                "link": "https://www.orizzontescuola.it/revisione-del-piano-di-miglioramento-pdm-in-allegato-una-bozza-di-regolamento/",
+                "date": "17 Nov 2025",
+                "time": "7:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2478160223.jpg"
+            },
+            null,
+            null,
+            null
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
         "articles": [
             {
                 "category": "Cronaca",
@@ -91,14 +210,6 @@
             },
             {
                 "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: INTERPELLI con scadenza 17 novembre, da sostegno primaria a Matematica e Inglese",
-                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
-                "date": "16 Nov 2025",
-                "time": "8:51",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
                 "title": "Supplenze docenti 2025/26: le nomine di novembre da GPS [AGGIORNATO]",
                 "link": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
                 "date": "16 Nov 2025",
@@ -129,12 +240,7 @@
                 "date": "15 Nov 2025",
                 "time": "19:19",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/shutterstock_299616500.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR3: con pochi candidati più facile rientrare nel triplo dei posti. Ma occorre il punteggio di almeno 70/100",
@@ -158,125 +264,92 @@
                 "date": "15 Nov 2025",
                 "time": "15:40",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_1066344359.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Perché il 44,2% degli studenti con disabilità abbandona? L’allarme Eurostat sull’inclusione che non funziona",
-                "link": "https://www.orizzontescuola.it/perche-il-442-degli-studenti-con-disabilita-abbandona-lallarme-eurostat-sullinclusione-che-non-funziona/",
-                "date": "15 Nov 2025",
-                "time": "11:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2152303575.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Libri di testo, si cambia? L’emendamento Gelmini-Versace che propone la detrazione del 22%. Ecco chi può averne accesso",
-                "link": "https://www.orizzontescuola.it/libri-di-testo-si-cambia-lemendamento-gelmini-versace-che-propone-la-detrazione-del-22-ecco-chi-puo-averne-accesso/",
-                "date": "15 Nov 2025",
-                "time": "11:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1906380526.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze da interpello: si può rinunciare per accettarne una da graduatoria d’istituto nella propria provincia? Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/supplenze-da-interpello-si-puo-rinunciare-per-accettarne-una-da-graduatoria-distituto-nella-propria-provincia-pillole-di-question-time/",
-                "date": "15 Nov 2025",
-                "time": "10:07",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_145510552.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Valori UE in classe, 6 attività didattiche pronte all’uso per la scuola primaria e secondaria: dai porti europei ai valori dell’UE nell’era digitale",
-                "link": "https://www.orizzontescuola.it/valori-ue-in-classe-6-attivita-didattiche-pronte-alluso-per-la-scuola-primaria-e-secondaria-dai-porti-europei-ai-valori-dellue-nellera-digitale/",
-                "date": "15 Nov 2025",
-                "time": "10:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_1692630220.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Allarme Inclusione, report Erickson: 1 docente su 4 (27,1%) è favorevole a classi speciali, un balzo shock del 10,1% in un solo anno",
-                "link": "https://www.orizzontescuola.it/allarme-inclusione-report-erickson-1-docente-su-4-271-e-favorevole-a-classi-speciali-un-balzo-shock-del-101-in-un-solo-anno/",
-                "date": "15 Nov 2025",
-                "time": "9:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/10/messa-a-disposizione-sostegno-supplenti.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Calendario scolastico 2025/26: quando iniziano e quando finiscono le vacanze di Natale. Le date per regione",
-                "link": "https://www.orizzontescuola.it/calendario-scolastico-2025-26-quando-iniziano-e-quando-finiscono-le-vacanze-di-natale-le-date-per-regione/",
-                "date": "15 Nov 2025",
-                "time": "8:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_1885017100.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Competenze tecnico-scientifiche insufficienti: dall’ingegneria all’informatica, fino alle costruzioni. Partecipazione femminile sbilanciata. Come sta messa l’Italia?",
-                "link": "https://www.orizzontescuola.it/competenze-tecnico-scientifiche-insufficienti-dallingegneria-allinformatica-fino-alle-costruzioni-partecipazione-femminile-sbilanciata-come-sta-messa-litalia/",
-                "date": "15 Nov 2025",
-                "time": "8:39",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_1445956022.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Tanta tecnologia in classe, ma le competenze informatiche degli studenti europei non migliorano. Come sta messa l’Italia?",
-                "link": "https://www.orizzontescuola.it/tanta-tecnologia-in-classe-ma-le-competenze-informatiche-degli-studenti-europei-non-migliorano-come-sta-messa-litalia/",
-                "date": "15 Nov 2025",
-                "time": "8:34",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/shutterstock_2490871765.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Scuola Attiva Kids e Junior 2025/26: iscrizioni fino al 20 novembre",
-                "link": "https://www.orizzontescuola.it/scuola-attiva-kids-e-junior-2025-26-iscrizioni-fino-al-20-novembre/",
-                "date": "15 Nov 2025",
-                "time": "8:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2287076115.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Arrivati i soldi per chi ha svolto la funzione di tutor. Procedura in fase di completamento",
-                "link": "https://www.orizzontescuola.it/arrivati-i-soldi-per-chi-ha-svolto-la-funzione-di-tutor-procedura-in-fase-di-completamento/",
-                "date": "15 Nov 2025",
-                "time": "8:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_106178696.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Contratto scuola, Serafini (Snals): “Firma non risolve tutte le criticità, ma rifiutare aumenti sarebbe stato incomprensibile. Welfare e buoni pasto tra le priorità della prossima trattativa”",
-                "link": "https://www.orizzontescuola.it/contratto-scuola-serafini-snals-firma-non-risolve-tutte-le-criticita-ma-rifiutare-aumenti-sarebbe-stato-incomprensibile-welfare-e-buoni-pasto-tra-le-priorita-della-prossima-trattativa/",
-                "date": "15 Nov 2025",
-                "time": "8:07",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Screenshot-2025-11-05-alle-21.20.00.png"
-            },
-            null,
-            {
-                "category": "ATA",
-                "title": "Posizioni economiche ATA: il simulatore per esercitarti a superare l’esame",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-collaboratori-simulatore-e-video-lezioni-per-superare-la-prova-finale/",
-                "date": "15 Nov 2025",
-                "time": "7:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Assegnazioni-provvisorie-e-utilizzazioni-2.png"
-            },
-            {
-                "category": "Docenti",
-                "title": "Sentenze Carta docente: nuove modalità di trasmissione delle richieste",
-                "link": "https://www.orizzontescuola.it/sentenze-carta-docente-nuove-modalita-di-trasmissione-delle-richieste/",
-                "date": "14 Nov 2025",
-                "time": "20:57",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/shutterstock_355731551-scaled.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Osservatori esterni prove Invalsi 2026: funzioni, requisiti e compensi. Scadenze bandi USR [IN AGGIORNAMENTO]",
-                "link": "https://www.orizzontescuola.it/osservatori-esterni-prove-invalsi-2026-funzioni-requisiti-e-compensi-scadenze-bandi-usr-in-aggiornamento/",
-                "date": "14 Nov 2025",
-                "time": "20:56",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2471109123-scaled.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Educazione sessuale a scuola, la “letterina” di Littizzetto a Valditara riapre il confronto sul consenso dei genitori",
+                "link": "https://www.orizzontescuola.it/educazione-sessuale-a-scuola-la-letterina-di-littizzetto-a-valditara-riapre-il-confronto-sul-consenso-dei-genitori/",
+                "date": "17 Nov 2025",
+                "time": "12:43",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Carta del Docente, Gilda chiede al Ministero tempi certi per l’erogazione del bonus",
+                "link": "https://www.orizzontescuola.it/carta-del-docente-gilda-chiede-al-ministero-tempi-certi-per-lerogazione-del-bonus/",
+                "date": "17 Nov 2025",
+                "time": "12:15",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Docenti",
+                "title": "Giornata mondiale della Filosofia: il 20 novembre evento di formazione online per dirigenti e docenti. NOTA",
+                "link": "https://www.orizzontescuola.it/giornata-mondiale-della-filosofia-il-20-novembre-evento-di-formazione-online-per-dirigenti-e-docenti-nota/",
+                "date": "17 Nov 2025",
+                "time": "11:15",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Scuola e inclusione, la ricercatrice Giulia Perfetto: “Servono sensibilità personale e formazione professionale”",
+                "link": "https://www.orizzontescuola.it/scuola-e-inclusione-la-ricercatrice-giulia-perfetto-servono-sensibilita-personale-e-formazione-professionale-tra-dimensionamento-e-aree-interne-listruzione-perde-il-senso-di-appartenenza/",
+                "date": "17 Nov 2025",
+                "time": "10:17",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Tutor e orientatori, finalmente arrivano i compensi: l’amministrazione versa 84 milioni agli istituti. Decisivi i solleciti Anief",
+                "link": "https://www.orizzontescuola.it/tutor-e-orientatori-finalmente-arrivano-i-compensi-lamministrazione-versa-84-milioni-agli-istituti-decisivi-i-solleciti-anief/",
+                "date": "17 Nov 2025",
+                "time": "9:44",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Emendamento Lega alla Legge di Bilancio: graduatorie dirigenti scolastici fino a esaurimento",
+                "link": "https://www.orizzontescuola.it/emendamento-lega-alla-legge-di-bilancio-graduatorie-dirigenti-scolastici-fino-a-esaurimento/",
+                "date": "17 Nov 2025",
+                "time": "9:44",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Giornata internazionale degli studenti, Valditara: “Garantire diritto allo studio e pluralismo”",
+                "link": "https://www.orizzontescuola.it/giornata-internazionale-degli-studenti-valditara-garantire-diritto-allo-studio-e-pluralismo/",
+                "date": "17 Nov 2025",
+                "time": "9:35",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Padre lancia un sasso contro l’arbitro durante una partita di pulcini: l’educazione si impara guardando",
+                "link": "https://www.orizzontescuola.it/padre-lancia-un-sasso-contro-larbitro-durante-una-partita-di-pulcini-leducazione-si-impara-guardando/",
+                "date": "17 Nov 2025",
+                "time": "8:40",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Quando i figli di George e Kate avranno un cellulare?",
+                "link": "https://www.orizzontescuola.it/quando-i-figli-di-george-e-kate-avranno-un-cellulare/",
+                "date": "17 Nov 2025",
+                "time": "8:40",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Amati: l’arte che educa al cuore: il progetto @LAB_SCHOOL all’I.C. “Renato Guttuso” di Villagrazia di Carini (PA)",
+                "link": "https://www.orizzontescuola.it/amati-larte-che-educa-al-cuore-il-progetto-lab_school-alli-c-renato-guttuso-di-villagrazia-di-carini-pa/",
+                "date": "17 Nov 2025",
+                "time": "8:40",
+                "image_link": "N/A"
+            },
             {
                 "category": "Scuole",
                 "title": "Concorso “I giovani ricordano la Shoah” 2025/26: elaborati entro il 5 dicembre",
@@ -339,86 +412,6 @@
                 "link": "https://www.orizzontescuola.it/pythika-iscrizioni-aperte-fino-al-10-dicembre-per-giovani-artisti-con-disabilita-dai-15-anni-in-su/",
                 "date": "16 Nov 2025",
                 "time": "11:43",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Psicofarmaci ai minori, gli esperti: “Nessun allarme, i dati richiedono riflessione responsabile”",
-                "link": "https://www.orizzontescuola.it/psicofarmaci-ai-minori-gli-esperti-nessun-allarme-i-dati-richiedono-riflessione-responsabile/",
-                "date": "16 Nov 2025",
-                "time": "10:49",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Lo psicologo Montali: “Gender gap in matematica dopo solo quattro mesi di scuola”",
-                "link": "https://www.orizzontescuola.it/lo-psicologo-montali-gender-gap-in-matematica-dopo-solo-quattro-mesi-di-scuola/",
-                "date": "16 Nov 2025",
-                "time": "10:46",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Olimpiadi italiane di statistica 2026: iscrizioni aperte fino al 25 novembre. Bando e regolamento",
-                "link": "https://www.orizzontescuola.it/olimpiadi-italiane-di-statistica-2026-iscrizioni-aperte-fino-al-25-novembre-bando-e-regolamento/",
-                "date": "16 Nov 2025",
-                "time": "9:22",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "“Carta del Docente da 500 euro senza riduzioni dal 2026”: la petizione di Pacifico (Anief)",
-                "link": "https://www.orizzontescuola.it/carta-del-docente-da-500-euro-senza-riduzioni-dal-2026-la-petizione-di-pacifico-anief/",
-                "date": "15 Nov 2025",
-                "time": "17:00",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Formazione docenti per “decolonizzare” l’approccio in classe: “Vogliono rieducarci in nome dell’Islam”, “Noi difendiamo l’autodeterminazione”. Scontro tra Lega e AVS",
-                "link": "https://www.orizzontescuola.it/formazione-docenti-per-decolonizzare-lapproccio-in-classe-vogliono-rieducarci-in-nome-dellislam-noi-difendiamo-lautodeterminazione-scontr/",
-                "date": "15 Nov 2025",
-                "time": "16:18",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Scuole come tribunali e aziende”: il Blocco Studentesco Roma contro il DDL Gasparri e la riforma Valditara",
-                "link": "https://www.orizzontescuola.it/scuole-come-tribunali-e-aziende-il-blocco-studentesco-roma-contro-il-ddl-gasparri-e-la-riforma-valditara/",
-                "date": "15 Nov 2025",
-                "time": "15:48",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Concorso INPS-INAIL per 448 funzionari ispettivi: domande entro il 10 dicembre",
-                "link": "https://www.orizzontescuola.it/concorso-inps-inail-per-448-funzionari-ispettivi-domande-entro-il-10-dicembre/",
-                "date": "15 Nov 2025",
-                "time": "14:15",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Valutazione DS, punteggi entro novembre e retribuzione entro marzo. ANP: “Ora basta disparità con gli altri dirigenti”",
-                "link": "https://www.orizzontescuola.it/valutazione-ds-punteggi-entro-novembre-e-retribuzione-entro-marzo-anp-ora-basta-disparita-con-gli-altri-dirigenti/",
-                "date": "15 Nov 2025",
-                "time": "13:40",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Serafini (Snals Confsal): “Soddisfazione per la rappresentanza nel comparto istruzione e ricerca. Ora occorre un rinnovato impegno anche per i dirigenti scolastici”",
-                "link": "https://www.orizzontescuola.it/serafini-snals-confsal-soddisfazione-per-la-rappresentanza-nel-comparto-istruzione-e-ricerca-ora-occorre-un-rinnovato-impegno-anche-per-i-dirigenti-scolastici/",
-                "date": "15 Nov 2025",
-                "time": "13:26",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Master executive 2025/26: contributi INPS per dipendenti pubblici, scadenza il 18 novembre",
-                "link": "https://www.orizzontescuola.it/master-executive-2025-26-contributi-inps-per-dipendenti-pubblici-scadenza-il-18-novembre/",
-                "date": "15 Nov 2025",
-                "time": "13:13",
                 "image_link": "N/A"
             }
         ]
@@ -545,6 +538,22 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Aggiornamento GPS per le supplenze 2026/28: quali le novità proposte. RISPOSTE AI QUESITI su titoli e servizio",
+                "link": "https://www.orizzontescuola.it/aggiornamento-gps-per-le-supplenze-2026-28-quali-le-novita-proposte-risposte-ai-quesiti-su-titoli-e-servizio/",
+                "date": "14 Nov 2025",
+                "time": "9:34",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2142727347.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso PNRR3, il canale Telegram: informazioni, suggerimenti, aggiornamenti. Iscrizione gratuita",
+                "link": "https://www.orizzontescuola.it/concorso-pnrr3-il-canale-telegram-informazioni-suggerimenti-aggiornamenti-iscrizione-gratuita/",
+                "date": "14 Nov 2025",
+                "time": "8:18",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Discarico-inventariale-4.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Risarcimento di 35mila euro ad una docente per i troppi anni di precariato. Parliamo della sentenza con Walter Miceli. INTERVISTA",
                 "link": "https://www.orizzontescuola.it/risarcimento-di-35-16824-euro-ad-una-docente-per-i-troppi-anni-di-precariato-parliamo-della-sentenza-con-walter-miceli-intervista/",
                 "date": "14 Nov 2025",
@@ -574,28 +583,20 @@
                 "date": "13 Nov 2025",
                 "time": "14:37",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_1158978574.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR3, quando si rischia l’esclusione nel corso della prova scritta",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-quando-si-rischia-lesclusione-nel-corso-della-prova-scritta/",
-                "date": "13 Nov 2025",
-                "time": "12:29",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_605958425.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Graduatorie GPS 2026, con aggiornamento “anticipato” aspiranti rischiano di perdere titoli e servizi del 2025/26",
-                "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-con-aggiornamento-anticipato-aspiranti-rischiano-di-perdere-titoli-e-servizi-del-2025-26/",
-                "date": "13 Nov 2025",
-                "time": "11:41",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_2102451475.jpg"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
+            {
+                "category": "ATA",
+                "title": "Graduatorie ATA 24 mesi: si può accedere alla prima fascia come collaboratore scolastico con servizio misto?",
+                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-si-puo-accedere-alla-prima-fascia-come-collaboratore-scolastico-con-servizio-misto/",
+                "date": "7 Nov 2025",
+                "time": "17:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2198683335.jpg"
+            },
             {
                 "category": "ATA",
                 "title": "Posizioni economiche ATA: prova finale attesa per fine novembre. Come si svolge",
@@ -635,14 +636,6 @@
                 "date": "27 Ott 2025",
                 "time": "20:52",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1936676008-scaled.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Collaboratori scolastici: dal 2019 al 2025 lo stipendio ha perso 1.756 euro in termini di potere di acquisto",
-                "link": "https://www.orizzontescuola.it/collaboratori-scolastici-dal-2019-al-2025-lo-stipendio-ha-perso-1-756-euro-in-termini-di-potere-di-acquisto/",
-                "date": "27 Ott 2025",
-                "time": "8:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_577141876.jpg"
             }
         ]
     },
