@@ -2,15 +2,15 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
-            null,
             {
-                "category": "Docenti",
-                "title": "Docenti tutor per l’orientamento 2024/25, arrivano i compensi. Quanto devono essere retribuiti? Conta il numero di ore svolte?",
-                "link": "https://www.orizzontescuola.it/docenti-tutor-per-lorientamento-2024-25-quando-e-quanto-devono-essere-retribuiti-conta-il-numero-di-ore-svolte/",
-                "date": "17 Nov 2025",
-                "time": "10:04",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/05/shutterstock_789252712.jpg"
-            }
+                "category": "Plus",
+                "title": "Ciclo di 5 webinar. Intelligenza Artificiale per l’amministrazione scolastica: strumenti e strategie per semplificare il lavoro",
+                "link": "https://www.orizzontescuola.it/ciclo-di-5-webinar-intelligenza-artificiale-per-lamministrazione-scolastica-strumenti-e-strategie-per-semplificare-il-lavoro/",
+                "date": "18 Nov 2025",
+                "time": "6:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Insegnare-1.png"
+            },
+            null
         ]
     },
     "group_2": {
@@ -239,6 +239,14 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1422003920-scaled.jpg"
             },
             {
+                "category": "Docenti",
+                "title": "Docenti tutor per l’orientamento 2024/25, arrivano i compensi. Quanto devono essere retribuiti? Conta il numero di ore svolte?",
+                "link": "https://www.orizzontescuola.it/docenti-tutor-per-lorientamento-2024-25-quando-e-quanto-devono-essere-retribuiti-conta-il-numero-di-ore-svolte/",
+                "date": "17 Nov 2025",
+                "time": "10:04",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/05/shutterstock_789252712.jpg"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Docente di religione precario ottiene 66mila euro di risarcimento: il Tribunale condanna il Ministero per abuso di contratti a termine",
                 "link": "https://www.orizzontescuola.it/docente-di-religione-precario-ottiene-66mila-euro-di-risarcimento-il-tribunale-condanna-il-ministero-per-abuso-di-contratti-a-termine/",
@@ -277,14 +285,6 @@
                 "date": "17 Nov 2025",
                 "time": "8:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/shutterstock_2027604446.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Doppio canale? Pittoni: “Per me è ancora la madre di tutte le battaglie”",
-                "link": "https://www.orizzontescuola.it/doppio-canale-pittoni-per-me-e-ancora-la-madre-di-tutte-le-battaglie/",
-                "date": "17 Nov 2025",
-                "time": "8:14",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-10-at-12.01.28.jpeg"
             }
         ]
     },
@@ -605,14 +605,6 @@
         "articles": [
             {
                 "category": "ATA",
-                "title": "Supplenze ATA brevi: non si può cambiare incarico di una settimana per uno di due mesi",
-                "link": "https://www.orizzontescuola.it/supplenze-ata-brevi-non-si-puo-cambiare-incarico-di-una-settimana-per-uno-di-due-mesi/",
-                "date": "12 Nov 2025",
-                "time": "10:54",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2198390061.jpg"
-            },
-            {
-                "category": "ATA",
                 "title": "Operatore scolastico in graduatoria terza fascia ATA, servizio OSS in cooperativa non è valutabile",
                 "link": "https://www.orizzontescuola.it/operatore-scolastico-in-graduatoria-terza-fascia-ata-servizio-oss-in-cooperativa-non-e-valutabile/",
                 "date": "10 Nov 2025",
@@ -650,6 +642,14 @@
                 "date": "30 Ott 2025",
                 "time": "19:17",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_2079528205.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Concorso straordinario ATA per assistenti amministrativi in Trentino: domande entro il 1° dicembre. BANDO",
+                "link": "https://www.orizzontescuola.it/concorso-straordinario-per-assistenti-amministrativi-scolastici-in-trentino-domande-entro-il-1-dicembre-bando/",
+                "date": "29 Ott 2025",
+                "time": "13:33",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2456756593.jpg"
             }
         ]
     },
