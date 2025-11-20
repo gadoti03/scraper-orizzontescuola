@@ -2,6 +2,7 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
+            null,
             {
                 "category": "Docenti",
                 "title": "Carta del docente: piattaforma riattivata per i residui 2024/25 e sentenze. 30 minuti per le operazioni",
@@ -9,20 +10,20 @@
                 "date": "19 Nov 2025",
                 "time": "12:04",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Screenshot-2025-11-19-104527.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Conferma insegnante di sostegno su scelta della famiglia: TAR Lazio deciderà il 6 maggio 2026",
-                "link": "https://www.orizzontescuola.it/conferma-insegnante-di-sostegno-su-scelta-della-famiglia-tar-lazio-decidera-il-6-maggio-2026-anief/",
-                "date": "19 Nov 2025",
-                "time": "11:19",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/01/shutterstock_1697441884-scaled.jpg"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Docenti",
+                "title": "Insegnare le competenze di base: cinque nuove guide della Commissione europea",
+                "link": "https://www.orizzontescuola.it/insegnare-le-competenze-di-base-cinque-nuove-guide-della-commissione-europea/",
+                "date": "19 Nov 2025",
+                "time": "20:03",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1874731318-scaled.jpg"
+            },
             {
                 "category": "Pensioni",
                 "title": "Pensioni docenti e ATA 2026, attive le funzioni SIDI “Rilevazione posizione pensionandi”: da completare entro il 9 gennaio. NOTA",
@@ -33,7 +34,7 @@
             },
             {
                 "category": "Politica scolastica",
-                "title": "Legge di Bilancio 2026, i sindacati scuola risorse aggiuntive e stop ai tagli di organico [VIDEO INTERVISTE]",
+                "title": "Legge di Bilancio 2026, i sindacati scuola chiedono risorse aggiuntive e stop ai tagli di organico [VIDEO INTERVISTE]",
                 "link": "https://www.orizzontescuola.it/legge-di-bilancio-2026-i-sindacati-scuola-risorse-aggiuntive-e-stop-ai-tagli-di-organico-video-interviste/",
                 "date": "19 Nov 2025",
                 "time": "18:44",
@@ -135,7 +136,12 @@
                 "date": "19 Nov 2025",
                 "time": "11:48",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/05/shutterstock_432822817.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Stipendio",
                 "title": "Stipendio docenti e ATA, quando arriva la tredicesima 2025 per i supplenti",
@@ -143,12 +149,7 @@
                 "date": "19 Nov 2025",
                 "time": "11:37",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/07/shutterstock_382756228.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Docenti",
                 "title": "Docenti, convegni con diritto all’assenza dal servizio a novembre 2025",
@@ -164,6 +165,14 @@
                 "date": "19 Nov 2025",
                 "time": "11:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_2027011001-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Conferma insegnante di sostegno su scelta della famiglia: TAR Lazio deciderà il 6 maggio 2026",
+                "link": "https://www.orizzontescuola.it/conferma-insegnante-di-sostegno-su-scelta-della-famiglia-tar-lazio-decidera-il-6-maggio-2026-anief/",
+                "date": "19 Nov 2025",
+                "time": "11:19",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/01/shutterstock_1697441884-scaled.jpg"
             },
             {
                 "category": "Diventare Insegnanti",
@@ -269,21 +278,36 @@
                 "date": "19 Nov 2025",
                 "time": "8:11",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_2425860711.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Agenda SUD: tra i costi aggiuntivi del FSE a costi standard sono previsti anche quelli per il trasporto?",
-                "link": "https://www.orizzontescuola.it/agenda-sud-tra-i-costi-aggiuntivi-del-fse-a-costi-standard-sono-previsti-anche-quelli-per-il-trasporto/",
-                "date": "19 Nov 2025",
-                "time": "7:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_2194944619.jpg"
-            },
-            null
+            }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Legge di Bilancio: l’Unione degli Studenti contesta l’emendamento Gelmini sui voucher alle scuole paritarie",
+                "link": "https://www.orizzontescuola.it/legge-di-bilancio-lunione-degli-studenti-contesta-lemendamento-gelmini-sui-voucher-alle-scuole-paritarie/",
+                "date": "19 Nov 2025",
+                "time": "21:02",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Conferma dell’insegnante di sostegno su scelta famiglia: il Tar del Lazio fissa al 6 maggio 2026 l’udienza per la decisione nel merito del ricorso promosso da Anief",
+                "link": "https://www.orizzontescuola.it/conferma-dellinsegnante-di-sostegno-su-scelta-famiglia-il-tar-del-lazio-fissa-al-6-maggio-2026-ludienza-per-la-decisione-nel-merito-del-ricorso-promosso-da-anief/",
+                "date": "19 Nov 2025",
+                "time": "19:20",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Il TAR Lazio condanna il Ministero a risarcire un ricorrente entro 60 giorni. Pacifico (Anief): “diritto stabilito, questo il nostro fine”",
+                "link": "https://www.orizzontescuola.it/il-tar-lazio-condanna-il-ministero-a-risarcire-un-ricorrente-entro-60-giorni-pacifico-anief-diritto-stabilito-questo-il-nostro-fine/",
+                "date": "19 Nov 2025",
+                "time": "19:17",
+                "image_link": "N/A"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Frassinetti respinge le accuse del Collettivo “Non una di meno”: il Ministero rafforza la prevenzione della violenza nelle scuole",
@@ -395,30 +419,6 @@
                 "link": "https://www.orizzontescuola.it/carta-del-docente-riapertura-della-piattaforma-e-istruzioni-per-chi-ha-ottenuto-sentenze-favorevoli-speciale-con-miceli-live-mercoledi-19-novembre-alle-1700/",
                 "date": "19 Nov 2025",
                 "time": "12:23",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Oltre 2 milioni di giovani in meno e il 15,2% di NEET: una generazione a rischio, ma la Lombardia rilancia con progetti e alleanze contro l’esclusione",
-                "link": "https://www.orizzontescuola.it/oltre-2-milioni-di-giovani-in-meno-e-il-152-di-neet-una-generazione-a-rischio-ma-la-lombardia-rilancia-con-progetti-e-alleanze-contro-lesclusione/",
-                "date": "19 Nov 2025",
-                "time": "11:44",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Nessuna categoria",
-                "title": "Madre e figlio di 8 anni trovati morti nel Salento, la scuola: “Che la forza dell’amore e della vicinanza possa dare conforto in questi giorni così difficili”",
-                "link": "https://www.orizzontescuola.it/madre-e-figlio-di-8-anni-trovati-morti-la-scuola-che-la-forza-dellamore-e-della-vicinanza-possa-dare-conforto-in-questi-giorni-cosi-difficili/",
-                "date": "19 Nov 2025",
-                "time": "10:56",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Pensioni",
-                "title": "Pensioni, la Lega propone uscita dal lavoro a 66 anni e 11 mesi: emendamento legge di Bilancio",
-                "link": "https://www.orizzontescuola.it/pensioni-la-lega-propone-uscita-dal-lavoro-a-66-anni-e-11-mesi-emendamento-legge-di-bilancio/",
-                "date": "19 Nov 2025",
-                "time": "10:31",
                 "image_link": "N/A"
             }
         ]
