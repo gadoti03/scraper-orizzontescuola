@@ -17,6 +17,14 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "DSGA",
+                "title": "Stipendi DSGA vs dirigenti scolastici: 51.242 euro contro 100.490 euro annui. ANQUAP: “Non sono i DS a guadagnare troppo, ma i DSGA a guadagnare troppo poco”",
+                "link": "https://www.orizzontescuola.it/stipendi-dsga-vs-ds-51-242-euro-contro-100-490-euro-annui-anquap-non-sono-i-ds-a-guadagnare-troppo-ma-i-dsga-a-guadagnare-troppo-poco/",
+                "date": "20 Nov 2025",
+                "time": "19:18",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_392166814.jpg"
+            },
+            {
                 "category": "Scuole",
                 "title": "Migrazione al cloud PSN: sospesi i principali servizi digitali ANAC dal 21 al 25 novembre",
                 "link": "https://www.orizzontescuola.it/migrazione-al-cloud-psn-sospesi-i-principali-servizi-digitali-anac-dal-21-al-25-novembre/",
@@ -135,7 +143,12 @@
                 "date": "20 Nov 2025",
                 "time": "11:15",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1845495646.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Newsletter Diventare Insegnanti: ricevi le notizie esclusive sulla base dei tuoi interessi. Iscriviti gratuitamente",
@@ -143,12 +156,7 @@
                 "date": "20 Nov 2025",
                 "time": "11:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/La-newsletter-per-Diventare-insegnante.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "Osservatori esterni prove Invalsi 2026: funzioni, requisiti e compensi. Scadenze bandi USR [IN AGGIORNAMENTO]",
@@ -256,20 +264,28 @@
                 "date": "19 Nov 2025",
                 "time": "18:52",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1863569833-scaled.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Legge di Bilancio 2026, i sindacati scuola chiedono risorse aggiuntive e stop ai tagli di organico [VIDEO INTERVISTE]",
-                "link": "https://www.orizzontescuola.it/legge-di-bilancio-2026-i-sindacati-scuola-risorse-aggiuntive-e-stop-ai-tagli-di-organico-video-interviste/",
-                "date": "19 Nov 2025",
-                "time": "18:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_1135501646.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Oggi primo appello del semestre aperto per Medicina: esiti il 3 dicembre. Prove già online",
+                "link": "https://www.orizzontescuola.it/oggi-primo-appello-del-semestre-aperto-per-medicina-esiti-il-3-dicembre-prove-gia-online/",
+                "date": "20 Nov 2025",
+                "time": "21:44",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Personale Ata, il TAR Lazio accoglie la domanda cautelare. Anief: i ricorrenti hanno diritto all’accesso ai rispettivi profili professionali",
+                "link": "https://www.orizzontescuola.it/personale-ata-il-tar-lazio-accoglie-la-domanda-cautelare-anief-i-ricorrenti-hanno-diritto-allaccesso-ai-rispettivi-profili-professionali/",
+                "date": "20 Nov 2025",
+                "time": "20:00",
+                "image_link": "N/A"
+            },
             {
                 "category": "Scuole",
                 "title": "Settima edizione del progetto Me.Mo.: orientamento universitario e mobilità sociale per 600 studenti. Domande entro il 20 gennaio",
@@ -389,22 +405,6 @@
                 "link": "https://www.orizzontescuola.it/il-censimento-permanente-sui-banchi-di-scuola-iscrizione-delle-scuole-entro-il-20-dicembre-2025/",
                 "date": "20 Nov 2025",
                 "time": "9:35",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Legge di Bilancio: l’Unione degli Studenti contesta l’emendamento Gelmini sui voucher alle scuole paritarie",
-                "link": "https://www.orizzontescuola.it/legge-di-bilancio-lunione-degli-studenti-contesta-lemendamento-gelmini-sui-voucher-alle-scuole-paritarie/",
-                "date": "19 Nov 2025",
-                "time": "21:02",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Conferma dell’insegnante di sostegno su scelta famiglia: il Tar del Lazio fissa al 6 maggio 2026 l’udienza per la decisione nel merito del ricorso promosso da Anief",
-                "link": "https://www.orizzontescuola.it/conferma-dellinsegnante-di-sostegno-su-scelta-famiglia-il-tar-del-lazio-fissa-al-6-maggio-2026-ludienza-per-la-decisione-nel-merito-del-ricorso-promosso-da-anief/",
-                "date": "19 Nov 2025",
-                "time": "19:20",
                 "image_link": "N/A"
             }
         ]
