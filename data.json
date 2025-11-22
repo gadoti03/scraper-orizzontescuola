@@ -2,20 +2,117 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
-            null,
             {
                 "category": "Cronaca",
-                "title": "Insegnante di ruolo a 19 anni, Simone è un itp da record: “Con i ragazzi di quinta, quasi coetanei, riesco a relazionarmi facilmente”",
-                "link": "https://www.orizzontescuola.it/insegnante-di-ruolo-a-19-anni-simone-e-un-itp-da-record-con-i-ragazzi-di-quinta-quasi-coetanei-riesco-a-relazionarmi-facilmente/",
-                "date": "21 Nov 2025",
-                "time": "8:38",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Simone-DAgostino-Valle-Seriana-Gazzaniga.jpg"
-            }
+                "title": "“La nostra è una società che sputa sulla figura del maestro nel nome di una uguaglianza che annulla le differenze”. INTERVISTA a Massimo Recalcati",
+                "link": "https://www.orizzontescuola.it/la-nostra-e-una-societa-che-sputa-sulla-figura-del-maestro-nel-nome-di-una-uguaglianza-che-annulla-le-differenze-intervista-a-massimo-recalcati/",
+                "date": "22 Nov 2025",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Recalcati.jpg"
+            },
+            null
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Gratteri: “Ascoltate gli studenti, ma non diventate psicologi. Siete insegnanti. Già il vostro è un lavoro usurante”",
+                "link": "https://www.orizzontescuola.it/gratteri-ascoltate-gli-studenti-ma-non-diventate-psicologi-siete-insegnanti-gia-il-vostro-e-un-lavoro-usurante/",
+                "date": "22 Nov 2025",
+                "time": "13:01",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/shutterstock_1139457020-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "GPS 2026-2028: anche i docenti in anno di prova possono aggiornare la posizione e accettare supplenze. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/gps-2026-2028-anche-i-docenti-in-anno-di-prova-possono-aggiornare-la-posizione-e-accettare-supplenze-pillole-di-question-time/",
+                "date": "22 Nov 2025",
+                "time": "12:45",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/05/shutterstock_2063725133.jpg"
+            },
+            {
+                "category": "Genitori",
+                "title": "Assegno unico universale, 14,7 miliardi erogati nei primi nove mesi del 2025: la metà dei beneficiari nelle fasce ISEE più basse",
+                "link": "https://www.orizzontescuola.it/assegno-unico-universale-147-miliardi-erogati-nei-primi-nove-mesi-del-2025-la-meta-dei-beneficiari-nelle-fasce-isee-piu-basse/",
+                "date": "22 Nov 2025",
+                "time": "11:28",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1151079065-scaled.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Università a due velocità: se a medicina il 41% segue le orme dei genitori, a scienze della formazione il 35% degli studenti viene da famiglie con lalicenza media. I numeri",
+                "link": "https://www.orizzontescuola.it/universita-a-due-velocita-se-a-medicina-il-41-segue-le-orme-dei-genitori-a-scienze-della-formazione-il-35-degli-studenti-viene-da-famiglie-con-lalicenza-media-i-numeri/",
+                "date": "22 Nov 2025",
+                "time": "11:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1937758900.jpg"
+            },
+            {
+                "category": "Didattica",
+                "title": "Simone Cristicchi e “Le poche cose che contano”: un inno alla semplicità che salva. Insegnare con le canzoni",
+                "link": "https://www.orizzontescuola.it/simone-cristicchi-e-le-poche-cose-che-contano-un-inno-alla-semplicita-che-salva-insegnare-con-le-canzoni/",
+                "date": "22 Nov 2025",
+                "time": "10:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2369141601-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti Pnrr3: per infanzia e primaria in Basilicata, Lombardia e Veneto numero di candidati inferiore ai posti",
+                "link": "https://www.orizzontescuola.it/anief-concorso-docenti-pnrr3-il-ministero-pubblica-la-suddivisione-regionale-delle-226-802-domande-piu-facile-il-compito-degli-aspiranti-maestri-di-infanzia-e-primaria-in-basilicata-lomba/",
+                "date": "22 Nov 2025",
+                "time": "10:33",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/struttura-concorso-docenti.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Liceo Scientifico PLUS di Monfalcone: la rivoluzione gentile che può cambiare la scuola italiana",
+                "link": "https://www.orizzontescuola.it/liceo-scientifico-plus-di-monfalcone-la-rivoluzione-gentile-che-puo-cambiare-la-scuola-italiana/",
+                "date": "22 Nov 2025",
+                "time": "9:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Progetto-senza-titolo-4.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3, prova scritta: 2 punti per la risposta esatta, 0 se non data o sbagliata. Conviene rispondere",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-prova-scritta-2-punti-per-la-risposta-esatta-0-se-non-data-o-sbagliata-conviene-rispondere/",
+                "date": "22 Nov 2025",
+                "time": "9:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_374640634.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Allarme rosso tra i banchi: la violenza sessuale sulle studentesse è quasi raddoppiata arrivando al 29,1%, mentre crolla la fiducia nella tutela pubblica",
+                "link": "https://www.orizzontescuola.it/allarme-rosso-tra-i-banchi-la-violenza-sessuale-sulle-studentesse-e-quasi-raddoppiata-arrivando-al-291-mentre-crolla-la-fiducia-nella-tutela-pubblica/",
+                "date": "22 Nov 2025",
+                "time": "9:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/shutterstock_1641363754.jpg"
+            },
+            {
+                "category": "Plus",
+                "title": "Ciclo di 5 webinar. Intelligenza Artificiale per l’amministrazione scolastica: strumenti e strategie per semplificare il lavoro",
+                "link": "https://www.orizzontescuola.it/ciclo-di-5-webinar-intelligenza-artificiale-per-lamministrazione-scolastica-strumenti-e-strategie-per-semplificare-il-lavoro/",
+                "date": "22 Nov 2025",
+                "time": "8:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Insegnare-2.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Il caso della famiglia nel bosco arriva al Governo: Meloni e Nordio valutano l’invio di ispettori",
+                "link": "https://www.orizzontescuola.it/il-caso-della-famiglia-nel-bosco-arriva-al-governo-meloni-e-nordio-valutano-linvio-di-ispettori/",
+                "date": "22 Nov 2025",
+                "time": "8:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/shutterstock_2029620470.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Dimissioni volontarie di docenti e ATA e indennità di preavviso",
+                "link": "https://www.orizzontescuola.it/dimissioni-volontarie-di-docenti-e-ata-e-indennita-di-preavviso/",
+                "date": "22 Nov 2025",
+                "time": "7:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_1831506988.jpg"
+            },
+            null,
             {
                 "category": "Plus",
                 "title": "6 webinar gratuiti per “Gestire la scuola” senza sbagliare, per Dirigenti, collaboratori del DS, DSGA e segreterie: dagli adempimenti, alla gestione delle assenze, dal programma annuale alle nuove regole dello Smart working",
@@ -32,7 +129,12 @@
                 "date": "21 Nov 2025",
                 "time": "20:46",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2471109123-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Politica scolastica",
                 "title": "Stipendi DSGA vs Dirigenti scolastici, Giannelli (ANP) precisa: “100mila euro è irrealistico. La verità è che tutti i lavoratori della scuola sono sottopagati e per questo si deve combattere”",
@@ -129,12 +231,7 @@
                 "date": "21 Nov 2025",
                 "time": "13:28",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_376199902.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze docenti 2025/26: le nomine di novembre da GPS [AGGIORNATO]",
@@ -174,95 +271,108 @@
                 "date": "21 Nov 2025",
                 "time": "11:25",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Concorso-docenti-1.png"
-            },
-            {
-                "category": "ATA",
-                "title": "Posizioni economiche ATA: prova finale. Istruzioni per i candidati. NOTA e VIDEO TUTORIAL",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-prova-finale-istruzioni-per-i-candidati-nota-ministero/",
-                "date": "21 Nov 2025",
-                "time": "11:21",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/shutterstock_144889735.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso PNRR3: le domande per Regione. Tabelle e file PDF da scaricare",
-                "link": "https://www.orizzontescuola.it/concorso-pnrr3-le-domande-per-regione-tabelle-e-file-pdf-da-scaricare/",
-                "date": "21 Nov 2025",
-                "time": "11:19",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/prova-orale-concorso-scuola.png"
-            },
-            null,
-            {
-                "category": "Scuole",
-                "title": "Liceo Made in Italy, 4 seminari per spiegare il percorso. Chi è invitato a partecipare",
-                "link": "https://www.orizzontescuola.it/liceo-made-in-italy-4-seminari-per-spiegare-il-percorso-chi-e-invitato-a-partecipare/",
-                "date": "21 Nov 2025",
-                "time": "10:53",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_450814069.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Violenza sulle donne: l’ha subita il 31,9% tra i 16 e i 75 anni",
-                "link": "https://www.orizzontescuola.it/violenza-sulle-donne-lha-subita-il-319-tra-i-16-e-i-75-anni/",
-                "date": "21 Nov 2025",
-                "time": "10:52",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2543560613.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Posizioni economiche ATA: l’amministrativo passato a tecnico sostiene comunque la prova da assistente amministrativo",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-lamministrativo-passato-a-tecnico-sostiene-comunque-la-prova-da-assistente-amministrativo/",
-                "date": "21 Nov 2025",
-                "time": "9:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_608600555.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "GPS graduatorie 2026: data aggiornamento, nuovo algoritmo, servizio valido, titoli. RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/gps-graduatorie-2026-data-aggiornamento-servizio-valido-titoli-risposte-ai-quesiti/",
-                "date": "21 Nov 2025",
-                "time": "9:39",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_606143765.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Smart working per Dirigenti Scolastici: approfondimento sulle novità contenute nell’ipotesi del nuovo CCNL",
-                "link": "https://www.orizzontescuola.it/smart-working-per-dirigenti-scolastici-approfondimento-sulle-novita-contenute-nellipotesi-del-nuovo-ccnl/",
-                "date": "21 Nov 2025",
-                "time": "8:47",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2310398273.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Hai lavorato durante le ferie? Docente chiede la retribuzione. La preparazione delle lezioni o la correzione dei compiti non valgono. Ecco cosa hanno detto i giudici",
-                "link": "https://www.orizzontescuola.it/hai-lavorato-durante-le-ferie-docente-chiede-la-retribuzione-la-preparazione-delle-lezioni-o-la-correzione-dei-compiti-non-valgono-ecco-cosa-hanno-detto-i-giudici/",
-                "date": "21 Nov 2025",
-                "time": "8:34",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2518506853.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Legge di Bilancio, Barbacci (Cisl Scuola): “Non possiamo accettare che nel testo non ci sia contenuto alcun impegno in prospettiva di investimento e risorsa per l’istruzione”",
-                "link": "https://www.orizzontescuola.it/legge-di-bilancio-barbacci-cisl-scuola-non-possiamo-accettare-che-nel-testo-non-ci-sia-contenuto-alcun-impegno-in-prospettiva-di-investimento-e-risorsa-per-listruzione/",
-                "date": "21 Nov 2025",
-                "time": "8:24",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Screenshot-2025-11-05-alle-21.22.55.png"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Ricciardelli: stato dell’arte e preoccupazioni sulle riforme. INTERVISTA",
-                "link": "https://www.orizzontescuola.it/ricciardelli-stato-dellarte-e-preoccupazioni-sulle-riforme-intervista/",
-                "date": "21 Nov 2025",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/ricciardelli.jpg"
-            },
-            null,
-            null
+            }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Violenza di genere, non basta parlarne: al via nel Lazio il Tavolo Permanente con Unindustria per portare cineforum e masterclass in classe",
+                "link": "https://www.orizzontescuola.it/violenza-di-genere-non-basta-parlarne-al-via-nel-lazioil-tavolo-permanente-con-unindustria-per-portare-cineforum-e-masterclass-in-classe/",
+                "date": "22 Nov 2025",
+                "time": "13:16",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Bambini allontanati da famiglia nel bosco, Osservatorio Minori: “La legge va cambiata”",
+                "link": "https://www.orizzontescuola.it/bambini-allontanati-da-famiglia-nel-bosco-osservatorio-minori-la-legge-va-cambiata/",
+                "date": "22 Nov 2025",
+                "time": "12:01",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Bambino di seconda elementare ruba coltello alla mensa e aggredisce due compagni: bambino fragile, sintomo di stato emotivo",
+                "link": "https://www.orizzontescuola.it/bambino-di-seconda-elementare-ruba-coltello-alla-mensa-e-aggredisce-due-compagni-bambino-fragile-sintomo-di-stato-emotivo/",
+                "date": "22 Nov 2025",
+                "time": "11:58",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Arrestato tiktoker: aveva aggredito un maestro",
+                "link": "https://www.orizzontescuola.it/arrestato-tiktoker-aveva-aggredito-un-maestro/",
+                "date": "22 Nov 2025",
+                "time": "11:55",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "DDL Capitali: educazione finanziaria obbligatoria a scuola con Banca d’Italia, Consob, IVASS e Covip. Centemero (Lega): “Le leggi da sole non bastano senza una cultura diffusa”",
+                "link": "https://www.orizzontescuola.it/ddl-capitali-educazione-finanziaria-obbligatoria-a-scuola-con-banca-ditalia-consob-ivass-e-covip-centemero-lega-le-leggi-da-sole-non-bastano-senza-una-cultura-diffusa/",
+                "date": "22 Nov 2025",
+                "time": "11:22",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Genitori",
+                "title": "Assegni di frequenza e contributi formativi anno scolastico 2024/25: domande dal 28 novembre al 30 dicembre",
+                "link": "https://www.orizzontescuola.it/assegni-di-frequenza-e-contributi-formativi-anno-scolastico-2024-25-domande-dal-28-novembre-al-30-dicembre/",
+                "date": "22 Nov 2025",
+                "time": "10:51",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Anticipazione NASpI: come funziona e cosa considerare",
+                "link": "https://www.orizzontescuola.it/anticipazione-naspi-come-funziona-e-cosa-considerare/",
+                "date": "22 Nov 2025",
+                "time": "10:36",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“Siamo fritti”, docente di scuola superiore chiede agli studenti di scrivere un paragrafo con 5 frasi, esplode il panico. Video virale",
+                "link": "https://www.orizzontescuola.it/siamo-fritti-docente-di-scuola-superiore-chiede-agli-studenti-di-scrivere-un-paragrafo-con-5-frasi-esplode-il-panico-video-virale/",
+                "date": "22 Nov 2025",
+                "time": "10:21",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Patrizio Oliva testimonial nelle scuole, Valditara: “Lo sport insegna rispetto e valori positivi”",
+                "link": "https://www.orizzontescuola.it/patrizio-oliva-testimonial-nelle-scuole-valditara-lo-sport-insegna-rispetto-e-valori-positivi/",
+                "date": "22 Nov 2025",
+                "time": "10:18",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Emilia-Romagna prima in Italia per fondi alle mense scolastiche biologiche",
+                "link": "https://www.orizzontescuola.it/emilia-romagna-prima-in-italia-per-fondi-alle-mense-scolastiche-biologiche/",
+                "date": "22 Nov 2025",
+                "time": "9:21",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "A Panarea maestre a rotazione e tre ore di asilo nido: nessuna delle insegnanti vuole restare nell’isola per trascorrerci l’inverno",
+                "link": "https://www.orizzontescuola.it/a-panarea-maestre-a-rotazione-e-tre-ore-di-asilo-nido-nessuna-delle-insegnanti-vuole-restare-nellisola-per-trascorrerci-linverno/",
+                "date": "22 Nov 2025",
+                "time": "8:43",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Aggressione al vicepreside per scambio di persona: genitore condannato a 1 anno e 8 mesi. Riconosciuta l’aggravante del Pubblico Ufficiale",
+                "link": "https://www.orizzontescuola.it/aggressione-al-vicepreside-per-scambio-di-persona-genitore-condannato-a-1-anno-e-8-mesi-riconosciuta-laggravante-del-pubblico-ufficiale/",
+                "date": "22 Nov 2025",
+                "time": "8:39",
+                "image_link": "N/A"
+            },
             {
                 "category": "Scuole",
                 "title": "Campionati (ex Olimpiadi) delle Scienze Naturali 2026: al via la XXIV edizione. Adesioni entro il 15 febbraio",
@@ -304,107 +414,11 @@
                 "image_link": "N/A"
             },
             {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti Pnrr3, il Ministero pubblica la suddivisione regionale: più facile il compito degli aspiranti maestri di infanzia e primaria, in Basilicata, Lombardia e Veneto i posti sono superiori ai candidati",
-                "link": "https://www.orizzontescuola.it/anief-concorso-docenti-pnrr3-il-ministero-pubblica-la-suddivisione-regionale-delle-226-802-domande-piu-facile-il-compito-degli-aspiranti-maestri-di-infanzia-e-primaria-in-basilicata-lomba/",
-                "date": "21 Nov 2025",
-                "time": "15:39",
-                "image_link": "N/A"
-            },
-            {
                 "category": "Politica scolastica",
                 "title": "Dimensionamento scolastico in Campania: tra numeri reali e polemiche social. La posizione dell’USR",
                 "link": "https://www.orizzontescuola.it/dimensionamento-scolastico-in-campania-tra-numeri-reali-e-polemiche-social-la-posizione-dellusr/",
                 "date": "21 Nov 2025",
                 "time": "15:33",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Proroga bonus voli Sicilia fino a febbraio 2026: confermate le riduzioni per i residenti",
-                "link": "https://www.orizzontescuola.it/proroga-bonus-voli-sicilia-fino-a-febbraio-2026-confermate-le-riduzioni-per-i-residenti/",
-                "date": "21 Nov 2025",
-                "time": "15:30",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Studenti",
-                "title": "Semestre filtro di Medicina, dubbi sulle prove: foto dei test in chat e primi ricorsi di studenti e associazioni",
-                "link": "https://www.orizzontescuola.it/semestre-filtro-di-medicina-dubbi-sulle-prove-foto-dei-test-in-chat-e-primi-ricorsi-di-studenti-e-associazioni/",
-                "date": "21 Nov 2025",
-                "time": "15:01",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Bambini sottratti a famiglia nel bosco, il Tribunale critica l’isolamento educativo: “La mancanza di confronto fra pari in età scolastica può avere effetti significativi sullo sviluppo”",
-                "link": "https://www.orizzontescuola.it/bambini-sottratti-a-famiglia-nel-bosco-il-tribunale-critica-lisolamento-educativo-e-la-mancanza-di-socialita-ma-il-legale-dei-genitori-ribatte-tante-inesattezze/",
-                "date": "21 Nov 2025",
-                "time": "14:26",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Studentessa cade dalla finestra a scuola, ricoverata in ospedale",
-                "link": "https://www.orizzontescuola.it/studentessa-cade-dalla-finestra-a-scuola-ricoverata-in-ospedale/",
-                "date": "21 Nov 2025",
-                "time": "14:20",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "UIL Scuola critica la Legge di Bilancio: “Sistema insufficiente, serve un capitolo di spesa dedicato agli stipendi”",
-                "link": "https://www.orizzontescuola.it/uil-scuola-critica-la-legge-di-bilancio-sistema-insufficiente-serve-un-capitolo-di-spesa-dedicato-agli-stipendi/",
-                "date": "21 Nov 2025",
-                "time": "13:14",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Solo un giovane su tre ignora la TV tradizionale: serie, film e smart TV trainano la nuova fruizione audiovisiva",
-                "link": "https://www.orizzontescuola.it/solo-un-giovane-su-tre-ignora-la-tv-tradizionale-serie-film-e-smart-tv-trainano-la-nuova-fruizione-audiovisiva/",
-                "date": "21 Nov 2025",
-                "time": "13:11",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Violenza sulle donne, le parole di Nordio fanno discutere: “Sedimentazione millenaria nel codice genetico maschile. Superiorità maschile radicata nel subconscio e nel DNA”",
-                "link": "https://www.orizzontescuola.it/violenza-sulle-donne-le-parole-di-nordio-fanno-discutere-sedimentazione-millenaria-nel-codice-genetico-maschile-superiorita-maschile-radicata-nel-subconscio-e-nel-dna/",
-                "date": "21 Nov 2025",
-                "time": "12:54",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Bambini sottratti a famiglia nel bosco, Sasso: “Se fossero stati rom, nessuno avrebbe detto nulla”",
-                "link": "https://www.orizzontescuola.it/bambini-sottratti-a-famiglia-nel-bosco-sasso-se-fossero-stati-rom-nessuno-avrebbe-detto-nulla/",
-                "date": "21 Nov 2025",
-                "time": "12:44",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "Concorsi Guardia di Finanza: reclutamento personale docente nelle commissioni",
-                "link": "https://www.orizzontescuola.it/concorsi-guardia-di-finanza-reclutamento-personale-docente-nelle-commissioni/",
-                "date": "21 Nov 2025",
-                "time": "12:38",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Autobus scolastico bloccato dalla neve in Valle Brembana: quaranta studenti coinvolti, nessun ferito",
-                "link": "https://www.orizzontescuola.it/autobus-scolastico-bloccato-dalla-neve-in-valle-brembana-quaranta-studenti-coinvolti-nessun-ferito/",
-                "date": "21 Nov 2025",
-                "time": "12:07",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Roccella: “Manca il nesso tra educazione sessuo-affettiva nelle scuole e riduzione dei femminicidi”",
-                "link": "https://www.orizzontescuola.it/roccella-manca-il-nesso-tra-educazione-sessuo-affettiva-nelle-scuole-e-riduzione-dei-femminicidi/",
-                "date": "21 Nov 2025",
-                "time": "12:05",
                 "image_link": "N/A"
             }
         ]
@@ -412,6 +426,14 @@
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "GPS graduatorie 2026: data aggiornamento, nuovo algoritmo, servizio valido, titoli. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/gps-graduatorie-2026-data-aggiornamento-servizio-valido-titoli-risposte-ai-quesiti/",
+                "date": "21 Nov 2025",
+                "time": "9:39",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Concorso docenti PNRR3, oltre 220mila domande, prova scritta da fine novembre: le istruzioni operative. QUESTION TIME con Craparo (Gilda) LIVE Venerdì 14 novembre alle 14:30",
@@ -515,14 +537,6 @@
                 "date": "16 Set 2025",
                 "time": "21:56",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Docenti neoassunti da graduatorie dei concorsi PNRR: chi potrà chiedere trasferimento già per il 2026/27",
-                "link": "https://www.orizzontescuola.it/docenti-neoassunti-da-graduatorie-dei-concorsi-pnrr-chi-potra-chiedere-trasferimento-gia-per-il-2026-27/",
-                "date": "16 Set 2025",
-                "time": "13:09",
-                "image_link": "N/A"
             }
         ]
     },
@@ -584,6 +598,14 @@
         "articles": [
             {
                 "category": "ATA",
+                "title": "Posizioni economiche ATA, prova finale a dicembre. Richiesta tempi aggiuntivi e ausili",
+                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-prova-finale-a-dicembre-richiesta-tempi-aggiuntivi-e-ausili/",
+                "date": "17 Nov 2025",
+                "time": "16:34",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_1066344359.jpg"
+            },
+            {
+                "category": "ATA",
                 "title": "Seconda posizione economica ATA dal 2011 riconosciuta solo in parte: il Tribunale condanna il Ministero a pagare 21.600 euro",
                 "link": "https://www.orizzontescuola.it/seconda-posizione-economica-ata-dal-2011-riconosciuta-solo-in-parte-il-tribunale-condanna-il-ministero-a-pagare-21-600-euro/",
                 "date": "15 Nov 2025",
@@ -621,14 +643,6 @@
                 "date": "10 Nov 2025",
                 "time": "10:53",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_1029028150.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Graduatorie ATA 24 mesi: si può accedere alla prima fascia come collaboratore scolastico con servizio misto?",
-                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-si-puo-accedere-alla-prima-fascia-come-collaboratore-scolastico-con-servizio-misto/",
-                "date": "7 Nov 2025",
-                "time": "17:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2198683335.jpg"
             }
         ]
     },
@@ -690,6 +704,22 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Quando la cronaca entra in classe: trasformare un fatto di violenza in crescita, consapevolezza e responsabilità. Lettera",
+                "link": "https://www.orizzontescuola.it/quando-la-cronaca-entra-in-classe-trasformare-un-fatto-di-violenza-in-crescita-consapevolezza-e-responsabilita-lettera/",
+                "date": "22 Nov 2025",
+                "time": "10:27",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
+                "title": "Ornella Vanoni: l’ultimo saluto a una voce eterna e tre canzoni che parlano ancora agli studenti. Lettera",
+                "link": "https://www.orizzontescuola.it/ornella-vanoni-lultimo-saluto-a-una-voce-eterna-e-tre-canzoni-che-parlano-ancora-agli-studenti-lettera/",
+                "date": "22 Nov 2025",
+                "time": "8:19",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "L’affettività si vive, non si insegna. Lettera",
                 "link": "https://www.orizzontescuola.it/laffettivita-si-vive-non-si-insegna-lettera/",
                 "date": "21 Nov 2025",
@@ -718,22 +748,6 @@
                 "link": "https://www.orizzontescuola.it/le-mappe-concettuali-come-strumenti-valutativi-perche-funzionano-e-cosa-rivelano-davvero-lettera/",
                 "date": "16 Nov 2025",
                 "time": "10:11",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Educazione all’affettività: necessario un confronto costruttivo con gli addetti ai lavori e la “mission” di dirigenti e insegnanti. Lettera",
-                "link": "https://www.orizzontescuola.it/educazione-allaffettivita-necessario-un-confronto-costruttivo-con-gli-addetti-ai-lavori-e-la-mission-di-dirigenti-e-insegnanti-lettera/",
-                "date": "15 Nov 2025",
-                "time": "12:24",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Punteggi GPS 2026/28: una seconda laurea affine dovrebbe valere quanto un dottorato di ricerca. Lettera e petizione",
-                "link": "https://www.orizzontescuola.it/punteggi-gps-2026-28-una-seconda-laurea-affine-dovrebbe-valere-quanto-un-dottorato-di-ricerca-lettera-e-petizione/",
-                "date": "14 Nov 2025",
-                "time": "8:39",
                 "image_link": "N/A"
             }
         ]
