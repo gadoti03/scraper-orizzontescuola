@@ -2,27 +2,29 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
+            null,
             {
-                "category": "Scuole",
-                "title": "Sui registri elettronici non si possono pubblicizzare prodotti commerciali con banner o link: la nota del Ministero",
-                "link": "https://www.orizzontescuola.it/sui-registri-elettronici-non-si-possono-pubblicizzare-prodotti-commerciali-con-banner-o-link-la-nota-del-ministero/",
+                "category": "Cronaca",
+                "title": "Insegnante di ruolo a 19 anni, Simone è un itp da record: “Con i ragazzi di quinta, quasi coetanei, riesco a relazionarmi facilmente”",
+                "link": "https://www.orizzontescuola.it/insegnante-di-ruolo-a-19-anni-simone-e-un-itp-da-record-con-i-ragazzi-di-quinta-quasi-coetanei-riesco-a-relazionarmi-facilmente/",
                 "date": "21 Nov 2025",
-                "time": "14:46",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/shutterstock_2169004435.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Prova scritta concorso docenti PNRR3, ecco come si svolge e quando il risultato [LO SPECIALE]",
-                "link": "https://www.orizzontescuola.it/prova-scritta-concorso-docenti-pnrr3-dove-quando-e-come-si-svolgera-lo-speciale/",
-                "date": "21 Nov 2025",
-                "time": "11:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Concorso-docenti-1.png"
+                "time": "8:38",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Simone-DAgostino-Valle-Seriana-Gazzaniga.jpg"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Plus",
+                "title": "6 webinar gratuiti per “Gestire la scuola” senza sbagliare, per Dirigenti, collaboratori del DS, DSGA e segreterie: dagli adempimenti, alla gestione delle assenze, dal programma annuale alle nuove regole dello Smart working",
+                "link": "https://www.orizzontescuola.it/6-webinar-gratuiti-per-gestire-la-scuola-al-meglio-per-dirigenti-collaboratori-del-ds-dsga-e-segreterie-dagli-adempimenti-alla-gestione-delle-assenze-dal-programma-annuale-alle-nuove-regole-d/",
+                "date": "22 Nov 2025",
+                "time": "7:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/6-webinar-gratuiti-per-Gestire-la-scuola-al-meglio.png"
+            },
+            null,
             {
                 "category": "Scuole",
                 "title": "Osservatori esterni prove Invalsi 2026: funzioni, requisiti e compensi. Scadenze bandi USR [IN AGGIORNAMENTO]",
@@ -96,20 +98,20 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/shutterstock_2608174517.jpg"
             },
             {
+                "category": "Scuole",
+                "title": "Sui registri elettronici non si possono pubblicizzare prodotti commerciali con banner o link: la nota del Ministero",
+                "link": "https://www.orizzontescuola.it/sui-registri-elettronici-non-si-possono-pubblicizzare-prodotti-commerciali-con-banner-o-link-la-nota-del-ministero/",
+                "date": "21 Nov 2025",
+                "time": "14:46",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/shutterstock_2169004435.jpg"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Legittima la sanzione per docente che ha realizzato progetto in orario scolastico senza autorizzazione. I giudici: “Uso improprio dell’orario curricolare”",
                 "link": "https://www.orizzontescuola.it/legittima-la-censura-per-docente-che-ha-realizzato-progetto-senza-autorizzazione-i-giudici-confermano-sanzione-disciplinare-per-uso-improprio-dellorario-curricolare/",
                 "date": "21 Nov 2025",
                 "time": "14:40",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/03/giustizia.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Bambini sottratti a famiglia nel bosco, il Tribunale critica l’isolamento educativo: “La mancanza di confronto fra pari in età scolastica può avere effetti significativi sullo sviluppo”",
-                "link": "https://www.orizzontescuola.it/bambini-sottratti-a-famiglia-nel-bosco-il-tribunale-critica-lisolamento-educativo-e-la-mancanza-di-socialita-ma-il-legale-dei-genitori-ribatte-tante-inesattezze/",
-                "date": "21 Nov 2025",
-                "time": "14:26",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/bosco-1200x675.jpeg"
             },
             {
                 "category": "Cronaca",
@@ -127,7 +129,12 @@
                 "date": "21 Nov 2025",
                 "time": "13:28",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_376199902.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze docenti 2025/26: le nomine di novembre da GPS [AGGIORNATO]",
@@ -143,12 +150,7 @@
                 "date": "21 Nov 2025",
                 "time": "12:25",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_344044361.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "ERASMUS: quali compensi possono essere liquidati al personale ATA coinvolto nel progetto?",
@@ -164,6 +166,14 @@
                 "date": "21 Nov 2025",
                 "time": "11:44",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/11/giovani.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Prova scritta concorso docenti PNRR3, ecco come si svolge e quando il risultato [LO SPECIALE]",
+                "link": "https://www.orizzontescuola.it/prova-scritta-concorso-docenti-pnrr3-dove-quando-e-come-si-svolgera-lo-speciale/",
+                "date": "21 Nov 2025",
+                "time": "11:25",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Concorso-docenti-1.png"
             },
             {
                 "category": "ATA",
@@ -198,7 +208,6 @@
                 "time": "10:52",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2543560613.jpg"
             },
-            null,
             {
                 "category": "ATA",
                 "title": "Posizioni economiche ATA: l’amministrativo passato a tecnico sostiene comunque la prova da assistente amministrativo",
@@ -224,14 +233,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2310398273.jpg"
             },
             {
-                "category": "Cronaca",
-                "title": "Insegnante di ruolo a 19 anni, Simone è un itp da record: “Con i ragazzi di quinta, quasi coetanei, riesco a relazionarmi facilmente”",
-                "link": "https://www.orizzontescuola.it/insegnante-di-ruolo-a-19-anni-simone-e-un-itp-da-record-con-i-ragazzi-di-quinta-quasi-coetanei-riesco-a-relazionarmi-facilmente/",
-                "date": "21 Nov 2025",
-                "time": "8:38",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Simone-DAgostino-Valle-Seriana-Gazzaniga.jpg"
-            },
-            {
                 "category": "Docenti",
                 "title": "Hai lavorato durante le ferie? Docente chiede la retribuzione. La preparazione delle lezioni o la correzione dei compiti non valgono. Ecco cosa hanno detto i giudici",
                 "link": "https://www.orizzontescuola.it/hai-lavorato-durante-le-ferie-docente-chiede-la-retribuzione-la-preparazione-delle-lezioni-o-la-correzione-dei-compiti-non-valgono-ecco-cosa-hanno-detto-i-giudici/",
@@ -255,7 +256,6 @@
                 "time": "8:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/ricciardelli.jpg"
             },
-            null,
             null,
             null
         ]
@@ -337,6 +337,14 @@
             },
             {
                 "category": "Cronaca",
+                "title": "Bambini sottratti a famiglia nel bosco, il Tribunale critica l’isolamento educativo: “La mancanza di confronto fra pari in età scolastica può avere effetti significativi sullo sviluppo”",
+                "link": "https://www.orizzontescuola.it/bambini-sottratti-a-famiglia-nel-bosco-il-tribunale-critica-lisolamento-educativo-e-la-mancanza-di-socialita-ma-il-legale-dei-genitori-ribatte-tante-inesattezze/",
+                "date": "21 Nov 2025",
+                "time": "14:26",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
                 "title": "Studentessa cade dalla finestra a scuola, ricoverata in ospedale",
                 "link": "https://www.orizzontescuola.it/studentessa-cade-dalla-finestra-a-scuola-ricoverata-in-ospedale/",
                 "date": "21 Nov 2025",
@@ -397,14 +405,6 @@
                 "link": "https://www.orizzontescuola.it/roccella-manca-il-nesso-tra-educazione-sessuo-affettiva-nelle-scuole-e-riduzione-dei-femminicidi/",
                 "date": "21 Nov 2025",
                 "time": "12:05",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso PNRR3: 226mila domande per 58mila posti, un candidato su quattro verso il ruolo. Dati per regione (con elaborazione Cisl Scuola)",
-                "link": "https://www.orizzontescuola.it/concorso-pnrr3-226mila-domande-per-58mila-posti-un-candidato-su-quattro-verso-il-ruolo-dati-per-regione-con-elaborazione-cisl-scuola/",
-                "date": "21 Nov 2025",
-                "time": "11:56",
                 "image_link": "N/A"
             }
         ]
@@ -584,14 +584,6 @@
         "articles": [
             {
                 "category": "ATA",
-                "title": "Posizioni economiche ATA, prova finale a dicembre. Richiesta tempi aggiuntivi e ausili",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-prova-finale-a-dicembre-richiesta-tempi-aggiuntivi-e-ausili/",
-                "date": "17 Nov 2025",
-                "time": "16:34",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_1066344359.jpg"
-            },
-            {
-                "category": "ATA",
                 "title": "Seconda posizione economica ATA dal 2011 riconosciuta solo in parte: il Tribunale condanna il Ministero a pagare 21.600 euro",
                 "link": "https://www.orizzontescuola.it/seconda-posizione-economica-ata-dal-2011-riconosciuta-solo-in-parte-il-tribunale-condanna-il-ministero-a-pagare-21-600-euro/",
                 "date": "15 Nov 2025",
@@ -629,6 +621,14 @@
                 "date": "10 Nov 2025",
                 "time": "10:53",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_1029028150.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Graduatorie ATA 24 mesi: si può accedere alla prima fascia come collaboratore scolastico con servizio misto?",
+                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-si-puo-accedere-alla-prima-fascia-come-collaboratore-scolastico-con-servizio-misto/",
+                "date": "7 Nov 2025",
+                "time": "17:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2198683335.jpg"
             }
         ]
     },
