@@ -17,6 +17,54 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Diventare Insegnanti",
+                "title": "GPS, eventuale abilitazione 30 CFU conseguita dopo scadenza domanda valida solo per la classe di concorso. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/gps-eventuale-abilitazione-30-cfu-conseguita-dopo-scadenza-domanda-valida-solo-per-la-classe-di-concorso-pillole-di-question-time/",
+                "date": "22 Nov 2025",
+                "time": "17:47",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/09/shutterstock_1507430384.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Antisemitismo in classe e sul web, il dato shock: “Il 75% degli ebrei nasconde i propri simboli”, Delrio presenta DDL per arginare l’odio",
+                "link": "https://www.orizzontescuola.it/antisemitismo-in-classe-e-sul-web-il-dato-shock-il-75-degli-ebrei-nasconde-i-propri-simboli-delrio-presenta-ddl-per-arginare-lodio/",
+                "date": "22 Nov 2025",
+                "time": "16:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Delrio.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Crepet: “A scuola bisogna riscoprire la manualità, basta apprendimento solo nozionistico. Si può fare”",
+                "link": "https://www.orizzontescuola.it/crepet-a-scuola-bisogna-riscoprire-la-manualita-basta-apprendimento-solo-nozionistico-si-puo-fare/",
+                "date": "22 Nov 2025",
+                "time": "16:09",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/Crepet.jpeg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Carta del Docente, sentenze non eseguite: come agire con il ricorso per ottemperanza. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/carta-del-docente-sentenze-non-eseguite-come-agire-con-il-ricorso-per-ottemperanza-pillole-di-question-time/",
+                "date": "22 Nov 2025",
+                "time": "15:23",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/02/shutterstock_140867215-1.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Smartphone vietati in aula: studio conferma miglioramento dei voti. L’esperto: “Uso consapevole del cellulare non dovrebbe superare le due ore al giorno”",
+                "link": "https://www.orizzontescuola.it/smartphone-vietati-in-aula-studio-conferma-miglioramento-dei-voti-lesperto-uso-consapevole-del-cellulare-non-dovrebbe-superare-le-due-ore-al-giorno/",
+                "date": "22 Nov 2025",
+                "time": "14:19",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2543212665.jpg"
+            },
+            {
+                "category": "Genitori",
+                "title": "Pellai: “È pericoloso usare lo smartphone per calmare la noia dei bambini. Così gli impediamo di imparare a gestirla e alimentiamo la dipendenza”",
+                "link": "https://www.orizzontescuola.it/pellai-e-pericoloso-usare-lo-smartphone-per-calmare-la-noia-dei-bambini-cosi-gli-impediamo-di-imparare-a-gestirla-e-alimentiamo-la-dipendenza/",
+                "date": "22 Nov 2025",
+                "time": "13:48",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Screenshot-2025-02-20-alle-17.40.48.png"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Gratteri: “Ascoltate gli studenti, ma non diventate psicologi. Siete insegnanti. Già il vostro è un lavoro usurante”",
                 "link": "https://www.orizzontescuola.it/gratteri-ascoltate-gli-studenti-ma-non-diventate-psicologi-siete-insegnanti-gia-il-vostro-e-un-lavoro-usurante/",
@@ -95,7 +143,12 @@
                 "date": "22 Nov 2025",
                 "time": "8:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Insegnare-2.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Il caso della famiglia nel bosco arriva al Governo: Meloni e Nordio valutano l’invio di ispettori",
@@ -129,12 +182,7 @@
                 "date": "21 Nov 2025",
                 "time": "20:46",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2471109123-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Stipendi DSGA vs Dirigenti scolastici, Giannelli (ANP) precisa: “100mila euro è irrealistico. La verità è che tutti i lavoratori della scuola sono sottopagati e per questo si deve combattere”",
@@ -223,60 +271,36 @@
                 "time": "14:03",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/Zangrillo.jpg"
             },
-            null,
-            {
-                "category": "Docenti",
-                "title": "Carta del Docente, estesa anche ai supplenti con contratti al 30 giugno: è atteso un decreto interministeriale. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/carta-del-docente-estesa-anche-ai-supplenti-con-contratti-al-30-giugno-e-atteso-un-decreto-interministeriale-pillole-di-question-time/",
-                "date": "21 Nov 2025",
-                "time": "13:28",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_376199902.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: le nomine di novembre da GPS [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
-                "date": "21 Nov 2025",
-                "time": "13:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_2377017671.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "GPS 2026, ipotesi aggiornamento in pieno inverno: nessuna data certa ma Ministero dice sì a servizio con riserva. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/gps-2026-ipotesi-aggiornamento-in-pieno-inverno-nessuna-data-certa-ma-ministero-dice-si-a-servizio-con-riserva-pillole-di-question-time/",
-                "date": "21 Nov 2025",
-                "time": "12:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_344044361.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "ERASMUS: quali compensi possono essere liquidati al personale ATA coinvolto nel progetto?",
-                "link": "https://www.orizzontescuola.it/erasmus-quali-compensi-possono-essere-liquidati-al-personale-ata-coinvolto-nel-progetto/",
-                "date": "21 Nov 2025",
-                "time": "11:47",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/04/shutterstock_1886235709.jpg"
-            },
-            {
-                "category": "Pensioni",
-                "title": "Stage equiparati alla laurea: con il riscatto si guadagnano fino a sette anni per la pensione. La proposta di Fratelli d’Italia per la Manovra 2026",
-                "link": "https://www.orizzontescuola.it/stage-equiparati-alla-laurea-con-il-riscatto-si-guadagnano-fino-a-sette-anni-per-la-pensione-la-proposta-di-fratelli-ditalia-per-la-manovra-2026/",
-                "date": "21 Nov 2025",
-                "time": "11:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/11/giovani.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Prova scritta concorso docenti PNRR3, ecco come si svolge e quando il risultato [LO SPECIALE]",
-                "link": "https://www.orizzontescuola.it/prova-scritta-concorso-docenti-pnrr3-dove-quando-e-come-si-svolgera-lo-speciale/",
-                "date": "21 Nov 2025",
-                "time": "11:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Concorso-docenti-1.png"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Mick Jagger torna a scuola: 25 anni del centro a lui intitolato",
+                "link": "https://www.orizzontescuola.it/mick-jagger-torna-a-scuola-25-anni-del-centro-a-lui-intitolato/",
+                "date": "22 Nov 2025",
+                "time": "16:00",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "A Malta estensione dell’accesso gratuito alle palestre per la fascia 16-21 anni contro la sedentarietà",
+                "link": "https://www.orizzontescuola.it/a-malta-estensione-dellaccesso-gratuito-alle-palestre-per-la-fascia-16-21-anni-contro-la-sedentarieta/",
+                "date": "22 Nov 2025",
+                "time": "15:45",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Arrestato tiktoker “re dei Maranza”: aveva aggredito un maestro. Sasso: “Chi tocca un docente tocca lo Stato”",
+                "link": "https://www.orizzontescuola.it/arrestato-tiktoker-aveva-aggredito-un-maestro/",
+                "date": "22 Nov 2025",
+                "time": "15:25",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Violenza di genere, non basta parlarne: al via nel Lazio il Tavolo Permanente con Unindustria per portare cineforum e masterclass in classe",
@@ -299,14 +323,6 @@
                 "link": "https://www.orizzontescuola.it/bambino-di-seconda-elementare-ruba-coltello-alla-mensa-e-aggredisce-due-compagni-bambino-fragile-sintomo-di-stato-emotivo/",
                 "date": "22 Nov 2025",
                 "time": "11:58",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Arrestato tiktoker: aveva aggredito un maestro",
-                "link": "https://www.orizzontescuola.it/arrestato-tiktoker-aveva-aggredito-un-maestro/",
-                "date": "22 Nov 2025",
-                "time": "11:55",
                 "image_link": "N/A"
             },
             {
@@ -404,28 +420,20 @@
                 "date": "21 Nov 2025",
                 "time": "16:59",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Vecchioni e il superamento del voto punitivo: “Non penalizzare chi ha difficoltà, la scuola deve essere comunità”",
-                "link": "https://www.orizzontescuola.it/vecchioni-e-il-superamento-del-voto-punitivo-non-penalizzare-chi-ha-difficolta-la-scuola-deve-essere-comunita/",
-                "date": "21 Nov 2025",
-                "time": "16:32",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Dimensionamento scolastico in Campania: tra numeri reali e polemiche social. La posizione dell’USR",
-                "link": "https://www.orizzontescuola.it/dimensionamento-scolastico-in-campania-tra-numeri-reali-e-polemiche-social-la-posizione-dellusr/",
-                "date": "21 Nov 2025",
-                "time": "15:33",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "GPS 2026, ipotesi aggiornamento in pieno inverno: nessuna data certa ma Ministero dice sì a servizio con riserva. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/gps-2026-ipotesi-aggiornamento-in-pieno-inverno-nessuna-data-certa-ma-ministero-dice-si-a-servizio-con-riserva-pillole-di-question-time/",
+                "date": "21 Nov 2025",
+                "time": "12:25",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "GPS graduatorie 2026: data aggiornamento, nuovo algoritmo, servizio valido, titoli. RISPOSTE AI QUESITI",
@@ -529,20 +537,28 @@
                 "date": "20 Set 2025",
                 "time": "11:55",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Supplenze 2025 da GPS a docenti di ruolo: solo posti interi",
-                "link": "https://www.orizzontescuola.it/supplenze-2025-da-gps-a-docenti-di-ruolo-solo-posti-interi/",
-                "date": "16 Set 2025",
-                "time": "21:56",
-                "image_link": "N/A"
             }
         ]
     },
     "group_6": {
         "title": "Diventare Insegnanti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3: correzione prova scritta è automatica e anonima, solo dopo si inserisce codice fiscale. Nota Ministero",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-correzione-prova-scritta-e-automatica-e-anonima-solo-dopo-si-inserisce-codice-fiscale-nota-ministero/",
+                "date": "20 Nov 2025",
+                "time": "11:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1845495646.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Newsletter Diventare Insegnanti: ricevi le notizie esclusive sulla base dei tuoi interessi. Iscriviti gratuitamente",
+                "link": "https://www.orizzontescuola.it/newsletter-diventare-insegnanti-ricevi-le-notizie-esclusive-sulla-base-dei-tuoi-interessi-iscriviti-gratuitamente/",
+                "date": "20 Nov 2025",
+                "time": "11:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/La-newsletter-per-Diventare-insegnante.png"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR3, Ministero pubblica programma per A024 Albanese. 4 i posti in Sicilia",
@@ -574,28 +590,20 @@
                 "date": "19 Nov 2025",
                 "time": "11:09",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_1954985032.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025, interpelli anche per primaria posto Montessori. I requisiti",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-interpelli-anche-per-primaria-posto-montessori-i-requisiti/",
-                "date": "19 Nov 2025",
-                "time": "10:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/10/Immagine-promobox-infanzia-1.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR3: prova scritta unica. Cosa significa. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-prova-scritta-unica-cosa-significa-pillole-di-question-time/",
-                "date": "18 Nov 2025",
-                "time": "10:56",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/concorso-insegnanti-religione.png"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
+            {
+                "category": "ATA",
+                "title": "Graduatorie ATA 24 mesi: è possibile sommare il servizio da collaboratore scolastico e da operatore dei servizi agrari?",
+                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-e-possibile-sommare-il-servizio-da-collaboratore-scolastico-e-da-operatore-dei-servizi-agrari/",
+                "date": "17 Nov 2025",
+                "time": "18:03",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
+            },
             {
                 "category": "ATA",
                 "title": "Posizioni economiche ATA, prova finale a dicembre. Richiesta tempi aggiuntivi e ausili",
@@ -635,14 +643,6 @@
                 "date": "12 Nov 2025",
                 "time": "10:54",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2198390061.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Operatore scolastico in graduatoria terza fascia ATA, servizio OSS in cooperativa non è valutabile",
-                "link": "https://www.orizzontescuola.it/operatore-scolastico-in-graduatoria-terza-fascia-ata-servizio-oss-in-cooperativa-non-e-valutabile/",
-                "date": "10 Nov 2025",
-                "time": "10:53",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_1029028150.jpg"
             }
         ]
     },
