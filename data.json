@@ -17,6 +17,62 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "ChatGPT formerà i docenti, “AI in Schools” introdurrà la versione Edu per sviluppare la “alfabetizzazione all’IA” tra insegnanti e studenti” nelle scuole greche",
+                "link": "https://www.orizzontescuola.it/chatgpt-formera-i-docenti-ai-in-schools-introdurra-chatgpt-edu-per-sviluppare-alfabetizzazione-allia-tra-insegnanti-e-studenti-nelle-scuole-grec/",
+                "date": "23 Nov 2025",
+                "time": "19:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/shutterstock_2672751943.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Non è scuola e non è casa: addio al “Terzo Spazio”, il luogo in cui essere se stessi negato a 2 ragazzi su 3. Lancini: “Corpi sequestrati dalla paura”",
+                "link": "https://www.orizzontescuola.it/non-e-scuola-e-non-e-casa-addio-al-terzo-spazio-il-luogo-in-cui-essere-se-stessi-negato-a-2-ragazzi-su-3-lancini-corpi-sequestrati-dalla-paura/",
+                "date": "23 Nov 2025",
+                "time": "18:07",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_530469862.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "GPS 2026, aggiornamento entro i primi mesi del nuovo anno: titoli, preferenze e non solo. Cosa può cambiare. QUESTION TIME con Craparo (Gilda) LIVE Lunedì 24 novembre alle 15:00",
+                "link": "https://www.orizzontescuola.it/gps-2026-aggiornamento-entro-i-primi-mesi-del-nuovo-anno-titoli-preferenze-e-non-solo-cosa-puo-cambiare-question-time-con-craparo-gilda-live-lunedi-24-novembre-alle-1500/",
+                "date": "23 Nov 2025",
+                "time": "17:53",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Template_questiontime_1920x1080-9.png"
+            },
+            {
+                "category": "Docenti",
+                "title": "Il cervello impara meglio quando è sereno e prova piacere nel capire",
+                "link": "https://www.orizzontescuola.it/il-cervello-impara-meglio-quando-e-sereno-e-prova-piacere-nel-capire/",
+                "date": "23 Nov 2025",
+                "time": "17:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/shutterstock_2500336479.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Trasporto scolastico, deve rispettare i CAM (Criteri Ambientali Minimi) o è tutto da rifare: l’Anac annulla la gara quadriennale a Bari",
+                "link": "https://www.orizzontescuola.it/trasporto-scolastico-deve-rispettare-i-cam-criteri-ambientali-minimi-o-e-tutto-da-rifare-lanac-annulla-la-gara-quadriennale-a-bari/",
+                "date": "23 Nov 2025",
+                "time": "17:05",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_153645101-scaled.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Violenza contro il personale scolastico, ANCODIS: “Un anno e 8 mesi ad un genitore, sentenza esemplare, ma non basta”. Le 3 proposte dell’Associazione",
+                "link": "https://www.orizzontescuola.it/violenza-contro-il-personale-scolastico-ancodis-un-anno-e-8-mesi-ad-un-genitore-sentenza-esemplare-ma-non-basta-le-3-proposte-dellassociazione/",
+                "date": "23 Nov 2025",
+                "time": "16:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/03/giustizia.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Posizioni economiche ATA: previste le prove suppletive per le candidate in gravidanza o allattamento",
+                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-previste-le-prove-suppletive-per-le-candidate-in-gravidanza-o-allattamento/",
+                "date": "23 Nov 2025",
+                "time": "15:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2459519923.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Assunzioni docenti: confermata la ripartizione 50% da GAE e 50% da graduatorie di merito. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/assunzioni-docenti-confermata-la-ripartizione-50-da-gae-e-50-da-graduatorie-di-merito-pillole-di-question-time/",
@@ -87,7 +143,12 @@
                 "date": "23 Nov 2025",
                 "time": "8:36",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/Crepet.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Famiglia nel bosco, l’avvocato: “Nessun pericolo per i bambini”. La Lega, raccolta firme per far tornare i figli ai genitori",
@@ -136,12 +197,7 @@
                 "date": "22 Nov 2025",
                 "time": "16:09",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/Crepet.jpeg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Docenti",
                 "title": "Carta del Docente, sentenze non eseguite: come agire con il ricorso per ottemperanza. Pillole di Question Time",
@@ -229,54 +285,29 @@
                 "date": "22 Nov 2025",
                 "time": "9:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_374640634.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Allarme rosso tra i banchi: la violenza sessuale sulle studentesse è quasi raddoppiata arrivando al 29,1%, mentre crolla la fiducia nella tutela pubblica",
-                "link": "https://www.orizzontescuola.it/allarme-rosso-tra-i-banchi-la-violenza-sessuale-sulle-studentesse-e-quasi-raddoppiata-arrivando-al-291-mentre-crolla-la-fiducia-nella-tutela-pubblica/",
-                "date": "22 Nov 2025",
-                "time": "9:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/shutterstock_1641363754.jpg"
-            },
-            {
-                "category": "Plus",
-                "title": "Ciclo di 5 webinar. Intelligenza Artificiale per l’amministrazione scolastica: strumenti e strategie per semplificare il lavoro",
-                "link": "https://www.orizzontescuola.it/ciclo-di-5-webinar-intelligenza-artificiale-per-lamministrazione-scolastica-strumenti-e-strategie-per-semplificare-il-lavoro/",
-                "date": "22 Nov 2025",
-                "time": "8:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Insegnare-2.png"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Il caso della famiglia nel bosco arriva al Governo: Meloni e Nordio valutano l’invio di ispettori",
-                "link": "https://www.orizzontescuola.it/il-caso-della-famiglia-nel-bosco-arriva-al-governo-meloni-e-nordio-valutano-linvio-di-ispettori/",
-                "date": "22 Nov 2025",
-                "time": "8:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/shutterstock_2029620470.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Dimissioni volontarie di docenti e ATA e indennità di preavviso",
-                "link": "https://www.orizzontescuola.it/dimissioni-volontarie-di-docenti-e-ata-e-indennita-di-preavviso/",
-                "date": "22 Nov 2025",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_1831506988.jpg"
-            },
-            null,
-            {
-                "category": "Plus",
-                "title": "6 webinar gratuiti per “Gestire la scuola” senza sbagliare, per Dirigenti, collaboratori del DS, DSGA e segreterie: dagli adempimenti, alla gestione delle assenze, dal programma annuale alle nuove regole dello Smart working",
-                "link": "https://www.orizzontescuola.it/6-webinar-gratuiti-per-gestire-la-scuola-al-meglio-per-dirigenti-collaboratori-del-ds-dsga-e-segreterie-dagli-adempimenti-alla-gestione-delle-assenze-dal-programma-annuale-alle-nuove-regole-d/",
-                "date": "22 Nov 2025",
-                "time": "7:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/6-webinar-gratuiti-per-Gestire-la-scuola-al-meglio.png"
-            },
-            null
+            }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Burnout tra il personale scolastico riconosciuto da un Osservatorio ministeriale e trattenuta Enam negli stipendi di maestri d’infanzia e primaria, Anief spera nel sì definitivo della VII Commissione del Senato",
+                "link": "https://www.orizzontescuola.it/burnout-tra-il-personale-scolastico-riconosciuto-da-un-osservatorio-ministeriale-e-trattenuta-enam-negli-stipendi-di-maestri-dinfanzia-e-primaria-anief-spera-nel-si-definitivo-della-vii-comm/",
+                "date": "23 Nov 2025",
+                "time": "18:32",
+                "image_link": "N/A"
+            },
+            null,
+            {
+                "category": "Cronaca",
+                "title": "Terrore senza fine in Nigeria: assalto alla scuola St. Mary, rapiti 303 alunni e 12 insegnanti. La ricostruzione e le reazioni politiche",
+                "link": "https://www.orizzontescuola.it/terrore-senza-fine-in-nigeria-assalto-alla-scuola-st-mary-rapiti-303-alunni-e-12-insegnanti-la-ricostruzione-e-le-reazioni-politiche/",
+                "date": "23 Nov 2025",
+                "time": "15:00",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "40 anni di ANGSA (Genitori persone con Autismo): il messaggio di Mattarella e le richieste al Governo per centralizzare la ricerca e superare la frammentazione regionale",
@@ -395,30 +426,6 @@
                 "link": "https://www.orizzontescuola.it/a-panarea-maestre-a-rotazione-e-tre-ore-di-asilo-nido-nessuna-delle-insegnanti-vuole-restare-nellisola-per-trascorrerci-linverno/",
                 "date": "22 Nov 2025",
                 "time": "8:43",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Aggressione al vicepreside per scambio di persona: genitore condannato a 1 anno e 8 mesi. Riconosciuta l’aggravante del Pubblico Ufficiale",
-                "link": "https://www.orizzontescuola.it/aggressione-al-vicepreside-per-scambio-di-persona-genitore-condannato-a-1-anno-e-8-mesi-riconosciuta-laggravante-del-pubblico-ufficiale/",
-                "date": "22 Nov 2025",
-                "time": "8:39",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Campionati (ex Olimpiadi) delle Scienze Naturali 2026: al via la XXIV edizione. Adesioni entro il 15 febbraio",
-                "link": "https://www.orizzontescuola.it/campionati-ex-olimpiadi-delle-scienze-naturali-2026-al-via-la-xxiv-edizione-adesioni-entro-il-15-febbraio/",
-                "date": "21 Nov 2025",
-                "time": "20:31",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Sciopero scuola il 28 novembre. Avviso Ministero",
-                "link": "https://www.orizzontescuola.it/sciopero-scuola-il-28-novembre-avviso-ministero/",
-                "date": "21 Nov 2025",
-                "time": "19:17",
                 "image_link": "N/A"
             }
         ]
@@ -598,6 +605,14 @@
         "articles": [
             {
                 "category": "ATA",
+                "title": "Concorso scuola PNRR3: domanda ATA per candidarsi come segretario nelle commissioni",
+                "link": "https://www.orizzontescuola.it/concorso-scuola-pnrr3-domanda-ata-per-candidarsi-come-segretario-nelle-commissioni/",
+                "date": "19 Nov 2025",
+                "time": "10:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_1066344359.jpg"
+            },
+            {
+                "category": "ATA",
                 "title": "Posizioni economiche ATA: dove svolge la prova il personale in assegnazione provvisoria o che ha ottenuto trasferimento",
                 "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-dove-svolge-la-prova-il-personale-in-assegnazione-provvisoria-o-che-ha-ottenuto-trasferimento/",
                 "date": "18 Nov 2025",
@@ -635,14 +650,6 @@
                 "date": "14 Nov 2025",
                 "time": "9:11",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_1645535227.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Posizioni economiche ATA: prova finale dal 15 al 19 dicembre. Avviso CALENDARIO",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-prova-finale-dal-15-al-19-dicembre-avviso-calendario/",
-                "date": "12 Nov 2025",
-                "time": "18:28",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Posizioni-economiche-ATA.png"
             }
         ]
     },
