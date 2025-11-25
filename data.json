@@ -18,6 +18,14 @@
         "articles": [
             {
                 "category": "Cronaca",
+                "title": "Scuole chiuse a Livorno, maltempo in Toscana",
+                "link": "https://www.orizzontescuola.it/scuole-chiuse-a-livorno-maltempo-in-toscana/",
+                "date": "25 Nov 2025",
+                "time": "6:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/shutterstock_2497040929.jpg"
+            },
+            {
+                "category": "Cronaca",
                 "title": "Allerta meteo martedì 25 novembre, scuole chiuse a Napoli e altri comuni in Campania. ELENCO IN AGGIORNAMENTO",
                 "link": "https://www.orizzontescuola.it/allerta-meteo-martedi-25-novembre-scuole-chiuse-in-diversi-comuni-della-campania-elenco-in-aggiornamento/",
                 "date": "24 Nov 2025",
@@ -121,7 +129,12 @@
                 "date": "24 Nov 2025",
                 "time": "11:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/Galimberti.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Sportello operativo PNRR e PN 21-27 di supporto alle istituzioni scolastiche. I documenti in arrivo pronti all’uso",
@@ -129,12 +142,7 @@
                 "date": "24 Nov 2025",
                 "time": "11:08",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Elezioni-organi-collegiali-1-1.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "Percorsi 4+2 istruzione tecnica o professionale 2026/27: candidature entro il 10 dicembre 2025. Va allegato quadro orario. Nota Ministero con la procedura",
@@ -270,14 +278,6 @@
                 "date": "23 Nov 2025",
                 "time": "16:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/03/giustizia.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Posizioni economiche ATA: previste le prove suppletive per le candidate in gravidanza o allattamento",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-previste-le-prove-suppletive-per-le-candidate-in-gravidanza-o-allattamento/",
-                "date": "23 Nov 2025",
-                "time": "15:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2459519923.jpg"
             }
         ]
     },
