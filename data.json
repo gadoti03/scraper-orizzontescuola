@@ -24,6 +24,14 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "“Bullismo e discriminazione hanno influito sul rendimento”, per il TAR la bocciatura va rivista e reintegra lo studente",
+                "link": "https://www.orizzontescuola.it/bullismo-e-discriminazione-hanno-influito-sul-rendimento-per-il-tar-la-bocciatura-va-rivista-e-reintegra-lo-studente/",
+                "date": "25 Nov 2025",
+                "time": "20:12",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/shutterstock_633750290.jpg"
+            },
+            {
                 "category": "Scuole",
                 "title": "Orientamento iscrizioni. Open Day, come organizzarlo? Partecipazione dei docenti è volontaria, cambia la vita quotidiana della scuola?",
                 "link": "https://www.orizzontescuola.it/orientamento-iscrizioni-open-day-come-organizzarlo-partecipazione-dei-docenti-e-volontaria-cambia-la-vita-quotidiana-della-scuola/",
@@ -142,7 +150,12 @@
                 "date": "25 Nov 2025",
                 "time": "11:28",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/OrizzonteScuola7.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Carta docente, non mancano le proteste: in alcuni casi accesso negato nonostante ci sia un residuo 2024/25",
@@ -150,12 +163,7 @@
                 "date": "25 Nov 2025",
                 "time": "11:15",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/08/Carta-del-docente-2-240x160.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Elenchi regionali per il ruolo docenti dal 2026/27: si attende il decreto. Chi può iscriversi, quando saranno utilizzati. Con risposte dei sindacalisti",
@@ -256,20 +264,20 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
             },
             null,
-            null,
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorsi docenti PNRR3, quando la prova orale? Già a dicembre estrazione lettera",
-                "link": "https://www.orizzontescuola.it/concorsi-docenti-pnrr3-quando-la-prova-orale-gia-a-dicembre-estrazione-lettera/",
-                "date": "24 Nov 2025",
-                "time": "15:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_695632537.jpg"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Scuole",
+                "title": "Concorso nazionale “Il Giorno del Ricordo”: elaborati entro il 15 gennaio (digitale entro il 20)",
+                "link": "https://www.orizzontescuola.it/concorso-nazionale-il-giorno-del-ricordo-elaborati-entro-il-15-gennaio-digitale-entro-il-20/",
+                "date": "25 Nov 2025",
+                "time": "20:34",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Intelligenza Artificiale nella PA: al via un’indagine rivolta a tutto il personale pubblico. Scadenza 11 dicembre",
@@ -390,14 +398,6 @@
                 "link": "https://www.orizzontescuola.it/mobilita-intercompartimentale-del-personale-scolastico-ce-lemendamento-alla-legge-di-bilancio-2026/",
                 "date": "25 Nov 2025",
                 "time": "8:39",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Licei accorpati, gli studenti non ci stanno e occupano gli edifici",
-                "link": "https://www.orizzontescuola.it/licei-accorpati-gli-studenti-non-ci-stanno-e-occupano-gli-edifici/",
-                "date": "25 Nov 2025",
-                "time": "8:20",
                 "image_link": "N/A"
             }
         ]
@@ -683,6 +683,22 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Libertà, relazione e crescita autentica, anche tra i boschi. Lettera",
+                "link": "https://www.orizzontescuola.it/liberta-relazione-e-crescita-autentica-anche-tra-i-boschi-lettera/",
+                "date": "25 Nov 2025",
+                "time": "20:26",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
+                "title": "Educare il maschile per fermare la violenza: una responsabilità collettiva. Lettera",
+                "link": "https://www.orizzontescuola.it/educare-il-maschile-per-fermare-la-violenza-una-responsabilita-collettiva-lettera/",
+                "date": "25 Nov 2025",
+                "time": "20:21",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "25 novembre: come educare alla non violenza. Lettera",
                 "link": "https://www.orizzontescuola.it/25-novembre-come-educare-alla-non-violenza-lettera/",
                 "date": "25 Nov 2025",
@@ -711,22 +727,6 @@
                 "link": "https://www.orizzontescuola.it/ornella-vanoni-lultimo-saluto-a-una-voce-eterna-e-tre-canzoni-che-parlano-ancora-agli-studenti-lettera/",
                 "date": "22 Nov 2025",
                 "time": "8:19",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "L’affettività si vive, non si insegna. Lettera",
-                "link": "https://www.orizzontescuola.it/laffettivita-si-vive-non-si-insegna-lettera/",
-                "date": "21 Nov 2025",
-                "time": "15:41",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Maturità: addio alla creatività? Lettera",
-                "link": "https://www.orizzontescuola.it/maturita-addio-alla-creativita-lettera/",
-                "date": "18 Nov 2025",
-                "time": "11:07",
                 "image_link": "N/A"
             }
         ]
