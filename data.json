@@ -2,6 +2,7 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
+            null,
             {
                 "category": "Cronaca",
                 "title": "L’Intelligenza Artificiale indebolirà le nostre facoltà cognitive? Quali effetti sulla scuola, sulla memoria e sul pensiero critico? INTERVISTA alla Professoressa Chiara Panciroli",
@@ -9,20 +10,13 @@
                 "date": "13 Dic 2025",
                 "time": "8:02",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/chiara_paciotti.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Aggiornamento graduatorie GPS 2026, le novità dell’algoritmo e più diritti per i supplenti. Scarica la BOZZA in PDF",
-                "link": "https://www.orizzontescuola.it/aggiornamento-graduatorie-gps-le-novita-dellalgoritmo-e-piu-diritti-per-i-supplenti-scarica-la-bozza-in-pdf/",
-                "date": "12 Dic 2025",
-                "time": "21:16",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2090710285.jpg"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "Servizio civile nazionale: valido per la riserva del 15% nelle GPS anche se non recente. Pillole di Question Time",
@@ -135,7 +129,12 @@
                 "date": "13 Dic 2025",
                 "time": "18:55",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2518506853.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Didattica",
                 "title": "E.T. l’extraterrestre: l’incontro con il diverso e la capacità umana di accogliere il prossimo. Insegnare con i film",
@@ -143,12 +142,7 @@
                 "date": "13 Dic 2025",
                 "time": "18:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/ET-img.jpeg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "“Il natale vale solo per chi può permetterselo, per chi ha un posto a tempo indeterminato, non per noi precari”",
@@ -279,19 +273,11 @@
             },
             {
                 "category": "Diventare Insegnanti",
-                "title": "Docenti in anno di prova potranno aggiornare GPS per altra classe di concorso. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/docenti-in-anno-di-prova-potranno-aggiornare-gps-per-altra-classe-di-concorso-pillole-di-question-time/",
+                "title": "Aggiornamento graduatorie GPS 2026, le novità dell’algoritmo e più diritti per i supplenti. Scarica la BOZZA in PDF",
+                "link": "https://www.orizzontescuola.it/aggiornamento-graduatorie-gps-le-novita-dellalgoritmo-e-piu-diritti-per-i-supplenti-scarica-la-bozza-in-pdf/",
                 "date": "12 Dic 2025",
-                "time": "21:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2471109109-scaled.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Whistleblowing, nuove Linee guida ANAC su canali interni e segnalazioni esterne",
-                "link": "https://www.orizzontescuola.it/whistleblowing-nuove-linee-guida-anac-su-canali-interni-e-segnalazioni-esterne/",
-                "date": "12 Dic 2025",
-                "time": "19:58",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_117139291.jpg"
+                "time": "21:16",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2090710285.jpg"
             }
         ]
     },
@@ -628,14 +614,6 @@
             },
             {
                 "category": "Gestire la scuola",
-                "title": "DM 88: 2 modelli documentali a completamento della procedura di individuazione dei docenti accompagnatori. ALTRI DOCUMENTI IN ARRIVO",
-                "link": "https://www.orizzontescuola.it/dm-88-2-modelli-documentali-a-completamento-della-procedura-di-individuazione-dei-docenti-accompagnatori-altri-documenti-in-arrivo/",
-                "date": "11 Dic 2025",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_2194944619.jpg"
-            },
-            {
-                "category": "Gestire la scuola",
                 "title": "Bando tutor e orientatore, circolare e modelli frazioni orarie, documenti sull’IA da pubblicare sul sito web della scuola. I documenti di oggi",
                 "link": "https://www.orizzontescuola.it/bando-tutor-e-orientatore-circolare-e-modelli-frazioni-orarie-documenti-sullia-da-pubblicare-sul-sito-web-della-scuola-i-documenti-di-oggi/",
                 "date": "10 Dic 2025",
@@ -657,6 +635,14 @@
                 "date": "2 Dic 2025",
                 "time": "11:44",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/shutterstock_1530295208.jpg"
+            },
+            {
+                "category": "Gestire la scuola",
+                "title": "Azienda esclusa da una gara per mensa scolastica e disciplina dell’accesso agli atti",
+                "link": "https://www.orizzontescuola.it/azienda-esclusa-da-una-gara-per-mensa-scolastica-e-disciplina-dellaccesso-agli-atti/",
+                "date": "2 Dic 2025",
+                "time": "7:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/shutterstock_2088649390.jpg"
             }
         ]
     },
