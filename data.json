@@ -2,6 +2,7 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
+            null,
             {
                 "category": "Cronaca",
                 "title": "“I licei quadriennali sono positivi per gli studenti, non è vero quel che dice Eduscopio”. INTERVISTA a Roberto Pasolini",
@@ -9,8 +10,7 @@
                 "date": "15 Dic 2025",
                 "time": "8:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/Immagine-WhatsApp-2024-06-11-ore-09.17.44_c9d8a26f.jpg"
-            },
-            null
+            }
         ]
     },
     "group_2": {
@@ -215,6 +215,7 @@
             },
             null,
             null,
+            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "Servizio civile nazionale: valido per la riserva del 15% nelle GPS anche se non recente. Pillole di Question Time",
@@ -270,14 +271,6 @@
                 "date": "14 Dic 2025",
                 "time": "14:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1998014303.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Elenchi regionali per il ruolo docenti sono riservati a chi ha superato un concorso dal 2020. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/elenchi-regionali-per-il-ruolo-docenti-sono-riservati-a-chi-ha-superato-un-concorso-dal-2020-pillole-di-question-time/",
-                "date": "14 Dic 2025",
-                "time": "13:41",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_163768811.jpg"
             }
         ]
     },
@@ -552,6 +545,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Docenti inseriti sia in GaE che GPS: attenzione alla scelta della provincia!",
+                "link": "https://www.orizzontescuola.it/docenti-inseriti-sia-in-gae-che-gps-attenzione-alla-scelta-della-provincia/",
+                "date": "13 Dic 2025",
+                "time": "13:04",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/04/shutterstock_2033916281.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "GPS docenti 2026, certificazioni informatiche. CSPI: non penalizzare chi ha titoli non Accredia non ancora inseriti",
                 "link": "https://www.orizzontescuola.it/gps-docenti-2026-certificazioni-informatiche-cspi-non-penalizzare-chi-ha-titoli-non-accredia-non-ancora-inseriti/",
                 "date": "13 Dic 2025",
@@ -589,14 +590,6 @@
                 "date": "12 Dic 2025",
                 "time": "17:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_2033557271.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Neoassunti 2025/26, il ruolo del docente tutor accogliente",
-                "link": "https://www.orizzontescuola.it/neoassunti-2025-26-il-ruolo-del-docente-tutor-accogliente/",
-                "date": "12 Dic 2025",
-                "time": "13:53",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2310310031-scaled.jpg"
             }
         ]
     },
