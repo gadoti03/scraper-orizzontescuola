@@ -18,6 +18,30 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Concorsi docenti 2026, cosa ci aspetta: le anticipazioni. Lalla vi spiegherà tutto",
+                "link": "https://www.orizzontescuola.it/concorsi-docenti-2026-cosa-ci-aspetta-le-anticipazioni-lalla-vi-spieghera-tutto/",
+                "date": "15 Dic 2025",
+                "time": "21:18",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/Oggi-e-la-giornata-dellInfanzia-1-2.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Aggiornamento GPS e mobilità docenti 2026: possibile la sovrapposizione delle due procedure? Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/aggiornamento-gps-e-mobilita-docenti-2026-possibile-la-sovrapposizione-delle-due-procedure-pillole-di-question-time/",
+                "date": "15 Dic 2025",
+                "time": "20:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1799044252.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Abuso di relazione educativa: la Cassazione respinge la tesi difensiva dell’istruttore. Il vincolo di fiducia con i minori non dipende da luogo e orario delle condotte",
+                "link": "https://www.orizzontescuola.it/abuso-di-relazione-educativa-la-cassazione-respinge-la-tesi-difensiva-dellistruttore-il-vincolo-di-fiducia-con-i-minori-non-dipende-da-luogo-e-orario-delle-condotte/",
+                "date": "15 Dic 2025",
+                "time": "19:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/03/giustizia.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Elenchi regionali per il ruolo dal 2026/27: ammessi solo candidati dei concorsi ordinari. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/elenchi-regionali-per-il-ruolo-dal-2026-27-ammessi-solo-candidati-dei-concorsi-ordinari-pillole-di-question-time/",
                 "date": "15 Dic 2025",
@@ -119,7 +143,12 @@
                 "date": "15 Dic 2025",
                 "time": "9:47",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_117139291.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Permessi retribuiti a scuola: un diritto contrattuale conquistato, fondato sulla contropartita e garantito dall’autocertificazione",
@@ -143,12 +172,7 @@
                 "date": "15 Dic 2025",
                 "time": "9:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2556788731-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "La magia del Natale che illumina il Plesso “Giovanni Gentile” dell’I.C. “Sebastiano Bagolino” di Alcamo (TP): un racconto di luce, educazione e meraviglia nel cuore dell’infanzia",
@@ -254,36 +278,52 @@
                 "date": "14 Dic 2025",
                 "time": "13:41",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_163768811.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti, dal 2026 l’algoritmo sarà aggiornato con un nuovo criterio",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-dal-2026-lalgoritmo-sara-aggiornato-con-un-nuovo-criterio/",
-                "date": "14 Dic 2025",
-                "time": "12:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_409299112-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Metodi differenziati e punteggio GPS: verifiche sugli attestati non autorizzati. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/metodi-differenziati-e-punteggio-gps-verifiche-sugli-attestati-non-autorizzati-pillole-di-question-time/",
-                "date": "14 Dic 2025",
-                "time": "11:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_37679005-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Aggiornamento GPS 2026, finalmente più tutele per i docenti ma mancano ancora chiarimenti sui titoli",
-                "link": "https://www.orizzontescuola.it/aggiornamento-gps-2026-finalmente-piu-tutele-per-i-docenti-ma-mancano-ancora-chiarimenti-sui-titoli/",
-                "date": "14 Dic 2025",
-                "time": "9:31",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_341870168-scaled.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "TFS Sostegno Indire, Pittoni (Lega): “Giusto ridurre i sacrifici dei docenti”",
+                "link": "https://www.orizzontescuola.it/tfs-sostegno-indire-pittoni-lega-giusto-ridurre-i-sacrifici-dei-docenti/",
+                "date": "15 Dic 2025",
+                "time": "21:43",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Austria, scatta il divieto del velo a scuola per le under 14: tra “tutela” e polemiche",
+                "link": "https://www.orizzontescuola.it/austria-scatta-il-divieto-del-velo-a-scuola-per-le-under-14-tra-tutela-e-polemiche/",
+                "date": "15 Dic 2025",
+                "time": "20:20",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Concorso Ministero della Cultura per 577 bibliotecari, archivisti, architetti e archeologi: domande entro il 14 gennaio",
+                "link": "https://www.orizzontescuola.it/concorso-ministero-della-cultura-per-577-bibliotecari-archivisti-architetti-e-archeologi-domande-entro-il-14-gennaio/",
+                "date": "15 Dic 2025",
+                "time": "20:17",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "Edilizia scolastica, proroga dei lavori e della rendicontazione finale al 30 settembre 2027: pubblicato il decreto in Gazzetta Ufficiale",
+                "link": "https://www.orizzontescuola.it/edilizia-scolastica-proroga-dei-lavori-e-della-rendicontazione-finale-al-30-settembre-2027-pubblicato-il-decreto-in-gazzetta-ufficiale/",
+                "date": "15 Dic 2025",
+                "time": "19:49",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Assunzioni docenti, domani il sindacato Anief al Ministero per informativa sul nuovo Decreto sulle graduatorie regionali dei candidati risultati idonei ai concorsi",
+                "link": "https://www.orizzontescuola.it/assunzioni-docenti-domani-il-sindacato-anief-al-ministero-per-informativa-sul-nuovo-decreto-sulle-graduatorie-regionali-dei-candidati-risultati-idonei-ai-concorsi/",
+                "date": "15 Dic 2025",
+                "time": "19:42",
+                "image_link": "N/A"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Valditara: “La scuola deve formare allo spirito critico senza condizionamenti”. Il Ministero avvia accertamenti sul caso Albanese e le irregolarità procedurali",
@@ -386,39 +426,6 @@
                 "link": "https://www.orizzontescuola.it/borse-di-studio-its-2025-domande-dal-27-gennaio-al-24-febbraio-contributi-da-4-000-euro-per-studenti-fuori-sede-bando/",
                 "date": "15 Dic 2025",
                 "time": "16:57",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Settimana Nazionale dell’Astronomia 2026 (27 aprile – 2 maggio): concorsi, campionati e attività per le scuole. NOTA",
-                "link": "https://www.orizzontescuola.it/settimana-nazionale-dellastronomia-2026-27-aprile-2-maggio-concorsi-campionati-e-attivita-per-le-scuole-nota/",
-                "date": "15 Dic 2025",
-                "time": "16:47",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Proposta Aidif su affidamento minori: modificare articolo 337-ter per privilegiare i parenti e limitare il ricorso alle case famiglia nei casi di separazione conflittuale",
-                "link": "https://www.orizzontescuola.it/proposta-aidif-su-affidamento-minori-modificare-articolo-337-ter-per-privilegiare-i-parenti-e-limitare-il-ricorso-alle-case-famiglia-nei-casi-di-separazione-conflittuale/",
-                "date": "15 Dic 2025",
-                "time": "16:27",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "INDIRE festeggia 100 anni con una serata-evento all’Auditorium di Roma",
-                "link": "https://www.orizzontescuola.it/indire-festeggia-100-anni-con-una-serata-evento-allauditorium-di-roma/",
-                "date": "15 Dic 2025",
-                "time": "16:15",
-                "image_link": "N/A"
-            },
-            null,
-            {
-                "category": "Diventare Insegnanti",
-                "title": "TFA sostegno INDIRE, verso la prova finale del 20 dicembre. Ecco le città sede d’esame",
-                "link": "https://www.orizzontescuola.it/tfa-sostegno-indire-verso-la-prova-finale-del-20-dicembre-ecco-le-citta-sede-desame/",
-                "date": "15 Dic 2025",
-                "time": "15:32",
                 "image_link": "N/A"
             }
         ]
@@ -545,6 +552,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "GPS docenti 2026, certificazioni informatiche. CSPI: non penalizzare chi ha titoli non Accredia non ancora inseriti",
+                "link": "https://www.orizzontescuola.it/gps-docenti-2026-certificazioni-informatiche-cspi-non-penalizzare-chi-ha-titoli-non-accredia-non-ancora-inseriti/",
+                "date": "13 Dic 2025",
+                "time": "9:35",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1799044252.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Aggiornamento graduatorie GPS 2026, le novità dell’algoritmo e più diritti per i supplenti. Scarica la BOZZA in PDF",
                 "link": "https://www.orizzontescuola.it/aggiornamento-graduatorie-gps-le-novita-dellalgoritmo-e-piu-diritti-per-i-supplenti-scarica-la-bozza-in-pdf/",
                 "date": "12 Dic 2025",
@@ -582,20 +597,20 @@
                 "date": "12 Dic 2025",
                 "time": "13:53",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2310310031-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2025/26: le nomine di dicembre da GPS [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
-                "date": "12 Dic 2025",
-                "time": "13:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_2377017671.jpg"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
+            {
+                "category": "Gestire la scuola",
+                "title": "Documenti preliminari e di avvio del procedimento amministrativo: in allegato i documenti della sezione 1",
+                "link": "https://www.orizzontescuola.it/documenti-preliminari-e-di-avvio-del-procedimento-amministrativo-in-allegato-i-documenti-della-sezione-1/",
+                "date": "12 Dic 2025",
+                "time": "7:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/09/shutterstock_546289486.jpg"
+            },
             {
                 "category": "Gestire la scuola",
                 "title": "30 ore per l’orientamento: indicazioni operative per l’avvio delle attività 2025/2026 e per il ruolo dei docenti tutor e orientatori",
@@ -635,14 +650,6 @@
                 "date": "2 Dic 2025",
                 "time": "11:44",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/shutterstock_1530295208.jpg"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "Azienda esclusa da una gara per mensa scolastica e disciplina dell’accesso agli atti",
-                "link": "https://www.orizzontescuola.it/azienda-esclusa-da-una-gara-per-mensa-scolastica-e-disciplina-dellaccesso-agli-atti/",
-                "date": "2 Dic 2025",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/shutterstock_2088649390.jpg"
             }
         ]
     },
