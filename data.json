@@ -16,6 +16,7 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
             {
                 "category": "Scuole",
                 "title": "“What’s Next”: il nuovo servizio su Unica per l’orientamento verso la scuola secondaria. NOTA",
@@ -135,7 +136,12 @@
                 "date": "16 Dic 2025",
                 "time": "10:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_1388691593.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "La relazione insegnante-studente come fondamento del successo scolastico: il legame educativo costruisce motivazione e autostima negli alunni. Lo ricorda l’INVALSI",
@@ -143,12 +149,7 @@
                 "date": "16 Dic 2025",
                 "time": "10:44",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_1136492420.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             null,
             {
                 "category": "Genitori",
@@ -238,6 +239,7 @@
                 "time": "8:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/Oggi-e-la-giornata-dellInfanzia-3-1.png"
             },
+            null,
             {
                 "category": "Gestire la scuola",
                 "title": "Protocollo per la Prevenzione e la Gestione dei Comportamenti Oppositivi. Scarica il documento",
@@ -248,23 +250,7 @@
             },
             null,
             null,
-            null,
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Aggiornamento GPS e mobilità docenti 2026: possibile la sovrapposizione delle due procedure? Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/aggiornamento-gps-e-mobilita-docenti-2026-possibile-la-sovrapposizione-delle-due-procedure-pillole-di-question-time/",
-                "date": "15 Dic 2025",
-                "time": "20:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1799044252.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Abuso di relazione educativa: la Cassazione respinge la tesi difensiva dell’istruttore. Il vincolo di fiducia con i minori non dipende da luogo e orario delle condotte",
-                "link": "https://www.orizzontescuola.it/abuso-di-relazione-educativa-la-cassazione-respinge-la-tesi-difensiva-dellistruttore-il-vincolo-di-fiducia-con-i-minori-non-dipende-da-luogo-e-orario-delle-condotte/",
-                "date": "15 Dic 2025",
-                "time": "19:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/03/giustizia.jpg"
-            }
+            null
         ]
     },
     "group_4": {
@@ -531,6 +517,22 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Servizio civile nazionale: valido per la riserva del 15% nelle GPS anche se non recente. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/servizio-civile-nazionale-valido-per-la-riserva-del-15-nelle-gps-anche-se-non-recente-pillole-di-question-time/",
+                "date": "14 Dic 2025",
+                "time": "21:54",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2471325395.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Docenti neoassunti: incontri introduttivi e conclusivi per 6 ore, di cui 3 da INDIRE",
+                "link": "https://www.orizzontescuola.it/docenti-neoassunti-incontri-introduttivi-e-conclusivi-per-6-ore-di-cui-3-da-indire/",
+                "date": "14 Dic 2025",
+                "time": "17:47",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/Amazon-Business-Q2_IT_EDU_Orizzontescuola-iStock-1411478329-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Chi ha avuto almeno 70 alla prova scritta del concorso PNRR3 ma non rientra tra gli ammessi all’orale, non avrà punteggio per le GPS. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/chi-ha-avuto-almeno-70-alla-prova-scritta-del-concorso-pnrr3-ma-non-rientra-tra-gli-ammessi-allorale-non-avra-punteggio-per-le-gps-pillole-di-question-time/",
                 "date": "14 Dic 2025",
@@ -560,36 +562,12 @@
                 "date": "14 Dic 2025",
                 "time": "11:40",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_37679005-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Aggiornamento GPS 2026, finalmente più tutele per i docenti ma mancano ancora chiarimenti sui titoli",
-                "link": "https://www.orizzontescuola.it/aggiornamento-gps-2026-finalmente-piu-tutele-per-i-docenti-ma-mancano-ancora-chiarimenti-sui-titoli/",
-                "date": "14 Dic 2025",
-                "time": "9:31",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_341870168-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Elenchi regionali per il ruolo: sono molto attesi dagli idonei dei concorsi scuola, ma potrà essere necessario cambiare regione. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/elenchi-regionali-per-il-ruolo-sono-molto-attesi-dagli-idonei-dei-concorsi-scuola-ma-potra-essere-necessario-cambiare-regione-pillole-di-question-time/",
-                "date": "13 Dic 2025",
-                "time": "18:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2518506853.jpg"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
-            {
-                "category": "ATA",
-                "title": "Graduatorie ATA 24 mesi: aggiornamento atteso nella primavera 2026. Tra i requisiti la CIAD",
-                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-aggiornamento-atteso-nella-primavera-2026-tra-i-requisiti-la-ciad/",
-                "date": "12 Dic 2025",
-                "time": "10:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2198390061.jpg"
-            },
             {
                 "category": "Gestire la scuola",
                 "title": "Documenti preliminari e di avvio del procedimento amministrativo: in allegato i documenti della sezione 1",
@@ -629,6 +607,14 @@
                 "date": "3 Dic 2025",
                 "time": "19:24",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_1645535227.jpg"
+            },
+            {
+                "category": "Gestire la scuola",
+                "title": "Nuove disposizioni ANAC e MIM sui viaggi di istruzione e le Indicazioni operative: scarica bozza adattabile di delibera di CdI",
+                "link": "https://www.orizzontescuola.it/nuove-disposizioni-anac-e-mim-sui-viaggi-di-istruzione-e-le-indicazioni-operative-scarica-bozza-adattabile-di-delibera-di-cdi/",
+                "date": "2 Dic 2025",
+                "time": "11:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/shutterstock_1530295208.jpg"
             }
         ]
     },
