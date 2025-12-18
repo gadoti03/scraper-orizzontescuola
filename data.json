@@ -24,6 +24,22 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Scuole",
+                "title": "Iscrizioni scuola 2026-2027, ecco la nota del Ministero con tutte le info per famiglie e scuole. Domande dal 13 gennaio al 14 febbraio 2026",
+                "link": "https://www.orizzontescuola.it/iscrizioni-scuola-2026-20267-ecco-la-nota-del-ministero-con-tutte-le-info-per-famiglie-e-scuole-domande-dal-13-gennaio-al-14-febbraio/",
+                "date": "17 Dic 2025",
+                "time": "21:27",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/10/Ministero.jpg"
+            },
+            {
+                "category": "Genitori",
+                "title": "Istruzione parentale, nuove linee guida: esami annuali obbligatori fino all’obbligo formativo. Cosa devono sapere le famiglie che scelgono di educare i figli a casa",
+                "link": "https://www.orizzontescuola.it/istruzione-parentale-nuove-linee-guida-esami-annuali-obbligatori-fino-allobbligo-formativo-cosa-devono-sapere-le-famiglie-che-scelgono-di-educare-i-figli-a-casa/",
+                "date": "17 Dic 2025",
+                "time": "19:56",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/01/shutterstock_1736466005.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Docenti neoassunti 2025/26 devono partecipare ai laboratori formativi (12 ore)",
                 "link": "https://www.orizzontescuola.it/docenti-neoassunti-2025-26-devono-partecipare-ai-laboratori-formativi-12-ore/",
@@ -39,23 +55,7 @@
                 "time": "18:53",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_152523980.jpg"
             },
-            {
-                "category": "Politica scolastica",
-                "title": "Sostegno e corsi INDIRE, informativa al Ministero: le novità su criteri e requisiti. SPECIALE con Cozzetto (Anief) alle 19:30",
-                "link": "https://www.orizzontescuola.it/sostegno-e-corsi-indire-informativa-al-ministero-le-novita-su-criteri-e-requisiti-speciale-con-cozzetto-anief/",
-                "date": "17 Dic 2025",
-                "time": "18:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/Template_dentroilpalazzo_1920x1080-2.png"
-            },
             null,
-            {
-                "category": "Scuole",
-                "title": "Iscrizioni scuola 2026/2027 dal 13 gennaio al 14 febbraio 2026. In arrivo la circolare ministeriale con tutte le indicazioni",
-                "link": "https://www.orizzontescuola.it/iscrizioni-scolastiche-2026-2027-dal-13-gennaio-al-14-febbraio/",
-                "date": "17 Dic 2025",
-                "time": "17:37",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/10/Ministero.jpg"
-            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR3: ecco dove si svolge prova orale. Voto minimo in corso di pubblicazione [LO SPECIALE]",
@@ -97,6 +97,14 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/Ministero-Istruzione.jpeg"
             },
             {
+                "category": "Genitori",
+                "title": "La cura dei nonni riduce lo stress dei genitori ma può influenzare la salute dei bambini: lo studio su 11.000 famiglie in Germania",
+                "link": "https://www.orizzontescuola.it/la-cura-dei-nonni-riduce-lo-stress-dei-genitori-ma-puo-influenzare-la-salute-dei-bambini-lo-studio-su-11-000-famiglie-in-germania/",
+                "date": "17 Dic 2025",
+                "time": "15:28",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/Nonni.jpg"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Indennità di frequenza negata a minore con DSA: il Tribunale chiarisce che servono difficoltà persistenti oltre la certificazione scolastica. La sentenza che fa chiarezza",
                 "link": "https://www.orizzontescuola.it/indennita-di-frequenza-negata-a-minore-con-dsa-il-tribunale-chiarisce-che-servono-difficolta-persistenti-oltre-la-certificazione-scolastica-la-sentenza-che-fa-chiarezza/",
@@ -135,7 +143,12 @@
                 "date": "17 Dic 2025",
                 "time": "13:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Docenti",
                 "title": "Docenti Tutor coordinatori di tirocinio percorsi abilitanti: 4.398 il 2025/26. Previsto esonero o semiesonero dal servizio",
@@ -143,12 +156,7 @@
                 "date": "17 Dic 2025",
                 "time": "12:02",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_388588465.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR3: voto minimo a gennaio 2026, prove orali in primavera, graduatorie a giugno? La timeline possibile",
@@ -284,14 +292,6 @@
                 "date": "17 Dic 2025",
                 "time": "8:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/shutterstock_1374403706.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Intelligenza Artificiale: in Danimarca la usa il 48.8% della popolazione, in Italia il 19,9%. I dati",
-                "link": "https://www.orizzontescuola.it/intelligenza-artificiale-in-danimarca-la-usa-il-48-8-della-popolazione-in-italia-il-199-i-dati/",
-                "date": "17 Dic 2025",
-                "time": "8:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2530425735.jpg"
             }
         ]
     },
@@ -300,10 +300,26 @@
         "articles": [
             {
                 "category": "Cronaca",
+                "title": "Bando INPS, 13mila borse di studio da 2.000 euro per studenti universitari e post lauream: domande dal 29 gennaio",
+                "link": "https://www.orizzontescuola.it/bando-inps-13mila-borse-di-studio-da-2-000-euro-per-studenti-universitari-e-post-lauream-domande-dal-29-gennaio/",
+                "date": "17 Dic 2025",
+                "time": "19:24",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
                 "title": "G7 Privacy: nel Piano 2026 fiducia, cooperazione e attenzione ai minori",
                 "link": "https://www.orizzontescuola.it/g7-privacy-nel-piano-2026-fiducia-cooperazione-e-attenzione-ai-minori/",
                 "date": "17 Dic 2025",
                 "time": "18:58",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Sostegno e corsi INDIRE, informativa al Ministero: le novità su criteri e requisiti. SPECIALE con Cozzetto (Anief)",
+                "link": "https://www.orizzontescuola.it/sostegno-e-corsi-indire-informativa-al-ministero-le-novita-su-criteri-e-requisiti-speciale-con-cozzetto-anief/",
+                "date": "17 Dic 2025",
+                "time": "18:20",
                 "image_link": "N/A"
             },
             {
@@ -320,6 +336,14 @@
                 "link": "https://www.orizzontescuola.it/dimensionamento-scolastico-sardegna-il-100-delle-autonomie-scolastiche-salvate-la-giunta-rifiuta-i-tagli-imposti-dallo-stato/",
                 "date": "17 Dic 2025",
                 "time": "17:46",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "Iscrizioni scuola 2026/2027 dal 13 gennaio al 14 febbraio 2026. In arrivo la circolare ministeriale con tutte le indicazioni",
+                "link": "https://www.orizzontescuola.it/iscrizioni-scolastiche-2026-2027-dal-13-gennaio-al-14-febbraio/",
+                "date": "17 Dic 2025",
+                "time": "17:37",
                 "image_link": "N/A"
             },
             null,
@@ -409,30 +433,6 @@
                 "link": "https://www.orizzontescuola.it/piccolotti-avs-valditara-usa-dati-invalsi-in-modo-truffaldino-su-classi-numerose-vuole-tagliare-scuola-pubblica-per-favorire-privati/",
                 "date": "17 Dic 2025",
                 "time": "11:22",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Papa Leone XIV: “Presepe continui a far parte del Natale. Elemento importante di fede, cultura e arte cristiana ricorda Gesù venuto ad abitare in mezzo a noi”",
-                "link": "https://www.orizzontescuola.it/papa-leone-xiv-presepe-continui-a-far-parte-del-natale-elemento-importante-di-fede-cultura-e-arte-cristiana-ricorda-gesu-venuto-ad-abitare-in-mezzo-a-noi/",
-                "date": "17 Dic 2025",
-                "time": "11:15",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Semestre filtro Medicina, Bernini: “Studenti non perderanno anno, predisposti correttivi. Nessun ritorno a test selettivi, riforma cammina con studenti”",
-                "link": "https://www.orizzontescuola.it/semestre-filtro-medicina-bernini-studenti-non-perderanno-anno-predisposti-correttivi-nessun-ritorno-a-test-selettivi-riforma-cammina-con-studenti/",
-                "date": "17 Dic 2025",
-                "time": "11:10",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Manovra, Anief: “il Governo sbaglia ad accanirsi contro chi va in pensione e ha riscattato la laurea. Piuttosto che agevolare una formazione superiore penalizza per fare cassa”",
-                "link": "https://www.orizzontescuola.it/manovra-anief-il-governo-sbaglia-ad-accanirsi-contro-chi-va-in-pensione-e-ha-riscattato-la-laurea-piuttosto-che-agevolare-una-formazione-superiore-penalizza-per-fare-cassa/",
-                "date": "17 Dic 2025",
-                "time": "9:09",
                 "image_link": "N/A"
             }
         ]
@@ -611,6 +611,14 @@
         "title": "Notizie ATA",
         "articles": [
             {
+                "category": "ATA",
+                "title": "Organici ATA, riduzione dal 2026/27 di oltre 2mila posti: pubblicato DECRETO e TABELLE",
+                "link": "https://www.orizzontescuola.it/organici-ata-riduzione-dal-2026-27-di-oltre-2mila-posti-pubblicato-decreto-e-tabelle/",
+                "date": "12 Dic 2025",
+                "time": "16:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1223398957.jpg"
+            },
+            {
                 "category": "Gestire la scuola",
                 "title": "Ricostruzione di carriera:  una guida, scadenze e responsabilità del Dirigente",
                 "link": "https://www.orizzontescuola.it/ricostruzione-di-carriera-una-guida-scadenze-e-responsabilita-del-dirigente/",
@@ -649,14 +657,6 @@
                 "date": "11 Dic 2025",
                 "time": "16:40",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2251238405.jpg"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "La gestione dei procedimenti amministrativi nella segreteria scolastica: principi, responsabilità e strumenti operativi",
-                "link": "https://www.orizzontescuola.it/la-gestione-dei-procedimenti-amministrativi-nella-segreteria-scolastica-principi-responsabilita-e-strumenti-operativi/",
-                "date": "11 Dic 2025",
-                "time": "11:38",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_2194944619.jpg"
             }
         ]
     },
