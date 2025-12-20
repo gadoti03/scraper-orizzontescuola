@@ -2,6 +2,7 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
+            null,
             {
                 "category": "ATA",
                 "title": "Fascicolo digitale docenti e ATA, attiva la piattaforma MIM. Ecco quali dati contiene, completa entro giugno 2026",
@@ -9,20 +10,13 @@
                 "date": "19 Dic 2025",
                 "time": "13:29",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2346433463-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR3: voti minimi infanzia e primaria per accedere alla prova orale. AVVISI USR",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-voti-minimi-per-laccesso-alla-prova-orale-avvisi-usr/",
-                "date": "19 Dic 2025",
-                "time": "10:14",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1936676008-scaled.jpg"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "Docenti neoassunti 2025/26: aperto da oggi l’ambiente online Indire",
@@ -142,7 +136,12 @@
                 "date": "19 Dic 2025",
                 "time": "12:13",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Politica scolastica",
                 "title": "Iscrizioni scuole paritarie, voucher fino a 1.500 euro per le famiglie con Isee sotto i 30mila euro, via libera all’emendamento",
@@ -150,12 +149,7 @@
                 "date": "19 Dic 2025",
                 "time": "11:39",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_755034019.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Voto minimo per accesso prove orali concorso docenti PNRR3: potrebbe ancora cambiare?",
@@ -187,6 +181,14 @@
                 "date": "19 Dic 2025",
                 "time": "10:16",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_322543976.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3: voti minimi infanzia e primaria per accedere alla prova orale. AVVISI USR",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-voti-minimi-per-laccesso-alla-prova-orale-avvisi-usr/",
+                "date": "19 Dic 2025",
+                "time": "10:14",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1936676008-scaled.jpg"
             },
             {
                 "category": "Scuole",
@@ -269,16 +271,7 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_2194944619.jpg"
             },
             null,
-            null,
-            null,
-            {
-                "category": "Genitori",
-                "title": "Iscrizioni scuola 2026/27: tutte le info su Unica, materiali e FAQ. Domande dal 13 gennaio al 14 febbraio",
-                "link": "https://www.orizzontescuola.it/iscrizioni-scuola-2026-27-tutte-le-info-su-unica-materiali-e-faq-domande-dal-13-gennaio-al-14-febbraio/",
-                "date": "18 Dic 2025",
-                "time": "20:03",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/Screenshot-2025-12-18-194623.png"
-            }
+            null
         ]
     },
     "group_4": {
@@ -552,6 +545,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Secondo ciclo INDIRE sostegno al via, per 60.000 docenti con tre anni di servizio e specializzati estero. Nuovi REQUISITI DI ACCESSO",
+                "link": "https://www.orizzontescuola.it/secondo-ciclo-indire-sostegno-al-via-per-60-000-docenti-con-tre-anni-di-servizio-e-specializzati-estero-nuovi-requisiti-di-accesso/",
+                "date": "17 Dic 2025",
+                "time": "18:12",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/shutterstock_346619372.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR3: ecco dove si svolge prova orale. Voto minimo in corso di pubblicazione [LO SPECIALE]",
                 "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-la-prova-orale-chi-partecipa-come-si-svolge-almeno-70-100-per-superarla-lo-speciale/",
                 "date": "17 Dic 2025",
@@ -589,14 +590,6 @@
                 "date": "17 Dic 2025",
                 "time": "10:27",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/03/shutterstock_144343453.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti 2025/26: non ci sono agevolazioni specifiche per gli idonei dei concorsi PNRR. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-2025-26-non-ci-sono-agevolazioni-specifiche-per-gli-idonei-dei-concorsi-pnrr-pillole-di-question-time/",
-                "date": "17 Dic 2025",
-                "time": "9:49",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_1049423483.jpg"
             }
         ]
     },
