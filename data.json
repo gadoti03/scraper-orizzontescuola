@@ -18,6 +18,55 @@
         "articles": [
             {
                 "category": "Cronaca",
+                "title": "Fratelli in estinzione, cani in salotto: come cambia l’idea di famiglia",
+                "link": "https://www.orizzontescuola.it/fratelli-in-estinzione-cani-in-salotto-come-cambia-lidea-di-famiglia/",
+                "date": "21 Dic 2025",
+                "time": "12:19",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/shutterstock_321934829.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Famiglia nel bosco, la Corte d’Appello: “La bambina non sa leggere e scrivere”. Dubbi sui certificati scolastici",
+                "link": "https://www.orizzontescuola.it/famiglia-nel-bosco-la-corte-dappello-la-bambina-non-sa-leggere-e-scrivere-dubbi-sui-certificati-scolastici/",
+                "date": "21 Dic 2025",
+                "time": "11:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/shutterstock_2617633937.jpg"
+            },
+            {
+                "category": "Genitori",
+                "title": "Iscrizioni scuola dell’infanzia 2026/27: cartacee dal 13 gennaio al 14 febbraio. Chi può essere iscritto, cosa sapere",
+                "link": "https://www.orizzontescuola.it/iscrizioni-scuola-dellinfanzia-2026-27-cartacee-dal-13-gennaio-al-14-febbraio-chi-puo-essere-iscritto-cosa-sapere/",
+                "date": "21 Dic 2025",
+                "time": "9:36",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/09/shutterstock_1930109909.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Secondo ciclo sostegno Indire/Università: chi partecipa, quando partono i corsi, il titolo ottenuto [LO SPECIALE]",
+                "link": "https://www.orizzontescuola.it/secondo-ciclo-sostegno-indire-chi-partecipa-quando-partono-i-corsi-il-titolo-ottenuto-lo-speciale/",
+                "date": "21 Dic 2025",
+                "time": "9:26",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/07/original_1011923098-1200x829.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Cristian, 20 anni e già insegnante di ruolo: “Voglio aiutare i ragazzi come me a crescere umanamente. Mi sono accorto che a scuola manca l’empatia”",
+                "link": "https://www.orizzontescuola.it/cristian-20-anni-e-gia-insegnante-di-ruolo-voglio-aiutare-i-ragazzi-come-me-a-crescere-umanamente-mi-sono-accorto-che-la-scuola-manca-di-empatia/",
+                "date": "21 Dic 2025",
+                "time": "8:36",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/Progetto-senza-titolo-6.png"
+            },
+            {
+                "category": "Scuole",
+                "title": "Requisiti etici per l’utilizzo dell’Intelligenza Artificiale: un quadro di governance responsabile per il contesto educativo e pubblico",
+                "link": "https://www.orizzontescuola.it/requisiti-etici-per-lutilizzo-dellintelligenza-artificiale-un-quadro-di-governance-responsabile-per-il-contesto-educativo-e-pubblico/",
+                "date": "21 Dic 2025",
+                "time": "8:22",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2291264267.jpg"
+            },
+            null,
+            {
+                "category": "Cronaca",
                 "title": "Spintoni tra alunni durante l’uscita dall’aula: il Tribunale  condanna la scuola per difetto di vigilanza e spiega quando scatta la responsabilità",
                 "link": "https://www.orizzontescuola.it/spintoni-tra-alunni-durante-luscita-dallaula-il-tribunale-condanna-la-scuola-per-difetto-di-vigilanza-e-spiega-quando-scatta-la-responsabilita/",
                 "date": "20 Dic 2025",
@@ -87,7 +136,12 @@
                 "date": "20 Dic 2025",
                 "time": "16:08",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/Screenshot-2023-04-28-065108.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Genitori",
                 "title": "Deepfake e geolocalizzazione, i rischi nascosti dietro ogni foto condivisa online dai giovani. Cyberbullismo in aumento del 47% in un anno. Le strategie per proteggere l’identità digitale",
@@ -143,12 +197,7 @@
                 "date": "20 Dic 2025",
                 "time": "12:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2010657266.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Genitori",
                 "title": "Generazione Alpha e pagamenti digitali: il 50% usa strumenti digitali due volte al mese. Per il 90% dei genitori educazione finanziaria deve entrare a scuola",
@@ -236,61 +285,28 @@
                 "date": "20 Dic 2025",
                 "time": "8:57",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Screenshot-2025-02-20-alle-17.40.48.png"
-            },
-            {
-                "category": "Cronaca",
-                "title": "L’Europa fatica a formare talenti STEM: solo uno studente su quattro sceglie i percorsi tecnico-scientifici mentre metà delle imprese non trova le competenze necessarie",
-                "link": "https://www.orizzontescuola.it/leuropa-fatica-a-formare-talenti-stem-solo-uno-studente-su-quattro-sceglie-i-percorsi-tecnico-scientifici-mentre-meta-delle-imprese-non-trova-le-competenze-necessarie/",
-                "date": "20 Dic 2025",
-                "time": "8:49",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2565398067.jpg"
-            },
-            null,
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Docenti neoassunti 2025/26: aperto da oggi l’ambiente online Indire",
-                "link": "https://www.orizzontescuola.it/docenti-neoassunti-2025-26-aperto-da-oggi-lambiente-online-indire/",
-                "date": "19 Dic 2025",
-                "time": "20:34",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_765925483-scaled.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "La lettera di Valditara alle famiglie fa discutere, Frezza: “Non è orientamento, è uno spot per trasformare gli studenti in pezzi di ricambio. La scuola forma cittadini o manichini?”",
-                "link": "https://www.orizzontescuola.it/la-lettera-di-valditara-alle-famiglie-fa-discutere-frezza-non-e-orientamento-e-uno-spot-per-trasformare-gli-studenti-in-pezzi-di-ricambio-la-scuola-forma-cittadini-o-manichini/",
-                "date": "19 Dic 2025",
-                "time": "19:48",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/Frezza.webp"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti 60, 36, 30 CFU: ecco le nuove pagine delle Università per l’anno accademico 2025/26",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-60-36-30-cfu-ecco-le-nuove-pagine-delle-universita-per-lanno-accademico-2025-26/",
-                "date": "19 Dic 2025",
-                "time": "17:01",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_1708378216.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi sostegno INDIRE: accesso possibile per docenti della A066 classe di concorso ad esaurimento. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/percorsi-sostegno-indire-laccesso-possibile-per-docenti-della-a066-classe-di-concorso-ad-esaurimento-pillole-di-question-time/",
-                "date": "19 Dic 2025",
-                "time": "16:48",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_1049423483.jpg"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "Percorsi formativi su orientamento, tutoraggio e sviluppo professionale – A.S. 2025/2026: in allegato il modello di circolare",
-                "link": "https://www.orizzontescuola.it/percorsi-formativi-su-orientamento-tutoraggio-e-sviluppo-professionale-a-s-2025-2026-in-allegato-il-modello-di-circolare/",
-                "date": "19 Dic 2025",
-                "time": "16:23",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/05/shutterstock_2063725133.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Non solo voti: la relazione educativa e il ruolo centrale del docente",
+                "link": "https://www.orizzontescuola.it/non-solo-voti-la-relazione-educativa-e-il-ruolo-centrale-del-docente/",
+                "date": "21 Dic 2025",
+                "time": "10:51",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Più risorse al trasporto scolastico nei territori montani dell’Emilia-Romagna",
+                "link": "https://www.orizzontescuola.it/piu-risorse-al-trasporto-scolastico-nei-territori-montani-dellemilia-romagna/",
+                "date": "21 Dic 2025",
+                "time": "7:44",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Bonus under 35: contributo mensile di 500 euro per nuove imprese in settori strategici. Domande entro il 28 dicembre per chi ha avviato l’attività prima del 28 novembre 2025",
@@ -418,22 +434,6 @@
                 "date": "20 Dic 2025",
                 "time": "12:03",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Regno Unito rientra nel programma Erasmus Plus dal 2027: accordo ufficiale con Unione Europea dopo cinque anni di assenza post-Brexit",
-                "link": "https://www.orizzontescuola.it/regno-unito-rientra-nel-programma-erasmus-plus-dal-2027-accordo-ufficiale-con-unione-europea-dopo-cinque-anni-di-assenza-post-brexit/",
-                "date": "20 Dic 2025",
-                "time": "11:52",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Mobbing nel mondo del lavoro: cinque segnali per riconoscere comportamenti vessatori e tutelare i diritti dei lavoratori",
-                "link": "https://www.orizzontescuola.it/mobbing-nel-mondo-del-lavoro-cinque-segnali-per-riconoscere-comportamenti-vessatori-e-tutelare-i-diritti-dei-lavoratori/",
-                "date": "20 Dic 2025",
-                "time": "11:49",
-                "image_link": "N/A"
             }
         ]
     },
@@ -559,6 +559,30 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Supplenze 2025/26: ancora interpelli alla ricerca di docenti",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "19 Dic 2025",
+                "time": "13:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Nuovi Percorsi INDIRE per docenti specializzati all’estero: cosa cambia. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/nuovi-percorsi-indire-per-docenti-specializzati-allestero-cosa-cambia-pillole-di-question-time/",
+                "date": "19 Dic 2025",
+                "time": "12:13",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Voto minimo per accesso prove orali concorso docenti PNRR3: potrebbe ancora cambiare?",
+                "link": "https://www.orizzontescuola.it/voto-minimo-per-accesso-prove-orali-concorso-docenti-pnrr3-potrebbe-ancora-cambiare/",
+                "date": "19 Dic 2025",
+                "time": "11:26",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_130517294.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR3: voti minimi infanzia e primaria per accedere alla prova orale. AVVISI USR",
                 "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-voti-minimi-per-laccesso-alla-prova-orale-avvisi-usr/",
                 "date": "19 Dic 2025",
@@ -580,36 +604,28 @@
                 "date": "18 Dic 2025",
                 "time": "19:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Ferie docenti con contratto al 30 giugno, avvisi dei Dirigenti Scolastici: è obbligatorio richiederle a Natale o si possono spostare a giugno?",
-                "link": "https://www.orizzontescuola.it/ferie-docenti-con-contratto-al-30-giugno-avvisi-dei-dirigenti-scolastici-e-obbligatorio-richiederle-a-natale-o-si-possono-spostare-a-giugno/",
-                "date": "18 Dic 2025",
-                "time": "15:05",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/05/shutterstock_2063725133.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Legge sulla montagna e punteggio aggiuntivo per docenti e ATA: individuati circa 2.800 comuni. Manca ancora il decreto",
-                "link": "https://www.orizzontescuola.it/legge-sulla-montagna-e-punteggio-aggiuntivo-per-docenti-e-ata-individuati-circa-2-800-comuni-manca-ancora-il-decreto/",
-                "date": "18 Dic 2025",
-                "time": "14:37",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_380589679-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR3 scuola secondaria: griglia di valutazione per classi di concorso con prova pratica",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-scuola-secondaria-griglia-di-valutazione-per-classi-di-concorso-con-prova-pratica/",
-                "date": "18 Dic 2025",
-                "time": "14:14",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_1819849748.jpg"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
+            {
+                "category": "Gestire la scuola",
+                "title": "Periodo di formazione e prova del personale docente – Anno scolastico 2025/2026. Disposizioni operative e adempimenti: in allegato un modello di circolare",
+                "link": "https://www.orizzontescuola.it/periodo-di-formazione-e-prova-del-personale-docente-anno-scolastico-2025-2026-disposizioni-operative-e-adempimenti-in-allegato-un-modello-di-circolare/",
+                "date": "18 Dic 2025",
+                "time": "15:02",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_1937156512.jpg"
+            },
+            {
+                "category": "Gestire la scuola",
+                "title": "Regolamento per il Sistema Interno di Monitoraggio degli Esiti a Distanza (SIMED): in allegato un modello",
+                "link": "https://www.orizzontescuola.it/regolamento-per-il-sistema-interno-di-monitoraggio-degli-esiti-a-distanza-simed-in-allegato-un-modello/",
+                "date": "18 Dic 2025",
+                "time": "11:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_1932117329.jpg"
+            },
             {
                 "category": "Gestire la scuola",
                 "title": "Il comportamento del dirigente e del direttore SGA nell’attività pre-negoziale. A cura di Anna Armone",
@@ -641,22 +657,6 @@
                 "date": "16 Dic 2025",
                 "time": "11:56",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1782418211.jpg"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "Protocollo per la Prevenzione e la Gestione dei Comportamenti Oppositivi. Scarica il documento",
-                "link": "https://www.orizzontescuola.it/protocollo-per-la-prevenzione-e-la-gestione-dei-comportamenti-oppositivi-scarica-il-documento/",
-                "date": "16 Dic 2025",
-                "time": "7:53",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/05/desperate-2100307_960_720.jpg"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "Il responsabile del trattamento dati: chi può essere nominato, cosa deve fare il DS",
-                "link": "https://www.orizzontescuola.it/il-responsabile-del-trattamento-dati-chi-puo-essere-nominato-cosa-deve-fare-il-ds-2/",
-                "date": "15 Dic 2025",
-                "time": "11:12",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_1580344855.jpg"
             }
         ]
     },
