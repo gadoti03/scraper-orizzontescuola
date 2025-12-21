@@ -18,6 +18,54 @@
         "articles": [
             {
                 "category": "Cronaca",
+                "title": "Abbandono scolastico e carenze formative: Catania in pole position, seconda Palermo e terza Napoli",
+                "link": "https://www.orizzontescuola.it/abbandono-scolastico-e-carenze-formative-catania-in-pole-position-seconda-palermo-e-terza-napoli/",
+                "date": "21 Dic 2025",
+                "time": "18:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/02/shutterstock_1161962899.jpg"
+            },
+            {
+                "category": "Genitori",
+                "title": "Nel 55,4% di famiglie si litiga a causa dello smartphone: domatori, disarmati, accompagnatori e liberi battitori. Di cosa si tratta",
+                "link": "https://www.orizzontescuola.it/nel-554-di-famiglie-si-litiga-a-causa-dello-smartphone-domatori-disarmati-accompagnatori-e-liberi-battitori-di-cosa-si-tratta/",
+                "date": "21 Dic 2025",
+                "time": "17:01",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2431380597.jpg"
+            },
+            {
+                "category": "Guide",
+                "title": "Docenti Collaboratori del Dirigente scolastico: qual è l’orario di servizio. Sulla carta e nella pratica quotidiana",
+                "link": "https://www.orizzontescuola.it/docenti-collaboratori-del-dirigente-scolastico-qual-e-lorario-di-servizio-sulla-carta-e-nella-pratica-quotidiana/",
+                "date": "21 Dic 2025",
+                "time": "16:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_1859352175.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Recalcati: “La scuola deve trasmettere il desiderio per contrastare il disagio giovanile”. Insegnanti chiamati a testimoniare passione e vocazione in aula",
+                "link": "https://www.orizzontescuola.it/recalcati-la-scuola-deve-trasmettere-il-desiderio-per-contrastare-il-disagio-giovanile-insegnanti-chiamati-a-testimoniare-passione-e-vocazione-in-aula/",
+                "date": "21 Dic 2025",
+                "time": "15:01",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/Screenshot-2025-06-11-alle-19.24.29.png"
+            },
+            {
+                "category": "Scuole",
+                "title": "Nuova Maturità 2026, se il commissario di Italiano interroga anche in Storia e quello di Matematica in Fisica, le materie da 4 diventano 6?",
+                "link": "https://www.orizzontescuola.it/nuova-maturita-2026-se-il-commissario-di-italiano-interroga-anche-in-storia-e-quello-di-matematica-in-fisica-le-materie-da-4-diventano-6/",
+                "date": "21 Dic 2025",
+                "time": "14:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_524315962.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze annuali su posto sostegno: non sono assicurate dal percorso INDIRE. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/supplenze-annuali-su-posto-sostegno-non-sono-assicurate-dal-percorso-indire-pillole-di-question-time/",
+                "date": "21 Dic 2025",
+                "time": "13:25",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_1796684485-scaled.jpg"
+            },
+            {
+                "category": "Cronaca",
                 "title": "Fratelli in estinzione, cani in salotto: come cambia l’idea di famiglia",
                 "link": "https://www.orizzontescuola.it/fratelli-in-estinzione-cani-in-salotto-come-cambia-lidea-di-famiglia/",
                 "date": "21 Dic 2025",
@@ -88,7 +136,12 @@
                 "date": "20 Dic 2025",
                 "time": "19:04",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/Senato.jpeg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Genitori",
                 "title": "Le vacanze scolastiche di Natale mettono alla prova la relazione tra genitori e figli: i dati su stress e percezione del ruolo scolastico",
@@ -136,12 +189,7 @@
                 "date": "20 Dic 2025",
                 "time": "16:08",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/Screenshot-2023-04-28-065108.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Genitori",
                 "title": "Deepfake e geolocalizzazione, i rischi nascosti dietro ogni foto condivisa online dai giovani. Cyberbullismo in aumento del 47% in un anno. Le strategie per proteggere l’identità digitale",
@@ -237,60 +285,21 @@
                 "date": "20 Dic 2025",
                 "time": "11:19",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/10/cibo-1200x854.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Registro elettronico, semplificata procedura caricamento assenze da parte delle segreterie scolastiche",
-                "link": "https://www.orizzontescuola.it/registro-elettronico-semplificata-procedura-caricamento-assenze-da-parte-delle-segreterie-scolastiche/",
-                "date": "20 Dic 2025",
-                "time": "11:03",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/02/shutterstock_1011686965.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Feste di fine anno e regali ai docenti: cosa prevede la legge e quando un dono può essere accettato",
-                "link": "https://www.orizzontescuola.it/feste-di-fine-anno-e-regali-ai-docenti-cosa-prevede-la-legge-e-quando-un-dono-puo-essere-accettato/",
-                "date": "20 Dic 2025",
-                "time": "10:29",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_1984120079-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Elenchi regionali per il ruolo: come funzioneranno. Lalla vi spiegherà tutto nell’edizione speciale della newsletter “Diventare insegnanti”",
-                "link": "https://www.orizzontescuola.it/elenchi-regionali-per-il-ruolo-come-funzioneranno-lalla-vi-spieghera-tutto-nelledizione-speciale-della-newsletter-diventare-insegnanti/",
-                "date": "20 Dic 2025",
-                "time": "10:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/Oggi-e-la-giornata-dellInfanzia-5.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Scorrimento graduatorie concorso PNRR: prima i vincitori, poi gli idonei nei limite del 30% dei posti. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/scorrimento-graduatorie-concorso-pnrr-prima-i-vincitori-poi-gli-idonei-nei-limite-del-30-dei-posti-pillole-di-question-time/",
-                "date": "20 Dic 2025",
-                "time": "10:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2487699197.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Oltre il 50% dei bambini con disturbi del neurosviluppo supera i limiti di screen time: lo studio italiano che mette in allarme scuole e famiglie",
-                "link": "https://www.orizzontescuola.it/oltre-il-50-dei-bambini-con-disturbi-del-neurosviluppo-supera-i-limiti-di-screen-time-lo-studio-italiano-che-mette-in-allarme-scuole-e-famiglie/",
-                "date": "20 Dic 2025",
-                "time": "9:32",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2494808151.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Dall’errore alla crescita”, Alberto Pellai spiega perché i genitori devono smettere di sostituirsi ai figli e accettare le loro cadute”",
-                "link": "https://www.orizzontescuola.it/dallerrore-alla-crescita-alberto-pellai-spiega-perche-i-genitori-devono-smettere-di-sostituirsi-ai-figli-e-accettare-le-loro-cadute/",
-                "date": "20 Dic 2025",
-                "time": "8:57",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Screenshot-2025-02-20-alle-17.40.48.png"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Scuola Viva in cantiere: oltre 70 milioni per l’edilizia scolastica nella Città Metropolitana di Napoli",
+                "link": "https://www.orizzontescuola.it/scuola-viva-in-cantiere-oltre-70-milioni-per-ledilizia-scolastica-nella-citta-metropolitana-di-napoli/",
+                "date": "21 Dic 2025",
+                "time": "19:03",
+                "image_link": "N/A"
+            },
+            null,
             {
                 "category": "Cronaca",
                 "title": "Non solo voti: la relazione educativa e il ruolo centrale del docente",
@@ -418,22 +427,6 @@
                 "date": "20 Dic 2025",
                 "time": "12:30",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Bonus psicologo 2025: risorse unificate a 21,5 milioni per 14.333 richieste. Gemmato annuncia strutturalità",
-                "link": "https://www.orizzontescuola.it/bonus-psicologo-2025-risorse-unificate-a-215-milioni-per-14-333-richieste-gemmato-annuncia-strutturalita/",
-                "date": "20 Dic 2025",
-                "time": "12:22",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Bimbi nel bosco”, cosa racconta la curatrice: tra maturità precoce, difficoltà a scrivere il nome e nuova vita in casa famiglia",
-                "link": "https://www.orizzontescuola.it/bimbi-nel-bosco-cosa-racconta-la-curatrice-tra-maturita-precoce-difficolta-a-scrivere-il-nome-e-nuova-vita-in-casa-famiglia/",
-                "date": "20 Dic 2025",
-                "time": "12:03",
-                "image_link": "N/A"
             }
         ]
     },
@@ -559,6 +552,22 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3, avvio delle prove orali. Estrazione lettera [AGGIORNATO con Emilia Romagna]",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-ecco-lettera-estratta-per-avvio-delle-prove-orali-in-aggiornamento/",
+                "date": "19 Dic 2025",
+                "time": "13:32",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2090710285.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: le nomine di dicembre da GPS [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
+                "date": "19 Dic 2025",
+                "time": "13:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_2377017671.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Supplenze 2025/26: ancora interpelli alla ricerca di docenti",
                 "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
                 "date": "19 Dic 2025",
@@ -588,22 +597,6 @@
                 "date": "19 Dic 2025",
                 "time": "10:14",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1936676008-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti 60 e 30 CFU del 2025/26, quanti punti varranno gli anni di servizio di insegnamento e i titoli culturali",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-60-e-30-cfu-del-2025-26-quanti-punti-varranno-gli-anni-di-servizio-di-insegnamento-e-i-titoli-culturali/",
-                "date": "19 Dic 2025",
-                "time": "9:41",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2500605417.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Ci saranno ruoli anche da GPS sostegno nel 2026 per la scuola secondaria? Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/ci-saranno-ruoli-anche-da-gps-sostegno-nel-2026-per-la-scuola-secondaria-pillole-di-question-time/",
-                "date": "18 Dic 2025",
-                "time": "19:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
             }
         ]
     },
