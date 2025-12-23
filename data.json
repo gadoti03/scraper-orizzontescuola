@@ -48,14 +48,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/1705693722497.jpg"
             },
             {
-                "category": "Cronaca",
-                "title": "Cascina, tre rottweiler contro una bambina: il gesto del finanziere che ha scongiurato il peggio",
-                "link": "https://www.orizzontescuola.it/cascina-tre-rottweiler-contro-una-bambina-il-gesto-del-finanziere-che-ha-scongiurato-il-peggio/",
-                "date": "22 Dic 2025",
-                "time": "18:45",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/shutterstock_1909094035-scaled-e1766418292605.jpg"
-            },
-            {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR3, avvio delle prove orali. Estrazione lettera [AGGIORNATO]",
                 "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-ecco-lettera-estratta-per-avvio-delle-prove-orali-in-aggiornamento/",
@@ -150,12 +142,7 @@
                 "date": "22 Dic 2025",
                 "time": "11:18",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/12/shutterstock_1785688787-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "Nuovi Giochi della gioventù 2025/26: ecco chi potrà partecipare e come si svolgono. Pubblicato il DECRETO",
@@ -163,7 +150,12 @@
                 "date": "22 Dic 2025",
                 "time": "11:12",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2475236743-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Rinnovo annuale per le sezioni primavera: confermato l’accordo per il 2025/26",
@@ -292,6 +284,14 @@
                 "date": "21 Dic 2025",
                 "time": "14:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_524315962.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze annuali su posto sostegno: non sono assicurate dal percorso INDIRE. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/supplenze-annuali-su-posto-sostegno-non-sono-assicurate-dal-percorso-indire-pillole-di-question-time/",
+                "date": "21 Dic 2025",
+                "time": "13:25",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_1796684485-scaled.jpg"
             }
         ]
     },
@@ -344,6 +344,14 @@
                 "link": "https://www.orizzontescuola.it/educare-alla-sostenibilita-e-alla-cittadinanza-attiva-il-modello-della-scuola-europea-bruxelles-iii-tra-esperti-esterni-e-pensiero-critico/",
                 "date": "22 Dic 2025",
                 "time": "18:50",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Cascina, tre rottweiler contro una bambina: il gesto del finanziere che ha scongiurato il peggio",
+                "link": "https://www.orizzontescuola.it/cascina-tre-rottweiler-contro-una-bambina-il-gesto-del-finanziere-che-ha-scongiurato-il-peggio/",
+                "date": "22 Dic 2025",
+                "time": "18:45",
                 "image_link": "N/A"
             },
             {
@@ -426,15 +434,7 @@
                 "time": "14:10",
                 "image_link": "N/A"
             },
-            null,
-            {
-                "category": "Cronaca",
-                "title": "Regno Unito valuta il divieto dei social media per i minori di 16 anni: il governo esamina il modello australiano dopo anni di resistenza",
-                "link": "https://www.orizzontescuola.it/regno-unito-valuta-il-divieto-dei-social-media-per-i-minori-di-16-anni-il-governo-esamina-il-modello-australiano-dopo-anni-di-resistenza/",
-                "date": "22 Dic 2025",
-                "time": "12:12",
-                "image_link": "N/A"
-            }
+            null
         ]
     },
     "group_5": {
