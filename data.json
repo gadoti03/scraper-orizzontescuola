@@ -40,22 +40,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1936676008-scaled.jpg"
             },
             {
-                "category": "Chiedilo a Lalla",
-                "title": "Sostegno e Corsi Indire, novità su criteri e requisiti: le ultime notizie. SPECIALE con Cozzetto (Anief) LIVE alle 19:30",
-                "link": "https://www.orizzontescuola.it/sostegno-e-corsi-indire-novita-su-criteri-e-requisiti-le-ultime-notizie-speciale-con-cozzetto-anief-live-alle-1930/",
-                "date": "23 Dic 2025",
-                "time": "18:34",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/Template_dentroilpalazzo_1920x1080-6.png"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Sostegno e Corsi Indire, novità su criteri e requisiti: le ultime notizie. SPECIALE con Vulcano (Flc Cgil) LIVE alle 19:00",
-                "link": "https://www.orizzontescuola.it/sostegno-e-corsi-indire-novita-su-criteri-e-requisiti-le-ultime-notizie-speciale-con-vulcano-flc-cgil-live-alle-1900/",
-                "date": "23 Dic 2025",
-                "time": "18:21",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/Template_dentroilpalazzo_1920x1080-5.png"
-            },
-            {
                 "category": "Cronaca",
                 "title": "Famiglia nel bosco: richiesta verifica delle capacità genitoriale dei genitori e dello stato psichico dei bambini. ProVita: “Così si rischia l’umiliazione”",
                 "link": "https://www.orizzontescuola.it/famiglia-nel-bosco-richiesta-verifica-delle-capacita-genitoriale-dei-genitori-e-dello-stato-psichico-dei-bambini-provita-cosi-si-rischia-lumiliazione/",
@@ -97,7 +81,7 @@
             },
             {
                 "category": "Cronaca",
-                "title": "Famiglia nel bosco, i minori restano in casa-famiglia: genitori chiedono 50.000 euro a figlio per visite mediche, Tribunale dispone consulenza tecnica: “Rudere senza utenze e rifiuto delle visite”",
+                "title": "Famiglia nel bosco, i minori restano in casa-famiglia: genitori chiedono 50.000 euro a figlio per visite mediche. I legali chiariscono: “Non passi l’idea di nucleo familiare selvaggio”",
                 "link": "https://www.orizzontescuola.it/famiglia-nel-bosco-i-minori-restano-in-casa-famiglia-genitori-chiedono-50-000-euro-a-figlio-per-visite-mediche-tribunale-dispone-consulenza-tecnica-rudere-senza-utenze-e-rifiuto-delle-visite/",
                 "date": "23 Dic 2025",
                 "time": "14:25",
@@ -150,12 +134,7 @@
                 "date": "23 Dic 2025",
                 "time": "13:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-23-at-15.35.44-2.jpeg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Anief firma il contratto scuola 2022-2024: aumenti di 150 euro per i docenti e 110 euro per il personale ATA con arretrati fino a 1.948 euro lordi",
@@ -171,7 +150,12 @@
                 "date": "23 Dic 2025",
                 "time": "12:49",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/Castellana-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Politica scolastica",
                 "title": "Rinnovo contratto scuola, la Flc Cgil non firma: “Retribuzioni insufficienti, mancato recupero dell’inflazione e scarsa valorizzazione professionale”",
@@ -292,12 +276,52 @@
                 "time": "8:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/shutterstock_2202118013.jpg"
             },
-            null
+            null,
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Percorsi abilitanti 60, 36, 30 CFU: ecco le nuove pagine delle Università per l’anno accademico 2025/26",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-60-36-30-cfu-ecco-le-nuove-pagine-delle-universita-per-lanno-accademico-2025-26/",
+                "date": "22 Dic 2025",
+                "time": "21:35",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_1708378216.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Pronunciamento UE su docenti sostegno, botta e risposta Valditara–ANIEF: il Ministro rivendica miglioramenti, per Pacifico “bisogna assumere sui 100mila posti in deroga”",
+                "link": "https://www.orizzontescuola.it/valditara-il-consiglio-deuropa-riconosce-che-la-situazione-sul-sostegno-e-migliorata-grazie-a-questo-governo/",
+                "date": "22 Dic 2025",
+                "time": "20:47",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/Conferenza-stampa-di-presentazione-delliniziativa-FOLSOM-FREEDOM-13m21s.png"
+            }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Scuole",
+                "title": "Dipavali 2026: l’8 novembre la festività induista",
+                "link": "https://www.orizzontescuola.it/dipavali-2026-l8-novembre-la-festivita-induista/",
+                "date": "23 Dic 2025",
+                "time": "19:18",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Sostegno e Corsi Indire, novità su criteri e requisiti: le ultime notizie. SPECIALE con Cozzetto (Anief)",
+                "link": "https://www.orizzontescuola.it/sostegno-e-corsi-indire-novita-su-criteri-e-requisiti-le-ultime-notizie-speciale-con-cozzetto-anief-live-alle-1930/",
+                "date": "23 Dic 2025",
+                "time": "18:34",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Sostegno e Corsi Indire, novità su criteri e requisiti: le ultime notizie. SPECIALE con Vulcano (Flc Cgil)",
+                "link": "https://www.orizzontescuola.it/sostegno-e-corsi-indire-novita-su-criteri-e-requisiti-le-ultime-notizie-speciale-con-vulcano-flc-cgil-live-alle-1900/",
+                "date": "23 Dic 2025",
+                "time": "18:21",
+                "image_link": "N/A"
+            },
             {
                 "category": "Comunicati stampa",
                 "title": "Lazio, via libera al bilancio 2026 ma è scontro sui 500 milioni: per Bonafoni (Pd) è una “distribuzione diffusa di risorse” senza strategia",
@@ -416,30 +440,6 @@
                 "link": "https://www.orizzontescuola.it/cnddu-stipendio-e-tredicesima-divorati-dallinflazione-per-i-docenti-fuori-ruolo-e-un-natale-di-rinunce-forzate/",
                 "date": "22 Dic 2025",
                 "time": "20:04",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Palermo, la scuola di Brancaccio porta il nome di Sara Campanella: un impegno educativo contro la violenza di genere",
-                "link": "https://www.orizzontescuola.it/palermo-la-scuola-di-brancaccio-porta-il-nome-di-sara-campanella-un-impegno-educativo-contro-la-violenza-di-genere/",
-                "date": "22 Dic 2025",
-                "time": "19:45",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Aloisio (M5S): “Il sistema educativo non assicura competenze adeguate sull’IA”. Depositata interrogazione.",
-                "link": "https://www.orizzontescuola.it/aloisio-m5s-il-sistema-educativo-non-assicura-competenze-adeguate-sullia-depositata-interrogazione/",
-                "date": "22 Dic 2025",
-                "time": "19:38",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "INPS, conto assicurativo dipendenti pubblici: chiarimenti su SCAD, errori nelle denunce e gestione delle deleghe",
-                "link": "https://www.orizzontescuola.it/inps-conto-assicurativo-dipendenti-pubblici-chiarimenti-su-scad-errori-nelle-denunce-e-gestione-delle-deleghe/",
-                "date": "22 Dic 2025",
-                "time": "19:28",
                 "image_link": "N/A"
             }
         ]
@@ -566,14 +566,6 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
-                "title": "Riserva legge 68/99 nelle GPS: sarà necessario dimettersi per accedere al diritto? Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/riserva-legge-68-99-nelle-gps-sara-necessario-dimettersi-per-accedere-al-diritto-pillole-di-question-time/",
-                "date": "20 Dic 2025",
-                "time": "12:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2010657266.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
                 "title": "Sostegno, secondo ciclo INDIRE per docenti con tre anni di servizio. No 2025/26, solo specifico, serve titolo di studio. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/sostegno-secondo-ciclo-indire-per-docenti-con-tre-anni-di-servizio-no-2025-26-solo-specifico-serve-titolo-di-studio-pillole-di-question-time/",
                 "date": "20 Dic 2025",
@@ -611,6 +603,14 @@
                 "date": "19 Dic 2025",
                 "time": "13:55",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/foryou-servizio-1.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Nuovi Percorsi INDIRE per docenti specializzati all’estero: cosa cambia. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/nuovi-percorsi-indire-per-docenti-specializzati-allestero-cosa-cambia-pillole-di-question-time/",
+                "date": "19 Dic 2025",
+                "time": "12:13",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
             }
         ]
     },
