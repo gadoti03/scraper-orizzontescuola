@@ -24,6 +24,38 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "Il TAR respinge il ricorso del Comune per i fondi PNRR: l’indice di rischio sismico superiore a 0,8 esclude la scuola dalla ricostruzione",
+                "link": "https://www.orizzontescuola.it/il-tar-respinge-il-ricorso-del-comune-per-i-fondi-pnrr-lindice-di-rischio-sismico-superiore-a-08-esclude-la-scuola-dalla-ricostruzione/",
+                "date": "25 Dic 2025",
+                "time": "12:09",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/shutterstock_299616500.jpg"
+            },
+            {
+                "category": "Genitori",
+                "title": "Famiglia nel bosco, Novara: “I figli non sono proprietà dei genitori. L’idea della libertà assoluta è preistorica e va respinta. Le istituzioni devono tutelare i diritti dei minori”",
+                "link": "https://www.orizzontescuola.it/famiglia-nel-bosco-novara-i-figli-non-sono-proprieta-dei-genitori-lidea-della-liberta-assoluta-e-preistorica-e-va-respinta-le-istituzioni-devono-tutelare-i-diritti-dei-minori/",
+                "date": "25 Dic 2025",
+                "time": "11:32",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/proj-034_novara_008-scaled.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Lancini: “Lo smartphone è un capro espiatorio. Il vero problema è il bullismo adulto verso gli adolescenti. Ecco perché i giovani hanno un vuoto identitario”",
+                "link": "https://www.orizzontescuola.it/lancini-lo-smartphone-e-un-capro-espiatorio-il-vero-problema-e-il-bullismo-adulto-verso-gli-adolescenti-ecco-perche-i-giovani-hanno-un-vuoto-identitario/",
+                "date": "25 Dic 2025",
+                "time": "10:42",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/Screenshot-2023-11-25-alle-07.08.30.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“Bambini iperstimolati diventano apatici”, Galimberti rivela come la noia accende la creatività e il pensiero critico",
+                "link": "https://www.orizzontescuola.it/bambini-iperstimolati-diventano-apatici-galimberti-rivela-come-la-noia-accende-la-creativita-e-il-pensiero-critico/",
+                "date": "25 Dic 2025",
+                "time": "8:34",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/10/shutterstock_1765986005.jpg"
+            },
+            {
                 "category": "Docenti",
                 "title": "Solo il 34% degli insegnanti italiani preparato a insegnare intelligenza artificiale. Report GoStudent 2025",
                 "link": "https://www.orizzontescuola.it/solo-il-34-degli-insegnanti-italiani-preparato-a-insegnare-intelligenza-artificiale-report-gostudent-2025/",
@@ -118,7 +150,12 @@
                 "date": "24 Dic 2025",
                 "time": "10:12",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2090710285.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Politica scolastica",
                 "title": "Supplenze sostegno, ogni anno 100.000 in organico di fatto sono un abuso strutturale. Pillole di Question Time",
@@ -150,12 +187,7 @@
                 "date": "23 Dic 2025",
                 "time": "19:08",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/09/shutterstock_538028968-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "5 nuovi schemi per l’Amministrazione Trasparente: Anac avvia una sperimentazione volontaria",
@@ -267,44 +299,36 @@
                 "date": "23 Dic 2025",
                 "time": "12:56",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/Anief.jpeg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Contratto scuola 2022-2024, Gilda critica il sistema attuale e chiede una riforma della contrattazione “per valorizzare docenti e ATA”",
-                "link": "https://www.orizzontescuola.it/contratto-scuola-2022-24-castellana-gilda-firma-necessaria-ma-occorre-impegno-politico/",
-                "date": "23 Dic 2025",
-                "time": "12:49",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/Castellana-scaled.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Rinnovo contratto scuola, la Flc Cgil non firma: “Retribuzioni insufficienti, mancato recupero dell’inflazione e scarsa valorizzazione professionale”",
-                "link": "https://www.orizzontescuola.it/rinnovo-contratto-scuola-la-flc-cgil-non-firma-retribuzioni-insufficienti-mancato-recupero-dellinflazione-e-scarsa-valorizzazione-professionale/",
-                "date": "23 Dic 2025",
-                "time": "12:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/Gianna-Fracassi-Segretaria-Flc-Cgil-Nazionale.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi Indire per “triennalisti”: atteso a gennaio il nuovo bando. In tempo per riserva nelle GPS. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/percorsi-indire-per-triennalisti-atteso-a-gennaio-il-nuovo-bando-in-tempo-per-riserva-nelle-gps-pillole-di-question-time/",
-                "date": "23 Dic 2025",
-                "time": "12:27",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "D’Aprile (UIL Scuola): “Il CCNL 2022-24 è un contratto ponte per accelerare il rinnovo 2025-2027. Aumenti da gennaio, relazioni sindacali più inclusive”",
-                "link": "https://www.orizzontescuola.it/daprile-uil-scuola-il-ccnl-2022-24-e-un-contratto-ponte-per-accelerare-il-rinnovo-2025-2027-aumenti-da-gennaio-relazioni-sindacali-piu-inclusive-intervista/",
-                "date": "23 Dic 2025",
-                "time": "11:48",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-23-at-11.47.13.jpeg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Disturbi alimentari nei giovani, l’esperta: “L’ossessione per l’aspetto è solo il sintomo. I disturbi sono una malattia dell’anima, non del corpo”",
+                "link": "https://www.orizzontescuola.it/disturbi-alimentari-nei-giovani-lesperta-lossessione-per-laspetto-e-solo-il-sintomo-i-disturbi-sono-una-malattia-dellanima-non-del-corpo/",
+                "date": "25 Dic 2025",
+                "time": "13:01",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Sport e Salute stanzia 344,4 milioni per gli organismi sportivi: obiettivo valorizzare merito e inclusione nel sistema nazionale",
+                "link": "https://www.orizzontescuola.it/sport-e-salute-stanzia-3444-milioni-per-gli-organismi-sportivi-obiettivo-valorizzare-merito-e-inclusione-nel-sistema-nazionale/",
+                "date": "25 Dic 2025",
+                "time": "12:26",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Telefono Azzurro: linee di ascolto sempre attive a Natale per bambini e adolescenti",
+                "link": "https://www.orizzontescuola.it/telefono-azzurro-linee-di-ascolto-sempre-attive-a-natale-per-bambini-e-adolescenti/",
+                "date": "25 Dic 2025",
+                "time": "8:50",
+                "image_link": "N/A"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Pacifico (Anief) sul contratto scuola firmato ieri: è il primo di tre da chiudere in sequenza, a gennaio si riapre il tavolo per il triennio 2025-27 che dovrà essere chiuso entro fine anno ma servono risorse aggiuntive",
@@ -423,30 +447,6 @@
                 "link": "https://www.orizzontescuola.it/scuole-aperte-la-mappa-dei-finanziamenti-assegnati-quasi-3-milioni-di-euro-a-22-progetti-territoriali-875mila-alla-sola-citta-metropolitana-di-bologna/",
                 "date": "23 Dic 2025",
                 "time": "17:50",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Legge di bilancio, allarme stagnazione e zero investimenti: per la Cgil “saremo l’unico Paese europeo con Pil allo zero virgola”",
-                "link": "https://www.orizzontescuola.it/legge-di-bilancio-allarme-stagnazione-e-zero-investimenti-per-la-cgil-saremo-lunico-paese-europeo-con-pil-allo-zero-virgola/",
-                "date": "23 Dic 2025",
-                "time": "17:35",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Inghilterra, rubano un’auto ma trovano la carrozzina di una bimba disabile nel bagagliaio: la restituzione a tempo di record dopo l’appello della madre",
-                "link": "https://www.orizzontescuola.it/inghilterra-rubano-unauto-ma-trovano-la-carrozzina-di-una-bimba-disabile-nel-bagagliaio-la-restituzione-a-tempo-di-record-dopo-lappello-della-madre/",
-                "date": "23 Dic 2025",
-                "time": "17:25",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "GPS, GAE, Elenchi regionali e non solo: cosa sappiamo finora. QUESTION TIME con Cannas [VIDEO]",
-                "link": "https://www.orizzontescuola.it/gps-gae-elenchi-regionali-e-non-solo-cosa-sappiamo-finora-question-time-con-cannas-live-martedi-23-dicembre-alle-1430/",
-                "date": "23 Dic 2025",
-                "time": "13:51",
                 "image_link": "N/A"
             }
         ]
@@ -573,6 +573,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Secondo ciclo sostegno Indire/Università: chi partecipa, quando partono i corsi, il titolo ottenuto [LO SPECIALE]",
+                "link": "https://www.orizzontescuola.it/secondo-ciclo-sostegno-indire-chi-partecipa-quando-partono-i-corsi-il-titolo-ottenuto-lo-speciale/",
+                "date": "21 Dic 2025",
+                "time": "9:26",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/07/original_1011923098-1200x829.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Riserva legge 68/99 nelle GPS: sarà necessario dimettersi per accedere al diritto? Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/riserva-legge-68-99-nelle-gps-sara-necessario-dimettersi-per-accedere-al-diritto-pillole-di-question-time/",
                 "date": "20 Dic 2025",
@@ -610,14 +618,6 @@
                 "date": "19 Dic 2025",
                 "time": "16:48",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_1049423483.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "GAE, GPS ed elenchi regionali ruolo: quando si potrà presentare domanda. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/gae-gps-ed-elenchi-regionali-ruolo-quando-si-potra-presentare-domanda-pillole-di-question-time/",
-                "date": "19 Dic 2025",
-                "time": "13:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/foryou-servizio-1.jpg"
             }
         ]
     },
