@@ -1,38 +1,741 @@
 {
     "group_1": {
         "title": "Notizie in Evidenza",
-        "articles": []
+        "articles": [
+            {
+                "category": "Stipendio",
+                "title": "Arretrati stipendi docenti e ATA visibili su NoiPA: in arrivo nuovo cedolino",
+                "link": "https://www.orizzontescuola.it/arretrati-stipendi-docenti-e-ata-visibili-su-noipa-in-arrivo-assegni-fino-a-2-500-euro/",
+                "date": "13 Gen 2026",
+                "time": "19:06",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/stipendio_arretrati.png"
+            },
+            {
+                "category": "Scuole",
+                "title": "Iscrizione prima classe 2026-2027: domanda dal 13 gennaio al 14 febbraio 2026. Tutte le info da infanzia a secondaria [LO SPECIALE]",
+                "link": "https://www.orizzontescuola.it/iscrizione-prima-classe-2026-2027-domanda-dal-13-gennaio-al-14-febbraio-2026-tutte-le-info-da-infanzia-a-secondaria-lo-speciale/",
+                "date": "13 Gen 2026",
+                "time": "7:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_154155695.jpg"
+            }
+        ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
-        "articles": []
+        "articles": [
+            null,
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3 scuola secondaria, online le ammissioni alla prova orale e il voto minimo [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-scuola-secondaria-ecco-il-voto-minimo-per-laccesso-alla-prova-orale-in-aggiornamento/",
+                "date": "13 Gen 2026",
+                "time": "17:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1936676008-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3, alcune classi di concorso annullate in alcune regioni. Ecco perché",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-alcune-classi-di-concorso-annullate-in-alcune-regioni-ecco-perche/",
+                "date": "13 Gen 2026",
+                "time": "17:21",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2176731709.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Nuovo Curriculum dello studente, il Garante privacy dà l’ok al decreto: sezione prove Invalsi facoltativa, risultati non destinati a valutazione studenti",
+                "link": "https://www.orizzontescuola.it/nuovo-curriculum-dello-studente-il-garante-privacy-da-lok-al-decreto-la-nuova-sezione-sulle-prove-invalsi-facoltativa-risultati-non-valutano-studenti/",
+                "date": "13 Gen 2026",
+                "time": "16:19",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/shutterstock_2199681245.jpg"
+            },
+            {
+                "category": "Guide",
+                "title": "Corsi di recupero dopo le insufficienze del primo trimestre/quadrimestre. Per quali discipline? Con quali soldi? La verifica è obbligatoria? [GUIDA]",
+                "link": "https://www.orizzontescuola.it/corsi-di-recupero-dopo-le-insufficienze-del-primo-trimestre-quadrimestre-per-quali-discipline-con-quali-soldi-la-verifica-e-obbligatoria-guida/",
+                "date": "13 Gen 2026",
+                "time": "16:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2339228197.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Pittoni (Lega): elenchi regionali e assunzioni da GPS anche su posto comune gli obiettivi del doppio canale di reclutamento",
+                "link": "https://www.orizzontescuola.it/pittoni-lega-elenchi-regionali-e-assunzioni-da-gps-anche-su-posto-comune-gli-obiettivi-del-doppio-canale-di-reclutamento/",
+                "date": "13 Gen 2026",
+                "time": "15:35",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-29-at-17.54.17.jpeg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Pacifico: “Con dimensionamento presidi da 12mila a soli 7 mila”",
+                "link": "https://www.orizzontescuola.it/pacifico-con-dimensionamento-presidi-da-12mila-a-soli-7-mila-anief/",
+                "date": "13 Gen 2026",
+                "time": "14:53",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/Marcello-Pacifico-5.png"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Riforma 4+2, oltre 700 istituti tecnico-professionali coinvolti: dal 2026 percorso ordinamentale con imprese e docenti manager in aula",
+                "link": "https://www.orizzontescuola.it/riforma-42-dal-2026-diventa-ordinamentale-con-imprenditori-in-cattedra-e-curriculum-concordati-con-le-aziende-valditara-539-percorsi-autorizzati-e-400-nuove-adesioni/",
+                "date": "13 Gen 2026",
+                "time": "14:46",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/54809089358_25b24fa752_4k-1-scaled.jpg"
+            },
+            {
+                "category": "Stipendio",
+                "title": "Stipendi docenti e ATA, arretrati entro il 23 gennaio con emissione speciale, una tantum liquidata entro febbraio",
+                "link": "https://www.orizzontescuola.it/stipendi-docenti-e-ata-aumenti-e-arretrati-entro-il-23-gennaio-una-tantum-entro-febbraio-pagamento-supplenze-brevi-e-saltuarie-a-marzo/",
+                "date": "13 Gen 2026",
+                "time": "14:32",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/175.-13_1-Stipendi-Gennaio-Docenti-e-ATA_-data-di-visualizzazione-Cedolino-aumenti-e-arretrati-in-arrivo-e-opportunita-di-credito-convenzionato-nel-2026.png"
+            },
+            null,
+            {
+                "category": "Scuole",
+                "title": "Speciale scrutini: norme, consigli e documenti da scaricare",
+                "link": "https://www.orizzontescuola.it/speciale-scrutini-norme-consigli-e-documenti-da-scaricare/",
+                "date": "13 Gen 2026",
+                "time": "13:29",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_594828338.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Trattamento illecito di dati degli studenti in un progetto di orientamento: il Garante per la Privacy ammonisce la scuola",
+                "link": "https://www.orizzontescuola.it/trattamento-illecito-di-dati-degli-studenti-in-un-progetto-di-orientamento-il-garante-per-la-privacy-ammonisce-la-scuola/",
+                "date": "13 Gen 2026",
+                "time": "13:27",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2507584013.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: bollettini da GPS anche a gennaio [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/supplenze-2025-26-ecco-elenchi-dei-docenti-confermati-su-posto-sostegno-in-aggiornamento/",
+                "date": "13 Gen 2026",
+                "time": "13:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_2377017671.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze 2026: ecco gli ultimi interpelli alla ricerca di insegnanti",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "13 Gen 2026",
+                "time": "13:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Formazione del personale scolastico, il Ministero cerca le migliori pratiche formative delle scuole. Candidature fino al 18 febbraio. AVVISO",
+                "link": "https://www.orizzontescuola.it/formazione-del-personale-scolastico-il-ministero-cerca-le-migliori-pratiche-formative-delle-scuole-candidature-fino-al-18-febbraio-avviso/",
+                "date": "13 Gen 2026",
+                "time": "12:45",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_1723539274.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3, avvio delle prove orali. Lettere estratte [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-ecco-lettera-estratta-per-avvio-delle-prove-orali-in-aggiornamento/",
+                "date": "13 Gen 2026",
+                "time": "11:06",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2090710285.jpg"
+            }
+        ]
     },
     "group_3": {
         "title": "Ultime Notizie",
-        "articles": []
+        "articles": [
+            {
+                "category": "Scuole",
+                "title": "Sportello operativo PNRR e PN 21-27 di supporto alle istituzioni scolastiche. I documenti in arrivo e quelli già disponibili",
+                "link": "https://www.orizzontescuola.it/sportello-operativo-pnrr-e-pn-21-27-di-supporto-alle-istituzioni-scolastiche-come-accedere/",
+                "date": "13 Gen 2026",
+                "time": "11:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Elezioni-organi-collegiali-1-1.png"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Convitti nazionali, UIL Scuola denuncia: organici fermi e personale precario al 25%. L’ultimo concorso risale al 2000, assunzioni azzerate nonostante 182 posti vacanti per i cuochi",
+                "link": "https://www.orizzontescuola.it/convitti-nazionali-uil-scuola-denuncia-organici-fermi-e-personale-precario-al-25-lultimo-concorso-risale-al-2000-assunzioni-azzerate-nonostante-182-posti-vacanti-per-i-cuochi/",
+                "date": "13 Gen 2026",
+                "time": "10:43",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/photo_2025-11-17_18-27-22-1.jpg"
+            },
+            {
+                "category": "Gestire la scuola",
+                "title": "Le scadenze della trasparenza e della prevenzione della corruzione nelle istituzioni scolastiche. Con calendario",
+                "link": "https://www.orizzontescuola.it/le-scadenze-della-trasparenza-e-della-prevenzione-della-corruzione-nelle-istituzioni-scolastiche-con-calendario/",
+                "date": "13 Gen 2026",
+                "time": "10:37",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1761160202.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3 secondaria, ecco dove visualizzare SI o NO alla prova orale",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-secondaria-ecco-dove-visualizzare-si-o-no-alla-prova-orale/",
+                "date": "13 Gen 2026",
+                "time": "10:08",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/10/shutterstock_116039263.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Iscrizioni scolastiche 2026/2027 al via, c’è tempo fino al 14 febbraio. Il Ministero: “Alle 11.30 le iscrizioni sono triplicate grazie alle procedure velocizzate”",
+                "link": "https://www.orizzontescuola.it/iscrizioni-scolastiche-2026-2027-apertura-dal-13-gennaio-al-14-febbraio-sulla-piattaforma-unica-coinvolti-oltre-13-milioni-di-studenti-e-famiglie/",
+                "date": "13 Gen 2026",
+                "time": "9:41",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/01/shutterstock_1736466005.jpg"
+            },
+            {
+                "category": "Gestire la scuola",
+                "title": "Verbale di scrutinio per il I trimestre/quadrimestre della scuola secondaria di I grado: in allegato un modello",
+                "link": "https://www.orizzontescuola.it/verbale-di-scrutinio-per-il-i-trimestre-quadrimestre-della-scuola-secondaria-di-i-grado-in-allegato-un-modello/",
+                "date": "13 Gen 2026",
+                "time": "9:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_59277838.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "GPS, GaE, percorsi abilitanti, concorso PNRR3: tanti dubbi, tante domande e tante risposte",
+                "link": "https://www.orizzontescuola.it/gps-gae-percorsi-abilitanti-concorso-pnrr3-tanti-dubbi-tante-domande-e-tante-risposte/",
+                "date": "13 Gen 2026",
+                "time": "9:04",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_142220581.jpg"
+            },
+            {
+                "category": "Genitori",
+                "title": "Non ho Internet e devo iscrivere mio figlio a scuola, come faccio?",
+                "link": "https://www.orizzontescuola.it/non-ho-internet-e-devo-iscrivere-mio-figlio-a-scuola-come-faccio/",
+                "date": "13 Gen 2026",
+                "time": "8:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_2273193373.jpg"
+            },
+            {
+                "category": "Genitori",
+                "title": "Novità ISEE 2026, soglie più alte e calcoli più favorevoli per assegno di inclusione, figli a carico e bonus: le istruzioni nel MESSAGGIO INPS",
+                "link": "https://www.orizzontescuola.it/novita-isee-2026-soglie-piu-alte-e-calcoli-piu-favorevoli-per-assegno-di-inclusione-figli-a-carico-e-bonus-le-istruzioni-nel-messaggio-inps/",
+                "date": "13 Gen 2026",
+                "time": "8:13",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_760999171.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Gli adolescenti scrivono peggio di come scrivevano 50 anni fa? Non è vero. Lo studio che lo dimostra",
+                "link": "https://www.orizzontescuola.it/gli-adolescenti-scrivono-peggio-di-come-scrivevano-50-anni-fa-non-e-vero-lo-studio-che-lo-dimostra/",
+                "date": "13 Gen 2026",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_2293543693.jpg"
+            },
+            {
+                "category": "Gestire la scuola",
+                "title": "Scrutinio Scuola Primaria: quadro normativo, adempimenti, verbalizzazione e un modello di verbale da scaricare",
+                "link": "https://www.orizzontescuola.it/scrutinio-scuola-primaria-quadro-normativo-adempimenti-verbalizzazione-e-un-modello-di-verbale-da-scaricare/",
+                "date": "13 Gen 2026",
+                "time": "7:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/02/shutterstock_1438960028.jpg"
+            },
+            null,
+            null,
+            null,
+            {
+                "category": "Scuole",
+                "title": "Contrattazione integrativa d’Istituto, la FLCGIL è esclusa dai tavoli. La risposta dell’ARAN",
+                "link": "https://www.orizzontescuola.it/contrattazione-integrativa-distituto-la-flcgil-e-esclusa-dai-tavoli-la-risposta-dellaran/",
+                "date": "12 Gen 2026",
+                "time": "21:28",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_233445877.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Licei quadriennali, pubblicato il decreto con l’elenco delle scuole ammesse al rinnovo della sperimentazione",
+                "link": "https://www.orizzontescuola.it/licei-quadriennali-pubblicato-il-decreto-con-lelenco-delle-scuole-ammesse-al-rinnovo-della-sperimentazione/",
+                "date": "12 Gen 2026",
+                "time": "20:25",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2339228197.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“Gli studenti usano l’intelligenza artificiale come l’autotune senza rendersi conto che la macchina fa tutto”, l’allarme dell’esperto: “Così si dissolve tutto”",
+                "link": "https://www.orizzontescuola.it/gli-studenti-usano-lintelligenza-artificiale-come-lautotune-senza-rendersi-conto-che-la-macchina-fa-tutto-lallarme-dellesperto-cosi-si-dissolve-tutto/",
+                "date": "12 Gen 2026",
+                "time": "20:04",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_638342005.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Riammissione in servizio del personale scolastico cessato: domanda entro il 15 gennaio",
+                "link": "https://www.orizzontescuola.it/riammissione-in-servizio-del-personale-scolastico-cessato-domanda-entro-il-15-gennaio/",
+                "date": "12 Gen 2026",
+                "time": "20:02",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_96451259-1.jpg"
+            }
+        ]
     },
     "group_4": {
         "title": "In Breve",
-        "articles": []
+        "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Povertà educativa e isolamento culturale a Napoli: se il 46,5% dei giovani non legge un libro all’anno e il 42,8% non pratica sport, la scuola resta l’unico presidio sociale",
+                "link": "https://www.orizzontescuola.it/poverta-educativa-e-isolamento-culturale-a-napoli-se-il-465-dei-giovani-non-legge-un-libro-allanno-e-il-428-non-pratica-sport-la-scuola-resta-lunico-presidio-sociale/",
+                "date": "13 Gen 2026",
+                "time": "22:00",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Dimensionamento scolastico, Valditara rassicura: “Non si chiudono scuole, non si licenzia personale, non si tagliano servizi; è un accorpamento giuridico”",
+                "link": "https://www.orizzontescuola.it/dimensionamento-scolastico-valditara-rassicura-non-si-chiudono-scuole-non-si-licenzia-personale-non-si-tagliano-servizi-e-un-accorpamento-giuridico/",
+                "date": "13 Gen 2026",
+                "time": "21:08",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Semestre filtro di Medicina, Bernini interviene sul caro-tasse all’estero: “Il diritto allo studio non è uno slogan, nessuna differenza tra Roma e Tirana”",
+                "link": "https://www.orizzontescuola.it/semestre-filtro-di-medicina-bernini-interviene-sul-caro-tasse-allestero-il-diritto-allo-studio-non-e-uno-slogan-nessuna-differenza-tra-roma-e-tirana/",
+                "date": "13 Gen 2026",
+                "time": "20:33",
+                "image_link": "N/A"
+            },
+            {
+                "category": "ATA",
+                "title": "Selezione per un collaboratore scolastico in comando presso l’USR Friuli Venezia Giulia. Domande entro il 20 gennaio",
+                "link": "https://www.orizzontescuola.it/selezione-per-un-collaboratore-scolastico-in-comando-presso-lusr-friuli-venezia-giulia-domande-entro-il-20-gennaio/",
+                "date": "13 Gen 2026",
+                "time": "19:22",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Editoria scolastica: meno 7% di studenti in dieci anni, ma la spesa per i libri di testo s’impenna del 13%. Il comunicato del Codacons",
+                "link": "https://www.orizzontescuola.it/editoria-scolastica-meno-7-di-studenti-in-dieci-anni-ma-la-spesa-per-i-libri-di-testo-simpenna-del-13-il-comunicato-del-codacons/",
+                "date": "13 Gen 2026",
+                "time": "19:13",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Riscaldamenti ko a Palermo: la protesta degli studenti ferma le lezioni in un istituto del centro storico",
+                "link": "https://www.orizzontescuola.it/riscaldamenti-ko-a-palermo-la-protesta-degli-studenti-ferma-le-lezioni-in-un-istituto-del-centro-storico/",
+                "date": "13 Gen 2026",
+                "time": "18:40",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "Sicurezza sul lavoro: borsa di studio AIESiL da 500 euro per studenti degli Istituti Tecnici. Candidature entro il 31 gennaio",
+                "link": "https://www.orizzontescuola.it/sicurezza-sul-lavoro-borsa-di-studio-aiesil-da-500-euro-per-studenti-degli-istituti-tecnici-candidature-entro-il-31-gennaio/",
+                "date": "13 Gen 2026",
+                "time": "18:37",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Zangrillo vuole abolire il tetto agli stipendi dei dirigenti pubblici: “Non possiamo più basarci su un’emergenza di 14 anni fa”",
+                "link": "https://www.orizzontescuola.it/zangrillo-vuole-abolire-il-tetto-agli-stipendi-dei-dirigenti-pubblici-non-possiamo-piu-basarci-su-unemergenza-di-14-anni-fa/",
+                "date": "13 Gen 2026",
+                "time": "18:29",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Dimensionamento scolastico, il PD denuncia il sovraccarico gestionale per i dirigenti e lo spopolamento delle aree interne",
+                "link": "https://www.orizzontescuola.it/dimensionamento-scolastico-il-pd-denuncia-il-sovraccarico-gestionale-per-i-dirigenti-e-lo-spopolamento-delle-aree-interne/",
+                "date": "13 Gen 2026",
+                "time": "18:28",
+                "image_link": "N/A"
+            },
+            null,
+            {
+                "category": "Cronaca",
+                "title": "Iscrizioni IeFP Emilia-Romagna 2026/2027: la guida definitiva tra procedure online, modelli cartacei e scadenze ministeriali",
+                "link": "https://www.orizzontescuola.it/iscrizioni-iefp-emilia-romagna-2026-2027-la-guida-definitiva-tra-procedure-online-modelli-cartacei-e-scadenze-ministeriali/",
+                "date": "13 Gen 2026",
+                "time": "17:43",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Oltre 900 mila studenti senza scuola per eventi climatici: l’UNICEF incontra il Ministero dell’Ambiente",
+                "link": "https://www.orizzontescuola.it/oltre-900-mila-studenti-senza-scuola-per-eventi-climatici-lunicef-incontra-il-ministero-dellambiente/",
+                "date": "13 Gen 2026",
+                "time": "17:27",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "Shoah, mostra nazionale itinerante a Taranto: invito alle scuole",
+                "link": "https://www.orizzontescuola.it/shoah-mostra-nazionale-itinerante-a-taranto-invito-alle-scuole/",
+                "date": "13 Gen 2026",
+                "time": "17:20",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "Scuola Attiva Kids: webinar nazionale il 15 gennaio per tutor, referenti e docenti",
+                "link": "https://www.orizzontescuola.it/scuola-attiva-kids-webinar-nazionale-il-15-gennaio-per-tutor-referenti-e-docenti/",
+                "date": "13 Gen 2026",
+                "time": "17:03",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Graduatorie docenti in Alto Adige: aperte le domande per l’inserimento e l’aggiornamento. Scadenza 2 febbraio",
+                "link": "https://www.orizzontescuola.it/graduatorie-docenti-in-alto-adige-aperte-le-domande-per-linserimento-e-laggiornamento-scadenza-2-febbraio/",
+                "date": "13 Gen 2026",
+                "time": "16:46",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Arriva la Barbie “autistica”, lo psicologo David Lazzari: “Rendere visibile la neurodiversità nella quotidianità”",
+                "link": "https://www.orizzontescuola.it/arriva-la-barbie-autistica-lo-psicologo-david-lazzari-rendere-visibile-la-neurodiversita-nella-quotidianita/",
+                "date": "13 Gen 2026",
+                "time": "15:13",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Gilda degli Insegnanti: Castellana riconfermato coordinatore nazionale. Focus su contratto, supplenze e qualità della scuola",
+                "link": "https://www.orizzontescuola.it/gilda-degli-insegnanti-castellana-riconfermato-coordinatore-nazionale-focus-su-contratto-supplenze-e-qualita-della-scuola/",
+                "date": "13 Gen 2026",
+                "time": "12:34",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Famiglia del bosco, l’approccio senza giudizi per aiutare i piccoli a scoprire la grammatica e l’aritmetica. Parola alla maestra in pensione che ha accettato il compito",
+                "link": "https://www.orizzontescuola.it/famiglia-del-bosco-lapproccio-senza-giudizi-per-aiutare-i-piccoli-a-scoprire-la-grammatica-e-laritmetica-parola-alla-maestra-in-pensione-che-ha-accettato-il-compito/",
+                "date": "13 Gen 2026",
+                "time": "12:19",
+                "image_link": "N/A"
+            }
+        ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
-        "articles": []
+        "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "VIDEO TUTORIAL | GaE, come fare la domanda passo dopo passo: i passaggi spiegati",
+                "link": "https://www.orizzontescuola.it/video-tutorial-gae-come-fare-la-domanda-passo-dopo-passo-i-passaggi-spiegati/",
+                "date": "8 Gen 2026",
+                "time": "17:13",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Supplenze e ruoli per gli insegnanti: GaE, GPS ed elenchi regionali per il ruolo le domande da presentare nei primi mesi del 2026",
+                "link": "https://www.orizzontescuola.it/supplenze-e-ruoli-per-gli-insegnanti-gae-gps-ed-elenchi-regionali-per-il-ruolo-le-domande-da-presentare-nei-primi-mesi-del-2026/",
+                "date": "6 Gen 2026",
+                "time": "15:45",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Specializzazione sostegno con secondo ciclo Indire: per triennalisti escluso anno 2025/26, serve titolo di studio e servizio specifico. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/specializzazione-sostegno-con-secondo-ciclo-indire-per-triennalisti-escluso-anno-2025-26-serve-titolo-di-studio-e-servizio-specifico-risposte-ai-quesiti/",
+                "date": "18 Dic 2025",
+                "time": "13:39",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Graduatorie GPS 2026, elenchi regionali per il ruolo, concorso PNRR3: quali notizie sono attese questa settimana. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-elenchi-regionali-per-il-ruolo-concorso-pnrr3-quali-notizie-sono-attese-questa-settimana-risposte-ai-quesiti/",
+                "date": "16 Dic 2025",
+                "time": "9:58",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Elenchi regionali e non solo: facciamo il punto della situazione. QUESTION TIME con Cannas. LIVE Lunedì 15 dicembre alle 14:30",
+                "link": "https://www.orizzontescuola.it/elenchi-regionali-e-non-solo-facciamo-il-punto-della-situazione-question-time-con-cannas-live-lunedi-15-dicembre-alle-1430/",
+                "date": "14 Dic 2025",
+                "time": "15:45",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Graduatorie ad esaurimento 2026/28: non ci saranno nuovi inserimenti. Abilitati devono attendere GPS",
+                "link": "https://www.orizzontescuola.it/graduatorie-ad-esaurimento-2026-28-non-ci-saranno-nuovi-inserimenti-abilitati-devono-attendere-gps/",
+                "date": "11 Dic 2025",
+                "time": "10:05",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Assunzioni docenti 2025: oggi 10 dicembre stop graduatorie PNRR per ruoli entro 31 dicembre. Cosa fa il supplente",
+                "link": "https://www.orizzontescuola.it/assunzioni-docenti-2025-oggi-10-dicembre-stop-graduatorie-pnrr-per-ruoli-entro-31-dicembre-cosa-fa-il-supplente/",
+                "date": "10 Dic 2025",
+                "time": "10:19",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Sostegno, anno scolastico 2025/26 inutile sia per seconda fascia GPS che secondo ciclo Indire?",
+                "link": "https://www.orizzontescuola.it/sostegno-anno-scolastico-2025-26-inutile-sia-per-seconda-fascia-gps-che-secondo-ciclo-indire/",
+                "date": "3 Dic 2025",
+                "time": "16:01",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Aggiornamento graduatorie GPS per le supplenze 2026-28: tante le novità anche per l’algoritmo",
+                "link": "https://www.orizzontescuola.it/aggiornamento-graduatorie-gps-per-le-supplenze-2026-28-tante-le-novita-anche-per-lalgoritmo/",
+                "date": "27 Nov 2025",
+                "time": "10:36",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Graduatorie GPS 2026: incontro tecnico atteso già questa settimana. RISPOSTE AI QUESITI su servizio e titoli",
+                "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-incontro-tecnico-atteso-gia-questa-settimana-risposte-ai-quesiti-su-servizio-e-titoli/",
+                "date": "25 Nov 2025",
+                "time": "9:11",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "GPS 2026, ipotesi aggiornamento in pieno inverno: nessuna data certa ma Ministero dice sì a servizio con riserva. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/gps-2026-ipotesi-aggiornamento-in-pieno-inverno-nessuna-data-certa-ma-ministero-dice-si-a-servizio-con-riserva-pillole-di-question-time/",
+                "date": "21 Nov 2025",
+                "time": "12:25",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "GPS graduatorie 2026: data aggiornamento, nuovo algoritmo, servizio valido, titoli. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/gps-graduatorie-2026-data-aggiornamento-servizio-valido-titoli-risposte-ai-quesiti/",
+                "date": "21 Nov 2025",
+                "time": "9:39",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Concorso docenti PNRR3, oltre 220mila domande, prova scritta da fine novembre: le istruzioni operative. QUESTION TIME con Craparo (Gilda) LIVE Venerdì 14 novembre alle 14:30",
+                "link": "https://www.orizzontescuola.it/aggiornamento-gps-2026-titoli-preferenze-e-non-solo-ecco-cosa-puo-cambiare-question-time-con-craparo-gilda-live-venerdi-14-novembre-alle-1430/",
+                "date": "13 Nov 2025",
+                "time": "18:36",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Docenti assunti GPS sostegno: chi è vincolato e chi potrà presentare domanda di mobilità",
+                "link": "https://www.orizzontescuola.it/docenti-assunti-gps-sostegno-chi-e-vincolato-e-chi-potra-presentare-domanda-di-mobilita/",
+                "date": "30 Ott 2025",
+                "time": "15:17",
+                "image_link": "N/A"
+            }
+        ]
     },
     "group_6": {
         "title": "Diventare Insegnanti",
-        "articles": []
+        "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "GaE, come si compila sezione C3 per il sostegno. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/gae-come-si-compila-sezione-c3-per-il-sostegno-risposte-ai-quesiti/",
+                "date": "11 Gen 2026",
+                "time": "11:45",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_2066856038.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Elenchi regionali per il ruolo, docenti potranno essere assunti anche senza abilitazione",
+                "link": "https://www.orizzontescuola.it/elenchi-regionali-per-il-ruolo-docenti-potranno-essere-assunti-anche-senza-abilitazione/",
+                "date": "11 Gen 2026",
+                "time": "9:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2538269019.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Percorsi abilitanti 60, 36, 30 CFU: tante Università pubblicano già i BANDI 2025/26. Ecco le date di scadenza",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-60-36-30-cfu-ecco-le-nuove-pagine-delle-universita-per-lanno-accademico-2025-26/",
+                "date": "11 Gen 2026",
+                "time": "8:59",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_1708378216.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "GaE, 3 date da ricordare: domanda entro il 22 gennaio, operazioni annuali dal 15 giugno, scelta scuole prima fascia GI da stabilire. NOTA Ministero",
+                "link": "https://www.orizzontescuola.it/gae-3-date-da-ricordare-domanda-entro-il-22-gennaio-operazioni-annuali-dal-15-giugno-scelta-scuole-prima-fascia-gi-da-stabilire-nota-ministero/",
+                "date": "10 Gen 2026",
+                "time": "11:31",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_1158978574.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Graduatorie ad Esaurimento (GaE): domanda entro il 22 gennaio. Provincia da scegliere, FAQ e Video tutorial [LO SPECIALE]",
+                "link": "https://www.orizzontescuola.it/graduatorie-ad-esaurimento-gae-domanda-dall8-gennaio-ore-1200-al-22-gennaio-possibili-i-reinserimenti/",
+                "date": "9 Gen 2026",
+                "time": "21:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/Posizioni.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "GaE, le novità 2026: si può inserire titolo Indire, operazioni annuali previste tra il 15 giugno e il 2 luglio",
+                "link": "https://www.orizzontescuola.it/gae-le-novita-2026-si-puo-inserire-titolo-indire-operazioni-annuali-previste-tra-il-15-giugno-e-il-2-luglio/",
+                "date": "9 Gen 2026",
+                "time": "19:42",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
+            }
+        ]
     },
     "group_7": {
         "title": "Notizie ATA",
-        "articles": []
+        "articles": [
+            {
+                "category": "Gestire la scuola",
+                "title": "Il verbale di scrutinio del I trimestre/quadrimestre della scuola primaria: scarica un modello aggiornato",
+                "link": "https://www.orizzontescuola.it/il-verbale-di-scrutinio-del-i-trimestre-quadrimestre-della-scuola-primaria-scarica-un-modello-aggiornato/",
+                "date": "9 Gen 2026",
+                "time": "11:48",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_2334477723-scaled.jpg"
+            },
+            {
+                "category": "Gestire la scuola",
+                "title": "Criteri di iscrizione alla Scuola Secondaria di I e II Grado: modello di criteri da scaricare",
+                "link": "https://www.orizzontescuola.it/criteri-di-iscrizione-alla-scuola-secondaria-di-i-e-ii-grado-modello-di-criteri-da-scaricare/",
+                "date": "9 Gen 2026",
+                "time": "7:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2291776435.jpg"
+            },
+            {
+                "category": "Gestire la scuola",
+                "title": "Il conguaglio previdenziale: profili normativi, applicativi della comunicazione dei compensi accessori fuori sistema (ex Pre96). Scarica la guida per immagini",
+                "link": "https://www.orizzontescuola.it/il-conguaglio-previdenziale-profili-normativi-applicativi-della-comunicazione-dei-compensi-accessori-fuori-sistema-ex-pre96-scarica-la-guida-per-immagini/",
+                "date": "8 Gen 2026",
+                "time": "18:31",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2467525223.jpg"
+            },
+            {
+                "category": "Gestire la scuola",
+                "title": "Aggiornamento del PTOF: la valutazione degli apprendimenti nella scuola primaria per gli Anni scolastici 2025/2026 e successivi",
+                "link": "https://www.orizzontescuola.it/aggiornamento-del-ptof-la-valutazione-degli-apprendimenti-nella-scuola-primaria-per-gli-anni-scolastici-2025-2026-e-successivi/",
+                "date": "8 Gen 2026",
+                "time": "15:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_2206664191.jpg"
+            },
+            {
+                "category": "Gestire la scuola",
+                "title": "Regolamento sulla valutazione degli alunni della scuola Primaria. Scarica il modello",
+                "link": "https://www.orizzontescuola.it/regolamento-sulla-valutazione-degli-alunni-della-scuola-primaria-scarica-il-modello/",
+                "date": "8 Gen 2026",
+                "time": "11:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2465141243.jpg"
+            },
+            {
+                "category": "Gestire la scuola",
+                "title": "Chiusura e apertura del fondo delle minute spese a inizio anno finanziario: precisazioni e casi pratici",
+                "link": "https://www.orizzontescuola.it/chiusura-e-apertura-del-fondo-delle-minute-spese-a-inizio-anno-finanziario-precisazioni-e-casi-pratici/",
+                "date": "7 Gen 2026",
+                "time": "18:03",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2306056481.jpg"
+            }
+        ]
     },
     "group_8": {
         "title": "Didattica",
-        "articles": []
+        "articles": [
+            {
+                "category": "Didattica",
+                "title": "Formulare un giudizio su uno studente: qual è quello che ferisce e quello che fa crescere. Valutazione, identità e responsabilità educativa",
+                "link": "https://www.orizzontescuola.it/formulare-un-giudizio-su-uno-studente-qual-e-quello-che-ferisce-e-quello-che-fa-crescere-valutazione-identita-e-responsabilita-educativa/",
+                "date": "4 Gen 2026",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_2721349035.jpg"
+            },
+            {
+                "category": "Didattica",
+                "title": "Ciò che un insegnante dovrebbe sapere del cervello dei propri studenti: come apprende, la memoria, l’attenzione, la motivazione",
+                "link": "https://www.orizzontescuola.it/cio-che-un-insegnante-dovrebbe-sapere-del-cervello-dei-propri-studenti-come-apprende-la-memoria-lattenzione-la-motivazione/",
+                "date": "3 Gen 2026",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_1907683531.jpg"
+            },
+            {
+                "category": "Didattica",
+                "title": "Insegnare cittadinanza attiva a bambini di otto anni, bastano semplici attività. Ecco quali",
+                "link": "https://www.orizzontescuola.it/insegnare-cittadinanza-attiva-a-bambini-di-otto-anni-bastano-semplici-attivita-ecco-quali/",
+                "date": "2 Gen 2026",
+                "time": "8:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_2617014485.jpg"
+            },
+            {
+                "category": "Didattica",
+                "title": "L’impatto dell’ansia da prestazione. Strategie per un ambiente scolastico che promuova il benessere psicologico",
+                "link": "https://www.orizzontescuola.it/limpatto-dellansia-da-prestazione-strategie-per-un-ambiente-scolastico-che-promuova-il-benessere-psicologico/",
+                "date": "30 Dic 2025",
+                "time": "8:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_1258723000.jpg"
+            },
+            {
+                "category": "Didattica",
+                "title": "Dai “Doni di Natale” del Quirinale alla scuola che accoglie, una lezione educativa che interpella docenti, dirigenti e famiglie: in allegato scheda di replicabilità",
+                "link": "https://www.orizzontescuola.it/dai-doni-di-natale-del-quirinale-alla-scuola-che-accoglie-una-lezione-educativa-che-interpella-docenti-dirigenti-e-famiglie-in-allegato-scheda-di-replicabilita/",
+                "date": "28 Dic 2025",
+                "time": "9:45",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/Progetto-senza-titolo-7.png"
+            },
+            {
+                "category": "Didattica",
+                "title": "Didattica aumentata, Intelligenza artificiale, realtà immersiva: aprono nuovi scenari educativi. Ecco quali",
+                "link": "https://www.orizzontescuola.it/didattica-aumentata-intelligenza-artificiale-realta-immersiva-aprono-nuovi-scenari-educativi-ecco-quali/",
+                "date": "22 Dic 2025",
+                "time": "8:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/shutterstock_2037899651.jpg"
+            }
+        ]
     },
     "group_9": {
         "title": "Lettere in Redazione",
-        "articles": []
+        "articles": [
+            {
+                "category": "Lettere in redazione",
+                "title": "“Troppi compiti creano stress”, “I compiti sono necessari per non avere lacune”. Qual è la posta educativa in gioco. Lettera",
+                "link": "https://www.orizzontescuola.it/troppi-compiti-creano-stress-i-compiti-sono-necessari-per-non-avere-lacune-qual-e-la-posta-educativa-in-gioco-lettera/",
+                "date": "12 Gen 2026",
+                "time": "10:33",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
+                "title": "Legge di “sbilancio” 2026 contro la scuola pubblica. Il solito giochino: tagliare risorse alla Scuola, bancomat del Governo",
+                "link": "https://www.orizzontescuola.it/legge-di-sbilancio-2026-contro-la-scuola-pubblica-il-solito-giochino-tagliare-risorse-alla-scuola-bancomat-del-governo/",
+                "date": "10 Gen 2026",
+                "time": "17:45",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
+                "title": "Scuola e strafalcioni normativi: il legislatore sotto accusa. Lettera",
+                "link": "https://www.orizzontescuola.it/scuola-e-strafalcioni-normativi-il-legislatore-sotto-accusa-lettera/",
+                "date": "9 Gen 2026",
+                "time": "12:45",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
+                "title": "Chiesa e scuola: se la barca affonda, l’educazione è l’unica scialuppa. Lettera",
+                "link": "https://www.orizzontescuola.it/chiesa-e-scuola-se-la-barca-affonda-leducazione-e-lunica-scialuppa-lettera/",
+                "date": "8 Gen 2026",
+                "time": "9:31",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
+                "title": "La scuola non può essere famiglia, argine, intrattenimento e servizio clienti ma deve formare coscienze. Lettera",
+                "link": "https://www.orizzontescuola.it/la-scuola-non-puo-essere-famiglia-argine-intrattenimento-e-servizio-clienti-ma-deve-formare-coscienze-lettera/",
+                "date": "6 Gen 2026",
+                "time": "19:43",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
+                "title": "“Eccetto il peccato”: il Natale come rivelazione dell’umano e responsabilità educativa della scuola. Lettera",
+                "link": "https://www.orizzontescuola.it/eccetto-il-peccato-il-natale-come-rivelazione-dellumano-e-responsabilita-educativa-della-scuola-lettera/",
+                "date": "5 Gen 2026",
+                "time": "8:57",
+                "image_link": "N/A"
+            }
+        ]
     }
 }
