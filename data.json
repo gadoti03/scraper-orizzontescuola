@@ -3,12 +3,12 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR3: tutto pronto per la prova orale. Dal voto minimo alla convocazione, cosa sapere [LO SPECIALE]",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-la-prova-orale-chi-partecipa-come-si-svolge-almeno-70-100-per-superarla-lo-speciale/",
+                "category": "Cronaca",
+                "title": "Collaboratori scolastici dal Sud, il dirigente concede un bonus di 50 euro per tornare a casa: “L’Italia è lunga e le famiglie restano lontane”",
+                "link": "https://www.orizzontescuola.it/collaboratori-scolastici-dal-sud-il-dirigente-concede-un-bonus-di-50-euro-per-tornare-a-casa-litalia-e-lunga-e-le-famiglie-restano-lontane/",
                 "date": "14 Gen 2026",
-                "time": "10:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_503283772.jpg"
+                "time": "19:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/Dirigente.png"
             },
             {
                 "category": "Stipendio",
@@ -23,6 +23,38 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze 2026: segreterie scolastiche alla ricerca di insegnanti",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "14 Gen 2026",
+                "time": "22:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Anagrafe Regionale dell’Edilizia scolastica, aggiornamento dati classi e alunni entro il 16 gennaio: obbligo per le scuole",
+                "link": "https://www.orizzontescuola.it/anagrafe-regionale-delledilizia-scolastica-aggiornamento-dati-classi-e-alunni-entro-il-16-gennaio-obbligo-per-le-scuole/",
+                "date": "14 Gen 2026",
+                "time": "20:28",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_120805804.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Robot umanoide in grado di parlare come un essere umano grazie all’IA: l’insegnamento tra le possibili applicazioni",
+                "link": "https://www.orizzontescuola.it/robot-umanoide-in-grado-di-parlare-come-un-essere-umano-grazie-allia-linsegnamento-tra-le-possibili-applicazioni/",
+                "date": "14 Gen 2026",
+                "time": "20:01",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/Screenshot-2026-01-14-184605.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Studentessa maggiorenne si infortuna a scuola saltando ostacoli: chiede un risarcimento di oltre 25milaeuro, ma il Tribunale dice no. Ecco cosa hanno detto i giudici",
+                "link": "https://www.orizzontescuola.it/studentessa-maggiorenne-si-infortuna-a-scuola-saltando-ostacoli-chiede-un-risarcimento-di-oltre-25euro-ma-il-tribunale-dice-no-ecco-cosa-hanno-detto-i-giudici/",
+                "date": "14 Gen 2026",
+                "time": "19:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_675123196.jpg"
+            },
             {
                 "category": "Cronaca",
                 "title": "Sostegno, Miceli: “Le conquiste sull’inclusione vanno difese ogni giorno”. Cinquant’anni dal documento Falcucci che “rivoluzionò” la scuola italiana [VIDEO]",
@@ -104,14 +136,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/03/giustizia.jpg"
             },
             {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze 2026: segreterie scolastiche alla ricerca di insegnanti",
-                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
-                "date": "14 Gen 2026",
-                "time": "14:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
-            },
-            {
                 "category": "Docenti",
                 "title": "Viaggio della Memoria 2026: il 26 gennaio visita online dei campi di concentramento di Auschwitz-Birkenau. Come iscrivere la tua scuola. NOTA MIM",
                 "link": "https://www.orizzontescuola.it/viaggio-della-memoria-2026-il-26-gennaio-visita-online-dei-campi-di-concentramento-di-auschwitz-birkenau-come-iscrivere-la-tua-scuola-nota-mim/",
@@ -126,7 +150,12 @@
                 "date": "14 Gen 2026",
                 "time": "12:59",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_1721092186-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Pensioni",
                 "title": "Pensione su conto corrente febbraio 2026: rivalutazione definitiva, arretrati gennaio e nuovo Irpef nel cedolino. Verifica importo accreditato e conguagli fiscali",
@@ -150,12 +179,7 @@
                 "date": "14 Gen 2026",
                 "time": "11:31",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2090710285.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Docenti",
                 "title": "Sconti e agevolazioni docenti e ATA: dai trasporti (anche con Carta docente) all’assicurazione sanitaria, dagli alimentari all’abbigliamento. Il dettaglio",
@@ -172,6 +196,14 @@
                 "date": "14 Gen 2026",
                 "time": "10:23",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/02/shutterstock_526769410.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3: tutto pronto per la prova orale. Dal voto minimo alla convocazione, cosa sapere [LO SPECIALE]",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-la-prova-orale-chi-partecipa-come-si-svolge-almeno-70-100-per-superarla-lo-speciale/",
+                "date": "14 Gen 2026",
+                "time": "10:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_503283772.jpg"
             },
             {
                 "category": "Docenti",
@@ -225,44 +257,28 @@
                 "time": "21:08",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/Valditara.png"
             },
-            null,
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR3, alcune classi di concorso annullate in alcune regioni. Ecco perché",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-alcune-classi-di-concorso-annullate-in-alcune-regioni-ecco-perche/",
-                "date": "13 Gen 2026",
-                "time": "17:21",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2176731709.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Nuovo Curriculum dello studente, il Garante privacy dà l’ok al decreto: sezione prove Invalsi facoltativa, risultati non destinati a valutazione studenti",
-                "link": "https://www.orizzontescuola.it/nuovo-curriculum-dello-studente-il-garante-privacy-da-lok-al-decreto-la-nuova-sezione-sulle-prove-invalsi-facoltativa-risultati-non-valutano-studenti/",
-                "date": "13 Gen 2026",
-                "time": "16:19",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/shutterstock_2199681245.jpg"
-            },
-            {
-                "category": "Guide",
-                "title": "Corsi di recupero dopo le insufficienze del primo trimestre/quadrimestre. Per quali discipline? Con quali soldi? La verifica è obbligatoria? [GUIDA]",
-                "link": "https://www.orizzontescuola.it/corsi-di-recupero-dopo-le-insufficienze-del-primo-trimestre-quadrimestre-per-quali-discipline-con-quali-soldi-la-verifica-e-obbligatoria-guida/",
-                "date": "13 Gen 2026",
-                "time": "16:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2339228197.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Pittoni (Lega): elenchi regionali e assunzioni da GPS anche su posto comune gli obiettivi del doppio canale di reclutamento",
-                "link": "https://www.orizzontescuola.it/pittoni-lega-elenchi-regionali-e-assunzioni-da-gps-anche-su-posto-comune-gli-obiettivi-del-doppio-canale-di-reclutamento/",
-                "date": "13 Gen 2026",
-                "time": "15:35",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-29-at-17.54.17.jpeg"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Lombardia, attivate 57 nuove filiere 4+2 per l’a.s. 2026/27. L’USR: rafforzato il legame tra scuola e imprese",
+                "link": "https://www.orizzontescuola.it/lombardia-attivate-57-nuove-filiere-42-per-la-s-2026-27-lusr-rafforzato-il-legame-tra-scuola-e-imprese/",
+                "date": "14 Gen 2026",
+                "time": "20:35",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "AGID: SPID migra sul cloud, possibili disservizi dal 16 al 18 gennaio",
+                "link": "https://www.orizzontescuola.it/agid-spid-migra-sul-cloud-possibili-disservizi-dal-16-al-18-gennaio/",
+                "date": "14 Gen 2026",
+                "time": "19:37",
+                "image_link": "N/A"
+            },
             {
                 "category": "Comunicati stampa",
                 "title": "Alunni con disabilità, stabilizzazione degli assistenti per l’autonomia e la comunicazione. Anief: ripartono le trattative",
@@ -390,22 +406,6 @@
                 "date": "14 Gen 2026",
                 "time": "13:51",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Valditara riceve Meritocrazia Italia: focus su psicologo scolastico e reclutamento per “garantire maggiore stabilità al sistema”",
-                "link": "https://www.orizzontescuola.it/valditara-riceve-meritocrazia-italia-focus-su-psicologo-scolastico-e-reclutamento-per-garantire-maggiore-stabilita-al-sistema/",
-                "date": "14 Gen 2026",
-                "time": "13:24",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Università di Messina al fianco della comunità iraniana: cordoglio per Yasin Mirzaei e supporto agli studenti. La nota dell’ateneo",
-                "link": "https://www.orizzontescuola.it/universita-di-messina-al-fianco-della-comunita-iraniana-cordoglio-per-yasin-mirzaei-e-supporto-agli-studenti-la-nota-dellateneo/",
-                "date": "14 Gen 2026",
-                "time": "12:29",
-                "image_link": "N/A"
             }
         ]
     },
@@ -531,6 +531,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti, validità anno scolastico e 12 punti: differenza tra 166 e 180 giorni di servizio",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-validita-anno-scolastico-e-12-punti-differenza-tra-166-e-180-giorni-di-servizio/",
+                "date": "11 Gen 2026",
+                "time": "18:35",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_2138141785.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Graduatorie GPS 2026, certificazione linguistica vale se ottenuta quando l’ente era accreditato. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/graduatorie-gps-certificazione-linguistica-vale-se-ottenuta-quando-lente-era-accreditato-pillole-di-question-time/",
                 "date": "11 Gen 2026",
@@ -568,14 +576,6 @@
                 "date": "11 Gen 2026",
                 "time": "8:59",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_1708378216.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "GaE, 3 date da ricordare: domanda entro il 22 gennaio, operazioni annuali dal 15 giugno, scelta scuole prima fascia GI da stabilire. NOTA Ministero",
-                "link": "https://www.orizzontescuola.it/gae-3-date-da-ricordare-domanda-entro-il-22-gennaio-operazioni-annuali-dal-15-giugno-scelta-scuole-prima-fascia-gi-da-stabilire-nota-ministero/",
-                "date": "10 Gen 2026",
-                "time": "11:31",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_1158978574.jpg"
             }
         ]
     },
