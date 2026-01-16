@@ -3,27 +3,6 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
-                "category": "Cronaca",
-                "title": "Collaboratori scolastici dal Sud, il dirigente concede un bonus di 50 euro per tornare a casa: “L’Italia è lunga e le famiglie restano lontane”",
-                "link": "https://www.orizzontescuola.it/collaboratori-scolastici-dal-sud-il-dirigente-concede-un-bonus-di-50-euro-per-tornare-a-casa-litalia-e-lunga-e-le-famiglie-restano-lontane/",
-                "date": "14 Gen 2026",
-                "time": "19:24",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/Dirigente.png"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Pacifico (Anief): “Basta considerare i docenti di sostegno di Serie B. Serve stabilizzare i 117.000 posti in deroga” [VIDEO INTERVISTA]",
-                "link": "https://www.orizzontescuola.it/pacifico-anief-basta-considerare-i-docenti-di-sostegno-di-serie-b-serve-stabilizzare-i-117-000-posti-in-deroga-video-intervista/",
-                "date": "14 Gen 2026",
-                "time": "14:48",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/Marcello-Pacifico-6.png"
-            }
-        ]
-    },
-    "group_2": {
-        "title": "Ultimi Aggiornamenti",
-        "articles": [
-            {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze docenti, algoritmo GPS definitivamente sconfitto: 19mila euro di risarcimento e punteggio pieno per il 2024/25. Sentenza",
                 "link": "https://www.orizzontescuola.it/supplenze-docenti-algoritmo-gps-definitivamente-sconfitto-19mila-euro-di-risarcimento-e-punteggio-pieno-per-il-2024-25-sentenza-anief/",
@@ -31,6 +10,12 @@
                 "time": "21:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_633750290.jpg"
             },
+            null
+        ]
+    },
+    "group_2": {
+        "title": "Ultimi Aggiornamenti",
+        "articles": [
             {
                 "category": "ATA",
                 "title": "Nuovo Bonus Mamme 40 euro al mese, aggiornato il servizio per presentare le domande integrative entro il 31 gennaio. Messaggio INPS",
@@ -95,7 +80,6 @@
                 "time": "17:23",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1936676008-scaled.jpg"
             },
-            null,
             {
                 "category": "Cronaca",
                 "title": "Alunno con autismo viene promosso, ma i genitori fanno ricorso per far ripetere l’anno. Il TAR accoglie la richiesta: “Diagnosi ASL prevale su valutazione dei docenti”. Scuola condannata per PEI non aggiornato",
@@ -143,12 +127,7 @@
                 "date": "15 Gen 2026",
                 "time": "12:09",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_2033557268-1.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Docenti",
                 "title": "Anno di prova docenti: chi può svolgerlo nel 2025/26. Conteggio giorni per neoassunti entro 31 dicembre e supplenza valida",
@@ -158,21 +137,18 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/10/shutterstock_116039263.jpg"
             },
             {
-                "category": "Scuole",
-                "title": "Speciale scrutini: norme, consigli e documenti da scaricare. Aggiunto verbale secondaria II grado",
-                "link": "https://www.orizzontescuola.it/speciale-scrutini-norme-consigli-e-documenti-da-scaricare/",
-                "date": "15 Gen 2026",
-                "time": "11:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/Speciale-scrutini.png"
-            },
-            {
                 "category": "Guide",
                 "title": "Permessi diritto studio 2026 docenti e ATA: sono retribuiti, criteri e modalità di fruizione [GUIDA con i Contratti regionali]",
                 "link": "https://www.orizzontescuola.it/permessi-diritto-studio-2026-docenti-e-ata-sono-retribuiti-criteri-e-modalita-di-fruizione-guida-con-i-contratti-regionali/",
                 "date": "15 Gen 2026",
                 "time": "11:47",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_142220581.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Percorsi abilitanti 30, 36, 60 CFU del 2025/26: chi può partecipare, tempi e costi [LO SPECIALE]",
@@ -271,6 +247,30 @@
                 "date": "14 Gen 2026",
                 "time": "20:01",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/Screenshot-2026-01-14-184605.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Studentessa maggiorenne si infortuna a scuola saltando ostacoli: chiede un risarcimento di oltre 25mila euro, ma il Tribunale dice no. Ecco cosa hanno detto i giudici",
+                "link": "https://www.orizzontescuola.it/studentessa-maggiorenne-si-infortuna-a-scuola-saltando-ostacoli-chiede-un-risarcimento-di-oltre-25euro-ma-il-tribunale-dice-no-ecco-cosa-hanno-detto-i-giudici/",
+                "date": "14 Gen 2026",
+                "time": "19:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_675123196.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Collaboratori scolastici dal Sud, il dirigente concede un bonus di 50 euro per tornare a casa: “L’Italia è lunga e le famiglie restano lontane”",
+                "link": "https://www.orizzontescuola.it/collaboratori-scolastici-dal-sud-il-dirigente-concede-un-bonus-di-50-euro-per-tornare-a-casa-litalia-e-lunga-e-le-famiglie-restano-lontane/",
+                "date": "14 Gen 2026",
+                "time": "19:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/Dirigente.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Sostegno, Miceli: “Le conquiste sull’inclusione vanno difese ogni giorno”. Cinquant’anni dal documento Falcucci che “rivoluzionò” la scuola italiana [VIDEO]",
+                "link": "https://www.orizzontescuola.it/sostegno-miceli-le-conquiste-sullinclusione-vanno-difese-ogni-giorno-cinquantanni-dal-documento-falcucci-che-rivoluziono-la-scuola-italiana-video/",
+                "date": "14 Gen 2026",
+                "time": "18:59",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/walter_miceli.png"
             }
         ]
     },
