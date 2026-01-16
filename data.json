@@ -24,6 +24,22 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti, algoritmo GPS definitivamente sconfitto: 19mila euro di risarcimento e punteggio pieno per il 2024/25. Sentenza",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-algoritmo-gps-definitivamente-sconfitto-19mila-euro-di-risarcimento-e-punteggio-pieno-per-il-2024-25-sentenza-anief/",
+                "date": "15 Gen 2026",
+                "time": "21:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_633750290.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Nuovo Bonus Mamme 40 euro al mese, aggiornato il servizio per presentare le domande integrative entro il 31 gennaio. Messaggio INPS",
+                "link": "https://www.orizzontescuola.it/nuovo-bonus-mamme-40-euro-al-mese-aggiornato-il-servizio-per-presentare-le-domande-integrative-entro-il-31-gennaio-messaggio-inps/",
+                "date": "15 Gen 2026",
+                "time": "19:53",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_760999171.jpg"
+            },
+            {
                 "category": "Plus",
                 "title": "“OrizzonteScuola7”, la newsletter settimanale di OrizzonteScuola. Iscriviti gratuitamente",
                 "link": "https://www.orizzontescuola.it/orizzontescuola7-la-newsletter-settimanale-di-orizzontescuola-iscriviti-gratuitamente/",
@@ -127,7 +143,12 @@
                 "date": "15 Gen 2026",
                 "time": "12:09",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_2033557268-1.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Docenti",
                 "title": "Anno di prova docenti: chi può svolgerlo nel 2025/26. Conteggio giorni per neoassunti entro 31 dicembre e supplenza valida",
@@ -143,12 +164,7 @@
                 "date": "15 Gen 2026",
                 "time": "11:55",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/Speciale-scrutini.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Guide",
                 "title": "Permessi diritto studio 2026 docenti e ATA: sono retribuiti, criteri e modalità di fruizione [GUIDA con i Contratti regionali]",
@@ -255,28 +271,29 @@
                 "date": "14 Gen 2026",
                 "time": "20:01",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/Screenshot-2026-01-14-184605.png"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Studentessa maggiorenne si infortuna a scuola saltando ostacoli: chiede un risarcimento di oltre 25mila euro, ma il Tribunale dice no. Ecco cosa hanno detto i giudici",
-                "link": "https://www.orizzontescuola.it/studentessa-maggiorenne-si-infortuna-a-scuola-saltando-ostacoli-chiede-un-risarcimento-di-oltre-25euro-ma-il-tribunale-dice-no-ecco-cosa-hanno-detto-i-giudici/",
-                "date": "14 Gen 2026",
-                "time": "19:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_675123196.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Sostegno, Miceli: “Le conquiste sull’inclusione vanno difese ogni giorno”. Cinquant’anni dal documento Falcucci che “rivoluzionò” la scuola italiana [VIDEO]",
-                "link": "https://www.orizzontescuola.it/sostegno-miceli-le-conquiste-sullinclusione-vanno-difese-ogni-giorno-cinquantanni-dal-documento-falcucci-che-rivoluziono-la-scuola-italiana-video/",
-                "date": "14 Gen 2026",
-                "time": "18:59",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/walter_miceli.png"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            null,
+            {
+                "category": "Cronaca",
+                "title": "Congedo parentale fino ai 14 anni e visite fiscali anche ai medici specializzandi: sintesi di tutte le novità INPS 2026. Circolare",
+                "link": "https://www.orizzontescuola.it/congedo-parentale-fino-ai-14-anni-e-visite-fiscali-anche-ai-medici-specializzandi-sintesi-di-tutte-le-novita-inps-2026-circolare/",
+                "date": "15 Gen 2026",
+                "time": "20:42",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Case del Maestro, online il bando per i soggiorni primaverili 2026: domande entro il 2 febbraio",
+                "link": "https://www.orizzontescuola.it/case-del-maestro-online-il-bando-per-i-soggiorni-primaverili-2026-domande-dal-15-gennaio-al-2-febbraio/",
+                "date": "15 Gen 2026",
+                "time": "19:34",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Al via il Viaggio della Memoria 2026: oltre 100 studenti in formazione itinerante verso Cracovia",
@@ -382,7 +399,7 @@
                 "image_link": "N/A"
             },
             {
-                "category": "Nessuna categoria",
+                "category": "Cronaca",
                 "title": "Ministero della Cultura: 89,8 milioni di euro per efficientamento energetico dei luoghi pubblici nel Sud Italia",
                 "link": "https://www.orizzontescuola.it/ministero-della-cultura-898-milioni-di-euro-per-efficientamento-energetico-dei-luoghi-pubblici-nel-sud-italia/",
                 "date": "15 Gen 2026",
@@ -395,30 +412,6 @@
                 "link": "https://www.orizzontescuola.it/disabilita-e-progetto-di-vita-al-via-la-formazione-nazionale-la-circolare-con-il-calendario-completo-di-date-e-sedi/",
                 "date": "15 Gen 2026",
                 "time": "11:38",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Panetta: “Valorizzare il capitale umano è una responsabilità collettiva, non solo individuale. Investire in istruzione significa investire nelle potenzialità del Paese”",
-                "link": "https://www.orizzontescuola.it/panetta-valorizzare-il-capitale-umano-e-una-responsabilita-collettiva-non-solo-individuale-investire-in-istruzione-significa-investire-nelle-potenzialita-del-paese/",
-                "date": "15 Gen 2026",
-                "time": "11:37",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Bombardieri (Uil) chiede al governo la separazione tra previdenza e assistenza e una riforma strutturale della legge Fornero per rispondere alle esigenze dei lavorator",
-                "link": "https://www.orizzontescuola.it/bombardieri-uil-chiede-al-governo-la-separazione-tra-previdenza-e-assistenza-e-una-riforma-strutturale-della-legge-fornero-per-rispondere-alle-esigenze-dei-lavorator/",
-                "date": "15 Gen 2026",
-                "time": "11:33",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Bullismo, i Carabinieri incontrano le scuole in Friuli Venezia Giulia: “Chiedere aiuto non è debolezza”",
-                "link": "https://www.orizzontescuola.it/bullismo-i-carabinieri-incontrano-le-scuole-in-friuli-venezia-giulia-chiedere-aiuto-non-e-debolezza/",
-                "date": "15 Gen 2026",
-                "time": "11:22",
                 "image_link": "N/A"
             }
         ]
