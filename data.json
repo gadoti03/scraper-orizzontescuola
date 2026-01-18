@@ -24,6 +24,38 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Plus",
+                "title": "“OrizzonteScuola7”, la newsletter settimanale di OrizzonteScuola. Iscriviti gratuitamente",
+                "link": "https://www.orizzontescuola.it/orizzontescuola7-la-newsletter-settimanale-di-orizzontescuola-iscriviti-gratuitamente/",
+                "date": "18 Gen 2026",
+                "time": "18:59",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/La-newsletter-per-Diventare-insegnante.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Allerta meteo scuole chiuse lunedì 19 gennaio: rossa in gran parte della Sardegna, arancione in Sicilia e Calabria. Stop alle lezioni in diversi comuni. ELENCO IN AGGIORNAMENTO",
+                "link": "https://www.orizzontescuola.it/allerta-meteo-scuole-chiuse-lunedi-19-gennaio-stop-alle-lezioni-in-diversi-comuni-elenco-in-aggiornamento/",
+                "date": "18 Gen 2026",
+                "time": "18:22",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/Maltempo-1.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“Dovete studiare 15 ore al giorno per diventare migliore dell’intelligenza artificiale. I cellulari? Da vietare”. La storia del professore bulgaro che prepara gli studenti a Harvard, Cambridge e alla NASA",
+                "link": "https://www.orizzontescuola.it/dovete-studiare-15-ore-al-giorno-per-diventare-migliore-dellintelligenza-artificiale-i-cellulari-da-vietare-la-storia-del-professore-bulgaro-che-prepara-gli-studenti-a-harvard-cambridge-e-al/",
+                "date": "18 Gen 2026",
+                "time": "15:31",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2479199065.jpg"
+            },
+            {
+                "category": "Studenti",
+                "title": "Perché i laureati italiani scappano all’estero: stipendi doppi in Germania e investimenti universitari ultimi in Europa. I numeri del declino",
+                "link": "https://www.orizzontescuola.it/perche-i-laureati-italiani-scappano-allestero-stipendi-doppi-in-germania-e-investimenti-universitari-ultimi-in-europa-i-numeri-del-declino/",
+                "date": "18 Gen 2026",
+                "time": "14:06",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_1562815639.jpg"
+            },
+            {
                 "category": "Cronaca",
                 "title": "L’inquinamento atmosferico prima e dopo la nascita può influenzare la pressione arteriosa dei bambini secondo una ricerca",
                 "link": "https://www.orizzontescuola.it/linquinamento-atmosferico-prima-e-dopo-la-nascita-puo-influenzare-la-pressione-arteriosa-dei-bambini-secondo-una-ricerca/",
@@ -80,7 +112,7 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_1978336310.jpg"
             },
             {
-                "category": "Nessuna categoria",
+                "category": "Cronaca",
                 "title": "La Spezia, studente accoltellato a scuola: ecco il messaggio dell’Istituto dopo la tragedia",
                 "link": "https://www.orizzontescuola.it/la-spezia-studente-accoltellato-a-scuola-ecco-il-messaggio-dellistituto-dopo-la-tragedia/",
                 "date": "18 Gen 2026",
@@ -97,14 +129,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/snipcapture-30-12-2025_at_10-11-57.png"
             },
             {
-                "category": "Cronaca",
-                "title": "Forte maltempo in arrivo sull’Italia: allerta gialla in 3 regioni, avviso criticità in Sardegna. Su chiusura scuole ancora nessuna decisione",
-                "link": "https://www.orizzontescuola.it/forte-maltempo-in-arrivo-sullitalia-allerta-gialla-in-3-regioni-avviso-criticita-in-sardegna-su-chiusura-scuole-ancora-nessuna-decisione/",
-                "date": "17 Gen 2026",
-                "time": "18:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_198046424.jpg"
-            },
-            {
                 "category": "Comunicati stampa",
                 "title": "Concorso PNRR 3 per docenti, al via gli orali. Anief: serve il doppio canale di reclutamento",
                 "link": "https://www.orizzontescuola.it/concorso-pnrr-3-al-via-gli-orali-anief-serve-il-doppio-canale-di-reclutamento-comunicato-stampa/",
@@ -119,7 +143,12 @@
                 "date": "17 Gen 2026",
                 "time": "17:42",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/IMG-20250220-WA0003.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Stipendio",
                 "title": "Stipendio gennaio 2026 docenti e ATA: NoiPa ha applicato la riduzione IRPEF, se spettante",
@@ -143,12 +172,7 @@
                 "date": "17 Gen 2026",
                 "time": "15:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2090710285.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Frosinone, studente ferito al collo con un coltello davanti a scuola dopo una lite: caccia all’aggressore fuggito",
@@ -254,36 +278,92 @@
                 "date": "16 Gen 2026",
                 "time": "16:40",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2006540483.jpg"
-            },
-            {
-                "category": "Stipendio",
-                "title": "Stipendi docenti e ATA, NoiPA: arretrati in pagamento entro gennaio, adeguamenti in busta paga",
-                "link": "https://www.orizzontescuola.it/stipendi-docenti-e-ata-noipa-arretrati-in-pagamento-entro-gennaio-adeguamenti-in-busta-paga/",
-                "date": "16 Gen 2026",
-                "time": "15:52",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_745737481.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso infanzia e primaria PNRR3, arrivano le convocazioni prova orale. [AGGIORNATO con Calabria]",
-                "link": "https://www.orizzontescuola.it/concorso-infanzia-e-primaria-pnrr3-arrivano-le-convocazioni-prova-orale-dal-19-gennaio-in-aggiornamento/",
-                "date": "16 Gen 2026",
-                "time": "14:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_1721092186-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Elenchi regionali per il ruolo: validi solo i punteggi prova scritta e orale del concorso, no titoli. La modifica nel prossimo decreto PNRR",
-                "link": "https://www.orizzontescuola.it/elenchi-regionali-per-il-ruolo-validi-solo-i-punteggi-prova-scritta-e-orale-del-concorso-no-titoli-la-modifica-nel-prossimo-decreto-pnrr/",
-                "date": "16 Gen 2026",
-                "time": "13:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492177333-scaled.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Matematica scoglio degli studenti italiani: solo il 49,2% ha competenze adeguate alla maturità, mentre il gender gap penalizza le studentesse di 7,6 punti",
+                "link": "https://www.orizzontescuola.it/matematica-scoglio-degli-studenti-italiani-solo-il-492-ha-competenze-adeguate-alla-maturita-mentre-il-gender-gap-penalizza-le-studentesse-di-76-punti/",
+                "date": "18 Gen 2026",
+                "time": "19:00",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Premio europeo Carlo Magno per la Gioventù 2026: fino a 7.500 euro per i migliori progetti giovanili. Scadenza 2 febbraio",
+                "link": "https://www.orizzontescuola.it/premio-europeo-carlo-magno-per-la-gioventu-2026-fino-a-7-500-euro-per-i-migliori-progetti-giovanili-scadenza-2-febbraio/",
+                "date": "18 Gen 2026",
+                "time": "18:30",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "FLC CGIL contro i metal detector nelle scuole. Fracassi: “Servono più docenti e personale ATA, non controllo e repressione”",
+                "link": "https://www.orizzontescuola.it/flc-cgil-contro-i-metal-detector-nelle-scuole-fracassi-servono-piu-docenti-e-personale-ata-non-controllo-e-repressione/",
+                "date": "18 Gen 2026",
+                "time": "18:15",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Dall’incubo di La Spezia alla diagnosi di un’intera generazione: ecco cos’è alessitimia e come riconoscerla",
+                "link": "https://www.orizzontescuola.it/dallincubo-di-la-spezia-alla-diagnosi-di-unintera-generazione-ecco-cose-alessitimia-e-come-riconoscerla/",
+                "date": "18 Gen 2026",
+                "time": "17:00",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Librerie indipendenti italiane: l’usato coinvolge il 31,7% degli esercizi e risponde a costi crescenti e fatturati in calo",
+                "link": "https://www.orizzontescuola.it/librerie-indipendenti-italiane-lusato-coinvolge-il-317-degli-esercizi-e-risponde-a-costi-crescenti-e-fatturati-in-calo/",
+                "date": "18 Gen 2026",
+                "time": "16:37",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Il Governatore della Banca di Italia avvisa, senza più fondi alla scuola e università Paese in recessione. Pacifico (Anief): nella prossima legge di bilancio almeno 2 miliardi di investimenti prima della firma del contratto",
+                "link": "https://www.orizzontescuola.it/il-governatore-della-banca-di-italia-avvisa-senza-piu-fondi-alla-scuola-e-universita-paese-in-recessione-pacifico-anief-nella-prossima-legge-di-bilancio-almeno-2-miliardi-di-investimenti-prima-de/",
+                "date": "18 Gen 2026",
+                "time": "16:32",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Frassinetti: “Posizioni preconcette sui metal detector, non vogliamo trasformare le scuole in bunker ma garantire sicurezza dove serve”",
+                "link": "https://www.orizzontescuola.it/frassinetti-posizioni-preconcette-sui-metal-detector-non-vogliamo-trasformare-le-scuole-in-bunker-ma-garantire-sicurezza-dove-serve/",
+                "date": "18 Gen 2026",
+                "time": "16:08",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Ragazzo ucciso a La Spezia, famiglia: “Una legge che tuteli gli studenti, non dopo tre-quattro vittime, subito”. Domani psicologi a scuola",
+                "link": "https://www.orizzontescuola.it/ragazzo-ucciso-a-la-spezia-i-genitori-una-legge-che-tuteli-gli-studenti-non-dopo-tre-quattro-vittime-subito-domani-psicologi-a-scuola/",
+                "date": "18 Gen 2026",
+                "time": "15:58",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Serafini (Snals): “La scuola non sia teatro di violenza. Serve impegno comune per prevenire il disagio giovanile”",
+                "link": "https://www.orizzontescuola.it/serafini-snals-la-scuola-non-sia-teatro-di-violenza-serve-impegno-comune-per-prevenire-il-disagio-giovanile/",
+                "date": "18 Gen 2026",
+                "time": "15:50",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Settimana Europea dei Giovani 2026, dal 24 aprile al 1° maggio una settimana di solidarietà ed equità",
+                "link": "https://www.orizzontescuola.it/settimana-europea-dei-giovani-2026-dal-24-aprile-al-1-maggio-una-settimana-di-solidarieta-ed-equita/",
+                "date": "18 Gen 2026",
+                "time": "14:49",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Dopo La Spezia, Floridia (M5S) critica il Ministro: “Metaldetector nelle scuole? Inutili senza investimenti e risorse”",
@@ -346,86 +426,6 @@
                 "link": "https://www.orizzontescuola.it/piemonte-un-progetto-per-far-crescere-i-giovani-attraverso-la-creativita-scuola-cultura-e-territori-unalleanza-sperimentale/",
                 "date": "18 Gen 2026",
                 "time": "10:01",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Zangrillo sul rinnovo dei contratti: “No ad aumenti a pioggia, non premiano il merito. 20 miliardi per il rinnovo dei contratti fino al 2027”",
-                "link": "https://www.orizzontescuola.it/zangrillo-sul-rinnovo-dei-contratti-no-ad-aumenti-a-pioggia-non-premiano-il-merito-20-miliardi-per-il-rinnovo-dei-contratti-fino-al-2027/",
-                "date": "18 Gen 2026",
-                "time": "10:00",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Rubava nelle scuole, colto sul fatto. Si indaga per una serie di furti a partire da novembre",
-                "link": "https://www.orizzontescuola.it/rubava-nelle-scuole-colto-sul-fatto-si-indaga-per-una-serie-di-furti-a-partire-da-novembre/",
-                "date": "18 Gen 2026",
-                "time": "9:47",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Studenti e IA: un nuovo patto educativo. Il report Brookings indica tre vie (prosperare, prepararsi, proteggere) e 5 azioni pratiche",
-                "link": "https://www.orizzontescuola.it/studenti-e-ia-un-nuovo-patto-educativo-il-report-brookings-indica-tre-vie-prosperare-prepararsi-proteggere-e-5-azioni-pratiche/",
-                "date": "18 Gen 2026",
-                "time": "8:30",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Allerta meteo in Sicilia, in arrivo forte perturbazione: a Taormina scuole chiuse il 19 gennaio [IN AGGIORNAMENTO]",
-                "link": "https://www.orizzontescuola.it/allerta-meteo-in-sicilia-in-arrivo-ciclone-afro-mediterraneo-a-taormina-scuole-chiuse-il-19-gennaio-in-aggiornamento/",
-                "date": "17 Gen 2026",
-                "time": "18:04",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Risarcimento danni per mancata assunzione a tempo indeterminato e assegnazione Carta del docente, oltre 61.000 euro ad un insegnante: vittoria legale Anief",
-                "link": "https://www.orizzontescuola.it/risarcimento-danni-per-mancata-assunzione-a-tempo-indeterminato-e-assegnazione-carta-del-docente-oltre-61-000-euro-ad-un-insegnante-vittoria-legale-anief/",
-                "date": "17 Gen 2026",
-                "time": "17:54",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Violenza a scuola, Pacifico (Anief): “Siamo vicini alle scuole colpite, ma lo Stato deve dare attenzione al lavoro che ogni giorno svolgono 1,3 milioni di educatori”",
-                "link": "https://www.orizzontescuola.it/violenza-a-scuola-pacifico-anief-siamo-vicini-alle-scuole-colpite-ma-lo-stato-deve-dare-attenzione-al-lavoro-che-ogni-giorno-svolgono-13-milioni-di-educatori/",
-                "date": "17 Gen 2026",
-                "time": "15:29",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Studente morto a La Spezia, Tajani: “Vietare acquisto armi da taglio ai minori”. L’appello ai docenti sui valori",
-                "link": "https://www.orizzontescuola.it/studente-morto-a-la-spezia-tajani-vietare-acquisto-armi-da-taglio-ai-minori-lappello-ai-docenti-sui-valori/",
-                "date": "17 Gen 2026",
-                "time": "15:19",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "L’ex ministro Bianchi sul caso di La Spezia: “Ritrovare subito il filo della collaborazione tra presidi, sindaci e Regioni”",
-                "link": "https://www.orizzontescuola.it/lex-ministro-bianchi-sul-caso-di-la-spezia-ritrovare-subito-il-filo-della-collaborazione-tra-presidi-sindaci-e-regioni/",
-                "date": "17 Gen 2026",
-                "time": "14:51",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Scuola e cultura: le associazioni chiedono investimenti strutturali nella formazione per rafforzare il settore culturale. “Non è assistenzialismo”",
-                "link": "https://www.orizzontescuola.it/scuola-e-cultura-le-associazioni-chiedono-investimenti-strutturali-nella-formazione-per-rafforzare-il-settore-culturale-non-e-assistenzialismo/",
-                "date": "17 Gen 2026",
-                "time": "14:10",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Morte dello studente a La Spezia, il 19enne confessa davanti al giudice: ucciso per gelosia a causa di alcune foto d’infanzia scambiate con la ragazza",
-                "link": "https://www.orizzontescuola.it/morte-dello-studente-a-la-spezia-il-19enne-confessa-davanti-al-giudice-ucciso-per-gelosia-a-causa-di-alcune-foto-dinfanzia-scambiate-con-la-ragazza/",
-                "date": "17 Gen 2026",
-                "time": "12:15",
                 "image_link": "N/A"
             }
         ]
@@ -551,12 +551,12 @@
         "title": "Diventare Insegnanti",
         "articles": [
             {
-                "category": "Diventare Insegnanti",
-                "title": "Secondo ciclo TFA Indire, 60.000 posti disponibili: chi può presentare domanda, si frequenta? Quanto costa? Lalla vi anticiperà tutto nella newsletter “Diventare insegnanti”",
-                "link": "https://www.orizzontescuola.it/secondo-ciclo-indire-60-000-posti-disponibili-chi-puo-presentare-domanda-si-frequenta-quanto-costa-lalla-vi-anticipera-tutto-nella-newsletter-diventare-insegnanti/",
+                "category": "ATA",
+                "title": "Nuovo Bonus Mamme 40 euro al mese, aggiornato il servizio per presentare le domande integrative entro il 31 gennaio. Messaggio INPS",
+                "link": "https://www.orizzontescuola.it/nuovo-bonus-mamme-40-euro-al-mese-aggiornato-il-servizio-per-presentare-le-domande-integrative-entro-il-31-gennaio-messaggio-inps/",
                 "date": "15 Gen 2026",
-                "time": "18:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/Oggi-e-la-giornata-dellInfanzia-1.png"
+                "time": "19:53",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_760999171.jpg"
             },
             {
                 "category": "Diventare Insegnanti",
@@ -605,14 +605,6 @@
         "articles": [
             {
                 "category": "Gestire la scuola",
-                "title": "Modelli operativi e tracciabilità delle decisioni nelle visite ispettive: in allegato strumenti essenziali per la tutela istituzionale",
-                "link": "https://www.orizzontescuola.it/modelli-operativi-e-tracciabilita-delle-decisioni-nelle-visite-ispettive-in-allegato-strumenti-essenziali-per-la-tutela-istituzionale/",
-                "date": "15 Gen 2026",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/12/shutterstock_794969194.jpg"
-            },
-            {
-                "category": "Gestire la scuola",
                 "title": "Decreto per il conferimento di supplenza breve su posto comune fino a dieci nelle scuole di I e II grado della Secondaria: in allegato un modello aggiornato alla finanziaria 2026",
                 "link": "https://www.orizzontescuola.it/decreto-per-il-conferimento-di-supplenza-breve-su-posto-comune-fino-a-dieci-nelle-scuole-di-i-e-ii-grado-della-secondaria-in-allegato-un-modello-aggiornato-alla-finanziaria-2026/",
                 "date": "14 Gen 2026",
@@ -650,6 +642,14 @@
                 "date": "12 Gen 2026",
                 "time": "16:04",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_2377542233.jpg"
+            },
+            {
+                "category": "Gestire la scuola",
+                "title": "Strumenti di prevenzione, autotutela e governo del rischio ispettivo",
+                "link": "https://www.orizzontescuola.it/strumenti-di-prevenzione-autotutela-e-governo-del-rischio-ispettivo/",
+                "date": "12 Gen 2026",
+                "time": "11:01",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_1562815639.jpg"
             }
         ]
     },
