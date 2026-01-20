@@ -4,19 +4,19 @@
         "articles": [
             {
                 "category": "Cronaca",
-                "title": "Allerta meteo scuole chiuse martedì 20 gennaio, stop alle lezioni in diversi comuni di Sardegna, Sicilia e Calabria. ELENCO IN AGGIORNAMENTO",
-                "link": "https://www.orizzontescuola.it/allerta-meteo-scuole-chiuse-martedi-20-gennaio-stop-alle-lezioni-in-diversi-comuni-di-sardegna-sicilia-e-calabria-elenco-in-aggiornamento/",
-                "date": "19 Gen 2026",
-                "time": "15:19",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/MALTEMPO.png"
-            },
-            {
-                "category": "Cronaca",
                 "title": "Il PEI diventerà digitale, ecco cosa dovranno fare i docenti e cosa potranno fare i genitori. Ce lo spiega il Sottosegretario Frassinetti [VIDEO]",
                 "link": "https://www.orizzontescuola.it/il-pei-diventera-digitale-ecco-cosa-dovranno-fare-i-docenti-e-cosa-potranno-fare-i-genitori-ce-lo-spiega-il-sottosegretario-frassinetti-video/",
                 "date": "19 Gen 2026",
                 "time": "9:03",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/Frassinetti.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Studente ucciso da un compagno di scuola, le reazioni: “Parlatene in classe, martedì ‘Giornata del Rispetto’.” Gli studenti promuovono una veglia",
+                "link": "https://www.orizzontescuola.it/studente-ucciso-da-un-compagno-di-scuola-le-reazioni-parlatene-in-classe-martedi-giornata-del-rispetto-gli-studenti-promuovono-una-veglia/",
+                "date": "17 Gen 2026",
+                "time": "8:05",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/10/Lutto.jpg"
             }
         ]
     },
@@ -120,6 +120,14 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_1721092186-scaled.jpg"
             },
             {
+                "category": "Cronaca",
+                "title": "Allerta meteo scuole chiuse martedì 20 gennaio, stop alle lezioni in diversi comuni di Sardegna, Sicilia e Calabria. ELENCO IN AGGIORNAMENTO",
+                "link": "https://www.orizzontescuola.it/allerta-meteo-scuole-chiuse-martedi-20-gennaio-stop-alle-lezioni-in-diversi-comuni-di-sardegna-sicilia-e-calabria-elenco-in-aggiornamento/",
+                "date": "19 Gen 2026",
+                "time": "15:19",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/MALTEMPO.png"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Elenchi per il ruolo, iscrizione anche nella propria regione: quando è una scelta mirata e quando invece inutile",
                 "link": "https://www.orizzontescuola.it/elenchi-per-il-ruolo-iscrizione-anche-nella-propria-regione-quando-e-una-scelta-mirata-e-quando-invece-inutile/",
@@ -142,7 +150,12 @@
                 "date": "19 Gen 2026",
                 "time": "14:09",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_1397430893-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Docenti",
                 "title": "Carta docente 2025/26: il sindacato Gilda teme un taglio del 25% e propone spese deducibili e un pc in comodato d’uso ad ogni insegnante",
@@ -150,12 +163,7 @@
                 "date": "19 Gen 2026",
                 "time": "13:54",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_409299112-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Guide",
                 "title": "Permessi diritto studio 2026 docenti e ATA: sono retribuiti, criteri e modalità di fruizione [GUIDA con i Contratti regionali]",
@@ -277,14 +285,6 @@
                 "date": "18 Gen 2026",
                 "time": "15:31",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2479199065.jpg"
-            },
-            {
-                "category": "Studenti",
-                "title": "Perché i laureati italiani scappano all’estero: stipendi doppi in Germania e investimenti universitari ultimi in Europa. I numeri del declino",
-                "link": "https://www.orizzontescuola.it/perche-i-laureati-italiani-scappano-allestero-stipendi-doppi-in-germania-e-investimenti-universitari-ultimi-in-europa-i-numeri-del-declino/",
-                "date": "18 Gen 2026",
-                "time": "14:06",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_1562815639.jpg"
             }
         ]
     },
