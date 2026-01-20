@@ -24,6 +24,38 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze 2026: segreterie scolastiche alla ricerca di insegnanti",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "19 Gen 2026",
+                "time": "21:12",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Percorsi abilitanti 60, 36, 30 CFU: in arrivo gli accreditamenti. Le Università pubblicano già i BANDI 2025/26. Ecco le date di scadenza",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-60-36-30-cfu-ecco-le-nuove-pagine-delle-universita-per-lanno-accademico-2025-26/",
+                "date": "19 Gen 2026",
+                "time": "20:47",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_1708378216.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Psicologo a scuola, Valditara: “Cinque sedute gratuite agli studenti che lo richiedono. Ci sarà un’app dedicata”",
+                "link": "https://www.orizzontescuola.it/psicologo-a-scuola-valditara-cinque-sedute-gratuite-agli-studenti-che-lo-richiedono-ci-sara-unapp-dedicata/",
+                "date": "19 Gen 2026",
+                "time": "19:58",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_2154471567.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Aggiornamento Graduatorie ATA 24 mesi 2026: obbligo CIAD anche per chi è già in graduatoria?",
+                "link": "https://www.orizzontescuola.it/aggiornamento-graduatorie-ata-24-mesi-2026-obbligo-ciad-anche-per-chi-e-gia-in-graduatoria/",
+                "date": "19 Gen 2026",
+                "time": "19:27",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/shutterstock_2266351525-scaled.jpg"
+            },
+            {
                 "category": "Genitori",
                 "title": "Istruzione parentale: niente iscrizione online, ecco la procedura. La FAQ del Ministero",
                 "link": "https://www.orizzontescuola.it/istruzione-parentale-niente-iscrizione-online-ecco-la-procedura-la-faq-del-ministero/",
@@ -31,7 +63,6 @@
                 "time": "19:07",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2337136275.jpg"
             },
-            null,
             {
                 "category": "Gestire la scuola",
                 "title": "Educare alla vita, costruire comunità: una lettera–format del dirigente scolastico per riflettere sul valore della vita e sulla convivenza democratica",
@@ -105,14 +136,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/09/shutterstock_1728723769.jpg"
             },
             {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze 2026: segreterie scolastiche alla ricerca di insegnanti",
-                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
-                "date": "19 Gen 2026",
-                "time": "14:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
-            },
-            {
                 "category": "Gestire la scuola",
                 "title": "La tutela INAIL del personale scolastico dopo la Circolare n. 1/2026: estensione strutturale, obblighi e responsabilità operative",
                 "link": "https://www.orizzontescuola.it/la-tutela-inail-del-personale-scolastico-dopo-la-circolare-n-1-2026-estensione-strutturale-obblighi-e-responsabilita-operative/",
@@ -127,7 +150,12 @@
                 "date": "19 Gen 2026",
                 "time": "13:54",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_409299112-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Guide",
                 "title": "Permessi diritto studio 2026 docenti e ATA: sono retribuiti, criteri e modalità di fruizione [GUIDA con i Contratti regionali]",
@@ -143,12 +171,7 @@
                 "date": "19 Gen 2026",
                 "time": "11:07",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/02/shutterstock_1818500471.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR3, Sì o No alla prova orale: l’esito è definitivo? Scioglimento riserva potrebbe cambiare i voti minimi?",
@@ -262,22 +285,6 @@
                 "date": "18 Gen 2026",
                 "time": "14:06",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_1562815639.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "L’inquinamento atmosferico prima e dopo la nascita può influenzare la pressione arteriosa dei bambini secondo una ricerca",
-                "link": "https://www.orizzontescuola.it/linquinamento-atmosferico-prima-e-dopo-la-nascita-puo-influenzare-la-pressione-arteriosa-dei-bambini-secondo-una-ricerca/",
-                "date": "18 Gen 2026",
-                "time": "12:32",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_654637543-scaled.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Ragazzo ucciso a scuola, Valditara: “Ha fermato il killer, proporrò encomio al docente. Istituti a rischio, ora metal detector”",
-                "link": "https://www.orizzontescuola.it/ragazzo-ucciso-a-scuola-valditara-ha-fermato-il-killer-proporro-encomio-al-docente-istituti-a-rischio-ora-metal-detector/",
-                "date": "18 Gen 2026",
-                "time": "11:59",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/Il-mio-intervento-alla-presentazione-dellAmericas-Cup-a-Napoli-0-3-screenshot.png"
             }
         ]
     },
@@ -300,6 +307,7 @@
                 "time": "18:39",
                 "image_link": "N/A"
             },
+            null,
             {
                 "category": "Cronaca",
                 "title": "Collaboratore scolastico sospeso per presunti abusi su otto alunne minorenni: disposti obbligo di dimora e allontanamento dal servizio per un anno",
@@ -418,14 +426,6 @@
                 "link": "https://www.orizzontescuola.it/metal-detector-a-scuola-bruzzone-non-bastano-sono-inutili-senza-educazione-serve-intercettare-i-segnali-prima-della-violenza/",
                 "date": "19 Gen 2026",
                 "time": "11:25",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Dopo la tragedia di La Spezia, l’appello di Samuele Amendola: “La risposta più urgente non è solo normativa o repressiva, ma profondamente pedagogica” e di ascolto",
-                "link": "https://www.orizzontescuola.it/dopo-la-tragedia-di-la-spezia-lappello-di-samuele-amendola-la-risposta-piu-urgente-non-e-solo-normativa-o-repressiva-ma-profondamente-pedagogica-e-di-ascolto/",
-                "date": "19 Gen 2026",
-                "time": "11:16",
                 "image_link": "N/A"
             }
         ]
@@ -552,6 +552,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Graduatorie GPS 2026: si presenterà domanda anche per le venti scuole delle graduatorie di istituto. Tutte le info",
+                "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-si-presentera-domanda-anche-per-le-venti-scuole-delle-graduatorie-di-istituto-tutte-le-info/",
+                "date": "16 Gen 2026",
+                "time": "11:25",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_1996119905.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Concorso PNRR3 docenti: si può ricevere la traccia tramite email, 24 ore di tempo per preparare lezione simulata",
                 "link": "https://www.orizzontescuola.it/concorso-pnrr3-docenti-si-puo-ricevere-la-traccia-tramite-email-24-ore-di-tempo-per-preparare-lezione-simulata/",
                 "date": "16 Gen 2026",
@@ -589,14 +597,6 @@
                 "date": "15 Gen 2026",
                 "time": "12:09",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_2033557268-1.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti 30, 36, 60 CFU del 2025/26: chi può partecipare, tempi e costi [LO SPECIALE]",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-30-36-60-cfu-2025-26-chi-puo-partecipare-tempi-e-costi-lo-speciale/",
-                "date": "15 Gen 2026",
-                "time": "11:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_163768811.jpg"
             }
         ]
     },
