@@ -24,6 +24,14 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "Pistoia, spray al peperoncino in corridoio: evacuato l’istituto scolastico e 16 persone soccorse prontamente",
+                "link": "https://www.orizzontescuola.it/pistoia-spray-al-peperoncino-in-corridoio-evacuato-listituto-scolastico-e-16-persone-soccorse-prontamente/",
+                "date": "23 Gen 2026",
+                "time": "20:01",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_2168628301.jpg"
+            },
+            {
                 "category": "Politica scolastica",
                 "title": "Metal detector nelle scuole, Valditara annuncia circolare con Piantedosi: “Non è repressione ma sicurezza per studenti e personale”",
                 "link": "https://www.orizzontescuola.it/metal-detector-nelle-scuole-valditara-annuncia-circolare-con-piantedosi-non-e-repressione-ma-sicurezza-per-studenti-e-personale/",
@@ -142,7 +150,12 @@
                 "date": "23 Gen 2026",
                 "time": "11:23",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_1708378216.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Graduatorie GPS 2026/28: requisiti di accesso, riserva, titoli e servizi, nuovo algoritmo [LO SPECIALE]",
@@ -150,12 +163,7 @@
                 "date": "23 Gen 2026",
                 "time": "11:09",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/05/shutterstock_1584609007.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Immissioni in ruolo docenti 2026/27: elenchi regionali si utilizzeranno solo se graduatorie concorsi, compreso elenco 30%,  esaurite. Pillole di Question Time",
@@ -270,20 +278,20 @@
                 "date": "22 Gen 2026",
                 "time": "15:54",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_163768811.jpg"
-            },
-            {
-                "category": "Genitori",
-                "title": "Malattia figlio fino a 10 giorni, congedo parentale fino a 14 anni, bonus mamme di 60 euro: le novità dal 2026 per i genitori",
-                "link": "https://www.orizzontescuola.it/malattia-figlio-fino-a-10-giorni-congedo-parentale-fino-a-14-anni-bonus-mamme-di-60-euro-le-novita-dal-2026-per-i-genitori/",
-                "date": "22 Gen 2026",
-                "time": "15:38",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_1935610528-scaled.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Salute a scuola, Bassetti si schiera con la Pellegrini: “I genitori che mandano i bambini all’asilo con la febbre sono dei pezzi di m…”",
+                "link": "https://www.orizzontescuola.it/salute-a-scuola-bassetti-si-schiera-con-la-pellegrini-i-genitori-che-mandano-i-bambini-allasilo-con-la-febbre-sono-dei-pezzi-di-m/",
+                "date": "23 Gen 2026",
+                "time": "21:22",
+                "image_link": "N/A"
+            },
             {
                 "category": "Comunicati stampa",
                 "title": "Dal 2029 tutti in pensione a 67 anni e 6 mesi, lo dice la Ragioneria dello Stato: secondo Anief è impensabile applicare questi aumenti anagrafici al personale scolastico",
@@ -411,14 +419,6 @@
                 "link": "https://www.orizzontescuola.it/alla-camera-il-convegno-orizzonte-2030-focus-su-formazione-orientamento-e-limpatto-dellintelligenza-artificiale/",
                 "date": "23 Gen 2026",
                 "time": "11:36",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "Campionati di Italiano XV edizione: iscrizioni aperte fino al 10 febbraio. NOTA e regolamento",
-                "link": "https://www.orizzontescuola.it/campionati-di-italiano-xv-edizione-iscrizioni-aperte-fino-al-10-febbraio/",
-                "date": "23 Gen 2026",
-                "time": "10:47",
                 "image_link": "N/A"
             }
         ]
