@@ -3,20 +3,20 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
-                "category": "Guide",
-                "title": "Registro elettronico, ritardi degli alunni e obblighi di verità: cosa può succedere se ometto o dimentico di segnare il ritardo?",
-                "link": "https://www.orizzontescuola.it/registro-elettronico-ritardi-degli-alunni-e-obblighi-di-verita-cosa-puo-succedere-se-ometto-o-dimentico-di-segnare-il-ritardo/",
-                "date": "25 Gen 2026",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_2009313056.jpg"
-            },
-            {
                 "category": "ATA",
                 "title": "Posizioni economiche ATA, prove finali dal 23 al 27 febbraio: ecco il calendario. AVVISO e VIDEO TUTORIAL Ministero",
                 "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-prove-finali-dal-23-al-27-febbraio-ecco-il-calendario-avviso-ministero/",
                 "date": "23 Gen 2026",
                 "time": "15:02",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/TUT.jpg"
+            },
+            {
+                "category": "Stipendio",
+                "title": "Stipendio docenti e ATA: su NoiPA c’è il cedolino con gli arretrati. Pagamento il 23 gennaio con la paga mensile",
+                "link": "https://www.orizzontescuola.it/stipendio-docenti-e-ata-su-noipa-ce-il-cedolino-con-gli-arretrati-pagamento-il-23-gennaio-con-la-paga-mensile/",
+                "date": "22 Gen 2026",
+                "time": "17:54",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_257827327.jpg"
             }
         ]
     },
@@ -30,14 +30,6 @@
                 "date": "25 Gen 2026",
                 "time": "18:26",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2491902319.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Genitori che mandano i figli a scuola con la febbre, è dibattito: la tensione corre sui social",
-                "link": "https://www.orizzontescuola.it/genitori-che-mandano-i-figli-con-la-febbre-a-scuola-e-dibattito-la-tensione-corre-sui-social/",
-                "date": "25 Gen 2026",
-                "time": "15:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1686033052.jpg"
             },
             {
                 "category": "Diventare Insegnanti",
@@ -122,6 +114,14 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/GPS.png"
             },
             null,
+            {
+                "category": "Guide",
+                "title": "Registro elettronico, ritardi degli alunni e obblighi di verità: cosa può succedere se ometto o dimentico di segnare il ritardo?",
+                "link": "https://www.orizzontescuola.it/registro-elettronico-ritardi-degli-alunni-e-obblighi-di-verita-cosa-puo-succedere-se-ometto-o-dimentico-di-segnare-il-ritardo/",
+                "date": "25 Gen 2026",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_2009313056.jpg"
+            },
             {
                 "category": "Cronaca",
                 "title": "10 giorni di vacanze estive in meno: la proposta del Ministro Santanché per redistribuire flussi turistici",
@@ -313,6 +313,14 @@
             },
             {
                 "category": "Cronaca",
+                "title": "Genitori che mandano i figli a scuola con la febbre, è dibattito: la tensione corre sui social",
+                "link": "https://www.orizzontescuola.it/genitori-che-mandano-i-figli-con-la-febbre-a-scuola-e-dibattito-la-tensione-corre-sui-social/",
+                "date": "25 Gen 2026",
+                "time": "15:40",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
                 "title": "Capitale italiana della cultura 2028: selezionate le 10 città finaliste",
                 "link": "https://www.orizzontescuola.it/capitale-italiana-della-cultura-2028-selezionate-le-10-citta-finaliste/",
                 "date": "25 Gen 2026",
@@ -397,14 +405,6 @@
                 "link": "https://www.orizzontescuola.it/maturita-2026-a-san-marino-pubblicate-le-materie-della-seconda-prova-scritta-entro-prossima-settimana-si-conosceranno-anche-in-italia/",
                 "date": "24 Gen 2026",
                 "time": "17:39",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Calendario scolastico, Pacifico (Anief): “Irrealistico tenere le scuole aperte d’estate. Bisogna garantire il benessere di studenti e personale”",
-                "link": "https://www.orizzontescuola.it/calendario-scolastico-pacifico-anief-irrealistico-tenere-le-scuole-aperte-destate-bisogna-garantire-il-benessere-di-studenti-e-personale/",
-                "date": "24 Gen 2026",
-                "time": "17:09",
                 "image_link": "N/A"
             }
         ]
