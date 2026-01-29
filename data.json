@@ -23,6 +23,7 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
             {
                 "category": "Genitori",
                 "title": "Iscrizioni 2026/27: domande solo per le prime classi, per le altre automatico. Cambio scuola su richiesta alla segreteria",
@@ -142,7 +143,12 @@
                 "date": "28 Gen 2026",
                 "time": "15:58",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_1066344359.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Inserimento nelle GPS 2026 possibile anche per i docenti di ruolo. Pillole di Question Time",
@@ -150,12 +156,7 @@
                 "date": "28 Gen 2026",
                 "time": "15:53",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/04/shutterstock_1205892301.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Gestire la scuola",
                 "title": "Governance del benessere digitale e dell’intelligenza artificiale nella scuola autonoma: in allegato gli strumenti per la dirigenza scolastica. Con documento da scaricare",
@@ -284,14 +285,6 @@
                 "date": "28 Gen 2026",
                 "time": "10:11",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/shutterstock_2199681245.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Posizioni economiche ATA: per candidate in gravidanza o allattamento previste le prove suppletive. FAQ Ministero e indicazioni",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-per-candidate-in-gravidanza-o-allattamento-previste-le-prove-suppletive-faq-ministero-e-indicazioni/",
-                "date": "28 Gen 2026",
-                "time": "9:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2459519923.jpg"
             }
         ]
     },
