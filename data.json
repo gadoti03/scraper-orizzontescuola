@@ -3,20 +3,20 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "Scuole",
+                "title": "Metal detector a scuola, ecco la direttiva Valditara-Piantedosi: utilizzo solo in casi gravi, su richiesta del dirigente scolastico e affidato agli operatori specializzati. TESTO",
+                "link": "https://www.orizzontescuola.it/circolare-valditara-piantedosi-su-utilizzo-del-coltello-metal-detector-a-scuola-su-richiesta/",
+                "date": "28 Gen 2026",
+                "time": "21:08",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_2283066313-scaled.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso PNRR3 docenti secondaria, al via la PROVA ORALE. Ecco le convocazioni [AGGIORNATO]",
                 "link": "https://www.orizzontescuola.it/concorso-pnrr3-docenti-secondaria-al-via-la-prova-orale-ecco-le-convocazioni-in-aggiornamento/",
                 "date": "28 Gen 2026",
                 "time": "13:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_347981330.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti 2025/26: pubblicato il Decreto terzo ciclo. I posti suddivisi per Università e la tabella titoli",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-2025-26-pubblicato-il-decreto-terzo-ciclo-i-posti-suddivisi-per-universita-e-la-tabella-titoli/",
-                "date": "27 Gen 2026",
-                "time": "21:16",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_415216972.jpg"
             }
         ]
     },
@@ -299,6 +299,22 @@
         "title": "In Breve",
         "articles": [
             {
+                "category": "Genitori",
+                "title": "“Lettura ad alta voce ai neonati”, l’appello dei neonatologi: “Favorisce lo sviluppo linguistico e la relazione genitore-figlio”",
+                "link": "https://www.orizzontescuola.it/lettura-ad-alta-voce-ai-neonati-lappello-dei-neonatologi-favorisce-lo-sviluppo-linguistico-e-la-relazione-genitore-figlio/",
+                "date": "28 Gen 2026",
+                "time": "21:02",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Referendum sulla giustizia, il Tar del Lazio respinge il ricorso: confermata la data del 22 e 23 marzo",
+                "link": "https://www.orizzontescuola.it/referendum-sulla-giustizia-il-tar-del-lazio-respinge-il-ricorso-confermata-la-data-del-22-e-23-marzo/",
+                "date": "28 Gen 2026",
+                "time": "20:45",
+                "image_link": "N/A"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Edoardo Leo: “Volevo fare l’insegnante, mi sono laureato in lettere con quel sogno. Poi è arrivata la recitazione”",
                 "link": "https://www.orizzontescuola.it/edoardo-leo-volevo-fare-linsegnante-mi-sono-laureato-in-lettere-con-quel-sogno-poi-e-arrivata-la-recitazione/",
@@ -425,22 +441,6 @@
                 "date": "28 Gen 2026",
                 "time": "13:16",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Ddl assistenza disabilità, approvato il profilo professionale: le reazioni politiche di Marti, Russo e Occhiuto",
-                "link": "https://www.orizzontescuola.it/ddl-assistenza-disabilita-approvato-il-profilo-professionale-le-reazioni-politiche-di-marti-russo-e-occhiuto/",
-                "date": "28 Gen 2026",
-                "time": "12:57",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Frana a Niscemi, tre scuole chiuse: oltre 300 bimbi senza aula. Al lavoro per soluzioni rapide senza doppi turni né didattica a distanza",
-                "link": "https://www.orizzontescuola.it/frana-a-niscemi-tre-scuole-chiuse-oltre-300-bimbi-senza-aula-al-lavoro-per-soluzioni-rapide-senza-doppi-turni-ne-didattica-a-distanza/",
-                "date": "28 Gen 2026",
-                "time": "12:41",
-                "image_link": "N/A"
             }
         ]
     },
@@ -566,6 +566,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Supplenze 2026 da interpello: ecco gli avvisi delle scuole",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "27 Gen 2026",
+                "time": "13:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_254352274.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Elenchi regionali per il ruolo: le quote di riserva della legge 68/99 saranno applicate. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/elenchi-regionali-per-il-ruolo-le-quote-di-riserva-della-legge-68-99-saranno-applicate-pillole-di-question-time/",
                 "date": "27 Gen 2026",
@@ -603,14 +611,6 @@
                 "date": "26 Gen 2026",
                 "time": "10:37",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/neoassunti2_indire.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Graduatorie GPS 2026: nel passaggio da seconda a prima fascia il punteggio cambia e potrebbe essere inferiore, ma non è “punitivo”",
-                "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-nel-passaggio-da-seconda-a-prima-fascia-il-punteggio-cambia-e-potrebbe-essere-inferiore-ma-non-e-punitivo/",
-                "date": "26 Gen 2026",
-                "time": "10:13",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_1996119905.jpg"
             }
         ]
     },
