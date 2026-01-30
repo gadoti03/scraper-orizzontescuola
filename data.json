@@ -23,6 +23,7 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze 2026 da interpello: ecco gli avvisi delle scuole",
@@ -142,7 +143,12 @@
                 "date": "29 Gen 2026",
                 "time": "13:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_347981330.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "ATA",
                 "title": "Assicurazione sanitaria per docenti e ATA, copertura per patologie gravi e cure ordinarie: ecco cosa copre la polizza. Tariffe agevolate anche per i familiari",
@@ -150,12 +156,7 @@
                 "date": "29 Gen 2026",
                 "time": "11:55",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1618026661-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Gestire la scuola",
                 "title": "Controlli rafforzati su permessi ex legge 104 e congedi: cosa cambia + scheda di sintesi",
@@ -270,14 +271,6 @@
                 "date": "28 Gen 2026",
                 "time": "19:14",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_1831747366.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Niscemi, città ferma e 5mila studenti senza scuola. Si lavora per garantire il diritto allo studio",
-                "link": "https://www.orizzontescuola.it/niscemi-citta-ferma-e-5mila-studenti-senza-scuola-si-lavora-per-garantire-il-diritto-allo-studio/",
-                "date": "28 Gen 2026",
-                "time": "18:58",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_784888138.jpg"
             }
         ]
     },
