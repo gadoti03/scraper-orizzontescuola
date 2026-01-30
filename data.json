@@ -3,12 +3,12 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso PNRR3 docenti secondaria, al via la PROVA ORALE. Ecco le convocazioni [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/concorso-pnrr3-docenti-secondaria-al-via-la-prova-orale-ecco-le-convocazioni-in-aggiornamento/",
+                "category": "Scuole",
+                "title": "Istituti tecnici, ecco la riforma: come saranno articolati gli indirizzi. Più STEM, insegnamento tecnico con CLIL, più laboratori, i patti educativi 4.0. Le ANTICIPAZIONI",
+                "link": "https://www.orizzontescuola.it/istituti-tecnici-ecco-la-riforma-come-saranno-articolati-gli-indirizzi-piu-stem-insegnamento-tecnico-con-clil-piu-laboratori-i-patti-educativi-4-0-le-anticipazioni/",
                 "date": "29 Gen 2026",
-                "time": "13:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_347981330.jpg"
+                "time": "20:03",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/Istituti-tecnici-ecco-la-riforma.png"
             },
             {
                 "category": "Cronaca",
@@ -23,6 +23,22 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze 2026 da interpello: ecco gli avvisi delle scuole",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "29 Gen 2026",
+                "time": "22:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_254352274.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Posizioni economiche ATA, prova finale dal 23 al 27 febbraio. Ecco le convocazioni e le sedi [IN AGGIORNAMENTO]",
+                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-prova-finale-dal-23-al-27-febbraio-ecco-le-convocazioni-in-aggiornamento/",
+                "date": "29 Gen 2026",
+                "time": "21:23",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2459519923.jpg"
+            },
             {
                 "category": "Docenti",
                 "title": "Carta del Docente: proroga dell’incarico a CONSAP. Attesa per l’accredito del bonus 2025/26",
@@ -70,14 +86,6 @@
                 "date": "29 Gen 2026",
                 "time": "16:21",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/09/shutterstock_1728723769.jpg"
-            },
-            {
-                "category": "Nessuna categoria",
-                "title": "Posizioni economiche ATA, prova finale dal 23 al 27 febbraio. Ecco le convocazioni e le sedi [IN AGGIORNAMENTO]",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-prova-finale-dal-23-al-27-febbraio-ecco-le-convocazioni-in-aggiornamento/",
-                "date": "29 Gen 2026",
-                "time": "16:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2459519923.jpg"
             },
             {
                 "category": "Diventare Insegnanti",
@@ -128,13 +136,26 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2090710285.jpg"
             },
             {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso PNRR3 docenti secondaria, al via la PROVA ORALE. Ecco le convocazioni [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/concorso-pnrr3-docenti-secondaria-al-via-la-prova-orale-ecco-le-convocazioni-in-aggiornamento/",
+                "date": "29 Gen 2026",
+                "time": "13:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_347981330.jpg"
+            },
+            {
                 "category": "ATA",
                 "title": "Assicurazione sanitaria per docenti e ATA, copertura per patologie gravi e cure ordinarie: ecco cosa copre la polizza. Tariffe agevolate anche per i familiari",
                 "link": "https://www.orizzontescuola.it/assicurazione-sanitaria-per-docenti-e-ata-consip-pubblica-gara-da-320-milioni-ecco-quali-prestazioni-saranno-coperte-dal-piano-della-polizza/",
                 "date": "29 Gen 2026",
                 "time": "11:55",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1618026661-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Gestire la scuola",
                 "title": "Controlli rafforzati su permessi ex legge 104 e congedi: cosa cambia + scheda di sintesi",
@@ -150,12 +171,7 @@
                 "date": "29 Gen 2026",
                 "time": "11:27",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/shutterstock_2557988445.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Specializzazione sostegno, secondo ciclo Indire sì e terzo ciclo no? Cosa sappiamo",
@@ -262,28 +278,29 @@
                 "date": "28 Gen 2026",
                 "time": "18:58",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_784888138.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Posizioni economiche ATA, come si svolge la prova finale: parola chiave all’inizio, 30 minuti di tempo, divieti. Le nuove ISTRUZIONI del MIM per i candidati",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-come-si-svolge-la-prova-finale-parola-chiave-allinizio-30-minuti-di-tempo-divieti-le-nuove-istruzioni-del-mim-per-i-candidati/",
-                "date": "28 Gen 2026",
-                "time": "18:48",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1508556191.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Sezioni primavera, pubblicato il decreto di riparto: oltre 9 milioni di euro per l’anno educativo 2025/26",
-                "link": "https://www.orizzontescuola.it/sezioni-primavera-pubblicato-il-decreto-di-riparto-oltre-9-milioni-di-euro-per-lanno-educativo-2025-26/",
-                "date": "28 Gen 2026",
-                "time": "18:32",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_1009485583.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            null,
+            {
+                "category": "Politica scolastica",
+                "title": "Dimensionamento Emilia Romagna, scuole accorpate fino a 2.500 studenti: meno ATA, numeri insostenibili e “non basteranno i metal detector”",
+                "link": "https://www.orizzontescuola.it/dimensionamento-emilia-romagna-scuole-accorpate-fino-a-2-500-studenti-meno-ata-numeri-insostenibili-e-non-basteranno-i-metal-detector/",
+                "date": "29 Gen 2026",
+                "time": "20:49",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Proteggi le tue credenziali digitali: i consigli di NoiPA",
+                "link": "https://www.orizzontescuola.it/proteggi-le-tue-credenziali-digitali-i-consigli-di-noipa/",
+                "date": "29 Gen 2026",
+                "time": "20:14",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Lauree abilitanti, orientamento pre-universitario, STEM e diritto allo studio tra le priorità del MUR nell’Atto di indirizzo 2026",
@@ -395,30 +412,6 @@
                 "link": "https://www.orizzontescuola.it/a-scuola-di-oceano-con-lingv-7-webinar-gratuiti-per-docenti-tra-sostenibilita-rischi-e-bioacustica-iscrizioni-entro-il-9-marzo/",
                 "date": "29 Gen 2026",
                 "time": "10:38",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Sviene a scuola, era ubriaco: beveva vodka dalle 5 del mattino. Coma etilico",
-                "link": "https://www.orizzontescuola.it/sviene-a-scuola-era-ubriaco-beveva-vodka-dalle-5-del-mattino-coma-etilico/",
-                "date": "29 Gen 2026",
-                "time": "10:16",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Edilizia scolastica in Sicilia, 11 progetti finanziati con oltre 10 milioni dal Fesr 2021-2027. Via libera del governo Schifani a interventi per sicurezza e accessibilità",
-                "link": "https://www.orizzontescuola.it/edilizia-scolastica-in-sicilia-11-progetti-finanziati-con-oltre-10-milioni-dal-fesr-2021-2027-via-libera-del-governo-schifani-a-interventi-per-sicurezza-e-accessibilita/",
-                "date": "29 Gen 2026",
-                "time": "10:02",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Scuola e salute mentale, i dati UNICEF: priorità a team multidisciplinari e spazi di ascolto per la fascia 10-19 anni",
-                "link": "https://www.orizzontescuola.it/scuola-e-salute-mentale-i-dati-unicef-priorita-a-team-multidisciplinari-e-spazi-di-ascolto-per-la-fascia-10-19-anni/",
-                "date": "29 Gen 2026",
-                "time": "10:00",
                 "image_link": "N/A"
             }
         ]
@@ -598,6 +591,22 @@
         "articles": [
             {
                 "category": "Gestire la scuola",
+                "title": "Iscrizioni in esubero scuola infanzia: un modello di regolamento",
+                "link": "https://www.orizzontescuola.it/iscrizioni-in-esubero-scuola-infanzia-un-modello-di-regolamento/",
+                "date": "28 Gen 2026",
+                "time": "10:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_1448769377-scaled.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Posizioni economiche ATA: per candidate in gravidanza o allattamento previste le prove suppletive. FAQ Ministero e indicazioni",
+                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-per-candidate-in-gravidanza-o-allattamento-previste-le-prove-suppletive-faq-ministero-e-indicazioni/",
+                "date": "28 Gen 2026",
+                "time": "9:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2459519923.jpg"
+            },
+            {
+                "category": "Gestire la scuola",
                 "title": "Rendicontazione PNRR e Dirigente scolastico in reggenza: chi firma, cosa certifica, come si tutela. ALTRI DOCUMENTI IN ARRIVO",
                 "link": "https://www.orizzontescuola.it/rendicontazione-pnrr-e-dirigente-scolastico-in-reggenza-chi-firma-cosa-certifica-come-si-tutela-altri-documenti-in-arrivo/",
                 "date": "28 Gen 2026",
@@ -627,22 +636,6 @@
                 "date": "27 Gen 2026",
                 "time": "15:49",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1231450093.jpg"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "Pubblicazione su amministrazione trasparente del piano annuale delle attività: quali dati eliminare in conformità alla normativa sulla privacy",
-                "link": "https://www.orizzontescuola.it/pubblicazione-su-amministrazione-trasparente-del-piano-annuale-delle-attivita-quali-dati-eliminare-in-conformita-alla-normativa-sulla-privacy/",
-                "date": "27 Gen 2026",
-                "time": "11:48",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_2229678829.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Prova finale posizioni economiche ATA: come si svolge il test e come si forma la graduatoria. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/prova-finale-posizioni-economiche-ata-come-si-svolge-il-test-e-come-si-forma-la-graduatoria-pillole-di-question-time/",
-                "date": "27 Gen 2026",
-                "time": "9:29",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_117139291.jpg"
             }
         ]
     },
