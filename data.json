@@ -24,6 +24,22 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze 2026 da interpello: ecco gli avvisi delle scuole",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "31 Gen 2026",
+                "time": "22:25",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_254352274.jpg"
+            },
+            {
+                "category": "Studenti",
+                "title": "Troppo tempo su Instagram? Uno studio italiano spiega perché potresti sentirti sempre più distante dal tuo corpo",
+                "link": "https://www.orizzontescuola.it/troppo-tempo-su-instagram-uno-studio-italiano-spiega-perche-potresti-sentirti-sempre-piu-distante-dal-tuo-corpo/",
+                "date": "31 Gen 2026",
+                "time": "19:47",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2431380597.jpg"
+            },
+            {
                 "category": "Chiedilo a Lalla",
                 "title": "GPS e Percorsi abilitanti 30 e 60 CFU, posti, riserve, punteggi e non solo. QUESTION TIME con Cannas. LIVE Lunedì 2 febbraio alle 15:00",
                 "link": "https://www.orizzontescuola.it/gps-e-percorsi-abilitanti-30-e-60-cfu-posti-riserve-punteggi-e-non-solo-question-time-con-cannas-live-lunedi-2-febbraio-alle-1500/",
@@ -134,7 +150,12 @@
                 "date": "31 Gen 2026",
                 "time": "9:05",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_1897255669-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Didattica",
                 "title": "Studenti fragili tra gruppi interattivi, tertulie dialogiche ed educazione familiare. Il progetto INCLUD-ED",
@@ -150,12 +171,7 @@
                 "date": "31 Gen 2026",
                 "time": "8:29",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/consulenza_1.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             null,
             {
                 "category": "Docenti",
@@ -276,28 +292,28 @@
                 "date": "30 Gen 2026",
                 "time": "13:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_1708378216.jpg"
-            },
-            {
-                "category": "Studenti",
-                "title": "Maturità 2026, definite le quattro materie del colloquio: Matematica al classico, Italiano allo scientifico",
-                "link": "https://www.orizzontescuola.it/maturita-2026-definite-le-quattro-materie-del-colloquio-matematica-al-classico-italiano-allo-scientifico/",
-                "date": "30 Gen 2026",
-                "time": "12:59",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/04/shutterstock_577541347.jpg"
-            },
-            {
-                "category": "Studenti",
-                "title": "Esame di Maturità 2026: in alcuni indirizzi c’è anche una terza prova scritta. Le novità",
-                "link": "https://www.orizzontescuola.it/esame-di-maturita-2026-ce-anche-una-terza-prova-scritta-le-novita/",
-                "date": "30 Gen 2026",
-                "time": "12:43",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/shutterstock_2343152703.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Metal detector, Anief preferisce un nuovo e rafforzato patto educativo con le famiglie e la presenza delle istituzioni",
+                "link": "https://www.orizzontescuola.it/metal-detector-anief-preferisce-un-nuovo-e-rafforzato-patto-educativo-con-le-famiglie-e-la-presenza-delle-istituzioni/",
+                "date": "31 Gen 2026",
+                "time": "20:09",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Le università telematiche ampliano l’accesso alla laurea: il 73,7% degli studenti sceglie per conciliare studio e lavoro",
+                "link": "https://www.orizzontescuola.it/le-universita-telematiche-ampliano-laccesso-alla-laurea-il-737-degli-studenti-sceglie-per-conciliare-studio-e-lavoro/",
+                "date": "31 Gen 2026",
+                "time": "19:22",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "ASACOM e inclusione scolastica: cosa chiedono educatori e pedagogisti. I dati di un sondaggio nazionale",
@@ -424,22 +440,6 @@
                 "link": "https://www.orizzontescuola.it/luisa-ranieri-in-italia-sono-piu-di-30-anni-che-non-si-investe-sulla-scuola-per-le-istituzioni-un-gregge-piatto-sia-sempre-meglio-di-un-gregge-colto/",
                 "date": "31 Gen 2026",
                 "time": "10:03",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Maturità 2026, l’ammissione di Frassinetti: “Io non avrei superato l’esame con matematica all’orale, faccio outing”",
-                "link": "https://www.orizzontescuola.it/maturita-2026-lammissione-di-frassinetti-io-non-avrei-superato-lesame-con-matematica-allorale-faccio-outing/",
-                "date": "31 Gen 2026",
-                "time": "9:30",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "3 milioni in meno di libri venduti nel 2025",
-                "link": "https://www.orizzontescuola.it/3-milioni-in-meno-di-libri-venduti-nel-2025/",
-                "date": "31 Gen 2026",
-                "time": "8:40",
                 "image_link": "N/A"
             }
         ]
