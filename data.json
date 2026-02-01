@@ -24,6 +24,22 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Diventare Insegnanti",
+                "title": "La certificazione DigCompEdu sarà obbligatoria per restare in GPS? Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/la-certificazione-digcompedu-sara-obbligatoria-per-restare-in-gps-pillole-di-question-time/",
+                "date": "1 Feb 2026",
+                "time": "18:25",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/shutterstock_2242410029.jpg"
+            },
+            {
+                "category": "Didattica",
+                "title": "“Là dove c’era l’erba ora c’è una città”: riflettere su ambiente e inquinamento per costruire un mondo più “responsabile”. Insegnare con le canzoni",
+                "link": "https://www.orizzontescuola.it/la-dove-cera-lerba-ora-ce-una-citta-riflettere-su-ambiente-e-inquinamento-per-costruire-un-mondo-piu-responsabile-insegnare-con-le-canzoni/",
+                "date": "1 Feb 2026",
+                "time": "16:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/Celentano.jpeg"
+            },
+            {
                 "category": "Genitori",
                 "title": "ISEE 2026: franchigia prima casa a 91.500 euro e nuova scala di equivalenza per i figli. Decreto PNRR introduce calcolo automatico per scuole, università e comuni",
                 "link": "https://www.orizzontescuola.it/isee-2026-franchigia-prima-casa-a-91-500-euro-e-nuova-scala-di-equivalenza-per-i-figli-decreto-pnrr-introduce-calcolo-automatico-per-scuole-universita-e-comuni/",
@@ -120,7 +136,12 @@
                 "date": "31 Gen 2026",
                 "time": "22:25",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_254352274.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Studenti",
                 "title": "Troppo tempo su Instagram? Uno studio italiano spiega perché potresti sentirti sempre più distante dal tuo corpo",
@@ -136,12 +157,7 @@
                 "date": "31 Gen 2026",
                 "time": "17:37",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/Template_questiontime_1920x1080-6.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Competenze digitali, un giovane italiano su tre non raggiunge il livello base: il paradosso dei nativi digitali secondo Eurostat",
@@ -262,28 +278,68 @@
                 "date": "31 Gen 2026",
                 "time": "8:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/PAOLO-PICCHIO-FONDAZIONE-CAROLINA.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Metal detector nelle scuole? “Non siamo in un carcere. Servono strumenti relazionali, non di antiterrorismo”",
-                "link": "https://www.orizzontescuola.it/metal-detector-nelle-scuole-non-siamo-in-un-carcere-servono-strumenti-relazionali-non-di-antiterrorismo/",
-                "date": "31 Gen 2026",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/a4.png"
-            },
-            {
-                "category": "Plus",
-                "title": "I diritti di docenti e ATA di ruolo e precari spiegati bene. Cosa fare in caso di… Aspettative, congedi, permessi, 104, ferie e malattie. Anche formato e-book",
-                "link": "https://www.orizzontescuola.it/i-diritti-di-docenti-e-ata-di-ruolo-e-precari-spiegati-bene-cosa-fare-in-caso-di-aspettative-congedi-permessi-104-ferie-e-malattie/",
-                "date": "30 Gen 2026",
-                "time": "19:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/Screenshot-2026-01-22-102351.png"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Docenti",
+                "title": "“Inventiamo una banconota”: iscrizioni aperte fino al 3 febbraio",
+                "link": "https://www.orizzontescuola.it/inventiamo-una-banconota-iscrizioni-aperte-fino-al-3-febbraio/",
+                "date": "1 Feb 2026",
+                "time": "18:21",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“Quel maestro te lo ricordi perché ti diceva: alza il culo e rifai”, è quel tipo di educatore che temi, ma ti lascia il segno profondo. Le parole di Schettini",
+                "link": "https://www.orizzontescuola.it/quel-maestro-te-lo-ricordi-perche-ti-diceva-alza-il-culo-e-rifai-e-quel-tipo-di-educatore-che-temi-ma-ti-lascia-il-segno-profondo-le-parole-di-schettini/",
+                "date": "1 Feb 2026",
+                "time": "17:36",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Benevento dice “no” all’accorpamento: docenti e studenti in piazza",
+                "link": "https://www.orizzontescuola.it/benevento-dice-no-allaccorpamento-docenti-e-studenti-in-piazza/",
+                "date": "1 Feb 2026",
+                "time": "16:10",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Dallo smartphone a due anni ai metal detector a scuola: Pennac spiega il legame tra solitudine digitale e aggressività",
+                "link": "https://www.orizzontescuola.it/dallo-smartphone-a-due-anni-ai-metal-detector-a-scuola-pennac-spiega-il-legame-tra-solitudine-digitale-e-aggressivita/",
+                "date": "1 Feb 2026",
+                "time": "15:00",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Docenti",
+                "title": "“Whole School Approach”: corso di formazione MIM-ASviS per docenti di ogni ordine e grado, iscrizioni entro il 15 febbraio",
+                "link": "https://www.orizzontescuola.it/whole-school-approach-corso-di-formazione-mim-asvis-per-docenti-di-ogni-ordine-e-grado-iscrizioni-entro-il-15-febbraio/",
+                "date": "1 Feb 2026",
+                "time": "14:47",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Frana di Niscemi, l’USR Sicilia annuncia la riapertura delle scuole: priorità al diritto all’istruzione degli studenti della zona rossa",
+                "link": "https://www.orizzontescuola.it/frana-di-niscemi-lusr-sicilia-annuncia-la-riapertura-delle-scuole-priorita-al-diritto-allistruzione-degli-studenti-della-zona-rossa/",
+                "date": "1 Feb 2026",
+                "time": "14:25",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Carta della Cultura, 100 euro per acquisto libri: esiti domande sull’app IO, contributo valido fino al 14 gennaio 2027. Le info utili",
+                "link": "https://www.orizzontescuola.it/carta-della-cultura-100-euro-per-acquisto-libri-esiti-domande-sullapp-io-contributo-valido-fino-al-14-gennaio-2027/",
+                "date": "1 Feb 2026",
+                "time": "13:36",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Case del Maestro, domande entro il 2 febbraio per i soggiorni primaverili",
@@ -370,62 +426,6 @@
                 "link": "https://www.orizzontescuola.it/sicurezza-scolastica-a-napoli-la-dirigente-del-marie-curie-a-ponticelli-controlli-periodici-con-metal-detector-tranquillizzano-alunni-e-personale-nelle-aree-a-rischio/",
                 "date": "31 Gen 2026",
                 "time": "15:52",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Studenti",
-                "title": "Immortalità digitale, i giovani italiani tra curiosità e paura: Eurispes rivela timori per lutto irrisolto e dipendenza dai deadbot. Millennials e Gen Z chiedono regole contro il mercato della disperazione",
-                "link": "https://www.orizzontescuola.it/immortalita-digitale-i-giovani-italiani-tra-curiosita-e-paura-eurispes-rivela-timori-per-lutto-irrisolto-e-dipendenza-dai-deadbot-millennials-e-gen-z-chiedono-regole-contro-il-mercato-della-dispera/",
-                "date": "31 Gen 2026",
-                "time": "15:27",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Bambini di dieci anni girano armati di pistole e le usano con disinvoltura, scarsi gli strumenti per intervenire”. L’allarme da Palermo",
-                "link": "https://www.orizzontescuola.it/bambini-di-dieci-anni-girano-armati-di-pistole-e-le-usano-con-disinvoltura-scarsi-gli-strumenti-per-intervenire-lallarme-da-palermo/",
-                "date": "31 Gen 2026",
-                "time": "14:54",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Niscemi, lunedì si torna a scuola. Gli studenti degli istituti inagibili saranno ospitati in altri plessi",
-                "link": "https://www.orizzontescuola.it/niscemi-lunedi-si-torna-a-scuola-gli-studenti-degli-istituti-inagibili-saranno-ospitati-in-altri-plessi/",
-                "date": "31 Gen 2026",
-                "time": "14:49",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Pubblica Amministrazione, boom di candidature a gennaio: 700mila aspiranti per 10mila posizioni. Zangrillo celebra l’inversione di tendenza dopo anni di blocco del turnover",
-                "link": "https://www.orizzontescuola.it/pubblica-amministrazione-boom-di-candidature-a-gennaio-700mila-aspiranti-per-10mila-posizioni-zangrillo-celebra-linversione-di-tendenza-dopo-anni-di-blocco-del-turnover/",
-                "date": "31 Gen 2026",
-                "time": "14:12",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "Carta docente, boom di accrediti con ricorso: oltre 311mila euro nelle province di Padova e Venezia",
-                "link": "https://www.orizzontescuola.it/carta-docente-boom-di-accrediti-con-ricorso-oltre-311mila-euro-nelle-province-di-padova-e-venezia/",
-                "date": "31 Gen 2026",
-                "time": "13:10",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Troppo tempo online, zero abilità di base: docenti perdono 2 ore al giorno per cambiare pannolini a scuola. L’allarme dall’Inghilterra",
-                "link": "https://www.orizzontescuola.it/troppo-tempo-online-zero-abilita-di-base-docenti-perdono-2-ore-al-giorno-per-cambiare-pannolini-a-scuola-lallarme-dallinghilterra/",
-                "date": "31 Gen 2026",
-                "time": "12:32",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Niscemi, équipe di psicologi dell’ASP di Caltanissetta attivata per 596 bambini rimasti senza scuola dopo le frane di gennaio: intervento immediato per il recupero della normalità",
-                "link": "https://www.orizzontescuola.it/niscemi-equipe-di-psicologi-dellasp-di-caltanissetta-attivata-per-596-bambini-rimasti-senza-scuola-dopo-le-frane-di-gennaio-intervento-immediato-per-il-recupero-della-normalita/",
-                "date": "31 Gen 2026",
-                "time": "11:32",
                 "image_link": "N/A"
             }
         ]
@@ -552,6 +552,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "I tribunali seppelliscono l’algoritmo per le nomine da GPS, docente senza incarico a causa dell’automatismo risarcita con 11mila euro. Vittoria ANIEF",
+                "link": "https://www.orizzontescuola.it/i-tribunali-seppelliscono-lalgoritmo-per-le-nomine-da-gps-docente-senza-incarico-a-causa-dellautomatismo-risarcita-con-11mila-euro-anief/",
+                "date": "30 Gen 2026",
+                "time": "12:16",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2471109109-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Portfolio dei docenti neoassunti: attività didattica e curriculum formativo. Due approfondimenti INDIRE",
                 "link": "https://www.orizzontescuola.it/portfolio-dei-docenti-neoassunti-attivita-didattica-e-curriculum-formativo-due-approfondimenti-indire/",
                 "date": "30 Gen 2026",
@@ -589,14 +597,6 @@
                 "date": "29 Gen 2026",
                 "time": "16:16",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1936676008-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Specializzazione sostegno, secondo ciclo Indire sì e terzo ciclo no? Cosa sappiamo",
-                "link": "https://www.orizzontescuola.it/specializzazione-sostegno-secondo-ciclo-indire-si-e-terzo-ciclo-no-cosa-sappiamo/",
-                "date": "29 Gen 2026",
-                "time": "10:17",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_606143765.jpg"
             }
         ]
     },
