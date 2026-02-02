@@ -25,6 +25,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3, il 2 febbraio ultimo giorno per sciogliere la riserva",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-il-2-febbraio-ultimo-giorno-per-sciogliere-la-riserva/",
+                "date": "1 Feb 2026",
+                "time": "20:39",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_117139291.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "La certificazione DigCompEdu sarà obbligatoria per restare in GPS? Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/la-certificazione-digcompedu-sara-obbligatoria-per-restare-in-gps-pillole-di-question-time/",
                 "date": "1 Feb 2026",
@@ -128,7 +136,12 @@
                 "date": "1 Feb 2026",
                 "time": "5:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/01/february-706943_960_720.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze 2026 da interpello: ecco gli avvisi delle scuole",
@@ -136,12 +149,7 @@
                 "date": "31 Gen 2026",
                 "time": "22:25",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_254352274.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Studenti",
                 "title": "Troppo tempo su Instagram? Uno studio italiano spiega perché potresti sentirti sempre più distante dal tuo corpo",
@@ -270,20 +278,28 @@
                 "time": "8:29",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/consulenza_1.png"
             },
-            null,
-            {
-                "category": "Docenti",
-                "title": "Una storia personale che diventa coscienza collettiva nel volume “Le parole fanno più male delle botte”, scritto da Paolo Picchio",
-                "link": "https://www.orizzontescuola.it/una-storia-personale-che-diventa-coscienza-collettiva-nel-volume-le-parole-fanno-piu-male-delle-botte-scritto-da-paolo-picchio/",
-                "date": "31 Gen 2026",
-                "time": "8:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/PAOLO-PICCHIO-FONDAZIONE-CAROLINA.jpg"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Comunicati stampa",
+                "title": "Carta docente, slitta ancora il bonus annuale a un milione di insegnanti: disatteso anche il Decreto che prevede lo stanziamento “entro il 30 gennaio di ogni anno”. Personale deluso. Anief: fare presto, no riduzione",
+                "link": "https://www.orizzontescuola.it/carta-docente-slitta-ancora-il-bonus-annuale-a-un-milione-di-insegnanti-disatteso-anche-il-decreto-che-prevede-lo-stanziamento-entro-il-30-gennaio-di-ogni-anno-personale-deluso-anief-fare-pre/",
+                "date": "1 Feb 2026",
+                "time": "19:35",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Il Teatro Politeama di Catanzaro porta la “Lirica a scuola”, il progetto",
+                "link": "https://www.orizzontescuola.it/il-teatro-politeama-di-catanzaro-porta-la-lirica-a-scuola-il-progetto/",
+                "date": "1 Feb 2026",
+                "time": "19:26",
+                "image_link": "N/A"
+            },
             {
                 "category": "Docenti",
                 "title": "“Inventiamo una banconota”: iscrizioni aperte fino al 3 febbraio",
@@ -410,22 +426,6 @@
                 "link": "https://www.orizzontescuola.it/torino-apre-genova-chiude-anief-algoritmo-gps-seppellito-dai-tribunali/",
                 "date": "31 Gen 2026",
                 "time": "17:13",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Il mercato editoriale italiano chiude il 2025 con tre milioni di copie in meno: calano i libri cartacei, crescono ebook e audiolibri",
-                "link": "https://www.orizzontescuola.it/il-mercato-editoriale-italiano-chiude-il-2025-con-tre-milioni-di-copie-in-meno-calano-i-libri-cartacei-crescono-ebook-e-audiolibri/",
-                "date": "31 Gen 2026",
-                "time": "16:22",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Sicurezza scolastica a Napoli, la dirigente del Marie Curie a Ponticelli: controlli periodici con metal detector tranquillizzano alunni e personale nelle aree a rischio",
-                "link": "https://www.orizzontescuola.it/sicurezza-scolastica-a-napoli-la-dirigente-del-marie-curie-a-ponticelli-controlli-periodici-con-metal-detector-tranquillizzano-alunni-e-personale-nelle-aree-a-rischio/",
-                "date": "31 Gen 2026",
-                "time": "15:52",
                 "image_link": "N/A"
             }
         ]
@@ -605,6 +605,14 @@
         "articles": [
             {
                 "category": "Gestire la scuola",
+                "title": "Nota sullo svolgimento delle prove INVALSI 2025 2026 per gli alunni con bisogni educativi speciali",
+                "link": "https://www.orizzontescuola.it/nota-sullo-svolgimento-delle-prove-invalsi-2025-2026-per-gli-alunni-con-bisogni-educativi-speciali/",
+                "date": "29 Gen 2026",
+                "time": "16:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/shutterstock_2343152703.jpg"
+            },
+            {
+                "category": "Gestire la scuola",
                 "title": "Controlli rafforzati su permessi ex legge 104 e congedi: cosa cambia + scheda di sintesi",
                 "link": "https://www.orizzontescuola.it/controlli-rafforzati-su-permessi-ex-legge-104-e-congedi-cosa-cambia-scheda-di-sintesi/",
                 "date": "29 Gen 2026",
@@ -642,14 +650,6 @@
                 "date": "28 Gen 2026",
                 "time": "18:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_2033349842.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Posizioni economiche ATA, prova finale a febbraio. Richiesta tempi aggiuntivi, ausili, spazi per l’allattamento",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-prova-finale-a-febbraio-richiesta-tempi-aggiuntivi-e-ausili/",
-                "date": "28 Gen 2026",
-                "time": "15:58",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_1066344359.jpg"
             }
         ]
     },
