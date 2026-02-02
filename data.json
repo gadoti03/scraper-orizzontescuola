@@ -23,6 +23,9 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
+            null,
+            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR3, il 2 febbraio ultimo giorno per sciogliere la riserva",
@@ -119,7 +122,12 @@
                 "date": "1 Feb 2026",
                 "time": "8:09",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/report.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Referendum, è scontro per un libro di testo ritenuto propaganda per il ‘no’. Vaccari (PD): “Così si spingono gli insegnanti ad autocensurarsi. Quel testo non era propaganda”",
@@ -136,12 +144,7 @@
                 "date": "1 Feb 2026",
                 "time": "5:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/01/february-706943_960_720.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze 2026 da interpello: ecco gli avvisi delle scuole",
@@ -261,24 +264,7 @@
                 "date": "31 Gen 2026",
                 "time": "9:05",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_1897255669-scaled.jpg"
-            },
-            {
-                "category": "Didattica",
-                "title": "Studenti fragili tra gruppi interattivi, tertulie dialogiche ed educazione familiare. Il progetto INCLUD-ED",
-                "link": "https://www.orizzontescuola.it/studenti-fragili-tra-gruppi-interattivi-tertulie-dialogiche-ed-educazione-familiare-il-progetto-includ-ed/",
-                "date": "31 Gen 2026",
-                "time": "9:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_2552524019.jpg"
-            },
-            {
-                "category": "Plus",
-                "title": "GPS 2026, consulenza personalizzata. Posti limitati, prenota",
-                "link": "https://www.orizzontescuola.it/gps-2026-consulenza-personalizzata-posti-limitati-prenota/",
-                "date": "31 Gen 2026",
-                "time": "8:29",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/consulenza_1.png"
-            },
-            null
+            }
         ]
     },
     "group_4": {
