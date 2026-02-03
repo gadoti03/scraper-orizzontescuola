@@ -23,6 +23,16 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
+            null,
+            {
+                "category": "ATA",
+                "title": "Posizioni economiche ATA, ecco le convocazioni e le sedi prova finale [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-prova-finale-dal-23-al-27-febbraio-ecco-le-convocazioni-in-aggiornamento/",
+                "date": "3 Feb 2026",
+                "time": "7:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2459519923.jpg"
+            },
             {
                 "category": "Genitori",
                 "title": "Iscrizioni studenti con disabilità 2026/27: la documentazione richiesta per completare la domanda",
@@ -54,14 +64,6 @@
                 "date": "2 Feb 2026",
                 "time": "18:46",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2120807768.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Posizioni economiche ATA, ecco le convocazioni e le sedi prova finale [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-prova-finale-dal-23-al-27-febbraio-ecco-le-convocazioni-in-aggiornamento/",
-                "date": "2 Feb 2026",
-                "time": "18:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2459519923.jpg"
             },
             {
                 "category": "Scuole",
@@ -134,7 +136,12 @@
                 "date": "2 Feb 2026",
                 "time": "15:40",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/consulenza_1.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Confindustria chiede una scuola più collegata col settore industriale, rafforzamento ITS, percorsi STEM e formazione in azienda",
@@ -150,12 +157,7 @@
                 "date": "2 Feb 2026",
                 "time": "14:23",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_450542347.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso infanzia e primaria PNRR3, prova orale [Le convocazioni]",
@@ -283,22 +285,6 @@
                 "date": "2 Feb 2026",
                 "time": "8:27",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/Valditara-1.png"
-            },
-            {
-                "category": "Docenti",
-                "title": "La fatica invisibile degli insegnanti: corpi stanchi, menti sovraccariche e responsabilità educative in una scuola che invecchia",
-                "link": "https://www.orizzontescuola.it/la-fatica-invisibile-degli-insegnanti-corpi-stanchi-menti-sovraccariche-e-responsabilita-educative-in-una-scuola-che-invecchia/",
-                "date": "2 Feb 2026",
-                "time": "8:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/shutterstock_2392655027.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Giovani e violenza: sollecitazioni multimediali e ritmo accelerato nelle comunicazioni. Interagiscono ma non ascoltano. INTERVISTA",
-                "link": "https://www.orizzontescuola.it/giovani-e-violenza-sollecitazioni-multimediali-e-ritmo-accelerato-nelle-comunicazioni-interagiscono-ma-non-ascoltano-intervista/",
-                "date": "2 Feb 2026",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/toto8.png"
             }
         ]
     },
