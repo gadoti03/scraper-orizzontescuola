@@ -23,6 +23,8 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
+            null,
             {
                 "category": "Scuole",
                 "title": "Contratto misto appalto-concessione per i distributori automatici: quale disciplina si applica. Il parere Anac",
@@ -134,7 +136,12 @@
                 "date": "3 Feb 2026",
                 "time": "13:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_1721092186-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso PNRR3 docenti secondaria, al via la PROVA ORALE. Ecco le convocazioni [AGGIORNATO]",
@@ -150,12 +157,7 @@
                 "date": "3 Feb 2026",
                 "time": "13:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_1708378216.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Plus",
                 "title": "Erasmus+ per i docenti: docenti: opportunità, benefici e come partecipare. Iscriviti alla newsletter dedicata ai viaggi studio",
@@ -276,16 +278,7 @@
                 "date": "3 Feb 2026",
                 "time": "8:16",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/shutterstock_1924926470.jpg"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "Incremento ore agli assistenti amministrativi nei progetti PNRR: quando si può fare e quando è troppo tardi. ALTRI DOCUMENTI IN ARRIVO",
-                "link": "https://www.orizzontescuola.it/incremento-ore-agli-assistenti-amministrativi-nei-progetti-pnrr-quando-si-puo-fare-e-quando-e-troppo-tardi-altri-documenti-in-arrivo/",
-                "date": "3 Feb 2026",
-                "time": "7:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_2194944619.jpg"
-            },
-            null
+            }
         ]
     },
     "group_4": {
