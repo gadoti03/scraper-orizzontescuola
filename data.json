@@ -3,26 +3,29 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "ATA",
+                "title": "Posizioni economiche ATA: il simulatore per esercitarti a superare l’esame",
+                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-collaboratori-simulatore-e-video-lezioni-per-superare-la-prova-finale/",
+                "date": "5 Feb 2026",
+                "time": "7:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/Assegnazioni-provvisorie-e-utilizzazioni-1.png"
+            },
+            {
                 "category": "Cronaca",
                 "title": "“Ho fatto appendere un ‘Decalogo della gentilezza’ nei corridoi della scuola. Chi semina gentilezza raccoglie storie belle”. INTERVISTA alla Professoressa Annamaria Citino",
                 "link": "https://www.orizzontescuola.it/ho-fatto-appendere-un-decalogo-della-gentilezza-nei-corridoi-della-scuola-chi-semina-gentilezza-raccoglie-storie-belle-intervista/",
                 "date": "4 Feb 2026",
                 "time": "8:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Screenshot-2026-02-04-064713.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "Iscrizione prima classe 2026-2027: domanda entro il 14 febbraio 2026. Indicazioni per ogni grado [LO SPECIALE]",
-                "link": "https://www.orizzontescuola.it/iscrizione-prima-classe-2026-2027-domanda-dal-13-gennaio-al-14-febbraio-2026-tutte-le-info-da-infanzia-a-secondaria-lo-speciale/",
-                "date": "3 Feb 2026",
-                "time": "9:04",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_154155695.jpg"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
+            null,
+            null,
             {
                 "category": "Genitori",
                 "title": "Permanenza nella scuola dell’infanzia per un anno, possibile anche per esigenze educative speciali",
@@ -126,7 +129,12 @@
                 "date": "4 Feb 2026",
                 "time": "15:22",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1936676008-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Docenti",
                 "title": "Carta del docente, notizie tra oggi e domani. Possibile decurtazione da 400 a 450 euro",
@@ -150,12 +158,7 @@
                 "date": "4 Feb 2026",
                 "time": "14:39",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_1066344359.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Inserimento in prima fascia GPS 2026: come si compila domanda per classi di concorso accorpate",
@@ -275,30 +278,6 @@
                 "date": "4 Feb 2026",
                 "time": "8:36",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/morello.png"
-            },
-            {
-                "category": "Docenti",
-                "title": "Mense scolastiche: a Nord il 51% degli edifici, in Sicilia il 14,4%. I dati di Openpolis e perché è importante la mensa",
-                "link": "https://www.orizzontescuola.it/mense-scolastiche-a-nord-il-51-degli-edifici-in-sicilia-il-144-i-dati-di-openpolis-e-perche-e-importante-la-mensa/",
-                "date": "4 Feb 2026",
-                "time": "8:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/shutterstock_1109442980-scaled.jpg"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "Convenzione per la realizzazione di percorsi di cittadinanza attiva e solidale. Scarica modello",
-                "link": "https://www.orizzontescuola.it/convenzione-per-la-realizzazione-di-percorsi-di-cittadinanza-attiva-e-solidale-scarica-modello/",
-                "date": "4 Feb 2026",
-                "time": "8:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/shutterstock_2468245949.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Docenti e uso dell’Intelligenza artificiale, OCSE: “No alla sistematica preparazione dei compiti e nella valutazione”. Quando è bene usarla?",
-                "link": "https://www.orizzontescuola.it/docenti-e-uso-dellintelligenza-artificiale-ocse-no-alla-sistematica-preparazione-dei-compiti-e-nella-valutazione-quando-e-bene-usarla/",
-                "date": "4 Feb 2026",
-                "time": "8:24",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/shutterstock_2509127349.jpg"
             }
         ]
     },
