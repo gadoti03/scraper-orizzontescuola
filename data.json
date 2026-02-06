@@ -3,26 +3,52 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
-                "category": "Politica scolastica",
-                "title": "Decreto sicurezza: Dirigenti, docenti e ATA sono pubblici ufficiali, stretta sulla vendita dei coltelli ai minori, genitori responsabili in caso di reato del minore. BOZZA",
-                "link": "https://www.orizzontescuola.it/decreto-sicurezza-dirigenti-docenti-e-ata-sono-pubblici-ufficiali-stretta-sulla-vendita-dei-coltelli-ai-minori-genitori-responsabili-in-caso-di-reato-del-minore-la-bozza/",
-                "date": "5 Feb 2026",
-                "time": "18:03",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/shutterstock_1565791930.jpg"
-            },
-            {
                 "category": "Docenti",
                 "title": "Carta docente: 400 euro l’importo e 270 milioni alle scuole per fornire PC, tablet in comodato d’uso. Decreto in arrivo",
                 "link": "https://www.orizzontescuola.it/carta-docente-decreto-in-arrivo-400-euro-limporto-piu-200-milioni-alle-scuole-per-fornire-pc-tablet-in-comodato-duso/",
                 "date": "5 Feb 2026",
                 "time": "10:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/Carta-del-docente-2.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Irene Manzi (PD): “Libri gratuiti, più mense e biblioteche scolastiche”. Sull’educazione sessuale a scuola dice, “serve educazione, non censura”. Tre domande a …",
+                "link": "https://www.orizzontescuola.it/irene-manzi-pd-libri-gratuiti-piu-mense-e-biblioteche-scolastiche-sulleducazione-sessuale-a-scuola-dice-serve-educazione-non-censura-tre-domande-a/",
+                "date": "5 Feb 2026",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Irene_Manzi.png"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
+            {
+                "category": "Scuole",
+                "title": "Dimensionamento scolastico 2026/27: ecco i piani regionali approvati, come cambiano le scuole [AGGIORNATO Campania]",
+                "link": "https://www.orizzontescuola.it/dimensionamento-scolastico-2026-27-ecco-i-piani-regionali-in-aggiornamento/",
+                "date": "6 Feb 2026",
+                "time": "7:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
+            },
+            null,
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Carta docente, sarà di 400 euro, estesa ai precari e non solo: ecco cosa è previsto. SPECIALE con Miceli (Anief) LIVE Venerdì 6 febbraio alle 16:00",
+                "link": "https://www.orizzontescuola.it/carta-docente-sara-di-400-euro-estesa-ai-precari-e-non-solo-ecco-cosa-e-previsto-speciale-con-miceli-anief-live-venerdi-6-febbraio-alle-1600/",
+                "date": "6 Feb 2026",
+                "time": "7:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Template_dentroilpalazzo_1920x1080.png"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Decreto sicurezza: arresto per chi aggredisce Dirigenti, docenti e ATA sono pubblici ufficiali. Stretta sulla vendita dei coltelli ai minori, genitori responsabili in caso di reato del minore. BOZZA",
+                "link": "https://www.orizzontescuola.it/decreto-sicurezza-dirigenti-docenti-e-ata-sono-pubblici-ufficiali-stretta-sulla-vendita-dei-coltelli-ai-minori-genitori-responsabili-in-caso-di-reato-del-minore-la-bozza/",
+                "date": "6 Feb 2026",
+                "time": "6:49",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/shutterstock_1565791930.jpg"
+            },
             {
                 "category": "Genitori",
                 "title": "Iscrizioni 2026/27, per le attività alternative alla religione si compila il modulo C dal 25 maggio al 30 giugno",
@@ -110,7 +136,12 @@
                 "date": "5 Feb 2026",
                 "time": "13:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_1721092186-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso PNRR3 docenti secondaria, al via la PROVA ORALE. Ecco le convocazioni [AGGIORNATO]",
@@ -150,12 +181,7 @@
                 "date": "5 Feb 2026",
                 "time": "11:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/shutterstock_2468245949.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Plus",
                 "title": "I diritti di docenti e ATA di ruolo e precari spiegati bene. Cosa fare in caso di… Aspettative, congedi, permessi, 104, ferie e malattie. Anche formato e-book",
@@ -213,14 +239,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/1000105191.jpg"
             },
             {
-                "category": "Scuole",
-                "title": "Sanzioni disciplinari e giustizia riparativa a scuola, i documenti che ti servono: delibere, integrazione regolamento d’istituto, modello convenzione e molto altro",
-                "link": "https://www.orizzontescuola.it/sanzioni-disciplinari-e-giustizia-riparativa-a-scuola-i-documenti-che-ti-servono-delibere-integrazione-regolamento-distituto-modello-convenzione-e-molto-altro/",
-                "date": "5 Feb 2026",
-                "time": "9:03",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/shutterstock_2666716167-1.jpg"
-            },
-            {
                 "category": "Cronaca",
                 "title": "Coltelli in tasca, l’Arcivescovo di Catania ai papà durante la festa di Sant’Agata: “non tollerateli, la scuola è uno spazio di relazione”",
                 "link": "https://www.orizzontescuola.it/coltelli-in-tasca-larcivescovo-di-catania-ai-papa-durante-la-festa-di-santagata-non-tollerateli-la-scuola-e-uno-spazio-di-relazione/",
@@ -235,14 +253,6 @@
                 "date": "5 Feb 2026",
                 "time": "8:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/shutterstock_1486513889.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Irene Manzi (PD): “Libri gratuiti, più mense e biblioteche scolastiche”. Sull’educazione sessuale a scuola dice, “serve educazione, non censura”. Tre domande a …",
-                "link": "https://www.orizzontescuola.it/irene-manzi-pd-libri-gratuiti-piu-mense-e-biblioteche-scolastiche-sulleducazione-sessuale-a-scuola-dice-serve-educazione-non-censura-tre-domande-a/",
-                "date": "5 Feb 2026",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Irene_Manzi.png"
             },
             {
                 "category": "Stipendio",
@@ -261,29 +271,20 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_2194944619.jpg"
             },
             null,
-            null,
-            null,
-            {
-                "category": "ATA",
-                "title": "Posizioni economiche ATA: il simulatore per esercitarti a superare l’esame",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-collaboratori-simulatore-e-video-lezioni-per-superare-la-prova-finale/",
-                "date": "5 Feb 2026",
-                "time": "7:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/Assegnazioni-provvisorie-e-utilizzazioni-1.png"
-            },
-            {
-                "category": "Genitori",
-                "title": "Permanenza nella scuola dell’infanzia per un anno, possibile anche per esigenze educative speciali",
-                "link": "https://www.orizzontescuola.it/permanenza-nella-scuola-dellinfanzia-per-un-anno-possibile-anche-per-esigenze-educative-speciali/",
-                "date": "4 Feb 2026",
-                "time": "19:59",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/09/shutterstock_1930109909.jpg"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Dirigente cancella docente precario dalle GPS, dovrà risarcire 16mila euro",
+                "link": "https://www.orizzontescuola.it/dirigente-cancella-docente-precario-dalle-gps-dovra-risarcire-16mila-euro/",
+                "date": "6 Feb 2026",
+                "time": "7:10",
+                "image_link": "N/A"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Carta del Docente, Serafini (Snals): “Bene la riattivazione con l’estensione ai precari, pc in comodato d’uso e biglietti bus o treni”",
@@ -397,14 +398,6 @@
                 "link": "https://www.orizzontescuola.it/sanzione-disciplinare-allontanamento-dalle-lezioni-ecco-le-strutture-disposte-ad-accogliere-gli-studenti-elenco-per-regione/",
                 "date": "5 Feb 2026",
                 "time": "13:29",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Famiglia del bosco, la maestra Vallarolo e le inclinazioni dei tre alunni: “Preferiscono la Matematica all’alfabeto. Risultati? Ci vuole calma, è presto”",
-                "link": "https://www.orizzontescuola.it/famiglia-del-bosco-la-maestra-vallarolo-e-le-inclinazioni-dei-tre-alunni-preferiscono-la-matematica-allalfabeto-risultati-ci-vuole-calma-e-presto/",
-                "date": "5 Feb 2026",
-                "time": "13:02",
                 "image_link": "N/A"
             }
         ]
@@ -584,6 +577,14 @@
         "articles": [
             {
                 "category": "ATA",
+                "title": "Prova finale posizioni economiche ATA: un giorno di permesso o è possibile richiedere qualche ora?",
+                "link": "https://www.orizzontescuola.it/prova-posizioni-economiche-ata-un-giorno-di-permesso-o-e-possibile-richiedere-qualche-ora/",
+                "date": "3 Feb 2026",
+                "time": "18:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
+            },
+            {
+                "category": "ATA",
                 "title": "Prove finali posizioni economiche ATA: ecco perché non è previsto “non superare” il test. Per la graduatoria fondamentale il punteggio ottenuto",
                 "link": "https://www.orizzontescuola.it/prove-finali-posizioni-economiche-ata-ecco-perche-non-e-previsto-non-superare-il-test-per-la-graduatoria-fondamentale-il-punteggio/",
                 "date": "2 Feb 2026",
@@ -621,14 +622,6 @@
                 "date": "30 Gen 2026",
                 "time": "17:58",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/convocazione_2.png"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "Iscrizioni tardive e trasferimenti: norme e scheda già pronta all’uso",
-                "link": "https://www.orizzontescuola.it/iscrizioni-tardive-e-trasferimenti-norme-e-scheda-gia-pronta-alluso/",
-                "date": "30 Gen 2026",
-                "time": "7:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2377454741.jpg"
             }
         ]
     },
