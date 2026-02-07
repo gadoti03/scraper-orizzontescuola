@@ -56,14 +56,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2459519923.jpg"
             },
             {
-                "category": "Plus",
-                "title": "“OrizzonteScuola7”, la newsletter settimanale di OrizzonteScuola. Iscriviti gratuitamente",
-                "link": "https://www.orizzontescuola.it/orizzontescuola7-la-newsletter-settimanale-di-orizzontescuola-iscriviti-gratuitamente/",
-                "date": "6 Feb 2026",
-                "time": "16:14",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/La-newsletter-per-Diventare-insegnante.png"
-            },
-            {
                 "category": "Docenti",
                 "title": "Carnevale 2026, in quali giorni non si va a scuola. Le date del calendario scolastico",
                 "link": "https://www.orizzontescuola.it/carnevale-2026-in-quali-giorni-non-si-va-a-scuola-le-date-del-calendario-scolastico/",
@@ -150,12 +142,7 @@
                 "date": "6 Feb 2026",
                 "time": "11:36",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2036186225.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Continuità dei docenti di sostegno: chi ottiene la priorità nelle supplenze del 2026/27. Pillole di Question Time",
@@ -163,7 +150,12 @@
                 "date": "6 Feb 2026",
                 "time": "11:25",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2538269019.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Docenti",
                 "title": "Carta docente, il comodato d’uso dei pc e tablet non sostituisce l’acquisto ogni 4 anni. Sarà di 400 euro? L’ANIEF anticipa 390 euro",
@@ -195,14 +187,6 @@
                 "date": "6 Feb 2026",
                 "time": "9:26",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_669396973.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Diploma ITP, percorsi abilitanti e GPS: fai la scelta giusta. Lalla ti spiegherà tutto. Iscriviti alla newsletter “Diventare Insegnanti”",
-                "link": "https://www.orizzontescuola.it/diploma-itp-percorsi-abilitanti-e-gps-fai-la-scelta-giusta-lalla-ti-spieghera-tutto-iscriviti-alla-newsletter-diventare-insegnanti-2/",
-                "date": "6 Feb 2026",
-                "time": "8:36",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Oggi-e-la-giornata-dellInfanzia.png"
             },
             {
                 "category": "Docenti",
@@ -278,6 +262,22 @@
                 "date": "5 Feb 2026",
                 "time": "17:31",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_594891590.jpg"
+            },
+            {
+                "category": "Gestire la scuola",
+                "title": "Delibera di irrogazione di sanzione disciplinare con finalità educativa e riparativa: in allegato una bozza",
+                "link": "https://www.orizzontescuola.it/delibera-di-irrogazione-di-sanzione-disciplinare-con-finalita-educativa-e-riparativa-in-allegato-una-bozza/",
+                "date": "5 Feb 2026",
+                "time": "16:59",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/shutterstock_2666716167.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Carta docente: dal 2025/26 cambia data di accredito ma durata sarà sempre biennale. “Nessuna risorsa persa”",
+                "link": "https://www.orizzontescuola.it/carta-docente-dal-2025-26-cambia-data-di-accredito-ma-durata-sara-sempre-biennale-nessuna-risorsa-persa/",
+                "date": "5 Feb 2026",
+                "time": "16:58",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_1492696484.jpg"
             }
         ]
     },
@@ -605,14 +605,6 @@
         "articles": [
             {
                 "category": "Gestire la scuola",
-                "title": "Invalsi: browser compatibili con la piattaforma di erogazione delle prove CBT a.s. 2025 2026",
-                "link": "https://www.orizzontescuola.it/invalsi-browser-compatibili-con-la-piattaforma-di-erogazione-delle-prove-cbt-a-s-2025-2026/",
-                "date": "4 Feb 2026",
-                "time": "18:38",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/shutterstock_131910761.jpg"
-            },
-            {
-                "category": "Gestire la scuola",
                 "title": "Il Dirigente Scolastico e i processi inclusivi: una checklist operativa",
                 "link": "https://www.orizzontescuola.it/il-dirigente-scolastico-e-i-processi-inclusivi-una-checklist-operativa/",
                 "date": "4 Feb 2026",
@@ -650,6 +642,14 @@
                 "date": "2 Feb 2026",
                 "time": "15:56",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1508556191.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Posizioni economiche ATA, prova finale dal 23 al 27 febbraio. Le convocazioni e le istruzioni [LO SPECIALE]",
+                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-prova-finale-rinviata-quale-aumento-di-stipendio-lo-speciale/",
+                "date": "2 Feb 2026",
+                "time": "9:42",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Modello-immagine-sito-12.png"
             }
         ]
     },
