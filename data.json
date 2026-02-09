@@ -25,6 +25,17 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Percorsi abilitanti, il Ministero chiede numero e classe di concorso dei docenti neoassunti che devono conseguire il titolo entro il 31 agosto 2026",
+                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-il-ministero-chiede-numero-e-classe-di-concorso-dei-docenti-neoassunti-che-devono-conseguire-il-titolo-entro-il-31-agosto-2026/",
+                "date": "9 Feb 2026",
+                "time": "7:45",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/03/shutterstock_666030916.jpg"
+            },
+            null,
+            null,
+            null,
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Percorsi abilitanti 60, 36, 30 CFU: ecco i BANDI aperti per le iscrizioni 2025/26",
                 "link": "https://www.orizzontescuola.it/percorsi-abilitanti-60-36-30-cfu-ecco-le-nuove-pagine-delle-universita-per-lanno-accademico-2025-26/",
                 "date": "8 Feb 2026",
@@ -111,7 +122,12 @@
                 "date": "8 Feb 2026",
                 "time": "10:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2423928343-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Docenti",
                 "title": "Dipendenza da Internet, i genitori ci provano: due terzi introducono regole sull’uso del social. Da limiti temporali ai parental control",
@@ -143,12 +159,7 @@
                 "date": "8 Feb 2026",
                 "time": "8:16",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2384798515.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "Piano di formazione degli ATA redatto dal DSGA: In arrivo bozza rilevazione bisogni e bozza del piano da scaricare. A cura di Paola Perlini",
@@ -246,32 +257,7 @@
                 "date": "7 Feb 2026",
                 "time": "8:04",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Sottotitolo-2.png"
-            },
-            {
-                "category": "Stipendio",
-                "title": "Stipendio febbraio 2026, docenti e ATA: importo visibile su NoiPA. E’ il mese più atteso",
-                "link": "https://www.orizzontescuola.it/stipendio-febbraio-2026-docenti-e-ata-importo-visibile-su-noipa-e-il-mese-piu-atteso/",
-                "date": "7 Feb 2026",
-                "time": "8:04",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_261370952.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Cecchettin: “L’amore non è la geolocalizzazione letta come cura o il controllo scambiato per interesse. Insegniamo agli studenti a riconoscere la violenza”. INTERVISTA",
-                "link": "https://www.orizzontescuola.it/cecchettin-lamore-non-e-la-geolocalizzazione-letta-come-cura-o-il-controllo-scambiato-per-interesse-insegniamo-agli-studenti-a-riconoscere-la-violenza-intervista/",
-                "date": "7 Feb 2026",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/cecchettin6.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "Sanzioni disciplinari e giustizia riparativa a scuola, i documenti in arrivo: regolamento da scaricare, vademecum, esempio di progetto formativo",
-                "link": "https://www.orizzontescuola.it/sanzioni-disciplinari-e-giustizia-riparativa-a-scuola-i-documenti-che-ti-servono-delibere-regolamento-distituto-modello-convenzione-e-molto-altro/",
-                "date": "7 Feb 2026",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Sanzioni-disciplinari-e-giustizia-riparativa-1.png"
-            },
-            null
+            }
         ]
     },
     "group_4": {
@@ -606,14 +592,6 @@
             },
             {
                 "category": "Gestire la scuola",
-                "title": "PN “Scuola e competenze” 2021-27: obblighi di visibilità e comunicazione. Indicazioni operative per Dirigenti scolastici e DSGA. TUTTI I DOCUMENTI PNR21-27 e PNRR",
-                "link": "https://www.orizzontescuola.it/pn-scuola-e-competenze-2021-27-obblighi-di-visibilita-e-comunicazione-indicazioni-operative-per-dirigenti-scolastici-e-dsga-tutti-i-documenti-pnr21-27-e-pnrr/",
-                "date": "5 Feb 2026",
-                "time": "7:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_2194944619.jpg"
-            },
-            {
-                "category": "Gestire la scuola",
                 "title": "Invalsi: browser compatibili con la piattaforma di erogazione delle prove CBT a.s. 2025 2026",
                 "link": "https://www.orizzontescuola.it/invalsi-browser-compatibili-con-la-piattaforma-di-erogazione-delle-prove-cbt-a-s-2025-2026/",
                 "date": "4 Feb 2026",
@@ -643,6 +621,14 @@
                 "date": "3 Feb 2026",
                 "time": "18:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Prove finali posizioni economiche ATA: ecco perché non è previsto “non superare” il test. Per la graduatoria fondamentale il punteggio ottenuto",
+                "link": "https://www.orizzontescuola.it/prove-finali-posizioni-economiche-ata-ecco-perche-non-e-previsto-non-superare-il-test-per-la-graduatoria-fondamentale-il-punteggio/",
+                "date": "2 Feb 2026",
+                "time": "19:03",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_1645535227.jpg"
             }
         ]
     },
