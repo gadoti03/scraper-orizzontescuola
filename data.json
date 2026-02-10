@@ -23,6 +23,9 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
+            null,
+            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR3: prova pratica va svolta in anonimato oppure no? Cosa dice la giurisprudenza",
@@ -119,7 +122,12 @@
                 "date": "9 Feb 2026",
                 "time": "13:15",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_392166814.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso PNRR3 docenti secondaria, al via la PROVA ORALE. Ecco le convocazioni [AGGIORNATO]",
@@ -143,12 +151,7 @@
                 "date": "9 Feb 2026",
                 "time": "12:08",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1350370946.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Gestire la scuola",
                 "title": "Comunicazione di sanzione disciplinare con finalità educativa e riparativa: in allegato una bozza",
@@ -247,17 +250,7 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Elezioni-organi-collegiali-1-1.png"
             },
             null,
-            null,
-            null,
-            null,
-            {
-                "category": "Scuole non statali",
-                "title": "Scuole paritarie e sistema 0-6: “Senza di noi non si saprebbe come scolarizzare i bambini”",
-                "link": "https://www.orizzontescuola.it/scuole-paritarie-e-sistema-0-6-senza-di-noi-non-si-saprebbe-come-scolarizzare-i-bambini/",
-                "date": "8 Feb 2026",
-                "time": "16:45",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2504877853.jpg"
-            }
+            null
         ]
     },
     "group_4": {
@@ -524,6 +517,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "GPS 2026: punteggio di servizio assicurato per chi ha contratto al 30 giugno, tabelle titoli ancora non disponibili. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/gps-2026-punteggio-di-servizio-assicurato-per-chi-ha-contratto-al-30-giugno-tabelle-titoli-ancora-non-disponibili-risposte-ai-quesiti/",
+                "date": "6 Feb 2026",
+                "time": "10:45",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/04/shutterstock_2033916281.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Punteggio di servizio GPS: quanti giorni servono per ottenere i 12 punti. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/punteggio-di-servizio-gps-quanti-giorni-servono-per-ottenere-i-12-punti-pillole-di-question-time/",
                 "date": "5 Feb 2026",
@@ -561,14 +562,6 @@
                 "date": "5 Feb 2026",
                 "time": "10:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_2112392237.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Docenti in anno di prova possono aggiornare le GPS anche per la stessa classe di concorso del ruolo. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/docenti-in-anno-di-prova-possono-aggiornare-le-gps-anche-per-la-stessa-classe-di-concorso-del-ruolo-pillole-di-question-time/",
-                "date": "4 Feb 2026",
-                "time": "17:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2310310031-scaled.jpg"
             }
         ]
     },
@@ -630,6 +623,14 @@
         "articles": [
             {
                 "category": "Didattica",
+                "title": "Studenti fragili tra gruppi interattivi, tertulie dialogiche ed educazione familiare. Il progetto INCLUD-ED",
+                "link": "https://www.orizzontescuola.it/studenti-fragili-tra-gruppi-interattivi-tertulie-dialogiche-ed-educazione-familiare-il-progetto-includ-ed/",
+                "date": "31 Gen 2026",
+                "time": "9:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_2552524019.jpg"
+            },
+            {
+                "category": "Didattica",
                 "title": "Giornata della Memoria a scuola; scarica il materiale documentale dell’ITET Einaudi di Bassano del Grappa",
                 "link": "https://www.orizzontescuola.it/giornata-della-memoria-a-scuola-scarica-il-materiale-documentale-dellitet-einaudi-di-bassano-del-grappa/",
                 "date": "26 Gen 2026",
@@ -667,14 +668,6 @@
                 "date": "12 Gen 2026",
                 "time": "9:29",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/Brindiamo.png"
-            },
-            {
-                "category": "Didattica",
-                "title": "Inquiry Based Science Education, di cosa si tratta: tra metodo scientifico, metodologie didattiche e libertà di insegnamento",
-                "link": "https://www.orizzontescuola.it/inquiry-based-science-education-di-cosa-si-tratta-tra-metodo-scientifico-metodologie-didattiche-e-liberta-di-insegnamento/",
-                "date": "10 Gen 2026",
-                "time": "13:51",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_2485739321.jpg"
             }
         ]
     },
