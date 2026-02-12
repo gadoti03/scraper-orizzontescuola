@@ -24,6 +24,70 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Genitori",
+                "title": "Iscrizioni scolastiche 2026/2027, proroga nazionale al 21 febbraio",
+                "link": "https://www.orizzontescuola.it/iscrizioni-scolastiche-2026-2027-proroga-nazionale-al-21-febbraio/",
+                "date": "12 Feb 2026",
+                "time": "19:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/Unica.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Riforma Istituti Tecnici dal 2026/27: Formazione Scuola Lavoro già dal secondo anno. Ancora non chiarite le classi di concorso. primo incontro al Ministero",
+                "link": "https://www.orizzontescuola.it/riforma-istituti-tecnici-dal-2026-27-formazione-scuola-lavoro-gia-dal-secondo-anno-ancora-non-chiarite-le-classi-di-concorso-primo-incontro-al-ministero/",
+                "date": "12 Feb 2026",
+                "time": "17:42",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_587749046.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Esame maturità 2026, Frassinetti: “Così valutazione più realistica del percorso dello studente. Non si potrà più fare scena muta all’orale” [VIDEO INTERVISTA]",
+                "link": "https://www.orizzontescuola.it/esame-maturita-2026-colloquio-orale-al-centro-della-riforma-frassinetti-valutazione-piu-realistica-del-percorso-dello-studente-video-intervista/",
+                "date": "12 Feb 2026",
+                "time": "16:59",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Screenshot-2026-02-12-alle-16.49.19.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "GPS e domanda delle 150 preferenze: quali sono le differenze. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/gps-e-domanda-delle-150-preferenze-quali-sono-le-differenze-pillole-di-question-time/",
+                "date": "12 Feb 2026",
+                "time": "16:34",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Allerta meteo scuole chiuse venerdì 13 febbraio: stop alle lezioni in diversi comuni. ELENCO IN AGGIORNAMENTO",
+                "link": "https://www.orizzontescuola.it/allerta-meteo-scuole-chiuse-venerdi-13-febbraio-stop-alle-lezioni-in-diversi-comuni-elenco-in-aggiornamento/",
+                "date": "12 Feb 2026",
+                "time": "16:06",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/MALTEMPO.png"
+            },
+            {
+                "category": "Scuole",
+                "title": "Integrazione del registro elettronico per la comunicazione automatizzata delle assenze al SIDI. NOTA Ministero",
+                "link": "https://www.orizzontescuola.it/integrazione-del-registro-elettronico-per-la-comunicazione-automatizzata-delle-assenze-al-sidi-nota-ministero/",
+                "date": "12 Feb 2026",
+                "time": "15:46",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_521791969.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze, studenti di Scienze della Formazione Primaria possono inserirsi nelle GPS e insegnare prima della laurea. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/supplenze-studenti-di-scienze-della-formazione-primaria-possono-inserirsi-nelle-gps-e-insegnare-prima-della-laurea-pillole-di-question-time/",
+                "date": "12 Feb 2026",
+                "time": "14:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_34528768.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Nuovo congedo parentale fino a 14 anni: aggiornati i codici SIDI per le assenze del personale",
+                "link": "https://www.orizzontescuola.it/nuovo-congedo-parentale-fino-a-14-anni-aggiornati-i-codici-sidi-per-le-assenze-del-personale/",
+                "date": "12 Feb 2026",
+                "time": "13:41",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1936676008-scaled.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso PNRR3 docenti secondaria, convocazioni prova orale. Attenzione a modifica sede 12 febbraio per allerta meteo Sicilia [AGGIORNATO]",
                 "link": "https://www.orizzontescuola.it/concorso-pnrr3-docenti-secondaria-al-via-la-prova-orale-ecco-le-convocazioni-in-aggiornamento/",
@@ -86,7 +150,12 @@
                 "date": "12 Feb 2026",
                 "time": "11:36",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2459519923.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Stipendio",
                 "title": "Carta del docente, abusi sul bonus 500 euro e nuovi vincoli sugli acquisti",
@@ -150,12 +219,7 @@
                 "date": "12 Feb 2026",
                 "time": "8:39",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/02/shutterstock_1779085160.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Gestire la scuola",
                 "title": "Devianza minorile in ambito scolastico e misure amministrative di prevenzione e rieducazione, Decreto Caivano: strumenti e ruolo attivo dei dirigenti scolastici",
@@ -207,76 +271,132 @@
                 "date": "11 Feb 2026",
                 "time": "13:32",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/03/giustizia.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Valorizzazione delle eccellenze 2026/27, domande entro il 28 febbraio per accreditamento e riconoscimento delle competizioni",
-                "link": "https://www.orizzontescuola.it/valorizzazione-delle-eccellenze-2026-27-domande-entro-il-28-febbraio-per-accreditamento-e-riconoscimento-delle-competizioni/",
-                "date": "11 Feb 2026",
-                "time": "12:51",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1874731318-scaled.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Erasmus+ 2026, scuole: mobilità individuale KA121 e KA122 in scadenza il 19 febbraio",
-                "link": "https://www.orizzontescuola.it/erasmus-2026-scuole-mobilita-individuale-ka121-e-ka122-in-scadenza-il-19-febbraio/",
-                "date": "11 Feb 2026",
-                "time": "12:41",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_2123282708.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Cellulari vietati nelle scuole: parte il monitoraggio nazionale. Il Ministero chiede regolamenti, modalità di custodia e coinvolgimento delle famiglie",
-                "link": "https://www.orizzontescuola.it/cellulari-vietati-nelle-scuole-parte-il-monitoraggio-nazionale-il-ministero-chiede-regolamenti-modalita-di-custodia-e-coinvolgimento-delle-famiglie/",
-                "date": "11 Feb 2026",
-                "time": "12:33",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1238570230-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "TFA estero, 30 CFU ex articolo 13: bisogna partecipare al Secondo ciclo Indire per sanare il titolo e “salvare” l’abilitazione. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/tfa-estero-30-cfu-ex-articolo-13-bisogna-partecipare-al-secondo-ciclo-indire-per-sanare-il-titolo-e-salvare-labilitazione-pillole-di-question-time/",
-                "date": "11 Feb 2026",
-                "time": "12:32",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_107800838.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Valditara difende carta e penna: “Il libro attiva il cervello, il cellulare solo una parte. Dobbiamo disintossicare i giovani”",
-                "link": "https://www.orizzontescuola.it/valditara-difende-carta-e-penna-il-libro-attiva-il-cervello-il-cellulare-solo-una-parte/",
-                "date": "11 Feb 2026",
-                "time": "12:29",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Screenshot-2026-02-11-alle-12.01.07.png"
-            },
-            {
-                "category": "Stipendio",
-                "title": "Carta del docente: chi non ha ricevuto il residuo del 2024/25 potrà riaverlo alla riapertura della piattaforma a fine febbraio?",
-                "link": "https://www.orizzontescuola.it/carta-del-docente-chi-non-ha-ricevuto-il-residuo-del-2024-25-potra-riaverlo-alla-riapertura-della-piattaforma-a-fine-febbraio/",
-                "date": "11 Feb 2026",
-                "time": "11:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2467525223.jpg"
-            },
-            {
-                "category": "Genitori",
-                "title": "Percorsi 4+2, ecco i video del Ministero: presentazione dei quadriennali di Tecnici e Professionali",
-                "link": "https://www.orizzontescuola.it/percorsi-42-ecco-i-video-del-ministero-presentazione-dei-quadriennali-di-tecnici-e-professionali/",
-                "date": "11 Feb 2026",
-                "time": "11:02",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1705421503-scaled.jpg"
-            },
-            {
-                "category": "Guide",
-                "title": "Permessi diritto studio 2026 docenti e ATA: sono retribuiti, criteri e modalità di fruizione [GUIDA con i Contratti regionali]",
-                "link": "https://www.orizzontescuola.it/permessi-diritto-studio-2026-docenti-e-ata-sono-retribuiti-criteri-e-modalita-di-fruizione-guida-con-i-contratti-regionali/",
-                "date": "11 Feb 2026",
-                "time": "10:41",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_142220581.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Piattaforma welfare per personale scolastico: sconti fino al 30% su beni e servizi, Valditara: “Obiettivo migliorare qualità della vita di chi opera nella scuola”",
+                "link": "https://www.orizzontescuola.it/piattaforma-welfare-per-personale-scolastico-sconti-fino-al-30-su-beni-e-servizi-valditara-obiettivo-migliorare-qualita-della-vita-di-chi-opera-nella-scuola/",
+                "date": "12 Feb 2026",
+                "time": "18:48",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Bucalo (FdI) illustra la riforma della maturità: “Superare visione nozionistica e rimettere al centro la persona”",
+                "link": "https://www.orizzontescuola.it/bucalo-fdi-illustra-la-riforma-della-maturita-superare-visione-nozionistica-e-rimettere-al-centro-la-persona/",
+                "date": "12 Feb 2026",
+                "time": "18:08",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Lite tra studenti, docente cade intervenendo per separarli: trasportata in ospedale. Dirigenza valuta sanzioni disciplinari",
+                "link": "https://www.orizzontescuola.it/lite-tra-studenti-docente-cade-intervenendo-per-separarli-trasportata-in-ospedale-dirigenza-valuta-sanzioni-disciplinari/",
+                "date": "12 Feb 2026",
+                "time": "18:00",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Topo morto nella pentola della mensa: intervengono i Carabinieri in una scuola del napoletano",
+                "link": "https://www.orizzontescuola.it/topo-morto-nella-pentola-della-mensa-intervengono-i-carabinieri-in-una-scuola-del-napoletano/",
+                "date": "12 Feb 2026",
+                "time": "17:13",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Nessuna categoria",
+                "title": "Carta docente ai precari, basta la Cassazione per dire che va data: 2.000 euro all’insegnante difesa da Anief, perchè da spendere “con le medesime modalità con cui è stata attribuita ai” colleghi “a tempo indeterminato”",
+                "link": "https://www.orizzontescuola.it/carta-docente-ai-precari-basta-la-cassazione-per-dire-che-va-data-2-000-euro-allinsegnante-difesa-da-anief-perche-da-spendere-con-le-medesime-modalita-con-cui-e-stata-at/",
+                "date": "12 Feb 2026",
+                "time": "16:42",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Schettini agli studenti: “Il potere che hanno i bulli su di voi dipende solo da voi stessi”, ecco come disinnescare la violenza online",
+                "link": "https://www.orizzontescuola.it/schettini-agli-studenti-il-potere-che-hanno-i-bulli-su-di-voi-dipende-solo-da-voi-stessi-ecco-come-disinnescare-la-violenza-online/",
+                "date": "12 Feb 2026",
+                "time": "16:22",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Forte vento in Sardegna: evacuazione di alunni a Villasimius dopo il crollo del tetto di una scuola elementare",
+                "link": "https://www.orizzontescuola.it/forte-vento-in-sardegna-evacuazione-di-alunni-a-villasimius-dopo-il-crollo-del-tetto-di-una-scuola-elementare/",
+                "date": "12 Feb 2026",
+                "time": "16:11",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "La radio riconquista Gen Z e Generazione Alpha con l’ascolto digitale: l’indagine di Skuola.net mostra una crescita degli ascoltatori abituali dal 12% al 25%",
+                "link": "https://www.orizzontescuola.it/la-radio-riconquista-gen-z-e-generazione-alpha-con-lascolto-digitale-lindagine-di-skuola-net-mostra-una-crescita-degli-ascoltatori-abituali-dal-12-al-25/",
+                "date": "12 Feb 2026",
+                "time": "15:59",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Riforma degli Istituti Tecnici, ANIEF: servono tutele su organici e ruolo dei docenti",
+                "link": "https://www.orizzontescuola.it/riforma-degli-istituti-tecnici-anief-servono-tutele-su-organici-e-ruolo-dei-docenti/",
+                "date": "12 Feb 2026",
+                "time": "15:55",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Scuola italiana di Istanbul, sciopero docenti locali a rischio anno scolastico: UIL Scuola chiede intervento urgente dei ministri Tajani e Valditara per ripristinare le lezioni",
+                "link": "https://www.orizzontescuola.it/scuola-italiana-di-istanbul-sciopero-docenti-locali-a-rischio-anno-scolastico-uil-scuola-chiede-intervento-urgente-dei-ministri-tajani-e-valditara-per-ripristinare-le-lezioni/",
+                "date": "12 Feb 2026",
+                "time": "15:30",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Svastiche all’ingresso di una scuola nel milanese: dura condanna di Preside e Sindaco contro il vandalismo",
+                "link": "https://www.orizzontescuola.it/svastiche-allingresso-di-una-scuola-nel-milanese-dura-condanna-di-preside-e-sindaco-contro-il-vandalismo/",
+                "date": "12 Feb 2026",
+                "time": "15:23",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Master AFAM, il Ministero Università fissa le regole per i rinnovi dell’anno accademico 2026-2027: domande dal 16 febbraio al 20 marzo via PEC per i corsi già autorizzati",
+                "link": "https://www.orizzontescuola.it/master-afam-il-ministero-universita-fissa-le-regole-per-i-rinnovi-dellanno-accademico-2026-2027-domande-dal-16-febbraio-al-20-marzo-via-pec-per-i-corsi-gia-autorizzati/",
+                "date": "12 Feb 2026",
+                "time": "15:16",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Bullismo, proposta di legge popolare per Leonardo Calcina. Il tribunale di Ancona sul caso: “Archiviazione illegittima, indagini da rifare. Venti giorni per la verità”",
+                "link": "https://www.orizzontescuola.it/bullismo-proposta-di-legge-popolare-per-leonardo-calcina-il-tribunale-di-ancona-sul-caso-archiviazione-illegittima-indagini-da-rifare-venti-giorni-per-la-verita/",
+                "date": "12 Feb 2026",
+                "time": "14:51",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Quando lo stipendio non basta per una casa dignitosa: l’appello del CNDDU contro il caro vita che schiaccia giovani e personale scolastico",
+                "link": "https://www.orizzontescuola.it/quando-lo-stipendio-non-basta-per-una-casa-dignitosa-lappello-del-cnddu-contro-il-caro-vita-che-schiaccia-giovani-e-personale-scolastico/",
+                "date": "12 Feb 2026",
+                "time": "14:42",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Stop ai cellulari in classe, l’affondo di Crepet: “Almeno fino alla terza media. Nessun intento punitivo, i ragazzi rischiano danni cognitivi”",
+                "link": "https://www.orizzontescuola.it/stop-ai-cellulari-in-classe-laffondo-di-crepet-almeno-fino-alla-terza-media-nessun-intento-punitivo-i-ragazzi-rischiano-danni-cognitivi/",
+                "date": "12 Feb 2026",
+                "time": "14:28",
+                "image_link": "N/A"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "ANCODIS: “Il Trentino riconosce il vicario nel concorso DS, ora serve una svolta nazionale”",
@@ -300,120 +420,7 @@
                 "date": "12 Feb 2026",
                 "time": "13:00",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "Concerto dell’Orchestra nazionale dei Licei musicali a Fiera Didacta: appuntamento l’11 marzo a Firenze",
-                "link": "https://www.orizzontescuola.it/concerto-dellorchestra-nazionale-dei-licei-musicali-a-fiera-didacta-appuntamento-l11-marzo-a-firenze/",
-                "date": "12 Feb 2026",
-                "time": "12:53",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Scuola e privati, Fracassi (FLC CGIL) attacca Valditara: “Quanto affermato dal Ministro è gravissimo. Gli andrebbe ricordato che scuola e sanità non sono servizi come altri.”",
-                "link": "https://www.orizzontescuola.it/scuola-e-privati-fracassi-flc-cgil-attacca-valditara-quanto-affermato-dal-ministro-e-gravissimo-gli-andrebbe-ricordato-che-scuola-e-sanita-non-sono-servizi-come-altri/",
-                "date": "12 Feb 2026",
-                "time": "12:15",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Assistenti di lingua straniera 2026/27: avvisi USR per le richieste da parte delle scuole [IN AGGIORNAMENTO]",
-                "link": "https://www.orizzontescuola.it/assistenti-di-lingua-straniera-2026-27-avvisi-usr-per-le-richieste-da-parte-delle-scuole-in-aggiornamento/",
-                "date": "12 Feb 2026",
-                "time": "11:58",
-                "image_link": "N/A"
-            },
-            {
-                "category": "ATA",
-                "title": "Scuola, al via il nuovo Marketplace: sconti e agevolazioni per docenti e personale ATA",
-                "link": "https://www.orizzontescuola.it/scuola-al-via-il-nuovo-marketplace-sconti-e-agevolazioni-per-docenti-e-personale-ata/",
-                "date": "12 Feb 2026",
-                "time": "11:38",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Laurea, il grande bivio: agli uomini Ingegneria, alle donne le Scienze Umane. I dati del divario",
-                "link": "https://www.orizzontescuola.it/laurea-il-grande-bivio-agli-uomini-ingegneria-alle-donne-le-scienze-umane-i-dati-del-divario/",
-                "date": "12 Feb 2026",
-                "time": "11:30",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "Gen Z e quoziente intellettivo: per la prima volta i figli ne sanno meno dei genitori. L’allarme dal neuroscienziato",
-                "link": "https://www.orizzontescuola.it/gen-z-e-quoziente-intellettivo-per-la-prima-volta-i-figli-ne-sanno-meno-dei-genitori-lallarme-dal-neuroscienziato/",
-                "date": "12 Feb 2026",
-                "time": "10:55",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "Darwin Day 2026: la scuola e i musei celebrano la scienza, ecco gli eventi in Italia",
-                "link": "https://www.orizzontescuola.it/darwin-day-2026-la-scuola-e-i-musei-celebrano-la-scienza-ecco-gli-eventi-in-italia/",
-                "date": "12 Feb 2026",
-                "time": "10:34",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Dirigente scolastica minacciata da genitori per una questione di riorganizzazione oraria",
-                "link": "https://www.orizzontescuola.it/dirigente-scolastica-minacciata-da-genitori-per-una-questione-di-riorganizzazione-oraria/",
-                "date": "12 Feb 2026",
-                "time": "8:15",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Potenza, il prefetto convoca i Dirigenti scolastici: “Risposta strutturata contro l’illegalità”",
-                "link": "https://www.orizzontescuola.it/potenza-il-prefetto-convoca-i-dirigenti-scolastici-risposta-strutturata-contro-lillegalita/",
-                "date": "12 Feb 2026",
-                "time": "8:10",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Strage in Canada, identificato il killer: ha ucciso anche la madre e il fratello davanti casa. Manca ancora il movente",
-                "link": "https://www.orizzontescuola.it/strage-in-canada-identificato-il-killer-ha-ucciso-anche-la-madre-e-il-fratello-davanti-casa-manca-ancora-il-movente/",
-                "date": "12 Feb 2026",
-                "time": "7:52",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Niente metaldetector nelle scuole della Valle d’Aosta: il piano della Regione per gestire il disagio giovanile",
-                "link": "https://www.orizzontescuola.it/niente-metaldetector-nelle-scuole-della-valle-daosta-il-piano-della-regione-per-gestire-il-disagio-giovanile/",
-                "date": "11 Feb 2026",
-                "time": "20:39",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Carta del docente, l’allarme di Italia Viva: bonus snaturato e trasformato in una sorta di carta per il welfare",
-                "link": "https://www.orizzontescuola.it/carta-del-docente-lallarme-di-italia-viva-bonus-snaturato-e-trasformato-in-una-sorta-di-carta-per-il-welfare/",
-                "date": "11 Feb 2026",
-                "time": "19:34",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Aggressione a scuola a Novi Ligure: studentessa colpita con un pugno, scatta la denuncia del dirigente",
-                "link": "https://www.orizzontescuola.it/aggressione-a-scuola-a-novi-ligure-studentessa-colpita-con-un-pugno-scatta-la-denuncia-del-dirigente/",
-                "date": "11 Feb 2026",
-                "time": "19:09",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Sicilia, stop alle scuole al freddo: arriva la cabina di regia e un pool di tecnici per salvare i fondi Pnrr e regionali",
-                "link": "https://www.orizzontescuola.it/sicilia-stop-alle-scuole-al-freddo-arriva-la-cabina-di-regia-e-un-pool-di-tecnici-per-salvare-i-fondi-pnrr-e-regionali/",
-                "date": "11 Feb 2026",
-                "time": "18:55",
-                "image_link": "N/A"
-            },
-            null
+            }
         ]
     },
     "group_5": {
@@ -538,6 +545,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "GPS graduatorie 2026: la laurea triennale, che ha dato accesso alla magistrale, non avrà punteggio aggiuntivo. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/gps-graduatorie-2026-la-laurea-triennale-che-ha-dato-accesso-alla-magistrale-non-avra-punteggio-aggiuntivo-pillole-di-question-time/",
+                "date": "10 Feb 2026",
+                "time": "18:28",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_1340609687.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "GPS 2026, sanzioni più severe per rinuncia o abbandono della supplenza: cosa cambia con le nuove regole. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/gps-2026-sanzioni-piu-severe-per-rinuncia-o-abbandono-della-supplenza-cosa-cambia-con-le-nuove-regole-pillole-di-question-time/",
                 "date": "10 Feb 2026",
@@ -575,14 +590,6 @@
                 "date": "9 Feb 2026",
                 "time": "21:34",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/01/shutterstock_1747069343.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2026: ecco come funzionerà l’algoritmo da GPS e la nomina dalle graduatorie di istituto [LO SPECIALE]",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-2026-ecco-come-funzionera-lalgoritmo-da-gps-e-la-nomina-dalle-graduatorie-di-istituto-lo-speciale/",
-                "date": "9 Feb 2026",
-                "time": "14:09",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/mad-online-laureati-graduatorie-1.jpg"
             }
         ]
     },
