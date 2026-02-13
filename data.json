@@ -3,26 +3,58 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "Docenti",
+                "title": "Sconti dal 10 al al 30% per docenti e ATA per abbigliamento, cura per la persona, vacanze, elettrodomestici. Come accedere alla piattaforma. VIDEO",
+                "link": "https://www.orizzontescuola.it/sconti-dal-10-al-al-30-per-docenti-e-ata-per-abbigliamento-cura-per-la-persona-vacanze-elettrodomestici-come-accedere-alla-piattaforma-video/",
+                "date": "12 Feb 2026",
+                "time": "21:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/10/shutterstock_1077423647.jpg"
+            },
+            {
                 "category": "ATA",
                 "title": "Assicurazione sanitaria per il personale scolastico, avviate le procedure. Ecco per cosa si potrà usare e per cosa non si potrà usare. Elenco completo",
                 "link": "https://www.orizzontescuola.it/prestazioni-sanitarie-per-il-personale-scolastico-avviate-le-procedure-ecco-per-cosa-si-potra-usare-e-per-cosa-non-si-potra-usare/",
                 "date": "12 Feb 2026",
                 "time": "8:54",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_709052377.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Decreto PNRR: sì a graduatorie regionali per i concorsi, si a incarichi temporanei ATA, sì a supporti per il PNRR, SCARICA IL TESTO",
-                "link": "https://www.orizzontescuola.it/decreto-pnrr-si-a-graduatorie-regionali-per-i-concorsi-si-a-incarichi-temporanei-ata-si-a-supporti-per-il-pnrr-scompare-intervento-sui-vincoli-di-mobilita-scarica-il-testo/",
-                "date": "11 Feb 2026",
-                "time": "12:13",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/shutterstock_2425461199.jpg"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Scuole",
+                "title": "Carta di Solfagnano, progetto-concorso per le scuole: individuazione istituti entro il 18 febbraio, elaborati entro il 30 aprile",
+                "link": "https://www.orizzontescuola.it/carta-di-solfagnano-progetto-concorso-per-le-scuole-individuazione-istituti-entro-il-18-febbraio-elaborati-entro-il-30-aprile/",
+                "date": "12 Feb 2026",
+                "time": "21:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2507584013.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Docenti turchi del liceo Italiano di Istanbul in sciopero, ANIEF: “Indennità estero non spetta al personale locale. 18 febbraio incontro col MAECI”",
+                "link": "https://www.orizzontescuola.it/liceo-italiano-di-istanbul-sciopero-docenti-anief-indennita-estero-non-spetta-al-personale-locale/",
+                "date": "12 Feb 2026",
+                "time": "20:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2198683335.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "PIMER riaperta fino al 10 marzo: il MIM riattiva la piattaforma per la rendicontazione della formazione del personale scolastico",
+                "link": "https://www.orizzontescuola.it/pimer-riaperta-fino-al-10-marzo-il-mim-riattiva-la-piattaforma-per-la-rendicontazione-della-formazione-del-personale-scolastico/",
+                "date": "12 Feb 2026",
+                "time": "20:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_521791969.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Posizioni economiche ATA, prove dal 23 febbraio: le info utili e a cosa fare attenzione. QUESTION TIME con Sorrentino (Anief) LIVE Venerdì 13 febbraio alle 15:00",
+                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-prove-dal-23-marzo-le-info-utili-e-a-cosa-fare-attenzione-question-time-con-sorrentino-anief-live-venerdi-13-febbraio-alle-1500/",
+                "date": "12 Feb 2026",
+                "time": "19:47",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Template_questiontime_1920x1080-6.png"
+            },
             {
                 "category": "Genitori",
                 "title": "Iscrizioni scolastiche 2026/2027, proroga nazionale al 21 febbraio",
@@ -118,7 +150,12 @@
                 "date": "12 Feb 2026",
                 "time": "12:26",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/Screenshot-2026-01-22-102351.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Inserimento con riserva in prima fascia GPS: cosa succede se non si consegue il titolo entro il 30 giugno. Pillole di Question Time",
@@ -150,12 +187,7 @@
                 "date": "12 Feb 2026",
                 "time": "11:36",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2459519923.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Stipendio",
                 "title": "Carta del docente, abusi sul bonus 500 euro e nuovi vincoli sugli acquisti",
@@ -239,44 +271,20 @@
                 "date": "11 Feb 2026",
                 "time": "16:17",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_392166814.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Docenti neoimmessi 2025/26: almeno 12 ore di laboratori formativi su Scuola Futura. Indicazioni del Ministero",
-                "link": "https://www.orizzontescuola.it/docenti-neoimmessi-2025-26-almeno-12-ore-di-laboratori-formativi-su-scuola-futura-indicazioni-del-ministero/",
-                "date": "11 Feb 2026",
-                "time": "15:16",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/shutterstock_2035743296.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Personale ATA, slitta ancora l’operatore scolastico e il funzionario: nella bozza del dl PNRR c’è il rinvio al 2027/28",
-                "link": "https://www.orizzontescuola.it/personale-ata-slitta-ancora-loperatore-scolastico-e-il-funzionario-nella-bozza-del-dl-pnrr-ce-il-rinvio-al-2027-28/",
-                "date": "11 Feb 2026",
-                "time": "15:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2459519923.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Mobilità docenti 2026/27: ecco chi può presentare domanda",
-                "link": "https://www.orizzontescuola.it/mobilita-docenti-2026-27-ecco-chi-puo-presentare-domanda/",
-                "date": "11 Feb 2026",
-                "time": "14:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/shutterstock_1871534923.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Alunno con disabilità aggredisce docente: il Tribunale condanna il Ministero per assenza del sostegno. Risarciti 8.790 euro per le lesioni subite. Cosa hanno detto i giudici",
-                "link": "https://www.orizzontescuola.it/alunno-con-disabilita-aggredisce-la-docente-il-tribunale-condanna-il-ministero-per-assenza-del-sostegno-risarciti-8-790-euro-per-le-lesioni-subite-cosa-hanno-detto-i-giudici/",
-                "date": "11 Feb 2026",
-                "time": "13:32",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/03/giustizia.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Comunicati stampa",
+                "title": "Docenti precari, spostare in organico di diritto tutte le cattedre di fatto su materia e in deroga su sostegno: Anief lo chiederà prestoall’Aran in occasione del rinnovo del Ccnl 2025-27, fondamentale per superare la supplentite",
+                "link": "https://www.orizzontescuola.it/docenti-precari-spostare-in-organico-di-diritto-tutte-le-cattedre-di-fatto-su-materia-e-in-deroga-su-sostegno-anief-lo-chiedera-prestoallaran-in-occasione-del-rinnovo-del-ccnl-2025-27/",
+                "date": "12 Feb 2026",
+                "time": "20:03",
+                "image_link": "N/A"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Piattaforma welfare per personale scolastico: sconti fino al 30% su beni e servizi, Valditara: “Obiettivo migliorare qualità della vita di chi opera nella scuola”",
@@ -409,14 +417,6 @@
                 "category": "Diventare Insegnanti",
                 "title": "Concorso infanzia e primaria PNRR3, prova orale [Le convocazioni]",
                 "link": "https://www.orizzontescuola.it/concorso-infanzia-e-primaria-pnrr3-arrivano-le-convocazioni-prova-orale-dal-19-gennaio-in-aggiornamento/",
-                "date": "12 Feb 2026",
-                "time": "13:00",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR3, la lettera estratta per l’avvio delle prove orali [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-ecco-lettera-estratta-per-avvio-delle-prove-orali-in-aggiornamento/",
                 "date": "12 Feb 2026",
                 "time": "13:00",
                 "image_link": "N/A"
