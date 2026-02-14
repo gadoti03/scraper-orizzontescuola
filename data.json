@@ -3,26 +3,42 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "Plus",
+                "title": "I diritti di docenti e ATA di ruolo e precari spiegati bene. Cosa fare in caso di… Aspettative, congedi, permessi, 104, ferie e malattie. Anche formato e-book",
+                "link": "https://www.orizzontescuola.it/i-diritti-di-docenti-e-ata-di-ruolo-e-precari-spiegati-bene-cosa-fare-in-caso-di-aspettative-congedi-permessi-104-ferie-e-malattie/",
+                "date": "13 Feb 2026",
+                "time": "21:26",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/Screenshot-2026-01-22-102351.png"
+            },
+            {
                 "category": "Docenti",
                 "title": "Sconti dal 10 al al 30% per docenti e ATA per abbigliamento, cura per la persona, vacanze, elettrodomestici. Come accedere alla piattaforma. VIDEO",
                 "link": "https://www.orizzontescuola.it/sconti-dal-10-al-al-30-per-docenti-e-ata-per-abbigliamento-cura-per-la-persona-vacanze-elettrodomestici-come-accedere-alla-piattaforma-video/",
                 "date": "13 Feb 2026",
                 "time": "8:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/10/shutterstock_1077423647.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Posizioni economiche ATA, il simulatore per esercitarti a superare l’esame",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-collaboratori-simulatore-e-video-lezioni-per-superare-la-prova-finale/",
-                "date": "13 Feb 2026",
-                "time": "7:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/Assegnazioni-provvisorie-e-utilizzazioni-1.png"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Plus",
+                "title": "La Newsletter di “Gestire la scuola”: ore 8 e 30 del mattino nella tua e-mail le notizie utili a Dirigenti, collaboratori del DS, DSGA e segreterie",
+                "link": "https://www.orizzontescuola.it/la-newsletter-plus-ore-8-del-mattino-nella-tua-e-mail-lo-strumento-di-lavoro-per-chi-gestisce-la-scuola-2/",
+                "date": "13 Feb 2026",
+                "time": "21:12",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Newsletter-1.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Studente con nove insufficienze, famiglia chiede 32mila euro per la bocciatura del figlio, ma aveva rifiutato il PDP: il TAR respinge il ricorso e spiega perché la scuola non è responsabile",
+                "link": "https://www.orizzontescuola.it/studente-con-nove-insufficienze-famiglia-chiede-32-000-euro-per-la-bocciatura-del-figlio-ma-aveva-rifiutato-il-pdp-il-tar-respinge-il-ricorso-e-spiega-perche-la-scuola-non-e-responsabile/",
+                "date": "13 Feb 2026",
+                "time": "19:54",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2556788731-scaled.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso PNRR3 docenti secondaria, proseguono le prove pratiche e orali [AGGIORNATO]",
@@ -134,7 +150,12 @@
                 "date": "13 Feb 2026",
                 "time": "11:34",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_1025566252.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Flussi di cassa, scadenza entro il 28 febbraio: cosa deve fare il Dirigente, cosa il DSGA. Con checklist per gli adempimenti",
@@ -150,12 +171,7 @@
                 "date": "13 Feb 2026",
                 "time": "11:17",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2519280093.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Docenti",
                 "title": "Sconti e agevolazioni docenti e ATA: dai trasporti (anche con Carta docente) all’assicurazione sanitaria e copertura infortuni, dagli alimentari all’abbigliamento. Il piano Welfare in dettaglio",
@@ -222,6 +238,14 @@
             },
             null,
             {
+                "category": "ATA",
+                "title": "Posizioni economiche ATA, il simulatore per esercitarti a superare l’esame",
+                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-collaboratori-simulatore-e-video-lezioni-per-superare-la-prova-finale/",
+                "date": "13 Feb 2026",
+                "time": "7:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/Assegnazioni-provvisorie-e-utilizzazioni-1.png"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Docenti turchi del liceo Italiano di Istanbul in sciopero, ANIEF: “Indennità estero non spetta al personale locale. 18 febbraio incontro col MAECI”",
                 "link": "https://www.orizzontescuola.it/liceo-italiano-di-istanbul-sciopero-docenti-anief-indennita-estero-non-spetta-al-personale-locale/",
@@ -268,36 +292,28 @@
                 "date": "12 Feb 2026",
                 "time": "16:34",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2471109123.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Allerta meteo scuole chiuse venerdì 13 febbraio: stop alle lezioni in diversi comuni. ELENCO IN AGGIORNAMENTO",
-                "link": "https://www.orizzontescuola.it/allerta-meteo-scuole-chiuse-venerdi-13-febbraio-stop-alle-lezioni-in-diversi-comuni-elenco-in-aggiornamento/",
-                "date": "12 Feb 2026",
-                "time": "16:06",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/MALTEMPO.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "Integrazione del registro elettronico per la comunicazione automatizzata delle assenze al SIDI. NOTA Ministero",
-                "link": "https://www.orizzontescuola.it/integrazione-del-registro-elettronico-per-la-comunicazione-automatizzata-delle-assenze-al-sidi-nota-ministero/",
-                "date": "12 Feb 2026",
-                "time": "15:46",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_521791969.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze, studenti di Scienze della Formazione Primaria possono inserirsi nelle GPS e insegnare prima della laurea. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/supplenze-studenti-di-scienze-della-formazione-primaria-possono-inserirsi-nelle-gps-e-insegnare-prima-della-laurea-pillole-di-question-time/",
-                "date": "12 Feb 2026",
-                "time": "14:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_34528768.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Chioggia: studenti cantano brano neofascista al Giorno del Ricordo. Ministero avvia accertamenti, CGIL e PD chiedono interventi urgenti",
+                "link": "https://www.orizzontescuola.it/chioggia-studenti-cantano-brano-neofascista-al-giorno-del-ricordo-ministero-avvia-accertamenti-cgil-e-pd-chiedono-interventi-urgenti/",
+                "date": "13 Feb 2026",
+                "time": "21:20",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Genitori",
+                "title": "ISEE, modalità transitoria per la consultazione: come accedere. Le indicazioni INPS",
+                "link": "https://www.orizzontescuola.it/isee-modalita-transitoria-per-la-consultazione-come-accedere-le-indicazioni-inps/",
+                "date": "13 Feb 2026",
+                "time": "19:49",
+                "image_link": "N/A"
+            },
             {
                 "category": "ATA",
                 "title": "Part-time personale ATA, in Trentino domande fino al 27 febbraio: circolare",
@@ -410,22 +426,6 @@
                 "link": "https://www.orizzontescuola.it/assistenti-di-lingua-straniera-2026-27-avvisi-usr-per-le-richieste-da-parte-delle-scuole-in-aggiornamento/",
                 "date": "13 Feb 2026",
                 "time": "11:51",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Scadenza il 18 febbraio per le Buone Pratiche di formazione: il Ministero seleziona i progetti migliori delle scuole",
-                "link": "https://www.orizzontescuola.it/scadenza-il-18-febbraio-per-le-buone-pratiche-di-formazione-il-ministero-seleziona-i-progetti-migliori-delle-scuole/",
-                "date": "13 Feb 2026",
-                "time": "11:50",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Gita scolastica a Praga interrotta: autista impossibilitato a guidare dopo una notte di schiamazzi degli studenti. L’azienda di trasporti blocca il servizio per motivi di sicurezza",
-                "link": "https://www.orizzontescuola.it/gita-scolastica-a-praga-interrotta-autista-impossibilitato-a-guidare-dopo-una-notte-di-schiamazzi-degli-studenti-lazienda-di-trasporti-blocca-il-servizio-per-motivi-di-sicurezza/",
-                "date": "13 Feb 2026",
-                "time": "11:40",
                 "image_link": "N/A"
             }
         ]
@@ -552,6 +552,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Secondo ciclo Indire: il tempo stringe per le GPS. Decreto in dirittura d’arrivo. GUIDA",
+                "link": "https://www.orizzontescuola.it/secondo-ciclo-indire-il-tempo-stringe-per-le-gps-decreto-in-dirittura-darrivo-guida/",
+                "date": "11 Feb 2026",
+                "time": "10:02",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/mad-2021-matematica-sostegno.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "GPS e percorsi abilitanti 2026: guida alle procedure. RISPOSTE AI QUESITI",
                 "link": "https://www.orizzontescuola.it/gps-e-percorsi-abilitanti-2026-guida-alle-procedure-risposte-ai-quesiti/",
                 "date": "11 Feb 2026",
@@ -589,28 +597,12 @@
                 "date": "10 Feb 2026",
                 "time": "12:16",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_503283772.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Elenchi regionali per il ruolo, in tanti casi utile solo se si sceglierà regione diversa da quella del concorso. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/elenchi-regionali-per-il-ruolo-in-tanti-casi-utile-solo-se-si-scegliera-regione-diversa-da-quella-del-concorso-pillole-di-question-time/",
-                "date": "10 Feb 2026",
-                "time": "11:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_1819849748.jpg"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
-            {
-                "category": "Gestire la scuola",
-                "title": "Rimodulazione dell’orario docente e partecipazione agli scrutini: poteri organizzativi e limiti dell’azione dirigenziale",
-                "link": "https://www.orizzontescuola.it/rimodulazione-dellorario-docente-e-partecipazione-agli-scrutini-poteri-organizzativi-e-limiti-dellazione-dirigenziale/",
-                "date": "10 Feb 2026",
-                "time": "19:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_15258847.jpg"
-            },
             {
                 "category": "Gestire la scuola",
                 "title": "Le prove orientativo attitudinali nei percorsi a indirizzo musicale: quadro giuridico, responsabilità dirigenziali e modelli organizzativi per una governance efficace",
@@ -650,6 +642,14 @@
                 "date": "10 Feb 2026",
                 "time": "9:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/shutterstock_2702528331.jpg"
+            },
+            {
+                "category": "Gestire la scuola",
+                "title": "Piano delle Attività di formazione degli ATA redatto dal DSGA. Scarica la bozza di rilevazione dei bisogni e bozza del piano",
+                "link": "https://www.orizzontescuola.it/piano-delle-attivita-di-formazione-degli-ata-redatto-dal-dsga-scarica-la-bozza-di-rilevazione-dei-bisogni-e-bozza-del-piano/",
+                "date": "10 Feb 2026",
+                "time": "7:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_714174241.jpg"
             }
         ]
     },
