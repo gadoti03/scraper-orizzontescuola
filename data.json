@@ -25,6 +25,46 @@
         "articles": [
             {
                 "category": "Cronaca",
+                "title": "Hikikomori, la stima di Crepaldi: “In Italia fino a 200mila casi”. L’allarme sull’isolamento giovanile",
+                "link": "https://www.orizzontescuola.it/hikikomori-la-stima-di-crepaldi-in-italia-fino-a-200mila-casi-lallarme-sullisolamento-giovanile/",
+                "date": "15 Feb 2026",
+                "time": "16:03",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/shutterstock_1971499796.jpg"
+            },
+            {
+                "category": "Didattica",
+                "title": "“Sogna, ragazzo, sogna”: l’esortazione di Vecchioni a trovare il proprio posto nel mondo. Insegnare con le canzoni",
+                "link": "https://www.orizzontescuola.it/sogna-ragazzo-sogna-lesortazione-di-vecchioni-a-trovare-il-proprio-posto-nel-mondo-insegnare-con-le-canzoni/",
+                "date": "15 Feb 2026",
+                "time": "15:42",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/09/shutterstock_95662309.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "GPS 2026, titoli, preferenze e non solo: cosa è previsto. QUESTION TIME con Cannas. LIVE Lunedì 16 febbraio alle 14:30",
+                "link": "https://www.orizzontescuola.it/gps-2026-titoli-preferenze-e-non-solo-cosa-e-previsto-question-time-con-cannas-live-lunedi-16-febbraio-alle-1430/",
+                "date": "15 Feb 2026",
+                "time": "15:05",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Template_questiontime_1920x1080-7.png"
+            },
+            {
+                "category": "Plus",
+                "title": "GPS 2026 – Ti aiutiamo a non sbagliare. Guida ebook + consulenza di gruppo. Solo 5 posti",
+                "link": "https://www.orizzontescuola.it/gps-2026-ti-aiutiamo-a-non-sbagliare-guida-ebook-consulenza-di-gruppo-11-febbraio-ore-1600-1700-solo-5-posti/",
+                "date": "15 Feb 2026",
+                "time": "14:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/consulenza_1.png"
+            },
+            {
+                "category": "Scuole",
+                "title": "Iscrizione prima classe 2026-2027: proroga fino al 21 febbraio 2026 ore 20. Indicazioni per ogni grado [LO SPECIALE]",
+                "link": "https://www.orizzontescuola.it/iscrizione-prima-classe-2026-2027-domanda-dal-13-gennaio-al-14-febbraio-2026-tutte-le-info-da-infanzia-a-secondaria-lo-speciale/",
+                "date": "15 Feb 2026",
+                "time": "13:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_154155695.jpg"
+            },
+            {
+                "category": "Cronaca",
                 "title": "Docente schiaffeggiato da padre di un’alunna dopo rimprovero. Il racconto del prof: “L’episodio mi ha turbato. Tornerò certamente a scuola ma ora ho paura”",
                 "link": "https://www.orizzontescuola.it/docente-schiaffeggiato-da-padre-di-unalunna-dopo-rimprovero-il-racconto-del-prof-lepisodio-mi-ha-turbato-tornero-certamente-a-scuola-ma-ora-ho-paura/",
                 "date": "15 Feb 2026",
@@ -103,7 +143,12 @@
                 "date": "14 Feb 2026",
                 "time": "16:49",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Screenshot-2026-02-14-164811.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Studenti",
                 "title": "Sostegno psicologico agli studenti, da marzo il servizio su Unica: voucher con 5 incontri da 60 minuti",
@@ -143,12 +188,7 @@
                 "date": "14 Feb 2026",
                 "time": "15:40",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1129962923-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             null,
             {
                 "category": "Scuole",
@@ -215,14 +255,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1349362136.jpg"
             },
             {
-                "category": "Plus",
-                "title": "GPS 2026 – Ti aiutiamo a non sbagliare. Guida ebook + consulenza di gruppo. Solo 5 posti",
-                "link": "https://www.orizzontescuola.it/gps-2026-ti-aiutiamo-a-non-sbagliare-guida-ebook-consulenza-di-gruppo-11-febbraio-ore-1600-1700-solo-5-posti/",
-                "date": "14 Feb 2026",
-                "time": "10:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/consulenza_1.png"
-            },
-            {
                 "category": "Cronaca",
                 "title": "Divieto del cellulare? Valditara: “È un diritto degli studenti, torniamo a essere umani”",
                 "link": "https://www.orizzontescuola.it/divieto-del-cellulare-valditara-e-un-diritto-degli-studenti-torniamo-ad-essere-umani/",
@@ -253,44 +285,60 @@
                 "date": "14 Feb 2026",
                 "time": "9:38",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2420206409.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "ANAC integra la Piattaforma della Trasparenza con “TrasparenzAI”: controlli automatici su 52 obblighi del d.lgs. 33/2013. NOTA",
-                "link": "https://www.orizzontescuola.it/anac-integra-la-piattaforma-della-trasparenza-con-trasparenzai-controlli-automatici-su-52-obblighi-del-d-lgs-33-2013-nota/",
-                "date": "14 Feb 2026",
-                "time": "9:36",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1350370946.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Mobilità, il docente chiede di trasferirsi in un Istituto Comprensivo o Istituto superiore: non può scegliere la singola sede",
-                "link": "https://www.orizzontescuola.it/mobilita-il-docente-chiede-di-trasferirsi-in-un-istituto-comprensivo-o-istituto-superiore-non-puo-scegliere-la-singola-sede/",
-                "date": "14 Feb 2026",
-                "time": "9:27",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/01/shutterstock_326111021.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Calendario scolastico Provincia autonoma di Bolzano 2026/27. Si inizia giorno 7 settembre. Tutti i ponti",
-                "link": "https://www.orizzontescuola.it/calendario-scolastico-provincia-autonoma-di-bolzano-2026-27-si-inizia-giorno-7-settembre-tutti-i-ponti/",
-                "date": "14 Feb 2026",
-                "time": "8:39",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1761160202.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Posizioni economiche ATA, prove dal 23 febbraio: la sola partecipazione consente l’inserimento in graduatoria, ma attenzione al punteggio. RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-prove-dal-23-febbraio-la-sola-partecipazione-consente-linserimento-in-graduatoria-ma-attenzione-al-punteggio-risposte-ai-quesiti/",
-                "date": "14 Feb 2026",
-                "time": "8:24",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2459519923.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Smartphone e figli, i consigli della psichiatra Adelia Lucattini: regole, relazione e limiti per crescere nel digitale",
+                "link": "https://www.orizzontescuola.it/smartphone-e-figli-i-consigli-della-psichiatra-adelia-lucattini-regole-relazione-e-limiti-per-crescere-nel-digitale/",
+                "date": "15 Feb 2026",
+                "time": "18:00",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Borse di studio Inps 2023/24: 2.000 euro per università e post-lauream, domande dal  29 gennaio al 2 marzo",
+                "link": "https://www.orizzontescuola.it/borse-di-studio-2023-24-2-000-euro-per-universita-e-post-lauream-domande-dal-29-gennaio-al-2-marzo/",
+                "date": "15 Feb 2026",
+                "time": "17:15",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Docenti e Ata fuori sede, Anief chiede per loro tariffe agevolate per trasporti, detassazione spese di locazione, specifica indennità di trasfertaBozza automatica",
+                "link": "https://www.orizzontescuola.it/docenti-e-ata-fuori-sede-anief-chiede-per-loro-tariffe-agevolate-per-trasporti-detassazione-spese-di-locazione-specifica-indennita-di-trasfertabozza-automatica/",
+                "date": "15 Feb 2026",
+                "time": "16:20",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Brignone oro in gigante a Milano Cortina 2026, Frassinetti celebra il traguardo storico e il valore educativo delle vittorie olimpiche azzurre: “I giovani nello sport hanno tanto bisogno di esempi positivi”",
+                "link": "https://www.orizzontescuola.it/brignone-oro-in-gigante-a-milano-cortina-2026-frassinetti-celebra-il-traguardo-storico-e-il-valore-educativo-delle-vittorie-olimpiche-azzurre-i-giovani-nello-sport-hanno-tanto-bisogno-di-esempi-po/",
+                "date": "15 Feb 2026",
+                "time": "16:16",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Il ritorno delle competenze pre-industriali: perché per il 33% delle aziende l’etica è impossibile da automatizzare",
+                "link": "https://www.orizzontescuola.it/il-ritorno-delle-competenze-pre-industriali-perche-per-il-33-delle-aziende-letica-e-impossibile-da-automatizzare/",
+                "date": "15 Feb 2026",
+                "time": "14:40",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Genitori",
+                "title": "Studio su 8.119 ragazzi: confermato il legame tra dipendenza da schermi, deficit di attenzione e problemi comportamentali",
+                "link": "https://www.orizzontescuola.it/studio-su-8-119-ragazzi-confermato-il-legame-tra-dipendenza-da-schermi-deficit-di-attenzione-e-problemi-comportamentali/",
+                "date": "15 Feb 2026",
+                "time": "13:30",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Il declino delle lauree tradizionali: come la domanda di lavoro ha ridisegnato la mappa universitaria",
@@ -385,47 +433,6 @@
                 "link": "https://www.orizzontescuola.it/schlein-retribuire-meglio-i-docenti-no-al-dimensionamento-scolastico-e-priorita-stabilizzare-i-precari/",
                 "date": "14 Feb 2026",
                 "time": "16:34",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Chioggia, il Ministero: “Nessuna canzone fascista a scuola per il Giorno del Ricordo”",
-                "link": "https://www.orizzontescuola.it/chioggia-il-ministero-nessuna-canzone-fascista-a-scuola-per-il-giorno-del-ricordo/",
-                "date": "14 Feb 2026",
-                "time": "16:32",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Anief ConDir, Sorrentino dopo il I Congresso: “La fiducia è responsabilità”. Al centro il rilancio e la valorizzazione dei DSGA",
-                "link": "https://www.orizzontescuola.it/anief-condir-sorrentino-dopo-il-i-congresso-la-fiducia-e-responsabilita-al-centro-il-rilancio-e-la-valorizzazione-dei-dsga/",
-                "date": "14 Feb 2026",
-                "time": "16:24",
-                "image_link": "N/A"
-            },
-            null,
-            {
-                "category": "Docenti",
-                "title": "“Scuola Attiva Kids” 2025/26, il 18 febbraio webinar nazionale “Le Pause Attive” per docenti e referenti",
-                "link": "https://www.orizzontescuola.it/scuola-attiva-kids-2025-26-il-18-febbraio-webinar-nazionale-le-pause-attive-per-docenti-e-referenti/",
-                "date": "14 Feb 2026",
-                "time": "15:57",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Centenario del Nobel a Grazia Deledda, Mattarella: “Donna di coraggio, la sua opera è ancora moderna”",
-                "link": "https://www.orizzontescuola.it/centenario-del-nobel-a-grazia-deledda-mattarella-donna-di-coraggio-la-sua-opera-e-ancora-moderna/",
-                "date": "14 Feb 2026",
-                "time": "13:10",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Ci insultano, distruggono attrezzature, provocano risse. Occhi gonfi e graffi. Siamo stanchi”. I docenti scrivono alla Dirigente",
-                "link": "https://www.orizzontescuola.it/ci-insultano-distruggono-attrezzature-provocano-risse-occhi-gonfi-e-graffi-siamo-stanchi-i-docenti-scrivono-alla-dirigente/",
-                "date": "14 Feb 2026",
-                "time": "13:00",
                 "image_link": "N/A"
             }
         ]
@@ -605,6 +612,22 @@
         "articles": [
             {
                 "category": "Gestire la scuola",
+                "title": "Devianza minorile in ambito scolastico e misure amministrative di prevenzione e rieducazione, Decreto Caivano: strumenti e ruolo attivo dei dirigenti scolastici",
+                "link": "https://www.orizzontescuola.it/devianza-minorile-in-ambito-scolastico-e-misure-amministrative-di-prevenzione-e-rieducazione-decreto-caivano-strumenti-e-ruolo-attivo-dei-dirigenti-scolastici/",
+                "date": "12 Feb 2026",
+                "time": "7:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/shutterstock_1366370483.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Personale ATA, slitta ancora l’operatore scolastico e il funzionario: nella bozza del dl PNRR c’è il rinvio al 2027/28",
+                "link": "https://www.orizzontescuola.it/personale-ata-slitta-ancora-loperatore-scolastico-e-il-funzionario-nella-bozza-del-dl-pnrr-ce-il-rinvio-al-2027-28/",
+                "date": "11 Feb 2026",
+                "time": "15:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2459519923.jpg"
+            },
+            {
+                "category": "Gestire la scuola",
                 "title": "Obblighi di riservatezza dei rappresentanti di classe (genitori e studenti eletti). Modello di circolare",
                 "link": "https://www.orizzontescuola.it/obblighi-di-riservatezza-dei-rappresentanti-di-classe-genitori-e-studenti-eletti-modello-di-circolare/",
                 "date": "11 Feb 2026",
@@ -634,22 +657,6 @@
                 "date": "10 Feb 2026",
                 "time": "13:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_1523260907.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Posizioni economiche ATA, si avvicina prova finale. Richiesta tempi aggiuntivi, ausili, spazi per l’allattamento",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-prova-finale-a-febbraio-richiesta-tempi-aggiuntivi-e-ausili/",
-                "date": "10 Feb 2026",
-                "time": "12:09",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_1066344359.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Supplenze ATA brevi, si può cambiare incarico se uno scade a febbraio e l’altro al termine delle lezioni?",
-                "link": "https://www.orizzontescuola.it/supplenze-ata-brevi-si-puo-cambiare-incarico-se-uno-scade-a-febbraio-e-laltro-al-termine-delle-lezioni/",
-                "date": "10 Feb 2026",
-                "time": "11:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2459519923.jpg"
             }
         ]
     },
