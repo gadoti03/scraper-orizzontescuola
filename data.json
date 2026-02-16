@@ -23,6 +23,9 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
+            null,
+            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze 2026/28: domanda unica per GPS e venti scuole di istituto, separata per le 150 preferenze. CHIARIMENTI",
@@ -126,7 +129,12 @@
                 "date": "15 Feb 2026",
                 "time": "8:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/shutterstock_2458397479.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Docenti",
                 "title": "Redpilled e incel: le sottoculture dell’online che sostengono i “diritti” degli uomini. Di cosa si tratta",
@@ -143,12 +151,7 @@
                 "date": "14 Feb 2026",
                 "time": "18:14",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_1316045237.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Calendario scolastico 2026/27, quando inizia la scuola: le prime delibere delle Regioni [IN AGGIORNAMENTO]",
@@ -261,30 +264,6 @@
                 "date": "14 Feb 2026",
                 "time": "11:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Sanzioni-disciplinari-e-giustizia-riparativa-1.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "La provincia scelta per le GPS può essere al di fuori della regione del concorso: prima i ruoli e poi le supplenze. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/la-provincia-scelta-per-le-gps-puo-essere-al-di-fuori-della-regione-del-concorso-prima-i-ruoli-e-poi-le-supplenze-pillole-di-question-time/",
-                "date": "14 Feb 2026",
-                "time": "10:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1349362136.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Divieto del cellulare? Valditara: “È un diritto degli studenti, torniamo a essere umani”",
-                "link": "https://www.orizzontescuola.it/divieto-del-cellulare-valditara-e-un-diritto-degli-studenti-torniamo-ad-essere-umani/",
-                "date": "14 Feb 2026",
-                "time": "10:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2494341959-scaled.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "ITS (Istituti Tecnici Superiori): il 1% di giovani ha questo titolo, in Francia il 29%. Perché? Prova a rispondere l’Università Cattolica",
-                "link": "https://www.orizzontescuola.it/its-istituti-tecnici-superiori-il-1-di-giovani-ha-questo-titolo-in-francia-il-29-perche-prova-a-rispondere-luniversita-cattolica/",
-                "date": "14 Feb 2026",
-                "time": "10:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_2102451475.jpg"
             }
         ]
     },
@@ -559,6 +538,22 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Docenti già assunti da concorso PNRR non possono iscriversi negli elenchi regionali neanche per altra classe di concorso, non è una alternativa alla mobilità",
+                "link": "https://www.orizzontescuola.it/docenti-gia-assunti-da-concorso-pnrr-non-possono-iscriversi-negli-elenchi-regionali-neanche-per-altra-classe-di-concorso-non-e-una-alternativa-alla-mobilita/",
+                "date": "13 Feb 2026",
+                "time": "12:35",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_735971875.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Graduatorie GPS, quali controlli devono fare i nuovi aspiranti prima della domanda. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/graduatorie-gps-quali-controlli-devono-fare-i-nuovi-aspiranti-prima-della-domanda-pillole-di-question-time/",
+                "date": "13 Feb 2026",
+                "time": "11:17",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2519280093.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Docenti neoimmessi: anno di prova 2025/26. Tutti i chiarimenti per i Laboratori formativi e l’Allegato per il peer to peer [LO SPECIALE]",
                 "link": "https://www.orizzontescuola.it/docenti-neoimmessi-in-ruolo-2025-anno-di-prova-e-formazione-chi-deve-svolgerlo-quali-attivita-prima-scadenza-31-ottobre/",
                 "date": "13 Feb 2026",
@@ -588,22 +583,6 @@
                 "date": "12 Feb 2026",
                 "time": "12:04",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2480765345.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Anno di prova e formazione, quasi 50.000 docenti lo stanno svolgendo nel 2025/26",
-                "link": "https://www.orizzontescuola.it/anno-di-prova-e-formazione-quasi-50-000-docenti-lo-stanno-svolgendo-nel-2025-26/",
-                "date": "12 Feb 2026",
-                "time": "9:07",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_344044361.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Posso iscrivermi a GPS e Corsi abilitanti (cosa cambia), attenzione ai contratti brevi, consigli operativi. Il punto di Roberta Vannini (UIL)",
-                "link": "https://www.orizzontescuola.it/posso-iscrivermi-a-gps-e-corsi-abilitanti-cosa-cambia-attenzione-ai-contratti-brevi-consigli-operativi-il-punto-di-roberta-vannini-uil/",
-                "date": "12 Feb 2026",
-                "time": "9:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/06.png"
             }
         ]
     },
