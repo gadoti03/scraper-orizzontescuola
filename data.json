@@ -28,8 +28,16 @@
                 "title": "GPS 2026, ordinanza a breve: sindacati convocati per la piattaforma. Le ultime notizie. QUESTION TIME con Semeraro. LIVE Martedì 17 febbraio alle 14:30",
                 "link": "https://www.orizzontescuola.it/gps-2026-ordinanza-a-breve-sindacati-convocati-per-la-piattaforma-le-ultime-notizie-question-time-con-semeraro-live-martedi-17-febbraio-alle-1430/",
                 "date": "16 Feb 2026",
-                "time": "19:10",
+                "time": "20:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Template_questiontime_1920x1080-8.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Attacchi di panico e crisi d’asma durante l’esame preliminare, candidata BES bocciata alla Maturità ricorre al TAR: la scuola non ha predisposto il piano didattico personalizzato",
+                "link": "https://www.orizzontescuola.it/attacchi-di-panico-e-crisi-dasma-durante-lesame-preliminare-candidata-bes-bocciata-alla-maturita-ricorre-al-tar-la-scuola-non-ha-predisposto-il-piano-didattico-personalizzato/",
+                "date": "16 Feb 2026",
+                "time": "19:49",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/11/shutterstock_140867215.jpg"
             },
             {
                 "category": "Diventare Insegnanti",
@@ -142,7 +150,12 @@
                 "date": "16 Feb 2026",
                 "time": "11:47",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Sottotitolo-2-1-1.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze: chi ha avuto nomina dal 1° settembre 2025 ha raggiunto i 12 punti di servizio",
@@ -150,12 +163,7 @@
                 "date": "16 Feb 2026",
                 "time": "11:33",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1828220789.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Gestire la scuola",
                 "title": "Flussi di cassa entro il 28 febbraio: spunti operativi di predisposizione. Con Checklist",
@@ -270,20 +278,20 @@
                 "date": "15 Feb 2026",
                 "time": "20:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/shutterstock_409327615.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Graduatorie GPS 2026: scadenza domanda non sarà a febbraio! I vantaggi su servizio e titoli",
-                "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-scadenza-domanda-non-sara-a-febbraio-i-vantaggi-su-servizio-e-titoli/",
-                "date": "15 Feb 2026",
-                "time": "19:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1685909200.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Docente aggredito a Foggia, Sasso (FN) invoca la legge che inasprisce le pene per chi usa violenza contro il personale scolastico. Il genitore ha colpito l’insegnante dopo un rimprovero alla figlia",
+                "link": "https://www.orizzontescuola.it/docente-aggredito-a-foggia-sasso-fn-invoca-la-legge-che-inasprisce-le-pene-per-chi-usa-violenza-contro-il-personale-scolastico-il-genitore-ha-colpito-linsegnante-dopo-un-rimprovero-alla-figlia/",
+                "date": "16 Feb 2026",
+                "time": "19:39",
+                "image_link": "N/A"
+            },
             {
                 "category": "Scuole",
                 "title": "Assistenti di lingua straniera 2026/27: avvisi USR per le richieste da parte delle scuole [IN AGGIORNAMENTO]",
@@ -411,14 +419,6 @@
                 "link": "https://www.orizzontescuola.it/udine-malore-alluscita-di-scuola-studente-fuma-sostanza-stupefacente-da-un-vaporizzatore-e-finisce-in-ospedale/",
                 "date": "16 Feb 2026",
                 "time": "11:05",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Studente porta tirapugni in classe: cane antidroga scopre arma bianca nel giubbotto. Minorenne incensurato deferito alla Procura per i Minorenni",
-                "link": "https://www.orizzontescuola.it/studente-porta-tirapugni-in-classe-cane-antidroga-scopre-arma-bianca-nel-giubbotto-minorenne-incensurato-deferito-alla-procura-per-i-minorenni/",
-                "date": "16 Feb 2026",
-                "time": "11:01",
                 "image_link": "N/A"
             }
         ]
@@ -651,6 +651,14 @@
         "articles": [
             {
                 "category": "Didattica",
+                "title": "La retrovivenza o back-lived experience: leggere come esperienza temporale",
+                "link": "https://www.orizzontescuola.it/la-retrovivenza-o-back-lived-experience-leggere-come-esperienza-temporale/",
+                "date": "2 Feb 2026",
+                "time": "9:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_1155199690-scaled.jpg"
+            },
+            {
+                "category": "Didattica",
                 "title": "“Là dove c’era l’erba ora c’è una città”: riflettere su ambiente e inquinamento per costruire un mondo più “responsabile”. Insegnare con le canzoni",
                 "link": "https://www.orizzontescuola.it/la-dove-cera-lerba-ora-ce-una-citta-riflettere-su-ambiente-e-inquinamento-per-costruire-un-mondo-piu-responsabile-insegnare-con-le-canzoni/",
                 "date": "1 Feb 2026",
@@ -688,14 +696,6 @@
                 "date": "25 Gen 2026",
                 "time": "11:09",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_163768811.jpg"
-            },
-            {
-                "category": "Didattica",
-                "title": "Volevo essere un duro: una riflessione delicata sulla fragilità e la “durezza” del mondo. Insegnare con le canzoni",
-                "link": "https://www.orizzontescuola.it/volevo-essere-un-duro-una-riflessione-delicata-sulla-fragilita-e-la-durezza-del-mondo-insegnare-con-le-canzoni/",
-                "date": "17 Gen 2026",
-                "time": "17:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/IMG-20250220-WA0003.jpg"
             }
         ]
     },
