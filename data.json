@@ -3,20 +3,20 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "Plus",
+                "title": "I diritti di docenti e ATA di ruolo e precari spiegati bene: aspettative, congedi, permessi, 104, ferie e malattie. Il più venduto su AMAZON",
+                "link": "https://www.orizzontescuola.it/i-diritti-di-docenti-e-ata-di-ruolo-e-precari-spiegati-bene-cosa-fare-in-caso-di-aspettative-congedi-permessi-104-ferie-e-malattie/",
+                "date": "17 Feb 2026",
+                "time": "7:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Il-piu-venduto-nella-sua-categoria-AMAZON-1.png"
+            },
+            {
                 "category": "Docenti",
                 "title": "Maturità 2026, il docente di Matematica può proporre domande di Fisica? Quello di Italiano domande di Storia? No, motivo di ricorso. Ecco perché",
                 "link": "https://www.orizzontescuola.it/maturita-2026-il-docente-di-matematica-puo-proporre-domande-di-fisica-quello-di-italiano-domande-di-storia-no-motivo-di-ricorso-ecco-perche/",
                 "date": "16 Feb 2026",
                 "time": "8:23",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/01/shutterstock_524316091.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Posizioni economiche ATA, il simulatore per esercitarti a superare l’esame",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-collaboratori-simulatore-e-video-lezioni-per-superare-la-prova-finale/",
-                "date": "15 Feb 2026",
-                "time": "7:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/Assegnazioni-provvisorie-e-utilizzazioni-1.png"
             }
         ]
     },
@@ -221,14 +221,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/shutterstock_1241965780.jpg"
             },
             {
-                "category": "Plus",
-                "title": "I diritti di docenti e ATA di ruolo e precari spiegati bene: aspettative, congedi, permessi, 104, ferie e malattie. Il più venduto su AMAZON",
-                "link": "https://www.orizzontescuola.it/i-diritti-di-docenti-e-ata-di-ruolo-e-precari-spiegati-bene-cosa-fare-in-caso-di-aspettative-congedi-permessi-104-ferie-e-malattie/",
-                "date": "16 Feb 2026",
-                "time": "8:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Il-piu-venduto-nella-sua-categoria-AMAZON-1.png"
-            },
-            {
                 "category": "ATA",
                 "title": "Prova finale nuove posizioni economiche ATA: chi è part-time deve recuperare le ore se non è in servizio?",
                 "link": "https://www.orizzontescuola.it/prova-finale-nuove-posizioni-economiche-ata-chi-e-part-time-deve-recuperare-le-ore-se-non-e-in-servizio/",
@@ -278,12 +270,28 @@
                 "date": "15 Feb 2026",
                 "time": "20:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/shutterstock_409327615.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Graduatorie GPS 2026: scadenza domanda non sarà a febbraio! I vantaggi su servizio e titoli",
+                "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-scadenza-domanda-non-sara-a-febbraio-i-vantaggi-su-servizio-e-titoli/",
+                "date": "15 Feb 2026",
+                "time": "19:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1685909200.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Polizia Penitenziaria, bando per 3.350 allievi agenti: selezioni aperte anche ai civili diplomati",
+                "link": "https://www.orizzontescuola.it/polizia-penitenziaria-bando-per-3-350-allievi-agenti-selezioni-aperte-anche-ai-civili-diplomati/",
+                "date": "17 Feb 2026",
+                "time": "7:28",
+                "image_link": "N/A"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Docente aggredito a Foggia, Sasso (FN) invoca la legge che inasprisce le pene per chi usa violenza contro il personale scolastico. Il genitore ha colpito l’insegnante dopo un rimprovero alla figlia",
@@ -409,14 +417,6 @@
                 "category": "Docenti",
                 "title": "Corso Indire per docenti “Insegnare con il suono”: iscrizioni entro il 18 marzo",
                 "link": "https://www.orizzontescuola.it/corso-indire-per-docenti-insegnare-con-il-suono-iscrizioni-entro-il-18-marzo/",
-                "date": "16 Feb 2026",
-                "time": "11:05",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Udine, malore all’uscita di scuola: studente fuma “sostanza stupefacente” da un vaporizzatore e finisce in ospedale",
-                "link": "https://www.orizzontescuola.it/udine-malore-alluscita-di-scuola-studente-fuma-sostanza-stupefacente-da-un-vaporizzatore-e-finisce-in-ospedale/",
                 "date": "16 Feb 2026",
                 "time": "11:05",
                 "image_link": "N/A"
@@ -651,14 +651,6 @@
         "articles": [
             {
                 "category": "Didattica",
-                "title": "La retrovivenza o back-lived experience: leggere come esperienza temporale",
-                "link": "https://www.orizzontescuola.it/la-retrovivenza-o-back-lived-experience-leggere-come-esperienza-temporale/",
-                "date": "2 Feb 2026",
-                "time": "9:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_1155199690-scaled.jpg"
-            },
-            {
-                "category": "Didattica",
                 "title": "“Là dove c’era l’erba ora c’è una città”: riflettere su ambiente e inquinamento per costruire un mondo più “responsabile”. Insegnare con le canzoni",
                 "link": "https://www.orizzontescuola.it/la-dove-cera-lerba-ora-ce-una-citta-riflettere-su-ambiente-e-inquinamento-per-costruire-un-mondo-piu-responsabile-insegnare-con-le-canzoni/",
                 "date": "1 Feb 2026",
@@ -696,6 +688,14 @@
                 "date": "25 Gen 2026",
                 "time": "11:09",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_163768811.jpg"
+            },
+            {
+                "category": "Didattica",
+                "title": "Volevo essere un duro: una riflessione delicata sulla fragilità e la “durezza” del mondo. Insegnare con le canzoni",
+                "link": "https://www.orizzontescuola.it/volevo-essere-un-duro-una-riflessione-delicata-sulla-fragilita-e-la-durezza-del-mondo-insegnare-con-le-canzoni/",
+                "date": "17 Gen 2026",
+                "time": "17:42",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/IMG-20250220-WA0003.jpg"
             }
         ]
     },
