@@ -3,26 +3,37 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "Plus",
+                "title": "I diritti di docenti e ATA di ruolo e precari spiegati bene: aspettative, congedi, permessi, 104, ferie e malattie. Il più venduto su AMAZON",
+                "link": "https://www.orizzontescuola.it/i-diritti-di-docenti-e-ata-di-ruolo-e-precari-spiegati-bene-cosa-fare-in-caso-di-aspettative-congedi-permessi-104-ferie-e-malattie/",
+                "date": "18 Feb 2026",
+                "time": "7:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/libro5-1.png"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "GPS, possibile apertura il 25 febbraio e chiusura il 16 marzo",
                 "link": "https://www.orizzontescuola.it/gps-possibile-apertura-il-25-febbraio-e-chiusura-il-16-marzo/",
                 "date": "17 Feb 2026",
                 "time": "16:45",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_48466297.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Le emozioni sono il motore del bullismo, come educare a riconoscerle attraverso il cinema. INTERVISTA a Paola Dei",
-                "link": "https://www.orizzontescuola.it/le-emozioni-sono-il-motore-del-bullismo-come-educare-a-riconoscerle-attraverso-il-cinema-intervista-a/",
-                "date": "17 Feb 2026",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/paola_dei.png"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
+            null,
+            null,
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "GPS 2026, aggiornamento tra febbraio e marzo: algoritmo, titoli, preferenze e non solo: cosa è previsto. QUESTION TIME con Vulcano (Flc Cgil) LIVE Mercoledì 18 febbraio alle 14:30",
+                "link": "https://www.orizzontescuola.it/gps-2026-aggiornamento-tra-febbraio-e-marzo-algortimo-titoli-preferenze-e-non-solo-cosa-e-previsto-question-time-con-vulcano-flc-cgil-live-mercoledi-18-febbraio-alle-1430/",
+                "date": "18 Feb 2026",
+                "time": "7:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Template_questiontime_1920x1080-9.png"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze 2026, gli interpelli aperti per la seconda parte dell’anno scolastico",
@@ -30,14 +41,6 @@
                 "date": "17 Feb 2026",
                 "time": "22:04",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_1859352175.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "GPS 2026, aggiornamento tra febbraio e marzo: algoritmo, titoli, preferenze e non solo: cosa è previsto. QUESTION TIME con Vulcano (Flc Cgil) LIVE Mercoledì 18 febbraio alle 14:30",
-                "link": "https://www.orizzontescuola.it/gps-2026-aggiornamento-tra-febbraio-e-marzo-algortimo-titoli-preferenze-e-non-solo-cosa-e-previsto-question-time-con-vulcano-flc-cgil-live-mercoledi-18-febbraio-alle-1430/",
-                "date": "17 Feb 2026",
-                "time": "19:05",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Template_questiontime_1920x1080-9.png"
             },
             {
                 "category": "Guide",
@@ -119,7 +122,12 @@
                 "date": "17 Feb 2026",
                 "time": "11:54",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1863569833-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Gestire la scuola",
                 "title": "Giustizia riparativa nelle scuole: tutti gli step per attuarla. Scarica i documenti",
@@ -143,12 +151,7 @@
                 "date": "17 Feb 2026",
                 "time": "11:23",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/shutterstock_1871534923.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Valditara: “Aggressioni ai docenti dimezzate, finora 15. Tocchiamo nel portafoglio chi li picchia”. Metal detector nelle scuole su richiesta dei presidi: “Studenti a favore”",
@@ -253,24 +256,14 @@
                 "time": "8:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Newsletter-1.png"
             },
-            {
-                "category": "Gestire la scuola",
-                "title": "Conto consuntivo, scarica: lettera in difformità, relazione DSGA, relazione illustrativa, lettera all’USR per mancata approvazione",
-                "link": "https://www.orizzontescuola.it/conto-consuntivo-scarica-lettera-in-difformita-relazione-dsga-relazione-illustrativa-lettera-allusr-per-mancata-approvazione/",
-                "date": "17 Feb 2026",
-                "time": "7:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/02/student-using-calculator_925x.jpg"
-            },
-            null,
-            null,
             null,
             {
-                "category": "Plus",
-                "title": "I diritti di docenti e ATA di ruolo e precari spiegati bene: aspettative, congedi, permessi, 104, ferie e malattie. Il più venduto su AMAZON",
-                "link": "https://www.orizzontescuola.it/i-diritti-di-docenti-e-ata-di-ruolo-e-precari-spiegati-bene-cosa-fare-in-caso-di-aspettative-congedi-permessi-104-ferie-e-malattie/",
+                "category": "Cronaca",
+                "title": "Le emozioni sono il motore del bullismo, come educare a riconoscerle attraverso il cinema. INTERVISTA a Paola Dei",
+                "link": "https://www.orizzontescuola.it/le-emozioni-sono-il-motore-del-bullismo-come-educare-a-riconoscerle-attraverso-il-cinema-intervista-a/",
                 "date": "17 Feb 2026",
-                "time": "7:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Il-piu-venduto-nella-sua-categoria-AMAZON-1.png"
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/paola_dei.png"
             }
         ]
     },
@@ -538,6 +531,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Concorsi docenti PNRR3, ISTRUZIONI presentazione titoli (non autocertificabili). Valgono solo quelli dichiarati nella domanda",
+                "link": "https://www.orizzontescuola.it/concorsi-docenti-pnrr3-istruzioni-presentazione-titoli-non-autocertificabili-valgono-solo-quelli-dichiarati-nella-domanda/",
+                "date": "14 Feb 2026",
+                "time": "15:43",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Graduatorie GPS 2026: guida alla compilazione per seconda fascia a pieno titolo e riserva prima fascia",
                 "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-guida-alla-compilazione-per-seconda-fascia-a-pieno-titolo-e-riserva-prima-fascia/",
                 "date": "14 Feb 2026",
@@ -575,14 +576,6 @@
                 "date": "13 Feb 2026",
                 "time": "18:23",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2251238405.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti da 60 CFU, le domande “multiple” non consentite. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-da-60-cfu-le-domande-multiple-non-consentite-pillole-di-question-time/",
-                "date": "13 Feb 2026",
-                "time": "14:47",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_713874685.jpg"
             }
         ]
     },
