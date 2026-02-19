@@ -23,6 +23,9 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
+            null,
+            null,
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Stipendi docenti e Ata, cedolino di febbraio: tra arretrati e pagamenti, ecco a cosa fare attenzione. SPECIALE con Pacifico (Anief) LIVE Giovedì 19 febbraio alle 17:00",
@@ -126,7 +129,12 @@
                 "date": "18 Feb 2026",
                 "time": "15:19",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2451189765-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Guide",
                 "title": "Part time 2026/27, la domanda di docenti e ATA di ruolo entro il 15 marzo. Futuri neoassunti a settembre. GUIDA",
@@ -150,12 +158,7 @@
                 "date": "18 Feb 2026",
                 "time": "14:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-12-at-16.45.22.jpeg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Infortuni sul lavoro in crescita dell’1,4% nel 2025, quasi 81mila le denunce degli studenti. I dati INAIL",
@@ -275,24 +278,7 @@
                 "date": "18 Feb 2026",
                 "time": "8:40",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2349699577-scaled.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "In vent’anni 350mila laureati meridionali qualificati (sempre più donne) hanno arricchito l’economia del Nord Italia. I dati SVIMEZ",
-                "link": "https://www.orizzontescuola.it/in-ventanni-350mila-laureati-meridionali-qualificati-sempre-piu-donne-hanno-arricchito-leconomia-del-nord-italia-i-dati-svimez/",
-                "date": "18 Feb 2026",
-                "time": "8:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/shutterstock_2420606773.jpg"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "Registro elettronico e obbligo di verità: in allegato circolare dei dirigenti scolastici ai docenti sull’annotazione dell’ingresso degli alunni e sulla vigilanza",
-                "link": "https://www.orizzontescuola.it/registro-elettronico-e-obbligo-di-verita-in-allegato-circolare-dei-dirigenti-scolastici-ai-docenti-sullannotazione-dellingresso-degli-alunni-e-sulla-vigilanza/",
-                "date": "18 Feb 2026",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_1859124022.jpg"
-            },
-            null
+            }
         ]
     },
     "group_4": {
