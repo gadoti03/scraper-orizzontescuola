@@ -23,12 +23,14 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
+            null,
             {
                 "category": "Politica scolastica",
-                "title": "Elenchi regionali per il ruolo con punteggio prova scritta e orale concorso, mobilità docenti, l’operatore scolastico slitta al 2027: decreto PNRR in Gazzetta Ufficiale",
+                "title": "Elenchi regionali per il ruolo con punteggio prova scritta e orale concorso, mobilità docenti, l’operatore scolastico slitta al 2027: decreto PNRR in Gazzetta Ufficiale [SPECIALE]",
                 "link": "https://www.orizzontescuola.it/graduatorie-regionali-mobilita-docenti-loperatore-scolastico-slitta-al-2027-decreto-pnrr-in-gazzetta-ufficiale/",
-                "date": "19 Feb 2026",
-                "time": "21:01",
+                "date": "20 Feb 2026",
+                "time": "6:48",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/Governo.jpeg"
             },
             {
@@ -134,7 +136,12 @@
                 "date": "19 Feb 2026",
                 "time": "11:52",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/shutterstock_102569255.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Percorsi abilitanti 60, 36, 30 CFU: ancora in corso le iscrizioni in alcuni Atenei, qualcuna deve ancora pubblicare il BANDO",
@@ -150,12 +157,7 @@
                 "date": "19 Feb 2026",
                 "time": "11:36",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Oggi-e-la-giornata-dellInfanzia-2.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Docenti",
                 "title": "Mobilità docenti 2026/27: qualche settimana ancora e si conosceranno i posti liberi grazie ai pensionamenti. Utili per la domanda",
@@ -276,8 +278,6 @@
                 "time": "8:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/orizzontale.00_40_51_10.Immagine186.png"
             },
-            null,
-            null,
             null
         ]
     },
