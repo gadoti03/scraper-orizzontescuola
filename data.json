@@ -25,6 +25,38 @@
         "articles": [
             {
                 "category": "Chiedilo a Lalla",
+                "title": "VIDEO TUTORIAL IN DIRETTA | GPS 2026, tutti i passaggi spiegati. QUESTION TIME con Vannini (Uil Scuola Rua). LIVE Lunedì 23 febbraio alle 14:30",
+                "link": "https://www.orizzontescuola.it/video-tutorial-in-diretta-gps-2026-tutti-i-passaggi-spiegati-question-time-con-vannini-uil-scuola-rua-live-lunedi-23-febbraio-alle-1430/",
+                "date": "22 Feb 2026",
+                "time": "18:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Template_questiontime_1920x1080-10.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Prima fascia GPS sostegno: quanti punti vale l’abilitazione su materia. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/prima-fascia-gps-sostegno-quanti-punti-vale-labilitazione-su-materia-pillole-di-question-time/",
+                "date": "22 Feb 2026",
+                "time": "17:38",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1440992648.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Mobilità docenti 2026/27: prima i trasferimenti nel comune, poi nella provincia, poi da fuori provincia",
+                "link": "https://www.orizzontescuola.it/mobilita-docenti-2026-27-prima-i-trasferimenti-nel-comune-poi-nella-provincia-poi-da-fuori-provincia/",
+                "date": "22 Feb 2026",
+                "time": "17:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_158162756.jpg"
+            },
+            {
+                "category": "Didattica",
+                "title": "Fantasia: un esperimento di “musica viva” tra tradizione classica e cinema d’animazione. Insegnare con i film",
+                "link": "https://www.orizzontescuola.it/fantasia-un-esperimento-di-musica-viva-tra-tradizione-classica-e-cinema-danimazione-insegnare-con-i-film/",
+                "date": "22 Feb 2026",
+                "time": "15:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2529583747-scaled.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
                 "title": "Punteggio di continuità per il docente soprannumerario, ecco come si calcola",
                 "link": "https://www.orizzontescuola.it/punteggio-di-continuita-per-il-docente-soprannumerario-ecco-come-si-calcola/",
                 "date": "22 Feb 2026",
@@ -111,7 +143,12 @@
                 "date": "21 Feb 2026",
                 "time": "17:59",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_56830789.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Graduatorie GPS: ecco l’elenco delle certificazioni linguistiche valide. Quali sono “a scadenza”. Allegato D1",
@@ -119,14 +156,6 @@
                 "date": "21 Feb 2026",
                 "time": "16:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/shutterstock_1544913164.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "VIDEO TUTORIAL IN DIRETTA | GPS 2026, tutti i passaggi spiegati. QUESTION TIME con Vannini (Uil Scuola Rua). LIVE Lunedì 23 febbraio alle 14:30",
-                "link": "https://www.orizzontescuola.it/video-tutorial-in-diretta-gps-2026-tutti-i-passaggi-spiegati-question-time-con-vannini-uil-scuola-rua-live-lunedi-23-febbraio-alle-1430/",
-                "date": "21 Feb 2026",
-                "time": "15:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Template_questiontime_1920x1080-10.png"
             },
             {
                 "category": "Docenti",
@@ -143,12 +172,7 @@
                 "date": "21 Feb 2026",
                 "time": "15:16",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/Lucangeli.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "La gestione del patrimonio scolastico attraverso le figure di sistema in essa impegnato. Scarica 9 modelli già pronti. A cura di Paola Perlini",
@@ -256,34 +280,66 @@
             },
             {
                 "category": "Scuole",
-                "title": "Referendum costituzionale, le scuole hanno divieto di comunicazione: dai siti ai social, dalle circolare agli eventi pubblici",
+                "title": "Referendum costituzionale, le scuole hanno divieto di comunicazione: dai siti ai social, dalle circolari agli eventi pubblici",
                 "link": "https://www.orizzontescuola.it/referendum-costituzionale-le-scuole-hanno-divieto-di-comunicazione-dai-siti-ai-social-dalle-circolare-agli-eventi-pubblici/",
                 "date": "21 Feb 2026",
                 "time": "7:32",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_605489138.jpg"
-            },
-            null,
-            {
-                "category": "Cronaca",
-                "title": "L’alunno cade durante la corsa in palestra e i genitori perdono la causa in Tribunale: la condotta imprevedibile del minore esime la scuola da ogni responsabilità. Cosa hanno detto i giudici",
-                "link": "https://www.orizzontescuola.it/lalunno-cade-durante-la-corsa-in-palestra-e-i-genitori-perdono-la-causa-in-tribunale-la-condotta-imprevedibile-del-minore-esime-la-scuola-da-ogni-responsabilita-cosa-hanno-detto-i-giudici/",
-                "date": "20 Feb 2026",
-                "time": "20:57",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_675123196.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Legge di bilancio 2026: disponibili 20 miliardi su 22,4 stanziati. Scuola, università e ricerca ricevono 686 milioni per organici, supplenze e borse di studio",
-                "link": "https://www.orizzontescuola.it/legge-di-bilancio-2026-disponibili-20-miliardi-su-224-stanziati-scuola-universita-e-ricerca-ricevono-686-milioni-per-organici-supplenze-e-borse-di-studio/",
-                "date": "20 Feb 2026",
-                "time": "18:59",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/Parlamento-1.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Milano-Cortina 2026, Valditara si congratula con gli atleti italiani: trenta medaglie e successo organizzativo riconosciuto a livello internazionale",
+                "link": "https://www.orizzontescuola.it/milano-cortina-2026-valditara-si-congratula-con-gli-atleti-italiani-trenta-medaglie-e-successo-organizzativo-riconosciuto-a-livello-internazionale/",
+                "date": "22 Feb 2026",
+                "time": "18:58",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Cannabis sempre più potente, rischio psichiatrico sempre più alto tra i giovani: lo studio su mezzo milione di adolescenti che rilancia l’allarme",
+                "link": "https://www.orizzontescuola.it/cannabis-sempre-piu-potente-rischio-psichiatrico-sempre-piu-alto-tra-i-giovani-lo-studio-su-mezzo-milione-di-adolescenti-che-rilancia-lallarme/",
+                "date": "22 Feb 2026",
+                "time": "17:50",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Genitori",
+                "title": "Amore e password: il 68% dei giovani condivide le credenziali, ma il controllo del telefono resta un tabù",
+                "link": "https://www.orizzontescuola.it/amore-e-password-il-68-dei-giovani-condivide-le-credenziali-ma-il-controllo-del-telefono-resta-un-tabu/",
+                "date": "22 Feb 2026",
+                "time": "16:30",
+                "image_link": "N/A"
+            },
+            null,
+            {
+                "category": "Comunicati stampa",
+                "title": "Scuole paritarie, martedì un importante evento. Anief: “Riconoscere ai docenti il diritto di vedersi computati gli anni di servizio per la ricostruzione di carriera”",
+                "link": "https://www.orizzontescuola.it/scuole-paritarie-martedi-un-importante-evento-anief-riconoscere-ai-docenti-il-diritto-di-vedersi-computati-gli-anni-di-servizio-per-la-ricostruzione-di-carriera/",
+                "date": "22 Feb 2026",
+                "time": "16:12",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Dispersione scolastica e assenteismo: i dati Eurydice in Europa e le strategie messe in campo dall’Italia",
+                "link": "https://www.orizzontescuola.it/dispersione-scolastica-e-assenteismo-i-dati-eurydice-in-europa-e-le-strategie-messe-in-campo-dallitalia/",
+                "date": "22 Feb 2026",
+                "time": "15:27",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Studenti",
+                "title": "ITS, borse di studio da 4.000 euro per studenti fuori sede: domande entro il 24 febbraio",
+                "link": "https://www.orizzontescuola.it/its-borse-di-studio-da-4-000-euro-per-studenti-fuori-sede-domande-entro-il-24-febbraio/",
+                "date": "22 Feb 2026",
+                "time": "13:47",
+                "image_link": "N/A"
+            },
             {
                 "category": "Genitori",
                 "title": "“Dottor Algoritmo”: ansia e cuori spezzati curati dall’IA. Uno studente su cinque si affida ai bot per supporto psicologico",
@@ -363,62 +419,6 @@
                 "link": "https://www.orizzontescuola.it/lallarme-dal-tar-di-lecce-scuola-tra-i-comparti-con-piu-contenziosi-ricorsi-per-ottemperanza-in-crescita-del-30-il-presidente-uso-improprio-dellintelligenza-artificiale-negli-atti-difensivi/",
                 "date": "21 Feb 2026",
                 "time": "17:38",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Violenza sugli insegnanti, ancora un caso: genitore picchia maestra davanti alla scuola. Il sindaco: “Fatto inaccettabile”",
-                "link": "https://www.orizzontescuola.it/violenza-sugli-insegnanti-ancora-un-caso-genitore-picchia-maestra-davanti-alla-scuola-il-sindaco-fatto-inaccettabile/",
-                "date": "21 Feb 2026",
-                "time": "16:38",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Dipendenti pubblici valutati al 100% come eccellenti: il ministro Zangrillo dice basta e porta in Parlamento la riforma che premia i risultati, non i titoli",
-                "link": "https://www.orizzontescuola.it/dipendenti-pubblici-valutati-al-100-come-eccellenti-il-ministro-zangrillo-dice-basta-e-porta-in-parlamento-la-riforma-che-premia-i-risultati-non-i-titoli/",
-                "date": "21 Feb 2026",
-                "time": "12:40",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "GPS 2026, titoli, preferenze e non solo: come presentare istanza senza errori. QUESTION TIME con Craparo (Gilda)",
-                "link": "https://www.orizzontescuola.it/gps-2026-titoli-preferenze-e-non-solo-come-presentare-istanza-senza-errori-question-time-con-craparo-gilda-live-sabato-21-febbraio-alle-1500/",
-                "date": "21 Feb 2026",
-                "time": "12:38",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Olimpiadi di Milano-Cortina 2026, il CONI presenta il bilancio: 27 medaglie e un appello diretto alla scuola. Mornati: “Lo sport va inserito nei piani didattici, l’educazione motoria non basta”",
-                "link": "https://www.orizzontescuola.it/olimpiadi-di-milano-cortina-2026-il-coni-presenta-il-bilancio-27-medaglie-e-un-appello-diretto-alla-scuola-mornati-lo-sport-va-inserito-nei-piani-didattici-leducazione-motoria-non-basta/",
-                "date": "21 Feb 2026",
-                "time": "12:38",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Docenti fuorisede, il CNDDU chiede a Valditara affitti al 50% e mutui agevolati: “L’abitare è infrastruttura educativa strategica”",
-                "link": "https://www.orizzontescuola.it/docenti-fuorisede-il-cnddu-chiede-a-valditara-affitti-al-50-e-mutui-agevolati-labitare-e-infrastruttura-educativa-strategica/",
-                "date": "21 Feb 2026",
-                "time": "11:14",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Decreto Bollette 2026 in Gazzetta Ufficiale: contributi straordinari sulle bollette elettriche per famiglie e imprese, nuove norme per i data center e per risolvere la saturazione virtuale della rete. TESTO",
-                "link": "https://www.orizzontescuola.it/decreto-bollette-2026-in-gazzetta-ufficiale-contributi-straordinari-sulle-bollette-elettriche-per-famiglie-e-imprese-nuove-norme-per-i-data-center-e-per-risolvere-la-saturazione-virtuale-della-rete/",
-                "date": "21 Feb 2026",
-                "time": "7:53",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "GPS 2026-2028, ecco la scheda Uil Scuola Rua con tutte le info utili sulla domanda",
-                "link": "https://www.orizzontescuola.it/gps-2026-2028-ecco-la-scheda-uil-scuola-rua-con-tutte-le-info-utili-sulla-domanda/",
-                "date": "20 Feb 2026",
-                "time": "17:54",
                 "image_link": "N/A"
             }
         ]
@@ -545,6 +545,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Graduatorie GPS 2026/28: ecco Ordinanza e tabelle titoli. UFFICIALE",
+                "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-28-ecco-ordinanza-e-tabelle-titoli-ufficiale/",
+                "date": "20 Feb 2026",
+                "time": "13:29",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/GPS-2026.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Profilo del docente specializzato in Differenziazione Didattica Montessori infanzia, primaria, secondaria primo grado. Gli allegati",
                 "link": "https://www.orizzontescuola.it/profilo-del-docente-specializzato-in-differenziazione-didattica-montessori-infanzia-primaria-secondaria-primo-grado-gli-allegati/",
                 "date": "20 Feb 2026",
@@ -582,14 +590,6 @@
                 "date": "20 Feb 2026",
                 "time": "12:19",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/vulcano3.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR3, pubblicato il calendario della prova scritta suppletiva: 18 marzo per infanzia e primaria, 19 marzo per la secondaria",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-pubblicato-il-calendario-della-prova-scritta-suppletiva-18-marzo-per-infanzia-e-primaria-19-marzo-per-la-secondaria/",
-                "date": "20 Feb 2026",
-                "time": "12:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1904033662.jpg"
             }
         ]
     },
