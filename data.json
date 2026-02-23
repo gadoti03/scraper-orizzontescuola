@@ -3,26 +3,37 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
-                "category": "Cronaca",
-                "title": "“In Italia non c’è un aumento di violenza tra i giovani, non siamo gli USA. Ma docenti e genitori siano un presidio”. INTERVISTA a Daniele Novara",
-                "link": "https://www.orizzontescuola.it/in-italia-non-ce-un-aumento-di-violenza-tra-i-giovani-non-siamo-gli-usa-ma-docenti-e-genitori-siano-un-presidio-intervista-a-daniele-novara/",
-                "date": "22 Feb 2026",
-                "time": "8:09",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/Screenshot-2024-02-27-145820.png"
-            },
-            {
                 "category": "Diventare Insegnanti",
                 "title": "Graduatorie GPS 2026/28: Ordinanza, tabelle titoli. Come si compila la domanda [LO SPECIALE]",
                 "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-28-requisiti-di-accesso-riserva-titoli-e-servizi-nuovo-algoritmo-lo-speciale/",
                 "date": "20 Feb 2026",
                 "time": "15:56",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Posizioni-1.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Aggiornamento GPS 2026: ecco le guide del Ministero per compilare la domanda",
+                "link": "https://www.orizzontescuola.it/aggiornamento-gps-2026-ecco-le-guide-del-ministero-per-compilare-la-domanda/",
+                "date": "20 Feb 2026",
+                "time": "15:32",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Creare-percorsi-di-apprendimento-piu-creativi-personalizzati-e-inclusivi-1.png"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
+            null,
+            null,
+            {
+                "category": "Scuole",
+                "title": "La gestione del patrimonio scolastico attraverso le figure di sistema in essa impegnato. Scarica 9 modelli già pronti. A cura di Paola Perlini",
+                "link": "https://www.orizzontescuola.it/la-gestione-del-patrimonio-scolastico-attraverso-le-figure-di-sistema-in-essa-impegnato-scarica-9-modelli-gia-pronti-a-cura-di-paola-perlini/",
+                "date": "23 Feb 2026",
+                "time": "6:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/100.png"
+            },
             {
                 "category": "Cronaca",
                 "title": "Valditara: iscrizioni “straordinarie” al percorso 4+2. Firmato il Protocollo 2026 con Confindustria Moda",
@@ -111,7 +122,12 @@
                 "date": "22 Feb 2026",
                 "time": "8:52",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Template_questiontime_1920x1080-14.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "ATA",
                 "title": "Posizioni economiche ATA, prove dal 23 al 27 febbraio: le informazioni utili per affrontare la prova",
@@ -137,18 +153,21 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/09/shutterstock_1204346443.jpg"
             },
             {
+                "category": "Cronaca",
+                "title": "“In Italia non c’è un aumento di violenza tra i giovani, non siamo gli USA. Ma docenti e genitori siano un presidio”. INTERVISTA a Daniele Novara",
+                "link": "https://www.orizzontescuola.it/in-italia-non-ce-un-aumento-di-violenza-tra-i-giovani-non-siamo-gli-usa-ma-docenti-e-genitori-siano-un-presidio-intervista-a-daniele-novara/",
+                "date": "22 Feb 2026",
+                "time": "8:09",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/Screenshot-2024-02-27-145820.png"
+            },
+            {
                 "category": "Plus",
                 "title": "GPS 2026 – Ti aiutiamo a non sbagliare. Guida ebook + consulenza di gruppo. Solo 5 posti",
                 "link": "https://www.orizzontescuola.it/gps-2026-ti-aiutiamo-a-non-sbagliare-guida-ebook-consulenza-di-gruppo-11-febbraio-ore-1600-1700-solo-5-posti/",
                 "date": "21 Feb 2026",
                 "time": "19:28",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/consulenza_1.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "GPS 2026: chi non è ancora iscritto al corso abilitante o sostegno potrà iscriversi con riserva in prima fascia",
@@ -180,14 +199,6 @@
                 "date": "21 Feb 2026",
                 "time": "15:16",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/Lucangeli.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "La gestione del patrimonio scolastico attraverso le figure di sistema in essa impegnato. Scarica 9 modelli già pronti. A cura di Paola Perlini",
-                "link": "https://www.orizzontescuola.it/la-gestione-del-patrimonio-scolastico-attraverso-le-figure-di-sistema-in-essa-impegnato-scarica-9-modelli-gia-pronti-a-cura-di-paola-perlini/",
-                "date": "21 Feb 2026",
-                "time": "14:38",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/100.png"
             },
             {
                 "category": "Scuole",
@@ -253,38 +264,6 @@
                 "date": "21 Feb 2026",
                 "time": "10:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Sanzioni-disciplinari-e-giustizia-riparativa-2.png"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Cedolini scuola febbraio 2026, voci mancanti e importi errati negli arretrati, Anief spiega come tutelarsi prima che scadano i termini: “Oltre 1500 segnalazioni ricevute” [VIDEO]",
-                "link": "https://www.orizzontescuola.it/cedolini-scuola-febbraio-2026-voci-mancanti-e-importi-errati-negli-arretrati-anief-spiega-come-tutelarsi-prima-che-scadano-i-termini-oltre-1500-segnalazioni-ricevute-video/",
-                "date": "21 Feb 2026",
-                "time": "9:18",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/Mrcello-Pacifico-4.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "E-policy per le tecnologie digitali a scuola: regolamento e delibere degli organi collegiali. Scarica",
-                "link": "https://www.orizzontescuola.it/e-policy-per-le-tecnologie-digitali-a-scuola-regolamento-e-delibere-degli-organi-collegiali-scarica/",
-                "date": "21 Feb 2026",
-                "time": "9:12",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/E-policy-tecnologie-digitali-a-scuola.png"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "GPS 2026 seconda fascia sostegno: il 2025/26 vale? I laureandi in SFP possono iscriversi? Discrepanza tra decreto e tabella",
-                "link": "https://www.orizzontescuola.it/gps-2026-seconda-fascia-sostegno-il-2025-26-vale-i-laureandi-in-sfp-possono-iscriversi-discrepanza-tra-decreto-e-tabella/",
-                "date": "21 Feb 2026",
-                "time": "9:01",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_167557766.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Iscrizione prima classe 2026-2027: scade oggi 21 febbraio 2026 ore 20. Indicazioni per ogni grado [LO SPECIALE]",
-                "link": "https://www.orizzontescuola.it/iscrizione-prima-classe-2026-2027-domanda-dal-13-gennaio-al-14-febbraio-2026-tutte-le-info-da-infanzia-a-secondaria-lo-speciale/",
-                "date": "21 Feb 2026",
-                "time": "8:04",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_154155695.jpg"
             }
         ]
     },
@@ -428,6 +407,14 @@
         "articles": [
             {
                 "category": "Chiedilo a Lalla",
+                "title": "GPS 2026 seconda fascia sostegno: il 2025/26 vale? I laureandi in SFP possono iscriversi? Discrepanza tra decreto e tabella",
+                "link": "https://www.orizzontescuola.it/gps-2026-seconda-fascia-sostegno-il-2025-26-vale-i-laureandi-in-sfp-possono-iscriversi-discrepanza-tra-decreto-e-tabella/",
+                "date": "21 Feb 2026",
+                "time": "9:01",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
                 "title": "Mobilità per docente con vincolo triennale: quando vale la deroga per figlio minore",
                 "link": "https://www.orizzontescuola.it/mobilita-per-docente-con-vincolo-triennale-quando-vale-la-deroga-per-figlio-minore/",
                 "date": "18 Feb 2026",
@@ -529,28 +516,12 @@
                 "date": "8 Gen 2026",
                 "time": "17:13",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Supplenze e ruoli per gli insegnanti: GaE, GPS ed elenchi regionali per il ruolo le domande da presentare nei primi mesi del 2026",
-                "link": "https://www.orizzontescuola.it/supplenze-e-ruoli-per-gli-insegnanti-gae-gps-ed-elenchi-regionali-per-il-ruolo-le-domande-da-presentare-nei-primi-mesi-del-2026/",
-                "date": "6 Gen 2026",
-                "time": "15:45",
-                "image_link": "N/A"
             }
         ]
     },
     "group_6": {
         "title": "Diventare Insegnanti",
         "articles": [
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Graduatorie GPS 2026/28: ecco Ordinanza e tabelle titoli. UFFICIALE",
-                "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-28-ecco-ordinanza-e-tabelle-titoli-ufficiale/",
-                "date": "20 Feb 2026",
-                "time": "13:29",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/GPS-2026.png"
-            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Profilo del docente specializzato in Differenziazione Didattica Montessori infanzia, primaria, secondaria primo grado. Gli allegati",
@@ -590,6 +561,14 @@
                 "date": "20 Feb 2026",
                 "time": "12:19",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/vulcano3.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3, pubblicato il calendario della prova scritta suppletiva: 18 marzo per infanzia e primaria, 19 marzo per la secondaria",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-pubblicato-il-calendario-della-prova-scritta-suppletiva-18-marzo-per-infanzia-e-primaria-19-marzo-per-la-secondaria/",
+                "date": "20 Feb 2026",
+                "time": "12:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1904033662.jpg"
             }
         ]
     },
