@@ -3,26 +3,37 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
-                "category": "Cronaca",
-                "title": "Niscemi, “le maestre ci hanno consolato”: il rientro in classe dopo la frana e la scuola come presidio di speranza. Abbiamo sentito bambini, maestre e genitori. Video servizio",
-                "link": "https://www.orizzontescuola.it/niscemi-il-rientro-in-classe-dopo-la-frana-e-la-scuola-come-presidio-di-speranza-il-racconto-di-docenti-bambini-e-famiglie-siamo-andati-a-trovarli-video-servizio/",
-                "date": "24 Feb 2026",
-                "time": "9:29",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/orizzontale.00_40_33_00.Immagine192.png"
-            },
-            {
                 "category": "Diventare Insegnanti",
                 "title": "Graduatorie GPS 2026/28: Ordinanza, tabelle titoli. Come si compila la domanda [LO SPECIALE]",
                 "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-28-requisiti-di-accesso-riserva-titoli-e-servizi-nuovo-algoritmo-lo-speciale/",
                 "date": "24 Feb 2026",
                 "time": "7:39",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Posizioni-1-1.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "GPS 2026 (Graduatorie provinciali per le supplenze): gli iscritti sono quasi 3 milioni (360mila sul sostegno). A Nord carenza di maestre e maestri. Sud e Isole liste piene. Tutti i dati",
+                "link": "https://www.orizzontescuola.it/gps-2026-graduatorie-provinciali-per-le-supplenze-gli-scritti-sono-quasi-3-milioni-360mila-sul-sostegno-a-nord-carenza-di-maestre-e-maestri-sud-e-isole-liste-piene-tutti-i-dati/",
+                "date": "23 Feb 2026",
+                "time": "17:06",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/GPS-2026-5.png"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
+            null,
+            null,
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "GPS 2026, i consigli giusti per la compilazione della domanda: titoli, riserve, preferenze e scelta provincia. QUESTION TIME con Sonia Cannas. LIVE Mercoledì 25 febbraio alle 14:30",
+                "link": "https://www.orizzontescuola.it/gps-2026-i-consigli-giusti-per-la-compilazione-della-domanda-titoli-riserve-preferenze-e-scelta-provincia-question-time-con-sonia-cannas-live-mercoledi-25-febbraio-alle-1430/",
+                "date": "25 Feb 2026",
+                "time": "7:14",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Template_questiontime_1920x1080-16.png"
+            },
             {
                 "category": "Cronaca",
                 "title": "Dl Sicurezza, carcere per chi aggredisce docenti, dirigenti e personale ATA durante l’esercizio delle funzioni. Testo in Gazzetta",
@@ -54,14 +65,6 @@
                 "date": "24 Feb 2026",
                 "time": "18:52",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/shutterstock_2213520949.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "GPS 2026, i consigli giusti per la compilazione della domanda: titoli, riserve, preferenze e scelta provincia. QUESTION TIME con Sonia Cannas. LIVE Mercoledì 25 febbraio alle 14:30",
-                "link": "https://www.orizzontescuola.it/gps-2026-i-consigli-giusti-per-la-compilazione-della-domanda-titoli-riserve-preferenze-e-scelta-provincia-question-time-con-sonia-cannas-live-mercoledi-25-febbraio-alle-1430/",
-                "date": "24 Feb 2026",
-                "time": "18:18",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Template_questiontime_1920x1080-16.png"
             },
             {
                 "category": "Diventare Insegnanti",
@@ -126,7 +129,12 @@
                 "date": "24 Feb 2026",
                 "time": "14:34",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Screenshot-2026-02-24-alle-13.40.33.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Prove Invalsi 2026, per i maturandi al via dal 2 marzo: debutta la prova sulle competenze digitali",
@@ -150,12 +158,7 @@
                 "date": "24 Feb 2026",
                 "time": "13:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_1859352175.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Docenti",
                 "title": "Piano di formazione Orientamenti, docenti con nomina tutor e orientatore dovranno completare il corso entro il 28 febbraio",
@@ -245,6 +248,14 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_1435821560.jpg"
             },
             {
+                "category": "Cronaca",
+                "title": "Niscemi, “le maestre ci hanno consolato”: il rientro in classe dopo la frana e la scuola come presidio di speranza. Abbiamo sentito bambini, maestre e genitori. Video servizio",
+                "link": "https://www.orizzontescuola.it/niscemi-il-rientro-in-classe-dopo-la-frana-e-la-scuola-come-presidio-di-speranza-il-racconto-di-docenti-bambini-e-famiglie-siamo-andati-a-trovarli-video-servizio/",
+                "date": "24 Feb 2026",
+                "time": "9:29",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/orizzontale.00_40_33_00.Immagine192.png"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Docente in anno di prova deve presentare domanda per le GPS? Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/docente-in-anno-di-prova-deve-presentare-domanda-per-le-gps-pillole-di-question-time/",
@@ -267,38 +278,6 @@
                 "date": "24 Feb 2026",
                 "time": "8:54",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_594891590.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "GPS 2026, con QUESTION TIME ti aiutiamo a compilare la domanda senza errori! Ecco tutti gli appuntamenti fino al 4 marzo",
-                "link": "https://www.orizzontescuola.it/gps-2026-con-question-time-ti-aiutiamo-a-compilare-la-domanda-senza-errori-ecco-tutti-gli-appuntamenti-fino-al-3-marzo/",
-                "date": "24 Feb 2026",
-                "time": "8:45",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/download-2-1.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "HIV, HPV e infezioni sessualmente trasmesse: da moduli didattici specifici a campagne informative su screening e vaccini, cosa dovranno fare le scuole. Se ne discute in Parlamento",
-                "link": "https://www.orizzontescuola.it/hiv-hpv-e-infezioni-sessualmente-trasmesse-da-moduli-didattici-specifici-a-campagne-informative-su-screening-e-vaccini-cosa-dovranno-fare-le-scuole-se-ne-discute-in-parlamento/",
-                "date": "24 Feb 2026",
-                "time": "8:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/shutterstock_2572734397.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Perché le famiglie scelgono il Liceo invece degli Istituti tecnici? Dalla reputazione all’impatto dell’Intelligenza Artificiale. Il nodo orientamento. Appunti dal convegno",
-                "link": "https://www.orizzontescuola.it/perche-le-famiglie-scelgono-il-liceo-invece-degli-istituti-tecnici-dalla-reputazione-allimpatto-dellintelligenza-artificiale-il-nodo-orientamento-appunti-dal-convegno/",
-                "date": "24 Feb 2026",
-                "time": "8:21",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_2585877217-scaled.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "I ragazzi imparano anche con i social: ecco come. La sfida è costruire ponti con il digitale",
-                "link": "https://www.orizzontescuola.it/i-ragazzi-imparano-anche-con-i-social-ecco-come-la-sfida-e-costruire-ponti-con-il-digitale/",
-                "date": "24 Feb 2026",
-                "time": "8:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_2278193579.jpg"
             }
         ]
     },
@@ -449,6 +428,14 @@
         "articles": [
             {
                 "category": "Chiedilo a Lalla",
+                "title": "GPS 2026, con QUESTION TIME ti aiutiamo a compilare la domanda senza errori! Ecco tutti gli appuntamenti fino al 4 marzo",
+                "link": "https://www.orizzontescuola.it/gps-2026-con-question-time-ti-aiutiamo-a-compilare-la-domanda-senza-errori-ecco-tutti-gli-appuntamenti-fino-al-3-marzo/",
+                "date": "24 Feb 2026",
+                "time": "8:45",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
                 "title": "Docente di sostegno chiede il passaggio a posto comune nella scuola in cui insegna già: non ha diritto ad alcuna precedenza",
                 "link": "https://www.orizzontescuola.it/docente-di-sostegno-chiede-il-passaggio-a-posto-comune-nella-scuola-in-cui-insegna-gia-non-ha-diritto-ad-alcuna-precedenza/",
                 "date": "23 Feb 2026",
@@ -550,28 +537,12 @@
                 "date": "30 Gen 2026",
                 "time": "12:30",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Graduatorie GPS 2026/28: nessun vincolo al cambio provincia e all’inserimento in nuove classi di concorso",
-                "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-28-nessun-vincolo-al-cambio-provincia-e-allinserimento-in-nuove-classi-di-concorso/",
-                "date": "27 Gen 2026",
-                "time": "22:07",
-                "image_link": "N/A"
             }
         ]
     },
     "group_6": {
         "title": "Diventare Insegnanti",
         "articles": [
-            {
-                "category": "Diventare Insegnanti",
-                "title": "“Servizio civile e universale”: riserva del 15% nelle graduatorie. Ecco Percentuale per classe di concorso e regione",
-                "link": "https://www.orizzontescuola.it/servizio-civile-e-universale-riserva-del-15-nelle-graduatorie-ecco-percentuale-per-classe-di-concorso-e-regione/",
-                "date": "23 Feb 2026",
-                "time": "14:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2471109123-scaled.jpg"
-            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "TFA sostegno XI ciclo e secondo ciclo Indire nel 2026: la conferma del Ministro Valditara",
@@ -611,12 +582,28 @@
                 "date": "23 Feb 2026",
                 "time": "11:28",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/GPS-2026-2.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "GPS 2026: anche i docenti di ruolo possono presentare domanda. Ma non tutti potranno accettare la supplenza",
+                "link": "https://www.orizzontescuola.it/gps-2026-anche-i-docenti-di-ruolo-possono-presentare-domanda-ma-non-tutti-potranno-accettare-la-supplenza/",
+                "date": "23 Feb 2026",
+                "time": "11:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1937300755.jpg"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
+            {
+                "category": "Gestire la scuola",
+                "title": "Astensione e deliberazioni negli organi collegiali scolastici: quorum, maggioranza e validità dell’approvazione del verbale",
+                "link": "https://www.orizzontescuola.it/astensione-e-deliberazioni-negli-organi-collegiali-scolastici-quorum-maggioranza-e-validita-dellapprovazione-del-verbale/",
+                "date": "23 Feb 2026",
+                "time": "9:39",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/03/shutterstock_1043108527.jpg"
+            },
             {
                 "category": "ATA",
                 "title": "Posizioni economiche ATA, prove dal 23 al 27 febbraio: le informazioni utili per affrontare la prova",
@@ -656,14 +643,6 @@
                 "date": "20 Feb 2026",
                 "time": "7:55",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_2292849263.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Posizioni economiche ATA: posti non assegnati redistribuiti? Cosa può accadere in graduatoria",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-posti-non-assegnati-redistribuiti-cosa-puo-accadere-in-graduatoria/",
-                "date": "19 Feb 2026",
-                "time": "15:28",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2331500305.jpg"
             }
         ]
     },
