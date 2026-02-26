@@ -3,6 +3,14 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "Diventare Insegnanti",
+                "title": "Graduatorie GPS 2026/28: Ordinanza, tabelle titoli. Come si compila la domanda [LO SPECIALE]",
+                "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-28-requisiti-di-accesso-riserva-titoli-e-servizi-nuovo-algoritmo-lo-speciale/",
+                "date": "26 Feb 2026",
+                "time": "6:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Posizioni-2-1.png"
+            },
+            {
                 "category": "Scuole",
                 "title": "Riforma Istituti tecnici, firmato il decreto di revisione: nuovi indirizzi al via dal 2026/27. Tutte le novità, la NOTA e gli ALLEGATI",
                 "link": "https://www.orizzontescuola.it/riforma-istituti-tecnici-firmato-il-decreto-di-revisione-nuovi-indirizzi-al-via-dal-2026-27-tutte-le-novita-la-nota-e-gli-allegati/",
@@ -23,6 +31,9 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
+            null,
+            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "Elenchi regionali 2026: si conosceranno i posti vuoti prima della scelta della regione? Pillole di Question Time",
@@ -126,7 +137,12 @@
                 "date": "25 Feb 2026",
                 "time": "16:06",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_275765495.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Graduatorie GPS 2026: come si inserisce il servizio, con e senza riserva. Le FAQ ufficiali del Ministero e gli ESEMPI",
@@ -150,12 +166,7 @@
                 "date": "25 Feb 2026",
                 "time": "15:23",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2120807768.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "GPS 2026, con QUESTION TIME ti aiutiamo a compilare la domanda senza errori! Ecco tutti gli appuntamenti fino all’11 marzo",
@@ -220,7 +231,6 @@
                 "time": "10:39",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/WhatsApp-Image-2022-11-02-at-17.23.47.jpeg"
             },
-            null,
             {
                 "category": "Politica scolastica",
                 "title": "Cura e decoro degli ambienti scolastici, 30 milioni di euro stanziati. Valditara: “Un’azione di grande valore sociale”",
@@ -276,28 +286,20 @@
                 "date": "25 Feb 2026",
                 "time": "8:23",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/shutterstock_1789600478.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Alunni con disabilità, potranno contare su assistenti stabilizzati. Ecco come funzionerà e quali requisiti dovranno avere i candidati",
-                "link": "https://www.orizzontescuola.it/alunni-con-disabilita-potranno-contare-su-assistenti-stabilizzati-ecco-come-funzionera-e-quali-requisiti-dovranno-avere-i-candidati/",
-                "date": "25 Feb 2026",
-                "time": "8:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/10/shutterstock_787300732.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Aggiornamento GPS 26/28: la piattaforma. Tutti i passaggi spiegati per compilare la domanda. A cura di Sonia Cannas",
-                "link": "https://www.orizzontescuola.it/aggiornamento-gps-26-28-la-piattaforma-tutti-i-passaggi-spiegati-per-compilare-la-domanda-a-cura-di-sonia-cannas/",
-                "date": "25 Feb 2026",
-                "time": "8:12",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Cannas-2.png"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Voti alti in cambio di like? Schettini: “Fraintesi termini e toni. Sto valutando azioni legali”",
+                "link": "https://www.orizzontescuola.it/voti-alti-in-cambio-di-like-schettini-fraintesi-termini-e-toni-sto-valutando-azioni-legali/",
+                "date": "26 Feb 2026",
+                "time": "7:44",
+                "image_link": "N/A"
+            },
             {
                 "category": "Scuole",
                 "title": "PagoPA e scuole, il 26 febbraio la seconda edizione del webinar MIM sulle buone pratiche. Nota",
@@ -433,14 +435,6 @@
                 "date": "25 Feb 2026",
                 "time": "13:00",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Parma, un minore di 14 anni porta a scuola un coltello a farfalla stampato in 3D: il docente recupera l’oggetto e allerta il dirigente",
-                "link": "https://www.orizzontescuola.it/parma-un-minore-di-14-anni-porta-a-scuola-un-coltello-a-farfalla-stampato-in-3d-il-docente-recupera-loggetto-e-allerta-il-dirigente/",
-                "date": "25 Feb 2026",
-                "time": "12:59",
-                "image_link": "N/A"
             }
         ]
     },
@@ -566,19 +560,19 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Docente in anno di prova deve presentare domanda per le GPS? Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/docente-in-anno-di-prova-deve-presentare-domanda-per-le-gps-pillole-di-question-time/",
+                "date": "24 Feb 2026",
+                "time": "9:29",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2501727439-1.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "GPS 2026: inserimento, aggiornamento, valutazione titoli e sanzioni. Il punto di Roberta Vannini (UIL Scuola RUA)",
                 "link": "https://www.orizzontescuola.it/gps-2026-inserimento-aggiornamento-valutazione-titoli-e-sanzioni-il-punto-di-roberta-vannini-uil-scuola-rua/",
                 "date": "24 Feb 2026",
                 "time": "8:54",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_594891590.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Graduatorie GPS 2026/28: Ordinanza, tabelle titoli. Come si compila la domanda [LO SPECIALE]",
-                "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-28-requisiti-di-accesso-riserva-titoli-e-servizi-nuovo-algoritmo-lo-speciale/",
-                "date": "24 Feb 2026",
-                "time": "7:39",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Posizioni-1-1.png"
             },
             {
                 "category": "Diventare Insegnanti",
@@ -618,6 +612,14 @@
         "title": "Notizie ATA",
         "articles": [
             {
+                "category": "ATA",
+                "title": "Posizioni economiche ATA, al via le prove: circa un minuto e mezzo a quesito. L’esito si conosce subito. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-al-via-le-prove-circa-un-minuto-e-mezzo-a-quesito-lesito-si-conosce-subito-risposte-ai-quesiti/",
+                "date": "23 Feb 2026",
+                "time": "11:51",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2198390061.jpg"
+            },
+            {
                 "category": "Gestire la scuola",
                 "title": "Astensione e deliberazioni negli organi collegiali scolastici: quorum, maggioranza e validità dell’approvazione del verbale",
                 "link": "https://www.orizzontescuola.it/astensione-e-deliberazioni-negli-organi-collegiali-scolastici-quorum-maggioranza-e-validita-dellapprovazione-del-verbale/",
@@ -656,14 +658,6 @@
                 "date": "20 Feb 2026",
                 "time": "10:14",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2459519923.jpg"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "Primo Monitoraggio Nazionale dell’Istruzione degli Adulti: scadenza 28 febbraio. Nel dettaglio le procedure operative per CPIA e Istituti di II grado",
-                "link": "https://www.orizzontescuola.it/primo-monitoraggio-nazionale-dellistruzione-degli-adulti-scadenza-28-febbraio-nel-dettaglio-le-procedure-operative-per-cpia-e-istituti-di-ii-grado/",
-                "date": "20 Feb 2026",
-                "time": "7:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_2292849263.jpg"
             }
         ]
     },
