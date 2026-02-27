@@ -31,6 +31,7 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
             {
                 "category": "DSGA",
                 "title": "Piano dei flussi di cassa, il Ministero invia la nota alle scuole con la proroga: nuova scadenza 31 marzo. PDF",
@@ -143,7 +144,12 @@
                 "date": "26 Feb 2026",
                 "time": "13:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso PNRR3 docenti secondaria, proseguono le prove pratiche e orali [AGGIORNATO]",
@@ -151,12 +157,7 @@
                 "date": "26 Feb 2026",
                 "time": "13:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_347981330.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze 2026, gli interpelli aperti per la seconda parte dell’anno scolastico",
@@ -292,14 +293,6 @@
                 "date": "26 Feb 2026",
                 "time": "8:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_736552108.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Ad apprendere è il corpo non il solo cervello. Tra emozioni, cognizione e relazioni: cosa dice oggi la neuroscienza sull’apprendimento",
-                "link": "https://www.orizzontescuola.it/ad-apprendere-e-il-corpo-non-il-solo-cervello-tra-emozioni-cognizione-e-relazioni-cosa-dice-oggi-la-neuroscienza-sullapprendimento/",
-                "date": "26 Feb 2026",
-                "time": "8:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/shutterstock_2489696481.jpg"
             }
         ]
     },
@@ -619,14 +612,6 @@
         "title": "Notizie ATA",
         "articles": [
             {
-                "category": "ATA",
-                "title": "Posizioni economiche ATA, al via le prove: circa un minuto e mezzo a quesito. L’esito si conosce subito. RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-al-via-le-prove-circa-un-minuto-e-mezzo-a-quesito-lesito-si-conosce-subito-risposte-ai-quesiti/",
-                "date": "23 Feb 2026",
-                "time": "11:51",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2198390061.jpg"
-            },
-            {
                 "category": "Gestire la scuola",
                 "title": "Astensione e deliberazioni negli organi collegiali scolastici: quorum, maggioranza e validità dell’approvazione del verbale",
                 "link": "https://www.orizzontescuola.it/astensione-e-deliberazioni-negli-organi-collegiali-scolastici-quorum-maggioranza-e-validita-dellapprovazione-del-verbale/",
@@ -665,6 +650,14 @@
                 "date": "20 Feb 2026",
                 "time": "10:14",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2459519923.jpg"
+            },
+            {
+                "category": "Gestire la scuola",
+                "title": "Primo Monitoraggio Nazionale dell’Istruzione degli Adulti: scadenza 28 febbraio. Nel dettaglio le procedure operative per CPIA e Istituti di II grado",
+                "link": "https://www.orizzontescuola.it/primo-monitoraggio-nazionale-dellistruzione-degli-adulti-scadenza-28-febbraio-nel-dettaglio-le-procedure-operative-per-cpia-e-istituti-di-ii-grado/",
+                "date": "20 Feb 2026",
+                "time": "7:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_2292849263.jpg"
             }
         ]
     },
