@@ -33,6 +33,30 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "GPS 2026: sostituzione del titolo estero con quello italiano non è operazione automatica. Va richiesta con TAB prima fascia",
+                "link": "https://www.orizzontescuola.it/gps-2026-sostituzione-del-titolo-estero-con-quello-italiano-non-e-operazione-automatica-va-richiesta-con-tab-prima-fascia/",
+                "date": "28 Feb 2026",
+                "time": "18:18",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/shutterstock_2242410029.jpg"
+            },
+            {
+                "category": "Plus",
+                "title": "GPS 2026 – Ti aiutiamo a non sbagliare. Guida ebook + consulenza di gruppo. Solo 5 posti",
+                "link": "https://www.orizzontescuola.it/gps-2026-ti-aiutiamo-a-non-sbagliare-guida-ebook-consulenza-di-gruppo-11-febbraio-ore-1600-1700-solo-5-posti/",
+                "date": "28 Feb 2026",
+                "time": "15:03",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Ultimi-posti-disponibili.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "30 CFU: non è possibile inserirli con riserva nella GPS sostegno 2026. Titolo deve essere conseguito entro il 16 marzo",
+                "link": "https://www.orizzontescuola.it/30-cfu-non-e-possibile-inserirli-con-riserva-nella-gps-sostegno-2026-titolo-deve-essere-conseguito-entro-il-16-marzo/",
+                "date": "28 Feb 2026",
+                "time": "14:57",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2498781455.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Certificazioni informatiche DigComp: è possibile cumularle per raggiungere i 4 punti nelle GPS? Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/certificazioni-informatiche-digcomp-e-possibile-cumularle-per-raggiungere-i-4-punti-nelle-gps-pillole-di-question-time/",
                 "date": "28 Feb 2026",
@@ -128,21 +152,18 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/shutterstock_2604660553.jpg"
             },
             {
-                "category": "Cronaca",
-                "title": "Aggiornamento GPS 2026, i consigli giusti per inoltrare senza errori la domanda. QUESTION TIME con Semeraro. LIVE Sabato 28 febbraio alle 14:30",
-                "link": "https://www.orizzontescuola.it/aggiornamento-gps-2026-i-consigli-giusti-per-inoltrare-senza-errori-la-domanda-question-time-con-semeraro-live-sabato-28-febbraio-alle-1430/",
-                "date": "28 Feb 2026",
-                "time": "8:05",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Template_questiontime_1920x1080-19.png"
-            },
-            {
                 "category": "Scuole",
                 "title": "Rifiuti nelle scuole e il sistema di tracciabilità (RENTRI), 7 guide per approfondire",
                 "link": "https://www.orizzontescuola.it/rifiuti-nelle-scuole-e-il-sistema-di-tracciabilita-rentri-7-guide-per-approfondire/",
                 "date": "28 Feb 2026",
                 "time": "7:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Progetto-senza-titolo.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "ATA",
                 "title": "Stipendio marzo 2026 docenti e ATA: importo visibile su NoiPA",
@@ -158,12 +179,7 @@
                 "date": "27 Feb 2026",
                 "time": "22:23",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Pacifico.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Plus",
                 "title": "I diritti di docenti e ATA di ruolo e precari spiegati bene: aspettative, congedi, permessi, 104, ferie e malattie. Il più venduto su AMAZON",
@@ -262,14 +278,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/chiara_cozzetto.png"
             },
             {
-                "category": "Plus",
-                "title": "GPS 2026 – Ti aiutiamo a non sbagliare. Guida ebook + consulenza di gruppo. Solo 5 posti",
-                "link": "https://www.orizzontescuola.it/gps-2026-ti-aiutiamo-a-non-sbagliare-guida-ebook-consulenza-di-gruppo-11-febbraio-ore-1600-1700-solo-5-posti/",
-                "date": "27 Feb 2026",
-                "time": "9:58",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Ultimi-posti-disponibili.png"
-            },
-            {
                 "category": "Docenti",
                 "title": "Violenza, revenge porn, cyberbullismo: per il 66% dei ragazzi il web è il luogo più a rischio. Colpite soprattutto ragazze e persone non binarie",
                 "link": "https://www.orizzontescuola.it/violenza-revenge-porn-cyberbullismo-per-il-66-dei-ragazzi-il-web-e-il-luogo-piu-a-rischio-colpite-soprattutto-ragazze-e-perosne-non-binarie/",
@@ -292,20 +300,68 @@
                 "date": "27 Feb 2026",
                 "time": "8:40",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2538513237.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Aggiornamento GPS 2026: la mia certificazione informatica è valida per il punteggio? Ecco come controllare",
-                "link": "https://www.orizzontescuola.it/aggiornamento-gps-2026-la-mia-certificazione-informatica-e-valida-per-il-punteggio-ecco-come-controllare/",
-                "date": "27 Feb 2026",
-                "time": "8:34",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Graduatorie-GPS-2026-3.png"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Comunicati stampa",
+                "title": "Comunicato Anief su tutor e orientatori: scadenza formazione oggi e fondi del decreto ministeriale 15/2026",
+                "link": "https://www.orizzontescuola.it/comunicato-anief-su-tutor-e-orientatori-scadenza-formazione-oggi-e-fondi-del-decreto-ministeriale-15-2026/",
+                "date": "28 Feb 2026",
+                "time": "18:35",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Attacco israeliano-americano colpisce una scuola in provincia di Hormozgan: secondo i media iraniani le vittime sono 85",
+                "link": "https://www.orizzontescuola.it/attacco-israeliano-colpisce-una-scuola-in-provincia-di-hormozgan-secondo-i-media-iraniani-le-vittime-sono-51/",
+                "date": "28 Feb 2026",
+                "time": "17:15",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Università o impiego a tre anni dalla maturità? Il 57,8% dei liceali sceglie lo studio, contratti a tempo indeterminato al 40,4% per i professionali",
+                "link": "https://www.orizzontescuola.it/universita-o-impiego-a-tre-anni-dalla-maturita-il-578-dei-liceali-sceglie-lo-studio-contratti-a-tempo-indeterminato-al-404-per-i-professionali/",
+                "date": "28 Feb 2026",
+                "time": "17:00",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Studente filma il proprio aggressore a scuola: denuncia alla procura dei minorenni in provincia di Perugia",
+                "link": "https://www.orizzontescuola.it/studente-filma-il-proprio-aggressore-a-scuola-denuncia-alla-procura-dei-minorenni-in-provincia-di-perugia/",
+                "date": "28 Feb 2026",
+                "time": "16:44",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Palestre scolastiche aperte anche dopo le lezioni: a Napoli nasce il nuovo tavolo interistituzionale per lo sport. Il comunicato",
+                "link": "https://www.orizzontescuola.it/palestre-scolastiche-aperte-anche-dopo-le-lezioni-a-napoli-nasce-il-nuovo-tavolo-interistituzionale-per-lo-sport-il-comunicato/",
+                "date": "28 Feb 2026",
+                "time": "15:28",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Diplomati 2024 un anno dopo: boom di iscrizioni all’università per i liceali, tecnici e professionali guidano l’occupazione",
+                "link": "https://www.orizzontescuola.it/diplomati-2024-un-anno-dopo-boom-di-iscrizioni-alluniversita-per-i-liceali-tecnici-e-professionali-guidano-loccupazione/",
+                "date": "28 Feb 2026",
+                "time": "15:00",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Aggiornamento GPS 2026, i consigli giusti per inoltrare senza errori la domanda. QUESTION TIME con Semeraro",
+                "link": "https://www.orizzontescuola.it/aggiornamento-gps-2026-i-consigli-giusti-per-inoltrare-senza-errori-la-domanda-question-time-con-semeraro-live-sabato-28-febbraio-alle-1430/",
+                "date": "28 Feb 2026",
+                "time": "14:05",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Il primato dell’Italia nell’area OCSE: con il 15,5% della ricchezza destinata alla previdenza spendiamo quasi il doppio della media",
@@ -392,62 +448,6 @@
                 "link": "https://www.orizzontescuola.it/precari-storici-di-religione-il-decreto-milleproroghe-riattiva-le-assunzioni-in-ruolo-il-sindacato-anief-chiede-il-superamento-del-vincolo-del-70/",
                 "date": "27 Feb 2026",
                 "time": "19:45",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Disabilità, bando “Vita & Opportunità” da 386 milioni: coinvolte anche le scuole, domande dal 2 marzo al 29 agosto",
-                "link": "https://www.orizzontescuola.it/disabilita-bando-vita-opportunita-da-386-milioni-coinvolte-anche-le-scuole-domande-dal-2-marzo-al-29-agosto/",
-                "date": "27 Feb 2026",
-                "time": "18:59",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Assegno ordinario di invalidità, integrazione al minimo anche per il sistema contributivo",
-                "link": "https://www.orizzontescuola.it/assegno-ordinario-di-invalidita-integrazione-al-minimo-anche-per-il-sistema-contributivo/",
-                "date": "27 Feb 2026",
-                "time": "17:11",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Caltanissetta, falso allarme rapimento in una scuola: era l’attivazione accidentale di un braccialetto antistalking indossato da una bambina in un altro istituto",
-                "link": "https://www.orizzontescuola.it/caltanissetta-falso-allarme-rapimento-in-una-scuola-era-lattivazione-accidentale-di-un-braccialetto-antistalking-indossato-da-una-bambina-in-un-altro-istituto/",
-                "date": "27 Feb 2026",
-                "time": "16:30",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Meno di 20 alunni per classe: la proposta di Alleanza Verdi Sinistra per rivoluzionare la scuola italiana, raccolte oltre 60mila firme",
-                "link": "https://www.orizzontescuola.it/meno-di-20-alunni-per-classe-la-proposta-di-alleanza-verdi-sinistra-per-rivoluzionare-la-scuola-italiana-raccolte-oltre-60mila-firme/",
-                "date": "27 Feb 2026",
-                "time": "16:17",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Allarme isolamento giovanile: i dati spagnoli e la nuova strategia di Stato 2026-2030 per le scuole",
-                "link": "https://www.orizzontescuola.it/allarme-isolamento-giovanile-i-dati-spagnoli-e-la-nuova-strategia-di-stato-2026-2030-per-le-scuole/",
-                "date": "27 Feb 2026",
-                "time": "15:47",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "PNRR e rendicontazione: Anief chiede proroga e regole chiare per le scuole",
-                "link": "https://www.orizzontescuola.it/pnrr-e-rendicontazione-anief-chiede-proroga-e-regole-chiare-per-le-scuole/",
-                "date": "27 Feb 2026",
-                "time": "15:26",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Iscrizioni 2026/2027 in Trentino: la demografia svuota le scuole primarie, boom per gli istituti scientifici e tecnologici",
-                "link": "https://www.orizzontescuola.it/iscrizioni-2026-2027-in-trentino-la-demografia-svuota-le-scuole-primarie-boom-per-gli-istituti-scientifici-e-tecnologici/",
-                "date": "27 Feb 2026",
-                "time": "14:50",
                 "image_link": "N/A"
             }
         ]
