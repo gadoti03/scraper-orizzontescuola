@@ -32,6 +32,14 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Comunicati stampa",
+                "title": "Precariato, nuova procedura UE nei confronti dello Stato italiano. Pacifico (Anief): la soluzione è il doppio canale di reclutamento",
+                "link": "https://www.orizzontescuola.it/precariato-la-commissione-ue-avvia-una-procedura-di-infrazione-nei-confronti-dello-stato-italiano-disattesa-direttiva-ce-del-1999-che-vieta-discriminazione-verso-il-personale-a-tempo-determinato-an/",
+                "date": "27 Feb 2026",
+                "time": "22:23",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Pacifico.jpg"
+            },
+            {
                 "category": "Plus",
                 "title": "I diritti di docenti e ATA di ruolo e precari spiegati bene: aspettative, congedi, permessi, 104, ferie e malattie. Il più venduto su AMAZON",
                 "link": "https://www.orizzontescuola.it/i-diritti-di-docenti-e-ata-di-ruolo-e-precari-spiegati-bene-cosa-fare-in-caso-di-aspettative-congedi-permessi-104-ferie-e-malattie/",
@@ -143,7 +151,12 @@
                 "date": "27 Feb 2026",
                 "time": "9:58",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Ultimi-posti-disponibili.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Docenti",
                 "title": "Violenza, revenge porn, cyberbullismo: per il 66% dei ragazzi il web è il luogo più a rischio. Colpite soprattutto ragazze e persone non binarie",
@@ -151,12 +164,7 @@
                 "date": "27 Feb 2026",
                 "time": "9:33",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1498591895.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Dirigenti scolastici",
                 "title": "Referendum costituzionale: Dirigenti non possono fare propaganda, ci vuole il contraddittorio. Il Ministro richiama le norme. Un caso a Latina",
@@ -271,14 +279,6 @@
                 "date": "26 Feb 2026",
                 "time": "17:15",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/Parlamento-1.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "GPS 2026: servizio militare, servizio civile alternativo alla leva, servizio civile nazionale e universale. Ministero spiega come si valutano",
-                "link": "https://www.orizzontescuola.it/gps-2026-servizio-militare-servizio-civile-alternativo-alla-leva-servizio-civile-nazionale-e-universale-ministero-spiega-come-si-valutano/",
-                "date": "26 Feb 2026",
-                "time": "16:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2073579611-scaled.jpg"
             }
         ]
     },
@@ -287,18 +287,34 @@
         "articles": [
             {
                 "category": "Cronaca",
-                "title": "Disabilità, bando “Vita & Opportunità” da 386 milioni: coinvolte anche le scuole, domande dal 2 marzo al 29 agosto",
-                "link": "https://www.orizzontescuola.it/disabilita-bando-vita-opportunita-da-386-milioni-coinvolte-anche-le-scuole-domande-dal-2-marzo-al-29-agosto/",
+                "title": "Riforma della disabilità: dal 1° marzo nuovo sistema con certificato medico introduttivo unico in altre 40 province",
+                "link": "https://www.orizzontescuola.it/riforma-della-disabilita-dal-1-marzo-nuovo-sistema-con-certificato-medico-introduttivo-unico-in-altre-40-province/",
                 "date": "27 Feb 2026",
-                "time": "18:59",
+                "time": "20:25",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "RAV scuole dell’infanzia, seminario INVALSI il 3 marzo",
+                "link": "https://www.orizzontescuola.it/rav-scuole-dellinfanzia-seminario-invalsi-il-3-marzo/",
+                "date": "27 Feb 2026",
+                "time": "19:49",
                 "image_link": "N/A"
             },
             {
                 "category": "Comunicati stampa",
-                "title": "Precariato, la Commissione UE avvia una procedura di infrazione nei confronti dello Stato italiano: disattesa Direttiva CE del 1999 che vieta discriminazione verso il personale a tempo determinato. Anief fa partire class action gratuita",
-                "link": "https://www.orizzontescuola.it/precariato-la-commissione-ue-avvia-una-procedura-di-infrazione-nei-confronti-dello-stato-italiano-disattesa-direttiva-ce-del-1999-che-vieta-discriminazione-verso-il-personale-a-tempo-determinato-an/",
+                "title": "Precari storici di religione, il decreto Milleproroghe riattiva le assunzioni in ruolo: il sindacato ANIEF chiede il superamento del vincolo del 70%",
+                "link": "https://www.orizzontescuola.it/precari-storici-di-religione-il-decreto-milleproroghe-riattiva-le-assunzioni-in-ruolo-il-sindacato-anief-chiede-il-superamento-del-vincolo-del-70/",
                 "date": "27 Feb 2026",
-                "time": "18:45",
+                "time": "19:45",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Disabilità, bando “Vita & Opportunità” da 386 milioni: coinvolte anche le scuole, domande dal 2 marzo al 29 agosto",
+                "link": "https://www.orizzontescuola.it/disabilita-bando-vita-opportunita-da-386-milioni-coinvolte-anche-le-scuole-domande-dal-2-marzo-al-29-agosto/",
+                "date": "27 Feb 2026",
+                "time": "18:59",
                 "image_link": "N/A"
             },
             {
@@ -404,22 +420,6 @@
                 "link": "https://www.orizzontescuola.it/gps-2026-accertamento-titoli-professionali-per-la-classe-a061-indicazioni-usr/",
                 "date": "27 Feb 2026",
                 "time": "10:07",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Tensione all’ingresso di una scuola di Paternò: sedicenne nasconde un coltello di sedici centimetri, un altro alunno segnalato per possesso di marijuana",
-                "link": "https://www.orizzontescuola.it/tensione-allingresso-di-una-scuola-di-paterno-sedicenne-nasconde-un-coltello-di-sedici-centimetri-un-altro-alunno-segnalato-per-possesso-di-marijuana/",
-                "date": "27 Feb 2026",
-                "time": "9:03",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "GPS 2026, ecco le FAQ ufficiali del Ministero: cosa cambia. QUESTION TIME con Craparo (Gilda)",
-                "link": "https://www.orizzontescuola.it/gps-2026-ecco-le-faq-ufficiali-del-ministero-cosa-cambia-question-time-con-craparo-gilda-live-venerdi-27-febbraio-alle-1430/",
-                "date": "27 Feb 2026",
-                "time": "8:05",
                 "image_link": "N/A"
             }
         ]
@@ -546,6 +546,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Graduatorie GPS 2026/28: la guida ai titoli di accesso, le tabelle titoli, i servizi. Con esempi. Lalla ti spiegherà tutto. Iscriviti alla newsletter “Diventare Insegnanti”",
+                "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-28-la-guida-ai-titoli-di-accesso-le-tabelle-titoli-i-servizi-con-esempi-lalla-ti-spieghera-tutto-iscriviti-alla-newsletter-diventare-insegnanti/",
+                "date": "26 Feb 2026",
+                "time": "12:12",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Oggi-e-la-giornata-dellInfanzia-3.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "GPS 2026: titolo estero in attesa di riconoscimento. Serve la TRADUZIONE e attestazione della selettività del corso. Chiarimenti Ministero",
                 "link": "https://www.orizzontescuola.it/gps-2026-inserimento-con-titolo-estero-in-attesa-di-riconoscimento-come-si-compila-la-domanda-serve-la-traduzione-novita/",
                 "date": "26 Feb 2026",
@@ -583,14 +591,6 @@
                 "date": "25 Feb 2026",
                 "time": "20:37",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2142010183-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Graduatorie GPS 2026: servizio senza titolo non è aspecifico, non dà punteggio. Ma si può recuperare. La FAQ “storica”",
-                "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-servizio-senza-titolo-non-e-aspecifico-non-da-punteggio-ma-si-puo-recuperare-la-faq-storica/",
-                "date": "25 Feb 2026",
-                "time": "18:26",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/FAQ_servizio_senzatitolo.jpeg"
             }
         ]
     },
