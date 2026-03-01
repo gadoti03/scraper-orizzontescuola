@@ -32,6 +32,38 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Docenti",
+                "title": "Disastri naturali legati al cambiamento climatici: tra simulazioni, esercitazioni, uso di piattaforme interattive, come la scuola affronta l’argomento in Europa",
+                "link": "https://www.orizzontescuola.it/disastri-naturali-legati-al-cambiamento-climatici-tra-simulazioni-esercitazioni-uso-di-piattaforme-interattive-come-la-scuola-affronta-largomento-in-europa/",
+                "date": "1 Mar 2026",
+                "time": "19:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2578557379.jpg"
+            },
+            {
+                "category": "Plus",
+                "title": "I diritti di docenti e ATA di ruolo e precari spiegati bene: aspettative, congedi, permessi, 104, ferie e malattie. Il più venduto su AMAZON",
+                "link": "https://www.orizzontescuola.it/i-diritti-di-docenti-e-ata-di-ruolo-e-precari-spiegati-bene-cosa-fare-in-caso-di-aspettative-congedi-permessi-104-ferie-e-malattie/",
+                "date": "1 Mar 2026",
+                "time": "19:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/libro5-1.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Gli immigrati subiscono una discriminazione nei percorsi scolastici pari al 2% rispetto agli autoctoni. I dati",
+                "link": "https://www.orizzontescuola.it/gli-immigrati-subiscono-una-discriminazione-nei-percorsi-scolastici-pari-al-2-rispetto-agli-autoctoni-i-dati/",
+                "date": "1 Mar 2026",
+                "time": "18:03",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_655465927-scaled.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Accessibilità dei servizi, via libera del Garante alle Linee guida AgID: stop al tracciamento dei dati sulla disabilità",
+                "link": "https://www.orizzontescuola.it/accessibilita-dei-servizi-via-libera-del-garante-alle-linee-guida-agid-stop-al-tracciamento-dei-dati-sulla-disabilita/",
+                "date": "1 Mar 2026",
+                "time": "15:34",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_409299112-scaled.jpg"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Smart working, il Mezzogiorno fermo sotto il 10%, le donne più degli uomini e la generazione 30-49 al vertice. I dati ISTAT",
                 "link": "https://www.orizzontescuola.it/smart-working-il-mezzogiorno-fermo-sotto-il-10-le-donne-piu-degli-uomini-e-la-generazione-30-49-al-vertice-i-dati-istat/",
@@ -119,7 +151,12 @@
                 "date": "28 Feb 2026",
                 "time": "15:03",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Ultimi-posti-disponibili.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "30 CFU: non è possibile inserirli con riserva nella GPS sostegno 2026. Titolo deve essere conseguito entro il 16 marzo",
@@ -151,12 +188,7 @@
                 "date": "28 Feb 2026",
                 "time": "11:31",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2467525223.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "Codice di comportamento e sanzioni del personale ATA: analisi di alcuni casi, con modelli per contestazione pronti all’uso e tabella",
@@ -254,14 +286,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/Pacifico.jpg"
             },
             {
-                "category": "Plus",
-                "title": "I diritti di docenti e ATA di ruolo e precari spiegati bene: aspettative, congedi, permessi, 104, ferie e malattie. Il più venduto su AMAZON",
-                "link": "https://www.orizzontescuola.it/i-diritti-di-docenti-e-ata-di-ruolo-e-precari-spiegati-bene-cosa-fare-in-caso-di-aspettative-congedi-permessi-104-ferie-e-malattie/",
-                "date": "27 Feb 2026",
-                "time": "18:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/libro5-1.png"
-            },
-            {
                 "category": "Diventare Insegnanti",
                 "title": "Specializzazione sostegno Indire/Università per abilitati estero: presentazione rinuncia riconoscimento fino al 12 marzo. AVVISO",
                 "link": "https://www.orizzontescuola.it/specializzazione-sostegno-indire-universita-per-abilitati-estero-presentazione-rinuncia-riconoscimento-fino-al-12-marzo-avviso/",
@@ -276,29 +300,69 @@
                 "date": "27 Feb 2026",
                 "time": "16:39",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_675123196.jpg"
-            },
-            {
-                "category": "Stipendio",
-                "title": "App NoiPA: nuova sezione per consultare RAL, competenze e trattenute",
-                "link": "https://www.orizzontescuola.it/app-noipa-nuova-sezione-per-consultare-ral-competenze-e-trattenute/",
-                "date": "27 Feb 2026",
-                "time": "16:18",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/03/NOIPA.jpg"
-            },
-            null,
-            {
-                "category": "Politica scolastica",
-                "title": "Classi prime a rischio, Pacifico lancia l’allarme: “In gioco non c’è solo l’organico, ma la sopravvivenza delle comunità delle aree interne”",
-                "link": "https://www.orizzontescuola.it/classi-prime-a-rischio-pacifico-lancia-lallarme-in-gioco-non-ce-solo-lorganico-ma-la-sopravvivenza-delle-comunita-delle-aree-interne/",
-                "date": "27 Feb 2026",
-                "time": "14:16",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/Mrcello-Pacifico-4.png"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Comunicati stampa",
+                "title": "Sostegno, corsi specializzazione secondo ciclo Indire: autorizzati 22.200 posti. Pacifico (Anief) denuncia: “Bene, ma sono un terzo del necessario. Chiediamo subito un aumento”",
+                "link": "https://www.orizzontescuola.it/sostegno-corsi-specializzazione-secondo-ciclo-indire-autorizzati-22-200-posti-pacifico-anief-denuncia-bene-ma-sono-un-terzo-del-necessario-chiediamo-subito-un-aumento/",
+                "date": "1 Mar 2026",
+                "time": "19:15",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "All’Ucraina oltre 208 milioni da Erasmus+ in quattro anni tra mobilità, libri e cooperazione",
+                "link": "https://www.orizzontescuola.it/allucraina-oltre-208-milioni-da-erasmus-in-quattro-anni-tra-mobilita-libri-e-cooperazione/",
+                "date": "1 Mar 2026",
+                "time": "18:23",
+                "image_link": "N/A"
+            },
+            null,
+            {
+                "category": "Comunicati stampa",
+                "title": "Scuola, studenti italiani a Dubai. MIM in costante contatto con il MAECI, l’Ambasciata d’Italia negli Emirati Arabi Uniti e il Consolato Generale",
+                "link": "https://www.orizzontescuola.it/scuola-studenti-italiani-a-dubai-mim-in-costante-contatto-con-il-maeci-lambasciata-ditalia-negli-emirati-arabi-uniti-e-il-consolato-generale/",
+                "date": "1 Mar 2026",
+                "time": "18:00",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Scuole nel mirino: oltre 100 bambini morti in Iran, Save the Children chiede protezione immediata per i minori e stop agli attacchi alle infrastrutture civili",
+                "link": "https://www.orizzontescuola.it/scuole-nel-mirino-oltre-100-bambini-morti-in-iran-save-the-children-chiede-protezione-immediata-per-i-minori-e-stop-agli-attacchi-alle-infrastrutture-civili/",
+                "date": "1 Mar 2026",
+                "time": "17:58",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Salvini: “Non mettere i crocifissi nelle scuole significa negare la nostra cultura”",
+                "link": "https://www.orizzontescuola.it/salvini-non-mettere-i-crocifissi-nelle-scuole-significa-negare-la-nostra-cultura/",
+                "date": "1 Mar 2026",
+                "time": "17:36",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "UIL Scuola chiede tutela per i 204 studenti italiani bloccati a Dubai: D’Aprile sollecita un coordinamento istituzionale immediato per garantire rientro sicuro dopo la chiusura dello spazio aereo nel Golfo",
+                "link": "https://www.orizzontescuola.it/uil-scuola-chiede-tutela-per-i-204-studenti-italiani-bloccati-a-dubai-daprile-sollecita-un-coordinamento-istituzionale-immediato-per-garantire-rientro-sicuro-dopo-la-chiusura-dello-spazio-aereo-nel/",
+                "date": "1 Mar 2026",
+                "time": "17:26",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Docenti",
+                "title": "Nontiscordardimé – La scuola si fa bella: il 27 e 28 marzo torna la giornata di volontariato ambientale",
+                "link": "https://www.orizzontescuola.it/nontiscordardime-la-scuola-si-fa-bella-il-27-e-28-marzo-torna-la-giornata-di-volontariato-ambientale/",
+                "date": "1 Mar 2026",
+                "time": "17:12",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Scuola e integrazione, l’istruzione batte il pregiudizio: solo il 4,3% degli stranieri avverte ostilità tra i banchi secondo i nuovi dati Eurostat",
@@ -377,70 +441,6 @@
                 "link": "https://www.orizzontescuola.it/aggiornamento-gps-2026-i-consigli-giusti-per-inoltrare-senza-errori-la-domanda-question-time-con-semeraro-live-sabato-28-febbraio-alle-1430/",
                 "date": "28 Feb 2026",
                 "time": "14:05",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Il primato dell’Italia nell’area OCSE: con il 15,5% della ricchezza destinata alla previdenza spendiamo quasi il doppio della media",
-                "link": "https://www.orizzontescuola.it/il-primato-dellitalia-nellarea-ocse-con-il-155-della-ricchezza-destinata-alla-previdenza-spendiamo-quasi-il-doppio-della-media/",
-                "date": "28 Feb 2026",
-                "time": "13:00",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Prevenzione e sicurezza: l’Italia si affida alle Linee Guida di Educazione Civica, resta un vuoto nell’infanzia",
-                "link": "https://www.orizzontescuola.it/prevenzione-e-sicurezza-litalia-si-affida-alle-linee-guida-di-educazione-civica-resta-un-vuoto-nellinfanzia/",
-                "date": "28 Feb 2026",
-                "time": "11:40",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Disturbi alimentari, 100mila euro alle scuole siciliane: la guida pratica per richiedere i fondi",
-                "link": "https://www.orizzontescuola.it/disturbi-alimentari-100mila-euro-alle-scuole-siciliane-la-guida-pratica-per-richiedere-i-fondi/",
-                "date": "28 Feb 2026",
-                "time": "11:30",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Il Ministero della Cultura lancia l’app Musei Italiani: Achille Lauro e gli atleti uniti per la campagna Felicità",
-                "link": "https://www.orizzontescuola.it/il-ministero-della-cultura-lancia-lapp-musei-italiani-achille-lauro-e-gli-atleti-uniti-per-la-campagna-felicita/",
-                "date": "28 Feb 2026",
-                "time": "11:04",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Schettini a Sanremo: “Parlate con i vostri figli. Siete il loro campo magnetico”",
-                "link": "https://www.orizzontescuola.it/schettini-a-sanremo-parlate-con-i-vostri-figli-siete-il-loro-campo-magnetico/",
-                "date": "28 Feb 2026",
-                "time": "10:26",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Insegnare le emergenze a scuola: programmi aggiornati nel 75% dei Paesi europei, eppure manca la formazione per i docenti. Dati Eurydice",
-                "link": "https://www.orizzontescuola.it/insegnare-le-emergenze-a-scuola-programmi-aggiornati-nel-75-dei-paesi-europei-eppure-manca-la-formazione-per-i-docenti-dati-eurydice/",
-                "date": "28 Feb 2026",
-                "time": "10:25",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Studentessa di 11 anni cade dalla finestra del bagno a Milano: miracolosamente salva dopo un volo di dieci metri",
-                "link": "https://www.orizzontescuola.it/studentessa-di-11-anni-cade-dalla-finestra-del-bagno-a-milano-miracolosamente-salva-dopo-un-volo-di-dieci-metri/",
-                "date": "28 Feb 2026",
-                "time": "9:53",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Scuola e stranieri: solo il 48,7% delle prime generazioni eccellenti va al liceo contro il 60,7% degli italiani",
-                "link": "https://www.orizzontescuola.it/scuola-e-stranieri-solo-il-487-delle-prime-generazioni-eccellenti-va-al-liceo-contro-il-607-degli-italiani/",
-                "date": "28 Feb 2026",
-                "time": "8:15",
                 "image_link": "N/A"
             }
         ]
@@ -567,6 +567,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Graduatorie GPS 2026: per l’accesso alla classe di concorso valgono anche i CFU conseguiti con un master ancora non concluso. Ecco la FAQ",
+                "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-per-laccesso-alla-classe-di-concorso-valgono-anche-i-cfu-conseguiti-con-un-master-ancora-non-concluso-attesa-la-faq/",
+                "date": "26 Feb 2026",
+                "time": "15:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_1745285486.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Graduatorie GPS 2026: per la riserva legge 68/99 serve lo stato di disoccupazione. FAQ MIM",
                 "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-per-la-riserva-legge-68-99-serve-lo-stato-di-disoccupazione-faq-mim/",
                 "date": "26 Feb 2026",
@@ -604,14 +612,6 @@
                 "date": "26 Feb 2026",
                 "time": "12:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Cannas-2.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "GPS 2026, supplenze brevi non consecutive: modalità di inserimento nella domanda. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/gps-2026-supplenze-brevi-non-consecutive-modalita-di-inserimento-nella-domanda-pillole-di-question-time/",
-                "date": "26 Feb 2026",
-                "time": "12:28",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2554071589.jpg"
             }
         ]
     },
