@@ -23,6 +23,16 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
+            null,
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Aggiornamento GPS 2026, tutte le novità spiegate: così si compila la domanda. QUESTION TIME con Varengo (Cisl Scuola) LIVE Martedì 3 marzo alle 14:30",
+                "link": "https://www.orizzontescuola.it/aggiornamento-gps-2026-tutte-le-novita-spiegate-cosi-si-compila-la-domanda-question-time-con-varengo-cisl-scuola-live-martedi-3-marzo-alle-1430/",
+                "date": "3 Mar 2026",
+                "time": "6:58",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Template_questiontime_1920x1080-1.png"
+            },
             {
                 "category": "Didattica",
                 "title": "Immaginare un mondo migliore è possibile: l’inno senza tempo di John Lennon. Insegnare con le canzoni",
@@ -62,14 +72,6 @@
                 "date": "2 Mar 2026",
                 "time": "17:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2456756593.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Aggiornamento GPS 2026, tutte le novità spiegate: così si compila la domanda. QUESTION TIME con Varengo (Cisl Scuola) LIVE Martedì 3 marzo alle 14:30",
-                "link": "https://www.orizzontescuola.it/aggiornamento-gps-2026-tutte-le-novita-spiegate-cosi-si-compila-la-domanda-question-time-con-varengo-cisl-scuola-live-martedi-3-marzo-alle-1430/",
-                "date": "2 Mar 2026",
-                "time": "16:58",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Template_questiontime_1920x1080-1.png"
             },
             {
                 "category": "Cronaca",
@@ -127,7 +129,12 @@
                 "date": "2 Mar 2026",
                 "time": "14:15",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/E-policy-tecnologie-digitali-a-scuola.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Stage con voto massimo, ma bocciata lo stesso: il TAR spiega perché il PCTO non salva chi ha lacune gravi in una materia di indirizzo",
@@ -143,12 +150,7 @@
                 "date": "2 Mar 2026",
                 "time": "13:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/Pensioni-Agosto-24.webp"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Scelta delle sedi per le graduatorie di istituto: entro il 16 marzo. Differenze rispetto alle 150 preferenze estive. Pillole di Question Time",
@@ -276,22 +278,6 @@
                 "date": "2 Mar 2026",
                 "time": "8:26",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Decreto-sicurezza-2.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Precario, ho fatto ricorso per avere la Carta docente, ma i tempi si allungano: quando scatta la prescrizione?",
-                "link": "https://www.orizzontescuola.it/precario-ho-fatto-ricorso-per-avere-la-carta-docente-ma-i-tempi-si-allungano-quando-scatta-la-prescrizione/",
-                "date": "2 Mar 2026",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/Carta-del-docente-2.jpg"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "PN 21/27: delegazione di pagamento, allegato E e obblighi del Dirigente scolastico",
-                "link": "https://www.orizzontescuola.it/pn-21-27-delegazione-di-pagamento-allegato-e-e-obblighi-del-dirigente-scolastico/",
-                "date": "2 Mar 2026",
-                "time": "7:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_2243839179.jpg"
             }
         ]
     },
