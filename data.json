@@ -3,26 +3,28 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
-                "category": "Stipendio",
-                "title": "Stipendio docenti e ATA, Una tantum assente nel cedolino di febbraio? Quali passi seguire. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/stipendio-docenti-e-ata-una-tantum-assente-nel-cedolino-di-febbraio-quali-passi-seguire-pillole-di-question-time/",
-                "date": "3 Mar 2026",
-                "time": "11:51",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/01/shutterstock_1715497669.jpg"
+                "category": "Docenti",
+                "title": "Carta docente 2025/26, al via il decreto. “Quasi” 400 euro ciascuno + fondi alle scuole. Oggi alle 15 riunione al Ministero",
+                "link": "https://www.orizzontescuola.it/carta-docente-2025-26-al-via-il-decreto-quasi-400-euro-ciascuno-fondi-alle-scuole-oggi-alle-15-riunione-al-ministero/",
+                "date": "4 Mar 2026",
+                "time": "7:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2530339755.jpg"
             },
             {
                 "category": "Diventare Insegnanti",
-                "title": "Secondo ciclo sostegno Indire/Università: chi partecipa, rinuncia al contenzioso, offerta formativa entro il 5 marzo [LO SPECIALE]",
-                "link": "https://www.orizzontescuola.it/secondo-ciclo-sostegno-indire-chi-partecipa-quando-partono-i-corsi-il-titolo-ottenuto-lo-speciale/",
-                "date": "2 Mar 2026",
-                "time": "10:34",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/indire_secondociclo.jpeg"
+                "title": "Graduatorie GPS 2026/28: Ordinanza, tabelle titoli. Come si compila la domanda [LO SPECIALE]",
+                "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-28-requisiti-di-accesso-riserva-titoli-e-servizi-nuovo-algoritmo-lo-speciale/",
+                "date": "4 Mar 2026",
+                "time": "6:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Posizioni-2-1.png"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
+            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "GPS 2026: specializzazione sostegno estero, sostituita da TFA conseguito in Italia, può essere dichiarato come ulteriore titolo?",
@@ -127,7 +129,12 @@
                 "time": "14:39",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Ultimi-posti-disponibili.png"
             },
-            null,
+            null
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso PNRR3 docenti secondaria, proseguono le prove pratiche e orali [AGGIORNATO]",
@@ -143,12 +150,7 @@
                 "date": "3 Mar 2026",
                 "time": "12:55",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/shutterstock_355731551-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Servizio svolto alla primaria senza titolo: sì stipendio e contributi, no punteggio nella maggior parte dei casi. Pillole di Question Time",
@@ -164,6 +166,14 @@
                 "date": "3 Mar 2026",
                 "time": "11:57",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_1765553789.jpg"
+            },
+            {
+                "category": "Stipendio",
+                "title": "Stipendio docenti e ATA, Una tantum assente nel cedolino di febbraio? Quali passi seguire. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/stipendio-docenti-e-ata-una-tantum-assente-nel-cedolino-di-febbraio-quali-passi-seguire-pillole-di-question-time/",
+                "date": "3 Mar 2026",
+                "time": "11:51",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/01/shutterstock_1715497669.jpg"
             },
             {
                 "category": "Diventare Insegnanti",
@@ -261,22 +271,20 @@
                 "time": "7:53",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_1946474998.jpg"
             },
-            null,
-            null,
-            null,
-            {
-                "category": "Didattica",
-                "title": "Immaginare un mondo migliore è possibile: l’inno senza tempo di John Lennon. Insegnare con le canzoni",
-                "link": "https://www.orizzontescuola.it/immaginare-un-mondo-migliore-e-possibile-linno-senza-tempo-di-john-lennon-insegnare-con-le-canzoni/",
-                "date": "2 Mar 2026",
-                "time": "18:49",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/04/lennon-1200x675.jpg"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Forte scossa di terremoto nel Catanese: magnitudo tra 4.1 e 4.6. Ad Aci Sant’Antonio scuole chiuse per precauzione",
+                "link": "https://www.orizzontescuola.it/forte-scossa-di-terremoto-nel-catanese-magnitudo-tra-4-1-e-4-6-ad-aci-santantonio-scuole-chiuse-per-precauzione/",
+                "date": "4 Mar 2026",
+                "time": "7:27",
+                "image_link": "N/A"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR3: ecco le convocazioni per la prova suppletiva",
@@ -412,14 +420,6 @@
                 "date": "3 Mar 2026",
                 "time": "15:54",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Università 2026/2027, ISEE a 28.339,88 euro e ISPE a 61.608,48 euro: tutti i dettagli del decreto direttoriale sui nuovi limiti per gli studenti",
-                "link": "https://www.orizzontescuola.it/universita-2026-2027-isee-a-28-33988-euro-e-ispe-a-61-60848-euro-tutti-i-dettagli-del-decreto-direttoriale-sui-nuovi-limiti-per-gli-studenti/",
-                "date": "3 Mar 2026",
-                "time": "15:36",
-                "image_link": "N/A"
             }
         ]
     },
@@ -545,6 +545,22 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Secondo ciclo sostegno Indire/Università: chi partecipa, rinuncia al contenzioso, offerta formativa entro il 5 marzo [LO SPECIALE]",
+                "link": "https://www.orizzontescuola.it/secondo-ciclo-sostegno-indire-chi-partecipa-quando-partono-i-corsi-il-titolo-ottenuto-lo-speciale/",
+                "date": "2 Mar 2026",
+                "time": "10:34",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/indire_secondociclo.jpeg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Assistenti di lingua italiana all’estero 2026/27: domande entro il 5 marzo",
+                "link": "https://www.orizzontescuola.it/assistenti-di-lingua-italiana-allestero-2026-27-domande-entro-il-5-marzo/",
+                "date": "2 Mar 2026",
+                "time": "9:14",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1785502850-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Precario, ho fatto ricorso per avere la Carta docente, ma i tempi si allungano: quando scatta la prescrizione?",
                 "link": "https://www.orizzontescuola.it/precario-ho-fatto-ricorso-per-avere-la-carta-docente-ma-i-tempi-si-allungano-quando-scatta-la-prescrizione/",
                 "date": "2 Mar 2026",
@@ -574,22 +590,6 @@
                 "date": "28 Feb 2026",
                 "time": "18:18",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/shutterstock_2242410029.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "30 CFU: non è possibile inserirli con riserva nella GPS sostegno 2026. Titolo deve essere conseguito entro il 16 marzo",
-                "link": "https://www.orizzontescuola.it/30-cfu-non-e-possibile-inserirli-con-riserva-nella-gps-sostegno-2026-titolo-deve-essere-conseguito-entro-il-16-marzo/",
-                "date": "28 Feb 2026",
-                "time": "14:57",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2498781455.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Certificazioni informatiche DigComp: è possibile cumularle per raggiungere i 4 punti nelle GPS? Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/certificazioni-informatiche-digcomp-e-possibile-cumularle-per-raggiungere-i-4-punti-nelle-gps-pillole-di-question-time/",
-                "date": "28 Feb 2026",
-                "time": "12:49",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_2121271415.jpg"
             }
         ]
     },
