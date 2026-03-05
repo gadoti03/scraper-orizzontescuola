@@ -23,6 +23,8 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
+            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "Graduatorie GPS 2026: sostituisco l’abilitazione in TAB3. Ecco come far comparire il nuovo titolo anche nella GPS sostegno. FAQ n. 84",
@@ -127,7 +129,12 @@
                 "date": "4 Mar 2026",
                 "time": "14:18",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_640972579.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso PNRR3 docenti secondaria, proseguono le prove pratiche e orali [AGGIORNATO]",
@@ -143,12 +150,7 @@
                 "date": "4 Mar 2026",
                 "time": "12:40",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_594891590.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Docenti",
                 "title": "Matematica alla Primaria: in Italia 420 ore, in Lussemburgo 1000. La media europea è di 645 ore",
@@ -276,16 +278,7 @@
                 "date": "4 Mar 2026",
                 "time": "8:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1171395619.jpg"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "Linee guida interne per la gestione educativa e graduale delle violazioni disciplinari: in allegato una bozza",
-                "link": "https://www.orizzontescuola.it/linee-guida-interne-per-la-gestione-educativa-e-graduale-delle-violazioni-disciplinari-in-allegato-una-bozza/",
-                "date": "4 Mar 2026",
-                "time": "7:56",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2363002825.jpg"
-            },
-            null
+            }
         ]
     },
     "group_4": {
@@ -597,14 +590,6 @@
         "title": "Notizie ATA",
         "articles": [
             {
-                "category": "ATA",
-                "title": "Posizioni economiche ATA, test finali conclusi: punteggio nell’area riservata e tra qualche giorno visualizzazione prova",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-test-finali-conclusi-ecco-come-visualizzare-la-prova/",
-                "date": "2 Mar 2026",
-                "time": "17:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2456756593.jpg"
-            },
-            {
                 "category": "Gestire la scuola",
                 "title": "Cittadinanza attiva e solidale nelle scuole: in allegato un modello pronto all’uso",
                 "link": "https://www.orizzontescuola.it/cittadinanza-attiva-e-solidale-nelle-scuole-in-allegato-un-modello-pronto-alluso/",
@@ -643,6 +628,14 @@
                 "date": "24 Feb 2026",
                 "time": "7:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2384785201.jpg"
+            },
+            {
+                "category": "Gestire la scuola",
+                "title": "Guida operativa all’inserimento del PEI in formato digitale nel SIDI: dalla progettazione educativa alla gestione digitale del Piano Educativo Individualizzato",
+                "link": "https://www.orizzontescuola.it/guida-operativa-allinserimento-del-pei-in-formato-digitale-nel-sidi-dalla-progettazione-educativa-alla-gestione-digitale-del-piano-educativo-individualizzato/",
+                "date": "24 Feb 2026",
+                "time": "1:08",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2487342921-scaled.jpg"
             }
         ]
     },
