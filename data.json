@@ -24,6 +24,14 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "Aggiornamento GPS 206, tabelle titoli, preferenze e scelta sedi: le ultime novità. QUESTION TIME con Craparo (Gilda) LIVE Venerdì 6 marzo alle 14:30",
+                "link": "https://www.orizzontescuola.it/aggiornamento-gps-206-tabelle-titoli-preferenze-e-scelta-sedi-le-ultime-novita-question-time-con-craparo-gilda-live-venerdi-6-marzo-alle-1430/",
+                "date": "5 Mar 2026",
+                "time": "21:27",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Template_questiontime_1920x1080-5.png"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "GPS 2024: servizio su posto didattica differenziata “Montessori” alla scuola primaria come si inserisce? FAQ n. 87",
                 "link": "https://www.orizzontescuola.it/gps-2024-servizio-su-posto-didattica-differenziata-montessori-alla-scuola-primaria-come-si-inserisce-faq-n-87/",
@@ -135,7 +143,12 @@
                 "date": "5 Mar 2026",
                 "time": "13:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_347981330.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Gestire la scuola",
                 "title": "Potenziamento delle visite fiscali INPS 2026: perché è necessaria una circolare interna. Ecco il modello",
@@ -143,12 +156,7 @@
                 "date": "5 Mar 2026",
                 "time": "11:59",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1812871486.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Gestire la scuola",
                 "title": "PN 21/27: delegazione di pagamento, allegato E e obblighi del Dirigente scolastico",
@@ -284,20 +292,21 @@
                 "date": "5 Mar 2026",
                 "time": "8:51",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/Marcello-Pacifico-6.png"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Visita didattica in un aeroporto militare per un progetto di orientamento, è polemica",
-                "link": "https://www.orizzontescuola.it/visita-didattica-in-un-aeroporto-militare-per-un-progetto-di-orientamento-e-polemica/",
-                "date": "5 Mar 2026",
-                "time": "8:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2470847765.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            null,
+            {
+                "category": "Cronaca",
+                "title": "Processionaria del pino a Brindisi, alunni evacuati e una bimba finisce al pronto soccorso: i nidi rimasti a terra dopo la disinfestazione scatenano le reazioni cutanee",
+                "link": "https://www.orizzontescuola.it/processionaria-del-pino-a-brindisi-alunni-evacuati-e-una-bimba-finisce-al-pronto-soccorso-i-nidi-rimasti-a-terra-dopo-la-disinfestazione-scatenano-le-reazioni-cutanee/",
+                "date": "5 Mar 2026",
+                "time": "21:48",
+                "image_link": "N/A"
+            },
             null,
             {
                 "category": "Cronaca",
@@ -417,22 +426,6 @@
                 "link": "https://www.orizzontescuola.it/sanzione-disciplinare-allontanamento-dalle-lezioni-ecco-le-strutture-disposte-ad-accogliere-gli-studenti-elenco-per-regione/",
                 "date": "5 Mar 2026",
                 "time": "11:37",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Assistenti di lingua straniera 2026/27: avvisi USR per le richieste da parte delle scuole [IN AGGIORNAMENTO]",
-                "link": "https://www.orizzontescuola.it/assistenti-di-lingua-straniera-2026-27-avvisi-usr-per-le-richieste-da-parte-delle-scuole-in-aggiornamento/",
-                "date": "5 Mar 2026",
-                "time": "11:36",
-                "image_link": "N/A"
-            },
-            {
-                "category": "DSGA",
-                "title": "Anief richiede il rinvio per il Conto Consuntivo 2025: le segreterie scolastiche sono al limite della sostenibilità operativa",
-                "link": "https://www.orizzontescuola.it/anief-richiede-il-rinvio-per-il-conto-consuntivo-2025-le-segreterie-scolastiche-sono-al-limite-della-sostenibilita-operativa/",
-                "date": "5 Mar 2026",
-                "time": "11:04",
                 "image_link": "N/A"
             }
         ]
