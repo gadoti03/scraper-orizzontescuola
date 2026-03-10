@@ -25,6 +25,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Secondo ciclo Indire/Università, alcuni docenti non potranno partecipare pur avendo tre anni di servizio sostegno",
+                "link": "https://www.orizzontescuola.it/secondo-ciclo-indire-universita-alcuni-docenti-non-potranno-partecipare-pur-avendo-tre-anni-di-servizio-sostegno/",
+                "date": "9 Mar 2026",
+                "time": "21:35",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2471109109-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "GPS 2026, chi cambia provincia non perde le certificazioni linguistiche e informatiche già dichiarate",
                 "link": "https://www.orizzontescuola.it/gps-2026-chi-cambia-provincia-non-perde-le-certificazioni-linguistiche-e-informatiche-gia-dichiarate/",
                 "date": "9 Mar 2026",
@@ -142,7 +150,12 @@
                 "date": "9 Mar 2026",
                 "time": "11:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/02/shutterstock_714371032.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Gestire la scuola",
                 "title": "Approfondimento sulle convenzioni con enti esterni per le PCTO, con 2 modelli documentali: convenzione utilizzabile, scheda di autovalutazione finale",
@@ -150,12 +163,7 @@
                 "date": "9 Mar 2026",
                 "time": "11:04",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_659728093.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Disinformazione online, avviata commissione Parlamentare. La scuola sia la prima difesa: programmi educativi, culturali e formativi. Il documento",
@@ -277,20 +285,22 @@
                 "date": "8 Mar 2026",
                 "time": "12:19",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/shutterstock_64286479-1.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Scuola primaria 2026/2027: il tempo pieno supera il 52%. Nel Lazio 72,5%, in Sicilia 22,2%. I dati",
-                "link": "https://www.orizzontescuola.it/scuola-primaria-2026-2027-il-tempo-pieno-supera-il-52-nel-lazio-725-in-sicilia-222-i-dati/",
-                "date": "8 Mar 2026",
-                "time": "11:31",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_2485739321.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            null,
+            {
+                "category": "Docenti",
+                "title": "Programmi scolastici obsoleti? Il 22% degli insegnanti ritiene inutile l’informatica, mentre la gestione dello stress diventa la priorità per il 40%. Lo studio",
+                "link": "https://www.orizzontescuola.it/programmi-scolastici-obsoleti-il-22-degli-insegnanti-ritiene-inutile-linformatica-mentre-la-gestione-dello-stress-diventa-la-priorita-per-il-40-lo-studio/",
+                "date": "9 Mar 2026",
+                "time": "19:57",
+                "image_link": "N/A"
+            },
+            null,
             {
                 "category": "Docenti",
                 "title": "Sicurezza stradale, concorso per le scuole superiori “Un reel per la vita”: elaborati entro il 29 maggio",
@@ -409,30 +419,6 @@
                 "link": "https://www.orizzontescuola.it/nuovi-giochi-della-gioventu-2025-2026-disponibili-le-schede-tecniche-delle-discipline-sportive-nota/",
                 "date": "9 Mar 2026",
                 "time": "10:27",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Danni al liceo Righi di Roma: aule distrutte con gli estintori nella notte, presidi in allarme per le continue intrusioni",
-                "link": "https://www.orizzontescuola.it/danni-al-liceo-righi-di-roma-aule-distrutte-con-gli-estintori-nella-notte-presidi-in-allarme-per-le-continue-intrusioni/",
-                "date": "9 Mar 2026",
-                "time": "10:14",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Incendio in capannone dismesso, chiusa in via precauzionale una scuola a Catania",
-                "link": "https://www.orizzontescuola.it/incendio-in-capannone-dismesso-chiusa-in-via-precauzionale-una-scuola-a-catania/",
-                "date": "9 Mar 2026",
-                "time": "10:09",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Aggiornamento GPS 2026, conto alla rovescia per la chiusura delle operazioni: ecco a cosa fare attenzione. QUESTION TIME con Cannas",
-                "link": "https://www.orizzontescuola.it/aggiornamento-gps-2026-conto-alla-rovescia-per-la-chiusura-delle-operazioni-ecco-a-cosa-fare-attenzione-question-time-con-cannas-live-lunedi-9-marzo-alle-1430/",
-                "date": "9 Mar 2026",
-                "time": "9:59",
                 "image_link": "N/A"
             }
         ]
