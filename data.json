@@ -23,6 +23,8 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
+            null,
             {
                 "category": "Docenti",
                 "title": "Acquisto hardware e software, si può spendere tutta la somma ma solo nel primo anno di erogazione. Poi blocco quattro anni",
@@ -134,7 +136,12 @@
                 "date": "10 Mar 2026",
                 "time": "16:55",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_379258114.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Come sviluppare il pensiero critico a scuola: online un approfondimento per i docenti neoassunti 2025/26",
@@ -150,12 +157,7 @@
                 "date": "10 Mar 2026",
                 "time": "16:14",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_713551030.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Morti e infortuni sul lavoro 2026, decessi in calo del 43,3% con 34 vittime totali: Liguria e Sicilia in zona rossa, otto regioni tra cui Sardegna e Calabria a rischio zero",
@@ -276,22 +278,6 @@
                 "date": "10 Mar 2026",
                 "time": "10:58",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/tfa-sostegno-IX-ciclo.png"
-            },
-            {
-                "category": "Docenti",
-                "title": "Carta del docente, ecco come è cambiata la misura: cosa si potrà fare e cosa no. Il punto di Walter Miceli",
-                "link": "https://www.orizzontescuola.it/carta-del-docente-ecco-come-e-cambiata-la-misura-cosa-si-potra-fare-e-cosa-no-il-punto-di-walter-miceli-anief/",
-                "date": "10 Mar 2026",
-                "time": "10:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/walter_miceli_img.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Certificazione CLIL 2024 non valida e inserimento nuovo titolo nelle GPS 2026. Importanti indicazioni dagli Uffici Scolastici",
-                "link": "https://www.orizzontescuola.it/certificazione-clil-2024-non-valida-e-inserimento-nuovo-titolo-nelle-gps-2026-importanti-indicazioni-dagli-uffici-scolastici/",
-                "date": "10 Mar 2026",
-                "time": "10:31",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2501727439-1.jpg"
             }
         ]
     },
@@ -545,6 +531,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Aggiornamento GPS 2026 e titoli informatici; “certificazioni informatiche conseguite tra il 2024 e il febbraio 2026 sono riconosciute o no?”",
+                "link": "https://www.orizzontescuola.it/aggiornamento-gps-2026-e-titoli-informatici-certificazioni-informatiche-conseguite-tra-il-2024-e-il-febbraio-2026-sono-riconosciute-o-no/",
+                "date": "9 Mar 2026",
+                "time": "11:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/shutterstock_2242410029.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Aggiornamento GPS 206, certificazioni informatiche già dichiarate “non si vedono” ma saranno recuperate dagli Uffici Scolastici. RISPOSTE AI QUESITI",
                 "link": "https://www.orizzontescuola.it/aggiornamento-gps-206-certificazioni-informatiche-gia-dichiarate-non-si-vedono-ma-saranno-recuperate-dagli-uffici-scolastici-risposte-ai-quesiti/",
                 "date": "9 Mar 2026",
@@ -582,14 +576,6 @@
                 "date": "8 Mar 2026",
                 "time": "9:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_1158978574.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Domanda GPS 2026: inserire data del 16 marzo non fa perdere l’annualità utile per il concorso o la ricostruzione di carriera",
-                "link": "https://www.orizzontescuola.it/domanda-gps-2026-inserire-data-del-16-marzo-non-fa-perdere-lannualita-utile-per-il-concorso-o-la-ricostruzione-di-carriera/",
-                "date": "7 Mar 2026",
-                "time": "17:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_1708378216.jpg"
             }
         ]
     },
