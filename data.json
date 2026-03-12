@@ -23,6 +23,16 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
+            null,
+            {
+                "category": "Docenti",
+                "title": "Carta docente 2025/26 accreditata, in cosa si può spendere, i vincoli [LO SPECIALE]",
+                "link": "https://www.orizzontescuola.it/carta-docente-2025-26-chi-la-ricevera-in-cosa-si-potra-spendere-i-vincoli-lo-speciale/",
+                "date": "12 Mar 2026",
+                "time": "7:19",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Carta_docente_383_OrizzonteScuola.png"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Mobilità docenti e ATA, le deroghe fanno discutere. La Gilda non firma il CCNI. QUESTION TIME con Craparo (Gilda). LIVE Giovedì 12 marzo alle 14:30",
@@ -126,7 +136,12 @@
                 "date": "11 Mar 2026",
                 "time": "16:13",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2554071589.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Politica scolastica",
                 "title": "Contratto scuola 2025-2027, Cavallini (Anief): “Vogliamo firmare tre contratti in tre anni per recuperare l’inflazione”. INTERVISTA",
@@ -150,12 +165,7 @@
                 "date": "11 Mar 2026",
                 "time": "15:47",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_280320314.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             null,
             {
                 "category": "Genitori",
@@ -261,30 +271,6 @@
                 "date": "11 Mar 2026",
                 "time": "11:13",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_675123196.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti 60, 36, 30 CFU: in alcune Università ancora possibile iscriversi per il 2025/26",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-60-36-30-cfu-ecco-le-nuove-pagine-delle-universita-per-lanno-accademico-2025-26/",
-                "date": "11 Mar 2026",
-                "time": "11:03",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/shutterstock_1550431046.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Mobilità docenti e stop ad avvicinamento a over 65, possibile ristabilire la deroga per assegnazioni provvisorie. Ecco perché è stata eliminata e l’emendamento che cerca di riattivarla",
-                "link": "https://www.orizzontescuola.it/mobilita-docenti-e-stop-ad-avvicinamento-a-over-65-possibile-ristabilire-la-deroga-per-assegnazioni-provvisorie-ecco-perche-e-stata-eliminata-e-lemendamento-che-cerca-di-riattivarla/",
-                "date": "11 Mar 2026",
-                "time": "11:02",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2480765345.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR3: prova suppletiva. Ammessi anche alcuni candidati del TFA X ciclo. Le indicazioni",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-ecco-le-convocazioni-per-la-prova-suppletiva/",
-                "date": "11 Mar 2026",
-                "time": "10:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1936676008-scaled.jpg"
             }
         ]
     },
@@ -552,6 +538,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Graduatorie GPS 2026/28: Ordinanza, tabelle titoli. Come si compila la domanda [LO SPECIALE]",
+                "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-28-requisiti-di-accesso-riserva-titoli-e-servizi-nuovo-algoritmo-lo-speciale/",
+                "date": "10 Mar 2026",
+                "time": "18:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Posizioni-2-1.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Come sviluppare il pensiero critico a scuola: online un approfondimento per i docenti neoassunti 2025/26",
                 "link": "https://www.orizzontescuola.it/come-sviluppare-il-pensiero-critico-a-scuola-online-un-approfondimento-per-i-docenti-neoassunti-2025-26/",
                 "date": "10 Mar 2026",
@@ -589,14 +583,6 @@
                 "date": "10 Mar 2026",
                 "time": "10:31",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2501727439-1.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Docenti precari: dalla chiusura delle GPS ai corsi Indire, dallo scioglimento delle riserve alle 150 preferenze. Tutte le scadenze per GPS e GaE e cosa fare",
-                "link": "https://www.orizzontescuola.it/docenti-precari-dalla-chiusura-delle-gps-ai-corsi-indire-dallo-scioglimento-delle-riserve-alle-150-preferenze-tutte-le-scadenze-e-cosa-fare/",
-                "date": "10 Mar 2026",
-                "time": "10:23",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2493334753-scaled.jpg"
             }
         ]
     },
