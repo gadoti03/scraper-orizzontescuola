@@ -23,6 +23,8 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
+            null,
             {
                 "category": "Cronaca",
                 "title": "Alunno fa capovolta in palestra e si fa male alla testa. Famiglia fa ricorso, ma perde sia in primo grado che in Appello. Ecco cosa hanno deciso i giudici",
@@ -134,7 +136,12 @@
                 "date": "12 Mar 2026",
                 "time": "11:33",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_48466297.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Gestire la scuola",
                 "title": "Obbligo vaccinale: FaQ già pronte da inviare alle famiglie e verbale di verifica della posizione vaccinale. Scarica documenti",
@@ -150,12 +157,7 @@
                 "date": "12 Mar 2026",
                 "time": "11:23",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/roberta_vannini.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Sostegno specializzazione estero, verso la partecipazione alla mini call veloce se titolo Indire conseguito entro il 30 giugno",
@@ -229,14 +231,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/shutterstock_2498781449.jpg"
             },
             {
-                "category": "Gestire la scuola",
-                "title": "Profili di responsabilità del dirigente scolastico e del DSGA nella gestione dei rifiuti e nel sistema RENTRI",
-                "link": "https://www.orizzontescuola.it/profili-di-responsabilita-del-dirigente-scolastico-e-del-dsga-nella-gestione-dei-rifiuti-e-nel-sistema-rentri/",
-                "date": "12 Mar 2026",
-                "time": "8:38",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2017139294.jpg"
-            },
-            {
                 "category": "Politica scolastica",
                 "title": "Atto di indirizzo 2026, il MIM punta sul welfare per docenti e ATA: polizza sanitaria integrativa, Carta Docente estesa anche ai precari e nuovi aumenti contrattuali",
                 "link": "https://www.orizzontescuola.it/atto-di-indirizzo-2026-il-mim-punta-sul-welfare-del-personale-scolastico-polizza-sanitaria-integrativa-carta-docente-estesa-anche-ai-precari-e-nuovi-aumenti-contrattuali/",
@@ -284,7 +278,6 @@
                 "time": "8:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2632821415.jpg"
             },
-            null,
             null
         ]
     },
