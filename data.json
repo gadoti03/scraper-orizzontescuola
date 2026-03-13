@@ -24,6 +24,22 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "Alunno fa capovolta in palestra e si fa male alla testa. Famiglia fa ricorso, ma perde sia in primo grado che in Appello. Ecco cosa hanno deciso i giudici",
+                "link": "https://www.orizzontescuola.it/alunno-fa-capovolta-in-palestra-e-si-fa-male-alla-testa-famiglia-fa-ricorso-ma-perde-sia-in-primo-grado-che-in-appello-ecco-cosa-hanno-deciso-i-giudici/",
+                "date": "12 Mar 2026",
+                "time": "20:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2138517183-scaled.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Referendum sulla giustizia, lo scontro si accende anche a scuola tra propaganda e pluralismo. Interviene il Ministero",
+                "link": "https://www.orizzontescuola.it/referendum-sulla-giustizia-lo-scontro-si-accende-anche-a-scuola-tra-propaganda-e-pluralismo-interviene-il-ministero/",
+                "date": "12 Mar 2026",
+                "time": "20:12",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/10/shutterstock_1021070383.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Secondo ciclo sostegno Indire, servizio a.s. 2025/26 utile per acquisire 36 CFU e non 48",
                 "link": "https://www.orizzontescuola.it/secondo-ciclo-sostegno-indire-servizio-a-s-2025-26-utile-per-acquisire-36-cfu-e-non-48/",
@@ -134,7 +150,12 @@
                 "date": "12 Mar 2026",
                 "time": "11:23",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/roberta_vannini.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Sostegno specializzazione estero, verso la partecipazione alla mini call veloce se titolo Indire conseguito entro il 30 giugno",
@@ -150,12 +171,7 @@
                 "date": "12 Mar 2026",
                 "time": "10:16",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/06/shutterstock_1890232807.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Secondo ciclo sostegno Indire/Università: come si compila domanda per la riserva GPS. Ci sarà il terzo ciclo? Ecco le anticipazioni. Iscriviti alla newsletter “Diventare Insegnanti”",
@@ -269,21 +285,60 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2632821415.jpg"
             },
             null,
-            null,
-            null,
-            {
-                "category": "Docenti",
-                "title": "Carta docente 2025/26 accreditata, in cosa si può spendere, i vincoli [LO SPECIALE]",
-                "link": "https://www.orizzontescuola.it/carta-docente-2025-26-chi-la-ricevera-in-cosa-si-potra-spendere-i-vincoli-lo-speciale/",
-                "date": "12 Mar 2026",
-                "time": "7:19",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Carta_docente_383_OrizzonteScuola.png"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Recalcati: “Se fossi ministro, riformerei le pagelle. Il progresso dal 4 al 7 dovrebbe contare più della media”",
+                "link": "https://www.orizzontescuola.it/recalcati-se-fossi-ministro-riformerei-le-pagelle-il-progresso-dal-4-al-7-dovrebbe-contare-piu-della-media/",
+                "date": "12 Mar 2026",
+                "time": "20:50",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Povertà educativa, Gratteri: “Lo sport dà un’alternativa concreta alla strada”. Salis: “Un pilastro educativo. Offrirlo a chi non può pagarlo è un dovere della comunità”",
+                "link": "https://www.orizzontescuola.it/poverta-educativa-gratteri-lo-sport-da-unalternativa-concreta-alla-strada-salis-un-pilastro-educativo-offrirlo-a-chi-non-puo-pagarlo-e-un-dovere-della-comunita/",
+                "date": "12 Mar 2026",
+                "time": "20:24",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Fiera Didacta 2026: la Fondazione per la scuola italiana premia venti filiere del percorso 4+2 con 600mila euro per l’innovazione tecnico-professionale",
+                "link": "https://www.orizzontescuola.it/fiera-didacta-2026-la-fondazione-per-la-scuola-italiana-premia-venti-filiere-del-percorso-42-con-600mila-euro-per-linnovazione-tecnico-professionale/",
+                "date": "12 Mar 2026",
+                "time": "20:19",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Indagine RUP 2026: questionario prorogato al 31 marzo",
+                "link": "https://www.orizzontescuola.it/indagine-rup-2026-questionario-prorogato-al-31-marzo/",
+                "date": "12 Mar 2026",
+                "time": "20:10",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "La Lettonia vieta gli smartphone a scuola: dal 1° giugno 2026 entra in vigore la nuova legge sull’istruzione, in un’Europa che stringe i ranghi sul tema",
+                "link": "https://www.orizzontescuola.it/la-lettonia-vieta-gli-smartphone-a-scuola-dal-1-giugno-2026-entra-in-vigore-la-nuova-legge-sullistruzione-in-uneuropa-che-stringe-i-ranghi-sul-tema/",
+                "date": "12 Mar 2026",
+                "time": "20:02",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "ANIEF ANCODIS, l’atto di indirizzo del Ministro Valditara riconosce le figure di sistema",
+                "link": "https://www.orizzontescuola.it/anief-ancodis-latto-di-indirizzo-del-ministro-valditara-riconosce-le-figure-di-sistema/",
+                "date": "12 Mar 2026",
+                "time": "19:48",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Linee guida sull’IA nella PA: consultazione pubblica AgID aperta fino all’11 aprile",
@@ -294,7 +349,7 @@
             },
             {
                 "category": "Cronaca",
-                "title": "Incontro su referendum: studenti e docenti lasciano il convegno perché manca par codicio. Il comunicato dell’USR Campania",
+                "title": "Incontro su referendum: studenti e docenti lasciano il convegno perché manca par condicio. Il comunicato dell’USR Campania",
                 "link": "https://www.orizzontescuola.it/incontro-su-referendum-studenti-e-docenti-lasciano-il-convegno-perche-manca-par-codicio-il-comunicato-dellusr-campania/",
                 "date": "12 Mar 2026",
                 "time": "18:03",
@@ -371,54 +426,6 @@
                 "link": "https://www.orizzontescuola.it/mobilita-docenti-e-ata-le-deroghe-fanno-discutere-la-gilda-non-firma-il-ccni-question-time-con-craparo-gilda-live-giovedi-12-marzo-alle-1430/",
                 "date": "12 Mar 2026",
                 "time": "13:55",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Carta del docente, in Sicilia presentato un emendamento per estendere il beneficio ai 298 insegnanti degli istituti scolastici regionali siciliani esclusi",
-                "link": "https://www.orizzontescuola.it/carta-del-docente-in-sicilia-presentato-un-emendamento-per-estendere-il-beneficio-ai-298-insegnanti-degli-istituti-scolastici-regionali-siciliani-esclusi/",
-                "date": "12 Mar 2026",
-                "time": "13:38",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso infanzia e primaria PNRR3, prova orale [Le convocazioni]",
-                "link": "https://www.orizzontescuola.it/concorso-infanzia-e-primaria-pnrr3-arrivano-le-convocazioni-prova-orale-dal-19-gennaio-in-aggiornamento/",
-                "date": "12 Mar 2026",
-                "time": "13:00",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2026, interpelli per la sostituzione di colleghi assenti",
-                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
-                "date": "12 Mar 2026",
-                "time": "13:00",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "IRC, “Superare la precarietà, dalla famiglia al lavoro”: Anief promuove un’importante giornata di studio. Pacifico: “Il precariato è uno dei principali fattori di instabilità”",
-                "link": "https://www.orizzontescuola.it/irc-superare-la-precarieta-dalla-famiglia-al-lavoro-anief-promuove-unimportante-giornata-di-studio-pacifico-il-precariato-e-uno-dei-principali-fattori-di-instabilita/",
-                "date": "12 Mar 2026",
-                "time": "12:37",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Manifesti mortuari e sit-in davanti ai cancelli, i genitori di una scuola a Napoli denunciano la paralisi gestionale e chiedono l’intervento dell’USR Campania",
-                "link": "https://www.orizzontescuola.it/manifesti-mortuari-e-sit-in-davanti-ai-cancelli-i-genitori-di-una-scuola-a-napoli-denunciano-la-paralisi-gestionale-e-chiedono-lintervento-dellusr-campania/",
-                "date": "12 Mar 2026",
-                "time": "12:35",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Studentessa 14enne precipita dalla finestra di un liceo a Ascoli Piceno: soccorsa dal 118 e trasferita all’ospedale in codice rosso",
-                "link": "https://www.orizzontescuola.it/studentessa-14enne-precipita-dalla-finestra-di-un-liceo-a-ascoli-piceno-soccorsa-dal-118-e-trasferita-allospedale-in-codice-rosso/",
-                "date": "12 Mar 2026",
-                "time": "12:32",
                 "image_link": "N/A"
             }
         ]
@@ -545,6 +552,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Come dichiarare in GPS un servizio svolto con cattedra mista su materia e sostegno?",
+                "link": "https://www.orizzontescuola.it/come-dichiarare-in-gps-un-servizio-svolto-con-cattedra-mista-su-materia-e-sostegno/",
+                "date": "11 Mar 2026",
+                "time": "9:31",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2310310031-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Docenti con contratto al 30 giugno: la Corte d’Appello di Milano riconosce l’indennità per le ferie illegittimamente detratte nei periodi di sospensione delle lezioni",
                 "link": "https://www.orizzontescuola.it/docenti-con-contratto-al-30-giugno-la-corte-dappello-di-milano-riconosce-lindennita-per-le-ferie-illegittimamente-detratte-nei-periodi-di-sospensione-delle-lezioni-anief/",
                 "date": "11 Mar 2026",
@@ -582,20 +597,20 @@
                 "date": "10 Mar 2026",
                 "time": "16:28",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1785502850-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi sostegno secondo ciclo Indire/Università, ecco la pagina del Ministero con le info aggiornate",
-                "link": "https://www.orizzontescuola.it/percorsi-sostegno-secondo-ciclo-indire-universita-ecco-la-pagina-del-ministero-con-le-info-aggiornate/",
-                "date": "10 Mar 2026",
-                "time": "15:14",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_113318023.jpg"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
+            {
+                "category": "Gestire la scuola",
+                "title": "Uso dei cellulari: modifica Regolamento d’Istituto, una propsota",
+                "link": "https://www.orizzontescuola.it/uso-dei-cellulari-modifica-regolamento-distituto-una-propsota/",
+                "date": "9 Mar 2026",
+                "time": "8:03",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/10/shutterstock_669718738-scaled.jpg"
+            },
             {
                 "category": "ATA",
                 "title": "PC e tablet in comodato d’uso anche per il personale ATA, Valditara: “Per la prima volta le risorse”",
@@ -635,14 +650,6 @@
                 "date": "5 Mar 2026",
                 "time": "17:24",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2456756593.jpg"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "Potenziamento delle visite fiscali INPS 2026: perché è necessaria una circolare interna. Ecco il modello",
-                "link": "https://www.orizzontescuola.it/potenziamento-delle-visite-fiscali-inps-2026-perche-e-necessaria-una-circolare-interna-ecco-il-modello/",
-                "date": "5 Mar 2026",
-                "time": "11:59",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1812871486.jpg"
             }
         ]
     },
