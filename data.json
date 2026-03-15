@@ -23,6 +23,7 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
             {
                 "category": "Docenti",
                 "title": "Mobilità: docenti titolari sul sostegno, ecco quali movimenti possono chiedere per il 2026/27",
@@ -142,7 +143,12 @@
                 "date": "14 Mar 2026",
                 "time": "10:05",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Luigi_Quattrocchi.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Sempre più bimbi a rischio udito: i segnali da non ignorare e cosa può fare la scuola",
@@ -150,12 +156,7 @@
                 "date": "14 Mar 2026",
                 "time": "9:40",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2719409745-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Minecraft Education, due maestre raccontano come il videogioco trasforma la didattica e insegna l’AI in classe [VIDEO]",
@@ -291,14 +292,6 @@
                 "date": "13 Mar 2026",
                 "time": "16:23",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/shutterstock_1818500471.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "VIDEO TUTORIAL IN DIRETTA | Mobilità docenti: tutti i passaggi spiegati passo dopo passo. QUESTION TIME con Vannini (Uil Scuola Rua) LIVE Lunedì 16 marzo alle 14:30",
-                "link": "https://www.orizzontescuola.it/video-tutorial-in-diretta-mobilita-docenti-tutti-i-passaggi-spiegati-passo-dopo-passo-question-time-con-vannini-uil-scuola-rua-live-lunedi-16-marzo-alle-1430/",
-                "date": "13 Mar 2026",
-                "time": "15:54",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Template_questiontime_1920x1080-12.png"
             }
         ]
     },
@@ -456,6 +449,14 @@
         "articles": [
             {
                 "category": "Chiedilo a Lalla",
+                "title": "VIDEO TUTORIAL IN DIRETTA | Mobilità docenti: tutti i passaggi spiegati passo dopo passo. QUESTION TIME con Vannini (Uil Scuola Rua) LIVE Lunedì 16 marzo alle 14:30",
+                "link": "https://www.orizzontescuola.it/video-tutorial-in-diretta-mobilita-docenti-tutti-i-passaggi-spiegati-passo-dopo-passo-question-time-con-vannini-uil-scuola-rua-live-lunedi-16-marzo-alle-1430/",
+                "date": "13 Mar 2026",
+                "time": "15:54",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
                 "title": "Tutorial GPS 2026, tabelle titoli, preferenze e non solo: a cosa fare attenzione. QUESTION TIME con Quattrocchi. LIVE Venerdì 13 marzo alle 14:30",
                 "link": "https://www.orizzontescuola.it/tutorial-gps-2026-tabelle-titoli-preferenze-e-non-solo-a-cosa-fare-attenzione-question-time-con-quattrocchi-live-venerdi-13-marzo-alle-1430/",
                 "date": "13 Mar 2026",
@@ -557,20 +558,20 @@
                 "date": "17 Feb 2026",
                 "time": "15:47",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Riconferma del docente di sostegno nel passaggio da infanzia a primaria? “I genitori ne sarebbero felici”",
-                "link": "https://www.orizzontescuola.it/riconferma-del-docente-di-sostegno-nel-passaggio-da-infanzia-a-primaria-i-genitori-ne-sarebbero-felici/",
-                "date": "16 Feb 2026",
-                "time": "17:00",
-                "image_link": "N/A"
             }
         ]
     },
     "group_6": {
         "title": "Diventare Insegnanti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Secondo ciclo sostegno Indire, servizio a.s. 2025/26 utile per acquisire 36 CFU e non 48",
+                "link": "https://www.orizzontescuola.it/secondo-ciclo-sostegno-indire-servizio-a-s-2025-26-utile-per-acquisire-36-cfu-e-non-48/",
+                "date": "12 Mar 2026",
+                "time": "19:31",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2493334753-scaled.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Graduatorie GPS 2026: ultimi giorni per la compilazione della domanda. RISPOSTE AI QUESITI",
@@ -610,14 +611,6 @@
                 "date": "12 Mar 2026",
                 "time": "10:25",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/02/24-cfu-2022.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti per neoassunti concorso PNRR: indicazioni per classi di concorso non presenti nella regione di servizio e riapertura piattaforma. La nota del Ministero [PDF]",
-                "link": "https://www.orizzontescuola.it/corsi-abilitanti-chi-non-deve-frequentare-tutti-i-60-cfu-e-come-le-universita-devono-comportarsi-la-nota-del-ministero-pdf/",
-                "date": "12 Mar 2026",
-                "time": "9:49",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_1996119905.jpg"
             }
         ]
     },
