@@ -24,12 +24,84 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
-                "category": "Nessuna categoria",
+                "category": "Cronaca",
+                "title": "Allerta meteo scuole chiuse lunedì 16 marzo: stop alle lezioni in diversi comuni di Sicilia e Calabria. ELENCO IN AGGIORNAMENTO",
+                "link": "https://www.orizzontescuola.it/allerta-meteo-scuole-chiuse-lunedi-16-marzo-stop-alle-lezioni-in-diversi-comuni-elenco-in-aggiornamento/",
+                "date": "15 Mar 2026",
+                "time": "17:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/Maltempo-1.png"
+            },
+            {
+                "category": "Docenti",
+                "title": "Costruire il proprio metodo di studio: la scuola come palestra di autonomia nell’epoca delle scorciatoie digitali",
+                "link": "https://www.orizzontescuola.it/costruire-il-proprio-metodo-di-studio-la-scuola-come-palestra-di-autonomia-nellepoca-delle-scorciatoie-digitali/",
+                "date": "15 Mar 2026",
+                "time": "17:28",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2312009191.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Dimensionamento e attrattività: quando il risparmio delle famiglie diventa una sfida per l’autonomia scolastica",
+                "link": "https://www.orizzontescuola.it/dimensionamento-e-attrattivita-quando-il-risparmio-delle-famiglie-diventa-una-sfida-per-lautonomia-scolastica/",
+                "date": "15 Mar 2026",
+                "time": "16:21",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Disinformazione e fake news a scuola: il 91% dei docenti denuncia l’impatto su un 48% di studenti esposti a notizie false",
+                "link": "https://www.orizzontescuola.it/disinformazione-e-fake-news-a-scuola-il-91-dei-docenti-denuncia-limpatto-su-un-48-di-studenti-esposti-a-notizie-false/",
+                "date": "15 Mar 2026",
+                "time": "16:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2168509569.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "VIDEO TUTORIAL IN DIRETTA | Mobilità docenti: tutti i passaggi spiegati passo dopo passo. QUESTION TIME con Vannini (Uil Scuola Rua) LIVE Lunedì 16 marzo alle 14:30",
+                "link": "https://www.orizzontescuola.it/video-tutorial-in-diretta-mobilita-docenti-tutti-i-passaggi-spiegati-passo-dopo-passo-question-time-con-vannini-uil-scuola-rua-live-lunedi-16-marzo-alle-1430/",
+                "date": "15 Mar 2026",
+                "time": "15:54",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Template_questiontime_1920x1080-12.png"
+            },
+            {
+                "category": "ATA",
+                "title": "Graduatoria terza fascia ATA, la CIAD non è sostituibile da altro titolo informatico. Sì al depennamento. Ecco cosa hanno detto i giudici",
+                "link": "https://www.orizzontescuola.it/graduatoria-terza-fascia-ata-la-ciad-non-e-sostituibile-da-altro-titolo-informatico-si-al-depennamento-ecco-cosa-hanno-detto-i-giudici/",
+                "date": "15 Mar 2026",
+                "time": "15:23",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2557218577.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "GI Group porta a Fiera Didacta la divisione GI EDU: orientamento scolastico, didattica orientativa e formazione docenti [VIDEO]",
+                "link": "https://www.orizzontescuola.it/gi-group-porta-a-fiera-didacta-la-divisione-gi-edu-orientamento-scolastico-didattica-orientativa-e-formazione-docenti-video/",
+                "date": "15 Mar 2026",
+                "time": "14:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Screenshot-2026-03-13-alle-09.02.34.png"
+            },
+            {
+                "category": "Genitori",
+                "title": "Smart working e natalità, lo studio globale su 38 Paesi conferma l’aumento delle nascite: +14,3% di fertilità e 12.800 culle piene in più stimate in Italia allineandosi agli standard esteri",
+                "link": "https://www.orizzontescuola.it/smart-working-e-natalita-lo-studio-globale-su-38-paesi-conferma-laumento-delle-nascite-143-di-fertilita-e-12-800-culle-piene-in-piu-stimate-in-italia-allineandosi-agli-standard-esteri/",
+                "date": "15 Mar 2026",
+                "time": "14:13",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_1634201083.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Percorsi sostegno Indire, lezioni dal 7 aprile tutti i pomeriggi e full immersion nei weekend. Obiettivo titolo entro il 30 giugno",
+                "link": "https://www.orizzontescuola.it/percorsi-sostegno-indire-lezioni-dal-7-aprile-tutti-i-pomeriggi-e-full-immersion-nei-weekend-obiettivo-titolo-entro-il-30-giugno/",
+                "date": "15 Mar 2026",
+                "time": "13:35",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_2222087071.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Graduatorie GPS 2026 per le supplenze: conterà solo il servizio inserito entro il 16 marzo",
                 "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-per-le-supplenze-contera-solo-il-servizio-inserito-entro-il-16-marzo/",
                 "date": "15 Mar 2026",
                 "time": "11:43",
-                "image_link": "N/A"
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/download-1-2.jpg"
             },
             {
                 "category": "Politica scolastica",
@@ -78,7 +150,12 @@
                 "date": "15 Mar 2026",
                 "time": "10:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_2190785137.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Educazione sessuo-affettiva: perché il dialogo con i bambini deve iniziare fin dall’infanzia, quando l’Italia vieta ancora la materia nelle elementari e il 70% degli italiani ne chiede l’introduzione a scuola",
@@ -136,12 +213,7 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Cannas-2.png"
             },
             null,
-            null
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            null,
             {
                 "category": "Docenti",
                 "title": "Mobilità: docenti titolari sul sostegno, ecco quali movimenti possono chiedere per il 2026/27",
@@ -213,84 +285,52 @@
                 "date": "14 Mar 2026",
                 "time": "11:27",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_107180918.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Una racchetta colpisce un alunno di 10 anni durante educazione fisica con rottura di due denti. Famiglia fa ricorso e la scuola viene condannata a pagare oltre 8mila euro",
-                "link": "https://www.orizzontescuola.it/una-racchetta-colpisce-un-alunno-di-10-anni-durante-educazione-fisica-con-rottura-di-due-denti-famiglia-fa-ricorso-e-la-scuola-viene-condannata-a-pagare-oltre-8mila-euro/",
-                "date": "14 Mar 2026",
-                "time": "11:14",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2443980371.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Agenda Sud DM 176, scaricabili 29 documenti pronti all’uso: dall’affidamento agli atti inziali, dagli avvisi per esperti agli incarichi DS e DSGA",
-                "link": "https://www.orizzontescuola.it/agenda-sud-dm-176-scaricabili-29-documenti-pronti-alluso-dallaffidamento-agli-atti-inziali-dagli-avvisi-per-esperti-agli-incarichi-ds-e-dsga/",
-                "date": "14 Mar 2026",
-                "time": "10:59",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Agenda-Sud.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti, la riserva per il Servizio Civile Universale si applica fino al raggiungimento del 15% dei posti",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-la-riserva-per-il-servizio-civile-universale-si-applica-fino-al-raggiungimento-del-15-dei-posti/",
-                "date": "14 Mar 2026",
-                "time": "10:46",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_95425372.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Agenda Nord DM 176, scaricabili 29 documenti pronti all’uso: dall’affidamento agli atti inziali, dagli avvisi per esperti agli incarichi DS e DSGA",
-                "link": "https://www.orizzontescuola.it/agenda-nord-dm-176-scaricabili-29-documenti-pronti-alluso-dallaffidamento-agli-atti-inziali-dagli-avvisi-per-esperti-agli-incarichi-ds-e-dsga/",
-                "date": "14 Mar 2026",
-                "time": "10:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Agenda-Nord.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Secondo ciclo speciale sostegno, nessuna differenza in GPS e concorsi tra il titolo conseguito presso Indire e quello delle Università",
-                "link": "https://www.orizzontescuola.it/secondo-ciclo-speciale-sostegno-nessuna-differenza-in-gps-e-concorsi-tra-il-titolo-conseguito-presso-indire-e-quello-delle-universita/",
-                "date": "14 Mar 2026",
-                "time": "10:24",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_1958115694.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Aggiornamento GPS 2026, evitiamo gli errori: tabelle titoli, preferenze, certificazioni e non solo. A cosa fare attenzione. Guarda il Tutorial",
-                "link": "https://www.orizzontescuola.it/aggiornamento-gps-2026-evitiamo-gli-errori-tabelle-titoli-preferenze-certificazioni-e-non-solo-a-cosa-fare-attenzione-guarda-il-tutorial/",
-                "date": "14 Mar 2026",
-                "time": "10:05",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Luigi_Quattrocchi.png"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Sempre più bimbi a rischio udito: i segnali da non ignorare e cosa può fare la scuola",
-                "link": "https://www.orizzontescuola.it/sempre-piu-bimbi-a-rischio-udito-i-segnali-da-non-ignorare-e-cosa-puo-fare-la-scuola/",
-                "date": "14 Mar 2026",
-                "time": "9:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2719409745-scaled.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Minecraft Education, due maestre raccontano come il videogioco trasforma la didattica e insegna l’AI in classe [VIDEO]",
-                "link": "https://www.orizzontescuola.it/minecraft-education-due-maestre-raccontano-come-il-videogioco-trasforma-la-didattica-e-insegna-lai-in-classe-video/",
-                "date": "14 Mar 2026",
-                "time": "9:35",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Screenshot-2026-03-13-alle-09.18.09.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Secondo ciclo Sostegno tre anni di servizio o titolo estero nelle Università: domanda per alcune telematiche da lunedì 16 marzo",
-                "link": "https://www.orizzontescuola.it/secondo-ciclo-sostegno-tre-anni-di-servizio-o-titolo-estero-nelle-universita-domanda-per-alcune-telematiche-da-lunedi-16-marzo/",
-                "date": "14 Mar 2026",
-                "time": "9:34",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2281563993.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Disabilità intellettive e disturbi del neurosviluppo: il 28 marzo la Giornata nazionale promossa da Anffas",
+                "link": "https://www.orizzontescuola.it/disabilita-intellettive-e-disturbi-del-neurosviluppo-il-28-marzo-la-giornata-nazionale-promossa-da-anffas/",
+                "date": "15 Mar 2026",
+                "time": "19:07",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Genitori",
+                "title": "Online il Portale della Famiglia e della Genitorialità INPS: in un unico spazio 40 prestazioni e 300 servizi pubblici",
+                "link": "https://www.orizzontescuola.it/online-il-portale-della-famiglia-e-della-genitorialita-inps-in-un-unico-spazio-40-prestazioni-e-300-servizi-pubblici/",
+                "date": "15 Mar 2026",
+                "time": "18:31",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Benessere psicologico giovani, allarme ritiro sociale per 200mila adolescenti (5,7%): le aree interne si rivelano più sicure delle città (4,4% contro 7%)",
+                "link": "https://www.orizzontescuola.it/benessere-psicologico-giovani-allarme-ritiro-sociale-per-200mila-adolescenti-57-le-aree-interne-si-rivelano-piu-sicure-delle-citta-44-contro-7/",
+                "date": "15 Mar 2026",
+                "time": "17:30",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Domani ultimo giorno per presentare domanda o aggiornare le GPS: centinaia di migliaia di supplenti alle prese con eventuali modifiche su titoli, servizi e scelta province. I consigli Anief",
+                "link": "https://www.orizzontescuola.it/domani-ultimo-giorno-per-presentare-domanda-o-aggiornare-le-gps-centinaia-di-migliaia-di-supplenti-alle-prese-con-eventuali-modifiche-su-titoli-servizi-e-scelta-province-i-consigli-anief/",
+                "date": "15 Mar 2026",
+                "time": "17:21",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Pensioni, a Berlino il piano Inps per i giovani: cosa cambia nella sfida europea alla sostenibilità",
+                "link": "https://www.orizzontescuola.it/pensioni-a-berlino-il-piano-inps-per-i-giovani-cosa-cambia-nella-sfida-europea-alla-sostenibilita/",
+                "date": "15 Mar 2026",
+                "time": "16:42",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Infermiere scolastico, in Piemonte una proposta di legge propone un professionista ogni 3mila alunni",
@@ -394,60 +434,12 @@
                 "date": "14 Mar 2026",
                 "time": "16:45",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Toscana, quarta edizione di “Nidi Gratis”: contributi fino a 800 euro al mese per le famiglie",
-                "link": "https://www.orizzontescuola.it/toscana-quarta-edizione-di-nidi-gratis-contributi-fino-a-800-euro-al-mese-per-le-famiglie/",
-                "date": "14 Mar 2026",
-                "time": "16:09",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "Claudia Zanella: “Mia figlia è plusdotata, la scuola spesso non è pronta”. Quell’intelligenza che diventa una sfida",
-                "link": "https://www.orizzontescuola.it/claudia-zanella-mia-figlia-e-plusdotata-la-scuola-spesso-non-e-pronta-quellintelligenza-che-diventa-una-sfida/",
-                "date": "14 Mar 2026",
-                "time": "16:06",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Lutto nel mondo della cultura, Jürgen Habermas è morto: il filosofo tedesco aveva 96 anni",
-                "link": "https://www.orizzontescuola.it/jurgen-habermas-e-morto-il-filosofo-tedesco-aveva-96-anni/",
-                "date": "14 Mar 2026",
-                "time": "15:36",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Sabrina Ferilli: “A scuola manca il rispetto”",
-                "link": "https://www.orizzontescuola.it/sabrina-ferilli-a-scuola-manca-il-rispetto/",
-                "date": "14 Mar 2026",
-                "time": "14:23",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Caro affitti e mobilità bloccata: il CNDDU chiede al Ministero misure urgenti per i docenti fuorisede costretti a sostenere costi abitativi superiori al livello degli stipendi",
-                "link": "https://www.orizzontescuola.it/caro-affitti-e-mobilita-bloccata-il-cnddu-chiede-al-ministero-misure-urgenti-per-i-docenti-fuorisede-costretti-a-sostenere-costi-abitativi-superiori-al-livello-degli-stipendi/",
-                "date": "14 Mar 2026",
-                "time": "11:23",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "VIDEO TUTORIAL IN DIRETTA | Mobilità docenti: tutti i passaggi spiegati passo dopo passo. QUESTION TIME con Vannini (Uil Scuola Rua) LIVE Lunedì 16 marzo alle 14:30",
-                "link": "https://www.orizzontescuola.it/video-tutorial-in-diretta-mobilita-docenti-tutti-i-passaggi-spiegati-passo-dopo-passo-question-time-con-vannini-uil-scuola-rua-live-lunedi-16-marzo-alle-1430/",
-                "date": "13 Mar 2026",
-                "time": "15:54",
-                "image_link": "N/A"
-            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Tutorial GPS 2026, tabelle titoli, preferenze e non solo: a cosa fare attenzione. QUESTION TIME con Quattrocchi. LIVE Venerdì 13 marzo alle 14:30",
@@ -551,12 +543,52 @@
                 "date": "17 Feb 2026",
                 "time": "15:47",
                 "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Riconferma del docente di sostegno nel passaggio da infanzia a primaria? “I genitori ne sarebbero felici”",
+                "link": "https://www.orizzontescuola.it/riconferma-del-docente-di-sostegno-nel-passaggio-da-infanzia-a-primaria-i-genitori-ne-sarebbero-felici/",
+                "date": "16 Feb 2026",
+                "time": "17:00",
+                "image_link": "N/A"
             }
         ]
     },
     "group_6": {
         "title": "Diventare Insegnanti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Percorso Secondo ciclo sostegno: bando Indire scade 20 marzo 2026 ore 13, ecco tutti i posti nelle Università [LO SPECIALE]",
+                "link": "https://www.orizzontescuola.it/secondo-ciclo-sostegno-indire-chi-partecipa-quando-partono-i-corsi-il-titolo-ottenuto-lo-speciale/",
+                "date": "13 Mar 2026",
+                "time": "16:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_503425987.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Secondo ciclo sostegno Indire, aperte le iscrizioni: domanda entro 20 marzo ore 13. Con manuale istruzioni e FAQ",
+                "link": "https://www.orizzontescuola.it/secondo-ciclo-sostegno-indire-aperte-le-iscrizioni-domanda-entro-20-marzo-ore-13/",
+                "date": "13 Mar 2026",
+                "time": "15:36",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_738097555.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Sostegno, percorsi Indire e Università: 37mila posti disponibili per l’anno 2026, tutte le regole per l’accesso ex art. 6 e 7 del DL 71/2024",
+                "link": "https://www.orizzontescuola.it/sostegno-percorsi-indire-e-universita-37mila-posti-disponibili-per-lanno-2026-tutte-le-regole-per-laccesso-ex-art-6-e-7-del-dl-71-2024/",
+                "date": "13 Mar 2026",
+                "time": "15:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/10/shutterstock_644245705.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso PNRR3 docenti secondaria, proseguono le prove pratiche e orali [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/concorso-pnrr3-docenti-secondaria-al-via-la-prova-orale-ecco-le-convocazioni-in-aggiornamento/",
+                "date": "13 Mar 2026",
+                "time": "13:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_347981330.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso PNRR vale 3 punti nelle GPS: riepilogo sull’inserimento. Conta il superamento, vincitori e idonei sono pari",
@@ -572,38 +604,6 @@
                 "date": "13 Mar 2026",
                 "time": "12:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2429927729.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi sostegno INDIRE per specializzati estero, entro il 16 marzo rinuncia ad istanza riconoscimento. Le due modalità",
-                "link": "https://www.orizzontescuola.it/percorsi-sostegno-indire-per-specializzati-estero-entro-il-16-marzo-rinuncia-ad-istanza-riconoscimento-le-due-modalita/",
-                "date": "13 Mar 2026",
-                "time": "11:52",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_695632537.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Secondo ciclo sostegno Indire, servizio a.s. 2025/26 utile per acquisire 36 CFU e non 48",
-                "link": "https://www.orizzontescuola.it/secondo-ciclo-sostegno-indire-servizio-a-s-2025-26-utile-per-acquisire-36-cfu-e-non-48/",
-                "date": "12 Mar 2026",
-                "time": "19:31",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2493334753-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Graduatorie GPS 2026: ultimi giorni per la compilazione della domanda. RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-ultimi-giorni-per-la-compilazione-della-domanda-risposte-ai-quesiti/",
-                "date": "12 Mar 2026",
-                "time": "14:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_400012954-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Sostegno: nel 2026 percorsi di specializzazione, assunzioni da elenchi regionali e GPS, conferma della supplenza. Atto di indirizzo",
-                "link": "https://www.orizzontescuola.it/sostegno-nel-2026-percorsi-di-specializzazione-assunzioni-da-elenchi-regionali-e-gps-conferma-della-supplenza-atto-di-indirizzo/",
-                "date": "12 Mar 2026",
-                "time": "12:54",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_578570272.jpg"
             }
         ]
     },
