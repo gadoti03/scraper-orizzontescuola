@@ -3,19 +3,37 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "Docenti",
+                "title": "Mobilità docenti 2026/27: chi può presentare domanda, i vincoli, il passaggio di ruolo [LO SPECIALE]",
+                "link": "https://www.orizzontescuola.it/mobilita-docenti-2026-27-chi-puo-presentare-domanda-i-vincoli-il-passaggio-di-ruolo-lo-speciale/",
+                "date": "17 Mar 2026",
+                "time": "7:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Sottotitolo-2-3.png"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Docenti, hanno diritto al pagamento per tutti i periodi di sospensione delle lezioni? La Cassazione rimette questione alla Sezione lavoro",
                 "link": "https://www.orizzontescuola.it/docenti-hanno-diritto-al-pagamento-per-tutti-i-periodi-di-sospensione-delle-lezioni-la-cassazione-rimette-questione-alla-sezione-lavoro/",
                 "date": "16 Mar 2026",
                 "time": "16:11",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_633750290.jpg"
-            },
-            null
+            }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Gestire la scuola",
+                "title": "Quali sono gli spazi e i limiti della discrezionalità tecnica del docente? Una guida a cura di Anna Armone",
+                "link": "https://www.orizzontescuola.it/quali-sono-gli-spazi-e-i-limiti-della-discrezionalita-tecnica-del-docente-una-guida-a-cura-di-anna-armone/",
+                "date": "17 Mar 2026",
+                "time": "7:49",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2554071589.jpg"
+            },
+            null,
+            null,
+            null,
             {
                 "category": "Stipendio",
                 "title": "Dichiarazione dei redditi 2026, su NoiPA c’è la Certificazione Unica. Come scaricarla",
@@ -104,7 +122,12 @@
                 "date": "16 Mar 2026",
                 "time": "16:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2498448781.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "GPS, perché i laureati in Scienze motorie abilitati nella classe A48 non sono in prima fascia educazione motoria nella scuola primaria?",
@@ -136,12 +159,7 @@
                 "date": "16 Mar 2026",
                 "time": "15:09",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2467525223.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Intelligenza artificiale a scuola, Campus Store lancia AI Hub: laboratori esperienziali, attività gratuite. Una comunità per l’IA",
@@ -166,6 +184,7 @@
                 "time": "13:24",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2654539275.jpg"
             },
+            null,
             {
                 "category": "Docenti",
                 "title": "Mobilità docenti, si potrà usare il Fascicolo digitale per consultare i servizi utili per l’allegato D. NOVITA’ 2026",
@@ -245,46 +264,6 @@
                 "date": "16 Mar 2026",
                 "time": "10:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_1438419599.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Didattica inclusiva, ecco la soluzione Atlantis che unisce Android, DLP e contenuti 3D per la classe [VIDEO]",
-                "link": "https://www.orizzontescuola.it/didattica-inclusiva-ecco-la-soluzione-atlantis-che-unisce-android-dlp-e-contenuti-3d-per-la-classe-video/",
-                "date": "16 Mar 2026",
-                "time": "9:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Screenshot-2026-03-13-alle-08.58.54.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Graduatorie GPS 2026: aggiornamento si chiude senza punti in più per servizio sostegno con titolo, scuole di montagna, piccole isole, concorso PNRR3",
-                "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-aggiornamento-si-chiude-senza-punti-in-piu-per-servizio-sostegno-con-titolo-scuole-di-montagna-piccole-isole-concorso-pnrr3/",
-                "date": "16 Mar 2026",
-                "time": "9:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2477758041.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Palestre e locali scolastici aperte anche fuori dall’orario e tra la fine e l’inizio dell’anno scolastico, il Disegno di legge passa all’aula",
-                "link": "https://www.orizzontescuola.it/palestre-e-locali-scolastici-aperte-anche-fuori-dallorario-e-tra-la-fine-e-linizio-dellanno-scolastico-il-disegno-di-legge-passa-allaula/",
-                "date": "16 Mar 2026",
-                "time": "8:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_508042945.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Studenti stranieri: dispersione scolastica implicita il doppio rispetto agli studenti italiani. I dati Istat",
-                "link": "https://www.orizzontescuola.it/studenti-stranieri-dispersione-scolastica-implicita-il-doppio-rispetto-agli-studenti-italiani-i-dati-istat/",
-                "date": "16 Mar 2026",
-                "time": "8:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/shutterstock_2408687705.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Quanto è importante dare un feedback ad uno studente durante la prima scolarizzazione?",
-                "link": "https://www.orizzontescuola.it/quanto-e-importante-dare-un-feedback-ad-uno-studente-durante-la-prima-scolarizzazione/",
-                "date": "16 Mar 2026",
-                "time": "8:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2352497975.jpg"
             }
         ]
     },
@@ -605,6 +584,14 @@
         "articles": [
             {
                 "category": "Gestire la scuola",
+                "title": "Carta di credito nelle scuole, scarica: guida, regolamento, determina, delibera Consiglio istituto, appendice operativa e checklist",
+                "link": "https://www.orizzontescuola.it/carta-di-credito-nelle-scuole-scarica-guida-regolamento-determina-delibera-consiglio-istituto-appendice-operativa-e-checklist/",
+                "date": "13 Mar 2026",
+                "time": "7:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2518884875.jpg"
+            },
+            {
+                "category": "Gestire la scuola",
                 "title": "Obbligo vaccinale: FaQ già pronte da inviare alle famiglie e verbale di verifica della posizione vaccinale. Scarica documenti",
                 "link": "https://www.orizzontescuola.it/obbligo-vaccinale-faq-gia-pronte-da-inviare-alle-famiglie-e-verbale-di-verifica-della-posizione-vaccinale-scarica-documenti/",
                 "date": "12 Mar 2026",
@@ -642,14 +629,6 @@
                 "date": "9 Mar 2026",
                 "time": "17:01",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/img-formazione-copia.png"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "Approfondimento sulle convenzioni con enti esterni per le PCTO, con 2 modelli documentali: convenzione utilizzabile, scheda di autovalutazione finale",
-                "link": "https://www.orizzontescuola.it/approfondimento-sulle-convenzioni-con-enti-esterni-per-le-pcto-con-2-modelli-documentali-convenzione-utilizzabile-scheda-di-autovalutazione-finale/",
-                "date": "9 Mar 2026",
-                "time": "11:04",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_659728093.jpg"
             }
         ]
     },
