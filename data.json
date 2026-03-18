@@ -23,6 +23,8 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
+            null,
             {
                 "category": "Dirigenti scolastici",
                 "title": "L’ANP chiede la “Carta del Dirigente” per formazione, studio e ricerca",
@@ -127,7 +129,12 @@
                 "date": "17 Mar 2026",
                 "time": "13:46",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/10/shutterstock_666030916-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze docenti 2026, nuovi interpelli alla ricerca di insegnanti",
@@ -143,12 +150,7 @@
                 "date": "17 Mar 2026",
                 "time": "13:31",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/12/shutterstock_1905525472-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Dirigenti scolastici",
                 "title": "CCNL dirigenti scolastici 2022/24, avviato il tavolo all’Aran: priorità stipendi, mobilità e stress lavoro-correlato. Le posizioni dei sindacati",
@@ -269,35 +271,13 @@
                 "time": "8:46",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/03/pasqua.jpg"
             },
-            {
-                "category": "Docenti",
-                "title": "L’agenda visiva come strumento operativo nei contesti educativi inclusivi",
-                "link": "https://www.orizzontescuola.it/lagenda-visiva-come-strumento-operativo-nei-contesti-educativi-inclusivi/",
-                "date": "17 Mar 2026",
-                "time": "8:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_561290041.jpg"
-            },
-            {
-                "category": "Dirigenti scolastici",
-                "title": "Valorizzazione economica del middle management, Cicero (Ancodis): “Finalmente nell’atto di indirizzo del Ministero”",
-                "link": "https://www.orizzontescuola.it/valorizzazione-economica-del-middle-management-cicero-ancodis-finalmente-nellatto-di-indirizzo-del-ministero/",
-                "date": "17 Mar 2026",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/ARTICOLO-FOTO-scaled.png"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "Quali sono gli spazi e i limiti della discrezionalità tecnica del docente? Una guida a cura di Anna Armone",
-                "link": "https://www.orizzontescuola.it/quali-sono-gli-spazi-e-i-limiti-della-discrezionalita-tecnica-del-docente-una-guida-a-cura-di-anna-armone/",
-                "date": "17 Mar 2026",
-                "time": "7:49",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2554071589.jpg"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            null,
             {
                 "category": "Cronaca",
                 "title": "Fondo promozione lettura 2026 per finanziare biblioteche scolastiche e sistemi bibliotecari. Domande dal 1° al 30 aprile",
@@ -432,14 +412,6 @@
                 "link": "https://www.orizzontescuola.it/servizio-civile-universale-il-progetto-sport-up-dellust-di-asti-cerca-volontari-entro-l8-aprile-2026-per-promuovere-sport-e-inclusione-nelle-scuole/",
                 "date": "17 Mar 2026",
                 "time": "12:18",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Mobilità docenti, vincoli e non solo: chi può presentare la domanda. QUESTION TIME con Pizzo (Uil Scuola Rua)",
-                "link": "https://www.orizzontescuola.it/mobilita-docenti-vincoli-e-non-solo-chi-puo-presentare-la-domanda-question-time-con-pizzo-uil-scuola-rua-live-martedi-17-marzo-alle-1430/",
-                "date": "17 Mar 2026",
-                "time": "12:12",
                 "image_link": "N/A"
             }
         ]
@@ -618,6 +590,14 @@
         "title": "Notizie ATA",
         "articles": [
             {
+                "category": "Gestire la scuola",
+                "title": "Podcast e radio scolastica, la voce è un dato sensibile? La tutela dei dati personali e i limiti della diffusione",
+                "link": "https://www.orizzontescuola.it/podcast-e-radio-scolastica-la-voce-e-un-dato-sensibile-la-tutela-dei-dati-personali-e-i-limiti-della-diffusione/",
+                "date": "14 Mar 2026",
+                "time": "8:25",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_1931610188-scaled.jpg"
+            },
+            {
                 "category": "ATA",
                 "title": "Mobilità personale ATA 2026/2027, online l’ORDINANZA: domanda su Istanze Online dal 23 marzo al 13 aprile. Date da ricordare e cosa sapere",
                 "link": "https://www.orizzontescuola.it/mobilita-personale-ata-2026-2027-online-lordinanza-domanda-su-istanze-online-dal-23-marzo-al-13-aprile-date-da-ricordare-e-cosa-sapere/",
@@ -656,14 +636,6 @@
                 "date": "11 Mar 2026",
                 "time": "11:44",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/shutterstock_1958088271.jpg"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "Fedeltà istituzionale, riservatezza e tutela dell’immagine della scuola: responsabilità giuridiche e poteri del dirigente scolastico",
-                "link": "https://www.orizzontescuola.it/fedelta-istituzionale-riservatezza-e-tutela-dellimmagine-della-scuola-responsabilita-giuridiche-e-poteri-del-dirigente-scolastico/",
-                "date": "10 Mar 2026",
-                "time": "11:06",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/shutterstock_397574752.jpg"
             }
         ]
     },
