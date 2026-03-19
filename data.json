@@ -23,6 +23,9 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
+            null,
+            null,
             {
                 "category": "Plus",
                 "title": "Mobilità 2026 – Ti aiutiamo a non sbagliare. Consulenza di gruppo, solo 5 posti",
@@ -113,6 +116,19 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_608600555.jpg"
             },
             {
+                "category": "Scuole",
+                "title": "Sanzioni disciplinari e giustizia riparativa a scuola, tutte le guide e i documenti pronti all’uso",
+                "link": "https://www.orizzontescuola.it/sanzioni-disciplinari-e-giustizia-riparativa-a-scuola-altri-documenti-in-arrivo/",
+                "date": "18 Mar 2026",
+                "time": "16:33",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Sanzioni-disciplinari-e-giustizia-riparativa-3.png"
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
+            {
                 "category": "Stipendio",
                 "title": "Stipendio docenti e ATA, cedolino marzo 2026 è online. Cifre “ordinarie”, nessun boom di aumento",
                 "link": "https://www.orizzontescuola.it/stipendio-docenti-e-ata-cedolino-marzo-2026-e-online-cifre-ordinarie-nessun-boom-di-aumento/",
@@ -143,12 +159,15 @@
                 "date": "18 Mar 2026",
                 "time": "15:44",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2530425735.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
+            {
+                "category": "Scuole",
+                "title": "Agenda Nord DM 176, scaricabili 29 documenti pronti all’uso: dall’affidamento agli atti inziali, dagli avvisi per esperti agli incarichi DS e DSGA",
+                "link": "https://www.orizzontescuola.it/agenda-nord-dm-176-scaricabili-29-documenti-pronti-alluso-dallaffidamento-agli-atti-inziali-dagli-avvisi-per-esperti-agli-incarichi-ds-e-dsga/",
+                "date": "18 Mar 2026",
+                "time": "15:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Agenda-Nord.png"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Trasferimento con precedenza: quando si applica quella per assistenza al coniuge con art.3 comma 3 della legge 104/92",
@@ -237,60 +256,28 @@
                 "time": "11:05",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_543880450.jpg"
             },
-            null,
             {
-                "category": "Gestire la scuola",
-                "title": "Obbligo vaccinale e scuole: schema di sintesi delle principali scadenze della procedura amministrativa",
-                "link": "https://www.orizzontescuola.it/obbligo-vaccinale-e-scuole-schema-di-sintesi-delle-principali-scadenze-della-procedura-amministrativa/",
+                "category": "Scuole",
+                "title": "Agenda Sud DM 176, scaricabili 29 documenti pronti all’uso: dall’affidamento agli atti inziali, dagli avvisi per esperti agli incarichi DS e DSGA",
+                "link": "https://www.orizzontescuola.it/agenda-sud-dm-176-scaricabili-29-documenti-pronti-alluso-dallaffidamento-agli-atti-inziali-dagli-avvisi-per-esperti-agli-incarichi-ds-e-dsga/",
                 "date": "18 Mar 2026",
-                "time": "10:27",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2324424301.jpg"
+                "time": "10:59",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Agenda-Sud.png"
             },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR3, oggi e domani le suppletive anche per candidati del X ciclo con riserva. Potrà cambiare voto minimo di accesso?",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-oggi-e-domani-le-suppletive-anche-per-candidati-del-x-ciclo-con-riserva-potra-cambiare-voto-minimo-di-accesso/",
-                "date": "18 Mar 2026",
-                "time": "10:01",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/shutterstock_595709039.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "La scuola t’ha messo in ferie d’ufficio? Hai diritto al pagamento di indennità fino a 10mila euro. Cosa fare. Il Punto di Walter Miceli",
-                "link": "https://www.orizzontescuola.it/se-la-scuola-tha-messo-inferie-dufficio-hai-diritto-al-pagamento-di-indennita-fino-a-10mila-euro-cosa-fare/",
-                "date": "18 Mar 2026",
-                "time": "9:47",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/walter_miceli_img.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Domanda GPS chiusa, adesso cosa succede? Verifica titoli e punteggi, pubblicazione graduatorie e supplenze. Il Punto di Sonia Cannas",
-                "link": "https://www.orizzontescuola.it/domanda-gps-chiusa-adesso-cosa-succede-verifica-titoli-e-punteggi-pubblicazione-graduatorie-e-supplenze-il-punto-di-sonia-cannas/",
-                "date": "18 Mar 2026",
-                "time": "9:41",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Sonia_Cannas.png"
-            },
-            {
-                "category": "Docenti",
-                "title": "Trasferimenti e passaggi dei docenti: cosa significa prima, seconda e terza fase",
-                "link": "https://www.orizzontescuola.it/trasferimenti-e-passaggi-de-docenti-cosa-significa-prima-seconda-e-terza-fase/",
-                "date": "18 Mar 2026",
-                "time": "9:29",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_1842339607.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Giornata della ristorazione, nelle scuole attività didattiche e percorsi educativi. Se ne discute in Parlamento",
-                "link": "https://www.orizzontescuola.it/giornata-della-ristorazione-nelle-scuole-attivita-didattiche-e-percorsi-educativi-se-ne-discute-in-parlamento/",
-                "date": "18 Mar 2026",
-                "time": "9:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2476729369.jpg"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Elvira Serafini confermata segretario generale Snals-Confsal",
+                "link": "https://www.orizzontescuola.it/elvira-serafini-confermata-segretario-generale-snals-confsal/",
+                "date": "19 Mar 2026",
+                "time": "7:00",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Ex compagni di scuola di Leone XIV a Roma per l’udienza generale: da Riverdale a Piazza San Pietro nel segno del ricordo",
@@ -419,14 +406,6 @@
                 "date": "18 Mar 2026",
                 "time": "13:00",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR3, la lettera estratta per l’avvio delle prove orali [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-ecco-lettera-estratta-per-avvio-delle-prove-orali-in-aggiornamento/",
-                "date": "18 Mar 2026",
-                "time": "13:00",
-                "image_link": "N/A"
             }
         ]
     },
@@ -552,6 +531,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "GPS 2026, seconda fascia primaria importantissima per le supplenze. Mancano tanti insegnanti di infanzia e primaria",
+                "link": "https://www.orizzontescuola.it/gps-2026-seconda-fascia-primaria-importantissima-per-le-supplenze-mancano-tanti-insegnanti-di-infanzia-e-primaria/",
+                "date": "16 Mar 2026",
+                "time": "16:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2498448781.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "GPS, perché i laureati in Scienze motorie abilitati nella classe A48 non sono in prima fascia educazione motoria nella scuola primaria?",
                 "link": "https://www.orizzontescuola.it/gps-perche-i-laureati-in-scienze-motorie-abilitati-nella-classe-a48-non-sono-in-prima-fascia-educazione-motoria-nella-scuola-primaria/",
                 "date": "16 Mar 2026",
@@ -589,14 +576,6 @@
                 "date": "16 Mar 2026",
                 "time": "10:47",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_130754711.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Docente in anno di prova non può presentare domanda di mobilità se l’unica deroga su cui puntava era genitore ultra 65enne",
-                "link": "https://www.orizzontescuola.it/docente-in-anno-di-prova-non-puo-presentare-domanda-di-mobilita-se-lunica-deroga-su-cui-puntava-era-genitore-ultra-65enne/",
-                "date": "16 Mar 2026",
-                "time": "10:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_1438419599.jpg"
             }
         ]
     },
