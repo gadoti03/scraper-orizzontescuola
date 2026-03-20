@@ -23,6 +23,8 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
+            null,
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Domanda mobilità 2026 docenti, vincoli, deroghe e non solo: tutte le info utili. QUESTION TIME con Semeraro. LIVE Venerdì 20 marzo alle 14:30",
@@ -87,14 +89,6 @@
                 "time": "15:13",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/09/shutterstock_1011977677.jpg"
             },
-            {
-                "category": "Scuole",
-                "title": "Concessione di locali scolastici a terzi: guida, modello richiesta, delibera del Consiglio Istituto, contratto convenzione, regolamento istituto",
-                "link": "https://www.orizzontescuola.it/concessione-di-locali-scolastici-a-terzi-guida-modello-richiesta-delibera-del-consiglio-istituto-contratto-convenzione-regolamento-istituto/",
-                "date": "19 Mar 2026",
-                "time": "14:36",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Concessione-di-locali-scolastici-a-terzi-1.png"
-            },
             null,
             {
                 "category": "Plus",
@@ -135,7 +129,12 @@
                 "date": "19 Mar 2026",
                 "time": "13:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_347981330.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Secondo ciclo Sostegno tre anni di servizio o titolo estero nelle Università: ecco i BANDI già pubblicati, pochi giorni per la domanda",
@@ -143,12 +142,7 @@
                 "date": "19 Mar 2026",
                 "time": "13:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2281563993.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Elenchi regionali per il ruolo: la BOZZA. Chi può iscriversi e con quale punteggio. Il punto di Sonia Cannas",
@@ -284,14 +278,6 @@
                 "date": "19 Mar 2026",
                 "time": "8:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_2229678829.jpg"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "Esonero, omissione e differimento delle vaccinazioni: i casi previsti dalla normativa",
-                "link": "https://www.orizzontescuola.it/esonero-omissione-e-differimento-delle-vaccinazioni-i-casi-previsti-dalla-normativa/",
-                "date": "19 Mar 2026",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/shutterstock_1958088271.jpg"
             }
         ]
     },
