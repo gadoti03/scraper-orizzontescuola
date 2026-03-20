@@ -24,6 +24,30 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Chiedilo a Lalla",
+                "title": "Domanda mobilità 2026 docenti, vincoli, deroghe e non solo: tutte le info utili. QUESTION TIME con Semeraro. LIVE Venerdì 20 marzo alle 14:30",
+                "link": "https://www.orizzontescuola.it/domanda-mobilita-2026-docenti-vincoli-deroghe-e-non-solo-tutte-le-info-utili-question-time-con-semeraro-live-venerdi-20-marzo-alle-1430/",
+                "date": "19 Mar 2026",
+                "time": "21:06",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Template_questiontime_1920x1080-18.png"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Docente nel vincolo triennale: per partecipare alla mobilità deve possedere i requisiti per la deroga",
+                "link": "https://www.orizzontescuola.it/docente-nel-vincolo-triennale-per-partecipare-alla-mobilita-deve-possedere-i-requisiti-per-la-deroga/",
+                "date": "19 Mar 2026",
+                "time": "20:21",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/07/Banchi-2.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Valditara: “L’autorevolezza dei docenti e la difesa del personale scolastico sono alla base del patto educativo tra scuola e famiglie”",
+                "link": "https://www.orizzontescuola.it/valditara-lautorevolezza-dei-docenti-e-la-difesa-del-personale-scolastico-sono-alla-base-del-patto-educativo-tra-scuola-e-famiglie/",
+                "date": "19 Mar 2026",
+                "time": "19:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/CleanShot-2025-12-15-at-11.10.49.png"
+            },
+            {
                 "category": "ATA",
                 "title": "Mobilità ATA 2026/2027, il 23 marzo al via le domande: ecco i MODULI utili",
                 "link": "https://www.orizzontescuola.it/mobilita-ata-2026-2027-il-23-marzo-via-le-domande-ecco-i-moduli-utili/",
@@ -38,14 +62,6 @@
                 "date": "19 Mar 2026",
                 "time": "16:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_1326961319.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Tutorial Mobilità docenti 2026, a cosa fare attenzione per inoltrare senza errori l’istanza. QUESTION TIME con Cavallini (Anief) LIVE Giovedì 19 marzo alle 17:00",
-                "link": "https://www.orizzontescuola.it/tutorial-mobilita-docenti-2026-a-cosa-fare-attenzione-per-inoltrare-senza-errori-listanza-question-time-con-cavallini-anief-live-giovedi-19-marzo-alle-1700/",
-                "date": "19 Mar 2026",
-                "time": "16:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Template_questiontime_1920x1080-17.png"
             },
             {
                 "category": "Diventare Insegnanti",
@@ -127,7 +143,12 @@
                 "date": "19 Mar 2026",
                 "time": "13:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2281563993.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Elenchi regionali per il ruolo: la BOZZA. Chi può iscriversi e con quale punteggio. Il punto di Sonia Cannas",
@@ -143,12 +164,7 @@
                 "date": "19 Mar 2026",
                 "time": "12:48",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/Carta-del-docente-2.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Istituti tecnici, Valditara: “Attuiamo la riforma, ma nel dialogo con la scuola” [VIDEO]",
@@ -276,14 +292,20 @@
                 "date": "19 Mar 2026",
                 "time": "7:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/shutterstock_1958088271.jpg"
-            },
-            null,
-            null
+            }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Addio a Umberto Bossi, il fondatore della Lega",
+                "link": "https://www.orizzontescuola.it/lutto-nel-mondo-della-politica-muore-umberto-bossi-il-fondatore-della-lega/",
+                "date": "19 Mar 2026",
+                "time": "20:50",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Ancona è la Capitale della Cultura 2028: comunità e giovani al centro del progetto vincitore",
@@ -382,6 +404,14 @@
                 "image_link": "N/A"
             },
             {
+                "category": "Chiedilo a Lalla",
+                "title": "Tutorial Mobilità docenti 2026, a cosa fare attenzione per inoltrare senza errori l’istanza. QUESTION TIME con Cavallini (Anief)",
+                "link": "https://www.orizzontescuola.it/tutorial-mobilita-docenti-2026-a-cosa-fare-attenzione-per-inoltrare-senza-errori-listanza-question-time-con-cavallini-anief-live-giovedi-19-marzo-alle-1700/",
+                "date": "19 Mar 2026",
+                "time": "16:15",
+                "image_link": "N/A"
+            },
+            {
                 "category": "Cronaca",
                 "title": "ChatGPT per i compiti e uso dei social: il sondaggio Novakid rivela che l’80% dei genitori chiede limiti rigorosi",
                 "link": "https://www.orizzontescuola.it/chatgpt-per-i-compiti-e-uso-dei-social-il-sondaggio-novakid-rivela-che-l80-dei-genitori-chiede-limiti-rigorosi/",
@@ -403,22 +433,6 @@
                 "link": "https://www.orizzontescuola.it/concorso-infanzia-e-primaria-pnrr3-arrivano-le-convocazioni-prova-orale-dal-19-gennaio-in-aggiornamento/",
                 "date": "19 Mar 2026",
                 "time": "13:00",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Valditara: “Stanco di sentir parlare di scuola italiana indietro. Non è così” [VIDEO]",
-                "link": "https://www.orizzontescuola.it/valditara-stanco-di-sentir-parlare-di-scuola-italiana-indietro-non-e-cosi/",
-                "date": "19 Mar 2026",
-                "time": "12:44",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Mobilità 2026/27 personale di ruolo, Anief: “Nel prossimo contratto nazionale doveroso ampliare le tutele facendo cambiare le norme in Parlamento”",
-                "link": "https://www.orizzontescuola.it/mobilita-2026-27-personale-di-ruolo-anief-nel-prossimo-contratto-nazionale-doveroso-ampliare-le-tutele-facendo-cambiare-le-norme-in-parlamento/",
-                "date": "19 Mar 2026",
-                "time": "12:23",
                 "image_link": "N/A"
             }
         ]
