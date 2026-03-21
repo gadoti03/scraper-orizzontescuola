@@ -23,6 +23,7 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
             {
                 "category": "Didattica",
                 "title": "The Miracle: brano dei Queen che celebra la pace come vero “miracolo” dell’umanità. Insegnare con le canzoni",
@@ -135,7 +136,12 @@
                 "date": "20 Mar 2026",
                 "time": "13:35",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/09/shutterstock_1011977677.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Mattarella allo Snals: “Decisivo il ruolo di insegnanti e operatori. Centralità scuola sempre più esigente”",
@@ -143,12 +149,7 @@
                 "date": "20 Mar 2026",
                 "time": "13:29",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2249049743.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Dirigenti scolastici",
                 "title": "Dirigenti scolastici e comunità educante: oltre gli adempimenti, il nodo della leadership pedagogica. Un contributo di Salvatore Nocera e Rosita Lanciotti",
@@ -270,7 +271,6 @@
                 "time": "7:55",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2585524683.jpg"
             },
-            null,
             null
         ]
     },
