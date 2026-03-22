@@ -2,6 +2,7 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
+            null,
             {
                 "category": "Scuole",
                 "title": "Riforma tecnici, il Ministero emana indicazioni operative: come cambia il biennio e la gestione degli organici",
@@ -9,20 +10,21 @@
                 "date": "19 Mar 2026",
                 "time": "18:38",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2154937631.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti ed ATA, ecco come funzionano: tutti i diritti aggiornati alla normativa 2026",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-ed-ata-ecco-come-funzionano-tutti-i-diritti-aggiornati-alla-normativa-2026/",
-                "date": "19 Mar 2026",
-                "time": "18:23",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/ChatGPT-Image-24-feb-2026-10_51_31.png"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Scuole",
+                "title": "Graduatoria interna d’Istituto: modello di domande per l’aggiornamento e modello circolare",
+                "link": "https://www.orizzontescuola.it/graduatoria-interna-distituto-modello-di-domande-per-laggiornamento-e-modello-circolare/",
+                "date": "22 Mar 2026",
+                "time": "7:36",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/graduatoriaInterna.png"
+            },
+            null,
             {
                 "category": "Docenti",
                 "title": "PEI senza docente di sostegno: cosa succede quando è la famiglia a rinunciarci",
@@ -134,7 +136,12 @@
                 "date": "21 Mar 2026",
                 "time": "8:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2236444265-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Il collaboratore scolastico e l’operatore scolastico: Guida + Scheda rilevazione competenze + Bozza per incarico specifico per assistenza ad alunni con disabilità",
@@ -150,13 +157,7 @@
                 "date": "21 Mar 2026",
                 "time": "8:03",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2281563993.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
-            null,
+            },
             null,
             {
                 "category": "Didattica",
@@ -270,14 +271,6 @@
                 "date": "20 Mar 2026",
                 "time": "12:21",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_2411289915.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Sostegno scolastico, ANIEF e Osservatorio 182: no riduzione ruolo GLO e richiesta chiarimento su uso degli Allegati C e C1",
-                "link": "https://www.orizzontescuola.it/sostegno-scolastico-anief-e-osservatorio-182-no-riduzione-ruolo-glo-e-richiesta-chiarimento-su-uso-degli-allegati-c-e-c1/",
-                "date": "20 Mar 2026",
-                "time": "12:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2017134863.jpg"
             }
         ]
     },
@@ -552,6 +545,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Elenchi regionali per il ruolo: la BOZZA. Chi può iscriversi e con quale punteggio. Il punto di Sonia Cannas",
+                "link": "https://www.orizzontescuola.it/elenchi-regionali-per-il-ruolo-la-bozza-chi-puo-iscriversi-e-con-quale-punteggio-il-punto-di-sonia-cannas/",
+                "date": "19 Mar 2026",
+                "time": "12:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Sonia_Cannas.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Graduatorie GPS 2026, dal 30 marzo gli Uffici Scolastici inizieranno valutazione domande. In corso l’elaborazione",
                 "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-dal-30-marzo-gli-uffici-scolastici-inizieranno-valutazione-domande-in-corso-lelaborazione/",
                 "date": "19 Mar 2026",
@@ -589,14 +590,6 @@
                 "date": "18 Mar 2026",
                 "time": "12:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_1299445015.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti PNRR3, oggi e domani le suppletive anche per candidati del X ciclo con riserva. Potrà cambiare voto minimo di accesso?",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-oggi-e-domani-le-suppletive-anche-per-candidati-del-x-ciclo-con-riserva-potra-cambiare-voto-minimo-di-accesso/",
-                "date": "18 Mar 2026",
-                "time": "10:01",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/shutterstock_595709039.jpg"
             }
         ]
     },
