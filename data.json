@@ -16,6 +16,7 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "Differenza di calcolo del punteggio tra mobilità e assegnazione provvisoria docenti",
@@ -128,7 +129,12 @@
                 "date": "21 Mar 2026",
                 "time": "16:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Mob.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Mobilità, docente di scuola primaria può chiedere passaggio di ruolo alla secondaria ma deve scegliere solo un grado anche se l’abilitazione è accorpata",
@@ -136,12 +142,7 @@
                 "date": "21 Mar 2026",
                 "time": "14:34",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_1403061611.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Docenti",
                 "title": "Mobilità docenti, Semeraro: chi può fare domanda, chi è escluso e quali istanze presentare. Il Punto",
@@ -270,14 +271,6 @@
                 "date": "20 Mar 2026",
                 "time": "18:58",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_760999171.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Mobilità insegnanti di religione 2026/27, domanda dal 21 marzo: cartacea via PEC",
-                "link": "https://www.orizzontescuola.it/mobilita-insegnanti-di-religione-2026-27-domanda-dal-21-marzo-cartacea-via-pec/",
-                "date": "20 Mar 2026",
-                "time": "18:09",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1904033662.jpg"
             }
         ]
     },
