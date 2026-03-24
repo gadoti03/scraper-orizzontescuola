@@ -23,6 +23,9 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
+            null,
+            null,
             {
                 "category": "Scuole",
                 "title": "TFS dipendenti pubblici, la Consulta rinvia al 2027: un anno al legislatore per superare ritardi e rateizzazioni",
@@ -126,7 +129,12 @@
                 "date": "23 Mar 2026",
                 "time": "11:59",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_280320314.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Punteggio di continuità docenti 2026: differenze tra mobilità e graduatoria interna di istituto",
@@ -150,12 +158,7 @@
                 "date": "23 Mar 2026",
                 "time": "11:09",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_1471441169.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Gestire la scuola",
                 "title": "Il nuovo Curriculum della studentessa e dello studente: quadro normativo e implicazioni per la dirigenza scolastica",
@@ -261,30 +264,6 @@
                 "date": "22 Mar 2026",
                 "time": "17:42",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/09/shutterstock_295307798.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Graduatorie interne di istituto docenti: punteggio figli, continuità e preruolo. Cosa fare",
-                "link": "https://www.orizzontescuola.it/graduatorie-interne-di-istituto-docenti-punteggio-figli-continuita-e-preruolo-cosa-fare/",
-                "date": "22 Mar 2026",
-                "time": "12:12",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_692011795.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "GPS 2026: chiusa la domanda il 16 marzo, potrebbero arrivare subito delle supplenze per aspiranti nuovi inseriti?",
-                "link": "https://www.orizzontescuola.it/gps-2026-chiusa-la-domanda-il-16-marzo-potrebbero-arrivare-subito-delle-supplenze-per-aspiranti-nuovi-inseriti/",
-                "date": "22 Mar 2026",
-                "time": "11:08",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2487699197.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Mobilità docenti 2026/27: Precedenza per personale docente coniuge di militare",
-                "link": "https://www.orizzontescuola.it/mobilita-docenti-2026-27-precedenza-per-personale-docente-coniuge-di-militare/",
-                "date": "22 Mar 2026",
-                "time": "10:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_145510552.jpg"
             }
         ]
     },
@@ -704,6 +683,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Bullismo a scuola: perché le sanzioni non bastano. Lettera",
+                "link": "https://www.orizzontescuola.it/bullismo-a-scuola-perche-le-sanzioni-non-bastano-lettera/",
+                "date": "24 Mar 2026",
+                "time": "6:56",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "Elenchi regionali per il ruolo: escluso il concorso straordinario bis. Chi decide quale concorso è buono e quale cattivo? Lettera",
                 "link": "https://www.orizzontescuola.it/elenchi-regionali-per-il-ruolo-escluso-il-concorso-straordinario-bis-chi-decide-quale-concorso-e-buono-e-quale-cattivo-lettera/",
                 "date": "23 Mar 2026",
@@ -740,14 +727,6 @@
                 "link": "https://www.orizzontescuola.it/perche-pinocchio-continua-a-parlare-agli-studenti-di-oggi/",
                 "date": "17 Mar 2026",
                 "time": "10:18",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Trasferimento o una “scossa” Pedagogica? Perché cambiare sede può salvare la tua Didattica. Lettera",
-                "link": "https://www.orizzontescuola.it/trasferimento-o-una-scossa-pedagogica-perche-cambiare-sede-puo-salvare-la-tua-didattica-lettera/",
-                "date": "17 Mar 2026",
-                "time": "8:55",
                 "image_link": "N/A"
             }
         ]
