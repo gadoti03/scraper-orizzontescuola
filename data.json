@@ -4,25 +4,27 @@
         "articles": [
             {
                 "category": "Docenti",
-                "title": "Commissioni esame di maturità a.s. 2025/2026: domanda dal 26 marzo al 13 aprile. Nota MIM",
-                "link": "https://www.orizzontescuola.it/commissioni-esame-di-maturita-a-s-2025-2026-domanda-dal-26-marzo-al-13-aprile-nota-mim/",
-                "date": "25 Mar 2026",
-                "time": "16:01",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2518506853.jpg"
-            },
-            {
-                "category": "Docenti",
                 "title": "Graduatorie interne di istituto docenti di ruolo entro il 17 aprile: chi viene inserito, chi escluso, a cosa serve [LO SPECIALE]",
                 "link": "https://www.orizzontescuola.it/graduatorie-interne-di-istituto-docenti-di-ruolo-entro-il-17-aprile-chi-viene-inserito-chi-escluso-a-cosa-serve-lo-speciale/",
                 "date": "25 Mar 2026",
                 "time": "11:24",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Contratto 25/27 e aumenti stipendiali, verso la firma il 1° aprile: aumenti in tre tranche, tutte le cifre, il nodo del recupero 2013. Le reazioni dei sindacati",
+                "link": "https://www.orizzontescuola.it/contratto-25-27-e-aumenti-stipendiali-verso-la-firma-il-1-aprile-aumenti-in-tre-tranche-tutte-le-cifre-il-nodo-del-recupero-2013-le-reazioni-dei-sindacati/",
+                "date": "25 Mar 2026",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Aumenti-stipendiali-2527-2.png"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
+            null,
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Tutorial mobilità docenti e ATA, passaggi di ruolo, vincoli e deroghe: le info utili. QUESTION TIME con Pizzo (Uil Scuola Rua) LIVE Giovedì 26 marzo alle 14:30",
@@ -128,6 +130,19 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/24-cfu-2022.jpg"
             },
             {
+                "category": "Docenti",
+                "title": "Commissioni esame di maturità a.s. 2025/2026: domanda dal 26 marzo al 13 aprile. Nota MIM",
+                "link": "https://www.orizzontescuola.it/commissioni-esame-di-maturita-a-s-2025-2026-domanda-dal-26-marzo-al-13-aprile-nota-mim/",
+                "date": "25 Mar 2026",
+                "time": "16:01",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2518506853.jpg"
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze docenti da GPS e GaE: differenti le tempistiche di inserimento della riserva Legge 68/99 per lo stesso fine. È corretto?",
                 "link": "https://www.orizzontescuola.it/supplenze-docenti-da-gps-e-gae-differenti-le-tempistiche-di-inserimento-della-riserva-legge-68-99-per-lo-stesso-fine-e-corretto/",
@@ -150,12 +165,7 @@
                 "date": "25 Mar 2026",
                 "time": "15:11",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/mad-online-laureati-graduatorie-1.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Plus",
                 "title": "Mobilità 2026 – Ti aiutiamo a non sbagliare. Consulenza di gruppo, solo 5 posti",
@@ -269,23 +279,13 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/02/shutterstock_794205979.jpg"
             },
             {
-                "category": "Politica scolastica",
-                "title": "Contratto 25/27 e aumenti stipendiali, verso la firma il 1° aprile: aumenti in tre tranche, tutte le cifre, il nodo del recupero 2013. Le reazioni dei sindacati",
-                "link": "https://www.orizzontescuola.it/contratto-25-27-e-aumenti-stipendiali-verso-la-firma-il-1-aprile-aumenti-in-tre-tranche-tutte-le-cifre-il-nodo-del-recupero-2013-le-reazioni-dei-sindacati/",
-                "date": "25 Mar 2026",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Aumenti-stipendiali-2527-2.png"
-            },
-            {
                 "category": "Docenti",
                 "title": "Mobilità docenti 2026/27: chi può presentare domanda, i vincoli, il passaggio di ruolo [LO SPECIALE]",
                 "link": "https://www.orizzontescuola.it/mobilita-docenti-2026-27-chi-puo-presentare-domanda-i-vincoli-il-passaggio-di-ruolo-lo-speciale/",
                 "date": "25 Mar 2026",
                 "time": "7:43",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Sottotitolo-2-3.png"
-            },
-            null,
-            null
+            }
         ]
     },
     "group_4": {
@@ -604,6 +604,14 @@
         "title": "Notizie ATA",
         "articles": [
             {
+                "category": "Gestire la scuola",
+                "title": "Richiamo alla gravità delle aggressioni al personale scolastico: profili normativi, responsabilità penali, civili e disciplinari; in allegato un modello di circolare",
+                "link": "https://www.orizzontescuola.it/richiamo-alla-gravita-delle-aggressioni-al-personale-scolastico-profili-normativi-responsabilita-penali-civili-e-disciplinari-in-allegato-un-modello-di-circolare/",
+                "date": "24 Mar 2026",
+                "time": "11:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_1918059161-scaled.jpg"
+            },
+            {
                 "category": "ATA",
                 "title": "Aumenti stipendiali ATA 2025/27: fino a 194 euro. Tutte le cifre per profilo. Tabella",
                 "link": "https://www.orizzontescuola.it/aumenti-stipendiali-ata-2025-27-fino-a-194-euro-tutte-le-cifre-per-profilo-tabella/",
@@ -642,14 +650,6 @@
                 "date": "23 Mar 2026",
                 "time": "11:07",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/shutterstock_2347683935.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Collaboratrice scolastica condannata a restituire poco più di 50mila euro per aver lavorato con un titolo falso",
-                "link": "https://www.orizzontescuola.it/collaboratrice-scolastica-condannata-a-restituire-poco-piu-di-50mila-euro-per-aver-lavorato-con-un-titolo-falso/",
-                "date": "22 Mar 2026",
-                "time": "19:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2421530637.jpg"
             }
         ]
     },
