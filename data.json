@@ -24,6 +24,22 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "ATA",
+                "title": "“Mondo ATA”, speciale mobilità + il meglio della settimana. Iscriviti gratuitamente",
+                "link": "https://www.orizzontescuola.it/mondo-ata-speciale-mobilita-il-meglio-della-settimana-iscriviti-gratuitamente/",
+                "date": "26 Mar 2026",
+                "time": "21:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Sottotitolo-2-4.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Mobilità docenti, se nella domanda si inseriscono sia preferenze provinciali sia interprovinciali, quale ordine segue il sistema nell’elaborazione?",
+                "link": "https://www.orizzontescuola.it/mobilita-docenti-se-nella-domanda-si-inseriscono-sia-preferenze-provinciali-sia-interprovinciali-quale-ordine-segue-il-sistema-nellelaborazione/",
+                "date": "26 Mar 2026",
+                "time": "21:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_145510552.jpg"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Docente accoltellata, la sua lettera aperta agli alunni: “Tornerò in classe, non porto rabbia, voglio rivedervi crescere”",
                 "link": "https://www.orizzontescuola.it/docente-accoltellata-il-suo-messaggio-agli-alunni-tornero-in-classe-non-porto-rabbia-voglio-rivedervi-crescere/",
@@ -134,7 +150,12 @@
                 "date": "26 Mar 2026",
                 "time": "14:57",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_1708378216.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "TFA sostegno XI ciclo: quando viene pubblicato il bando, quali sono i requisiti di accesso e chi non svolge la preselettiva",
@@ -143,12 +164,7 @@
                 "time": "14:54",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_1903057546.jpg"
             },
-            null
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "Non è possibile frequentare contemporaneamente il corso INDIRE sostegno e il percorso abilitante su materia",
@@ -262,28 +278,20 @@
                 "date": "26 Mar 2026",
                 "time": "8:55",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_219161935.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Docente accoltellata: studente bloccato da un insegnante e un collaboratore. Immobilizzato fino all’arrivo dell’Arma",
-                "link": "https://www.orizzontescuola.it/docente-accoltellata-studente-bloccato-da-un-insegnante-e-un-collaboratore-immobilizzato-fino-allarrivo-dellarma/",
-                "date": "26 Mar 2026",
-                "time": "8:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_1912367710-scaled.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Mobilità ATA 2026/27: come funziona la domanda per passaggio di profilo. Possibile solo nella stessa area",
-                "link": "https://www.orizzontescuola.it/mobilita-ata-2026-27-come-funziona-la-domanda-per-passaggio-di-profilo-possibile-solo-nella-stessa-area/",
-                "date": "26 Mar 2026",
-                "time": "8:19",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2198683335.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Docente accoltellata, il legale dello studente: “Possibile influenza da contatti social. Rapporto con insegnante era conflittuale”",
+                "link": "https://www.orizzontescuola.it/docente-accoltellata-il-legale-dello-studente-possibile-influenza-da-contatti-social-rapporto-con-insegnante-era-conflittuale/",
+                "date": "26 Mar 2026",
+                "time": "20:47",
+                "image_link": "N/A"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Docenti di sostegno specializzati: il CSPI dà parere positivo alla procedura straordinaria di assunzione ma chiede la modifica dei punteggi nelle GPS",
@@ -411,14 +419,6 @@
                 "link": "https://www.orizzontescuola.it/parlamento-europeo-approva-la-posizione-sulla-semplificazione-dellai-act-slittano-al-2027-le-norme-per-i-sistemi-ad-alto-rischio-inclusi-quelli-in-uso-nellistruzione/",
                 "date": "26 Mar 2026",
                 "time": "12:18",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Spazi verdi scolastici sottoutilizzati e impianti sportivi poco accessibili: il 27 e 28 marzo torna “Nontiscordardimé” per rigenerare cortili, aule e aree esterne",
-                "link": "https://www.orizzontescuola.it/spazi-verdi-scolastici-sottoutilizzati-e-impianti-sportivi-poco-accessibili-il-27-e-28-marzo-torna-nontiscordardime-per-rigenerare-cortili-aule-e-aree-esterne/",
-                "date": "26 Mar 2026",
-                "time": "12:12",
                 "image_link": "N/A"
             }
         ]
