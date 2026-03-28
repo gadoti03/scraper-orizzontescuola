@@ -23,6 +23,7 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            null,
             {
                 "category": "ATA",
                 "title": "Mobilità ATA 2026/27, come funzionano i posti richiedibili: cosa prevede l’ordinanza ed elenchi ufficiali",
@@ -142,7 +143,12 @@
                 "date": "27 Mar 2026",
                 "time": "15:26",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1936676008-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Elenchi regionali per il ruolo: all’interno dello stesso concorso precede chi ha il punteggio di prova scritta e prova orale più alto",
@@ -150,12 +156,7 @@
                 "date": "27 Mar 2026",
                 "time": "15:21",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2498781455.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Docenti",
                 "title": "Maturità 2026, come cambia il colloquio: struttura, contenuti e punteggio. ORDINANZA e GRIGLIA DI VALUTAZIONE",
@@ -284,14 +285,6 @@
                 "date": "27 Mar 2026",
                 "time": "8:15",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Screenshot-2026-03-13-alle-10.58.36.png"
-            },
-            {
-                "category": "Docenti",
-                "title": "Lifeline School e la scuola che sostiene: prospettive pedagogiche, dispositivi didattici e criteri di valutazione per una scuola ad alta tenuta educativa",
-                "link": "https://www.orizzontescuola.it/lifeline-school-e-la-scuola-che-sostiene-prospettive-pedagogiche-dispositivi-didattici-e-criteri-di-valutazione-per-una-scuola-ad-alta-tenuta-educativa/",
-                "date": "27 Mar 2026",
-                "time": "8:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_737360479.jpg"
             }
         ]
     },
