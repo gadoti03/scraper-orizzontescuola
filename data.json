@@ -24,6 +24,31 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Scuole",
+                "title": "109 modelli documentali utili per DM 107/2025, per la gestione della procedura negoziata senza bando sul mepa mediante RDO evoluta",
+                "link": "https://www.orizzontescuola.it/109-modelli-documentali-utili-per-dm-107-2025-per-la-gestione-della-procedura-negoziata-senza-bando-sul-mepa-mediante-rdo-evoluta/",
+                "date": "29 Mar 2026",
+                "time": "8:38",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Laboratori-professionalizzanti-1.png"
+            },
+            {
+                "category": "Docenti",
+                "title": "Vacanze di Pasqua al via il 2 aprile: le date del calendario scolastico e i ponti di primavera",
+                "link": "https://www.orizzontescuola.it/vacanze-di-pasqua-al-via-il-2-aprile-le-date-del-calendario-scolastico/",
+                "date": "29 Mar 2026",
+                "time": "8:32",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/09/shutterstock_221012134.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Tutela del personale scolastico: responsabilità del Dirigente, privacy profili risarcitori",
+                "link": "https://www.orizzontescuola.it/tutela-del-personale-scolastico-responsabilita-del-dirigente-privacy-profili-risarcitori/",
+                "date": "29 Mar 2026",
+                "time": "8:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/responsab.png"
+            },
+            null,
+            {
                 "category": "ATA",
                 "title": "Mobilità ATA 2026/27, come indicare le preferenze: fino a 15 scelte tra scuole, comuni e province",
                 "link": "https://www.orizzontescuola.it/mobilita-ata-2026-27-come-indicare-le-preferenze-fino-a-15-scelte-tra-scuole-comuni-e-province/",
@@ -90,14 +115,6 @@
             },
             {
                 "category": "Scuole",
-                "title": "6 modelli documentali utili per DM 107/2025 Laboratori professionalizzanti per la selezione di progettista e figure ATA di supporto al progetto",
-                "link": "https://www.orizzontescuola.it/6-modelli-documentali-utili-per-dm-107-2025-laboratori-professionalizzanti-per-la-selezione-di-progettista-e-figure-ata-di-supporto-al-progetto/",
-                "date": "28 Mar 2026",
-                "time": "13:34",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Laboratori-professionalizzanti.png"
-            },
-            {
-                "category": "Scuole",
                 "title": "TFS e TFR dipendenti pubblici, tempi più brevi dal 2027. Cosa cambia anche per la scuola: le novità nella circolare INPS",
                 "link": "https://www.orizzontescuola.it/tfs-e-tfr-dipendenti-pubblici-tempi-piu-brevi-dal-2027-cosa-cambia-anche-per-la-scuola-le-novita-nella-circolare-inps/",
                 "date": "28 Mar 2026",
@@ -112,7 +129,12 @@
                 "time": "12:36",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2518506853.jpg"
             },
-            null,
+            null
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Permessi e distacchi sindacali, GEDAP non disponibile: scadenza prorogata al 20 aprile per PA e scuole",
@@ -136,12 +158,7 @@
                 "date": "28 Mar 2026",
                 "time": "10:59",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Agenda-Sud.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "Permessi Legge 104, comunicazione dati entro il 31 marzo: scadenza imminente anche per le scuole",
@@ -261,23 +278,6 @@
                 "date": "28 Mar 2026",
                 "time": "8:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/gi_interne.png"
-            },
-            null,
-            {
-                "category": "ATA",
-                "title": "Mobilità ATA 2026/27, come funzionano i posti richiedibili: cosa prevede l’ordinanza ed elenchi ufficiali",
-                "link": "https://www.orizzontescuola.it/mobilita-ata-2026-27-come-funzionano-i-posti-richiedibili-cosa-prevede-lordinanza-ed-elenchi-ufficiali/",
-                "date": "27 Mar 2026",
-                "time": "19:59",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1687192501-scaled.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Maturità 2026, le regole per i candidati con disabilità: prove equipollenti, tempi differenziati e attestato di credito formativo. Cosa dice l’ORDINANZA",
-                "link": "https://www.orizzontescuola.it/maturita-2026-le-regole-per-i-candidati-con-disabilita-prove-equipollenti-tempi-differenziati-e-attestato-di-credito-formativo-cosa-dice-lordinanza/",
-                "date": "27 Mar 2026",
-                "time": "19:37",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/10/shutterstock_530331313.jpg"
             }
         ]
     },
@@ -605,6 +605,14 @@
         "articles": [
             {
                 "category": "ATA",
+                "title": "Mobilità ATA e graduatorie posizioni economiche: nuove indicazioni possibili dopo le prove del 23 aprile",
+                "link": "https://www.orizzontescuola.it/mobilita-ata-e-graduatorie-posizioni-economiche-indicazioni-attese-dopo-le-prove-del-23-aprile/",
+                "date": "26 Mar 2026",
+                "time": "16:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_608600555.jpg"
+            },
+            {
+                "category": "ATA",
                 "title": "Mobilità ATA: dove inserire l’anzianità di servizio nella domanda e quanti punti spettano",
                 "link": "https://www.orizzontescuola.it/mobilita-ata-dove-inserire-lanzianita-di-servizio-nella-domanda-e-quanti-punti-spettano/",
                 "date": "26 Mar 2026",
@@ -642,14 +650,6 @@
                 "date": "25 Mar 2026",
                 "time": "8:55",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1936676008-scaled.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Posizioni economiche ATA, prova suppletiva il 23 aprile. AVVISO calendario",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-prova-suppletiva-il-23-aprile-avviso-calendario/",
-                "date": "24 Mar 2026",
-                "time": "17:06",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2331500305.jpg"
             }
         ]
     },
