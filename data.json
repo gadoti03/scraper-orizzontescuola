@@ -3,26 +3,69 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "A scuola dalle 8 alle 16.30: studenti senza smartphone e corsi yoga per docenti. Il Campus dell’ITI “Marconi” di Dalmine. INTERVISTA al Dirigente Chiappa",
+                "link": "https://www.orizzontescuola.it/a-scuola-dalle-8-alle-16-30-senza-smartphone-il-campus-delliti-marconi-di-dalmine-che-previene-lhikikomori-e-sviluppa-le-competenze-trasversali-intervista-al-dirigente/",
+                "date": "30 Mar 2026",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Maurizio_chiappa.png"
+            },
+            {
                 "category": "Plus",
                 "title": "I diritti di docenti e ATA di ruolo e precari spiegati bene: aspettative, congedi, permessi, 104, ferie e malattie",
                 "link": "https://www.orizzontescuola.it/i-diritti-di-docenti-e-ata-di-ruolo-e-precari-spiegati-bene-cosa-fare-in-caso-di-aspettative-congedi-permessi-104-ferie-e-malattie/",
                 "date": "29 Mar 2026",
                 "time": "20:12",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/Screenshot-2026-01-22-102351.png"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Il “treno dei bambini” torna al Sud. Piccoli studenti di Modena accolti a Napoli per rievocare l’esperienza del Dopoguerra",
-                "link": "https://www.orizzontescuola.it/studenti-modenesi-ospiti-a-napoli-in-una-esperienza-di-scambio-conoscenza-e-produzione-cinematografica-intervista-alla-dirigente-zetti/",
-                "date": "28 Mar 2026",
-                "time": "8:12",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/2-1.png"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Stipendio",
+                "title": "Stipendi scuola, gli aumenti contrattuali copriranno il 60% dell’inflazione. I nostri calcoli",
+                "link": "https://www.orizzontescuola.it/stipendi-scuola-gli-aumenti-contrattuali-copriranno-il-60-dellinflazione-i-nostri-calcoli/",
+                "date": "30 Mar 2026",
+                "time": "9:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_2678601879.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "C-Pen a Fiera Didacta: la penna scanner con sintesi vocale e traduttore integrato per studenti con difficoltà di lettura arriva in Italia [VIDEO]",
+                "link": "https://www.orizzontescuola.it/c-pen-a-fiera-didacta-la-penna-scanner-con-sintesi-vocale-e-traduttore-integrato-per-studenti-con-difficolta-di-lettura-arriva-in-italia-video/",
+                "date": "30 Mar 2026",
+                "time": "8:31",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Screenshot-2026-03-13-alle-10.37.56.png"
+            },
+            {
+                "category": "Docenti",
+                "title": "Costruire mappe per abitare l’intelligenza artificiale: la visione di Luca Gervasutti a Didacta",
+                "link": "https://www.orizzontescuola.it/costruire-mappe-per-abitare-lintelligenza-artificiale-la-visione-di-luca-gervasutti-a-didacta/",
+                "date": "30 Mar 2026",
+                "time": "8:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/LUCA-GERVASUTTI-1.jpeg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Oltre i “like” online, rieducare alla comunicazione interpersonale e ai feedback reali",
+                "link": "https://www.orizzontescuola.it/oltre-i-like-online-rieducare-alla-comunicazione-interpersonale-e-ai-feedback-reali/",
+                "date": "30 Mar 2026",
+                "time": "8:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2413064599.jpg"
+            },
+            null,
+            null,
+            null,
+            {
+                "category": "Scuole",
+                "title": "109 modelli documentali utili per DM 107/2025, per la gestione della procedura negoziata senza bando sul mepa mediante RDO evoluta",
+                "link": "https://www.orizzontescuola.it/109-modelli-documentali-utili-per-dm-107-2025-per-la-gestione-della-procedura-negoziata-senza-bando-sul-mepa-mediante-rdo-evoluta/",
+                "date": "30 Mar 2026",
+                "time": "7:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Laboratori-professionalizzanti-1.png"
+            },
             null,
             {
                 "category": "Diventare Insegnanti",
@@ -79,7 +122,12 @@
                 "date": "29 Mar 2026",
                 "time": "11:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Template_questiontime_1920x1080-31.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Docenti",
                 "title": "Graduatoria interna di istituto: non si può utilizzare la legge 104 riferita alla nonna per essere esclusi",
@@ -143,12 +191,7 @@
                 "date": "29 Mar 2026",
                 "time": "9:24",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_415216972.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "DSGA e contrattazione integrativa d’Istituto: funzioni, responsabilità e prassi operative. Con modello relazione tecnica + checklist",
@@ -156,14 +199,6 @@
                 "date": "29 Mar 2026",
                 "time": "9:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/dsga_istituto.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "109 modelli documentali utili per DM 107/2025, per la gestione della procedura negoziata senza bando sul mepa mediante RDO evoluta",
-                "link": "https://www.orizzontescuola.it/109-modelli-documentali-utili-per-dm-107-2025-per-la-gestione-della-procedura-negoziata-senza-bando-sul-mepa-mediante-rdo-evoluta/",
-                "date": "29 Mar 2026",
-                "time": "8:38",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Laboratori-professionalizzanti-1.png"
             },
             {
                 "category": "Docenti",
@@ -229,54 +264,68 @@
                 "date": "28 Mar 2026",
                 "time": "15:44",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Agenda-Nord.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "Accessibilità digitale, scadenza del 31 marzo: aggiornato l’applicativo Form di AgID",
-                "link": "https://www.orizzontescuola.it/accessibilita-digitale-scadenza-del-31-marzo-aggiornato-lapplicativo-form-di-agid/",
-                "date": "28 Mar 2026",
-                "time": "14:41",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2142010183-scaled.jpg"
-            },
-            null,
-            {
-                "category": "Docenti",
-                "title": "Il servizio prestato nelle scuole paritarie non è valutabile nella domanda di mobilità docenti 2026",
-                "link": "https://www.orizzontescuola.it/il-servizio-prestato-nelle-scuole-paritarie-non-e-valutabile-nella-domanda-di-mobilita-docenti-2026/",
-                "date": "28 Mar 2026",
-                "time": "13:59",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2352497975.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Mobilità docenti 2026/27: chi può presentare domanda, i vincoli, il passaggio di ruolo [LO SPECIALE]",
-                "link": "https://www.orizzontescuola.it/mobilita-docenti-2026-27-chi-puo-presentare-domanda-i-vincoli-il-passaggio-di-ruolo-lo-speciale/",
-                "date": "28 Mar 2026",
-                "time": "13:01",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Sottotitolo-2-3.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "TFS e TFR dipendenti pubblici, tempi più brevi dal 2027. Cosa cambia anche per la scuola: le novità nella circolare INPS",
-                "link": "https://www.orizzontescuola.it/tfs-e-tfr-dipendenti-pubblici-tempi-piu-brevi-dal-2027-cosa-cambia-anche-per-la-scuola-le-novita-nella-circolare-inps/",
-                "date": "28 Mar 2026",
-                "time": "12:37",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/10/shutterstock_1708208674.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Trasferimento o passaggio di cattedra da sostegno a posto comune? Come deve essere compilata la domanda di mobilità e quali sono i limiti della piattaforma",
-                "link": "https://www.orizzontescuola.it/trasferimento-o-passaggio-di-cattedra-da-sostegno-a-posto-comune-come-deve-essere-compilata-la-domanda-di-mobilita-e-quali-sono-i-limiti-della-piattaforma/",
-                "date": "28 Mar 2026",
-                "time": "12:36",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2518506853.jpg"
-            },
-            null
+            }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Genitori",
+                "title": "“Tutti i miei compagni hanno uno smartphone”, cosa rispondere a tuo figlio",
+                "link": "https://www.orizzontescuola.it/tutti-i-miei-compagni-hanno-uno-smartphone-cosa-rispondere-a-tuo-figlio/",
+                "date": "30 Mar 2026",
+                "time": "9:10",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Arrestato un 17enne: progettava strage a scuola. Accuse di terrorismo maturate online",
+                "link": "https://www.orizzontescuola.it/perugia-arrestato-un-17enne-progettava-strage-a-scuola-accuse-di-terrorismo-maturate-online/",
+                "date": "30 Mar 2026",
+                "time": "9:01",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Valditara: “Aggressioni ai docenti in calo”. I numeri citati dal ministro",
+                "link": "https://www.orizzontescuola.it/valditara-aggressioni-ai-docenti-in-calo-i-numeri-citati-dal-ministro/",
+                "date": "30 Mar 2026",
+                "time": "8:50",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“IA Sicilia”, la prima rete regionale per l’intelligenza artificiale nelle scuole: il 31 marzo a Palermo e il 1° aprile a Catania la presentazione ufficiale",
+                "link": "https://www.orizzontescuola.it/ia-sicilia-la-prima-rete-regionale-per-lintelligenza-artificiale-nelle-scuole-il-31-marzo-a-palermo-e-il-1-aprile-a-catania-la-presentazione-ufficiale/",
+                "date": "30 Mar 2026",
+                "time": "8:29",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Adolescenti violenti, la proposta di Crepet: “Abbassare la maggiore età a 16 anni” per bilanciare diritti e doveri",
+                "link": "https://www.orizzontescuola.it/adolescenti-violenti-la-proposta-di-crepet-abbassare-la-maggiore-eta-a-16-anni-per-bilanciare-diritti-e-doveri/",
+                "date": "30 Mar 2026",
+                "time": "8:17",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Assistenti all’autonomia diventano dipendenti delle funzioni locali: al via l’esame del ddl in VII e XI Commissione alla Camera. Le richieste di Anief",
+                "link": "https://www.orizzontescuola.it/assistenti-allautonomia-diventano-dipendenti-delle-funzioni-locali-al-via-lesame-del-ddl-in-vii-e-xi-commissione-alla-camera-le-richieste-di-anief/",
+                "date": "30 Mar 2026",
+                "time": "8:11",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Parte il servizio nursery per l’accoglienza e il sostegno ai minori durante i corsi serali per adulti presso l’IISS Einaudi di Manduria, in Puglia",
+                "link": "https://www.orizzontescuola.it/parte-il-servizio-nursery-per-laccoglienza-e-il-sostegno-ai-minori-durante-i-corsi-serali-per-adulti-presso-liiss-einaudi-di-manduria-in-puglia/",
+                "date": "30 Mar 2026",
+                "time": "7:55",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Bonus giovani 2026, incentivi per assunzioni stabili fino al 30 aprile: opportunità anche per studenti e neolaureati",
@@ -319,7 +368,7 @@
             },
             {
                 "category": "Cronaca",
-                "title": "Scuola finisce nella lista degli Istituti che non hanno celebrato il Giorno del Ricordo. La prof: “Le scuole non sono un tribunale politico”",
+                "title": "Scuola finisce nella lista degli Istituti che non hanno celebrato il Giorno del Ricordo. “Le scuole non sono un tribunale politico”",
                 "link": "https://www.orizzontescuola.it/scuola-finisce-nella-lista-degli-istituti-che-non-hanno-celebrato-il-giorno-del-ricordo-la-prof-le-scuole-non-sono-un-tribunale-politico/",
                 "date": "29 Mar 2026",
                 "time": "9:47",
@@ -363,62 +412,6 @@
                 "link": "https://www.orizzontescuola.it/maturita-2026-con-regole-diverse-e-meno-prof-anief-promuove-le-novita-ma-chiede-un-adeguamento-sostanzioso-dei-compensi-di-commissari-e-presidenti/",
                 "date": "28 Mar 2026",
                 "time": "16:32",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "“Senza passione non si insegna”: lo sfogo di Elisa contro gli insegnanti “a cui non può fregar di meno. Scusate, ma qualcuno doveva dirlo”",
-                "link": "https://www.orizzontescuola.it/senza-passione-non-si-insegna-lo-sfogo-di-elisa-contro-gli-insegnanti-a-cui-non-puo-fregar-di-meno-scusate-ma-qualcuno-doveva-dirlo/",
-                "date": "28 Mar 2026",
-                "time": "15:34",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Docente accoltellata, le sue condizioni continua a migliorare. La sua auto era stata vandalizzata qualche settimana prima dell’aggressione",
-                "link": "https://www.orizzontescuola.it/docente-accoltellata-le-sue-condizioni-continua-a-migliorare-la-sua-auto-era-stata-vandalizzata-qualche-settimana-prima-dellaggressione/",
-                "date": "28 Mar 2026",
-                "time": "15:14",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Diciotto studenti ricoverati dopo la cena in gita",
-                "link": "https://www.orizzontescuola.it/diciotto-studenti-ricoverati-dopo-la-cena-in-gita/",
-                "date": "28 Mar 2026",
-                "time": "15:09",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Genitori",
-                "title": "Bonus asilo nido 2026, domande valide fino ai 3 anni e importi fino a 3.600 euro: circolare INPS",
-                "link": "https://www.orizzontescuola.it/bonus-asilo-nido-2026-domande-valide-fino-ai-3-anni-e-importi-fino-a-3-600-euro-circolare-inps/",
-                "date": "28 Mar 2026",
-                "time": "13:33",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Nuove lauree infermieristiche: ecco i decreti del MUR",
-                "link": "https://www.orizzontescuola.it/nuove-lauree-infermieristiche-i-decreti-mur/",
-                "date": "28 Mar 2026",
-                "time": "12:01",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "I bambini felici sono i bambini che hanno imparato ad attendere: la riflessione di Luigi Gallimberti e il “marshmallow test”",
-                "link": "https://www.orizzontescuola.it/i-bambini-felici-sono-i-bambini-che-hanno-imparato-ad-attendere-la-riflessione-di-luigi-gallimberti-e-il-marshmallow-test/",
-                "date": "28 Mar 2026",
-                "time": "11:25",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "De Luca su “famiglia nel bosco”: “Darei tre anni di carcere al padre e alla madre di quei bambini”",
-                "link": "https://www.orizzontescuola.it/de-luca-su-famiglia-nel-bosco-darei-tre-anni-di-carcere-al-padre-e-alla-madre-di-quei-bambini/",
-                "date": "28 Mar 2026",
-                "time": "10:55",
                 "image_link": "N/A"
             }
         ]
@@ -545,6 +538,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Mobilità docenti, se nella domanda si inseriscono sia preferenze provinciali sia interprovinciali, quale ordine segue il sistema nell’elaborazione?",
+                "link": "https://www.orizzontescuola.it/mobilita-docenti-se-nella-domanda-si-inseriscono-sia-preferenze-provinciali-sia-interprovinciali-quale-ordine-segue-il-sistema-nellelaborazione/",
+                "date": "26 Mar 2026",
+                "time": "21:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_145510552.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Elenchi regionali per il ruolo: unica riserva prevista è la legge 68/99, no servizio civile nazionale e universale, no tre anni di servizio",
                 "link": "https://www.orizzontescuola.it/elenchi-regionali-per-il-ruolo-unica-riserva-prevista-e-la-legge-68-99-no-servizio-civile-nazionale-e-universale-no-tre-anni-di-servizio/",
                 "date": "26 Mar 2026",
@@ -582,14 +583,6 @@
                 "date": "26 Mar 2026",
                 "time": "14:57",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_1708378216.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "TFA sostegno XI ciclo: quando viene pubblicato il bando, quali sono i requisiti di accesso e chi non svolge la preselettiva",
-                "link": "https://www.orizzontescuola.it/tfa-sostegno-xi-ciclo-quando-viene-pubblicato-il-bando-quali-sono-i-requisiti-di-accesso-e-chi-non-svolge-la-preselettiva/",
-                "date": "26 Mar 2026",
-                "time": "14:54",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_1903057546.jpg"
             }
         ]
     },
