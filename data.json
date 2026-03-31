@@ -3,26 +3,77 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "Docenti",
+                "title": "“Il continuo scroll impedisce lo sviluppo dell’attenzione e crea dipendenza. Vi spiego come difendere i vostri bambini”. INTERVISTA al Professor Giovanni Mento",
+                "link": "https://www.orizzontescuola.it/il-continuo-scroll-impedisce-lo-sviluppo-dellattenzione-e-crea-dipendenza-vi-spiego-come-difendere-i-vostri-bambini-intervista-alprofessor-giovanni-mento/",
+                "date": "31 Mar 2026",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Mento.png"
+            },
+            {
                 "category": "Cronaca",
                 "title": "A scuola dalle 8 alle 16.30: studenti senza smartphone e corsi yoga per docenti. Il Campus dell’ITI “Marconi” di Dalmine. INTERVISTA al Dirigente Chiappa",
                 "link": "https://www.orizzontescuola.it/a-scuola-dalle-8-alle-16-30-senza-smartphone-il-campus-delliti-marconi-di-dalmine-che-previene-lhikikomori-e-sviluppa-le-competenze-trasversali-intervista-al-dirigente/",
                 "date": "30 Mar 2026",
                 "time": "8:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Maurizio_chiappa.png"
-            },
-            {
-                "category": "Plus",
-                "title": "I diritti di docenti e ATA di ruolo e precari spiegati bene: aspettative, congedi, permessi, 104, ferie e malattie",
-                "link": "https://www.orizzontescuola.it/i-diritti-di-docenti-e-ata-di-ruolo-e-precari-spiegati-bene-cosa-fare-in-caso-di-aspettative-congedi-permessi-104-ferie-e-malattie/",
-                "date": "29 Mar 2026",
-                "time": "20:12",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/Screenshot-2026-01-22-102351.png"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "ATA",
+                "title": "Mobilità ATA: “Errore frequente dimenticare gli allegati, così perdete punti”. I consigli e il Punto di Attilio Varengo",
+                "link": "https://www.orizzontescuola.it/mobilita-ata-errore-frequente-dimenticare-gli-allegati-cosi-perdete-punti-i-consigli-e-il-punto-di-attilio-varengo/",
+                "date": "31 Mar 2026",
+                "time": "8:54",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Attilio_varengo.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Come usare robot e Intelligenza artificiale nell’insegnamento, è realtà. Cosa sa fare questo robot? Melania Trump riunisce a Washington 45 Paesi",
+                "link": "https://www.orizzontescuola.it/come-usare-robot-e-intelligenza-artificiale-nellinsegnamento-e-realta-cosa-sa-fare-questo-robot-melania-trump-riunisce-a-washington-45-paesi/",
+                "date": "31 Mar 2026",
+                "time": "8:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Screenshot-2026-03-31-074817.png"
+            },
+            {
+                "category": "Docenti",
+                "title": "L’Infanzia è sotto pressione: tra richiesta di prestazioni precoci e ansia da risultato",
+                "link": "https://www.orizzontescuola.it/linfanzia-e-sotto-pressione-tra-richiesta-di-prestazioni-precoci-e-ansia-da-risultato/",
+                "date": "31 Mar 2026",
+                "time": "8:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_1908802453.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Sanzioni disciplinari e giustizia riparativa a scuola, tutte le guide e i documenti pronti all’uso",
+                "link": "https://www.orizzontescuola.it/sanzioni-disciplinari-e-giustizia-riparativa-a-scuola-altri-documenti-in-arrivo/",
+                "date": "31 Mar 2026",
+                "time": "7:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Sanzioni-disciplinari-e-giustizia-riparativa-3.png"
+            },
+            null,
+            null,
+            null,
+            {
+                "category": "ATA",
+                "title": "Mobilità ATA 2026, vincoli e deroghe: ecco a cosa fare attenzione. QUESTION TIME con Mileto (Gilda Sinatas) LIVE Martedì 31 marzo alle 15:30",
+                "link": "https://www.orizzontescuola.it/mobilita-ata-2026-vincoli-e-deroghe-ecco-a-cosa-fare-attenzione-question-time-con-mileto-gilda-sinatas-live-martedi-31-marzo-alle-1530/",
+                "date": "31 Mar 2026",
+                "time": "7:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Template_questiontime_1920x1080-19.09.02.png"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Tutorial mobilità docenti 2026, ultimi giorni per presentare l’istanza. Ecco le info utili. QUESTION TIME con Craparo (Gilda) LIVE Martedì 31 marzo alle 18:00",
+                "link": "https://www.orizzontescuola.it/tutorial-mobilita-docenti-2026-ultimi-giorni-per-presentare-listanza-ecco-le-info-utili-question-time-con-craparo-gilda-live-martedi-31-marzo-alle-1430/",
+                "date": "31 Mar 2026",
+                "time": "7:05",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Template_questiontime_1920x1080-33.png"
+            },
             {
                 "category": "Docenti",
                 "title": "La laurea può essere valutata come titolo aggiuntivo nella mobilità docenti 2026?",
@@ -38,22 +89,6 @@
                 "date": "30 Mar 2026",
                 "time": "19:12",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1440992648.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Mobilità ATA 2026, vincoli e deroghe: ecco a cosa fare attenzione. QUESTION TIME con Mileto (Gilda Sinatas) LIVE Martedì 31 marzo alle 15:30",
-                "link": "https://www.orizzontescuola.it/mobilita-ata-2026-vincoli-e-deroghe-ecco-a-cosa-fare-attenzione-question-time-con-mileto-gilda-sinatas-live-martedi-31-marzo-alle-1530/",
-                "date": "30 Mar 2026",
-                "time": "19:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Template_questiontime_1920x1080-19.09.02.png"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Tutorial mobilità docenti 2026, ultimi giorni per presentare l’istanza. Ecco le info utili. QUESTION TIME con Craparo (Gilda) LIVE Martedì 31 marzo alle 14:30",
-                "link": "https://www.orizzontescuola.it/tutorial-mobilita-docenti-2026-ultimi-giorni-per-presentare-listanza-ecco-le-info-utili-question-time-con-craparo-gilda-live-martedi-31-marzo-alle-1430/",
-                "date": "30 Mar 2026",
-                "time": "19:05",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Template_questiontime_1920x1080-32.png"
             },
             {
                 "category": "Plus",
@@ -94,7 +129,12 @@
                 "date": "30 Mar 2026",
                 "time": "17:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2502187265.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Docente accoltellata, dimessa dall’ospedale dopo il ricovero. Il legale: “Vuole tornare a scuola il prima possibile”",
@@ -150,12 +190,7 @@
                 "date": "30 Mar 2026",
                 "time": "12:31",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_1294728310.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Docenti",
                 "title": "Esclusione da graduatoria interna d’istituto non impedisce al docente di presentare domanda di mobilità volontaria in altro comune",
@@ -243,61 +278,28 @@
                 "date": "30 Mar 2026",
                 "time": "10:24",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1508556191.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Commissione Maturità 2026, obbligo domanda per docente a tempo indeterminato. Con almeno 10 anni di ruolo può candidarsi anche come Presidente",
-                "link": "https://www.orizzontescuola.it/commissione-maturita-2026-obbligo-domanda-per-docente-a-tempo-indeterminato-con-almeno-10-anni-di-ruolo-puo-candidarsi-anche-come-presidente/",
-                "date": "30 Mar 2026",
-                "time": "10:19",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/04/shutterstock_1495708661.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi abilitanti docenti secondaria 2025/26: autorizzati ulteriori 42 posti. Ecco dove e per quali classi di concorso",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-docenti-secondaria-2025-26-autorizzati-ulteriori-42-posti-ecco-dove-e-per-quali-classi-di-concorso/",
-                "date": "30 Mar 2026",
-                "time": "9:58",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_2194944619.jpg"
-            },
-            {
-                "category": "Stipendio",
-                "title": "Stipendi scuola, gli aumenti contrattuali copriranno il 60% lordo dell’inflazione. I nostri calcoli",
-                "link": "https://www.orizzontescuola.it/stipendi-scuola-gli-aumenti-contrattuali-copriranno-il-60-dellinflazione-i-nostri-calcoli/",
-                "date": "30 Mar 2026",
-                "time": "9:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_2678601879.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "C-Pen a Fiera Didacta: la penna scanner con sintesi vocale e traduttore integrato per studenti con difficoltà di lettura arriva in Italia [VIDEO]",
-                "link": "https://www.orizzontescuola.it/c-pen-a-fiera-didacta-la-penna-scanner-con-sintesi-vocale-e-traduttore-integrato-per-studenti-con-difficolta-di-lettura-arriva-in-italia-video/",
-                "date": "30 Mar 2026",
-                "time": "8:31",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Screenshot-2026-03-13-alle-10.37.56.png"
-            },
-            {
-                "category": "Docenti",
-                "title": "Costruire mappe per abitare l’intelligenza artificiale: la visione di Luca Gervasutti a Didacta",
-                "link": "https://www.orizzontescuola.it/costruire-mappe-per-abitare-lintelligenza-artificiale-la-visione-di-luca-gervasutti-a-didacta/",
-                "date": "30 Mar 2026",
-                "time": "8:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/LUCA-GERVASUTTI-1.jpeg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Oltre i “like” online, rieducare alla comunicazione interpersonale e ai feedback reali",
-                "link": "https://www.orizzontescuola.it/oltre-i-like-online-rieducare-alla-comunicazione-interpersonale-e-ai-feedback-reali/",
-                "date": "30 Mar 2026",
-                "time": "8:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2413064599.jpg"
-            },
-            null
+            }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Al via un Decreto che limita l’organizzazione di festa nelle scuole, i clown scendono in piazza per protestare: “Così ci togliete opportunità di guadano”. Succede in Bolivia",
+                "link": "https://www.orizzontescuola.it/al-via-un-decreto-che-limita-lorganizzazione-di-festa-nelle-scuole-i-clown-scendono-in-piazza-per-protestare-cosi-ci-togliete-opportunita-di-guadano-succede-in-bolivia/",
+                "date": "31 Mar 2026",
+                "time": "8:50",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Finanziamenti scolastici Minnesota a rischio: causa dell’amministrazione Trump contro gli atleti transgender negli sport femminili",
+                "link": "https://www.orizzontescuola.it/finanziamenti-scolastici-minnesota-a-rischio-causa-dellamministrazione-trump-contro-gli-atleti-transgender-negli-sport-femminili/",
+                "date": "31 Mar 2026",
+                "time": "8:44",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Professoressa accoltellata, Bruzzone: “Il problema è l’incapacità di gestire la frustrazione”",
@@ -424,22 +426,6 @@
                 "link": "https://www.orizzontescuola.it/studente-17enne-arrestato-frassinetti-dai-social-alla-violenza-il-passo-puo-essere-breve/",
                 "date": "30 Mar 2026",
                 "time": "14:21",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Docente accoltellata, una nuova lettera: “Un fendente a mezzo millimetro dall’aorta, poi il sangue dei donatori mi ha riportata in vita”",
-                "link": "https://www.orizzontescuola.it/docente-accoltellata-una-nuova-lettera-un-fendente-a-mezzo-millimetro-dallaorta-poi-il-sangue-dei-donatori-mi-ha-riportata-in-vita/",
-                "date": "30 Mar 2026",
-                "time": "12:42",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Gerry Scotti si scusa con gli insegnanti di sostegno dopo la battuta a La Ruota della Fortuna: “Non intendevo mancare di rispetto”",
-                "link": "https://www.orizzontescuola.it/gerry-scotti-si-scusa-con-gli-insegnanti-di-sostegno-dopo-la-battuta-a-la-ruota-della-fortuna-non-intendevo-mancare-di-rispetto/",
-                "date": "30 Mar 2026",
-                "time": "12:37",
                 "image_link": "N/A"
             }
         ]
@@ -619,6 +605,14 @@
         "articles": [
             {
                 "category": "ATA",
+                "title": "Mobilità ATA 2026/27, come funzionano i posti richiedibili: cosa prevede l’ordinanza ed elenchi ufficiali",
+                "link": "https://www.orizzontescuola.it/mobilita-ata-2026-27-come-funzionano-i-posti-richiedibili-cosa-prevede-lordinanza-ed-elenchi-ufficiali/",
+                "date": "27 Mar 2026",
+                "time": "19:59",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1687192501-scaled.jpg"
+            },
+            {
+                "category": "ATA",
                 "title": "Aumenti di stipendio per gli ATA fino a 135 euro: prima tranche a luglio. Forse anche l’una tantum di 110 euro. CCNL parte economica verso chiusura",
                 "link": "https://www.orizzontescuola.it/aumenti-di-stipendio-per-gli-ata-fino-a-135-euro-prima-tranche-a-luglio-forse-anche-luna-tantum-di-110-euro-ccnl-parte-economica-verso-chiusura/",
                 "date": "27 Mar 2026",
@@ -656,14 +650,6 @@
                 "date": "26 Mar 2026",
                 "time": "8:19",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2198683335.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Mobilità ATA 2026/27: come compilare correttamente la domanda. Ecco la GUIDA del Ministero e gli errori da evitare",
-                "link": "https://www.orizzontescuola.it/mobilita-ata-2026-27-come-compilare-correttamente-la-domanda-ecco-la-guida-del-ministero-e-gli-errori-da-evitare/",
-                "date": "25 Mar 2026",
-                "time": "19:05",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_1508556191.jpg"
             }
         ]
     },
