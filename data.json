@@ -24,6 +24,22 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Docenti",
+                "title": "Un docente neoassunto che risulta ultimo nella graduatoria interna di istituto deve presentare domanda di mobilità?",
+                "link": "https://www.orizzontescuola.it/un-docente-neoassunto-che-risulta-ultimo-nella-graduatoria-interna-di-istituto-deve-presentare-domanda-di-mobilita/",
+                "date": "2 Apr 2026",
+                "time": "22:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_1875061333.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Mobilità docenti 2026, come viene determinata la sede di titolarità e quella di completamento nelle cattedre orario esterne (COE)",
+                "link": "https://www.orizzontescuola.it/mobilita-docenti-2026-come-viene-determinata-la-sede-di-titolarita-e-quella-di-completamento-nelle-cattedre-orario-esterne-coe/",
+                "date": "2 Apr 2026",
+                "time": "21:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1936676008-scaled.jpg"
+            },
+            {
                 "category": "ATA",
                 "title": "Mobilità ATA 2026, neoimmessi senza sede: meglio indicare provincia o scuola?",
                 "link": "https://www.orizzontescuola.it/mobilita-ata-2026-neoimmessi-senza-sede-meglio-indicare-provincia-o-scuola/",
@@ -134,7 +150,12 @@
                 "date": "2 Apr 2026",
                 "time": "11:45",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_448000054-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Docenti",
                 "title": "Docente in malattia, ci sono dei comportamenti vietati?",
@@ -150,12 +171,7 @@
                 "date": "2 Apr 2026",
                 "time": "10:59",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_2311909343-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "ATA",
                 "title": "Nuovi importi stipendi ATA: il caso degli aumenti più alti agli operatori, superano anche quelli degli assistenti (e dei docenti)",
@@ -262,22 +278,6 @@
                 "date": "1 Apr 2026",
                 "time": "16:49",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2010529337.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Continuità del supplente di sostegno: non può essere richiesta se lo studente frequenta l’ultimo anno e deve passare al grado successivo",
-                "link": "https://www.orizzontescuola.it/continuita-del-supplente-di-sostegno-non-puo-essere-richiesta-se-lo-studente-frequenta-lultimo-anno-e-deve-passare-al-grado-successivo/",
-                "date": "1 Apr 2026",
-                "time": "16:27",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2120807768.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Aumenti stipendiali docenti e ATA, Barbacci (Cisl Scuola): “Risultato in continuità col precedente rinnovo” [VIDEO]",
-                "link": "https://www.orizzontescuola.it/aumenti-stipendiali-docenti-e-ata-barbacci-cisl-scuola-risultato-in-continuita-col-precedente-rinnovo-video/",
-                "date": "1 Apr 2026",
-                "time": "16:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/Screenshot-2026-04-01-alle-14.27.19.png"
             }
         ]
     },
@@ -545,6 +545,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Immissioni in ruolo: i vincitori del concorso PNRR3 hanno la certezza di essere assunti entro tre anni?",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-i-vincitori-del-concorso-pnrr3-hanno-la-certezza-di-essere-assunti-entro-tre-anni/",
+                "date": "1 Apr 2026",
+                "time": "10:17",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_1135342076.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "GPS 2026/28, dal MIM indicazioni su valutazione servizi senza titolo, certificazioni e controlli sui punteggi. NOTA",
                 "link": "https://www.orizzontescuola.it/gps-2026-28-dal-mim-indicazioni-su-valutazione-servizi-senza-titolo-certificazioni-e-controlli-sui-punteggi-nota/",
                 "date": "31 Mar 2026",
@@ -582,14 +590,6 @@
                 "date": "30 Mar 2026",
                 "time": "19:12",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1440992648.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Graduatorie GPS 2026: chi possiede titolo sostegno conseguito all’estero verrà inserito “a pettine” o in coda?",
-                "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-chi-possiede-titolo-sostegno-conseguito-allestero-verra-inserito-a-pettine-o-in-coda/",
-                "date": "30 Mar 2026",
-                "time": "17:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2502187265.jpg"
             }
         ]
     },
