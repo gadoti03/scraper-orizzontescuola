@@ -24,6 +24,30 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Politica scolastica",
+                "title": "Carta docente, mobilità e contrattazione separata, Castellana (Gilda) alza il muro: “La formazione? Deducibile fiscalmente. I vincoli agli spostamenti? Vanno aboliti”",
+                "link": "https://www.orizzontescuola.it/carta-docente-mobilita-e-contrattazione-separata-castellana-gilda-alza-il-muro-la-formazione-deducibile-fiscalmente-i-vincoli-agli-spostamenti-vanno-aboliti/",
+                "date": "5 Apr 2026",
+                "time": "19:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/Screenshot-2026-04-01-alle-14.37.08.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Riforma scuola e obbligo scolastico: “Creare un biennio solo di materie pratiche”, “Molti vogliono abbassare l’obbligo a 14 anni quando andrebbe alzato a 18?”. Il dibattito social",
+                "link": "https://www.orizzontescuola.it/riforma-scuola-e-obbligo-scolastico-creare-un-biennio-solo-di-materie-pratiche-molti-vogliono-abbassare-lobbligo-a-14-anni-quando-andrebbe-alzato-a-18-il-dibattito-social/",
+                "date": "5 Apr 2026",
+                "time": "16:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2493334753-scaled.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "D’Aprile (Uil Scuola Rua): “Aumenti contrattuali sì, ma il governo detassi le buste paga. Recuperare l’anno 2013 è un diritto. E i docenti di infanzia e primaria non possono essere pagati meno”",
+                "link": "https://www.orizzontescuola.it/daprile-uil-scuola-rua-aumenti-contrattuali-si-ma-il-governo-detassi-le-buste-paga-recuperare-lanno-2013-e-un-diritto-e-i-docenti-di-infanzia-e-primaria-non-possono-essere-pagati-me/",
+                "date": "5 Apr 2026",
+                "time": "14:56",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/Screenshot-2026-04-01-alle-14.20.25.png"
+            },
+            {
                 "category": "Cronaca",
                 "title": "“L’educazione non si impone per decreto”, Crepet e la lezione dei “gessetti” per ripensare il divieto dei social a scuola",
                 "link": "https://www.orizzontescuola.it/leducazione-non-si-impone-per-decreto-crepet-e-la-lezione-dei-gessetti-per-ripensare-il-divieto-dei-social-a-scuola/",
@@ -119,7 +143,12 @@
                 "date": "4 Apr 2026",
                 "time": "16:23",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_679705426.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Parole che uccidono, parole che salvano. Il monologo di Geppi Cucciari contro il linguaggio dell’odio: abbiamo insegnato ai ragazzi che vince il più prepotente, ma non è così",
@@ -143,12 +172,7 @@
                 "date": "4 Apr 2026",
                 "time": "12:58",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_2249295337.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Il corsivo cancellato, come l’addio alla penna sta riscrivendo il nostro cervello. Perché la scrittura a mano non vuole morire",
@@ -261,36 +285,28 @@
                 "date": "3 Apr 2026",
                 "time": "16:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/03/giustizia.jpg"
-            },
-            {
-                "category": "Stipendio",
-                "title": "Certificazione Unica 2026 su NoiPA: disponibile online con nuova sezione sul taglio del cuneo fiscale. Ecco come scaricarla",
-                "link": "https://www.orizzontescuola.it/certificazione-unica-2026-su-noipa-disponibile-online-con-nuova-sezione-sul-taglio-del-cuneo-fiscale-ecco-come-scaricarla/",
-                "date": "3 Apr 2026",
-                "time": "15:53",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_409299112-scaled.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "3 milioni ai “Nuovi Giochi della Gioventù”: le risorse distribuite agli Uffici scolastici regionali. Decreto",
-                "link": "https://www.orizzontescuola.it/3-milioni-ai-nuovi-giochi-della-gioventu-le-risorse-distribuite-agli-uffici-regionali-decreto/",
-                "date": "3 Apr 2026",
-                "time": "15:45",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_2060697002.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Graduatorie ad esaurimento: ecco le GaE pubblicate per il 2026/28 (e dove sono vuote)",
-                "link": "https://www.orizzontescuola.it/graduatorie-ad-esaurimento-ecco-le-gae-pubblicate-per-il-2026-28-e-dove-sono-vuote/",
-                "date": "3 Apr 2026",
-                "time": "15:36",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_1708378216.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Autismo, i robot sociali aumentano l’attenzione nei bambini con disturbo dello spettro autistico e possono supportare il lavoro terapeutico",
+                "link": "https://www.orizzontescuola.it/autismo-i-robot-sociali-aumentano-lattenzione-nei-bambini-con-disturbo-dello-spettro-autistico-e-possono-supportare-il-lavoro-terapeutico/",
+                "date": "5 Apr 2026",
+                "time": "18:28",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Genitori",
+                "title": "Allattamento al seno, proposta di legge: multe per chi non allestisce spazi, banche del latte in ogni ospedale e 30 giorni di congedo per i papà in difficoltà",
+                "link": "https://www.orizzontescuola.it/allattamento-al-seno-proposta-di-legge-multe-per-chi-non-allestisce-spazi-banche-del-latte-in-ogni-ospedale-e-30-giorni-di-congedo-per-i-papa-in-difficolta/",
+                "date": "5 Apr 2026",
+                "time": "15:32",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Classifica mondiale dei musei 2025: 200 milioni di visitatori nei 100 siti più frequentati, il Louvre guida con 9 milioni, ma il recupero rispetto ai 230 milioni del 2019 resta incompleto",
@@ -418,22 +434,6 @@
                 "date": "3 Apr 2026",
                 "time": "15:57",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Rinnovo contratto scuola, ANCoDiS: “Riconoscere le figure di sistema. Non più carriera solo per anzianità”",
-                "link": "https://www.orizzontescuola.it/rinnovo-contratto-scuola-ancodis-riconoscere-le-figure-di-sistema-non-piu-carriera-solo-per-anzianita/",
-                "date": "3 Apr 2026",
-                "time": "15:55",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Scuola, la Sicilia sfida il futuro: nasce la “Rete I.A.” con oltre 200 istituti",
-                "link": "https://www.orizzontescuola.it/scuola-la-sicilia-sfida-il-futuro-nasce-la-rete-i-a-con-oltre-200-istituti/",
-                "date": "3 Apr 2026",
-                "time": "15:51",
-                "image_link": "N/A"
             }
         ]
     },
@@ -559,6 +559,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "TFA sostegno INDIRE/Università, al via le lezioni: chi termina entro il 30 giugno scioglie la riserva. Tutte le indicazioni [LO SPECIALE]",
+                "link": "https://www.orizzontescuola.it/secondo-ciclo-sostegno-indire-chi-partecipa-quando-partono-i-corsi-il-titolo-ottenuto-lo-speciale/",
+                "date": "1 Apr 2026",
+                "time": "15:18",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_503425987.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Certificazioni informatiche nelle GPS 2026, Ministero ha inviato agli Uffici Scolastici elenco di chi ne ha dichiarata più di una per la stessa tipologia",
                 "link": "https://www.orizzontescuola.it/certificazioni-informatiche-nelle-gps-2026-ministero-ha-inviato-agli-uffici-scolastici-elenco-di-chi-ne-ha-dichiarata-piu-di-una-per-la-stessa-tipologia/",
                 "date": "1 Apr 2026",
@@ -596,14 +604,6 @@
                 "date": "1 Apr 2026",
                 "time": "10:17",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_1135342076.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "GPS 2026/28, dal MIM indicazioni su valutazione servizi senza titolo, certificazioni e controlli sui punteggi. NOTA",
-                "link": "https://www.orizzontescuola.it/gps-2026-28-dal-mim-indicazioni-su-valutazione-servizi-senza-titolo-certificazioni-e-controlli-sui-punteggi-nota/",
-                "date": "31 Mar 2026",
-                "time": "16:59",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1197053242.jpg"
             }
         ]
     },
