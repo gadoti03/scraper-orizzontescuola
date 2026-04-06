@@ -25,6 +25,62 @@
         "articles": [
             {
                 "category": "Politica scolastica",
+                "title": "Contratto scuola, Fracassi (Flc Cgil): “Abbiamo firmato perché le risorse seguono l’inflazione. Ma ora serve un nuovo modello contrattuale”",
+                "link": "https://www.orizzontescuola.it/contratto-scuola-fracassi-flc-cgil-abbiamo-firmato-perche-le-risorse-seguono-linflazione-ma-ora-serve-un-nuovo-modello-contrattuale/",
+                "date": "6 Apr 2026",
+                "time": "9:04",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/Screenshot-2026-04-01-alle-14.07.18.png"
+            },
+            {
+                "category": "Docenti",
+                "title": "Da domani si torna a scuola, quali altri ponti aspettano il mondo della scuola?",
+                "link": "https://www.orizzontescuola.it/da-domani-si-torna-a-scuola-quali-altri-ponti-aspettano-il-mondo-della-scuola/",
+                "date": "6 Apr 2026",
+                "time": "9:01",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/shutterstock_1009843408.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Assemblee sindacali a scuola, preavviso di 48 ore: per l’Aran il termine è perentorio",
+                "link": "https://www.orizzontescuola.it/assemblee-sindacali-a-scuola-preavviso-di-48-ore-per-laran-il-termine-e-perentorio/",
+                "date": "6 Apr 2026",
+                "time": "8:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2459519923.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Compiti scritti e intelligenza artificiale: “Vi dico come individuarli”",
+                "link": "https://www.orizzontescuola.it/compiti-scritti-e-intelligenza-artificiale-vi-dico-come-individuarli/",
+                "date": "6 Apr 2026",
+                "time": "8:46",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2438132689.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Mini TFA sostegno 40 CFU: BANDI aperti Università Cattolica, Macerata, UniCusano",
+                "link": "https://www.orizzontescuola.it/secondo-ciclo-sostegno-tre-anni-di-servizio-o-titolo-estero-nelle-universita-domanda-per-alcune-telematiche-da-lunedi-16-marzo/",
+                "date": "6 Apr 2026",
+                "time": "8:16",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2281563993.jpg"
+            },
+            {
+                "category": "Pensioni",
+                "title": "INPS commette un errore nel calcolo delle pensioni, in arrivo arretrati anche per l’ambito scuola per un totale di 40milioni. Di cosa si tratta",
+                "link": "https://www.orizzontescuola.it/inps-commette-un-errore-nel-calcolo-delle-pensioni-in-arrivo-arretrati-anche-per-lambito-scuola-per-un-totale-di-40milioni-di-cosa-si-tratta/",
+                "date": "6 Apr 2026",
+                "time": "8:09",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2499290035.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Mobilità ATA 2026/27, domande aperte fino al 13 aprile. Guida, cosa sapere, date e moduli",
+                "link": "https://www.orizzontescuola.it/mobilita-ata-2026-27-domande-aperte-fino-al-13-aprile-cosa-sapere-date-e-moduli/",
+                "date": "6 Apr 2026",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2198390061.jpg"
+            },
+            {
+                "category": "Politica scolastica",
                 "title": "Carta docente, mobilità e contrattazione separata, Castellana (Gilda) alza il muro: “La formazione? Deducibile fiscalmente. I vincoli agli spostamenti? Vanno aboliti”",
                 "link": "https://www.orizzontescuola.it/carta-docente-mobilita-e-contrattazione-separata-castellana-gilda-alza-il-muro-la-formazione-deducibile-fiscalmente-i-vincoli-agli-spostamenti-vanno-aboliti/",
                 "date": "5 Apr 2026",
@@ -94,7 +150,12 @@
                 "date": "5 Apr 2026",
                 "time": "8:02",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2699562121.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             null,
             {
                 "category": "Cronaca",
@@ -143,12 +204,7 @@
                 "date": "4 Apr 2026",
                 "time": "16:23",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_679705426.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Parole che uccidono, parole che salvano. Il monologo di Geppi Cucciari contro il linguaggio dell’odio: abbiamo insegnato ai ragazzi che vince il più prepotente, ma non è così",
@@ -215,7 +271,7 @@
             },
             {
                 "category": "Diventare Insegnanti",
-                "title": "“Abbiamo superato l’orale del concorso a cattedra nel 2024, ma da due anni aspettiamo di fare l’orale”",
+                "title": "“Abbiamo superato lo scritto del concorso a cattedra nel 2024, ma da due anni aspettiamo di fare l’orale”",
                 "link": "https://www.orizzontescuola.it/abbiamo-superato-lorale-del-concorso-a-cattedra-nel-2024-ma-da-due-anni-aspettiamo-di-fare-lorale/",
                 "date": "4 Apr 2026",
                 "time": "8:30",
@@ -229,63 +285,7 @@
                 "time": "8:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2494471231.jpg"
             },
-            null,
-            {
-                "category": "Scuole",
-                "title": "Prove Invalsi terza media 2026, studenti al test dall’8 al 30 aprile: partecipazione obbligatoria per accedere all’esame",
-                "link": "https://www.orizzontescuola.it/prove-invalsi-terza-media-2026-studenti-al-test-dall8-al-30-aprile-partecipazione-obbligatoria-per-accedere-allesame/",
-                "date": "3 Apr 2026",
-                "time": "21:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/07/shutterstock_1079912537.jpg"
-            },
-            {
-                "category": "Dirigenti scolastici",
-                "title": "DigComp 3.0, aggiornato il framework europeo: su Scuola Futura un percorso formativo per docenti, webinar il 14 aprile",
-                "link": "https://www.orizzontescuola.it/digcomp-3-0-aggiornato-il-framework-europeo-su-scuola-futura-un-percorso-formativo-per-docenti-webinar-il-14-aprile/",
-                "date": "3 Apr 2026",
-                "time": "20:38",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_1936676008-scaled.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Mobilità ATA 2026: precedenze, le 15 preferenze, gli errori da non fare compilando la domanda. RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/mobilita-ata-2026-precedenze-le-15-preferenze-gli-errori-da-non-fare-compilando-la-domanda-risposte-ai-quesiti/",
-                "date": "3 Apr 2026",
-                "time": "19:24",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Screenshot-2026-04-03-185046.png"
-            },
-            {
-                "category": "Personale educativo",
-                "title": "Mobilità personale educativo 2026, domande entro il 7 aprile: guida MIM, preferenze e moduli",
-                "link": "https://www.orizzontescuola.it/mobilita-personale-educativo-2026-domande-entro-il-7-aprile-modalita-preferenze-e-moduli/",
-                "date": "3 Apr 2026",
-                "time": "17:39",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2337136275.jpg"
-            },
-            {
-                "category": "Pensioni",
-                "title": "Pensioni, Inps corre ai ripari: prolungati gli assegni ponte per chi rischia il “buco” dopo esodo. CIRCOLARE",
-                "link": "https://www.orizzontescuola.it/pensioni-inps-corre-ai-ripari-prolungati-gli-assegni-ponte-per-chi-rischia-il-buco-dopo-lesodo-circolare/",
-                "date": "3 Apr 2026",
-                "time": "17:27",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2499290035.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Elezioni amministrative 2026, ecco l’elenco dei Comuni: voto il 24-25 maggio e scuole sedi di seggio da venerdì 22",
-                "link": "https://www.orizzontescuola.it/elezioni-amministrative-2026-ecco-lelenco-dei-comuni-voto-il-24-25-maggio-e-scuole-sedi-di-seggio-da-venerdi-22/",
-                "date": "3 Apr 2026",
-                "time": "17:06",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/09/shutterstock_533906236.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Lite tra studenti a scuola, ragazzina si frattura il braccio. Famiglia fa ricorso e il Tribunale condanna il Ministero: oltre 36mila euro di risarcimento",
-                "link": "https://www.orizzontescuola.it/lite-tra-studenti-a-scuola-ragazzina-si-frattura-il-braccio-famiglia-fa-ricorso-e-il-tribunale-condanna-il-ministero-oltre-36mila-euro-di-risarcimento/",
-                "date": "3 Apr 2026",
-                "time": "16:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/03/giustizia.jpg"
-            }
+            null
         ]
     },
     "group_4": {
@@ -612,6 +612,14 @@
         "articles": [
             {
                 "category": "ATA",
+                "title": "Mobilità ATA 2026, neoimmessi senza sede: meglio indicare provincia o scuola?",
+                "link": "https://www.orizzontescuola.it/mobilita-ata-2026-neoimmessi-senza-sede-meglio-indicare-provincia-o-scuola/",
+                "date": "2 Apr 2026",
+                "time": "19:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2459519923.jpg"
+            },
+            {
+                "category": "ATA",
                 "title": "Supplenze ATA, il servizio svolto in Trentino vale in graduatoria: chiarimenti",
                 "link": "https://www.orizzontescuola.it/supplenze-ata-il-servizio-svolto-in-trentino-vale-in-graduatoria-chiarimenti/",
                 "date": "2 Apr 2026",
@@ -649,14 +657,6 @@
                 "date": "1 Apr 2026",
                 "time": "19:59",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Screenshot-2026-04-01-194309.png"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "Continuità del docente a tempo determinato su posto di sostegno, modello di circolare + Guida per il Dirigente",
-                "link": "https://www.orizzontescuola.it/continuita-del-docente-a-tempo-determinato-su-posto-di-sostegno-modello-di-circolare-guida-per-il-dirigente/",
-                "date": "1 Apr 2026",
-                "time": "12:09",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_107800838.jpg"
             }
         ]
     },
