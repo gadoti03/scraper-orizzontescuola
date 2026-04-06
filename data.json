@@ -24,6 +24,14 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "ATA",
+                "title": "Mobilità ATA 2026/27, domande entro il 13 aprile: la guida del MIM",
+                "link": "https://www.orizzontescuola.it/mobilita-ata-2026-27-domande-entro-il-13-aprile-la-guida-del-mim/",
+                "date": "6 Apr 2026",
+                "time": "10:03",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2665797789.jpg"
+            },
+            {
                 "category": "Politica scolastica",
                 "title": "Contratto scuola, Fracassi (Flc Cgil): “Abbiamo firmato perché le risorse seguono l’inflazione. Ma ora serve un nuovo modello contrattuale”",
                 "link": "https://www.orizzontescuola.it/contratto-scuola-fracassi-flc-cgil-abbiamo-firmato-perche-le-risorse-seguono-linflazione-ma-ora-serve-un-nuovo-modello-contrattuale/",
@@ -70,14 +78,6 @@
                 "date": "6 Apr 2026",
                 "time": "8:09",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2499290035.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Mobilità ATA 2026/27, domande aperte fino al 13 aprile. Guida, cosa sapere, date e moduli",
-                "link": "https://www.orizzontescuola.it/mobilita-ata-2026-27-domande-aperte-fino-al-13-aprile-cosa-sapere-date-e-moduli/",
-                "date": "6 Apr 2026",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2198390061.jpg"
             },
             {
                 "category": "Politica scolastica",
@@ -292,6 +292,30 @@
         "title": "In Breve",
         "articles": [
             {
+                "category": "Studenti",
+                "title": "Settimana europea della gioventù 2026 (24 aprile – 1° maggio): focus su partecipazione e politiche UE",
+                "link": "https://www.orizzontescuola.it/settimana-europea-della-gioventu-2026-24-aprile-1-maggio-focus-su-partecipazione-e-politiche-ue/",
+                "date": "6 Apr 2026",
+                "time": "11:26",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Docenti",
+                "title": "Ci sono pochi insegnanti, il problema è strutturale. Incentivi economici e riconversione professionale. Come in Italia, in Lituania età media più di 50 anni",
+                "link": "https://www.orizzontescuola.it/ci-sono-pochi-insegnanti-il-problema-e-strutturale-incentivi-economici-e-riconversione-professionale-come-in-italia-in-lituania-eta-media-piu-di-50-anni/",
+                "date": "6 Apr 2026",
+                "time": "11:04",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Studenti",
+                "title": "Studenti e matematica: perché alcuni faticano con i calcoli? Il ruolo chiave di materia grigia e genetica. Lo studio",
+                "link": "https://www.orizzontescuola.it/studenti-e-matematica-perche-alcuni-faticano-con-i-calcoli-il-ruolo-chiave-di-materia-grigia-e-genetica-lo-studio/",
+                "date": "6 Apr 2026",
+                "time": "10:00",
+                "image_link": "N/A"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Autismo, i robot sociali aumentano l’attenzione nei bambini con disturbo dello spettro autistico e possono supportare il lavoro terapeutico",
                 "link": "https://www.orizzontescuola.it/autismo-i-robot-sociali-aumentano-lattenzione-nei-bambini-con-disturbo-dello-spettro-autistico-e-possono-supportare-il-lavoro-terapeutico/",
@@ -409,30 +433,6 @@
                 "link": "https://www.orizzontescuola.it/tessera-elettorale-digitale-zangrillo-si-vota-con-lo-smartphone-la-tecnologia-e-alleata-della-pa/",
                 "date": "3 Apr 2026",
                 "time": "17:00",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Riforma istituti Tecnici, Anief proclama lo stato di agitazione: futuro a rischio dei corsi e dei docenti",
-                "link": "https://www.orizzontescuola.it/riforma-istituti-tecnici-anief-proclama-lo-stato-di-agitazione-futuro-a-rischio-dei-corsi-e-dei-docenti/",
-                "date": "3 Apr 2026",
-                "time": "16:20",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Maturità 2026, in Valle d’Aosta si cercano commissari esterni: domande entro il 13 aprile",
-                "link": "https://www.orizzontescuola.it/maturita-2026-in-valle-daosta-si-cercano-commissari-esterni-domande-entro-il-13-aprile/",
-                "date": "3 Apr 2026",
-                "time": "16:07",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Algoritmi e social media: il PD presenta al Senato un nuovo disegno di legge per vietare le manipolazioni e fermare la dipendenza digitale tra gli adolescenti",
-                "link": "https://www.orizzontescuola.it/algoritmi-e-social-media-il-pd-presenta-al-senato-un-nuovo-disegno-di-legge-per-vietare-le-manipolazioni-e-fermare-la-dipendenza-digitale-tra-gli-adolescenti/",
-                "date": "3 Apr 2026",
-                "time": "15:57",
                 "image_link": "N/A"
             }
         ]
@@ -643,20 +643,20 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_106178696.jpg"
             },
             {
+                "category": "ATA",
+                "title": "Mobilità ATA 2026/27, domande aperte fino al 13 aprile. Guida, cosa sapere, date e moduli",
+                "link": "https://www.orizzontescuola.it/mobilita-ata-2026-27-domande-aperte-fino-al-13-aprile-cosa-sapere-date-e-moduli/",
+                "date": "2 Apr 2026",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2198390061.jpg"
+            },
+            {
                 "category": "Gestire la scuola",
                 "title": "109 modelli documentali utili per DM 107/2025, per la gestione della procedura negoziata senza bando sul mepa mediante RDO evoluta",
                 "link": "https://www.orizzontescuola.it/109-modelli-documentali-utili-per-dm-107-2025-per-la-gestione-della-procedura-negoziata-senza-bando-sul-mepa-mediante-rdo-evoluta/",
                 "date": "2 Apr 2026",
                 "time": "7:55",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Laboratori-professionalizzanti-1.png"
-            },
-            {
-                "category": "ATA",
-                "title": "Mobilità ATA 2026: valutazione servizio, verbali 104, preferenze. RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/mobilita-ata-2026-valutazione-servizio-verbali-104-preferenze-risposte-ai-quesiti/",
-                "date": "1 Apr 2026",
-                "time": "19:59",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Screenshot-2026-04-01-194309.png"
             }
         ]
     },
