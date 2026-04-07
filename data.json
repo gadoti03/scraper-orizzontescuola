@@ -3,26 +3,67 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "Docenti",
+                "title": "Deroga Assegnazione provvisoria anche per ricongiungimento al genitore over 65: oggi si vota l’emendamento. Respinto al momento quello per figli fino a 16 anni",
+                "link": "https://www.orizzontescuola.it/assegnazione-provvisoria-anche-per-ricongiungimento-al-genitore-over-65-oggi-si-vota-lemendamento-respinto-al-momento-quello-per-figli-fino-a-16-anni/",
+                "date": "7 Apr 2026",
+                "time": "9:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Marcello-Pacifico-Anief.jpg"
+            },
+            {
                 "category": "Plus",
                 "title": "I diritti di docenti e ATA di ruolo e precari spiegati bene: aspettative, congedi, permessi, 104, ferie e malattie",
                 "link": "https://www.orizzontescuola.it/i-diritti-di-docenti-e-ata-di-ruolo-e-precari-spiegati-bene-cosa-fare-in-caso-di-aspettative-congedi-permessi-104-ferie-e-malattie/",
                 "date": "4 Apr 2026",
                 "time": "7:58",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/Screenshot-2026-01-22-102351.png"
-            },
-            {
-                "category": "ATA",
-                "title": "Aumenti stipendio docenti e ATA, nuovo Contratto 2025/27: cifre, arretrati, tempi [LO SPECIALE]",
-                "link": "https://www.orizzontescuola.it/aumenti-stipendio-docenti-e-ata-nuovo-contratto-2025-27-cifre-arretrati-tempi-lo-speciale/",
-                "date": "3 Apr 2026",
-                "time": "9:29",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/Aumento-stipendi-ATA-e-Docenti.png"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Docenti",
+                "title": "Maturità e toto traccia, prima prova: Intelligenza artificiale, conflitti, e fakenews. Da Ungaretti a Primo Levi",
+                "link": "https://www.orizzontescuola.it/maturita-e-toto-traccia-prima-prova-intelligenza-artificiale-conflitti-e-fakenews-da-ungaretti-a-primo-levi/",
+                "date": "7 Apr 2026",
+                "time": "8:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_162664610.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Sicurezza a scuola: cosa fare davvero in caso di aggressioni e conflitti? Diretta con l’Avv. Alessandro De Martino",
+                "link": "https://www.orizzontescuola.it/sicurezza-a-scuola-cosa-fare-davvero-in-caso-di-aggressioni-e-conflitti-diretta-con-lavv-alessandro-de-martino/",
+                "date": "7 Apr 2026",
+                "time": "8:39",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/2-1-scaled.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Crisi energetica, da maggio didattica a distanza a scuola? Le misure allo studio del governo per la primavera",
+                "link": "https://www.orizzontescuola.it/crisi-energetica-da-maggio-didattica-a-distanza-a-scuola-le-misure-allo-studio-del-governo-per-la-primavera/",
+                "date": "7 Apr 2026",
+                "time": "8:31",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2523714169-scaled.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Elasticità mentale, perché sono importanti i primi 10 anni di vita? Il ruolo della didattica",
+                "link": "https://www.orizzontescuola.it/elasticita-mentale-perche-sono-importanti-i-primi-10-anni-di-vita-il-ruolo-della-didattica/",
+                "date": "7 Apr 2026",
+                "time": "8:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_2668380721-scaled.jpg"
+            },
+            {
+                "category": "Gestire la scuola",
+                "title": "Agenda Nord e agenda Sud DM 176, scaricabili 29 documenti pronti all’uso",
+                "link": "https://www.orizzontescuola.it/agenda-nord-e-agenda-sud-dm-176-scaricabili-29-documenti-pronti-alluso/",
+                "date": "7 Apr 2026",
+                "time": "7:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2706290149.jpg"
+            },
+            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "Mini TFA sostegno 40 CFU: BANDI aperti Università Cattolica, Macerata, UniCusano, UniCamillus",
@@ -97,12 +138,17 @@
             },
             {
                 "category": "Docenti",
-                "title": "Da domani si torna a scuola, quali altri ponti aspettano il mondo della scuola?",
+                "title": "Da domani si rientra, quali altri ponti aspettano il mondo della scuola?",
                 "link": "https://www.orizzontescuola.it/da-domani-si-torna-a-scuola-quali-altri-ponti-aspettano-il-mondo-della-scuola/",
                 "date": "6 Apr 2026",
                 "time": "9:01",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/shutterstock_1009843408.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Assemblee sindacali a scuola, preavviso di 48 ore: per l’Aran il termine è perentorio",
@@ -150,12 +196,7 @@
                 "date": "5 Apr 2026",
                 "time": "14:56",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/Screenshot-2026-04-01-alle-14.20.25.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "“L’educazione non si impone per decreto”, Crepet e la lezione dei “gessetti” per ripensare il divieto dei social a scuola",
@@ -244,60 +285,36 @@
                 "date": "4 Apr 2026",
                 "time": "16:58",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2482428287-scaled.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Un’ora a settimana di strumento e canto in tutte le classi, dall’asilo nido alla maturità. La proposta sulla musica a scuola all’esame del Parlamento",
-                "link": "https://www.orizzontescuola.it/unora-a-settimana-di-strumento-e-canto-in-tutte-le-classi-dallasilo-nido-alla-maturita-la-proposta-sulla-musica-a-scuola-in-parlamento/",
-                "date": "4 Apr 2026",
-                "time": "16:23",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_679705426.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Parole che uccidono, parole che salvano. Il monologo di Geppi Cucciari contro il linguaggio dell’odio: abbiamo insegnato ai ragazzi che vince il più prepotente, ma non è così",
-                "link": "https://www.orizzontescuola.it/parole-che-uccidono-parole-che-salvano-il-monologo-di-geppi-cucciari-contro-il-linguaggio-dellodio-abbiamo-insegnato-ai-ragazzi-che-vince-il-piu-prepotente-ma-non-e-cosi/",
-                "date": "4 Apr 2026",
-                "time": "16:02",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2172939231-scaled.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Social vietati agli under 14, la sfida del Veneto: divieto assoluto e identità digitale. Ma il Pd insorge: “Destra arriverà tardi e male”",
-                "link": "https://www.orizzontescuola.it/social-vietati-agli-under-14-la-sfida-del-veneto-divieto-assoluto-e-identita-digitale-ma-il-pd-insorge-destra-arrivera-tardi-e-male/",
-                "date": "4 Apr 2026",
-                "time": "15:01",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_1936937278.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Smartphone e sviluppo cognitivo in adolescenza: leggere e imparare ne risentono, l’attenzione pure. Ma c’è una (piccola) eccezione",
-                "link": "https://www.orizzontescuola.it/social-media-e-sviluppo-cognitivo-in-adolescenza-leggere-e-imparare-ne-risentono-lattenzione-pure-ma-ce-una-piccola-eccezione/",
-                "date": "4 Apr 2026",
-                "time": "12:58",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_2249295337.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Il corsivo cancellato, come l’addio alla penna sta riscrivendo il nostro cervello. Perché la scrittura a mano non vuole morire",
-                "link": "https://www.orizzontescuola.it/il-corsivo-cancellato-come-laddio-alla-penna-sta-riscrivendo-il-nostro-cervello-perche-la-scrittura-a-mano-non-vuole-morire/",
-                "date": "4 Apr 2026",
-                "time": "11:54",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_2207108391-scaled.jpg"
-            },
-            {
-                "category": "Studenti",
-                "title": "Il bullismo non è solo un “rito di passaggio”: per oltre il 40% dei bambini lascia traumi duraturi. I risultati di una ricerca internazionale",
-                "link": "https://www.orizzontescuola.it/il-bullismo-non-e-solo-un-rito-di-passaggio-per-oltre-il-40-dei-bambini-lascia-traumi-duraturi-i-risultati-di-una-ricerca-internazionale/",
-                "date": "4 Apr 2026",
-                "time": "11:19",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_1099940885.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Meningite, 15enne italiano ricoverato in gravi condizioni",
+                "link": "https://www.orizzontescuola.it/meningite-15enne-italiano-ricoverato-in-gravi-condizioni/",
+                "date": "7 Apr 2026",
+                "time": "8:30",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Genitori",
+                "title": "Mancanza di voglia di studiare, l’esperta consiglia i genitori: “E sai quante volte mi sento dire ‘Prof, non mi interessa, a che mi serve?’”",
+                "link": "https://www.orizzontescuola.it/mancanza-di-voglia-di-studiare-lesperta-consiglia-i-genitori-e-sai-quante-volte-mi-sento-dire-prof-non-mi-interessa-a-che-mi-serve/",
+                "date": "7 Apr 2026",
+                "time": "8:29",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Concorsi pubblici 2026, oltre 17mila posti: partono Sna e Mef",
+                "link": "https://www.orizzontescuola.it/concorsi-pubblici-2026-oltre-17mila-posti-partono-sna-e-mef/",
+                "date": "7 Apr 2026",
+                "time": "8:20",
+                "image_link": "N/A"
+            },
             {
                 "category": "Docenti",
                 "title": "Campionato nazionale di pasticceria alberghieri 2026, iscrizioni entro il 15 aprile: gara a Catania dal 25 al 27 maggio",
@@ -417,30 +434,6 @@
                 "date": "4 Apr 2026",
                 "time": "10:31",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Addio SPID gratuito: PosteID diventa a pagamento, 6 euro all’anno dal secondo anno. Quali sono le alternative gratuite?",
-                "link": "https://www.orizzontescuola.it/addio-spid-gratuito-posteid-diventa-a-pagamento-6-euro-allanno-dal-secondo-anno-quali-sono-le-alternative-gratuite/",
-                "date": "4 Apr 2026",
-                "time": "10:10",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Crisi energetica, l’Ue corre ai ripari: “Dallo smart working all’uso delle auto. Rincari già pesanti, prepararsi a shock prolungati”",
-                "link": "https://www.orizzontescuola.it/crisi-energetica-lombra-della-guerra-in-iran-lue-corre-ai-ripari-dallo-smart-working-alluso-delle-auto-rincari-gia-pesanti-prepararsi-a-shock-prolungati/",
-                "date": "4 Apr 2026",
-                "time": "9:38",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "British Council, stop ai corsi di inglese in Italia: il piano di tagli dopo oltre 80 anni",
-                "link": "https://www.orizzontescuola.it/british-council-stop-ai-corsi-di-inglese-in-italia-il-piano-di-tagli-dopo-oltre-80-anni/",
-                "date": "4 Apr 2026",
-                "time": "8:15",
-                "image_link": "N/A"
             }
         ]
     },
@@ -452,7 +445,7 @@
                 "title": "La tutela degli studenti con disabilità: il principio di uguaglianza impone alla scuola obblighi precisi. Ecco quali sono",
                 "link": "https://www.orizzontescuola.it/la-tutela-degli-studenti-con-disabilita-il-principio-di-uguaglianza-impone-alla-scuola-obblighi-precisi-ecco-quali-sono/",
                 "date": "1 Apr 2026",
-                "time": "9:36",
+                "time": "8:10",
                 "image_link": "N/A"
             },
             {
