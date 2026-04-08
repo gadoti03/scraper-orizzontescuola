@@ -3,26 +3,101 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "Docenti",
+                "title": "Perché è importante studiare il Latino (anche alle medie): “Serve ad imparare meglio le lingue straniere”. INTERVISTA a Guido Milanese",
+                "link": "https://www.orizzontescuola.it/perche-e-importante-studiare-il-latino-anche-alle-medie-serve-ad-imparare-meglio-le-lingue-straniere-intervista-a-guido-milanese/",
+                "date": "8 Apr 2026",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/Guida_Milanese.png"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Crisi energetica, da maggio didattica a distanza a scuola? Valditara: “Non è contemplata in alcun modo”. Anief: “Solo aperto gli occhi sui rischi derivanti dalla guerra”",
                 "link": "https://www.orizzontescuola.it/crisi-energetica-da-maggio-didattica-a-distanza-a-scuola-le-misure-allo-studio-del-governo-per-la-primavera/",
                 "date": "7 Apr 2026",
                 "time": "17:12",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Screenshot-2025-11-07-alle-17.23.14.png"
-            },
-            {
-                "category": "Plus",
-                "title": "I diritti di docenti e ATA di ruolo e precari spiegati bene: aspettative, congedi, permessi, 104, ferie e malattie",
-                "link": "https://www.orizzontescuola.it/i-diritti-di-docenti-e-ata-di-ruolo-e-precari-spiegati-bene-cosa-fare-in-caso-di-aspettative-congedi-permessi-104-ferie-e-malattie/",
-                "date": "4 Apr 2026",
-                "time": "7:58",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/Screenshot-2026-01-22-102351.png"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Genitori",
+                "title": "“Nel mondo virtuale i nostri figli si fanno male e fanno male altri altri. Ci vogliono regole”. Alberto Pellai scrive a Giorgia Meloni",
+                "link": "https://www.orizzontescuola.it/nel-mondo-virtuale-i-nostri-figli-si-fanno-male-e-fanno-male-altri-altri-ci-vogliono-regole-alberto-pellai-scrive-a-giorgia-meloni/",
+                "date": "8 Apr 2026",
+                "time": "9:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/shutterstock_2525875883.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Riforma degli Istituti Tecnici, scongiurato il rischio esuberi. L’emendamento (approvato) salva le cattedre nel primo biennio",
+                "link": "https://www.orizzontescuola.it/riforma-degli-istituti-tecnici-scongiurato-il-rischio-esuberi-lemendamento-salva-le-cattedre-nel-primo-biennio/",
+                "date": "8 Apr 2026",
+                "time": "8:53",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2247481563.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Elenchi regionali per il ruolo docenti 2026, accesso anche agli idonei del concorso straordinario del 2020. Emendamento approvato",
+                "link": "https://www.orizzontescuola.it/elenchi-regionali-per-il-ruolo-docenti-2026-accesso-anche-agli-idonei-del-concorso-straordinario-del-2020-emendamento-approvato/",
+                "date": "8 Apr 2026",
+                "time": "8:49",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/download-2-1.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Studenti con disabilità, tutti i rischi di discriminazione: dal sostegno ridotto all’esclusione dalla gita. No “all’auletta di sostegno”. Il Punto di Walter Miceli",
+                "link": "https://www.orizzontescuola.it/studenti-con-disabilita-tutti-i-rischi-di-discriminazione-dal-sostegno-ridotto-allesclusione-dalla-gita-no-allauletta-di-sostegno-il-punto-di-walter-miceli/",
+                "date": "8 Apr 2026",
+                "time": "8:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/walter_miceli_img.png"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Sicurezza a scuola: cosa fare davvero in caso di aggressioni e conflitti? Diretta con l’Avv. Alessandro De Martino",
+                "link": "https://www.orizzontescuola.it/sicurezza-a-scuola-cosa-fare-davvero-in-caso-di-aggressioni-e-conflitti-diretta-con-lavv-alessandro-de-martino/",
+                "date": "8 Apr 2026",
+                "time": "8:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/2-1-scaled.png"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Mobilità, ok all’assegnazione provvisoria con genitori over 65, ma resta il nodo figli under 16. TESTO emendamento approvato",
+                "link": "https://www.orizzontescuola.it/mobilita-ok-allassegnazione-provvisoria-con-genitori-over-65-ma-resta-il-nodo-figli-under-16-testo-emendamento-approvato/",
+                "date": "8 Apr 2026",
+                "time": "8:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/02/highway-lights-at-night_925x.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Docenti seconda lingua comunitaria: preoccupazione per la riduzione delle ore prevista dalla riforma dei Tecnici",
+                "link": "https://www.orizzontescuola.it/docenti-seconda-lingua-comunitaria-preoccupazione-per-la-riduzione-delle-ore-prevista-dalla-riforma-dei-tecnici/",
+                "date": "8 Apr 2026",
+                "time": "8:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1955291284.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Settimana dello Studente al “Dalla Chiesa”: un modello avanzato di scuola partecipata tra regole, responsabilità e innovazione didattica",
+                "link": "https://www.orizzontescuola.it/settimana-dello-studente-al-dalla-chiesa-un-modello-avanzato-di-scuola-partecipata-tra-regole-responsabilita-e-innovazione-didattica/",
+                "date": "8 Apr 2026",
+                "time": "7:56",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/Screenshot-2026-04-08-062813.png"
+            },
+            {
+                "category": "Scuole",
+                "title": "Graduatoria interna d’istituto: schede e guide per segreterie, modelli per l’aggiornamento, circolare e checklist pronti all’uso",
+                "link": "https://www.orizzontescuola.it/graduatoria-interna-distituto-schede-e-guide-per-segreterie-modelli-per-laggiornamento-circolare-e-checklist-pronti-alluso/",
+                "date": "8 Apr 2026",
+                "time": "7:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/gi_interne.png"
+            },
+            null,
+            null,
+            null,
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Domande commissari Maturità 2026: a cosa fare attenzione. QUESTION TIME con Cavallini (Anief) LIVE Mercoledì 8 aprile alle 14:30",
@@ -54,7 +129,12 @@
                 "date": "7 Apr 2026",
                 "time": "17:04",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1891258573.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Adozione libri di testo 2026/27, apertura piattaforma AIE dal 13 aprile. Invio dati entro l’8 giugno",
@@ -143,12 +223,7 @@
                 "date": "7 Apr 2026",
                 "time": "11:21",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_1158978574.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Riforma Istituti tecnici, allarme DILLE: “Si tagliano le Lingue, meno ore meno competenze”",
@@ -196,101 +271,28 @@
                 "date": "7 Apr 2026",
                 "time": "8:40",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_162664610.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Sicurezza a scuola: cosa fare davvero in caso di aggressioni e conflitti? Diretta con l’Avv. Alessandro De Martino",
-                "link": "https://www.orizzontescuola.it/sicurezza-a-scuola-cosa-fare-davvero-in-caso-di-aggressioni-e-conflitti-diretta-con-lavv-alessandro-de-martino/",
-                "date": "7 Apr 2026",
-                "time": "8:39",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/2-1-scaled.png"
-            },
-            {
-                "category": "Docenti",
-                "title": "Elasticità mentale, perché sono importanti i primi 10 anni di vita? Il ruolo della didattica",
-                "link": "https://www.orizzontescuola.it/elasticita-mentale-perche-sono-importanti-i-primi-10-anni-di-vita-il-ruolo-della-didattica/",
-                "date": "7 Apr 2026",
-                "time": "8:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_2668380721-scaled.jpg"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "Agenda Nord e agenda Sud DM 176, scaricabili 29 documenti pronti all’uso",
-                "link": "https://www.orizzontescuola.it/agenda-nord-e-agenda-sud-dm-176-scaricabili-29-documenti-pronti-alluso/",
-                "date": "7 Apr 2026",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2706290149.jpg"
-            },
-            null,
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Mini TFA sostegno 40 CFU: BANDI aperti Università Cattolica, Macerata, UniCusano, UniCamillus",
-                "link": "https://www.orizzontescuola.it/secondo-ciclo-sostegno-tre-anni-di-servizio-o-titolo-estero-nelle-universita-domanda-per-alcune-telematiche-da-lunedi-16-marzo/",
-                "date": "6 Apr 2026",
-                "time": "21:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/shutterstock_2281563993.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Contratto scuola, Barbacci (Cisl): “Prima volta nella storia, anticipato il rinnovo. No a scioperi inutili, noi trattiamo. La scuola merita unità politica, non promesse da campagna elettorale”",
-                "link": "https://www.orizzontescuola.it/contratto-scuola-barbacci-cisl-prima-volta-nella-storia-anticipato-il-rinnovo-no-a-scioperi-inutili-noi-trattiamo-la-scuola-merita-unita-politica-non-promesse-da-campagna-elettorale/",
-                "date": "6 Apr 2026",
-                "time": "20:13",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/Screenshot-2026-04-01-alle-14.27.19.png"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Riscatto gratuito della laurea per i militari, Anief: perché escludere ancora i lavoratori della scuola?",
-                "link": "https://www.orizzontescuola.it/riscatto-gratuito-della-laurea-per-i-militari-anief-perche-escludere-ancora-i-lavoratori-della-scuola/",
-                "date": "6 Apr 2026",
-                "time": "19:37",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_711786115.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Concorso dirigenti tecnici, il TAR Lazio chiede chiarimenti sul tasto “conferma” della piattaforma per chiudere la prova",
-                "link": "https://www.orizzontescuola.it/concorso-dirigenti-tecnici-il-tar-lazio-chiede-chiarimenti-sul-funzionamento-del-software/",
-                "date": "6 Apr 2026",
-                "time": "18:18",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/02/shutterstock_714371032.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Un calcio durante il laboratorio ludico fa sbattere il volto contro il banco: denti rotti e scuola condannata. Risarcimento da oltre 20mila euro per il minore",
-                "link": "https://www.orizzontescuola.it/un-calcio-durante-il-laboratorio-ludico-fa-sbattere-il-volto-contro-il-banco-denti-rotti-e-scuola-condannata-risarcimento-da-oltre-20mila-euro-per-il-minore/",
-                "date": "6 Apr 2026",
-                "time": "16:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/07/shutterstock_565403533.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Contratto scuola, Serafini (Snals): “Firmiamo ma guardiamo lontano. Un miliardo e mezzo per colmare il gap con gli altri comparti. E sulle aggressioni servono tutele legali immediate”",
-                "link": "https://www.orizzontescuola.it/contratto-scuola-serafini-snals-firmiamo-ma-guardiamo-lontano-un-miliardo-e-mezzo-per-colmare-il-gap-con-gli-altri-comparti-e-sulle-aggressioni-servono-tutele-legali-immediate/",
-                "date": "6 Apr 2026",
-                "time": "15:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Serafini.jpeg"
-            },
-            {
-                "category": "ATA",
-                "title": "Mobilità ATA 2026/27, domande entro il 13 aprile: la guida del MIM",
-                "link": "https://www.orizzontescuola.it/mobilita-ata-2026-27-domande-entro-il-13-aprile-la-guida-del-mim/",
-                "date": "6 Apr 2026",
-                "time": "10:03",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2665797789.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Contratto scuola, Fracassi (Flc Cgil): “Abbiamo firmato perché le risorse seguono l’inflazione. Ma ora serve un nuovo modello contrattuale”",
-                "link": "https://www.orizzontescuola.it/contratto-scuola-fracassi-flc-cgil-abbiamo-firmato-perche-le-risorse-seguono-linflazione-ma-ora-serve-un-nuovo-modello-contrattuale/",
-                "date": "6 Apr 2026",
-                "time": "9:04",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/Screenshot-2026-04-01-alle-14.07.18.png"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Decreto PNRR, approvati emendamenti su mobilità, reclutamento e istituti tecnici. La soddisfazione della Cisl Scuola: “Misure frutto del nostro pressing”",
+                "link": "https://www.orizzontescuola.it/decreto-pnrr-approvati-emendamenti-su-mobilita-reclutamento-e-istituti-tecnici-la-soddisfazione-della-cisl-scuola-misure-frutto-del-nostro-pressing/",
+                "date": "8 Apr 2026",
+                "time": "8:43",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Campi Flegrei: scossa di terremoto, ma le scuole restano aperte",
+                "link": "https://www.orizzontescuola.it/campi-flegrei-scossa-di-terremoto-ma-le-scuole-restano-aperte/",
+                "date": "8 Apr 2026",
+                "time": "7:35",
+                "image_link": "N/A"
+            },
             null,
             {
                 "category": "Cronaca",
@@ -410,22 +412,6 @@
                 "link": "https://www.orizzontescuola.it/tablet-ai-bambini-di-un-anno-gallimberti-e-come-dargli-la-morfina-evitare-fino-ai-3-anni-altrimenti-succedono-disastri/",
                 "date": "7 Apr 2026",
                 "time": "15:43",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Crisi energetica e Dad: il Moige dice no. Affinita: “La scuola in presenza non è un optional”",
-                "link": "https://www.orizzontescuola.it/crisi-energetica-e-dad-il-moige-dice-no-affinita-la-scuola-in-presenza-non-e-un-optional/",
-                "date": "7 Apr 2026",
-                "time": "15:34",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Studente 15enne indagato per istigazione a delinquere: sui social esaltava l’aggressione alla professoressa di Bergamo",
-                "link": "https://www.orizzontescuola.it/studente-15enne-indagato-per-istigazione-a-delinquere-sui-social-esaltava-laggressione-alla-professoressa-di-bergamo/",
-                "date": "7 Apr 2026",
-                "time": "15:31",
                 "image_link": "N/A"
             }
         ]
@@ -552,6 +538,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Graduatorie GPS 2026: ecco le scuole polo che valuteranno le domande [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-ecco-le-scuole-polo-che-valuteranno-le-domande-in-aggiornamento/",
+                "date": "2 Apr 2026",
+                "time": "16:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_277027346.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Continuità del supplente di sostegno: non può essere richiesta se lo studente frequenta l’ultimo anno e deve passare al grado successivo",
                 "link": "https://www.orizzontescuola.it/continuita-del-supplente-di-sostegno-non-puo-essere-richiesta-se-lo-studente-frequenta-lultimo-anno-e-deve-passare-al-grado-successivo/",
                 "date": "1 Apr 2026",
@@ -589,20 +583,28 @@
                 "date": "1 Apr 2026",
                 "time": "11:27",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2310310031-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "GPS graduatorie 2026: ecco quale servizio sarà decurtato se dichiarato. Le indicazioni del Ministero",
-                "link": "https://www.orizzontescuola.it/gps-graduatorie-2026-ecco-quale-servizio-sara-decurtato-se-dichiarato-le-indicazioni-del-ministero/",
-                "date": "1 Apr 2026",
-                "time": "10:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_671913661.jpg"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
+            {
+                "category": "ATA",
+                "title": "Personale Ata: a quanto ammonterà lo stipendio nel 2027? I dati per profilo",
+                "link": "https://www.orizzontescuola.it/personale-ata-a-quanto-ammontera-lo-stipendio-nel-2027-i-dati-per-profilo/",
+                "date": "3 Apr 2026",
+                "time": "10:16",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/shutterstock_1025637199.jpg"
+            },
+            {
+                "category": "Gestire la scuola",
+                "title": "DSGA e contrattazione integrativa d’Istituto: funzioni, responsabilità e prassi operative. Con modello relazione tecnica + checklist",
+                "link": "https://www.orizzontescuola.it/dsga-e-contrattazione-integrativa-distituto-funzioni-responsabilita-e-prassi-operative-con-modello-relazione-tecnica-checklist/",
+                "date": "3 Apr 2026",
+                "time": "7:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/dsga_istituto.png"
+            },
             {
                 "category": "ATA",
                 "title": "Mobilità ATA 2026, neoimmessi senza sede: meglio indicare provincia o scuola?",
@@ -634,22 +636,6 @@
                 "date": "2 Apr 2026",
                 "time": "8:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2198390061.jpg"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "109 modelli documentali utili per DM 107/2025, per la gestione della procedura negoziata senza bando sul mepa mediante RDO evoluta",
-                "link": "https://www.orizzontescuola.it/109-modelli-documentali-utili-per-dm-107-2025-per-la-gestione-della-procedura-negoziata-senza-bando-sul-mepa-mediante-rdo-evoluta/",
-                "date": "2 Apr 2026",
-                "time": "7:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Laboratori-professionalizzanti-1.png"
-            },
-            {
-                "category": "ATA",
-                "title": "Mobilità ATA 2026: valutazione servizio, verbali 104, preferenze. RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/mobilita-ata-2026-valutazione-servizio-verbali-104-preferenze-risposte-ai-quesiti/",
-                "date": "1 Apr 2026",
-                "time": "19:59",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Screenshot-2026-04-01-194309.png"
             }
         ]
     },
