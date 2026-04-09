@@ -3,26 +3,38 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
-                "category": "Docenti",
-                "title": "Perché è importante studiare il Latino (anche alle medie): “Serve ad imparare meglio le lingue straniere”. INTERVISTA a Guido Milanese",
-                "link": "https://www.orizzontescuola.it/perche-e-importante-studiare-il-latino-anche-alle-medie-serve-ad-imparare-meglio-le-lingue-straniere-intervista-a-guido-milanese/",
-                "date": "8 Apr 2026",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/Guida_Milanese.png"
-            },
-            {
                 "category": "Cronaca",
-                "title": "Crisi energetica, da maggio didattica a distanza a scuola? Valditara: “Non è contemplata in alcun modo”. Anief: “Solo aperto gli occhi sui rischi derivanti dalla guerra”",
-                "link": "https://www.orizzontescuola.it/crisi-energetica-da-maggio-didattica-a-distanza-a-scuola-le-misure-allo-studio-del-governo-per-la-primavera/",
-                "date": "7 Apr 2026",
-                "time": "17:12",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Screenshot-2025-11-07-alle-17.23.14.png"
-            }
+                "title": "“Riunioni collegiali, consigli di classe, lavoro in segreteria a distanza in caso di crisi energetica”, INTERVISTA a Marcello Pacifico",
+                "link": "https://www.orizzontescuola.it/riunioni-collegiali-consigli-di-classe-lavoro-in-segreteria-a-distanza-in-caso-di-crisi-energetica-intervista-a-marcello-pacifico/",
+                "date": "9 Apr 2026",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/Marcello-Pacifico-5.png"
+            },
+            null
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Gestire la scuola",
+                "title": "Uso dello smartphone a scuola: criteri condivisi per una gestione educativa e sostenibile. Scarica la nota per i docenti",
+                "link": "https://www.orizzontescuola.it/uso-dello-smartphone-a-scuola-criteri-condivisi-per-una-gestione-educativa-e-sostenibile-scarica-la-nota-per-i-docenti/",
+                "date": "9 Apr 2026",
+                "time": "7:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_1497725663-scaled.jpg"
+            },
+            null,
+            null,
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Riforma istituti tecnici, indirizzi, quadri orari e non solo: tutte le info utili. QUESTION TIME con Basili (Gilda) LIVE Giovedì 9 aprile alle 15:00",
+                "link": "https://www.orizzontescuola.it/riforma-istituti-tecnici-indirizzi-quadri-orari-e-non-solo-tutte-le-info-utili-question-time-con-basili-gilda-live-giovedi-9-aprile-alle-1500/",
+                "date": "9 Apr 2026",
+                "time": "7:33",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/Template_questiontime_1920x1080-3.png"
+            },
+            null,
             {
                 "category": "Genitori",
                 "title": "Assegno unico, la svolta attesa: cade il vincolo della residenza. Il sostegno si apre a frontalieri e figli in Ue. Emendamento approvato",
@@ -30,14 +42,6 @@
                 "date": "8 Apr 2026",
                 "time": "21:27",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_760999171.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Riforma istituti tecnici, indirizzi, quadri orari e non solo: tutte le info utili. QUESTION TIME con Basili (Gilda) LIVE Giovedì 9 aprile alle 15:00",
-                "link": "https://www.orizzontescuola.it/riforma-istituti-tecnici-indirizzi-quadri-orari-e-non-solo-tutte-le-info-utili-question-time-con-basili-gilda-live-giovedi-9-aprile-alle-1500/",
-                "date": "8 Apr 2026",
-                "time": "18:47",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/Template_questiontime_1920x1080-3.png"
             },
             {
                 "category": "Scuole",
@@ -111,7 +115,12 @@
                 "date": "8 Apr 2026",
                 "time": "14:24",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_1958115694.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Politica scolastica",
                 "title": "Contratto scuola 2025-27, sulla parte normativa riunione all’ARAN con i sindacati il 12 maggio alle 11:00",
@@ -143,12 +152,7 @@
                 "date": "8 Apr 2026",
                 "time": "12:24",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/shutterstock_2617072557.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Gestire la scuola",
                 "title": "Uso dello smartphone durante le attività scolastiche: chiarimenti educativi e corresponsabilità scuola–famiglia. Un modello di circolare per le famiglie",
@@ -247,29 +251,34 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1955291284.jpg"
             },
             {
-                "category": "Cronaca",
-                "title": "Settimana dello Studente al “Dalla Chiesa”: un modello avanzato di scuola partecipata tra regole, responsabilità e innovazione didattica",
-                "link": "https://www.orizzontescuola.it/settimana-dello-studente-al-dalla-chiesa-un-modello-avanzato-di-scuola-partecipata-tra-regole-responsabilita-e-innovazione-didattica/",
+                "category": "Docenti",
+                "title": "Perché è importante studiare il Latino (anche alle medie): “Serve ad imparare meglio le lingue straniere”. INTERVISTA a Guido Milanese",
+                "link": "https://www.orizzontescuola.it/perche-e-importante-studiare-il-latino-anche-alle-medie-serve-ad-imparare-meglio-le-lingue-straniere-intervista-a-guido-milanese/",
                 "date": "8 Apr 2026",
-                "time": "7:56",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/Screenshot-2026-04-08-062813.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "Graduatoria interna d’istituto: schede e guide per segreterie, modelli per l’aggiornamento, circolare e checklist pronti all’uso",
-                "link": "https://www.orizzontescuola.it/graduatoria-interna-distituto-schede-e-guide-per-segreterie-modelli-per-laggiornamento-circolare-e-checklist-pronti-alluso/",
-                "date": "8 Apr 2026",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/gi_interne.png"
-            },
-            null,
-            null,
-            null
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/Guida_Milanese.png"
+            }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Max Angioni e la scuola: “Sei intelligente ma non ti applichi”, una frase sotto accusa",
+                "link": "https://www.orizzontescuola.it/max-angioni-e-la-scuola-sei-intelligente-ma-non-ti-applichi-una-frase-sotto-accusa/",
+                "date": "9 Apr 2026",
+                "time": "8:35",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Verifica della maggiore età e siti porno, il Tar limita l’obbligo per i siti esteri",
+                "link": "https://www.orizzontescuola.it/verifica-della-maggiore-eta-e-siti-porno-il-tar-limita-lobbligo-per-i-siti-esteri/",
+                "date": "9 Apr 2026",
+                "time": "8:29",
+                "image_link": "N/A"
+            },
             {
                 "category": "Genitori",
                 "title": "Fumo in gravidanza, rischio più alto di disturbi psichiatrici nei figli: lo studio su 16mila bambini",
@@ -396,22 +405,6 @@
                 "link": "https://www.orizzontescuola.it/rinnovo-contratti-scuola-e-pubblica-amministrazione-il-confronto-a-ben-detto-tra-zangrillo-barbacci-e-brancatisano/",
                 "date": "8 Apr 2026",
                 "time": "17:01",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Didattica a distanza per risparmiare energia? Due studenti su tre dicono no",
-                "link": "https://www.orizzontescuola.it/didattica-a-distanza-per-risparmiare-energia-due-studenti-su-tre-dicono-no/",
-                "date": "8 Apr 2026",
-                "time": "16:51",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Social e minori, l’appello di Carfagna al governo: urgente approvare il divieto per gli under 13 e bloccare gli algoritmi prima di settembre",
-                "link": "https://www.orizzontescuola.it/social-e-minori-lappello-di-carfagna-al-governo-urgente-approvare-il-divieto-per-gli-under-13-e-bloccare-gli-algoritmi-prima-di-settembre/",
-                "date": "8 Apr 2026",
-                "time": "16:23",
                 "image_link": "N/A"
             }
         ]
@@ -591,6 +584,14 @@
         "articles": [
             {
                 "category": "ATA",
+                "title": "Mobilità ATA 2026/27, domande entro il 13 aprile: la guida del MIM",
+                "link": "https://www.orizzontescuola.it/mobilita-ata-2026-27-domande-entro-il-13-aprile-la-guida-del-mim/",
+                "date": "6 Apr 2026",
+                "time": "10:03",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2665797789.jpg"
+            },
+            {
+                "category": "ATA",
                 "title": "Mobilità ATA 2026: precedenze, le 15 preferenze, gli errori da non fare compilando la domanda. RISPOSTE AI QUESITI",
                 "link": "https://www.orizzontescuola.it/mobilita-ata-2026-precedenze-le-15-preferenze-gli-errori-da-non-fare-compilando-la-domanda-risposte-ai-quesiti/",
                 "date": "3 Apr 2026",
@@ -628,14 +629,6 @@
                 "date": "2 Apr 2026",
                 "time": "19:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2459519923.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Supplenze ATA, il servizio svolto in Trentino vale in graduatoria: chiarimenti",
-                "link": "https://www.orizzontescuola.it/supplenze-ata-il-servizio-svolto-in-trentino-vale-in-graduatoria-chiarimenti/",
-                "date": "2 Apr 2026",
-                "time": "17:52",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
             }
         ]
     },
