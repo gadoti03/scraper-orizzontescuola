@@ -4,11 +4,11 @@
         "articles": [
             {
                 "category": "Cronaca",
-                "title": "“Chiediamo troppo e troppo presto ai bambini”. E sui disturbi dell’apprendimento, “l’ansia dei genitori rischia di amplificare i problemi”. INTERVISTA a Ludovica Isotta Turchetti",
-                "link": "https://www.orizzontescuola.it/stiamo-chiedendo-troppo-troppo-presto-ai-bambini-e-sui-disturbi-dellapprendimento-tendenza-a-vedere-difficolta-ovunque-spesso-causata-dalla-paura-dei-genitori-intrervista-a-ludovica-iso/",
-                "date": "10 Apr 2026",
+                "title": "Ti punisco, ma non ti espello. Le sanzioni a scuola, dal castigo ai percorsi educativi strutturati: il progetto del Meucci-Fanoli di Cittadella. “Ecco cosa facciamo”. INTERVISTA",
+                "link": "https://www.orizzontescuola.it/ti-punisco-ma-non-ti-espello-le-sanzioni-a-scuola-dal-castigo-ai-percorsi-educativi-strutturati-il-progetto-del-meucci-fanoli-di-cittadella-ecco-cosa-facciamo-intervista/",
+                "date": "11 Apr 2026",
                 "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/Chiediamo-troppo-e-troppo-presto-ai-bambini.png"
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/Gli-studenti-leggono-testi-normativi-guardano-film-e-documentari-analizzano-articoli-e-producono-un-elaborato-finale-che-poi-presentano-in-classe.png"
             },
             null
         ]
@@ -16,6 +16,31 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Plus",
+                "title": "“L’Agenda delle scadenze” per Segreterie, DSGA e Dirigenti: dove la trovo? A cosa mi serve?",
+                "link": "https://www.orizzontescuola.it/lagenda-delle-scadenze-per-segreterie-dsga-e-dirigenti-dove-la-trovo-a-cosa-mi-serve/",
+                "date": "11 Apr 2026",
+                "time": "8:32",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/Lagenda-delle-scadenze.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Attenzione alle prestazioni d’opera occasionali: se c’è subordinazione e vincolo orario, il rapporto di lavoro è subordinato",
+                "link": "https://www.orizzontescuola.it/attenzione-alle-prestazioni-dopera-occasionali-se-ce-subordinazione-e-vincolo-orario-il-rapporto-di-lavoro-e-subordinato/",
+                "date": "11 Apr 2026",
+                "time": "8:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2488357413-scaled.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Elenchi regionali per il ruolo docenti, scatta il conto alla rovescia: requisiti e info utili. QUESTION TIME con Cannas. LIVE Lunedì 13 aprile alle 14:30",
+                "link": "https://www.orizzontescuola.it/elenchi-regionali-per-il-ruolo-docenti-scatta-il-conto-alla-rovescia-requisiti-e-info-utili-question-time-con-cannas-live-lunedi-13-aprile-alle-1500/",
+                "date": "11 Apr 2026",
+                "time": "8:14",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/Template_questiontime_1920x1080-5.png"
+            },
+            null,
             {
                 "category": "ATA",
                 "title": "Aggiornamento graduatorie ATA 24 mesi 2026: in arrivo la nota. Il 14 aprile riunione Ministero-Sindacati",
@@ -64,7 +89,6 @@
                 "time": "17:01",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/06/shutterstock_1890232807.jpg"
             },
-            null,
             {
                 "category": "Stipendio",
                 "title": "Docenti e ATA, sono previste misure per compensare i costi di chi lavora lontano dalla residenza?",
@@ -72,14 +96,6 @@
                 "date": "10 Apr 2026",
                 "time": "16:29",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2501727439-1.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Elenchi regionali per il ruolo docenti, scatta il conto alla rovescia: requisiti e info utili. QUESTION TIME con Cannas. LIVE Lunedì 13 aprile alle 14:30",
-                "link": "https://www.orizzontescuola.it/elenchi-regionali-per-il-ruolo-docenti-scatta-il-conto-alla-rovescia-requisiti-e-info-utili-question-time-con-cannas-live-lunedi-13-aprile-alle-1500/",
-                "date": "10 Apr 2026",
-                "time": "16:14",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/Template_questiontime_1920x1080-5.png"
             },
             {
                 "category": "Diventare Insegnanti",
@@ -120,7 +136,12 @@
                 "date": "10 Apr 2026",
                 "time": "13:03",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2198390061.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Politica scolastica",
                 "title": "L’Italia vince la sfida Ue con 5 anni di anticipo: dispersione scolastica crolla all’8,2%. Valditara: “Risultato storico, ora focus sugli stranieri”",
@@ -136,12 +157,7 @@
                 "date": "10 Apr 2026",
                 "time": "11:17",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/shutterstock_2599495969.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Gestire la scuola",
                 "title": "Figure esterne in classe: gestione della procedura di autorizzazione con modello di richiesta del professionista e modello privacy",
@@ -231,6 +247,14 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2510726125.jpg"
             },
             {
+                "category": "Cronaca",
+                "title": "“Chiediamo troppo e troppo presto ai bambini”. E sui disturbi dell’apprendimento, “l’ansia dei genitori rischia di amplificare i problemi”. INTERVISTA a Ludovica Isotta Turchetti",
+                "link": "https://www.orizzontescuola.it/stiamo-chiedendo-troppo-troppo-presto-ai-bambini-e-sui-disturbi-dellapprendimento-tendenza-a-vedere-difficolta-ovunque-spesso-causata-dalla-paura-dei-genitori-intrervista-a-ludovica-iso/",
+                "date": "10 Apr 2026",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/Chiediamo-troppo-e-troppo-presto-ai-bambini.png"
+            },
+            {
                 "category": "Gestire la scuola",
                 "title": "La tutela della privacy, responsabilità del personale ATA + 7 documenti pronti. Tra cui: Bozza informativa per famiglie e bozza comunicazione per il personale ATA",
                 "link": "https://www.orizzontescuola.it/la-tutela-della-privacy-responsabilita-del-personale-ata-7-documenti-pronti-tra-cui-bozza-informativa-per-famiglie-e-bozza-comunicazione-per-il-personale-ata/",
@@ -261,23 +285,6 @@
                 "date": "9 Apr 2026",
                 "time": "16:29",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/10/shutterstock_1440479351.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Decreto PNRR: reclutamento docenti, organici ATA, deroghe sulla mobilità e novità sugli elenchi regionali. OK dalla Camera. Cosa è previsto",
-                "link": "https://www.orizzontescuola.it/decreto-pnrr-reclutamento-docenti-organici-ata-deroghe-sulla-mobilita-e-novita-sugli-elenchi-regionali-ok-dalla-camera-cosa-e-previsto/",
-                "date": "9 Apr 2026",
-                "time": "15:39",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2693956835-scaled.jpg"
-            },
-            null,
-            {
-                "category": "Stipendio",
-                "title": "Aumenti e arretrati, spetteranno anche a docenti e ATA in pensione tra il 2025 e il 2027?",
-                "link": "https://www.orizzontescuola.it/aumenti-e-arretrati-spetteranno-anche-a-docenti-e-ata-in-pensione-tra-il-2025-e-il-2027/",
-                "date": "9 Apr 2026",
-                "time": "15:22",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_2352507533.jpg"
             }
         ]
     },
@@ -613,14 +620,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_2599999921.jpg"
             },
             {
-                "category": "Gestire la scuola",
-                "title": "Agenda Nord e agenda Sud DM 176, scaricabili 29 documenti pronti all’uso",
-                "link": "https://www.orizzontescuola.it/agenda-nord-e-agenda-sud-dm-176-scaricabili-29-documenti-pronti-alluso/",
-                "date": "7 Apr 2026",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2706290149.jpg"
-            },
-            {
                 "category": "ATA",
                 "title": "Mobilità ATA 2026/27, domande entro il 13 aprile: la guida del MIM",
                 "link": "https://www.orizzontescuola.it/mobilita-ata-2026-27-domande-entro-il-13-aprile-la-guida-del-mim/",
@@ -643,6 +642,14 @@
                 "date": "3 Apr 2026",
                 "time": "12:25",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/06/money-87224_1280-1200x900.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Personale Ata: a quanto ammonterà lo stipendio nel 2027? I dati per profilo",
+                "link": "https://www.orizzontescuola.it/personale-ata-a-quanto-ammontera-lo-stipendio-nel-2027-i-dati-per-profilo/",
+                "date": "3 Apr 2026",
+                "time": "10:16",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/shutterstock_1025637199.jpg"
             }
         ]
     },
