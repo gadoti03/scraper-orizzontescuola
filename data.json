@@ -4,11 +4,11 @@
         "articles": [
             {
                 "category": "Docenti",
-                "title": "Maturità, “La griglia di valutazione ministeriale non mi piace e vi spiego perché”. INTERVISTA a Cristina Agazzi",
-                "link": "https://www.orizzontescuola.it/maturita-la-griglia-di-valutazione-ministeriale-non-mi-piace-e-vi-spiego-perche-intervista-a-cristina-agazzi/",
-                "date": "13 Apr 2026",
-                "time": "7:59",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/agazzi.png"
+                "title": "Un buon insegnante deve affascinare e accattivare, “è un’idea tossica e vi spiego perché”. INTERVISTA a Natalia Laura Perotto",
+                "link": "https://www.orizzontescuola.it/un-buon-insegnante-deve-affascinare-e-accattivare-e-unidea-tossica-e-vi-spiego-perche-intervista-a-natalia-laura-perotto/",
+                "date": "14 Apr 2026",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/Perotto-1.png"
             },
             null
         ]
@@ -16,6 +16,25 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Docenti",
+                "title": "Maturità 2026, Domande Commissari e Presidente: verifica e convalida entro il 4 maggio",
+                "link": "https://www.orizzontescuola.it/maturita-2026-domande-commissari-e-presidente-verifica-e-convalida-entro-il-4-maggio/",
+                "date": "14 Apr 2026",
+                "time": "9:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_608600555.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Graduatoria interna d’istituto: schede e guide per segreterie, modelli per l’aggiornamento, circolare e checklist pronti all’uso",
+                "link": "https://www.orizzontescuola.it/graduatoria-interna-distituto-schede-e-guide-per-segreterie-modelli-per-laggiornamento-circolare-e-checklist-pronti-alluso/",
+                "date": "14 Apr 2026",
+                "time": "7:59",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/gi_interne.png"
+            },
+            null,
+            null,
+            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "Graduatorie ad esaurimento: ecco le GaE pubblicate per il 2026/28 (e dove sono vuote)",
@@ -103,7 +122,12 @@
                 "date": "13 Apr 2026",
                 "time": "14:40",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/shutterstock_2617072557.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Dirigenti scolastici",
                 "title": "Dalla Spagna all’Italia, presidi in trincea: “La burocrazia ha ucciso il prestigio. Oggi comandare una scuola è una condanna”",
@@ -143,12 +167,7 @@
                 "date": "13 Apr 2026",
                 "time": "11:53",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_1966100227-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Docenti",
                 "title": "Mobilità insegnanti di religione 2026/27, domande entro il 17 aprile: procedura cartacea via PEC",
@@ -252,45 +271,36 @@
                 "date": "13 Apr 2026",
                 "time": "8:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1787093510.jpg"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "La responsabilità pre contrattuale nell’affidamento diretto. A cura di Anna Armone",
-                "link": "https://www.orizzontescuola.it/la-responsabilita-pre-contrattuale-nellaffidamento-diretto-a-cura-di-anna-armone/",
-                "date": "13 Apr 2026",
-                "time": "8:13",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_2229678829.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Caviardage e scrittura creativa. Pratiche laboratoriali replicabili nella didattica contemporanea",
-                "link": "https://www.orizzontescuola.it/caviardage-e-scrittura-creativa-pratiche-laboratoriali-replicabili-nella-didattica-contemporanea/",
-                "date": "13 Apr 2026",
-                "time": "8:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_1155199690-scaled.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Studente morto in gita: ipotesi malore mentre era in bicicletta, disposta l’autopsia",
-                "link": "https://www.orizzontescuola.it/studente-morto-in-gita-ipotesi-malore-mentre-era-in-bicicletta-disposta-lautopsia/",
-                "date": "13 Apr 2026",
-                "time": "8:06",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/10/Lutto.jpg"
-            },
-            null,
-            {
-                "category": "Cronaca",
-                "title": "“Tutto quello che è comodo è stupido”, Paolo Crepet e l’elogio della fatica per crescere giovani forti: “Stiamo anestetizzando i nostri figli. Senza frustrazione non c’è genialità”",
-                "link": "https://www.orizzontescuola.it/tutto-quello-che-e-comodo-e-stupido-paolo-crepet-e-lelogio-della-fatica-per-crescere-giovani-forti-stiamo-anestetizzando-i-nostri-figli-senza-frustrazione-non-ce-genialita/",
-                "date": "12 Apr 2026",
-                "time": "18:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/Screenshot-2026-04-10-alle-18.42.42.png"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Insegnanti in trincea: burnout e abbandoni di massa. La scuola perde i suoi pilastri mentre il disagio giovanile esplode: “Così la relazione educativa muore”",
+                "link": "https://www.orizzontescuola.it/insegnanti-in-trincea-burnout-e-abbandoni-di-massa-la-scuola-perde-i-suoi-pilastri-mentre-il-disagio-giovanile-esplode-cosi-la-relazione-educativa-muore/",
+                "date": "14 Apr 2026",
+                "time": "8:44",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Famiglia nel bosco, la legale smentisce accordi con Netflix e ipotesi di risarcimento",
+                "link": "https://www.orizzontescuola.it/famiglia-nel-bosco-la-legale-smentisce-accordi-con-netflix-e-ipotesi-di-risarcimento/",
+                "date": "14 Apr 2026",
+                "time": "8:10",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Smartphone e salute mentale: “Dal 2013 un aumento del 500% dei ricoveri psichiatrici”. L’allarme del neuropsichiatra Stefano Vicari",
+                "link": "https://www.orizzontescuola.it/smartphone-e-salute-mentale-dal-2013-un-aumento-del-500-dei-ricoveri-psichiatrici-lallarme-del-neuropsichiatra-stefano-vicari/",
+                "date": "14 Apr 2026",
+                "time": "7:56",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Scuola, l’inclusione si gioca in cattedra: la rivoluzione silenziosa della didattica altoatesina",
@@ -402,30 +412,6 @@
                 "link": "https://www.orizzontescuola.it/jovanotti-agli-studenti-non-abbiate-paura-dellia-il-futuro-e-nella-tecnologia-ma-senza-sacrificio-non-si-ottiene-nulla/",
                 "date": "13 Apr 2026",
                 "time": "14:16",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Strade scolastiche a Firenze: niente auto agli orari di entrata e uscita degli alunni. La sperimentazione partirà il 15 e 16 aprile",
-                "link": "https://www.orizzontescuola.it/strade-scolastiche-a-firenze-niente-auto-agli-orari-di-entrata-e-uscita-degli-alunni-la-sperimentazione-partira-il-15-e-16-aprile/",
-                "date": "13 Apr 2026",
-                "time": "14:16",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Il femminismo è una lotta di tutte e tutti”, Matilda De Angelis e l’ultimo atto di Lidia Poët: “Se continuiamo a combattere, prima o poi qualcosa cambierà”",
-                "link": "https://www.orizzontescuola.it/il-femminismo-e-una-lotta-di-tutte-e-tutti-matilda-de-angelis-e-lultimo-atto-di-lidia-poet-se-continuiamo-a-combattere-prima-o-poi-qualcosa-cambiera/",
-                "date": "13 Apr 2026",
-                "time": "14:04",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Riforma istituti Tecnici, ANIEF: “Il parere del CSPI conferma le nostre preoccupazioni su organici e qualità didattica”",
-                "link": "https://www.orizzontescuola.it/riforma-istituti-tecnici-anief-il-parere-del-cspi-conferma-le-nostre-preoccupazioni-su-organici-e-qualita-didattica/",
-                "date": "13 Apr 2026",
-                "time": "13:01",
                 "image_link": "N/A"
             }
         ]
@@ -605,14 +591,6 @@
         "articles": [
             {
                 "category": "ATA",
-                "title": "Aggiornamento graduatorie ATA 24 mesi 2026: in arrivo la nota. Il 14 aprile riunione Ministero-Sindacati",
-                "link": "https://www.orizzontescuola.it/aggiornamento-graduatorie-ata-24-mesi-in-arrivo-la-nota-il-14-aprile-riunione-ministero-sindacati/",
-                "date": "10 Apr 2026",
-                "time": "20:28",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/01/shutterstock_163828547-scaled.jpg"
-            },
-            {
-                "category": "ATA",
                 "title": "Posizioni economiche ATA: in corso il caricamento degli esiti delle prove, poi le graduatorie. In Sicilia 4.496 nuove attribuzioni",
                 "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-in-corso-il-caricamento-degli-esiti-delle-prove-poi-le-graduatorie-in-sicilia-4-496-nuove-attribuzioni/",
                 "date": "10 Apr 2026",
@@ -650,6 +628,14 @@
                 "date": "10 Apr 2026",
                 "time": "10:38",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/10/shutterstock_1806657418.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Mobilità ATA 2026/27: come si calcola il punteggio del servizio",
+                "link": "https://www.orizzontescuola.it/mobilita-ata-2026-27-come-si-calcola-il-punteggio-del-servizio/",
+                "date": "9 Apr 2026",
+                "time": "18:34",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
             }
         ]
     },
