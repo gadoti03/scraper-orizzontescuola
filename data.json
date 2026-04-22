@@ -3,26 +3,61 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
-                "category": "Cronaca",
-                "title": "Dirigenti scolastici tra leadership e burocrazia: l’equilibrio difficile secondo Antonello Giannelli",
-                "link": "https://www.orizzontescuola.it/dirigenti-scolastici-tra-leadership-e-burocrazia-lequilibrio-difficile-secondo-antonello-giannelli/",
-                "date": "21 Apr 2026",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/TABELLACOPERTINA-1-8-scaled.png"
+                "category": "Docenti",
+                "title": "Riforma sostegno: cosa cambia per gli studenti certificati, il ruolo del GLO, i PEI in piattaforma. Il Punto di Walter Miceli",
+                "link": "https://www.orizzontescuola.it/riforma-sostegno-cosa-cambia-per-gli-studenti-certificati-il-ruolo-del-glo-i-pei-in-piattaforma-il-punto-di-walter-miceli/",
+                "date": "22 Apr 2026",
+                "time": "8:47",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2480765345.jpg"
             },
             {
-                "category": "Diventare Insegnanti",
-                "title": "TFA sostegno, al via l’XI ciclo: oltre 30mila posti e calendario per gli atenei. Tutti i posti per Regione, zero al II grado. [PDF]",
-                "link": "https://www.orizzontescuola.it/tfa-sostegno-al-via-lxi-ciclo-oltre-30mila-posti-e-calendario-per-gli-atenei-tutti-i-posti-per-regione-zero-al-ii-grado-pdf/",
-                "date": "20 Apr 2026",
-                "time": "8:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_1903057546.jpg"
+                "category": "Cronaca",
+                "title": "“La mia lotta contro la dipendenza”, il silenzio e il vuoto. Stefano: “Ad un insegnante può essere più facile entrare in contatto. La scuola può essere un luogo decisivo”. INTERVISTA",
+                "link": "https://www.orizzontescuola.it/la-mia-lotta-contro-la-dipendenza-il-silenzio-e-il-vuoto-stefano-ad-un-insegnante-puo-essere-piu-facile-entrare-in-contatto-la-scuola-puo-essere-un-luogo-decisivo-intervista/",
+                "date": "22 Apr 2026",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/diop.png"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Emergenza salute mentale giovani (18-24 anni): quasi il 60% dei nuovi pazienti psichiatrici ha meno di 55 anni. I dati",
+                "link": "https://www.orizzontescuola.it/emergenza-salute-mentale-giovani-18-24-anni-quasi-il-60-dei-nuovi-pazienti-psichiatrici-ha-meno-di-55-anni-i-dati/",
+                "date": "22 Apr 2026",
+                "time": "9:03",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_2154471567.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Il caso della ciocca tagliata: “Chi mettiamo dietro la cattedra? Oltre il punteggio, serve educazione emotiva per i docenti”",
+                "link": "https://www.orizzontescuola.it/il-caso-della-ciocca-tagliata-chi-mettiamo-dietro-la-cattedra-oltre-il-punteggio-serve-educazione-emotiva-per-i-docenti/",
+                "date": "22 Apr 2026",
+                "time": "8:32",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2487699197.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Calendario scolastico 2026-2027 privo di ponti “naturali”, ma il Veneto ne introduce di mirati, la Sicilia no. Calendari a confronto",
+                "link": "https://www.orizzontescuola.it/calendario-scolastico-2026-2027-privo-di-ponti-naturali-ma-il-veneto-ne-introduce-di-mirati-la-sicilia-no-calendari-a-confronto/",
+                "date": "22 Apr 2026",
+                "time": "8:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/09/shutterstock_221009590.jpg"
+            },
+            {
+                "category": "Gestire la scuola",
+                "title": "Riabilitazione docente sanzionato: guida e modello di istanza al Dirigente",
+                "link": "https://www.orizzontescuola.it/riabilitazione-docente-sanzionato-guida-e-modello-di-istanza-al-dirigente/",
+                "date": "22 Apr 2026",
+                "time": "7:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_2135166481-scaled.jpg"
+            },
+            null,
+            null,
+            null,
             {
                 "category": "Docenti",
                 "title": "Maturità 2025/2026: esame preliminare per candidati esterni. La procedura",
@@ -94,7 +129,12 @@
                 "date": "21 Apr 2026",
                 "time": "15:58",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_1745285486.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Docenti",
                 "title": "Scuola e docenti, “Ormai sono mentalmente distrutta”, “La sceglierei ancora, mille volte”, “Ambiente tossico”. Le riflessioni e gli sfoghi sui social",
@@ -150,12 +190,7 @@
                 "date": "21 Apr 2026",
                 "time": "12:24",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1197053242.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Graduatorie GPS 2026: ecco le scuole polo che valutano le domande [AGGIORNATO]",
@@ -204,6 +239,7 @@
                 "time": "8:40",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_1985819831.jpg"
             },
+            null,
             {
                 "category": "Docenti",
                 "title": "“Ma non vanno gratis in gita?”: quando si ignorano le responsabilità (e il lavoro gratuito) dei docenti che rifiutano di accompagnare gli studenti",
@@ -228,55 +264,35 @@
                 "time": "8:06",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/3-1-scaled.png"
             },
-            null,
-            null,
-            null,
-            null,
-            {
-                "category": "Comunicati stampa",
-                "title": "Risorse formazione personale, Anief propone di utilizzarle anche per incrementare compensi commissari esame di Maturità",
-                "link": "https://www.orizzontescuola.it/ccni-risorse-per-la-formazione-del-personale-secondo-il-sindacato-anief-serve-un-quadro-complessivo-piu-chiaro-e-maggiore-riconoscimento-economico-per-i-commissari-desame/",
-                "date": "20 Apr 2026",
-                "time": "20:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_2030407835-scaled.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Posizioni economiche ATA, il 23 aprile le prove suppletive: orari, sedi e istruzioni per i candidati",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-il-23-aprile-le-prove-suppletive-orari-sedi-e-istruzioni-per-i-candidati/",
-                "date": "20 Apr 2026",
-                "time": "19:33",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_608600555.jpg"
-            },
-            {
-                "category": "Didattica",
-                "title": "Waking Life: il viaggio onirico come metafora dell’esistenza reale. Insegnare con i film",
-                "link": "https://www.orizzontescuola.it/waking-life-il-viaggio-onirico-come-metafora-dellesistenza-reale-insegnare-con-i-film/",
-                "date": "20 Apr 2026",
-                "time": "19:09",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-17-at-12.33.46.jpeg"
-            },
-            {
-                "category": "Dirigenti scolastici",
-                "title": "Concorso dirigenti scolastici Provincia di Trento, prova scritta il 28 aprile: istruzioni, durata e griglia di valutazione",
-                "link": "https://www.orizzontescuola.it/concorso-dirigenti-scolastici-provincia-di-trento-prova-scritta-il-28-aprile-istruzioni-durata-e-griglia-di-valutazione/",
-                "date": "20 Apr 2026",
-                "time": "19:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_669396973.jpg"
-            },
             {
                 "category": "Cronaca",
-                "title": "Scuola, Valditara: “Classi pollaio? Sono residuali. Nessun intervento sul calendario scolastico in programma”",
-                "link": "https://www.orizzontescuola.it/scuola-valditara-classi-pollaio-sono-residuali-nessun-intervento-sul-calendario-scolastico-in-programma/",
-                "date": "20 Apr 2026",
-                "time": "18:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2337331423.jpg"
+                "title": "Dirigenti scolastici tra leadership e burocrazia: l’equilibrio difficile secondo Antonello Giannelli",
+                "link": "https://www.orizzontescuola.it/dirigenti-scolastici-tra-leadership-e-burocrazia-lequilibrio-difficile-secondo-antonello-giannelli/",
+                "date": "21 Apr 2026",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/TABELLACOPERTINA-1-8-scaled.png"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Studente salvato da un docente a Bergamo: l’insegnante evita la tragedia in classe, l’incontro in municipio per celebrare il gesto",
+                "link": "https://www.orizzontescuola.it/studente-salvato-da-un-docente-a-bergamo-linsegnante-evita-la-tragedia-in-classe-lincontro-in-municipio-per-celebrare-il-gesto/",
+                "date": "22 Apr 2026",
+                "time": "8:50",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Consulenza fiscale",
+                "title": "Delega Inps, chi è responsabile delle dichiarazioni effettuate?",
+                "link": "https://www.orizzontescuola.it/delega-inps-chi-e-responsabile-delle-dichiarazioni-effettuate/",
+                "date": "22 Apr 2026",
+                "time": "7:14",
+                "image_link": "N/A"
+            },
             {
                 "category": "ATA",
                 "title": "Interpello personale ATA Profilo infermiere fino al 01 giugno 2026",
@@ -404,22 +420,6 @@
                 "date": "21 Apr 2026",
                 "time": "14:35",
                 "image_link": "N/A"
-            },
-            {
-                "category": "ATA",
-                "title": "Graduatorie ATA 24 mesi 2026, domande dal 28 aprile: tutte le info utili. QUESTION TIME con Raimondo (Uil Scuola Rua)",
-                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-2026-domande-dal-28-aprile-tutte-le-info-utili-question-time-con-raimondo-uil-scuola-rua-live-martedi-21-aprile-alle-1500/",
-                "date": "21 Apr 2026",
-                "time": "14:29",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso infanzia e primaria PNRR3, prova orale [Le convocazioni]",
-                "link": "https://www.orizzontescuola.it/concorso-infanzia-e-primaria-pnrr3-arrivano-le-convocazioni-prova-orale-dal-19-gennaio-in-aggiornamento/",
-                "date": "21 Apr 2026",
-                "time": "13:00",
-                "image_link": "N/A"
             }
         ]
     },
@@ -545,6 +545,22 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "TFA sostegno, al via l’XI ciclo: oltre 30mila posti e calendario per gli atenei. Tutti i posti per Regione, zero al II grado. [PDF]",
+                "link": "https://www.orizzontescuola.it/tfa-sostegno-al-via-lxi-ciclo-oltre-30mila-posti-e-calendario-per-gli-atenei-tutti-i-posti-per-regione-zero-al-ii-grado-pdf/",
+                "date": "20 Apr 2026",
+                "time": "8:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_1903057546.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Graduatorie GPS docenti 2026: quando saranno pubblicate?",
+                "link": "https://www.orizzontescuola.it/graduatorie-gps-docenti-2026-quando-saranno-pubblicate/",
+                "date": "19 Apr 2026",
+                "time": "16:14",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/01/shutterstock_326111021.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Assunzione docenti, chi ha rifiutato un’immissione in ruolo in passato può iscriversi agli elenchi regionali",
                 "link": "https://www.orizzontescuola.it/assunzione-docenti-chi-ha-rifiutato-unimmissione-in-ruolo-in-passato-puo-iscriversi-agli-elenchi-regionali/",
                 "date": "19 Apr 2026",
@@ -574,28 +590,20 @@
                 "date": "17 Apr 2026",
                 "time": "14:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_529709986.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Neoassunti 2025/26, INDIRE apre l’ambiente tutor: cosa fare in piattaforma e focus su ruolo, peer to peer e bilancio competenze",
-                "link": "https://www.orizzontescuola.it/neoassunti-2025-26-indire-apre-lambiente-tutor-cosa-fare-in-piattaforma-e-focus-su-ruolo-peer-to-peer-e-bilancio-competenze/",
-                "date": "17 Apr 2026",
-                "time": "13:23",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1129962923-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Elenchi regionali per il ruolo 2026: contano solo le graduatorie pubblicate entro il 10 dicembre 2025",
-                "link": "https://www.orizzontescuola.it/elenchi-regionali-per-il-ruolo-2026-contano-solo-le-graduatorie-pubblicate-entro-il-10-dicembre-2025/",
-                "date": "17 Apr 2026",
-                "time": "11:21",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2491902319.jpg"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
+            {
+                "category": "ATA",
+                "title": "Graduatorie ATA 24 mesi, domande dal 28 aprile: si valuta il servizio fino al 19 maggio. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-domande-dal-28-aprile-si-valuta-il-servizio-fino-al-19-maggio-risposte-ai-quesiti/",
+                "date": "16 Apr 2026",
+                "time": "20:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/shutterstock_2617072557.jpg"
+            },
             {
                 "category": "Gestire la scuola",
                 "title": "Come controllare i tetti di spesa relative alle adozioni dei libri di testo: errori ricorrenti e responsabilità del dirigente scolastico",
@@ -635,20 +643,20 @@
                 "date": "15 Apr 2026",
                 "time": "10:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_448000054-scaled.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Graduatorie 24 mesi ATA: CIAD richiesta solo ai nuovi inserimenti. Requisito per tutti i profili tranne il collaboratore scolastico",
-                "link": "https://www.orizzontescuola.it/graduatorie-24-mesi-ata-ciad-richiesta-solo-ai-nuovi-inserimenti-requisito-per-tutti-i-profili-tranne-il-collaboratore-scolastico/",
-                "date": "15 Apr 2026",
-                "time": "9:54",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_409299112-scaled.jpg"
             }
         ]
     },
     "group_8": {
         "title": "Didattica",
         "articles": [
+            {
+                "category": "Didattica",
+                "title": "Fahrenheit 451: la cultura come presupposto fondante per una società libera e consapevole. Insegnare con i film",
+                "link": "https://www.orizzontescuola.it/fahrenheit-451-la-cultura-come-presupposto-fondante-per-una-societa-libera-e-consapevole-insegnare-con-i-film/",
+                "date": "14 Mar 2026",
+                "time": "13:48",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-10.34.13.jpeg"
+            },
             {
                 "category": "Didattica",
                 "title": "Immaginare un mondo migliore è possibile: l’inno senza tempo di John Lennon. Insegnare con le canzoni",
@@ -688,14 +696,6 @@
                 "date": "15 Feb 2026",
                 "time": "15:42",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/09/shutterstock_95662309.jpg"
-            },
-            {
-                "category": "Didattica",
-                "title": "La lezione di Mattarella per “curvare” le scuole alla compostezza e salvare una democrazia senza adulti. E la letterina della Litizzetto. Scarica l’UDA",
-                "link": "https://www.orizzontescuola.it/la-lezione-di-mattarella-per-curvare-le-scuole-alla-compostezza-e-salvare-una-democrazia-senza-adulti-e-la-letterina-della-litizzetto-scarica-luda/",
-                "date": "10 Feb 2026",
-                "time": "8:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/75020-scaled.jpg"
             }
         ]
     },
