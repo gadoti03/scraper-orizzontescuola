@@ -24,8 +24,32 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "Decreto sicurezza, la Camera conferma la fiducia: via libera con 203 sì. Arresto in flagranza per chi aggredisce il personale della scuola",
+                "link": "https://www.orizzontescuola.it/decreto-sicurezza-la-camera-conferma-la-fiducia-via-libera-con-203-si-arresto-in-flagranza-per-chi-aggredisce-il-personale-della-scuola/",
+                "date": "22 Apr 2026",
+                "time": "22:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/03/parlamento-1132x670.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Se gli elenchi regionali servono per le assunzioni dei docenti, perché non prevedono la riserva per il servizio civile nazionale e universale?",
+                "link": "https://www.orizzontescuola.it/se-gli-elenchi-regionali-servono-le-assunzioni-dei-docenti-perche-non-prevedono-la-riserva-per-il-servizio-civile-nazionale-e-universale/",
+                "date": "22 Apr 2026",
+                "time": "21:54",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/pexels-gustavo-fring-4173115.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Dagli elenchi regionali alle assunzioni sul sostegno: facciamo il punto. QUESTION TIME con Antonazzo (Gilda) LIVE Giovedì 23 aprile alle 16:30",
+                "link": "https://www.orizzontescuola.it/dagli-elenchi-regionali-alle-assunzioni-sul-sostegno-facciamo-il-punto-question-time-con-antonazzo-gilda-live-giovedi-23-aprile-alle-1630/",
+                "date": "22 Apr 2026",
+                "time": "21:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/Template_questiontime_1920x1080-11.png"
+            },
+            {
                 "category": "Docenti",
-                "title": "Geografia e storia nei Licei, tornano separati. 3 ore a settimana complessive per un totale di 99 euro l’anno. Cosa cambia nelle nuove bozze",
+                "title": "Geografia e storia nei Licei, tornano separati. 3 ore a settimana complessive per un totale di 99 euro l’anno nel biennio. Cosa cambia",
                 "link": "https://www.orizzontescuola.it/geografia-e-storia-nei-licei-tornano-separati-3-ore-a-settimana-complessive-per-un-totale-di-99-euro-lanno-cosa-cambia-nelle-nuove-bozze/",
                 "date": "22 Apr 2026",
                 "time": "20:32",
@@ -119,7 +143,12 @@
                 "date": "22 Apr 2026",
                 "time": "12:23",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_278949854.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Genitori",
                 "title": "Lezioni private, quanto costano: mediana a 13 euro l’ora, ma (sorpresa) online si paga di più",
@@ -143,12 +172,7 @@
                 "date": "22 Apr 2026",
                 "time": "11:47",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/shutterstock_2670329463.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "GPS 2026: domanda aspiranti con riserva viene valutata, ma non validata. In attesa dello scioglimento della riserva",
@@ -254,29 +278,20 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_2135166481-scaled.jpg"
             },
             null,
-            null,
-            null,
-            {
-                "category": "Docenti",
-                "title": "Maturità 2025/2026: esame preliminare per candidati esterni. La procedura",
-                "link": "https://www.orizzontescuola.it/maturita-2025-2026-esame-preliminare-per-candidati-esterni-la-procedura/",
-                "date": "21 Apr 2026",
-                "time": "20:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/shutterstock_2343152703.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Aggiornamento ATA 24 mesi 2026: differenza tra titoli di riserva e preferenza, invalidità civile, legge 104. RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/aggiornamento-ata-24-mesi-2026-differenza-tra-titoli-di-riserva-e-preferenza-invalidita-civile-legge-104-risposte-ai-quesiti/",
-                "date": "21 Apr 2026",
-                "time": "20:21",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/Screenshot-2026-04-21-192441.png"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Formazione professionale e maturità: via libera al CdM. Accesso diretto a ITS Academy ed esame di Stato senza prove preliminari per chi conclude i percorsi quadriennali IeFP",
+                "link": "https://www.orizzontescuola.it/formazione-professionale-e-maturita-via-libera-al-cdm-accesso-diretto-a-its-academy-ed-esame-di-stato-senza-prove-preliminari-per-chi-conclude-i-percorsi-quadriennali-iefp/",
+                "date": "22 Apr 2026",
+                "time": "21:39",
+                "image_link": "N/A"
+            },
             {
                 "category": "Genitori",
                 "title": "Paolo Crepet ai giovani: “Oggi la penso come mio padre, bisogna indignarsi e arrivare poi a mancarsi”",
@@ -405,14 +420,6 @@
                 "date": "22 Apr 2026",
                 "time": "10:47",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Tortura e condivisione illecita di immagini, a Torino si indaga su sei liceali",
-                "link": "https://www.orizzontescuola.it/tortura-e-condivisione-illecita-di-immagini-a-torino-si-indaga-su-sei-liceali/",
-                "date": "22 Apr 2026",
-                "time": "10:36",
-                "image_link": "N/A"
             }
         ]
     },
@@ -538,6 +545,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Graduatorie GPS 2026: ecco le scuole polo che valutano le domande [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-ecco-le-scuole-polo-che-valuteranno-le-domande-in-aggiornamento/",
+                "date": "21 Apr 2026",
+                "time": "11:06",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_277027346.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Assunzione docenti 2026: calendario delle procedure. Elenchi regionali, conferma sostegno, supplenze. Il Punto di Chiara Cozzetto",
                 "link": "https://www.orizzontescuola.it/assunzione-docenti-2026-calendario-delle-procedure-elenchi-regionali-conferma-sostegno-supplenze-il-punto-di-chiara-cozzetto/",
                 "date": "21 Apr 2026",
@@ -575,20 +590,28 @@
                 "date": "20 Apr 2026",
                 "time": "13:54",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/shutterstock_1544913164.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Graduatorie GPS per le supplenze 2026, c’è il limite di età. Esclusi 67enni e over (e non sono pochi)",
-                "link": "https://www.orizzontescuola.it/graduatorie-gps-per-le-supplenze-2026-ce-il-limite-di-eta-esclusi-67enni-e-over-e-non-sono-pochi/",
-                "date": "20 Apr 2026",
-                "time": "11:36",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/shutterstock_93717226.jpg"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
+            {
+                "category": "ATA",
+                "title": "Personale ATA, ferie non godute entro aprile: cosa cambia con l’orario su cinque giorni",
+                "link": "https://www.orizzontescuola.it/personale-ata-ferie-non-godute-entro-aprile-cosa-cambia-con-lorario-su-cinque-giorni/",
+                "date": "20 Apr 2026",
+                "time": "9:07",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/shutterstock_2617072557.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Graduatorie ATA 24 mesi 2026, cambio provincia non consentito",
+                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-2026-cambio-provincia-non-consentito/",
+                "date": "17 Apr 2026",
+                "time": "18:21",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_1645535227.jpg"
+            },
             {
                 "category": "Gestire la scuola",
                 "title": "Conflitti tra il personale scolastico: con modello protocollo per la gestione tra il personale scolastico e rilevazione conflitti tra ATA",
@@ -620,22 +643,6 @@
                 "date": "15 Apr 2026",
                 "time": "14:18",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_608600555.jpg"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "Adozione dei libri di testo e legittimità degli atti: quando una delibera è impugnabile",
-                "link": "https://www.orizzontescuola.it/adozione-dei-libri-di-testo-e-legittimita-degli-atti-quando-una-delibera-e-impugnabile/",
-                "date": "15 Apr 2026",
-                "time": "11:09",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/shutterstock_2556769317.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Mobilità ATA 2026, cosa sapere dopo la chiusura delle domande: revoca possibile fino all’11 maggio, esiti il 12 giugno",
-                "link": "https://www.orizzontescuola.it/mobilita-ata-2026-cosa-sapere-dopo-la-chiusura-delle-domande-revoca-possibile-fino-all11-maggio-esiti-il-12-giugno/",
-                "date": "15 Apr 2026",
-                "time": "10:49",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2331500305.jpg"
             }
         ]
     },
