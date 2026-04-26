@@ -4,18 +4,43 @@
         "articles": [
             {
                 "category": "Cronaca",
-                "title": "Mattarella: “Libertà e pace custodiscono un patrimonio che deve essere custodito e trasmesso ai giovani”",
-                "link": "https://www.orizzontescuola.it/mattarella-liberta-e-pace-custodiscono-un-patrimonio-che-deve-essere-custodito-e-trasmesso-ai-giovani/",
-                "date": "25 Apr 2026",
+                "title": "Promessi Sposi al quarto anno? Valditara frena: “Non scherziamo”",
+                "link": "https://www.orizzontescuola.it/promessi-sposi-al-quarto-anno-valditara-frena-non-scherziamo/",
+                "date": "26 Apr 2026",
                 "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2249049743.jpg"
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_1726449469.jpg"
             },
-            null
+            {
+                "category": "Cronaca",
+                "title": "Presunti maltrattamenti: in 10 anni più di 500 maestre denunciate dai genitori, processi lunghi anche 12 anni. Lodolo d’Oria “Fenomeno tutto italiano”. Uno studio",
+                "link": "https://www.orizzontescuola.it/in-10-anni-piu-di-500-maestre-indagate-processi-lunghi-anche-12-anni-lodolo-doria-fenomeno-tutto-italiano-tra-norme-indagini-leggi-e-ruolo-dei-dirigenti-uno-studio/",
+                "date": "25 Apr 2026",
+                "time": "8:23",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/Screenshot-2026-04-25-082106.png"
+            }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Addio agli Istituti tecnici, Valditara: “Verso il Liceo chimico, agrario, meccanico e tessile”. Approvazione già da Settembre, se ci saranno i tempi tecnici",
+                "link": "https://www.orizzontescuola.it/addio-agli-istituti-tecnici-valditara-verso-il-liceo-chimico-agrario-meccanico-e-tessile-approvazione-gia-da-settembre-se-ci-saranno-i-tempi-tecnici/",
+                "date": "26 Apr 2026",
+                "time": "8:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2337331423.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Graduatorie ATA 24 mesi, domanda dal 28 aprile: chi può presentarla e dove",
+                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-domanda-dal-28-aprile-chi-puo-presentarla-e-dove/",
+                "date": "26 Apr 2026",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
+            },
+            null,
+            null,
             {
                 "category": "Cronaca",
                 "title": "Intelligenza artificiale in classe? “Inutile assegnare i compiti, nove volte su dieci vengono svolti da ChatGPT”. Le parole di un professore e la sfida (ancora sulla carta) delle nuove Indicazioni",
@@ -89,14 +114,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2465981275.jpg"
             },
             {
-                "category": "Cronaca",
-                "title": "Presunti maltrattamenti: in 10 anni più di 500 maestre indagate, processi lunghi anche 12 anni. Lodolo d’Oria “Fenomeno tutto italiano”. Uno studio",
-                "link": "https://www.orizzontescuola.it/in-10-anni-piu-di-500-maestre-indagate-processi-lunghi-anche-12-anni-lodolo-doria-fenomeno-tutto-italiano-tra-norme-indagini-leggi-e-ruolo-dei-dirigenti-uno-studio/",
-                "date": "25 Apr 2026",
-                "time": "8:23",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/Screenshot-2026-04-25-082106.png"
-            },
-            {
                 "category": "Diventare Insegnanti",
                 "title": "Elenchi regionali per il ruolo docenti 2026/27: chi potrà inserirsi, ordine di assunzione, quanti candidati ancora presenti in graduatoria [LO SPECIALE]",
                 "link": "https://www.orizzontescuola.it/elenchi-regionali-per-il-ruolo-docenti-dal-2026-27-si-attende-il-decreto-chi-puo-iscriversi-quando-saranno-utilizzati-con-risposte-dei-sindacalisti/",
@@ -113,6 +130,19 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/shutterstock_2213520949.jpg"
             },
             {
+                "category": "Cronaca",
+                "title": "Mattarella: “Libertà e pace custodiscono un patrimonio che deve essere custodito e trasmesso ai giovani”",
+                "link": "https://www.orizzontescuola.it/mattarella-liberta-e-pace-custodiscono-un-patrimonio-che-deve-essere-custodito-e-trasmesso-ai-giovani/",
+                "date": "25 Apr 2026",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2249049743.jpg"
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
+            {
                 "category": "Scuole",
                 "title": "PNRR snodi formativi, scarica 47 modelli pronti all’uso",
                 "link": "https://www.orizzontescuola.it/pnrr-snodi-formativi-scarica-47-modelli-pronti-alluso/",
@@ -120,6 +150,7 @@
                 "time": "7:31",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/snodni.png"
             },
+            null,
             null,
             {
                 "category": "Cronaca",
@@ -136,12 +167,7 @@
                 "date": "24 Apr 2026",
                 "time": "22:35",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_521791969.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "ATA",
                 "title": "Graduatorie ATA 24 mesi, chi è già inserito può aggiornare anche senza CIAD",
@@ -245,52 +271,28 @@
                 "date": "24 Apr 2026",
                 "time": "12:55",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/05/shutterstock_432834508.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Immissioni in ruolo docenti, posizione ultimo nominato 2025/26. Utile per gli elenchi regionali",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2026-27-ecco-quanti-candidati-ancora-in-graduatoria-utile-per-gli-elenchi-regionali/",
-                "date": "24 Apr 2026",
-                "time": "12:46",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2498781455.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Via libera definitivo al pacchetto sicurezza: tutele penali anche per gli ATA, Daspo flessibile, stretta sui coltelli e nuovi dispositivi anti-sommossa. TESTO",
-                "link": "https://www.orizzontescuola.it/via-libera-definitivo-al-pacchetto-sicurezza-tutele-penali-anche-per-gli-ata-daspo-flessibile-stretta-sui-coltelli-e-nuovi-dispositivi-anti-sommossa-testo/",
-                "date": "24 Apr 2026",
-                "time": "12:28",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_1028016142.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Calendario scolastico 2026/27, quando inizia la scuola a settembre: le date delle delibere regionali [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/calendario-scolastico-2026-27-quando-inizia-la-scuola-le-prime-delibere-delle-regioni-in-aggiornamento/",
-                "date": "24 Apr 2026",
-                "time": "12:05",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_2002803581-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Continuità didattica sostegno 2026/27: come e quando il docente può accettare o rifiutare la conferma della supplenza",
-                "link": "https://www.orizzontescuola.it/continuita-didattica-sostegno-2026-27-come-e-quando-il-docente-puo-accettare-o-rifiutare-la-conferma-della-supplenza/",
-                "date": "24 Apr 2026",
-                "time": "11:37",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2471109109-scaled.jpg"
-            },
-            {
-                "category": "Plus",
-                "title": "La Newsletter di “Gestire la scuola”: ore 8 e 30 del mattino nella tua e-mail le notizie utili a Dirigenti, collaboratori del DS, DSGA e segreterie",
-                "link": "https://www.orizzontescuola.it/la-newsletter-plus-ore-8-del-mattino-nella-tua-e-mail-lo-strumento-di-lavoro-per-chi-gestisce-la-scuola-2/",
-                "date": "24 Apr 2026",
-                "time": "11:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Newsletter-1.png"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Giovani e politica online, l’Italia vola al 30,91%: i nuovi dati Eurostat 2025 mostrano come i ragazzi superino la media europea ferma al 24,93%",
+                "link": "https://www.orizzontescuola.it/giovani-e-politica-online-litalia-vola-al-3091-i-nuovi-dati-eurostat-2025-mostrano-come-i-ragazzi-superino-la-media-europea-ferma-al-2493/",
+                "date": "26 Apr 2026",
+                "time": "8:30",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Il sindaco ai bimbi delle elementari: “Non eseguite ‘Bella ciao’, è divisiva”. Protestano le maestre e la dirigente",
+                "link": "https://www.orizzontescuola.it/il-sindaco-ai-bimbi-delle-elementari-non-eseguite-bella-ciao-e-divisiva-protestano-le-maestre-e-la-dirigente/",
+                "date": "26 Apr 2026",
+                "time": "8:17",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Papa Leone XIV e l’insegnamento della Religione a scuola, “Va oltre la trasmissione dei contenuti. Leggere il disagio”",
@@ -418,22 +420,6 @@
                 "date": "25 Apr 2026",
                 "time": "8:50",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Insegnante di scuola superiore a processo per stalking: si profila un accordo con la persona offesa. In un altro procedimento aveva morso un alunno durante una lezione",
-                "link": "https://www.orizzontescuola.it/insegnante-di-scuola-superiore-a-processo-per-stalking-si-profila-un-accordo-con-la-persona-offesa-in-un-altro-procedimento-aveva-morso-un-alunno-durante-una-lezione/",
-                "date": "24 Apr 2026",
-                "time": "20:05",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "La Camera dà il via libera definitivo al Decreto Sicurezza: Anief d’accordo, ma rivendica Osservatorio burnout più riduzione età docenti e Ata",
-                "link": "https://www.orizzontescuola.it/la-camera-da-il-via-libera-definitivo-al-decreto-sicurezza-anief-daccordo-ma-rivendica-osservatorio-burnout-piu-riduzione-eta-docenti-e-ata/",
-                "date": "24 Apr 2026",
-                "time": "19:39",
-                "image_link": "N/A"
             }
         ]
     },
@@ -559,6 +545,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Supplenze 2026, nuova procedura per assegnare gli spezzoni pari o inferiori alle 6 ore. Prima ai docenti di ruolo e poi ai precari",
+                "link": "https://www.orizzontescuola.it/supplenze-2026-nuova-procedura-per-assegnare-gli-spezzoni-pari-o-inferiori-alle-6-ore-prima-ai-docenti-di-ruolo-e-poi-ai-precari/",
+                "date": "23 Apr 2026",
+                "time": "16:02",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/02/shutterstock_153454142-1200x806.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Supplenze docenti 2026, ancora interpelli fino al termine delle lezioni a giugno",
                 "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
                 "date": "23 Apr 2026",
@@ -596,20 +590,28 @@
                 "date": "22 Apr 2026",
                 "time": "21:54",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/pexels-gustavo-fring-4173115.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Gli elenchi regionali per il ruolo docenti 2026 saranno previsti per tutte le classi di concorso",
-                "link": "https://www.orizzontescuola.it/gli-elenchi-regionali-per-il-ruolo-docenti-2026-saranno-previsti-per-tutte-le-classi-di-concorso/",
-                "date": "22 Apr 2026",
-                "time": "16:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_1005875125.jpg"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
+            {
+                "category": "Gestire la scuola",
+                "title": "Obblighi vaccinali studenti, tutto ciò che serve ad una scuola",
+                "link": "https://www.orizzontescuola.it/obblighi-vaccinali-studenti-tutto-cio-che-serve-ad-una-scuola/",
+                "date": "23 Apr 2026",
+                "time": "11:04",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Obbligo-vaccinale-studenti.png"
+            },
+            {
+                "category": "Gestire la scuola",
+                "title": "Il Curriculum della studentessa e dello studente: governance organizzativa e responsabilità dirigenziale nell’attuazione del modello 2026",
+                "link": "https://www.orizzontescuola.it/il-curriculum-della-studentessa-e-dello-studente-governance-organizzativa-e-responsabilita-dirigenziale-nellattuazione-del-modello-2026/",
+                "date": "22 Apr 2026",
+                "time": "15:22",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_281818850.jpg"
+            },
             {
                 "category": "Gestire la scuola",
                 "title": "Concessione di locali scolastici a terzi: scarica guida, modello richiesta, delibera del Consiglio Istituto, contratto convenzione, regolamento istituto",
@@ -641,22 +643,6 @@
                 "date": "21 Apr 2026",
                 "time": "20:21",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/Screenshot-2026-04-21-192441.png"
-            },
-            {
-                "category": "ATA",
-                "title": "Concorsi ATA 24 mesi 2026, ecco tutti i bandi regionali [COMPLETO]",
-                "link": "https://www.orizzontescuola.it/concorsi-ata-24-mesi-2026-ecco-i-bandi-regionali-in-aggiornamento/",
-                "date": "21 Apr 2026",
-                "time": "19:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Non supera il periodo di prova: nel calcolo rientrano anche festivi, riposi e chiusure della scuola. Sentenza",
-                "link": "https://www.orizzontescuola.it/non-supera-il-periodo-di-prova-nel-calcolo-rientrano-anche-festivi-riposi-e-chiusure-della-scuola-sentenza/",
-                "date": "21 Apr 2026",
-                "time": "8:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/02/shutterstock_714371032.jpg"
             }
         ]
     },
