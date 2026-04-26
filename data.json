@@ -25,6 +25,62 @@
         "articles": [
             {
                 "category": "Cronaca",
+                "title": "Intelligenza artificiale, l’Italia è penultima in Europa: solo il 19,9% degli adulti usa questi strumenti",
+                "link": "https://www.orizzontescuola.it/intelligenza-artificiale-litalia-e-penultima-in-europa-solo-il-199-degli-adulti-usa-questi-strumenti/",
+                "date": "26 Apr 2026",
+                "time": "12:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2482428287-scaled.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Studente bocciato per quasi 450 ore di assenza, famiglia fa ricorso, ma il TAR dice no: “Contano i certificati, ma anche la sostanza”. Ecco cosa hanno detto i giudici",
+                "link": "https://www.orizzontescuola.it/studentee-bocciato-per-quasi-450-ore-di-assenza-famiglia-fa-ricorso-ma-il-tar-dice-no-contano-i-certificati-ma-anche-la-sostanza-ecco-cosa-hanno-detto-i-giudici/",
+                "date": "26 Apr 2026",
+                "time": "10:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_675123196.jpg"
+            },
+            {
+                "category": "Plus",
+                "title": "“L’Agenda delle scadenze” per Segreterie, DSGA e Dirigenti: dove la trovo? A cosa mi serve?",
+                "link": "https://www.orizzontescuola.it/lagenda-delle-scadenze-per-segreterie-dsga-e-dirigenti-dove-la-trovo-a-cosa-mi-serve/",
+                "date": "26 Apr 2026",
+                "time": "10:29",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/Lagenda-delle-scadenze.png"
+            },
+            {
+                "category": "Scuole",
+                "title": "PNRR, avviso per gli ITS Academy: manifestazioni di interesse entro il 12 maggio per i nuovi percorsi formativi",
+                "link": "https://www.orizzontescuola.it/pnrr-avviso-per-gli-its-academy-manifestazioni-di-interesse-entro-il-12-maggio-per-i-nuovi-percorsi-formativi/",
+                "date": "26 Apr 2026",
+                "time": "10:28",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2745922143.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“TikTok è l’inferno, crea cervelli di serie B”: Pellai mette in guardia i giovani sui rischi del social. Ma sul caso Cina il dibattito è più complesso",
+                "link": "https://www.orizzontescuola.it/tiktok-e-linferno-crea-cervelli-di-serie-b-pellai-mette-in-guardia-i-giovani-sui-rischi-del-social-ma-sul-caso-cina-il-dibattito-e-piu-complesso/",
+                "date": "26 Apr 2026",
+                "time": "10:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/Pellai.png"
+            },
+            {
+                "category": "Scuole",
+                "title": "Fondo promozione lettura 2026, domande entro il 30 aprile per le biblioteche scolastiche",
+                "link": "https://www.orizzontescuola.it/fondo-promozione-lettura-2026-domande-entro-il-30-aprile-per-le-biblioteche-scolastiche/",
+                "date": "26 Apr 2026",
+                "time": "9:58",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2460509939.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Riforma disabilità D.lgs. 62/2024, Miceli (ANIEF): “I decreti che contano non sono stati ancora scritti”. Gli accertamenti passano all’INPS, che ha già tempi lunghi",
+                "link": "https://www.orizzontescuola.it/riforma-disabilita-d-lgs-62-2024-miceli-anief-i-decreti-che-contano-non-sono-stati-ancora-scritti-gli-accertamenti-passano-allinps-che-ha-gia-tempi-lunghi/",
+                "date": "26 Apr 2026",
+                "time": "9:57",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_92821282.jpg"
+            },
+            {
+                "category": "Cronaca",
                 "title": "Addio agli Istituti tecnici, Valditara: “Verso il Liceo chimico, agrario, meccanico e tessile”. Approvazione già da Settembre, se ci saranno i tempi tecnici",
                 "link": "https://www.orizzontescuola.it/addio-agli-istituti-tecnici-valditara-verso-il-liceo-chimico-agrario-meccanico-e-tessile-approvazione-gia-da-settembre-se-ci-saranno-i-tempi-tecnici/",
                 "date": "26 Apr 2026",
@@ -80,7 +136,12 @@
                 "date": "25 Apr 2026",
                 "time": "11:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2706290149.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Sostegno INDIRE, appello per il terzo ciclo: garantire il diritto alla formazione per tutti i docenti",
@@ -136,12 +197,7 @@
                 "date": "25 Apr 2026",
                 "time": "8:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2249049743.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "PNRR snodi formativi, scarica 47 modelli pronti all’uso",
@@ -215,68 +271,44 @@
                 "date": "24 Apr 2026",
                 "time": "16:33",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_409299112-scaled.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Eliminare distinzione tra licei e tecnici, Valditara: “Bisognerà fare una legge, se ci saranno i tempi tecnici per la sua approvazione potrà partire già da settembre”",
-                "link": "https://www.orizzontescuola.it/abolizione-distinzione-licei-e-tecnici-valditara-bisognera-fare-una-legge-se-ci-saranno-i-tempi-tecnici-per-la-sua-approvazione-potra-partire-gia-da-settembre/",
-                "date": "24 Apr 2026",
-                "time": "16:02",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2231722735.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Mobilità scuola 2026, quando e come si conoscerà l’esito dei movimenti",
-                "link": "https://www.orizzontescuola.it/mobilita-scuola-2026-quando-e-come-si-conoscera-lesito-dei-movimenti/",
-                "date": "24 Apr 2026",
-                "time": "15:45",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_2706987597.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Maturità 2026, modelli MAD per sostituire Presidenti e Commissari assenti. Chi può presentare domanda",
-                "link": "https://www.orizzontescuola.it/maturita-2026-modelli-mad-per-sostituire-presidenti-e-commissari-assenti-chi-puo-presentare-domanda/",
-                "date": "24 Apr 2026",
-                "time": "14:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_543880450.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Insegnanti, professione o passione? “Se non provi empatia è un mestiere non adatto a te”, “Ogni cosa è anche passione”, “Un lavoro che va remunerato, rispettato e valorizzato”. Il confronto sui social",
-                "link": "https://www.orizzontescuola.it/insegnanti-professione-o-passione-se-non-provi-empatia-con-i-ragazzi-e-le-ragazze-e-un-mestiere-non-adatto-a-te-ogni-cosa-e-anche-passione-prima-di-tutto-un-lavoro-che-va-r/",
-                "date": "24 Apr 2026",
-                "time": "14:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2583891963.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Istruzione professionale (IeFP), gli studenti dovranno affrontare le prove Invalsi al secondo e quarto anno. Il Decreto che istituisce la valutazione. Il testo",
-                "link": "https://www.orizzontescuola.it/istruzione-professionale-iefp-gli-studenti-dovranno-affrontare-le-prove-invalsi-al-secondo-e-quarto-anno-il-decreto-che-istituisce-la-valutazione-il-testo/",
-                "date": "24 Apr 2026",
-                "time": "14:12",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/shutterstock_2343152703.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Elio (di Elio e le storie tese) su autismo: “assistenza privilegio per pochi. Fa solo chi può”. Lo sfogo delle famiglie",
-                "link": "https://www.orizzontescuola.it/elio-di-elio-e-le-storie-tese-su-autismo-assistenza-privilegio-per-pochi-belisari-e-lo-sfogo-delle-famiglie/",
-                "date": "24 Apr 2026",
-                "time": "14:03",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2664819715.jpg"
-            },
-            {
-                "category": "Guide",
-                "title": "Orario ridotto a inizio anno e “banca ore”: il viaggio di istruzione può compensare le ore di insegnamento?",
-                "link": "https://www.orizzontescuola.it/orario-ridotto-a-inizio-anno-e-banca-ore-il-viaggio-di-istruzione-puo-compensare-le-ore-di-insegnamento/",
-                "date": "24 Apr 2026",
-                "time": "12:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/05/shutterstock_432834508.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Corpo e mente nei bambini: perché un movimento disordinato può nascondere un’emozione. Le parole della psichiatra Lucattini",
+                "link": "https://www.orizzontescuola.it/corpo-e-mente-nei-bambini-perche-un-movimento-disordinato-puo-nascondere-unemozione-le-parole-della-psichiatra-lucattini/",
+                "date": "26 Apr 2026",
+                "time": "11:02",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "A 43 anni dalla tragedia del Melarancio, in cui morirono 11 studenti: memoria e responsabilità",
+                "link": "https://www.orizzontescuola.it/a-43-anni-dalla-tragedia-del-melarancio-in-cui-morirono-11-studenti-memoria-e-responsabilita/",
+                "date": "26 Apr 2026",
+                "time": "10:16",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Spari alla cena di Trump con i giornalisti alla Casa Bianca, presidente illeso. L’uomo fermato è un docente sviluppatore di videogiochi",
+                "link": "https://www.orizzontescuola.it/spari-alla-cena-di-trump-con-i-giornalisti-alla-casa-bianca-presidente-illeso-luomo-fermato-e-un-docente-sviluppatore-di-videogiochi/",
+                "date": "26 Apr 2026",
+                "time": "9:34",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Competenze digitali UE: allarme Eurostat, il 40% dei cittadini è senza basi mentre i Paesi Bassi volano all’82,7%",
+                "link": "https://www.orizzontescuola.it/competenze-digitali-ue-allarme-eurostat-il-40-dei-cittadini-e-senza-basi-mentre-i-paesi-bassi-volano-all827/",
+                "date": "26 Apr 2026",
+                "time": "9:15",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Giovani e politica online, l’Italia vola al 30,91%: i nuovi dati Eurostat 2025 mostrano come i ragazzi superino la media europea ferma al 24,93%",
@@ -387,38 +419,6 @@
                 "link": "https://www.orizzontescuola.it/leuro-cambia-volto-niente-piu-banconota-da-500-euro-il-nuovo-design-si-decide-entro-il-2026/",
                 "date": "25 Apr 2026",
                 "time": "12:05",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "Ansia studenti: i livelli di stress odierni eguagliano quelli dei pazienti psichiatrici degli anni ’50. Lo studio",
-                "link": "https://www.orizzontescuola.it/ansia-studenti-i-livelli-di-stress-odierni-eguagliano-quelli-dei-pazienti-psichiatrici-degli-anni-50-lo-studio/",
-                "date": "25 Apr 2026",
-                "time": "10:34",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Modello 730/2026 precompilato al via dal 30 aprile: accesso online, dati già inseriti e invio entro il 30 settembre, istruzioni operative per contribuenti e intermediari",
-                "link": "https://www.orizzontescuola.it/modello-730-2026-precompilato-al-via-dal-30-aprile-accesso-online-dati-gia-inseriti-e-invio-entro-il-30-settembre-istruzioni-operative-per-contribuenti-e-intermediari/",
-                "date": "25 Apr 2026",
-                "time": "10:33",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Indennità di malattia, maternità e tubercolosi: l’INPS aggiorna gli importi per il 2026",
-                "link": "https://www.orizzontescuola.it/indennita-di-malattia-maternita-e-tubercolosi-linps-aggiorna-gli-importi-per-il-2026/",
-                "date": "25 Apr 2026",
-                "time": "9:44",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "La lezione del 25 aprile spiegata dai bambini: “La guerra ha una fine, c’è un futuro”",
-                "link": "https://www.orizzontescuola.it/la-lezione-del-25-aprile-spiegata-dai-bambini-la-guerra-ha-una-fine-ce-un-futuro/",
-                "date": "25 Apr 2026",
-                "time": "8:50",
                 "image_link": "N/A"
             }
         ]
@@ -545,6 +545,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Diventare Insegnanti, notizie in anteprima e il meglio della settimana. Iscriviti gratuitamente alla newsletter",
+                "link": "https://www.orizzontescuola.it/diventare-insegnanti-notizie-in-anteprima-e-il-meglio-della-settimana-iscriviti-gratuitamente-alla-newsletter/",
+                "date": "23 Apr 2026",
+                "time": "16:36",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/La-newsletter-per-Diventare-insegnante-2.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Supplenze 2026, nuova procedura per assegnare gli spezzoni pari o inferiori alle 6 ore. Prima ai docenti di ruolo e poi ai precari",
                 "link": "https://www.orizzontescuola.it/supplenze-2026-nuova-procedura-per-assegnare-gli-spezzoni-pari-o-inferiori-alle-6-ore-prima-ai-docenti-di-ruolo-e-poi-ai-precari/",
                 "date": "23 Apr 2026",
@@ -582,14 +590,6 @@
                 "date": "23 Apr 2026",
                 "time": "11:23",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/03/shutterstock_1218221881.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Se gli elenchi regionali servono per le assunzioni dei docenti, perché non prevedono la riserva per il servizio civile nazionale e universale?",
-                "link": "https://www.orizzontescuola.it/se-gli-elenchi-regionali-servono-le-assunzioni-dei-docenti-perche-non-prevedono-la-riserva-per-il-servizio-civile-nazionale-e-universale/",
-                "date": "22 Apr 2026",
-                "time": "21:54",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/pexels-gustavo-fring-4173115.jpg"
             }
         ]
     },
