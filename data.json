@@ -2,6 +2,7 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
+            null,
             {
                 "category": "ATA",
                 "title": "Organici ATA 2026/2027, in totale 194.303 posti: taglio sui collaboratori scolastici, saranno 2.174 in meno alle superiori. Le tabelle [BOZZA]",
@@ -9,20 +10,56 @@
                 "date": "15 Mag 2026",
                 "time": "15:24",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/Organici-ATA-20262027-2.174-posti-in-meno.png"
-            },
-            {
-                "category": "Docenti",
-                "title": "Luca Trapanese: “Non bastano pochi mesi di formazione per diventare docente di sostegno. Il problema non sono gli insegnanti, è il sistema che va cambiato”. INTERVISTA",
-                "link": "https://www.orizzontescuola.it/luca-trapanese-non-bastano-pochi-mesi-di-formazione-per-diventare-docente-di-sostegno-il-problema-non-sono-gli-insegnanti-e-il-sistema-che-va-cambiato-intervista/",
-                "date": "15 Mag 2026",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/trapanese.png"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Scuole",
+                "title": "DM 40, formazione ATA: 35 documenti da scaricare pronti all’uso, utili per le segreterie",
+                "link": "https://www.orizzontescuola.it/dm-40-formazione-ata-35-documenti-da-scaricare-pronti-alluso-utili-per-le-segreterie/",
+                "date": "16 Mag 2026",
+                "time": "9:36",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_714174241.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Scuola, sciopero delle prestazioni aggiuntive (dalle gite alle funzioni strumentali) dal 22 maggio al 21 giugno negli istituti tecnici. Avviso MIM",
+                "link": "https://www.orizzontescuola.it/scuola-sciopero-delle-prestazioni-aggiuntive-dal-22-maggio-al-21-giugno-negli-istituti-tecnici-avviso-mim/",
+                "date": "16 Mag 2026",
+                "time": "9:29",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2459519923.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Se in gita sono presenti i genitori cambia la responsabilità del docente? De Martino: “Accompagnare gli studenti non è un obbligo”",
+                "link": "https://www.orizzontescuola.it/se-in-gita-sono-presenti-i-genitori-cambia-la-responsabilita-del-docente-de-martino-accompagnare-gli-studenti-non-e-un-obbligo/",
+                "date": "16 Mag 2026",
+                "time": "9:13",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/shutterstock_2701895821.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Il 50% dei docenti vive situazioni di stress lavorativo cronico e uno su tre vorrebbe lasciare il lavoro. “Ci vogliono tutele”",
+                "link": "https://www.orizzontescuola.it/il-50-dei-docenti-vive-situazioni-di-stress-lavorativo-cronico-e-uno-su-tre-vorrebbe-lasciare-il-lavoro-ci-vogliono-tutele/",
+                "date": "16 Mag 2026",
+                "time": "8:47",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/shutterstock_683169130.jpg"
+            },
+            {
+                "category": "Consulenza fiscale",
+                "title": "Pensioni: la legge Fornero non è stata cancellata, ma aggirata",
+                "link": "https://www.orizzontescuola.it/pensioni-la-legge-fornero-non-e-stata-cancellata-ma-aggirata/",
+                "date": "16 Mag 2026",
+                "time": "8:13",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/04/Fornero_Monti.jpg"
+            },
+            null,
+            null,
+            null,
+            null,
             {
                 "category": "ATA",
                 "title": "Graduatorie ATA 24 mesi, l’allegato G: a cosa serve, chi deve compilarlo e quando. E tanto altro. RISPOSTE AI QUESITI",
@@ -78,7 +115,12 @@
                 "date": "15 Mag 2026",
                 "time": "13:16",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/La-newsletter-per-Diventare-insegnante-2.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Oltre 270 milioni di euro e 92mila partecipanti: l’Italia sceglie Erasmus+ e cresce del 21%. I dati del 2025",
@@ -150,12 +192,7 @@
                 "date": "15 Mag 2026",
                 "time": "8:52",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/Sottotitolo-2.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Docenti",
                 "title": "Carta docente, somme non spese entro il 31 agosto utilizzabili nel 2026/27. Limiti per hardware e pensionamenti",
@@ -179,6 +216,14 @@
                 "date": "15 Mag 2026",
                 "time": "8:19",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/Marcello-Pacifico-3.png"
+            },
+            {
+                "category": "Docenti",
+                "title": "Luca Trapanese: “Non bastano pochi mesi di formazione per diventare docente di sostegno. Il problema non sono gli insegnanti, è il sistema che va cambiato”. INTERVISTA",
+                "link": "https://www.orizzontescuola.it/luca-trapanese-non-bastano-pochi-mesi-di-formazione-per-diventare-docente-di-sostegno-il-problema-non-sono-gli-insegnanti-e-il-sistema-che-va-cambiato-intervista/",
+                "date": "15 Mag 2026",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/trapanese.png"
             },
             {
                 "category": "Gestire la scuola",
@@ -212,79 +257,6 @@
                 "date": "14 Mag 2026",
                 "time": "17:14",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_675123196.jpg"
-            },
-            {
-                "category": "Plus",
-                "title": "I diritti di docenti e ATA di ruolo e precari spiegati bene: aspettative, congedi, permessi, 104, ferie e malattie",
-                "link": "https://www.orizzontescuola.it/i-diritti-di-docenti-e-ata-di-ruolo-e-precari-spiegati-bene-cosa-fare-in-caso-di-aspettative-congedi-permessi-104-ferie-e-malattie/",
-                "date": "14 Mag 2026",
-                "time": "17:02",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/Screenshot-2026-01-22-102351.png"
-            },
-            {
-                "category": "ATA",
-                "title": "Piano estate, la lettera di Valditara: “La scuola luogo di aggregazione anche durante la sospensione delle lezioni. Grazie a tutto il personale”",
-                "link": "https://www.orizzontescuola.it/piano-estate-la-lettera-di-valditara-la-scuola-luogo-di-aggregazione-anche-durante-la-sospensione-delle-lezioni-grazie-a-tutto-il-personale/",
-                "date": "14 Mag 2026",
-                "time": "15:13",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_735099181.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Come si conclude anno di prova per docenti assunti da GPS sostegno prima fascia con contratto a tempo determinato per il ruolo",
-                "link": "https://www.orizzontescuola.it/come-si-conclude-anno-di-prova-per-docenti-assunti-da-gps-sostegno-prima-fascia-con-contratto-a-tempo-determinato-per-il-ruolo/",
-                "date": "14 Mag 2026",
-                "time": "15:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/shutterstock_2732036833-scaled.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Esame di maturità a.s. 2025/2026. Indicazioni operative: non un solo cambio di denominazione, ma nuova prospettiva",
-                "link": "https://www.orizzontescuola.it/esame-di-maturita-a-s-2025-2026-indicazioni-operative-non-un-solo-cambio-di-denominazione-ma-nuova-prospettiva/",
-                "date": "14 Mag 2026",
-                "time": "14:59",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_1875061333.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Calendario scolastico 2026/27, quando inizia la scuola a settembre: le date per regione [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/calendario-scolastico-2026-27-quando-inizia-la-scuola-le-prime-delibere-delle-regioni-in-aggiornamento/",
-                "date": "14 Mag 2026",
-                "time": "13:12",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_2002803581-scaled.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Maturità 2026, modelli MAD per sostituire Presidenti e Commissari assenti. Chi può presentare domanda",
-                "link": "https://www.orizzontescuola.it/maturita-2026-modelli-mad-per-sostituire-presidenti-e-commissari-assenti-chi-puo-presentare-domanda/",
-                "date": "14 Mag 2026",
-                "time": "12:58",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_543880450.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Carta docente 2025/26, bonus da 383 euro: chi ne ha diritto, cosa si può comprare e limiti per pc e software. Pubblicato il DECRETO",
-                "link": "https://www.orizzontescuola.it/carta-docente-2025-26-bonus-da-383-euro-chi-ne-ha-diritto-cosa-si-puo-comprare-e-limiti-per-pc-e-software-pubblicato-il-decreto/",
-                "date": "14 Mag 2026",
-                "time": "12:54",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2310123265.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Graduatorie ATA 24 mesi: domanda fino al 19 maggio. È rivolta solo a chi ha già servizio: tutti i requisiti",
-                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-domanda-fino-al-19-maggio-e-rivolta-solo-a-chi-ha-gia-servizio-ecco-i-requisiti/",
-                "date": "14 Mag 2026",
-                "time": "12:32",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_1645535227.jpg"
-            },
-            null,
-            {
-                "category": "ATA",
-                "title": "“Troppi contratti di supplenza ATA, concorsi 24 mesi li incentivano. Il sistema viola il diritto”: la Corte Ue condanna l’Italia. Ecco la sentenza [PDF]",
-                "link": "https://www.orizzontescuola.it/troppi-contratti-di-supplenza-ata-concorsi-24-mesi-li-incentivano-il-sistema-viola-il-diritto-la-corte-ue-condanna-litalia/",
-                "date": "14 Mag 2026",
-                "time": "12:06",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/12/shutterstock_1905525472-scaled.jpg"
             }
         ]
     },
@@ -292,11 +264,11 @@
         "title": "In Breve",
         "articles": [
             {
-                "category": "Scuole",
-                "title": "Scuola, sciopero delle prestazioni aggiuntive dal 22 maggio al 21 giugno negli istituti tecnici. Avviso MIM",
-                "link": "https://www.orizzontescuola.it/scuola-sciopero-delle-prestazioni-aggiuntive-dal-22-maggio-al-21-giugno-negli-istituti-tecnici-avviso-mim/",
-                "date": "15 Mag 2026",
-                "time": "21:20",
+                "category": "Cronaca",
+                "title": "Gratteri, autonomia differenziata? “Come chiedere ad un ragazzo del Sud di correre i 100 metri partendo 10 metri dietro agli altri”",
+                "link": "https://www.orizzontescuola.it/gratteri-autonomia-differenziata-come-chiedere-ad-un-ragazzo-del-sud-di-correre-i-100-metri-partendo-10-metri-dietro-agli-altri/",
+                "date": "16 Mag 2026",
+                "time": "7:51",
                 "image_link": "N/A"
             },
             {
@@ -559,6 +531,30 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Il Ministero non esegue le sentenze favorevoli ai precari (dalla carta docente alle ferie non godute): “danno erariale” e il Tar lo segnala alla Corte dei Conti",
+                "link": "https://www.orizzontescuola.it/il-ministero-non-esegue-le-sentenze-favorevoli-ai-precari-dalla-carta-docente-alle-ferie-non-godute-danno-erariale-e-il-tar-lo-segnala-alla-corte-dei-conti/",
+                "date": "13 Mag 2026",
+                "time": "18:25",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_1783555958-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "“Terzo ciclo Sostegno Indire: si ragiona sull’attivazione”. Ipotesi requisiti e tempi",
+                "link": "https://www.orizzontescuola.it/terzo-ciclo-sostegno-indire-si-ragiona-sullattivazione-ipotesi-requisiti-e-tempi/",
+                "date": "13 Mag 2026",
+                "time": "16:13",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/WhatsApp-Image-2025-01-03-at-15.25.01.jpeg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Graduatorie ad esaurimento: ecco le GaE pubblicate per il 2026/28 (e dove sono vuote)",
+                "link": "https://www.orizzontescuola.it/graduatorie-ad-esaurimento-ecco-le-gae-pubblicate-per-il-2026-28-e-dove-sono-vuote/",
+                "date": "13 Mag 2026",
+                "time": "15:23",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_1708378216.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Un docente non abilitato, ma idoneo a un concorso dal 2020, può essere assunto dagli elenchi regionali",
                 "link": "https://www.orizzontescuola.it/un-docente-non-abilitato-ma-idoneo-a-un-concorso-dal-2020-puo-essere-assunto-dagli-elenchi-regionali/",
                 "date": "13 Mag 2026",
@@ -580,36 +576,20 @@
                 "date": "13 Mag 2026",
                 "time": "10:35",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Sonia_Cannas.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Elenchi regionali per il ruolo 2026, la mancata sanzione alla rinuncia potrebbe rischia di “bruciare” tanti posti",
-                "link": "https://www.orizzontescuola.it/elenchi-regionali-per-il-ruolo-2026-la-mancata-sanzione-alla-rinuncia-potrebbe-rischia-di-bruciare-tanti-posti/",
-                "date": "13 Mag 2026",
-                "time": "9:16",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_1958115694.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "TFA sostegno XI ciclo: oltre 30mila posti e calendario per gli atenei. Tutti i posti per Regione, zero al II grado. [PDF]",
-                "link": "https://www.orizzontescuola.it/tfa-sostegno-al-via-lxi-ciclo-oltre-30mila-posti-e-calendario-per-gli-atenei-tutti-i-posti-per-regione-zero-al-ii-grado-pdf/",
-                "date": "13 Mag 2026",
-                "time": "8:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_1903057546.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Graduatorie GPS 2026: ecco le scuole polo che valutano le domande [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-ecco-le-scuole-polo-che-valuteranno-le-domande-in-aggiornamento/",
-                "date": "12 Mag 2026",
-                "time": "16:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_277027346.jpg"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
+            {
+                "category": "Gestire la scuola",
+                "title": "Esami di Stato, scarica i documenti utili: tabella attribuzione credito, griglie di valutazione, format simulazioni prove",
+                "link": "https://www.orizzontescuola.it/esami-di-stato-scarica-i-documenti-utili-tabella-attribuzione-credito-griglie-di-valutazione-format-simulazioni-prove/",
+                "date": "12 Mag 2026",
+                "time": "7:56",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_536624842.jpg"
+            },
             {
                 "category": "Gestire la scuola",
                 "title": "Documento del 15 maggio, modello pronto all’uso e 12 documenti collegati: dalla checlist privacy alle relazioni",
@@ -649,14 +629,6 @@
                 "date": "8 Mag 2026",
                 "time": "7:57",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_2357264437.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Graduatorie ATA 24 mesi: ecco come inserire nella domanda i contratti di completamento svolti contemporaneamente. RISPOSTE AI QUESITI",
-                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-ecco-come-inserire-nella-domanda-i-contratti-di-completamento-svolti-contemporaneamente-risposte-ai-quesiti/",
-                "date": "7 Mag 2026",
-                "time": "13:43",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/shutterstock_2617072557.jpg"
             }
         ]
     },
