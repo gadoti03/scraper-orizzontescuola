@@ -2,20 +2,69 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
-            null,
             {
-                "category": "ATA",
-                "title": "Organici ATA 2026/2027, in totale 194.303 posti: taglio sui collaboratori scolastici, saranno 2.174 in meno alle superiori. Le tabelle [BOZZA]",
-                "link": "https://www.orizzontescuola.it/organici-ata-2026-2027-2-174-posti-in-meno-taglio-sui-collaboratori-scolastici-delle-superiori-le-tabelle-bozza/",
-                "date": "15 Mag 2026",
-                "time": "15:24",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/Organici-ATA-20262027-2.174-posti-in-meno.png"
-            }
+                "category": "Cronaca",
+                "title": "Novara: “A sette anni il bambino può tranquillamente fare il suo zaino da solo”, INTERVISTA sul ruolo delle mamme e dei papà",
+                "link": "https://www.orizzontescuola.it/novara-a-sette-anni-il-bambino-puo-tranquillamente-fare-il-suo-zaino-da-solo-intervista-sul-ruolo-delle-mamme-e-dei-papa/",
+                "date": "17 Mag 2026",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/Gervasio_Novara.png"
+            },
+            null
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze 2026/27, differenza tra aggiornamento GPS e scelta 150 preferenze: quando si è depennati?",
+                "link": "https://www.orizzontescuola.it/supplenze-2026-27-differenza-tra-aggiornamento-gps-e-scelta-150-preferenze-quando-si-e-depennati/",
+                "date": "17 Mag 2026",
+                "time": "9:59",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2493334753-scaled.jpg"
+            },
+            {
+                "category": "Didattica",
+                "title": "Peer tutoring: quando a insegnare è il compagno di banco",
+                "link": "https://www.orizzontescuola.it/peer-tutoring-quando-a-insegnare-e-il-compagno-di-banco/",
+                "date": "17 Mag 2026",
+                "time": "9:29",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/shutterstock_2001215363.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“Bisogna dire ai ragazzi: non rinunciate mai alle cose che sognate”, Crepet e il modello educativo che preferisce la campana di vetro all’autonomia",
+                "link": "https://www.orizzontescuola.it/bisogna-dire-ai-ragazzi-non-rinunciate-mai-alle-cose-che-sognate-crepet-e-il-modello-educativo-che-preferisce-la-campana-di-vetro-allautonomia/",
+                "date": "17 Mag 2026",
+                "time": "9:02",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/Crepet-1.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Carta del docente, Anief: “Va estesa agli Ata ma riportata a 500 euro”. No all’inserimento in busta paga",
+                "link": "https://www.orizzontescuola.it/carta-del-docente-anief-va-estesa-agli-ata-ma-riportata-a-500-euro-no-allinserimento-in-busta-paga/",
+                "date": "17 Mag 2026",
+                "time": "9:02",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/unnamed.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "18 maggio sciopera anche la scuola. Dal 22 stop a gite e attività aggiuntive negli istituti tecnici. Di cosa si tratta",
+                "link": "https://www.orizzontescuola.it/18-maggio-sciopera-anche-la-scuola-dal-22-stop-a-gite-e-attivita-aggiuntive-negli-istituti-tecnici-di-cosa-si-tratta/",
+                "date": "17 Mag 2026",
+                "time": "8:46",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_1768715813.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Mobilità ATA 2026, revoca della domanda: casi eccezionali entro il 21 maggio, esiti il 12 giugno",
+                "link": "https://www.orizzontescuola.it/mobilita-ata-2026-revoca-della-domanda-casi-eccezionali-entro-il-21-maggio-esiti-il-12-giugno/",
+                "date": "17 Mag 2026",
+                "time": "8:29",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2456756593.jpg"
+            },
+            null,
             {
                 "category": "ATA",
                 "title": "Graduatorie ATA 24 mesi, la riserva per servizio civile come si calcola sui posti disponibili",
@@ -87,7 +136,12 @@
                 "date": "16 Mag 2026",
                 "time": "11:33",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_669396973.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Dirigenti scolastici",
                 "title": "Concorso Dirigenti scolastici Trento, 40 gli ammessi alla prova pratica",
@@ -143,12 +197,7 @@
                 "date": "16 Mag 2026",
                 "time": "10:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2716020567.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Scuole",
                 "title": "DM 40, formazione ATA: 35 documenti da scaricare pronti all’uso, utili per le segreterie",
@@ -208,68 +257,28 @@
                 "date": "15 Mag 2026",
                 "time": "15:58",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/shutterstock_790744672.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Sostegno, equiparazione in GPS di punteggio TFA ordinario e corsi Indire: sentenza TAR Lazio attesa a luglio",
-                "link": "https://www.orizzontescuola.it/sostegno-equiparazione-in-gps-di-punteggio-tfa-ordinario-e-corsi-indire-sentenza-tar-lazio-attesa-a-luglio/",
-                "date": "15 Mag 2026",
-                "time": "15:49",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2471109109-scaled.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Messaggi ostili online (hate to speech), oltre il 42% degli utenti europei li ha incontrati nel 2025. Italia in linea con la media UE",
-                "link": "https://www.orizzontescuola.it/messaggi-ostili-online-hate-to-speech-oltre-il-42-degli-utenti-europei-li-ha-incontrati-nel-2025-italia-in-linea-con-la-media-ue/",
-                "date": "15 Mag 2026",
-                "time": "14:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/shutterstock_1488795377.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Erasmus +, Manfredi (INDIRE) apre ai paesi dell’Africa: “Costruzione comune del futuro”. INTERVISTA",
-                "link": "https://www.orizzontescuola.it/erasmus-manfredi-indire-apre-ai-paesi-dellafrica-costruzione-comune-del-futuro-intervista/",
-                "date": "15 Mag 2026",
-                "time": "14:54",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/manifredi.png"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Erasmus +, le ragioni di un successo. Pagliai (INDIRE): “Competenze di cittadinanza per essere davvero cittadini europei del futuro”. INTERVISTA",
-                "link": "https://www.orizzontescuola.it/erasmus-le-ragioni-di-un-successo-pagliai-indire-competenze-di-cittadinanza-per-essere-davvero-cittadini-europei-del-futuro-intervista/",
-                "date": "15 Mag 2026",
-                "time": "14:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/pagliai.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Diventare Insegnanti, GPS: news su date pubblicazione. Riconferma supplenza sostegno: c’è una novità. Iscriviti gratuitamente alla newsletter",
-                "link": "https://www.orizzontescuola.it/diventare-insegnanti-gps-news-su-date-pubblicazione-riconferma-supplenza-sostegno-ce-una-novita-iscriviti-gratuitamente-alla-newsletter/",
-                "date": "15 Mag 2026",
-                "time": "13:16",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/La-newsletter-per-Diventare-insegnante-2.png"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Oltre 270 milioni di euro e 92mila partecipanti: l’Italia sceglie Erasmus+ e cresce del 21%. I dati del 2025",
-                "link": "https://www.orizzontescuola.it/oltre-270-milioni-di-euro-e-92mila-partecipanti-litalia-sceglie-erasmus-e-cresce-del-21-i-dati-del-2025/",
-                "date": "15 Mag 2026",
-                "time": "12:48",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/11/shutterstock_1401525788-scaled.jpg"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "Delibera del Consiglio di Istituto per l’approvazione dello sforamento dei tetti di spesa – A.S. 2026/2027 (modello giuridico adattabile)",
-                "link": "https://www.orizzontescuola.it/delibera-del-consiglio-di-istituto-per-lapprovazione-dello-sforamento-dei-tetti-di-spesa-a-s-2026-2027-modello-giuridico-adattabile/",
-                "date": "15 Mag 2026",
-                "time": "10:51",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2458310491-1.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Palermo, trasportava 14 bambini su una Fiat 500L trasformata in scuolabus abusivo",
+                "link": "https://www.orizzontescuola.it/palermo-trasportava-14-bambini-su-una-fiat-500l-trasformata-in-scuolabus-abusivo/",
+                "date": "17 Mag 2026",
+                "time": "8:35",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Studenti in gita distribuiscono cibo e vestiti ai migranti, Ministero invia ispezione. E’ scontro politico",
+                "link": "https://www.orizzontescuola.it/studenti-in-gita-distribuiscono-cibo-e-vestiti-ai-migranti-ministero-invia-ispezione-e-scontro-politico/",
+                "date": "17 Mag 2026",
+                "time": "8:32",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Troppe e-mail da parte della scuola? Una mamma crea un’app con l’IA e la vende alle altre mamme",
@@ -389,22 +398,6 @@
                 "link": "https://www.orizzontescuola.it/farmaci-a-scuola-4-video-tutorial-pratici-per-docenti-e-ata-su-come-gestire-asma-diabete-epilessia-e-allergie/",
                 "date": "15 Mag 2026",
                 "time": "15:25",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Giornata della Famiglia, Bordignon (Forum Associazioni): “Natalità frenata da stipendi bassi, urgente riforma fiscale per i figli a carico”",
-                "link": "https://www.orizzontescuola.it/giornata-della-famiglia-bordignon-forum-associazioni-natalita-frenata-da-stipendi-bassi-urgente-riforma-fiscale-per-i-figli-a-carico/",
-                "date": "15 Mag 2026",
-                "time": "14:34",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Supplenze 150 preferenze e conferma docente di sostegno, a che punto siamo? QUESTION TIME con Cozzetto (Anief)",
-                "link": "https://www.orizzontescuola.it/supplenze-150-preferenze-e-conferma-docente-di-sostegno-a-che-punto-siamo-question-time-con-cozzetto-anief-live-venerdi-15-maggio-alle-1500/",
-                "date": "15 Mag 2026",
-                "time": "14:05",
                 "image_link": "N/A"
             }
         ]
@@ -531,6 +524,30 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Carta docente 2025/26, bonus da 383 euro: chi ne ha diritto, cosa si può comprare e limiti per pc e software. Pubblicato il DECRETO",
+                "link": "https://www.orizzontescuola.it/carta-docente-2025-26-bonus-da-383-euro-chi-ne-ha-diritto-cosa-si-puo-comprare-e-limiti-per-pc-e-software-pubblicato-il-decreto/",
+                "date": "14 Mag 2026",
+                "time": "12:54",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2310123265.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Elenchi regionali per il ruolo: prima l’idoneo PNRR1 della stessa regione o…. l’ordine di assunzione. RISPOSTE AI QUESITI",
+                "link": "https://www.orizzontescuola.it/elenchi-regionali-per-il-ruolo-prima-lidoneo-pnrr1-della-stessa-regione-o-lordine-di-assunzione-risposte-ai-quesiti/",
+                "date": "14 Mag 2026",
+                "time": "11:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/shutterstock_2202118013.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Anno di prova docenti 2025/26, colloquio e test finale: in cosa consistono, quando e come si svolgono",
+                "link": "https://www.orizzontescuola.it/anno-di-prova-docenti-2025-26-colloquio-e-test-finale-in-cosa-consistono-quando-e-come-si-svolgono/",
+                "date": "14 Mag 2026",
+                "time": "9:38",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2310310031-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "TFA sostegno XI ciclo, su cosa prepararsi per affrontare al meglio le prove? Quadri di accesso dei cicli precedenti",
                 "link": "https://www.orizzontescuola.it/tfa-sostegno-xi-ciclo-su-cosa-prepararsi-per-affrontare-al-meglio-le-prove-quadri-di-accesso-dei-cicli-precedenti/",
                 "date": "14 Mag 2026",
@@ -552,36 +569,20 @@
                 "date": "13 Mag 2026",
                 "time": "18:25",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_1783555958-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "“Terzo ciclo Sostegno Indire: si ragiona sull’attivazione”. Ipotesi requisiti e tempi",
-                "link": "https://www.orizzontescuola.it/terzo-ciclo-sostegno-indire-si-ragiona-sullattivazione-ipotesi-requisiti-e-tempi/",
-                "date": "13 Mag 2026",
-                "time": "16:13",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/WhatsApp-Image-2025-01-03-at-15.25.01.jpeg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Graduatorie ad esaurimento: ecco le GaE pubblicate per il 2026/28 (e dove sono vuote)",
-                "link": "https://www.orizzontescuola.it/graduatorie-ad-esaurimento-ecco-le-gae-pubblicate-per-il-2026-28-e-dove-sono-vuote/",
-                "date": "13 Mag 2026",
-                "time": "15:23",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_1708378216.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Un docente non abilitato, ma idoneo a un concorso dal 2020, può essere assunto dagli elenchi regionali",
-                "link": "https://www.orizzontescuola.it/un-docente-non-abilitato-ma-idoneo-a-un-concorso-dal-2020-puo-essere-assunto-dagli-elenchi-regionali/",
-                "date": "13 Mag 2026",
-                "time": "11:57",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2501727439-1.jpg"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
+            {
+                "category": "ATA",
+                "title": "Europa bacchetta l’Italia su precariato ATA, Pacifico (ANIEF): “adesso assunzioni sul 100% dei posti e spetta un risarcimento”. Il Punto",
+                "link": "https://www.orizzontescuola.it/europa-bacchetta-litalia-su-precariato-ata-pacifico-anief-adesso-assunzioni-sul-100-dei-posti-e-spetta-un-risarcimento-il-punto/",
+                "date": "14 Mag 2026",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/Marcello_Pacifico.png"
+            },
             {
                 "category": "ATA",
                 "title": "Posizioni economiche ATA, graduatorie attese entro fine maggio: nessuna data per gli arretrati",
@@ -621,14 +622,6 @@
                 "date": "12 Mag 2026",
                 "time": "7:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2460677957.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Graduatorie ATA 24 mesi 2026/27, cos’è il “lodevole servizio” e chi può dichiararlo",
-                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-2026-27-cose-il-lodevole-servizio-e-chi-puo-dichiararlo/",
-                "date": "11 Mag 2026",
-                "time": "19:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2492219935-scaled.jpg"
             }
         ]
     },
