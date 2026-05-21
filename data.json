@@ -24,6 +24,54 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "In Gazzetta Ufficiale il Piano di azione per le persone con disabilità: ecco cosa prevede",
+                "link": "https://www.orizzontescuola.it/in-gazzetta-ufficiale-il-piano-di-azione-per-le-persone-con-disabilita-ecco-cosa-prevede/",
+                "date": "21 Mag 2026",
+                "time": "21:32",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/10/shutterstock_530331313.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze 2026/27: riconferma docente per il sostegno, il 31 maggio la prima scadenza procedura [LO SPECIALE]",
+                "link": "https://www.orizzontescuola.it/supplenze-2026-27-nuova-riconferma-docente-per-il-sostegno-lo-speciale/",
+                "date": "21 Mag 2026",
+                "time": "21:01",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_710754361.jpg"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Risorse Passweb e personale ATA, assegnazione fondi entro maggio. Anief chiede di accelerare sulla sottoscrizione definitiva del MOF",
+                "link": "https://www.orizzontescuola.it/risorse-passweb-e-personale-ata-assegnazione-fondi-entro-maggio-anief-chiede-di-accelerare-sulla-sottoscrizione-definitiva-del-mof/",
+                "date": "21 Mag 2026",
+                "time": "20:43",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2560300363.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Regione Puglia, borse di studio e libri di testo: fondi per quasi 18 milioni. Ecco requisiti e scadenze",
+                "link": "https://www.orizzontescuola.it/regione-puglia-borse-di-studio-e-libri-di-testo-fondi-per-quasi-18-milioni-ecco-requisiti-e-scadenze/",
+                "date": "21 Mag 2026",
+                "time": "20:06",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2696886199.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "NoiPA, contratti scuola supplenti: docenti e ATA possono consultare online pagamenti, rate stipendiali e TFR",
+                "link": "https://www.orizzontescuola.it/noipa-contratti-scuola-per-supplenti-docenti-e-ata-possono-consultare-online-pagamenti-rate-stipendiali-e-tfr/",
+                "date": "21 Mag 2026",
+                "time": "16:49",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2467525223.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "GPS 2026/2028: chiarimenti valutazione dei titoli di differenziazione didattica “Pizzigoni”, “Agazzi” e “Montessori”",
+                "link": "https://www.orizzontescuola.it/gps-2026-2028-chiarimenti-valutazione-dei-titoli-di-differenziazione-didattica-pizzigoni-agazzi-e-montessori/",
+                "date": "21 Mag 2026",
+                "time": "16:48",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_1819849748.jpg"
+            },
+            {
                 "category": "Docenti",
                 "title": "Mobilità docenti 2026, prospetto organici e posti disponibili per i trasferimenti [AGGIORNATO]",
                 "link": "https://www.orizzontescuola.it/mobilita-docenti-2026-ecco-i-posti-disponibili-per-i-trasferimenti-pubblicazione-esiti-il-29-maggio-in-aggiornamento/",
@@ -54,14 +102,6 @@
                 "date": "21 Mag 2026",
                 "time": "16:03",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/12/shutterstock_565597579.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Elenchi regionali docenti per il ruolo, ultimi giorni per presentare la domanda: a cosa fare attenzione. QUESTION TIME con Cozzetto (ANIEF)",
-                "link": "https://www.orizzontescuola.it/elenchi-regionali-docenti-per-il-ruolo-ultimi-giorni-per-presentare-la-domanda-a-cosa-fare-attenzione-question-time-con-cozzetto-anief-live-giovedi-21-maggio-alle-1530/",
-                "date": "21 Mag 2026",
-                "time": "15:03",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/Template_questiontime_1920x1080-17.png"
             },
             {
                 "category": "Politica scolastica",
@@ -110,7 +150,12 @@
                 "date": "21 Mag 2026",
                 "time": "11:14",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1323039833.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Docenti",
                 "title": "Mobilità annuale docenti 2026, le differenze principali tra assegnazioni provvisorie e utilizzazioni",
@@ -150,12 +195,7 @@
                 "date": "21 Mag 2026",
                 "time": "9:56",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/09/shutterstock_1488896810.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Dirigenti scolastici",
                 "title": "Incarichi di presidenza 2026/27, domande in scadenza domani 22 maggio: le regole per le conferme",
@@ -245,45 +285,100 @@
                 "date": "20 Mag 2026",
                 "time": "20:01",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/04/shutterstock_1743117419.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Calendario scolastico 2026/27, quando inizia la scuola a settembre: le date per regione [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/calendario-scolastico-2026-27-quando-inizia-la-scuola-le-prime-delibere-delle-regioni-in-aggiornamento/",
-                "date": "20 Mag 2026",
-                "time": "19:45",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_2002803581-scaled.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Professore entra in classe con panciotto, bombetta e baffi a manubrio: “è giusto presentarsi in modo distinto a scuola e mi piace la Belle Epoque”",
-                "link": "https://www.orizzontescuola.it/professore-si-presenta-in-classe-con-panciotto-bombetta-e-baffi-a-manubrio-e-giusto-presentarsi-in-modo-distinto-a-scuola-e-mi-piace-la-belle-epoque/",
-                "date": "20 Mag 2026",
-                "time": "19:07",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/belle_epoque.png"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Carta del docente, per i soldi la vittoria in tribunale non basta: “Mi sono arrivati due mesi fa, ma la sentenza era del 2023. Ho speso 5mila euro di tasca mia mentre attendevo il voucher”",
-                "link": "https://www.orizzontescuola.it/carta-del-docente-per-i-soldi-la-vittoria-in-tribunale-non-basta-mi-sono-arrivati-due-mesi-fa-ma-la-sentenza-era-del-2023-ho-speso-5mila-euro-di-tasca-mia-mentre-attendevo-il-voucher/",
-                "date": "20 Mag 2026",
-                "time": "19:02",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_301075946.jpg"
-            },
-            null,
-            {
-                "category": "Scuole",
-                "title": "Conto consuntivo 2025, approvazione entro il 30 maggio",
-                "link": "https://www.orizzontescuola.it/conto-consuntivo-2025-approvazione-entro-il-30-maggio/",
-                "date": "20 Mag 2026",
-                "time": "18:07",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_1070096513.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Il 20 ottobre sarà il Giorno del Ricordo dei Piccoli Martiri: ecco cosa prevede la nuova legge",
+                "link": "https://www.orizzontescuola.it/il-20-ottobre-sara-il-giorno-del-ricordo-dei-piccoli-martiri-ecco-cosa-prevede-la-nuova-legge/",
+                "date": "21 Mag 2026",
+                "time": "20:58",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Serpente nel cortile di un istituto scolastico a Bolzano. Intervento dei vigili del fuoco",
+                "link": "https://www.orizzontescuola.it/serpente-nel-cortile-di-un-istituto-scolastico-a-bolzano-intervento-dei-vigili-del-fuoco/",
+                "date": "21 Mag 2026",
+                "time": "19:36",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Valditara: “Abbiamo dato risposte importanti”. Dal docente tutor alle sedute gratuite con lo psicologo, tutte le novità in arrivo per studenti e famiglie",
+                "link": "https://www.orizzontescuola.it/valditara-abbiamo-dato-risposte-importanti-dal-docente-tutor-alle-sedute-gratuite-con-lo-psicologo-tutte-le-novita-in-arrivo-per-studenti-e-famiglie/",
+                "date": "21 Mag 2026",
+                "time": "19:23",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Alunna scrive lettera alla premier Meloni: “Ho solo 10 anni e chiedo le stesse opportunità degli altri bambini”. USR Sicilia precisa: “Nessuna richiesta ufficiale ricevuta da Sindaco e scuola, sarà assicurato percorso idoneo”",
+                "link": "https://www.orizzontescuola.it/ho-solo-10-anni-e-chiedo-le-stesse-opportunita-degli-altri-bambini-da-filicudi-lappello-alla-premier-floridia-annuncia-uninterrogazione-a-valditara/",
+                "date": "21 Mag 2026",
+                "time": "19:01",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Calendario scolastico Liguria 2026/2027: si rientra in classe lunedì 14 settembre",
+                "link": "https://www.orizzontescuola.it/calendario-scolastico-liguria-2026-2027-si-rientra-in-classe-lunedi-14-settembre/",
+                "date": "21 Mag 2026",
+                "time": "18:57",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Vincenzo Schettini: “Se inizi a chattare a 12 anni ti fai l’idea che gli amici siano fuori”. Poi l’appello ai genitori",
+                "link": "https://www.orizzontescuola.it/vincenzo-schettini-se-inizi-a-chattare-a-12-anni-ti-fai-lidea-che-gli-amici-siano-fuori-poi-lappello-ai-genitori/",
+                "date": "21 Mag 2026",
+                "time": "18:41",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“Domani scuole aperte”, il sindaco di Pozzuoli rassicura dopo lo sciame sismico",
+                "link": "https://www.orizzontescuola.it/domani-scuole-aperte-il-sindaco-di-pozzuoli-rassicura-dopo-lo-sciame-sismico/",
+                "date": "21 Mag 2026",
+                "time": "18:26",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "ITS Academy, in arrivo i 77 milioni. Frassinetti: “Colmare i divari territoriali, occupazionali e formativi è una priorità”",
+                "link": "https://www.orizzontescuola.it/its-academy-in-arrivo-i-77-milioni-frassinetti-colmare-i-divari-territoriali-occupazionali-e-formativi-e-una-priorita/",
+                "date": "21 Mag 2026",
+                "time": "18:17",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Tragedia in un liceo a Torino: docente di lettere trovata morta in casa. Era stata dimessa dal pronto soccorso dopo problemi allo stomaco",
+                "link": "https://www.orizzontescuola.it/tragedia-in-un-liceo-a-torino-docente-di-lettere-trovata-morta-in-casa-era-stata-dimessa-dal-pronto-soccorso-dopo-problemi-allo-stomaco/",
+                "date": "21 Mag 2026",
+                "time": "17:53",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Valditara: “La scuola resti aperta anche in estate per chi non ha alternative, stanziati 300mln di euro”",
+                "link": "https://www.orizzontescuola.it/valditara-la-scuola-resti-aperta-anche-in-estate-per-chi-non-ha-alternative-stanziati-300mln-di-euro/",
+                "date": "21 Mag 2026",
+                "time": "17:34",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Elenchi regionali docenti per il ruolo, ultimi giorni per presentare la domanda: a cosa fare attenzione. QUESTION TIME con Cozzetto (ANIEF)",
+                "link": "https://www.orizzontescuola.it/elenchi-regionali-docenti-per-il-ruolo-ultimi-giorni-per-presentare-la-domanda-a-cosa-fare-attenzione-question-time-con-cozzetto-anief-live-giovedi-21-maggio-alle-1530/",
+                "date": "21 Mag 2026",
+                "time": "15:03",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Pilar Fogliati: “Fare vedere il cinema nelle scuole per me è fondamentale. Così avremo la soluzione alla crisi delle sale”",
@@ -318,14 +413,6 @@
             },
             {
                 "category": "Cronaca",
-                "title": "Alunna scrive lettera alla premier Meloni: “Ho solo 10 anni e chiedo le stesse opportunità degli altri bambini”. L’appello da Filicudi",
-                "link": "https://www.orizzontescuola.it/ho-solo-10-anni-e-chiedo-le-stesse-opportunita-degli-altri-bambini-da-filicudi-lappello-alla-premier-floridia-annuncia-uninterrogazione-a-valditara/",
-                "date": "21 Mag 2026",
-                "time": "13:01",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
                 "title": "Musica a scuola anche d’estate, l’Emilia-Romagna finanzia progetti gratuiti con 2,65 milioni",
                 "link": "https://www.orizzontescuola.it/musica-a-scuola-anche-destate-emilia-romagna-finanzia-progetti-gratuiti-con-265-milioni/",
                 "date": "21 Mag 2026",
@@ -347,80 +434,7 @@
                 "date": "21 Mag 2026",
                 "time": "12:02",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Genitori",
-                "title": "“Non intendo avere figli per i pochi soldi”, il crollo delle nascite e l’Italia degli over 50 senza figli. I dati ISTAT",
-                "link": "https://www.orizzontescuola.it/non-intendo-avere-figli-per-i-pochi-soldi-il-crollo-delle-nascite-e-litalia-degli-over-50-senza-figli-i-dati-istat/",
-                "date": "21 Mag 2026",
-                "time": "12:00",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Studenti",
-                "title": "Il livello di benessere è strettamente associato al background culturale. La famiglia resta il perno emotivo per quasi sette ragazzi su dieci. I dati ISTAT",
-                "link": "https://www.orizzontescuola.it/il-livello-di-benessere-e-strettamente-associato-al-background-culturale-la-famiglia-resta-il-perno-emotivo-per-quasi-sette-ragazzi-su-dieci-i-dati-istat/",
-                "date": "21 Mag 2026",
-                "time": "11:52",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Precariato docenti, Pittoni (Lega): “Per il dopo PNRR la priorità dovrà essere lo svuotamento delle graduatorie”",
-                "link": "https://www.orizzontescuola.it/precariato-docenti-pittoni-lega-per-il-dopo-pnrr-la-priorita-sara-lo-svuotamento-delle-graduatorie/",
-                "date": "21 Mag 2026",
-                "time": "11:50",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Scuole",
-                "title": "Accoglienza studenti provenienti da Gaza, avviso da 1,5 milioni: domande entro il 26 maggio",
-                "link": "https://www.orizzontescuola.it/accoglienza-studenti-provenienti-da-gaza-avviso-da-15-milioni-domande-entro-il-26-maggio/",
-                "date": "21 Mag 2026",
-                "time": "11:43",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "L’Italia destina all’istruzione l’8% della spesa pubblica totale. Nel 2024 quasi 89 miliardi",
-                "link": "https://www.orizzontescuola.it/litalia-destina-allistruzione-l8-della-spesa-pubblica-totale-nel-2024-quasi-89-miliardi/",
-                "date": "21 Mag 2026",
-                "time": "11:17",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "Esame di maturità 2025/2026. Incontro formativo/informativo on line 21 maggio Sicilia",
-                "link": "https://www.orizzontescuola.it/esame-di-maturita-2025-2026-incontro-formativo-informativo-on-line-21-maggio-sicilia/",
-                "date": "21 Mag 2026",
-                "time": "11:05",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Editoria scolastica da 773 milioni, calo del -2,2%: alla Camera il 27 maggio il convegno AIE. Le info utili",
-                "link": "https://www.orizzontescuola.it/editoria-scolastica-da-773-milioni-calo-del-22-alla-camera-il-27-maggio-il-convegno-aie-le-info-utili/",
-                "date": "21 Mag 2026",
-                "time": "10:35",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Ancona Capitale italiana della cultura 2028, il titolo è in Gazzetta Ufficiale",
-                "link": "https://www.orizzontescuola.it/ancona-capitale-italiana-della-cultura-2028-il-titolo-e-in-gazzetta-ufficiale/",
-                "date": "21 Mag 2026",
-                "time": "10:23",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Iran, il racconto della docente: “Gli studenti trascorrono ore davanti a schermi bloccati, senza la certezza che la lezione successiva si terrà”",
-                "link": "https://www.orizzontescuola.it/iran-il-racconto-della-docente-gli-studenti-trascorrono-ore-davanti-a-schermi-bloccati-senza-la-certezza-che-la-lezione-successiva-si-terra/",
-                "date": "21 Mag 2026",
-                "time": "10:08",
-                "image_link": "N/A"
-            },
-            null
+            }
         ]
     },
     "group_5": {
@@ -545,6 +559,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Supplenze 150 preferenze, “stop alla ricompilazione delle sedi già scelte”. La Uil Scuola scrive al Ministero per semplificare la procedura",
+                "link": "https://www.orizzontescuola.it/supplenze-150-preferenze-stop-alla-ricompilazione-delle-sedi-gia-scelte-la-uil-scuola-scrive-al-ministero-per-semplificare-la-procedura/",
+                "date": "19 Mag 2026",
+                "time": "15:42",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/download-2-1.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Specializzazione sostegno, Pittoni: “Auspico che i corsi Indire diventino strutturali”",
                 "link": "https://www.orizzontescuola.it/specializzazione-sostegno-pittoni-auspico-che-i-corsi-indire-diventino-strutturali/",
                 "date": "19 Mag 2026",
@@ -582,14 +604,6 @@
                 "date": "18 Mag 2026",
                 "time": "17:55",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/shutterstock_735971932.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Conferma supplenza sostegno 2026, se non si ottiene si partecipa ai bollettini successivi",
-                "link": "https://www.orizzontescuola.it/conferma-supplenza-sostegno-2026-se-non-si-ottiene-si-partecipa-ai-bollettini-successivi/",
-                "date": "18 Mag 2026",
-                "time": "16:23",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_2161931957.jpg"
             }
         ]
     },
