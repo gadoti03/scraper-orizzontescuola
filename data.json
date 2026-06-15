@@ -3,19 +3,74 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "Diventare Insegnanti",
+                "title": "Elenchi regionali 2026 per il ruolo docenti, ecco le graduatorie [AGGIORNATO con Lazio, Toscana e Sardegna]",
+                "link": "https://www.orizzontescuola.it/elenchi-regionali-2026-per-il-ruolo-docenti-ecco-le-graduatorie-in-aggiornamento/",
+                "date": "15 Giu 2026",
+                "time": "19:43",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
+            },
+            {
                 "category": "Politica scolastica",
                 "title": "Educazione sessuo-affettiva a scuola: il consenso informato è legge. Di cosa si tratta [LO SPECIALE]",
                 "link": "https://www.orizzontescuola.it/educazione-sessuo-affettiva-a-scuola-il-consenso-informato-e-legge-di-cosa-si-tratta-lo-speciale/",
                 "date": "15 Giu 2026",
                 "time": "8:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_735099181.jpg"
-            },
-            null
+            }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Roberta Bruzzone scuote la scuola. “Il problema principale è che l’adulto non viene più riconosciuto. Servono conseguenze chiare”",
+                "link": "https://www.orizzontescuola.it/roberta-bruzzone-scuote-la-scuola-il-problema-principale-e-che-ladulto-non-viene-piu-riconosciuto-servono-conseguenze-chiare/",
+                "date": "15 Giu 2026",
+                "time": "20:32",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_1042544104.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Maturità 2026, confronto tra ordinanze: cosa è cambiato rispetto al 2025? Scarica il PDF",
+                "link": "https://www.orizzontescuola.it/maturita-2026-confronto-tra-ordinanze-cosa-e-cambiato-rispetto-al-2025-scarica-il-pdf/",
+                "date": "15 Giu 2026",
+                "time": "19:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_668259205.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "VIDEO TUTORIAL | GPS, scioglimento della riserva: tutti i passaggi spiegati con esempi concreti",
+                "link": "https://www.orizzontescuola.it/video-tutorial-gps-scioglimento-della-riserva-tutti-i-passaggi-spiegati-con-esempi-concreti/",
+                "date": "15 Giu 2026",
+                "time": "18:38",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/Template_videoguide_1920x1080.png"
+            },
+            {
+                "category": "ATA",
+                "title": "Ferie docenti e ATA in part time, come si calcolano e quanti giorni spettano?",
+                "link": "https://www.orizzontescuola.it/ferie-docenti-e-ata-in-part-time-come-si-calcolano-e-quanti-giorni-spettano/",
+                "date": "15 Giu 2026",
+                "time": "18:38",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2626799523.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Personale ATA: posti disponibili dopo la mobilità 2026. Ecco in quali scuole per ruoli e supplenze [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/personale-ata-posti-disponibili-dopo-la-mobilita-2026-ecco-in-quali-scuole-per-ruoli-e-supplenze-aggiornato/",
+                "date": "15 Giu 2026",
+                "time": "16:21",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_2167465293.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Docenti di seconda carriera e carenza di organico in Europa: i dati sui programmi accelerati per portare i professionisti in cattedra",
+                "link": "https://www.orizzontescuola.it/docenti-di-seconda-carriera-e-carenza-di-organico-in-europa-i-dati-sui-programmi-accelerati-per-portare-i-professionisti-in-cattedra/",
+                "date": "15 Giu 2026",
+                "time": "16:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2583566281.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Immissioni in ruolo docenti 2026, posti disponibili dopo la mobilità. Ecco in quali scuole [AGGIORNATO con rettifica Roma]",
@@ -95,7 +150,12 @@
                 "date": "15 Giu 2026",
                 "time": "11:49",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_790991890.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "ATA",
                 "title": "Graduatorie posizioni ATA: respinti i reclami per servizio 2025 e 2026, inferiore a 6 mesi o non dichiarati. NOTA",
@@ -103,14 +163,6 @@
                 "date": "15 Giu 2026",
                 "time": "11:43",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/11/shutterstock_1028568955.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "GPS e GAE, scioglimento della riserva: come fare passo dopo passo con esempi pratici. VIDEO TUTORIAL con Vannini (Uil Scuola) LIVE Lunedì 15 giugno alle 14:30",
-                "link": "https://www.orizzontescuola.it/gps-e-gae-scioglimento-della-riserva-come-fare-passo-dopo-passo-con-esempi-pratici-video-tutorial-con-vannini-uil-scuola-live-lunedi-15-giugno-alle-1430/",
-                "date": "15 Giu 2026",
-                "time": "11:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/Template_questiontime_1920x1080-9.png"
             },
             {
                 "category": "Guide",
@@ -143,12 +195,7 @@
                 "date": "15 Giu 2026",
                 "time": "10:54",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2665797789.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "ATA",
                 "title": "Se si svolge attività lavorativa durante congedo straordinario per assistere disabile, scatta il danno erariale",
@@ -252,31 +299,124 @@
                 "date": "15 Giu 2026",
                 "time": "7:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2649192627.jpg"
-            },
-            null,
-            null,
-            null,
-            {
-                "category": "ATA",
-                "title": "Ferie, quando è possibile usufruirne? Regole, finestre temporali e differenze tra docenti e ATA",
-                "link": "https://www.orizzontescuola.it/ferie-quando-e-possibile-usufruirne-regole-finestre-temporali-e-differenze-tra-docenti-e-ata/",
-                "date": "14 Giu 2026",
-                "time": "20:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2492219935-scaled.jpg"
-            },
-            {
-                "category": "Studenti",
-                "title": "Il 34,7% dei laureati ha un genitore laureato. Figli di operai solo il 17,2%. “L’università non è più ascensore sociale”, cresce la trasmissione del privilegio. I dati Almalaurea",
-                "link": "https://www.orizzontescuola.it/il-347-dei-laureati-ha-un-genitore-laureato-figli-di-operai-solo-il-172-luniversita-non-e-piu-ascensore-sociale-cresce-la-trasmissione-del-privilegio-i-dati-almalaurea/",
-                "date": "14 Giu 2026",
-                "time": "20:03",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_1562815639.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Aggredisce preside e vigili a Procida, giudici convalidano arresto: assistente tecnico resta in carcere",
+                "link": "https://www.orizzontescuola.it/aggredisce-preside-e-vigili-a-procida-giudici-convalidano-arresto-assistente-tecnico-resta-in-carcere/",
+                "date": "15 Giu 2026",
+                "time": "21:43",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Gerry Scotti dottore honoris causa, la laurea che non prese 40 anni fa: “L’emozione è la stessa di allora”",
+                "link": "https://www.orizzontescuola.it/gerry-scotti-dottore-honoris-causa-la-laurea-che-non-prese-40-anni-fa-lemozione-e-la-stessa-di-allora/",
+                "date": "15 Giu 2026",
+                "time": "21:39",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Rinnovo contratto scuola in Alto Adige: da 2.000 a 6.000 euro lordi annui di aumento. Per gli insegnanti più giovani subito uno scatto di anzianità",
+                "link": "https://www.orizzontescuola.it/rinnovo-contratto-scuola-in-alto-adige-da-2-000-a-6-000-euro-lordi-annui-di-aumento-per-gli-insegnanti-piu-giovani-subito-uno-scatto-di-anzianita/",
+                "date": "15 Giu 2026",
+                "time": "21:36",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Bimbo sale sul treno sbagliato a Verona, due studenti lo salvano: “Grazie a Google Traduttore”",
+                "link": "https://www.orizzontescuola.it/bimbo-sale-sul-treno-sbagliato-a-verona-due-studenti-lo-salvano-grazie-a-google-traduttore/",
+                "date": "15 Giu 2026",
+                "time": "21:30",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Studenti maturi e aule da forno: stress, caldo e stipendi divisi alla prova della Maturità",
+                "link": "https://www.orizzontescuola.it/studenti-maturi-e-aule-da-forno-stress-caldo-e-stipendi-divisi-alla-prova-della-maturita/",
+                "date": "15 Giu 2026",
+                "time": "20:19",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Stipendio da 1.500 euro, affitto a 700 per un monolocale da 19 mq, la storia del docente che lascia Modena per il Sud: “Dopo anni di sacrifici, non ce la facevo più”",
+                "link": "https://www.orizzontescuola.it/stipendio-da-1-500-euro-affitto-a-700-per-un-monolocale-da-19-mq-la-storia-del-docente-che-lascia-modena-per-il-sud-dopo-anni-di-sacrifici-non-ce-la-facevo-piu/",
+                "date": "15 Giu 2026",
+                "time": "19:43",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Urgenze e scuola, Pacifico (Anief) chiede “un decreto legge per affrontare reclutamento, mobilità, carta docente, organici, formazione iniziale, riscatto della laurea e burnout”",
+                "link": "https://www.orizzontescuola.it/urgenze-e-scuola-pacifico-anief-chiede-un-decreto-legge-per-affrontare-reclutamento-mobilita-carta-docente-organici-formazione-iniziale-riscatto-della-laurea-e-burnout/",
+                "date": "15 Giu 2026",
+                "time": "19:40",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Dopo la mobilità restano vacanti 971 posti di Dsga. Anief chiede assunzioni su tutti i posti disponibili, graduatoria nazionale degli idonei, tutoraggio per i neoassunti e piena valorizzazione della categoria",
+                "link": "https://www.orizzontescuola.it/dopo-la-mobilita-restano-vacanti-971-posti-di-dsga-anief-chiede-assunzioni-su-tutti-i-posti-disponibili-graduatoria-nazionale-degli-idonei-tutoraggio-per-i-neoassunti-e-piena-valorizzazione-della-c/",
+                "date": "15 Giu 2026",
+                "time": "18:40",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Maturità 2026 e tototema: Montale grande assente dal 2012. Per il classico sfida aperta tra Seneca e Tacito. L’indagine",
+                "link": "https://www.orizzontescuola.it/maturita-2026-e-tototema-montale-grande-assente-dal-2012-per-il-classico-sfida-aperta-tra-seneca-e-tacito-lindagine/",
+                "date": "15 Giu 2026",
+                "time": "17:44",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Maturità 2026 e stress: il 47% dei candidati abusa di caffè e bevande energizzanti. Per quasi due ragazzi su tre il sonno è stravolto. L’indagine",
+                "link": "https://www.orizzontescuola.it/maturita-2026-e-stress-il-47-dei-candidati-abusa-di-caffe-e-bevande-energizzanti-per-quasi-due-ragazzi-su-tre-il-sonno-e-stravolto-lindagine/",
+                "date": "15 Giu 2026",
+                "time": "17:13",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Cattedre vacanti in Liguria, il report Anief sui posti liberi: a Genova allarme sostegno alla primaria con 256 disponibilità. Tutti i numeri per provincia",
+                "link": "https://www.orizzontescuola.it/cattedre-vacanti-in-liguria-il-report-anief-sui-posti-liberi-a-genova-allarme-sostegno-alla-primaria-con-256-disponibilita-tutti-i-numeri-per-provincia/",
+                "date": "15 Giu 2026",
+                "time": "16:56",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Fabregas: “Mia figlia di 13 anni unica della classe a non avere il telefono. Fino a sedici o diciassette anni non lo avrà. Cerco di proteggere la sua adolescenza”",
+                "link": "https://www.orizzontescuola.it/fabregas-mia-figlia-di-13-anni-unica-della-classe-a-non-avere-il-telefono-fino-a-sedici-o-diciassette-anni-non-lo-avra-cerco-di-proteggere-la-sua-adolescenza/",
+                "date": "15 Giu 2026",
+                "time": "16:33",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Riforma 4+2, Valditara: “Strategica per giovani e imprese. In cinque anni 100.000 iscritti”",
+                "link": "https://www.orizzontescuola.it/riforma-42-valditara-strategica-per-giovani-e-imprese-in-cinque-anni-100-000-iscritti/",
+                "date": "15 Giu 2026",
+                "time": "16:18",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Valditara su femminicidi e rispetto: “C’è l’incapacità di molti giovani di accettare il no, che poi può essere il no del docente o di una donna”",
+                "link": "https://www.orizzontescuola.it/valditara-su-femminicidi-e-rispetto-ce-lincapacita-di-molti-giovani-di-accettare-il-no-che-poi-puo-essere-il-no-del-docente-o-di-una-donna/",
+                "date": "15 Giu 2026",
+                "time": "16:02",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Luisa Ranieri: “I ragazzi si informano sui telefonini, per mia figlia non mi sono opposta all’educazione sessuale a scuola”",
@@ -307,118 +447,6 @@
                 "link": "https://www.orizzontescuola.it/universita-telematiche-senza-di-loro-il-45-degli-studenti-non-avrebbe-mai-una-laurea/",
                 "date": "15 Giu 2026",
                 "time": "14:28",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Lavoro dopo gli studi, l’Italia batte solo la Grecia: il 71,8% dei giovani trova un impiego contro l’83% Ue",
-                "link": "https://www.orizzontescuola.it/lavoro-dopo-gli-studi-litalia-batte-solo-la-grecia-il-718-dei-giovani-trova-un-impiego-contro-l83-ue/",
-                "date": "15 Giu 2026",
-                "time": "14:22",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Graduatorie ad esaurimento: ecco le GaE pubblicate per il 2026/28 (e dove sono vuote)",
-                "link": "https://www.orizzontescuola.it/graduatorie-ad-esaurimento-ecco-le-gae-pubblicate-per-il-2026-28-e-dove-sono-vuote/",
-                "date": "15 Giu 2026",
-                "time": "13:52",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "Intelligenza artificiale a scuola, il progetto europeo AI-DL per un uso critico dei dati",
-                "link": "https://www.orizzontescuola.it/intelligenza-artificiale-a-scuola-il-progetto-europeo-ai-dl-per-un-uso-critico-dei-dati/",
-                "date": "15 Giu 2026",
-                "time": "13:27",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Maturità, su Rai Scuola lezioni e approfondimenti per prepararsi all’Esame di Stato",
-                "link": "https://www.orizzontescuola.it/maturita-su-rai-scuola-lezioni-e-approfondimenti-per-prepararsi-allesame-di-stato/",
-                "date": "15 Giu 2026",
-                "time": "12:41",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "Didattica attiva in Puglia, indagine USR: collaborativo oltre l’80%, inclusione digitale punto di forza. Resta il nodo della valutazione digitale",
-                "link": "https://www.orizzontescuola.it/didattica-attiva-in-puglia-indagine-usr-collaborativo-oltre-l80-inclusione-digitale-punto-di-forza-resta-il-nodo-della-valutazione-digitale/",
-                "date": "15 Giu 2026",
-                "time": "12:36",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Maturità 2026, il trucco #studywithme che inganna il cervello: spopola su Instagram e TikTok",
-                "link": "https://www.orizzontescuola.it/maturita-2026-il-trucco-studywithme-che-inganna-il-cervello/",
-                "date": "15 Giu 2026",
-                "time": "12:13",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Rogo di Crans-Montana, le scuole svizzere bocciano i ragazzi sopravvissuti. La denuncia dei genitori: “Una mancanza di umanità assurda”",
-                "link": "https://www.orizzontescuola.it/rogo-di-crans-montana-le-scuole-svizzere-bocciano-i-ragazzi-sopravvissuti-la-denuncia-dei-genitori-una-mancanza-di-umanita-assurda/",
-                "date": "15 Giu 2026",
-                "time": "11:55",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Studenti",
-                "title": "Maturità 2026, la versione di latino al classico: come tradurre Tacito secondo il professor Gardini. Ecco quali costrutti ripassare",
-                "link": "https://www.orizzontescuola.it/maturita-2026-la-versione-di-latino-al-classico-come-tradurre-tacito-secondo-il-professor-gardini-ecco-quali-costrutti-ripassare/",
-                "date": "15 Giu 2026",
-                "time": "11:26",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Scena muta alla Maturità? L’attacco di panico non fa ripetere l’esame",
-                "link": "https://www.orizzontescuola.it/scena-muta-alla-maturita-lattacco-di-panico-non-fa-ripetere-lesame/",
-                "date": "15 Giu 2026",
-                "time": "11:15",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Zero ritardi, zero uscite: la perfezione scolastica esiste (e sta in una seconda superiore). Il CNDDU: “Esempio di responsabilità, non un modello da imporre”",
-                "link": "https://www.orizzontescuola.it/zero-ritardi-zero-uscite-la-perfezione-scolastica-esiste-e-sta-in-una-seconda-superiore-il-cnddu-esempio-di-responsabilita-non-un-modello-da-imporre/",
-                "date": "15 Giu 2026",
-                "time": "10:44",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Rientro a scuola il 31 agosto, richiesta degli artigiani in Piemonte. Anief: “Gli istituti scolastici sono presidi educativi o parcheggi? Per educare servono condizioni ambientali adatte”",
-                "link": "https://www.orizzontescuola.it/rientro-a-scuola-il-31-agosto-richiesta-degli-artigiani-in-piemonte-anief-gli-istituti-scolastici-sono-presidi-educativi-o-parcheggi-per-educare-servono-condizioni-ambientali-adatte/",
-                "date": "15 Giu 2026",
-                "time": "9:09",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "I dubbi di un’adolescente e le sue paure per il futuro, gli inganni degli adulti messi in scena e la speranza: in scena nel modenese",
-                "link": "https://www.orizzontescuola.it/i-dubbi-di-unadolescente-e-le-sue-paure-per-il-futuro-gli-inganni-degli-adulti-messi-e-la-speranza-in-scena-nel-modenese/",
-                "date": "15 Giu 2026",
-                "time": "8:07",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Nipote 17enne uccide la zia insegnante. Il ricordo commosso dei suoi studenti: “Rimarrà sempre nei nostri cuori. Adesso faremo un bell’esame per lei”",
-                "link": "https://www.orizzontescuola.it/nipote-17enne-uccide-la-zia-insegnante-il-ricordo-commosso-dei-suoi-studenti-rimarra-sempre-nei-nostri-cuori-adesso-faremo-un-bellesame-per-lei/",
-                "date": "14 Giu 2026",
-                "time": "20:35",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Alunni con disabilità fermati bocciati a fine anno: il coordinamento sostegno attacca: “Subito regole chiare dal Ministero”",
-                "link": "https://www.orizzontescuola.it/alunni-con-disabilita-fermati-bocciati-a-fine-anno-il-coordinamento-sostegno-attacca-subito-regole-chiare-dal-ministero/",
-                "date": "14 Giu 2026",
-                "time": "20:30",
                 "image_link": "N/A"
             }
         ]
@@ -598,14 +626,6 @@
         "articles": [
             {
                 "category": "ATA",
-                "title": "Mobilità ATA 2026, la pubblicazione dei movimenti [I BOLLETTINI per provincia]",
-                "link": "https://www.orizzontescuola.it/mobilita-ata-2026-la-pubblicazione-dei-movimenti-i-bollettini-per-provincia/",
-                "date": "12 Giu 2026",
-                "time": "19:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1687192501-scaled.jpg"
-            },
-            {
-                "category": "ATA",
                 "title": "Dopo Mobilità ATA 2026 restano 34.969 posti vacanti, di cui 21.000 per Collaboratori Scolastici. Ecco dove. Scheda UIL Scuola",
                 "link": "https://www.orizzontescuola.it/dopo-mobilita-ata-2026-restano-34-969-posti-vacanti-di-cui-21-000-per-collaboratori-scolastici-ecco-dove-scheda-uil-scuola/",
                 "date": "12 Giu 2026",
@@ -643,6 +663,14 @@
                 "date": "11 Giu 2026",
                 "time": "6:34",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1917038219.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Mobilità ATA 2026/27, esiti il 12 giugno: come viene informato chi non ottiene il trasferimento",
+                "link": "https://www.orizzontescuola.it/mobilita-ata-2026-27-esiti-il-12-giugno-come-viene-informato-chi-non-ottiene-il-trasferimento/",
+                "date": "10 Giu 2026",
+                "time": "19:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_1070096513.jpg"
             }
         ]
     },
