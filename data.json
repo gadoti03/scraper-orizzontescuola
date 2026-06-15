@@ -18,6 +18,38 @@
         "articles": [
             {
                 "category": "Cronaca",
+                "title": "Vannacci: “Scuola dura come la vita e a lavorare dai 14 anni. Più figli … meno tasse”",
+                "link": "https://www.orizzontescuola.it/vannacci-scuola-dura-come-la-vita-e-a-lavorare-dai-14-anni-piu-figli-meno-tasse/",
+                "date": "14 Giu 2026",
+                "time": "21:21",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2744383765.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Ferie, quando è possibile usufruirne? Regole, finestre temporali e differenze tra docenti e ATA",
+                "link": "https://www.orizzontescuola.it/ferie-quando-e-possibile-usufruirne-regole-finestre-temporali-e-differenze-tra-docenti-e-ata/",
+                "date": "14 Giu 2026",
+                "time": "20:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2492219935-scaled.jpg"
+            },
+            {
+                "category": "Studenti",
+                "title": "Il 34,7% dei laureati ha un genitore laureato. Figli di operai solo il 17,2%. “L’università non è più ascensore sociale”, cresce la trasmissione del privilegio. I dati Almalaurea",
+                "link": "https://www.orizzontescuola.it/il-347-dei-laureati-ha-un-genitore-laureato-figli-di-operai-solo-il-172-luniversita-non-e-piu-ascensore-sociale-cresce-la-trasmissione-del-privilegio-i-dati-almalaurea/",
+                "date": "14 Giu 2026",
+                "time": "20:03",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_1562815639.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Ogni anno oltre 100mila minori presi in carico dai servizi sociali: la scuola può intercettarne la metà in più se insegnanti e pediatri lavorano in rete. Rapporto CSVI",
+                "link": "https://www.orizzontescuola.it/ogni-anno-oltre-100mila-minori-presi-in-carico-dai-servizi-sociali-la-scuola-puo-intercettarne-la-meta-in-piu-se-insegnanti-e-pediatri-lavorano-in-rete-ma-solo-il-15-degli-istituti-ha-un-protocollo/",
+                "date": "14 Giu 2026",
+                "time": "19:39",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2694378921.jpg"
+            },
+            {
+                "category": "Cronaca",
                 "title": "Angela bocciato in quinta elementare, Recalcati in seconda, Hack rimandata in matematica. Ecco l’elogio della bocciatura: non è vergogna, ma un’opportunità",
                 "link": "https://www.orizzontescuola.it/angela-bocciato-in-quinta-elementare-recalcati-in-seconda-hack-rimandata-in-matematica-ecco-lelogio-della-bocciatura-non-e-vergogna-ma-unopportunita/",
                 "date": "14 Giu 2026",
@@ -50,8 +82,8 @@
             },
             {
                 "category": "Docenti",
-                "title": "Fine lezioni, obbligo di presenza a scuola fino al 30 giugno? Attività dovute, limiti orari, illegittimità delle circolari, richiesta ferie: il chiarimento dell’avv. De Martino",
-                "link": "https://www.orizzontescuola.it/fine-lezioni-obbligo-di-presenza-a-scuola-fino-al-30-giugno-attivita-dovute-limiti-orari-illegittimita-delle-circolari-richiesta-ferie-il-chiarimento-dellavv-de-martino/",
+                "title": "Fine lezioni, obbligo di presenza a scuola fino al 30 giugno? Attività dovute, limiti orari, illegittimità delle circolari: il chiarimento dell’avv. De Martino",
+                "link": "https://www.orizzontescuola.it/fine-lezioni-obbligo-di-presenza-a-scuola-fino-al-30-giugno-attivita-dovute-limiti-orari-illegittimita-delle-circolari-il-chiarimento-dellavv-de-martino/",
                 "date": "14 Giu 2026",
                 "time": "17:08",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2331500305.jpg"
@@ -111,7 +143,12 @@
                 "date": "14 Giu 2026",
                 "time": "15:13",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2347022623.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Studenti",
                 "title": "Italia ultima in Europa per laureati under 35: un ritardo che costa caro. I dati Almalaurea",
@@ -143,12 +180,7 @@
                 "date": "14 Giu 2026",
                 "time": "13:44",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/02/shutterstock_1124916845.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Studenti",
                 "title": "Da Emilia-Romagna a Campania: il divario nella tutela dell’infanzia alimenta anche il bullismo, che colpisce 1 bambino su 3 secondo i racconti raccolti da CESVI",
@@ -253,37 +285,28 @@
                 "date": "14 Giu 2026",
                 "time": "8:42",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_1158978574.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Esame di terza media, colloquio finale: cosa valuta e come si svolge",
-                "link": "https://www.orizzontescuola.it/esame-di-terza-media-colloquio-finale-cosa-valuta-e-come-si-svolge/",
-                "date": "14 Giu 2026",
-                "time": "8:26",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/03/shutterstock_580945597.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Docenti trasferiti lontano dai figli minori: la deroga negata che accende la polemica. La protesta degli “immobilizzati”",
-                "link": "https://www.orizzontescuola.it/docenti-trasferiti-lontano-dai-figli-minori-la-deroga-negata-che-accende-la-polemica-la-protesta-degli-immobilizzati/",
-                "date": "14 Giu 2026",
-                "time": "8:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/02/highway-lights-at-night_925x.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "GPS e GAE, scioglimento della riserva: come fare passo dopo passo con esempi pratici. VIDEO TUTORIAL con Vannini (Uil Scuola) LIVE Lunedì 15 giugno alle 14:30",
-                "link": "https://www.orizzontescuola.it/gps-e-gae-scioglimento-della-riserva-come-fare-passo-dopo-passo-con-esempi-pratici-video-tutorial-con-vannini-uil-scuola-live-lunedi-15-giugno-alle-1430/",
-                "date": "14 Giu 2026",
-                "time": "8:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/Template_questiontime_1920x1080-9.png"
-            },
-            null
+            }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Nipote 17enne uccide la zia insegnante. Il ricordo commosso dei suoi studenti: “Rimarrà sempre nei nostri cuori. Adesso faremo un bell’esame per lei”",
+                "link": "https://www.orizzontescuola.it/nipote-17enne-uccide-la-zia-insegnante-il-ricordo-commosso-dei-suoi-studenti-rimarra-sempre-nei-nostri-cuori-adesso-faremo-un-bellesame-per-lei/",
+                "date": "14 Giu 2026",
+                "time": "20:35",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Alunni con disabilità fermati bocciati a fine anno: il coordinamento sostegno attacca: “Subito regole chiare dal Ministero”",
+                "link": "https://www.orizzontescuola.it/alunni-con-disabilita-fermati-bocciati-a-fine-anno-il-coordinamento-sostegno-attacca-subito-regole-chiare-dal-ministero/",
+                "date": "14 Giu 2026",
+                "time": "20:30",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "“I ragazzi portano fuori quello che apprendono in casa”: l’affondo di Roberta Bruzzone sulle responsabilità dei genitori",
@@ -411,28 +434,20 @@
                 "date": "13 Giu 2026",
                 "time": "20:55",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Docenti aggrediti, l’allarme del Coordinamento Diritti Umani: serve una risposta educativa, non solo disciplinare",
-                "link": "https://www.orizzontescuola.it/docenti-aggrediti-lallarme-del-coordinamento-diritti-umani-serve-una-risposta-educativa-non-solo-disciplinare/",
-                "date": "13 Giu 2026",
-                "time": "19:08",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Rinnovo CCNL 2025-27, Anief presenta all’ARAN le proprie proposte: più diritti, welfare e tutele per il personale della scuola",
-                "link": "https://www.orizzontescuola.it/rinnovo-ccnl-2025-27-anief-presenta-allaran-le-proprie-proposte-piu-diritti-welfare-e-tutele-per-il-personale-della-scuola/",
-                "date": "13 Giu 2026",
-                "time": "18:15",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "GPS e GAE, scioglimento della riserva: come fare passo dopo passo con esempi pratici. VIDEO TUTORIAL con Vannini (Uil Scuola) LIVE Lunedì 15 giugno alle 14:30",
+                "link": "https://www.orizzontescuola.it/gps-e-gae-scioglimento-della-riserva-come-fare-passo-dopo-passo-con-esempi-pratici-video-tutorial-con-vannini-uil-scuola-live-lunedi-15-giugno-alle-1430/",
+                "date": "14 Giu 2026",
+                "time": "8:11",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Algoritmo GPS, la Cassazione mette un punto fermo sulle supplenze. DIRITTO IN CATTEDRA con AVV. MICELI VENERDI 12 GIUGNO ORE 16",
@@ -535,14 +550,6 @@
                 "link": "https://www.orizzontescuola.it/sostegno-agli-alunni-con-disabilita-le-decisioni-del-glo-devono-essere-applicate-subito-facciamo-chiarezza-con-lavvocato-walter-miceli-ed-evelina-chiocca/",
                 "date": "8 Mag 2026",
                 "time": "6:51",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Assunzione docenti 2026, chi ha rinunciato al ruolo può inserirsi negli elenchi regionali",
-                "link": "https://www.orizzontescuola.it/assunzione-docenti-2026-chi-ha-rinunciato-al-ruolo-puo-inserirsi-negli-elenchi-regionali/",
-                "date": "7 Mag 2026",
-                "time": "10:44",
                 "image_link": "N/A"
             }
         ]
