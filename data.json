@@ -32,6 +32,38 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Scuole",
+                "title": "Valorizzazione delle eccellenze, aggiornato l’elenco dei soggetti accreditati. Decreto",
+                "link": "https://www.orizzontescuola.it/valorizzazione-delle-eccellenze-aggiornato-lelenco-dei-soggetti-accreditati-decreto/",
+                "date": "17 Giu 2026",
+                "time": "22:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_2025845477.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Progetto made in Italy per tecnici e professionali, domande entro il 20 luglio. AVVISO",
+                "link": "https://www.orizzontescuola.it/progetto-made-in-italy-per-tecnici-e-professionali-domande-entro-il-20-luglio-avviso/",
+                "date": "17 Giu 2026",
+                "time": "21:54",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2507584013.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Mensa scolastica, dati di famiglie e minori inviati per errore: intervento del Garante per la privacy",
+                "link": "https://www.orizzontescuola.it/mensa-scolastica-dati-di-famiglie-e-minori-inviati-per-errore-intervento-del-garante-per-la-privacy/",
+                "date": "17 Giu 2026",
+                "time": "21:47",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_605927558.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Graduatorie ad esaurimento 2026, entro il 2 luglio si può inserire riserva per assunzioni",
+                "link": "https://www.orizzontescuola.it/graduatorie-ad-esaurimento-2026-entro-il-2-luglio-si-puo-inserire-riserva-per-assunzioni/",
+                "date": "17 Giu 2026",
+                "time": "21:16",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_409299112-scaled.jpg"
+            },
+            {
                 "category": "Politica scolastica",
                 "title": "PNRR, la scuola resta in attesa dei fondi. Il tavolo tecnico non scioglie i nodi: rendicontazione intermedia e il problema dei revisori",
                 "link": "https://www.orizzontescuola.it/pnrr-la-scuola-resta-in-attesa-dei-fondi-il-tavolo-tecnico-non-scioglie-i-nodi-rendicontazione-intermedia-e-il-problema-dei-revisori/",
@@ -126,7 +158,12 @@
                 "date": "17 Giu 2026",
                 "time": "13:07",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-06-at-08.48.51.jpeg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti infanzia e primaria PNRR3: ecco le graduatorie [AGGIORNATO]",
@@ -158,12 +195,7 @@
                 "date": "17 Giu 2026",
                 "time": "12:23",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/12/shutterstock_565597579.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             null,
             {
                 "category": "Diventare Insegnanti",
@@ -268,44 +300,20 @@
                 "date": "17 Giu 2026",
                 "time": "8:16",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2548819393.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Collaboratori scolastici, i posti vacanti per il 26/27 sono 21mila (4.600 nella sola Lombardia): posti per Regione e Provincia",
-                "link": "https://www.orizzontescuola.it/collaboratori-scolastici-i-posti-vacanti-per-il-26-27-sono-21mila-4-600-nella-sola-lombardia-posti-per-regione-e-provincia/",
-                "date": "17 Giu 2026",
-                "time": "8:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2421530637.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Maturità 2026: domani prova scritta per 527mila studenti: ecco come si svolgerà l’esame",
-                "link": "https://www.orizzontescuola.it/maturita-2026-domani-prova-scritta-per-527mila-studenti-ecco-come-si-svolgera-lesame/",
-                "date": "17 Giu 2026",
-                "time": "8:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_1299502534.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "10 studenti non ammessi su 27, “Con sette materie insufficienti vieni bocciato. I genitori? Facciano ricorso”",
-                "link": "https://www.orizzontescuola.it/10-studenti-non-ammessi-su-27-con-sette-materie-insufficienti-vieni-bocciato-i-genitori-facciano-ricorso/",
-                "date": "17 Giu 2026",
-                "time": "8:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2586165797.jpg"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "Ferie dei supplenti: cosa cambia dopo la sentenza della Cassazione. La scheda",
-                "link": "https://www.orizzontescuola.it/ferie-dei-supplenti-cosa-cambia-dopo-la-sentenza-della-cassazione-la-scheda/",
-                "date": "17 Giu 2026",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/10/shutterstock_547325908.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Genitori",
+                "title": "Foto dei minori sui social: sotto i 14 anni serve il consenso di entrambi i genitori. Il Garante ammonisce una madre",
+                "link": "https://www.orizzontescuola.it/foto-dei-minori-sui-social-serve-il-consenso-di-entrambi-i-genitori-il-garante-ammonisce-una-madre/",
+                "date": "17 Giu 2026",
+                "time": "22:04",
+                "image_link": "N/A"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "“La democrazia nasce tra i banchi di scuola”, l’appello di Anna Ascani per completare il percorso delle madri costituenti",
@@ -433,14 +441,6 @@
                 "link": "https://www.orizzontescuola.it/maturita-2026-aule-bollenti-e-9-studenti-su-10-senza-aria-ventilatori-portatili-e-lino-per-superare-lesame/",
                 "date": "17 Giu 2026",
                 "time": "13:02",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Graduatorie ad esaurimento: ecco le GaE pubblicate per il 2026/28 (e dove sono vuote)",
-                "link": "https://www.orizzontescuola.it/graduatorie-ad-esaurimento-ecco-le-gae-pubblicate-per-il-2026-28-e-dove-sono-vuote/",
-                "date": "17 Giu 2026",
-                "time": "12:58",
                 "image_link": "N/A"
             }
         ]
