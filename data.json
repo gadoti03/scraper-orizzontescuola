@@ -25,6 +25,30 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Concorso docenti infanzia e primaria PNRR3: ecco le graduatorie [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/graduatorie-concorso-docenti-infanzia-e-primaria-pnrr3-le-graduatorie-in-aggiornamento/",
+                "date": "19 Giu 2026",
+                "time": "22:33",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2518506853.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Nuove posizioni economiche ATA, ecco le graduatorie definitive [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/nuove-posizioni-economiche-ata-ecco-le-prime-graduatorie-provvisorie-in-aggiornamento/",
+                "date": "19 Giu 2026",
+                "time": "22:16",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_2030407835-scaled.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Studente cade a scuola mentre la docente compila il registro: istituto condannato, risarciti 6mila euro (ne chiedeva 220mila)",
+                "link": "https://www.orizzontescuola.it/la-docente-scriveva-sul-registro-mentre-lo-studente-cadeva-scuola-condannata-per-mancata-vigilanza-dovra-pagare-oltre-6mila-euro-la-famiglia-ne-chiede-circa-220mila/",
+                "date": "19 Giu 2026",
+                "time": "19:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_675123196.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Assunzione idonei concorso scuola PNRR3, “che fine fa” chi non risulta vincitore?",
                 "link": "https://www.orizzontescuola.it/assunzione-idonei-concorso-scuola-pnrr3-che-fine-fa-chi-non-risulta-vincitore/",
                 "date": "19 Giu 2026",
@@ -96,14 +120,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/shutterstock_2117849273.jpg"
             },
             {
-                "category": "ATA",
-                "title": "Nuove posizioni economiche ATA, ecco le graduatorie definitive [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/nuove-posizioni-economiche-ata-ecco-le-prime-graduatorie-provvisorie-in-aggiornamento/",
-                "date": "19 Giu 2026",
-                "time": "15:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_2030407835-scaled.jpg"
-            },
-            {
                 "category": "Studenti",
                 "title": "Medicina, pubblicati i Syllabus del semestre aperto per l’anno accademico 2026/2027: programmi aggiornati e più integrati",
                 "link": "https://www.orizzontescuola.it/medicina-pubblicati-i-syllabus-del-semestre-aperto-per-lanno-accademico-2026-2027-programmi-aggiornati-e-piu-integrati/",
@@ -120,14 +136,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2509111243.jpg"
             },
             {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti infanzia e primaria PNRR3: ecco le graduatorie [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/graduatorie-concorso-docenti-infanzia-e-primaria-pnrr3-le-graduatorie-in-aggiornamento/",
-                "date": "19 Giu 2026",
-                "time": "12:52",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2518506853.jpg"
-            },
-            {
                 "category": "Cronaca",
                 "title": "Maturità, sui social è raffica di aneddoti, l’esame rivive attraverso i ricordi: tra colpi di fortuna, professori distratti e strategie al limite del regolamento",
                 "link": "https://www.orizzontescuola.it/maturita-sui-social-e-raffica-di-aneddoti-lesame-rivive-attraverso-i-ricordi-tra-colpi-di-fortuna-professori-distratti-e-strategie-al-limite-del-regolamento/",
@@ -142,7 +150,12 @@
                 "date": "19 Giu 2026",
                 "time": "11:38",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/download-7.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Graduatorie GPS 2026: scioglie la riserva solo chi l’ha “prenotata” nella domanda del 16 marzo",
@@ -150,12 +163,7 @@
                 "date": "19 Giu 2026",
                 "time": "10:25",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_174922259.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Docenti",
                 "title": "Burocrazia, responsabilità, conflitti e contenziosi: ecco perché i docenti fuggono. CND: “Non mancano docenti, manca la scuola che li trattenga”",
@@ -284,20 +292,37 @@
                 "date": "18 Giu 2026",
                 "time": "18:12",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2745922143.jpg"
-            },
-            {
-                "category": "Plus",
-                "title": "“OrizzonteScuola7”, la newsletter settimanale di OrizzonteScuola. Iscriviti gratuitamente",
-                "link": "https://www.orizzontescuola.it/orizzontescuola7-la-newsletter-settimanale-di-orizzontescuola-iscriviti-gratuitamente/",
-                "date": "18 Giu 2026",
-                "time": "17:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/La-newsletter-per-Diventare-insegnante.png"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Meloni-Trump, il CNDDU: “Il linguaggio delle istituzioni non è mai neutro”",
+                "link": "https://www.orizzontescuola.it/meloni-trump-il-cnddu-il-linguaggio-delle-istituzioni-non-e-mai-neutro/",
+                "date": "19 Giu 2026",
+                "time": "21:18",
+                "image_link": "N/A"
+            },
+            null,
+            {
+                "category": "Politica scolastica",
+                "title": "Piano Casa, Valditara: “Priorità al personale scolastico, prosegue la nostra politica di welfare per la scuola”",
+                "link": "https://www.orizzontescuola.it/piano-casa-valditara-priorita-al-personale-scolastico-prosegue-la-nostra-politica-di-welfare-per-la-scuola/",
+                "date": "19 Giu 2026",
+                "time": "20:27",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Maturità 2026, Quintiliano alla seconda prova del Classico. Uto Ughi: “La musica è parte della formazione integrale”",
+                "link": "https://www.orizzontescuola.it/maturita-2026-quintiliano-alla-seconda-prova-del-classico-uto-ughi-la-musica-e-parte-della-formazione-integrale/",
+                "date": "19 Giu 2026",
+                "time": "19:55",
+                "image_link": "N/A"
+            },
             {
                 "category": "Comunicati stampa",
                 "title": "PNRR, Pacifico (Anief): carico burocratico-economico senza precedenti, chi ritiene un ostacolo l’operato dei Revisori dei conti non comprende la complessità delle procedure",
@@ -408,38 +433,6 @@
                 "link": "https://www.orizzontescuola.it/maturita-la-prima-prova-non-piace-1-studente-su-2-boccia-tutte-le-tracce/",
                 "date": "19 Giu 2026",
                 "time": "12:51",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Inclusione scolastica nelle Marche, oltre 3,4 milioni di euro per l’assistenza: la Regione sostiene 2.600 studenti con disabilità",
-                "link": "https://www.orizzontescuola.it/inclusione-scolastica-nelle-marche-oltre-34-milioni-di-euro-per-lassistenza-la-regione-sostiene-2-600-studenti-con-disabilita/",
-                "date": "19 Giu 2026",
-                "time": "12:49",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Tragedia in provincia di Ancona nel 2024, i genitori del 15enne in tribunale contro il Ministero: si indaga su presunta mancata vigilanza",
-                "link": "https://www.orizzontescuola.it/tragedia-in-provincia-di-ancona-nel-2024-i-genitori-del-15enne-in-tribunale-contro-il-ministero-si-indaga-per-presunto-bullismo-e-istigazione-al-suicidio/",
-                "date": "19 Giu 2026",
-                "time": "12:05",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Cuzzupi (Ugl Istruzione): “Il lavoro inclusivo non comincia con un contratto. Comincia con un’opportunità educativa”",
-                "link": "https://www.orizzontescuola.it/cuzzupi-ugl-istruzione-il-lavoro-inclusivo-non-comincia-con-un-contratto-comincia-con-unopportunita-educativa/",
-                "date": "19 Giu 2026",
-                "time": "12:00",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Maturità 2026, seconda prova: Pellai e Riva per mettere al centro il rapporto tra adolescenti e smartphone. La traccia per Liceo Scienze Umane",
-                "link": "https://www.orizzontescuola.it/maturita-2026-seconda-prova-pellai-e-riva-per-mettere-al-centro-il-rapporto-tra-adolescenti-e-smartphone/",
-                "date": "19 Giu 2026",
-                "time": "9:57",
                 "image_link": "N/A"
             }
         ]
