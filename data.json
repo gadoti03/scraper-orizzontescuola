@@ -24,6 +24,63 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Genitori",
+                "title": "Estate, allarme social per i minori: “Niente dispositivi come baby sitter”",
+                "link": "https://www.orizzontescuola.it/estate-allarme-social-per-i-minori-niente-dispositivi-come-baby-sitter/",
+                "date": "21 Giu 2026",
+                "time": "12:17",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2103022342.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Più del 14% dei docenti under 30 vuole lasciare l’insegnamento, ecco perché",
+                "link": "https://www.orizzontescuola.it/piu-del-14-dei-docenti-under-30-vuole-lasciare-linsegnamento-ecco-perche/",
+                "date": "21 Giu 2026",
+                "time": "10:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2619930297.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Immissioni in ruolo 2026/27: si potrà accettare nomina da concorso e poi da elenco regionale?",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-2026-27-si-potra-accettare-nomina-da-concorso-e-poi-da-elenco-regionale/",
+                "date": "21 Giu 2026",
+                "time": "10:32",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Docenti",
+                "title": "Naspi precari scuola 2026, tutte le info utili per fare la domanda di disoccupazione",
+                "link": "https://www.orizzontescuola.it/naspi-precari-scuola-2026-tutte-le-info-utili-per-fare-la-domanda-di-disoccupazione/",
+                "date": "21 Giu 2026",
+                "time": "10:18",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1912307944.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Divieto di utilizzo dell’intelligenza artificiale IA a scuola: stop per gli alunni sotto i 13 anni. Impiego graduale per gli studenti più grandi. La decisione della Norvegia",
+                "link": "https://www.orizzontescuola.it/divieto-di-utilizzo-dellintelligenza-artificiale-ia-a-scuola-stop-per-gli-alunni-sotto-i-13-anni-impiego-graduale-per-gli-studenti-piu-grandi-la-decisione-della-norvegia/",
+                "date": "21 Giu 2026",
+                "time": "9:51",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/09/shutterstock_1119083519.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Capacità attentive limitate, multitasking e apprendimento. L’illusione moderna del fare più cose insieme",
+                "link": "https://www.orizzontescuola.it/capacita-attentive-limitate-multitasking-e-apprendimento-lillusione-moderna-del-fare-piu-cose-insieme/",
+                "date": "21 Giu 2026",
+                "time": "9:06",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2608349287.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Maturità 2026, si avvicinano gli orali: colloquio rinnovato su quattro discipline, dura circa 45/60 minuti",
+                "link": "https://www.orizzontescuola.it/maturita-2026-si-avvicinano-gli-orali-colloquio-rinnovato-su-quattro-discipline-dura-circa-45-60-minuti/",
+                "date": "21 Giu 2026",
+                "time": "8:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/04/shutterstock_1495708661.jpg"
+            },
+            null,
+            {
                 "category": "Cronaca",
                 "title": "Bullismo a scuola? Famiglia di alunna chiede 23mila euro per danni morali e materiali, ma i giudici dicono no: “La scuola ha agito subito”",
                 "link": "https://www.orizzontescuola.it/bullismo-a-scuola-famiglia-di-alunna-chiede-23mila-euro-per-danni-morali-e-materiali-ma-i-giudici-dicono-no-la-scuola-ha-agito-subito/",
@@ -86,7 +143,12 @@
                 "date": "20 Giu 2026",
                 "time": "11:11",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_2162001981.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Docenti",
                 "title": "Scuola, D’Aprile (Uil): “Serve un piano per i precari, stop alla burocrazia e riconoscimento del burnout”",
@@ -150,12 +212,7 @@
                 "date": "20 Giu 2026",
                 "time": "8:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/consulenza_os.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Dirigenti scolastici",
                 "title": "Frontiera Adriatica, al via la sesta edizione della Scuola Estiva per docenti e dirigenti scolastici. Scadenza 25 giugno",
@@ -228,76 +285,36 @@
                 "date": "19 Giu 2026",
                 "time": "18:29",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/02/shutterstock_668259205.jpg"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Maturità 2026, Valditara sulle tracce: “Abbiamo voluto una Maturità che non fosse un esercizio astratto, ma una prova viva, capace di parlare al presente”",
-                "link": "https://www.orizzontescuola.it/maturita-2026-valditara-sulle-tracce-abbiamo-voluto-una-maturita-che-non-fosse-un-esercizio-astratto-ma-una-prova-viva-capace-di-parlare-al-presente/",
-                "date": "19 Giu 2026",
-                "time": "17:49",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/Screenshot-2026-06-10-alle-13.58.50.png"
-            },
-            {
-                "category": "Docenti",
-                "title": "Docenti in servizio fino al 31 agosto. Fine delle lezioni e fine dell’anno scolastico: due concetti diversi, gli obblighi. Il Punto di De Martino",
-                "link": "https://www.orizzontescuola.it/docenti-in-servizio-fino-al-31-agosto-fine-delle-lezioni-e-fine-dellanno-scolastico-due-concetti-diversi-gli-obblighi-dei-docenti-il-punto-di-de-martino/",
-                "date": "19 Giu 2026",
-                "time": "17:18",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/De_Martino.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Assunzione da concorso PNRR in arrivo: si compila comunque la domanda per le max 150 preferenze per le supplenze",
-                "link": "https://www.orizzontescuola.it/assunzione-da-concorso-pnrr-in-arrivo-si-compila-comunque-la-domanda-per-le-max-150-preferenze-per-le-supplenze/",
-                "date": "19 Giu 2026",
-                "time": "17:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2626799523.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Immissioni in ruolo docenti 2026, posti disponibili dopo la mobilità. Ecco in quali scuole [AGGIORNATO con Messina]",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2026-ecco-in-quali-scuole-sono-disponibili-i-posti/",
-                "date": "19 Giu 2026",
-                "time": "16:43",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2142727347.jpg"
-            },
-            {
-                "category": "Genitori",
-                "title": "Medicina, “Il decreto che definisce l’accesso per il prossimo anno accademico è in fase di pubblicazione”. Il Ministro Bernini risponde alla lettera di una mamma preoccupata",
-                "link": "https://www.orizzontescuola.it/semestre-filtro-a-medicina-trentamila-esclusi-dati-criticita-e-una-proposta-lettera-aperta-al-ministro-bernini/",
-                "date": "19 Giu 2026",
-                "time": "16:29",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2746945431-scaled.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Maturità 2026, tracce seconda prova: ecco i testi UFFICIALI per licei, istituti tecnici e professionali",
-                "link": "https://www.orizzontescuola.it/maturita-2026-tracce-seconda-prova-ecco-i-testi-ufficiali-per-licei-istituti-tecnici-e-professionali/",
-                "date": "19 Giu 2026",
-                "time": "15:24",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2507584013.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Arretrati CCNL Scuola: quando arrivano i pagamenti per docenti al 30 giugno e per chi ha svolto supplenze brevi? PILLOLE DI QUESTION TIME",
-                "link": "https://www.orizzontescuola.it/arretrati-ccnl-scuola-quando-arrivano-i-pagamenti-per-docenti-al-30-giugno-e-per-chi-ha-svolto-supplenze-brevi-pillole-di-question-time/",
-                "date": "19 Giu 2026",
-                "time": "15:07",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2538513237.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Pic-nic di fine anno a scuola, bambino in bicicletta investe compagno: genitori condannati al risarcimento di oltre 23mila euro. Ecco cosa hanno detto i giudici",
-                "link": "https://www.orizzontescuola.it/pic-nic-di-fine-anno-bambino-in-bicicletta-investe-compagno-genitori-condannati-al-risarcimento-di-oltre-23mila-euro-ecco-cosa-hanno-detto-i-giudici/",
-                "date": "19 Giu 2026",
-                "time": "15:06",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/03/shutterstock_2117849273.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Genitori",
+                "title": "Odio online e giovani: il 54% dei ragazzi è esposto a messaggi ostili, ma sono le donne le vittime principali con il 57,2%",
+                "link": "https://www.orizzontescuola.it/odio-online-e-giovani-il-54-dei-ragazzi-e-esposto-a-messaggi-ostili-ma-sono-le-donne-le-vittime-principali-con-il-572/",
+                "date": "21 Giu 2026",
+                "time": "11:15",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Maturità, Portas critica le tracce: “Donne quasi assenti, grave l’esclusione di Grazia Deledda nell’anno del centenario del Nobel”",
+                "link": "https://www.orizzontescuola.it/maturita-portas-critica-le-tracce-donne-quasi-assenti-grave-lesclusione-di-grazia-deledda-nellanno-del-centenario-del-nobel/",
+                "date": "21 Giu 2026",
+                "time": "10:25",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Valditara replica a Vannacci: “Le grandi sparate hanno effetto nell’immediato, ma i cittadini chiedono risultati”",
+                "link": "https://www.orizzontescuola.it/valditara-replica-a-vannacci-le-grandi-sparate-hanno-effetto-nellimmediato-ma-i-cittadini-chiedono-risultati/",
+                "date": "21 Giu 2026",
+                "time": "8:57",
+                "image_link": "N/A"
+            },
             null,
             {
                 "category": "Genitori",
@@ -402,30 +419,6 @@
                 "link": "https://www.orizzontescuola.it/maturita-2026-quintiliano-alla-seconda-prova-del-classico-uto-ughi-la-musica-e-parte-della-formazione-integrale/",
                 "date": "19 Giu 2026",
                 "time": "19:55",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "PNRR, Pacifico (Anief): carico burocratico-economico senza precedenti, chi ritiene un ostacolo l’operato dei Revisori dei conti non comprende la complessità delle procedure",
-                "link": "https://www.orizzontescuola.it/pnrr-pacifico-anief-carico-burocratico-economico-senza-precedenti-chi-ritiene-un-ostacolo-loperato-dei-revisori-dei-conti-non-comprende-la-complessita-delle-procedure/",
-                "date": "19 Giu 2026",
-                "time": "19:49",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Maturità 2026, seconda prova: Quintiliano rassicura il Classico, Matematica spaventa lo Scientifico. Commissari esterni promossi dagli studenti",
-                "link": "https://www.orizzontescuola.it/maturita-2026-seconda-prova-quintiliano-rassicura-il-classico-matematica-spaventa-lo-scientifico-commissari-esterni-promossi-dagli-studenti/",
-                "date": "19 Giu 2026",
-                "time": "18:23",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Onestà premiata: due studenti riconsegnano portafoglio con soldi alla Questura e ricevono encomio ufficiale",
-                "link": "https://www.orizzontescuola.it/onesta-premiata-due-studenti-riconsegnano-portafoglio-con-soldi-alla-questura-e-ricevono-encomio-ufficiale/",
-                "date": "19 Giu 2026",
-                "time": "16:33",
                 "image_link": "N/A"
             }
         ]
@@ -551,6 +544,30 @@
         "title": "Diventare Insegnanti",
         "articles": [
             {
+                "category": "Dirigenti scolastici",
+                "title": "Concorso annullato, il Consiglio di Stato: la scelta della busta non basta, le domande dell’orale devono essere estratte a sorte. Cosa hanno detto i giudici",
+                "link": "https://www.orizzontescuola.it/concorso-annullatto-il-consiglio-di-stato-la-scelta-della-busta-non-basta-le-domande-dellorale-devono-essere-estratte-a-sorte-cosa-hanno-detto-i-giudici/",
+                "date": "19 Giu 2026",
+                "time": "8:43",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2511280269.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Elenchi regionali 2026 per il ruolo docenti, ecco le graduatorie [AGGIORNATO con Lombardia]",
+                "link": "https://www.orizzontescuola.it/elenchi-regionali-2026-per-il-ruolo-docenti-ecco-le-graduatorie-in-aggiornamento/",
+                "date": "18 Giu 2026",
+                "time": "19:21",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "GPS e GAE, al via lo scioglimento delle riserve fino al 2 luglio. Craparo: “È il momento di dichiarare i titoli conseguiti. Occhio alle novità”. Il Punto",
+                "link": "https://www.orizzontescuola.it/gps-e-gae-al-via-lo-scioglimento-delle-riserve-fino-al-2-luglio-craparo-e-il-momento-di-dichiarare-i-titoli-conseguiti-occhio-alle-novita-il-punto/",
+                "date": "18 Giu 2026",
+                "time": "14:45",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/simone_capraro_2.png"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "VIDEO TUTORIAL | GPS, scioglimento della riserva: tutti i passaggi spiegati con esempi concreti",
                 "link": "https://www.orizzontescuola.it/video-tutorial-gps-scioglimento-della-riserva-tutti-i-passaggi-spiegati-con-esempi-concreti/",
@@ -573,30 +590,6 @@
                 "date": "18 Giu 2026",
                 "time": "8:12",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2471109109-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Graduatorie ad esaurimento 2026, entro il 2 luglio si può inserire riserva per assunzioni",
-                "link": "https://www.orizzontescuola.it/graduatorie-ad-esaurimento-2026-entro-il-2-luglio-si-puo-inserire-riserva-per-assunzioni/",
-                "date": "17 Giu 2026",
-                "time": "21:16",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_409299112-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Riconferma supplenza sostegno, entro il 26 giugno il terzo step. A cura dei Dirigenti Scolastici",
-                "link": "https://www.orizzontescuola.it/riconferma-supplenza-sostegno-entro-il-26-giugno-il-terzo-step-a-cura-dei-dirigenti-scolastici/",
-                "date": "17 Giu 2026",
-                "time": "18:24",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/mad-online-laureati-graduatorie-1-2-1-2.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "“Lodevole servizio” maturato grazie alla riserva entro il 30 giugno non può essere inserito adesso nella domanda GPS",
-                "link": "https://www.orizzontescuola.it/lodevole-servizio-maturato-grazie-alla-riserva-entro-il-30-giugno-non-puo-essere-inserito-adesso-nella-domanda-gps/",
-                "date": "17 Giu 2026",
-                "time": "14:17",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1129962923-scaled.jpg"
             }
         ]
     },
@@ -711,6 +704,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Medicina e Veterinaria, la lettera aperta alla ministra Bernini: “Il merito non può dipendere dal reddito familiare”",
+                "link": "https://www.orizzontescuola.it/medicina-e-veterinaria-la-lettera-aperta-alla-ministra-bernini-il-merito-non-puo-dipendere-dal-reddito-familiare/",
+                "date": "21 Giu 2026",
+                "time": "10:37",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "Coltivare nella scuola la “magnifica humanitas”. Lettera",
                 "link": "https://www.orizzontescuola.it/coltivare-nella-scuola-la-magnifica-humanitas-lettera/",
                 "date": "14 Giu 2026",
@@ -747,14 +748,6 @@
                 "link": "https://www.orizzontescuola.it/la-scrittura-in-corsivo-e-una-cosa-rara-lettera-2/",
                 "date": "12 Giu 2026",
                 "time": "10:50",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Basta riforme di facciata: servono meno burocrazia e più risorse. Lettera",
-                "link": "https://www.orizzontescuola.it/basta-riforme-di-facciata-servono-meno-burocrazia-e-piu-risorse-lettera/",
-                "date": "10 Giu 2026",
-                "time": "13:10",
                 "image_link": "N/A"
             }
         ]
