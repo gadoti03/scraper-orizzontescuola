@@ -24,6 +24,54 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Politica scolastica",
+                "title": "“Burocrazia inutile, basta rinvii”, Pacifico (Anief): “Il Ministero dia ok subito alle riunioni scolastiche online”",
+                "link": "https://www.orizzontescuola.it/burocrazia-inutile-basta-rinvii-pacifico-anief-il-ministero-dia-ok-subito-alle-riunioni-scolastiche-online/",
+                "date": "21 Giu 2026",
+                "time": "19:23",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/Screenshot-2026-05-06-alle-08.04.06.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Vietato ai minori di 16 anni, la corsa delle leggi si scontra con i fatti.  Il problema? Le piattaforme non sanno (o non vogliono) davvero controllare l’età",
+                "link": "https://www.orizzontescuola.it/vietato-ai-minori-di-16-anni-la-corsa-dei-governi-contro-tiktok-e-instagram/",
+                "date": "21 Giu 2026",
+                "time": "18:45",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2726679997.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Scorrimento graduatorie concorsi docenti PNRR: come funziona l’elenco degli idonei entro il 30%",
+                "link": "https://www.orizzontescuola.it/scorrimento-graduatorie-concorsi-docenti-pnrr-come-funziona-lelenco-degli-idonei-entro-il-30/",
+                "date": "21 Giu 2026",
+                "time": "16:48",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/teacher.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Pagelle dei figli sui social, quel gesto apparentemente innocuo che nasconde una trappola psicologica",
+                "link": "https://www.orizzontescuola.it/pagelle-dei-figli-sui-social-quel-gesto-apparentemente-innocuo-che-nasconde-una-trappola-psicologica/",
+                "date": "21 Giu 2026",
+                "time": "14:28",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_74012506-scaled-e1781773792913.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "In attesa della firma del CCNL Scuola 2025-27: quale l’iter da seguire? Quando arriveranno gli aumenti e gli arretrati? Le tre finestre temporali possibili",
+                "link": "https://www.orizzontescuola.it/in-attesa-della-firma-del-ccnl-scuola-2025-27-quale-liter-da-seguire-quando-arriveranno-gli-aumenti-e-gli-arretrati-le-tre-finestre-temporali-possibili/",
+                "date": "21 Giu 2026",
+                "time": "14:09",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2530339755.jpg"
+            },
+            {
+                "category": "Genitori",
+                "title": "Voti e promozioni? Le vere armi per il futuro sono empatia e resilienza. Le parole della pedagogista Federica Ciccanti",
+                "link": "https://www.orizzontescuola.it/voti-e-promozioni-le-vere-armi-per-il-futuro-sono-empatia-e-resilienza-le-parole-della-pedagogista-federica-ciccanti/",
+                "date": "21 Giu 2026",
+                "time": "14:03",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/03/pagella.jpg"
+            },
+            {
                 "category": "Genitori",
                 "title": "Estate, allarme social per i minori: “Niente dispositivi come baby sitter”",
                 "link": "https://www.orizzontescuola.it/estate-allarme-social-per-i-minori-niente-dispositivi-come-baby-sitter/",
@@ -95,7 +143,12 @@
                 "date": "20 Giu 2026",
                 "time": "16:57",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/shutterstock_2693679457.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Frattura al naso in classe per l’alunno, i genitori fanno causa alla scuola: perdono e devono pagare 5mila euro di spese",
@@ -143,12 +196,7 @@
                 "date": "20 Giu 2026",
                 "time": "11:11",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/shutterstock_2162001981.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Docenti",
                 "title": "Scuola, D’Aprile (Uil): “Serve un piano per i precari, stop alla burocrazia e riconoscimento del burnout”",
@@ -244,53 +292,28 @@
                 "date": "20 Giu 2026",
                 "time": "6:15",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2784366085.jpg"
-            },
-            null,
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Concorso docenti infanzia e primaria PNRR3: ecco le graduatorie [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/graduatorie-concorso-docenti-infanzia-e-primaria-pnrr3-le-graduatorie-in-aggiornamento/",
-                "date": "19 Giu 2026",
-                "time": "22:33",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2518506853.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Nuove posizioni economiche ATA, ecco le graduatorie definitive [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/nuove-posizioni-economiche-ata-ecco-le-prime-graduatorie-provvisorie-in-aggiornamento/",
-                "date": "19 Giu 2026",
-                "time": "22:16",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_2030407835-scaled.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Studente cade a scuola mentre la docente compila il registro: istituto condannato, risarciti 6mila euro (ne chiedeva 220mila)",
-                "link": "https://www.orizzontescuola.it/la-docente-scriveva-sul-registro-mentre-lo-studente-cadeva-scuola-condannata-per-mancata-vigilanza-dovra-pagare-oltre-6mila-euro-la-famiglia-ne-chiede-circa-220mila/",
-                "date": "19 Giu 2026",
-                "time": "19:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_675123196.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Assunzione idonei concorso scuola PNRR3, “che fine fa” chi non risulta vincitore?",
-                "link": "https://www.orizzontescuola.it/assunzione-idonei-concorso-scuola-pnrr3-che-fine-fa-chi-non-risulta-vincitore/",
-                "date": "19 Giu 2026",
-                "time": "18:34",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/shutterstock_2693679457.jpg"
-            },
-            {
-                "category": "Nessuna categoria",
-                "title": "Maturità 2026, colloqui dopo gli scritti: non servono 48 ore, voti su tabelloni e registro elettronico. FAQ Ministero",
-                "link": "https://www.orizzontescuola.it/maturita-2026-colloqui-dopo-gli-scritti-non-servono-48-ore-voti-su-tabelloni-e-registro-elettronico-faq-ministero/",
-                "date": "19 Giu 2026",
-                "time": "18:29",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/02/shutterstock_668259205.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Genitori",
+                "title": "Nidi gratis in Sardegna, nuove linee guida: domanda unica per le famiglie",
+                "link": "https://www.orizzontescuola.it/nidi-gratis-in-sardegna-nuove-linee-guida-domanda-unica-per-le-famiglie/",
+                "date": "21 Giu 2026",
+                "time": "15:55",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Pensioni",
+                "title": "Contributi INPS, dal 17 giugno sono cambiati interessi e sanzioni. Circolare",
+                "link": "https://www.orizzontescuola.it/contributi-inps-dal-17-giugno-sono-cambiati-interessi-e-sanzioni-circolare/",
+                "date": "21 Giu 2026",
+                "time": "15:02",
+                "image_link": "N/A"
+            },
             {
                 "category": "Genitori",
                 "title": "Odio online e giovani: il 54% dei ragazzi è esposto a messaggi ostili, ma sono le donne le vittime principali con il 57,2%",
@@ -404,23 +427,7 @@
                 "time": "21:18",
                 "image_link": "N/A"
             },
-            null,
-            {
-                "category": "Politica scolastica",
-                "title": "Piano Casa, Valditara: “Priorità al personale scolastico, prosegue la nostra politica di welfare per la scuola”",
-                "link": "https://www.orizzontescuola.it/piano-casa-valditara-priorita-al-personale-scolastico-prosegue-la-nostra-politica-di-welfare-per-la-scuola/",
-                "date": "19 Giu 2026",
-                "time": "20:27",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Maturità 2026, Quintiliano alla seconda prova del Classico. Uto Ughi: “La musica è parte della formazione integrale”",
-                "link": "https://www.orizzontescuola.it/maturita-2026-quintiliano-alla-seconda-prova-del-classico-uto-ughi-la-musica-e-parte-della-formazione-integrale/",
-                "date": "19 Giu 2026",
-                "time": "19:55",
-                "image_link": "N/A"
-            }
+            null
         ]
     },
     "group_5": {
@@ -544,6 +551,14 @@
         "title": "Diventare Insegnanti",
         "articles": [
             {
+                "category": "Diventare Insegnanti",
+                "title": "GPS 2026: chi aveva chiesto la riserva, ma non consegue l’abilitazione entro il 30 giugno, non deve compilare nessuna domanda",
+                "link": "https://www.orizzontescuola.it/gps-2026-chi-aveva-chiesto-la-riserva-ma-non-consegue-labilitazione-entro-il-30-giugno-non-deve-compilare-nessuna-domanda/",
+                "date": "19 Giu 2026",
+                "time": "8:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_605958425.jpg"
+            },
+            {
                 "category": "Dirigenti scolastici",
                 "title": "Concorso annullato, il Consiglio di Stato: la scelta della busta non basta, le domande dell’orale devono essere estratte a sorte. Cosa hanno detto i giudici",
                 "link": "https://www.orizzontescuola.it/concorso-annullatto-il-consiglio-di-stato-la-scelta-della-busta-non-basta-le-domande-dellorale-devono-essere-estratte-a-sorte-cosa-hanno-detto-i-giudici/",
@@ -582,20 +597,20 @@
                 "date": "18 Giu 2026",
                 "time": "13:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-06-at-08.48.51.jpeg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze, docente escluso dall’algoritmo. Gli spetta un risarcimento",
-                "link": "https://www.orizzontescuola.it/supplenze-docente-escluso-dallalgoritmo-gli-spetta-un-risarcimento/",
-                "date": "18 Giu 2026",
-                "time": "8:12",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2471109109-scaled.jpg"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
+            {
+                "category": "ATA",
+                "title": "Personale ATA: posti disponibili dopo la mobilità 2026. Ecco in quali scuole per ruoli e supplenze [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/personale-ata-posti-disponibili-dopo-la-mobilita-2026-ecco-in-quali-scuole-per-ruoli-e-supplenze-aggiornato/",
+                "date": "18 Giu 2026",
+                "time": "14:06",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_2167465293.jpg"
+            },
             {
                 "category": "ATA",
                 "title": "Assistenti tecnici: 3.597 posti vacanti per il 2026/27. Ecco dove, Lombardia e Veneto in testa",
@@ -635,14 +650,6 @@
                 "date": "16 Giu 2026",
                 "time": "15:49",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/01/secretary-2199013_960_720.jpg"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "Albo fornitori: modalità di costituzione, con regolamento e avviso pubblico da scaricare",
-                "link": "https://www.orizzontescuola.it/albo-fornitori-modalita-di-costituzione-con-regolamento-e-avviso-pubblico-da-scaricare/",
-                "date": "16 Giu 2026",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2649192627.jpg"
             }
         ]
     },
