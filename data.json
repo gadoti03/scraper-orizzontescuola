@@ -3,12 +3,12 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
-                "category": "Docenti",
-                "title": "Maturità: “Per me è stata un incubo”. Le confessioni di una Preside, “da allora mi ammalai”. INTERVISTA ad Antonella Lucirino",
-                "link": "https://www.orizzontescuola.it/maturita-per-me-e-stata-un-incubo-le-confessioni-di-una-preside-da-allora-mi-ammalai-intervista-ad-antonella-lucirino/",
+                "category": "Diventare Insegnanti",
+                "title": "Graduatorie del concorso scuola PNRR3: come vengono inseriti i vincitori riservisti? CHIARIMENTI",
+                "link": "https://www.orizzontescuola.it/graduatorie-del-concorso-scuola-pnrr3-come-vengono-inseriti-i-vincitori-riservisti-chiarimenti/",
                 "date": "23 Giu 2026",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/Lucirino.png"
+                "time": "21:57",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_713874685.jpg"
             },
             null
         ]
@@ -16,6 +16,14 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Esame di terza media, il TAR dice no ai genitori che contestano il 9: “Valutazione dei docenti è insindacabile. Nelle prove del figlio errori grammaticali e formule sbagliate”",
+                "link": "https://www.orizzontescuola.it/esame-di-terza-media-il-tar-dice-no-ai-genitori-che-contestano-il-9-la-valutazione-del-consiglio-di-classe-e-insindacabile-nelle-prove-del-figlio-errori-grammaticali-e-formule-sbagliate/",
+                "date": "23 Giu 2026",
+                "time": "20:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/12/shutterstock_565597579.jpg"
+            },
             {
                 "category": "Cronaca",
                 "title": "Asili nido, il miraggio del Pnrr: oggi solo 1 bimbo su 4 ha un posto. Oltre la metà dei soldi (54%) non è ancora stata spesa",
@@ -30,7 +38,7 @@
                 "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2026-da-concorso-e-possibile-inserire-solo-la-provincia-piu-gradita-qual-e-il-rischio/",
                 "date": "23 Giu 2026",
                 "time": "19:00",
-                "image_link": "N/A"
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/09/shutterstock_1653288208.jpg"
             },
             {
                 "category": "Diventare Insegnanti",
@@ -38,7 +46,7 @@
                 "link": "https://www.orizzontescuola.it/le-date-provvisorie-per-le-immissioni-in-ruolo-le-assegnazioni-provvisorie-e-le-nomine-gps-dei-docenti-per-la-s-2026-27/",
                 "date": "23 Giu 2026",
                 "time": "17:29",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2619930297.jpg"
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2583891963.jpg"
             },
             {
                 "category": "Diventare Insegnanti",
@@ -135,7 +143,12 @@
                 "date": "23 Giu 2026",
                 "time": "11:47",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_668259205.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Maturità 2026, prove suppletive dal 1° luglio per chi era assente per malattia o grave motivo",
@@ -143,12 +156,7 @@
                 "date": "23 Giu 2026",
                 "time": "11:17",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/02/shutterstock_1536693014.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Immissioni in ruolo docenti 2026/2027: il contingente autorizzato dal MEF non potrà superare il numero dei posti rimasti dalla mobilità",
@@ -245,6 +253,14 @@
                 "time": "8:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2661038637.jpg"
             },
+            {
+                "category": "Docenti",
+                "title": "Maturità: “Per me è stata un incubo”. Le confessioni di una Preside, “da allora mi ammalai”. INTERVISTA ad Antonella Lucirino",
+                "link": "https://www.orizzontescuola.it/maturita-per-me-e-stata-un-incubo-le-confessioni-di-una-preside-da-allora-mi-ammalai-intervista-ad-antonella-lucirino/",
+                "date": "23 Giu 2026",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/Lucirino.png"
+            },
             null,
             null,
             {
@@ -255,16 +271,7 @@
                 "time": "7:36",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/Template_questiontime_1920x1080-14.png"
             },
-            null,
-            null,
-            {
-                "category": "Docenti",
-                "title": "Assegnazioni provvisorie e utilizzazioni docenti, in attesa del CCNI 2026/27: quando si perde il punteggio di continuità?",
-                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-e-utilizzazioni-docenti-in-attesa-del-ccni-2026-27-quando-si-perde-il-punteggio-di-continuita/",
-                "date": "23 Giu 2026",
-                "time": "7:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/shutterstock_2693679457.jpg"
-            }
+            null
         ]
     },
     "group_4": {
@@ -272,10 +279,26 @@
         "articles": [
             {
                 "category": "Cronaca",
-                "title": "Sicurezza stradale, nasce la task force interministeriale: Salvini, Piantedosi e Valditara puntano su controlli e prevenzione",
+                "title": "Ondata di calore nel Regno Unito, centinaia di scuole chiuse o a orario ridotto: la protesta dei sindacati sui fondi per l’edilizia",
+                "link": "https://www.orizzontescuola.it/ondata-di-calore-nel-regno-unito-centinaia-di-scuole-chiuse-o-a-orario-ridotto-la-protesta-dei-sindacati-sui-fondi-per-ledilizia/",
+                "date": "23 Giu 2026",
+                "time": "21:22",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Piemonte, voucher scuola per tutti: aperte le domande fino a luglio. Le info utili",
+                "link": "https://www.orizzontescuola.it/piemonte-voucher-scuola-per-tutti-aperte-le-domande-fino-a-luglio-le-info-utili/",
+                "date": "23 Giu 2026",
+                "time": "20:11",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Nasce la task force interministeriale tra Salvini, Piantedosi e Valditara: entro luglio 15 milioni per progetti di educazione stradale",
                 "link": "https://www.orizzontescuola.it/sicurezza-stradale-nasce-la-task-force-interministeriale-salvini-piantedosi-e-valditara-puntano-su-controlli-e-prevenzione/",
                 "date": "23 Giu 2026",
-                "time": "19:34",
+                "time": "19:50",
                 "image_link": "N/A"
             },
             {
@@ -396,22 +419,6 @@
                 "link": "https://www.orizzontescuola.it/merito-contro-famiglia-il-nodo-delle-assegnazioni-provvisorie-spacca-il-mondo-della-scuola-il-cnddu-una-discriminazione-legalizzata-ecco-perche/",
                 "date": "23 Giu 2026",
                 "time": "11:36",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "Scuole e crisi climatica, preiscrizioni aperte a PAESC School per docenti di secondaria e CPIA",
-                "link": "https://www.orizzontescuola.it/scuole-e-crisi-climatica-preiscrizioni-aperte-a-paesc-school-per-docenti-di-secondaria-e-cpia/",
-                "date": "23 Giu 2026",
-                "time": "11:35",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "Domande entro il 24 giugno 2026 per la Scuola estiva “Dante per la scuola”",
-                "link": "https://www.orizzontescuola.it/domande-entro-il-24-giugno-2026-per-la-scuola-estiva-dante-per-la-scuola/",
-                "date": "23 Giu 2026",
-                "time": "11:20",
                 "image_link": "N/A"
             }
         ]
