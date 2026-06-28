@@ -24,6 +24,14 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "La scuola non poteva sapere del disturbo e la diagnosi è arrivata tardi: il Consiglio di Stato dà ragione all’istituto e conferma la bocciatura di un’alunna",
+                "link": "https://www.orizzontescuola.it/la-scuola-non-poteva-sapere-del-disturbo-e-la-diagnosi-e-arrivata-tardi-il-consiglio-di-stato-da-ragione-allistituto-e-conferma-la-bocciatura-di-unalunna/",
+                "date": "27 Giu 2026",
+                "time": "19:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_282701687.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "TFA Sostegno XI ciclo, il 20% delle ore si potrà seguire in modalità digitale. Cosa si potrà fare e cosa no",
                 "link": "https://www.orizzontescuola.it/tfa-sostegno-xi-ciclo-il-20-delle-ore-si-potra-seguire-in-modalita-digitale-lo-prevede-il-decreto-ministeriale/",
@@ -142,7 +150,12 @@
                 "date": "27 Giu 2026",
                 "time": "11:11",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/shutterstock_1342377170.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Gli elenchi regionali per il ruolo verranno utilizzati nei prossimi anni al posto di nuovi concorsi?",
@@ -150,12 +163,7 @@
                 "date": "27 Giu 2026",
                 "time": "10:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2340432661.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             null,
             {
                 "category": "Cronaca",
@@ -263,20 +271,28 @@
                 "date": "26 Giu 2026",
                 "time": "20:46",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/shutterstock_2699035879.jpg"
-            },
-            {
-                "category": "Genitori",
-                "title": "Docenti arrabbiati o felici? La ricerca che smonta tutto quel che credevamo sulla didattica: le emozioni pesano più dei programmi scolastici, ecco perché",
-                "link": "https://www.orizzontescuola.it/docenti-arrabbiati-o-felici-la-ricerca-che-smonta-tutto-quel-che-credevamo-sulla-didattica-le-emozioni-pesano-piu-dei-programmi-scolastici-ecco-perche/",
-                "date": "26 Giu 2026",
-                "time": "20:35",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/shutterstock_2693679457.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Social, multa fino a 99 milioni di dollari in Australia per chi non blocca i minori di 16 anni",
+                "link": "https://www.orizzontescuola.it/social-multa-fino-a-99-milioni-di-dollari-in-australia-per-chi-non-blocca-i-minori-di-16-anni/",
+                "date": "27 Giu 2026",
+                "time": "19:26",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Informativa Mim, immissioni in ruolo. Anief auspica su 100% dei posti disponibili",
+                "link": "https://www.orizzontescuola.it/informativa-mim-immissioni-in-ruolo-anief-auspica-su-100-dei-posti-disponibili/",
+                "date": "27 Giu 2026",
+                "time": "19:12",
+                "image_link": "N/A"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Riforma istituti tecnici, genitori ricorrono al Colle: “Non si può cambiare la scuola dopo che gli studenti l’hanno scelta. Il Ministero ci ha traditi”",
@@ -403,22 +419,6 @@
                 "link": "https://www.orizzontescuola.it/nuovo-comitato-unico-di-garanzia-al-mim-in-carica-per-4-anni-ecco-chi-vigilera-su-pari-opportunita-e-benessere-dei-lavoratori-decreto/",
                 "date": "26 Giu 2026",
                 "time": "18:57",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Genitori",
-                "title": "Dipendenza digitale, Crepet: “Siamo tecnologicamente avanzati, ma emotivamente impoveriti”",
-                "link": "https://www.orizzontescuola.it/dipendenza-digitale-crepet-siamo-tecnologicamente-avanzati-ma-emotivamente-impoveriti/",
-                "date": "26 Giu 2026",
-                "time": "17:38",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Scuole bollenti, il Pd interroga il Ministro: “Aule da forno, servono piani immediati”",
-                "link": "https://www.orizzontescuola.it/scuole-bollenti-il-pd-interroga-il-ministro-aule-da-forno-servono-piani-immediati/",
-                "date": "26 Giu 2026",
-                "time": "16:35",
                 "image_link": "N/A"
             }
         ]
@@ -606,6 +606,14 @@
             },
             {
                 "category": "ATA",
+                "title": "Graduatorie ATA 24 mesi, allegato G: come fare la domanda passo dopo passo. QUESTION TIME con Sorrentino (ANIEF)",
+                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-allegato-g-come-fare-la-domanda-passo-dopo-passo-question-time-con-sorrentino-anief-live-giovedi-25-giugno-alle-1430/",
+                "date": "25 Giu 2026",
+                "time": "11:21",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/Template_questiontime_1920x1080-16.png"
+            },
+            {
+                "category": "ATA",
                 "title": "Arretrati e aumenti docenti e ATA tra luglio e agosto, entro 10 giorni la firma definitiva sull’intesa economica. I possibili scenari",
                 "link": "https://www.orizzontescuola.it/arretrati-e-aumenti-docenti-e-ata-tra-luglio-e-agosto-entro-10-giorni-la-firma-definitiva-sullintesa/",
                 "date": "24 Giu 2026",
@@ -635,14 +643,6 @@
                 "date": "23 Giu 2026",
                 "time": "15:48",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_2030407835-scaled.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Buoni pasto per il personale della scuola, ancora nessuna novità",
-                "link": "https://www.orizzontescuola.it/buoni-pasto-per-il-personale-della-scuola-ancora-nessuna-novita/",
-                "date": "23 Giu 2026",
-                "time": "13:56",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/09/Buoni-pasto-1200x800.jpg"
             }
         ]
     },
