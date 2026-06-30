@@ -24,6 +24,46 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Diventare Insegnanti",
+                "title": "TFA sostegno XI ciclo, alcuni BANDI già aperti, pochi giorni per le iscrizioni [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/tfa-sostegno-xi-ciclo-le-universita-hanno-chiesto-posti-anche-per-la-secondaria-ii-grado-ecco-dove-le-pagine-gia-attive/",
+                "date": "29 Giu 2026",
+                "time": "22:47",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Alunna bocciata per il voto in condotta, i giudici dicono che la scuola “ha fatto bene”: “Avevano avvertito la famiglia in più occasioni”",
+                "link": "https://www.orizzontescuola.it/alunna-bocciata-per-il-voto-in-condotta-i-giudici-dicono-che-la-scuola-ha-fatto-bene-avevano-avvertito-la-famiglia-in-piu-occasioni/",
+                "date": "29 Giu 2026",
+                "time": "21:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_1054012055-scaled.jpg"
+            },
+            {
+                "category": "Didattica",
+                "title": "La pazza gioia: il road trip di Paolo Virzì sulla salute mentale e le relazioni che curano. Insegnare con i film",
+                "link": "https://www.orizzontescuola.it/la-pazza-gioia-il-road-trip-di-paolo-virzi-sulla-salute-mentale-e-le-relazioni-che-curano-insegnare-con-i-film/",
+                "date": "29 Giu 2026",
+                "time": "21:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/05/cinema-1200x800.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Graduatorie ATA 24 mesi, allegato G: ecco a cosa fare attenzione. Le info utili. QUESTION TIME con Dal Pino (Anief) LIVE Martedì 30 giugno alle 15:00",
+                "link": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-allegato-g-ecco-a-cosa-fare-attenzione-le-info-utili-question-time-con-dal-pino-anief-live-martedi-30-giugno-alle-1500/",
+                "date": "29 Giu 2026",
+                "time": "20:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/1-1.png"
+            },
+            {
+                "category": "Nessuna categoria",
+                "title": "Immissioni in ruolo docenti, facciamo chiarezza su fasi, graduatorie e tempistiche. QUESTION TIME con Cozzetto (Anief) LIVE Martedì 30 giugno alle 16:00",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-facciamo-chiarezza-su-fasi-graduatorie-e-tempistiche-question-time-con-cozzetto-anief-live-martedi-30-giugno-alle-1600/",
+                "date": "29 Giu 2026",
+                "time": "20:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/Template_questiontime_1920x1080-20.png"
+            },
+            {
                 "category": "Docenti",
                 "title": "Nuove indicazioni nazionali liceo, educazione affettiva: prevenzione, alleanza con le famiglie e rispetto al centro. Le novità",
                 "link": "https://www.orizzontescuola.it/educazione-affettiva-le-novita-delle-indicazioni-prevenzione-alleanza-con-le-famiglie-e-rispetto-al-centro/",
@@ -110,7 +150,12 @@
                 "date": "29 Giu 2026",
                 "time": "15:15",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/shutterstock_735971932.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Immissioni in ruolo docenti 2026, posti disponibili dopo la mobilità. Ecco in quali scuole [AGGIORNATO con Torino]",
@@ -143,19 +188,6 @@
                 "time": "14:02",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/Screenshot-2026-05-27-alle-17.19.28.png"
             },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "TFA sostegno XI ciclo, ecco le pagine delle Università. BANDI a breve, pochi giorni per le iscrizioni [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/tfa-sostegno-xi-ciclo-le-universita-hanno-chiesto-posti-anche-per-la-secondaria-ii-grado-ecco-dove-le-pagine-gia-attive/",
-                "date": "29 Giu 2026",
-                "time": "13:36",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_201188801.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Concorso docenti PNRR3 scuola secondaria: ecco le graduatorie per le assunzioni [AGGIORNATO]",
@@ -253,32 +285,7 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/08/shutterstock_2343482757.jpg"
             },
             null,
-            null,
-            null,
-            {
-                "category": "Cronaca",
-                "title": "Competenze digitali, il 93% degli italiani le considera una priorità",
-                "link": "https://www.orizzontescuola.it/competenze-digitali-il-93-degli-italiani-le-considera-una-priorita/",
-                "date": "28 Giu 2026",
-                "time": "18:05",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2699562121.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Matematica sì, italiano no: perché la scuola da sola non basta, serve anche la casa. Ecco uno studio che smonta un luogo comune",
-                "link": "https://www.orizzontescuola.it/matematica-si-italiano-no-perche-la-scuola-da-sola-non-basta-serve-anche-la-casa-ecco-uno-studio-che-smonta-un-luogo-comune/",
-                "date": "28 Giu 2026",
-                "time": "17:05",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1906380526.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "NEET in Italia, il calo non basta: giovani invisibili, donne e Sud restano il vero problema",
-                "link": "https://www.orizzontescuola.it/neet-in-italia-il-calo-non-basta-giovani-invisibili-donne-e-sud-restano-il-vero-problema/",
-                "date": "28 Giu 2026",
-                "time": "16:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2491697489.jpg"
-            }
+            null
         ]
     },
     "group_4": {
@@ -658,6 +665,14 @@
         "articles": [
             {
                 "category": "Didattica",
+                "title": "Dacia Maraini: “La scuola crea il futuro di un Paese, non può essere trattata come un’azienda”",
+                "link": "https://www.orizzontescuola.it/dacia-maraini-la-scuola-crea-il-futuro-di-un-paese-non-puo-essere-trattata-come-unazienda/",
+                "date": "28 Mag 2026",
+                "time": "11:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/TABELLACOPERTINA-1-5-scaled.png"
+            },
+            {
+                "category": "Didattica",
                 "title": "“Clandestino” di Manu Chao: la voce di chi vive ai margini della società. Insegnare con le canzoni",
                 "link": "https://www.orizzontescuola.it/clandestino-di-manu-chao-la-voce-di-chi-vive-ai-margini-della-societa-insegnare-con-le-canzoni/",
                 "date": "22 Mag 2026",
@@ -695,14 +710,6 @@
                 "date": "11 Mag 2026",
                 "time": "9:32",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2674058315.jpg"
-            },
-            {
-                "category": "Didattica",
-                "title": "The Truman Show: realtà, finzione e libertà nell’era dei media. Insegnare con i film",
-                "link": "https://www.orizzontescuola.it/the-truman-show-realta-finzione-e-liberta-nellera-dei-media-insegnare-con-i-film/",
-                "date": "30 Apr 2026",
-                "time": "20:36",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2156617529-scaled.jpg"
             }
         ]
     },
