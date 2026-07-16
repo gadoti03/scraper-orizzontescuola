@@ -3,20 +3,20 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
+                "category": "Stipendio",
+                "title": "Stipendio docenti e ATA, arretrati ad agosto con emissione speciale (fino a luglio 2026). Aumenti nello stesso mese. L’annuncio di NoiPA",
+                "link": "https://www.orizzontescuola.it/stipendio-docenti-e-ata-arretrati-ad-agosto-con-emissione-speciale-fino-a-luglio-2026-aumenti-nello-stesso-mese/",
+                "date": "16 Lug 2026",
+                "time": "11:04",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/soldi-1.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze, domanda 150 preferenze al via dal 16 luglio alle 14 su Istanze online. Guida alla compilazione, risposte ai quesiti, esempi",
                 "link": "https://www.orizzontescuola.it/supplenze-domanda-150-preferenze-al-via-dal-16-luglio-alle-14-su-istanze-online-guida-alla-compilazione-risposte-ai-quesiti-esempi/",
                 "date": "15 Lug 2026",
                 "time": "14:31",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/Supplenze-domanda-150-preferenze.png"
-            },
-            {
-                "category": "Docenti",
-                "title": "Utilizzazioni e assegnazioni provvisorie docenti 2026/27. Domande dal 10 al 23 luglio [LO SPECIALE]",
-                "link": "https://www.orizzontescuola.it/utilizzazioni-e-assegnazioni-provvisorie-2026-27-ecco-la-pagina-del-ministero/",
-                "date": "15 Lug 2026",
-                "time": "7:12",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/Utilizzazioni-e-assegnazioni-provvisorie.png"
             }
         ]
     },
@@ -24,13 +24,183 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Docenti",
+                "title": "Inclusione, illegittimo il divieto di compresenza tra docente di sostegno e l’assistente all’autonomia e comunicazione. A dirlo il Tribunale di Trapani",
+                "link": "https://www.orizzontescuola.it/inclusione-illegittimo-il-divieto-di-compresenza-tra-docente-di-sostegno-e-lassistente-allautonomia-e-comunicazione-a-dirlo-il-tribunale-di-trapani/",
+                "date": "16 Lug 2026",
+                "time": "11:46",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_675123196.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Prove Invalsi, dispersione scolastica crolla al 6,3%, 520mila ragazzi salvati dalla strada. Valditara: “Più grammatica, meno tablet”",
+                "link": "https://www.orizzontescuola.it/dispersione-scolastica-crolla-al-63-520mila-ragazzi-salvati-dalla-strada-valditara-piu-grammatica-meno-tablet/",
+                "date": "16 Lug 2026",
+                "time": "11:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/Screenshot-2026-07-14-alle-18.11.26.png"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Nuove Indicazioni Nazionali per i Licei, arriva il parere del CSPI: sì all’innovazione, attenzione a equità, intelligenza artificiale e fragilità degli studenti",
+                "link": "https://www.orizzontescuola.it/nuove-indicazioni-nazionali-per-i-licei-arriva-il-parere-del-cspi-si-allinnovazione-attenzione-a-equita-intelligenza-artificiale-e-fragilita-degli-studenti/",
+                "date": "16 Lug 2026",
+                "time": "11:32",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/shutterstock_2595124929.jpg"
+            },
+            {
+                "category": "Studenti",
+                "title": "Prove Invalsi superiori, miglioramento in Italiano e Matematica. Sud in forte recupero. Inglese al 63% in Reading. Competenze digitali: livello avanzato all’ultimo anno",
+                "link": "https://www.orizzontescuola.it/prove-invalsi-superiori-miglioramento-in-italiano-e-matematica-sud-in-forte-recupero-inglese-al-63-in-reading-competenze-digitali-livello-avanzato-allultimo-anno/",
+                "date": "16 Lug 2026",
+                "time": "11:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/03/shutterstock_666030916.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Contratti integrativi PA, record storico nel 2025: oltre 18mila accordi. nella scuola 8.500 contratti integrativi firmati: l’85% degli istituti ha trovato un accordo",
+                "link": "https://www.orizzontescuola.it/contratti-integrativi-pa-record-storico-nel-2025-oltre-18mila-accordi-nella-scuola-8-500-contratti-integrativi-firmati-l85-degli-istituti-ha-trovato-un-accordo/",
+                "date": "16 Lug 2026",
+                "time": "11:22",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/Contratto-supplenti-la-guida-su-cosa-bisogna-sapere-scaled.jpg"
+            },
+            {
+                "category": "Studenti",
+                "title": "Prove Invalsi media: Italiano cala dal 59% al 57%, Matematica stabile al 55%. Divario Nord-Sud di 15-20 punti in Matematica. Inglese positivo con l’83% in Reading",
+                "link": "https://www.orizzontescuola.it/prove-invalsi-media-italiano-cala-dal-59-al-57-matematica-stabile-al-55-divario-nord-sud-di-15-20-punti-in-matematica-inglese-positivo-con-l83-in-reading/",
+                "date": "16 Lug 2026",
+                "time": "11:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2492219935-scaled.jpg"
+            },
+            {
+                "category": "Gestire la scuola",
+                "title": "Ore eccedenti dei docenti dopo il CCNL 2025-2027: nuovi compensi, decorrenze e adempimenti per DS e DSGA. Con excel per il calcolo dei compensi",
+                "link": "https://www.orizzontescuola.it/ore-eccedenti-dei-docenti-dopo-il-ccnl-2025-2027-nuovi-compensi-decorrenze-e-adempimenti-per-ds-e-dsga-con-excel-per-il-calcolo-dei-compensi/",
+                "date": "16 Lug 2026",
+                "time": "11:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2384785201.jpg"
+            },
+            {
+                "category": "Studenti",
+                "title": "Prove Invalsi primaria, per Matematica -10% rispetto al 2019. Italiano stabile ma sotto i livelli pre-pandemici. Inglese in crescita al 91%",
+                "link": "https://www.orizzontescuola.it/prove-invalsi-primaria-per-matematica-10-rispetto-al-2019-italiano-stabile-ma-sotto-i-livelli-pre-pandemici-inglese-in-crescita-al-91/",
+                "date": "16 Lug 2026",
+                "time": "11:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2665797789.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "VIDEO TUTORIAL IN DIRETTA | Supplenze 150 preferenze docenti: tutti i passaggi spiegati. QUESTION TIME con Vannini (Uil Scuola) LIVE Giovedì 16 luglio alle 14:30",
+                "link": "https://www.orizzontescuola.it/video-tutorial-in-diretta-supplenze-150-preferenze-docenti-tutti-i-passaggi-spiegati-speciale-con-vannini-uil-scuola-live-giovedi-16-luglio-alle-1430/",
+                "date": "16 Lug 2026",
+                "time": "11:04",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/Template_questiontime_1920x1080-2.png"
+            },
+            {
+                "category": "Studenti",
+                "title": "Prove Invalsi, alla scuola primaria studenti male in Matematica, in difficoltà alle medie su Italiano. Prosegue il divario Nord e Sud. I dati",
+                "link": "https://www.orizzontescuola.it/prove-invalsi-alla-scuola-primaria-studenti-male-in-matematica-in-difficolta-alle-medie-su-italiano-prosegue-il-divario-nord-e-sud-i-dati/",
+                "date": "16 Lug 2026",
+                "time": "11:01",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2479199065.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
-                "title": "GPS docenti 2026/28: ecco le graduatorie [AGGIORNATO]",
+                "title": "GPS docenti 2026/28: ecco le graduatorie. Per i reclami seguire le indicazioni dell’Ufficio Scolastico [AGGIORNATO]",
                 "link": "https://www.orizzontescuola.it/gps-docenti-2026-27-ecco-le-prime-graduatorie-in-aggiornamento/",
-                "date": "15 Lug 2026",
-                "time": "22:06",
+                "date": "16 Lug 2026",
+                "time": "10:42",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_765925483-scaled-e1782206430634.jpg"
             },
+            null,
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Consulenze per la compilazione delle 150 preferenze: posti limitati, prenota",
+                "link": "https://www.orizzontescuola.it/consulenze-per-la-compilazione-delle-150-preferenze-posti-limitati-prenota/",
+                "date": "16 Lug 2026",
+                "time": "10:35",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/150_prefe.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Concorso docenti PNRR3, vincitori per merito ma anche riservisti. Come si forma la graduatoria",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-pnrr3-vincitori-per-merito-ma-anche-riservisti-come-si-forma-la-graduatoria/",
+                "date": "16 Lug 2026",
+                "time": "10:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_605958425.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Domanda supplenze, max 150 preferenze: come funziona il posto orario. La novità 2026",
+                "link": "https://www.orizzontescuola.it/domanda-supplenze-max-150-preferenze-come-funziona-il-posto-orario-la-novita-2026/",
+                "date": "16 Lug 2026",
+                "time": "10:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/concorso-insegnanti-religione.png"
+            },
+            {
+                "category": "Docenti",
+                "title": "Docenti che pubblicano foto private sui social, possono farlo? Quali sono i limiti? Il Punto dell’Avvocato De Martino",
+                "link": "https://www.orizzontescuola.it/docenti-che-pubblicano-foto-private-sui-social-possono-farlo-quali-sono-i-limiti-il-punto-dellavvocato-de-martino/",
+                "date": "16 Lug 2026",
+                "time": "9:48",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/De_Martino.png"
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Immissioni in ruolo docenti 2026/27, 46.642 posti. Suddivisione per regione e classe di concorso [rettifica Liguria e Calabria]",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2026-27-ecco-il-contingente-46-642-posti-e-la-suddivisione-per-regione/",
+                "date": "16 Lug 2026",
+                "time": "9:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2003113223.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Immissioni in ruolo docenti 2026, è già possibile prevedere le assunzioni da GPS sostegno e Mini Call Veloce?",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2026-e-gia-possibile-prevedere-le-assunzioni-da-gps-sostegno-e-mini-call-veloce/",
+                "date": "16 Lug 2026",
+                "time": "9:29",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/Amazon-Business-Q4_IT_EDU_Orizzontescuola.it-Header-image-iStock-691693208-e1762421270882.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "GPS 150 preferenze, apre la piattaforma! Scopri con noi come funziona: tutte le info utili. QUESTION TIME con Semeraro. LIVE Giovedì 16 luglio alle 13:45",
+                "link": "https://www.orizzontescuola.it/gps-150-preferenze-apre-la-piattaforma-scopri-con-noi-come-funziona-tutte-le-info-utili-question-time-con-semeraro-live-giovedi-16-luglio-alle-1345/",
+                "date": "16 Lug 2026",
+                "time": "9:16",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/Template_questiontime_1920x1080-5.png"
+            },
+            {
+                "category": "Docenti",
+                "title": "PNRR e digitale a scuola, domande entro il 17 luglio 2026",
+                "link": "https://www.orizzontescuola.it/pnrr-e-digitale-a-scuola-domande-entro-il-17-luglio-2026/",
+                "date": "16 Lug 2026",
+                "time": "9:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2583891963.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Assegnazioni provvisorie: “Attenzione a vincoli, deroghe e allegato G: un errore può far decadere la domanda”. Il Punto di Stefano Cavallini (ANIEF)",
+                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-attenzione-a-vincoli-deroghe-e-allegato-g-un-errore-puo-far-decadere-la-domanda-il-punto-di-stefano-cavallini-anief/",
+                "date": "16 Lug 2026",
+                "time": "8:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/stefano_cavallini.png"
+            },
+            {
+                "category": "Gestire la scuola",
+                "title": "Come effettuare un Ordine Diretto di Acquisto sul MePA per l’acquisto di software destinato alle riunioni online degli organi collegiali. Con 5 documenti da scaricare",
+                "link": "https://www.orizzontescuola.it/come-effettuare-un-ordine-diretto-di-acquisto-sul-mepa-per-lacquisto-di-software-destinato-alle-riunioni-online-degli-organi-collegiali-con-5-documenti-da-scaricare/",
+                "date": "16 Lug 2026",
+                "time": "7:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2502117529.jpg"
+            },
+            null,
+            null,
+            null,
+            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "Immissioni in ruolo docenti 2026/27: Fase 1 Scelta provincia [Aggiornato con Marche e turno 4 Lombardia ]",
@@ -38,14 +208,6 @@
                 "date": "15 Lug 2026",
                 "time": "21:56",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1349362136.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "VIDEO TUTORIAL IN DIRETTA | Supplenze 150 preferenze docenti: tutti i passaggi spiegati. QUESTION TIME con Vannini (Uil Scuola) LIVE Giovedì 16 luglio alle 14:30",
-                "link": "https://www.orizzontescuola.it/video-tutorial-in-diretta-supplenze-150-preferenze-docenti-tutti-i-passaggi-spiegati-speciale-con-vannini-uil-scuola-live-giovedi-16-luglio-alle-1430/",
-                "date": "15 Lug 2026",
-                "time": "21:34",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/Template_questiontime_1920x1080-2.png"
             },
             {
                 "category": "Chiedilo a Lalla",
@@ -62,14 +224,6 @@
                 "date": "15 Lug 2026",
                 "time": "19:34",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2352497975.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "GPS 150 preferenze, apre la piattaforma! Scopri con noi come funziona: tutte le info utili. QUESTION TIME con Semeraro. LIVE Giovedì 16 luglio alle 13:45",
-                "link": "https://www.orizzontescuola.it/gps-150-preferenze-apre-la-piattaforma-scopri-con-noi-come-funziona-tutte-le-info-utili-question-time-con-semeraro-live-giovedi-16-luglio-alle-1345/",
-                "date": "15 Lug 2026",
-                "time": "19:16",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/Template_questiontime_1920x1080-5.png"
             },
             {
                 "category": "Diventare Insegnanti",
@@ -110,201 +264,44 @@
                 "date": "15 Lug 2026",
                 "time": "15:25",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2518506853.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Competenze non cognitive, Valditara: “Approvati 443 progetti”, coinvolte 1.169 scuole nella sperimentazione. Piano formazione docenti",
-                "link": "https://www.orizzontescuola.it/competenze-non-cognitive-valditara-valutate-positivamente-443-proposte-coinvolte-1-169-scuole-nella-sperimentazione-piano-formazione-docenti/",
-                "date": "15 Lug 2026",
-                "time": "15:21",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/shutterstock_2343152703.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Riforma degli istituti tecnici, Valditara: “Ci saranno modifiche nel primo provvedimento utile”",
-                "link": "https://www.orizzontescuola.it/riforma-degli-istituti-tecnici-valditara-ci-saranno-modifiche-nel-primo-provvedimento-utile/",
-                "date": "15 Lug 2026",
-                "time": "15:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/shutterstock_2489696481.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Caso Cesena, Valditara sullo striscione “L’Italia agli italiani”: “Se la sanzione riguarda le idee, prenderemo provvedimenti”. Sasso: “A settembre striscioni in tutte le scuole italiane”",
-                "link": "https://www.orizzontescuola.it/caso-cesena-valditara-sullo-striscione-litalia-agli-italiani-se-la-sanzione-riguarda-le-idee-prenderemo-provvedimenti-sasso-a-settembre-striscioni-in-tutte-le-scuole-italiane/",
-                "date": "15 Lug 2026",
-                "time": "15:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/Screenshot-2026-04-16-alle-11.56.04.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Assunzioni docenti 2026: convocazioni e nomine anche da elenco regionale [AGGIORNATO con Basilicata e Abruzzo]",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2026-arrivano-le-convocazioni-da-elenco-regionale-ecco-dove/",
-                "date": "15 Lug 2026",
-                "time": "15:07",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/04/shutterstock_2033916281.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Immissioni in ruolo docenti 2026, dopo il primo turno di nomine sono previsti ulteriori scorrimenti",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2026-dopo-il-primo-turno-di-nomine-sono-previsti-ulteriori-scorrimenti/",
-                "date": "15 Lug 2026",
-                "time": "14:13",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2274347381-1.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
-            {
-                "category": "ATA",
-                "title": "ATA 24 mesi 2026, ecco le graduatorie provvisorie e definitive [AGGIORNATO con Milano, Foggia, Catania]",
-                "link": "https://www.orizzontescuola.it/ata-24-mesi-ecco-le-prime-graduatorie-provvisorie-reclamo-entro-10-giorni-in-aggiornamento/",
-                "date": "15 Lug 2026",
-                "time": "14:06",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_1645535227.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Immissioni in ruolo docenti 2026/27, 46.642 posti. Suddivisione per regione e classe di concorso [rettifica Sicilia e Sardegna]",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2026-27-ecco-il-contingente-46-642-posti-e-la-suddivisione-per-regione/",
-                "date": "15 Lug 2026",
-                "time": "14:03",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2003113223.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "TFA sostegno XI ciclo, a luglio anche la prova scritta. Ecco le date",
-                "link": "https://www.orizzontescuola.it/tfa-sostegno-xi-ciclo-a-luglio-anche-la-prova-scritta/",
-                "date": "15 Lug 2026",
-                "time": "14:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2361952943-scaled.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Supplenze brevi, nuovo sistema per convocazioni e pagamenti: test in 50 scuole da ottobre, estensione a tutti entro febbraio 2027",
-                "link": "https://www.orizzontescuola.it/supplenze-brevi-nuovo-sistema-per-convocazioni-e-pagamenti-test-in-50-scuole-da-ottobre-estensione-a-tutti-entro-febbraio-2027/",
-                "date": "15 Lug 2026",
-                "time": "13:27",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_1070096513.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Formazione scuola-lavoro, questionari di monitoraggio su Unica entro il 31 luglio: cosa devono fare coordinatori e dirigenti scolastici",
-                "link": "https://www.orizzontescuola.it/formazione-scuola-lavoro-questionari-di-monitoraggio-su-unica-entro-il-31-luglio-cosa-devono-fare-coordinatori-e-dirigenti-scolastici/",
-                "date": "15 Lug 2026",
-                "time": "13:03",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1863569833-scaled.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Anagrafe Nazionale Studenti, esiti finali: scadenza 16 luglio",
-                "link": "https://www.orizzontescuola.it/anagrafe-nazionale-studenti-esiti-finali-scadenza-16-luglio/",
-                "date": "15 Lug 2026",
-                "time": "12:32",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_1799710684.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Ricostruzione di carriera, gli anni di precariato vengono valorizzati dopo l’immissione in ruolo dei docenti",
-                "link": "https://www.orizzontescuola.it/ricostruzione-di-carriera-gli-anni-di-precariato-vengono-valorizzati-dopo-limmissione-in-ruolo-dei-docenti/",
-                "date": "15 Lug 2026",
-                "time": "12:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/shutterstock_2522526921.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Posizioni economiche ATA, UIL Scuola scrive al Ministero: “Stop agli accantonamenti, le risorse per gli incarichi specifici vanno liquidate integralmente”",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-uil-scuola-scrive-al-ministero-stop-agli-accantonamenti-le-risorse-per-gli-incarichi-specifici-vanno-liquidate-integralmente/",
-                "date": "15 Lug 2026",
-                "time": "12:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/Screenshot-2026-06-24-alle-17.34.03.png"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Docenti e social network: quali sono i limiti? DIRITTO IN CATTEDRA con l’avv. Alessandro De Martino oggi alle 16.00",
-                "link": "https://www.orizzontescuola.it/docenti-e-social-network-quali-sono-i-limiti-diritto-in-cattedra-con-lavv-alessandro-de-martino-oggi-alle-16-00/",
-                "date": "15 Lug 2026",
-                "time": "11:34",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/10--scaled.png"
-            },
-            {
-                "category": "Dirigenti scolastici",
-                "title": "Relazione finale di incarico: continuità organizzativa e passaggio delle informazioni da un anno scolastico all’altro",
-                "link": "https://www.orizzontescuola.it/relazione-finale-di-incarico-continuita-organizzativa-e-passaggio-delle-informazioni-da-un-anno-scolastico-allaltro/",
-                "date": "15 Lug 2026",
-                "time": "11:22",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1687192501-1.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2026/27, non ci sono cattedre al 31 agosto accantonate per immissioni in ruolo tardive dai concorsi PNRR",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-2026-27-non-ci-sono-cattedre-al-31-agosto-accantonate-per-immissioni-in-ruolo-tardive-dai-concorsi-pnrr/",
-                "date": "15 Lug 2026",
-                "time": "11:19",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/pexels-gustavo-fring-4173115.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Graduatorie GPS 2026: pubblicazione, esclusioni e reclami [Avvisi Uffici Scolastici]",
-                "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-ecco-le-scuole-polo-che-valuteranno-le-domande-in-aggiornamento/",
-                "date": "15 Lug 2026",
-                "time": "11:18",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_277027346.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Assegnazioni provvisorie docenti 2026, indicazioni sulla “prima preferenza”",
-                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-docenti-2026-indicazioni-sulla-prima-preferenza/",
-                "date": "15 Lug 2026",
-                "time": "11:16",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/teacher.png"
-            },
-            {
-                "category": "Studenti",
-                "title": "Scienze della Formazione Primaria Link: iscrizioni alla prova entro il 16 luglio 2026",
-                "link": "https://www.orizzontescuola.it/scienze-della-formazione-primaria-link-iscrizioni-alla-prova-entro-il-16-luglio-2026/",
-                "date": "15 Lug 2026",
-                "time": "11:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_1021963270.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Bando Roma Capitale educazione all’affettività: domande entro il 16 luglio 2026",
-                "link": "https://www.orizzontescuola.it/bando-roma-capitale-educazione-allaffettivita-domande-entro-il-16-luglio-2026/",
-                "date": "15 Lug 2026",
-                "time": "10:28",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_1592219284.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Graduatorie GPS 2026: “4 mesi per la valutazione e non sono ancora pronte? A cosa è servito l’anticipo della domanda?”",
-                "link": "https://www.orizzontescuola.it/graduatorie-gps-2026-4-mesi-per-la-valutazione-e-non-sono-ancora-pronte-a-cosa-e-servito-lanticipo-della-domanda/",
-                "date": "15 Lug 2026",
-                "time": "10:25",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/09/shutterstock_1066344359.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Consulenze per la compilazione delle 150 preferenze: posti limitati, prenota",
-                "link": "https://www.orizzontescuola.it/consulenze-per-la-compilazione-delle-150-preferenze-posti-limitati-prenota/",
-                "date": "15 Lug 2026",
-                "time": "9:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/150_prefe.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Quando saranno assegnate le nomine dei docenti da GPS sostegno per il ruolo a.s. 2026/27?",
-                "link": "https://www.orizzontescuola.it/quando-saranno-le-nomine-dei-docenti-da-gps-sostegno-per-il-ruolo-a-s-2026-27/",
-                "date": "15 Lug 2026",
-                "time": "9:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_561290107.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Prove Invalsi, Fontana: “Investire sul digitale a scuola è investire sul futuro del Paese”",
+                "link": "https://www.orizzontescuola.it/prove-invalsi-fontana-investire-sul-digitale-a-scuola-e-investire-sul-futuro-del-paese/",
+                "date": "16 Lug 2026",
+                "time": "11:37",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Il CSPI approva a maggioranza le nuove Indicazioni nazionali per i licei, la FLC CGIL vota contro e denuncia un “arretramento culturale”",
+                "link": "https://www.orizzontescuola.it/il-cspi-approva-a-maggioranza-le-nuove-indicazioni-nazionali-per-i-licei-la-flc-cgil-vota-contro-e-denuncia-un-arretramento-culturale/",
+                "date": "16 Lug 2026",
+                "time": "11:30",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Diploma in Elettrotecnica a 82 anni, la storia di Giuseppe: “Non è mai troppo tardi per iniziare a studiare”",
+                "link": "https://www.orizzontescuola.it/diploma-in-elettrotecnica-a-82-anni-la-storia-di-giuseppe-non-e-mai-troppo-tardi-per-iniziare-a-studiare/",
+                "date": "16 Lug 2026",
+                "time": "10:25",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "ANIEF supera quota 73mila iscritti e lancia il Dipartimento Confial: “Segnale di un sindacato che cresce e che conta”",
+                "link": "https://www.orizzontescuola.it/anief-supera-quota-73mila-iscritti-e-lancia-il-dipartimento-confial-segnale-di-un-sindacato-che-cresce-e-che-conta/",
+                "date": "16 Lug 2026",
+                "time": "9:24",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Lavoro e figli, l’estate è un incubo per 7 genitori su 10: la svolta viene dall’ufficio sotto casa",
@@ -416,44 +413,20 @@
                 "date": "15 Lug 2026",
                 "time": "12:12",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Competenze digitali dei giovani: l’Italia si ferma al 68,50% contro il 74,6% europeo. I dati Eurostat premiano le ragazze",
-                "link": "https://www.orizzontescuola.it/competenze-digitali-dei-giovani-litalia-si-ferma-al-6850-contro-il-746-europeo-i-dati-eurostat-premiano-le-ragazze/",
-                "date": "15 Lug 2026",
-                "time": "11:38",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Formazione professionale in Emilia-Romagna: 70,5 milioni per 8.500 studenti nel 2026/2027. I nuovi percorsi per qualifiche e diplomi",
-                "link": "https://www.orizzontescuola.it/formazione-professionale-in-emilia-romagna-705-milioni-per-8-500-studenti-nel-2026-2027-i-nuovi-percorsi-per-qualifiche-e-diplomi/",
-                "date": "15 Lug 2026",
-                "time": "11:15",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Assegnazioni provvisorie e utilizzazioni: ecco come fare la domanda. Tutto quello che devi sapere. QUESTION TIME con Cavallini (Anief) LIVE Mercoledì 15 luglio alle 14:00",
-                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-e-utilizzazioni-ecco-come-fare-la-domanda-tutto-quello-che-devi-sapere-question-time-con-cavallini-anief-live-mercoledi-15-luglio-alle-1400/",
-                "date": "15 Lug 2026",
-                "time": "10:32",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Immissioni in ruolo, tra Fase 1 e Fase 2. 150 preferenze tra spezzoni e completamento. QUESTION TIME con Cozzetto (Anief)",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-tra-fase-1-e-fase-2-150-preferenze-tra-spezzoni-e-completamento-question-time-con-cozzetto-anief-live-mercoledi-15-luglio-alle-1500/",
-                "date": "15 Lug 2026",
-                "time": "10:28",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Docenti e social network: quali sono i limiti? DIRITTO IN CATTEDRA con l’avv. Alessandro De Martino oggi alle 16.00",
+                "link": "https://www.orizzontescuola.it/docenti-e-social-network-quali-sono-i-limiti-diritto-in-cattedra-con-lavv-alessandro-de-martino-oggi-alle-16-00/",
+                "date": "15 Lug 2026",
+                "time": "11:34",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Assegnazioni provvisorie docenti 2026, come va indicato il “ricongiungimento”. RISPOSTE AI QUESITI",
@@ -557,14 +530,6 @@
                 "date": "24 Giu 2026",
                 "time": "16:30",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Immissioni in ruolo docenti 2026 da concorso: è possibile inserire solo la provincia più gradita? Qual è il rischio",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2026-da-concorso-e-possibile-inserire-solo-la-provincia-piu-gradita-qual-e-il-rischio/",
-                "date": "23 Giu 2026",
-                "time": "19:00",
-                "image_link": "N/A"
             }
         ]
     },
@@ -573,57 +538,65 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
-                "title": "Supplenze GPS 2026, Quattrocchi: “Preferenza non significa sede”. Come scegliere tra COI, COE, spezzoni e posto orario",
-                "link": "https://www.orizzontescuola.it/supplenze-gps-2026-quattrocchi-preferenza-non-significa-sede-come-scegliere-tra-coi-coe-spezzoni-e-posto-orario/",
+                "title": "Assunzioni docenti 2026: convocazioni e nomine anche da elenco regionale [AGGIORNATO con Basilicata e Abruzzo]",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2026-arrivano-le-convocazioni-da-elenco-regionale-ecco-dove/",
                 "date": "15 Lug 2026",
-                "time": "8:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Luigi_Quattrocchi.png"
+                "time": "15:07",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/04/shutterstock_2033916281.jpg"
             },
             {
                 "category": "Diventare Insegnanti",
-                "title": "Come leggere le GPS 2026. Si potranno avere supplenze sostegno senza titolo? Ne parliamo nella newsletter Diventare Insegnanti di venerdì 17 luglio",
-                "link": "https://www.orizzontescuola.it/come-leggere-le-gps-2026-si-potranno-avere-supplenze-sostegno-senza-titolo-ne-parliamo-nella-newsletter-diventare-insegnanti-di-venerdi-17-luglio/",
-                "date": "14 Lug 2026",
-                "time": "20:43",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/La-newsletter-per-Diventare-insegnante-2.png"
+                "title": "Immissioni in ruolo docenti 2026, dopo il primo turno di nomine sono previsti ulteriori scorrimenti",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2026-dopo-il-primo-turno-di-nomine-sono-previsti-ulteriori-scorrimenti/",
+                "date": "15 Lug 2026",
+                "time": "14:13",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2274347381-1.jpg"
             },
             {
                 "category": "Diventare Insegnanti",
-                "title": "Docente assunto da GPS sostegno nel 2023/24 non ha vincolo, può presentare domanda di assegnazione interprovinciale",
-                "link": "https://www.orizzontescuola.it/docente-assunto-da-gps-sostegno-nel-2023-24-non-ha-vincolo-puo-presentare-domanda-di-assegnazione-interprovinciale/",
-                "date": "14 Lug 2026",
-                "time": "19:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/11/shutterstock_735971932.jpg"
+                "title": "TFA sostegno XI ciclo, a luglio anche la prova scritta. Ecco le date",
+                "link": "https://www.orizzontescuola.it/tfa-sostegno-xi-ciclo-a-luglio-anche-la-prova-scritta/",
+                "date": "15 Lug 2026",
+                "time": "14:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2361952943-scaled.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Supplenze brevi, nuovo sistema per convocazioni e pagamenti: test in 50 scuole da ottobre, estensione a tutti entro febbraio 2027",
+                "link": "https://www.orizzontescuola.it/supplenze-brevi-nuovo-sistema-per-convocazioni-e-pagamenti-test-in-50-scuole-da-ottobre-estensione-a-tutti-entro-febbraio-2027/",
+                "date": "15 Lug 2026",
+                "time": "13:27",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_1070096513.jpg"
             },
             {
                 "category": "Diventare Insegnanti",
-                "title": "Domanda 150 preferenze, chi ha avviato la continuità su uno spezzone potrà chiedere anche o solo cattedra intera",
-                "link": "https://www.orizzontescuola.it/domanda-150-preferenze-chi-ha-avviato-la-continuita-su-uno-spezzone-potra-chiedere-anche-o-solo-cattedra-intera/",
-                "date": "14 Lug 2026",
-                "time": "17:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/shutterstock_2677276019.jpg"
+                "title": "Ricostruzione di carriera, gli anni di precariato vengono valorizzati dopo l’immissione in ruolo dei docenti",
+                "link": "https://www.orizzontescuola.it/ricostruzione-di-carriera-gli-anni-di-precariato-vengono-valorizzati-dopo-limmissione-in-ruolo-dei-docenti/",
+                "date": "15 Lug 2026",
+                "time": "12:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/shutterstock_2522526921.jpg"
             },
             {
                 "category": "Diventare Insegnanti",
-                "title": "Immissioni in ruolo docenti 2026, in caso di rinunce gli elenchi regionali possono scorrere?",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2026-in-caso-di-rinunce-gli-elenchi-regionali-possono-scorrere/",
-                "date": "14 Lug 2026",
-                "time": "16:23",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2583566281.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Graduatorie GSP 2026 verso la pubblicazione, prevista solo correzione di errori materiali no integrazioni",
-                "link": "https://www.orizzontescuola.it/graduatorie-gsp-2026-verso-la-pubblicazione-prevista-solo-correzione-di-errori-materiali-no-integrazioni/",
-                "date": "14 Lug 2026",
-                "time": "12:28",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2091133108.jpg"
+                "title": "Supplenze docenti 2026/27, non ci sono cattedre al 31 agosto accantonate per immissioni in ruolo tardive dai concorsi PNRR",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-2026-27-non-ci-sono-cattedre-al-31-agosto-accantonate-per-immissioni-in-ruolo-tardive-dai-concorsi-pnrr/",
+                "date": "15 Lug 2026",
+                "time": "11:19",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/pexels-gustavo-fring-4173115.jpg"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
+            {
+                "category": "ATA",
+                "title": "NoiPA, phishing sempre più credibile con l’Intelligenza Artificiale: i cinque segnali per riconoscerlo",
+                "link": "https://www.orizzontescuola.it/noipa-phishing-sempre-piu-credibile-con-lintelligenza-artificiale-i-cinque-segnali-per-riconoscerlo/",
+                "date": "15 Lug 2026",
+                "time": "9:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/shutterstock_646100272.jpg"
+            },
             {
                 "category": "ATA",
                 "title": "Gruppo di supporto PNRR, selezione di 70 docenti e assistenti amministrativi: guida MIM alla domanda su Istanze online",
@@ -663,14 +636,6 @@
                 "date": "10 Lug 2026",
                 "time": "9:13",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_1070096513.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Assegnazioni provvisorie docenti 2026/27: domanda dal 10 luglio ore 15. ATA dal 23 luglio. Date da confermare",
-                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-docenti-2026-27-domanda-dal-10-luglio-ata-dal-23-luglio-requisiti-e-deroghe-confermate/",
-                "date": "9 Lug 2026",
-                "time": "16:46",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/shutterstock_2693679457.jpg"
             }
         ]
     },
