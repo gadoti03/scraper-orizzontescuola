@@ -17,6 +17,54 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Politica scolastica",
+                "title": "Precari scuola, ANIEF rilancia il doppio canale: 50% dei ruoli da concorso e 50% dalle GPS per stabilizzare docenti con fino a 10 anni di servizio. INTERVISTA",
+                "link": "https://www.orizzontescuola.it/precari-scuola-anief-rilancia-il-doppio-canale-50-dei-ruoli-da-concorso-e-50-dalle-gps-per-stabilizzare-docenti-con-fino-a-10-anni-di-servizio-intervista/",
+                "date": "19 Lug 2026",
+                "time": "18:51",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/Screenshot-2026-07-18-alle-18.51.16.png"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Assegnazioni provvisorie docenti: precedenze, dichiarazioni e non solo. Tutte le info utili. QUESTION TIME con Cavallini (Anief) LIVE Lunedì 20 luglio alle 15:30",
+                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-docenti-precedenze-dichiarazioni-e-non-solo-tutte-le-info-utili-question-time-con-cavallini-anief-live-lunedi-20-luglio-alle-1530/",
+                "date": "19 Lug 2026",
+                "time": "16:16",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/Template_questiontime_1920x1080-19.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“L’IA non muore e non conosce l’amore. Se potesse diventerebbe un essere umano”, Dacia Maraini su femminicidio ed educazione nelle scuole",
+                "link": "https://www.orizzontescuola.it/lia-non-muore-e-non-conosce-lamore-se-potesse-diventerebbe-un-essere-umano-dacia-maraini-su-femminicidio-ed-educazione-nelle-scuole/",
+                "date": "19 Lug 2026",
+                "time": "15:35",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/shutterstock_1044964522.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Carta docente, Miceli (ANIEF): “Sia davvero uno strumento utile di welfare, abbattere ogni discriminazione e riportarla a 500 euro”. INTERVISTA",
+                "link": "https://www.orizzontescuola.it/carta-docente-miceli-anief-sia-davvero-uno-strumento-utile-di-welfare-abbattere-ogni-discriminazione-e-riportarla-a-500-euro-intervista/",
+                "date": "19 Lug 2026",
+                "time": "15:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/Screenshot-2026-07-19-alle-14.55.28.png"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Supplenze docenti 150 preferenze GPS, come compilare la domanda senza errori. QUESTION TIME con Cannas. LIVE Lunedì 20 luglio alle 14:30",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-150-preferenze-gps-come-compilare-la-domanda-senza-errori-question-time-con-cannas-live-lunedi-20-luglio-alle-1430/",
+                "date": "19 Lug 2026",
+                "time": "14:05",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/Template_questiontime_1920x1080-18.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Immissioni in ruolo, un docente già assunto può accettare un nuovo ruolo da un’altra graduatoria?",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-un-docente-gia-assunto-puo-accettare-un-nuovo-ruolo-da-unaltra-graduatoria/",
+                "date": "19 Lug 2026",
+                "time": "13:45",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_1796684485-scaled.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Scelta 150 preferenze, “lavorare sul sostegno non deve essere visto come una scorciatoia”: l’appello alla responsabilità per scelte consapevoli",
                 "link": "https://www.orizzontescuola.it/scelta-150-preferenze-lavorare-sul-sostegno-non-deve-essere-visto-come-una-scorciatoia-lappello-alla-responsabilita-per-scelte-consapevoli/",
@@ -88,15 +136,12 @@
                 "date": "18 Lug 2026",
                 "time": "19:36",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/Screenshot-2026-07-18-alle-10.35.58.png"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Supplenze docenti 150 preferenze GPS, come compilare la domanda senza errori. QUESTION TIME con Cannas. LIVE Lunedì 20 luglio alle 14:30",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-150-preferenze-gps-come-compilare-la-domanda-senza-errori-question-time-con-cannas-live-lunedi-20-luglio-alle-1430/",
-                "date": "18 Lug 2026",
-                "time": "19:11",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/Template_questiontime_1920x1080-18.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Anno sabbatico pagato solo a Bolzano, gli altri insegnanti italiani restano a secco. La denuncia di ANIEF: “Non esistono docenti di serie B”",
@@ -136,12 +181,7 @@
                 "date": "18 Lug 2026",
                 "time": "15:04",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_127647092-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Domanda 150 preferenze entro il 29 luglio, supplenze anche per i docenti di ruolo. Indicazioni",
@@ -245,52 +285,60 @@
                 "date": "18 Lug 2026",
                 "time": "8:40",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/Antonio_rtl.jpeg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "GPS docenti 2026/28: ecco le graduatorie [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/gps-docenti-2026-27-ecco-le-prime-graduatorie-in-aggiornamento/",
-                "date": "18 Lug 2026",
-                "time": "8:22",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1785502850-scaled.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "“Sbagliato dire che un pedagogista non può parlare di scuola se non è stato a sua volta un insegnante”, e vi spiego perché. INTERVISTA al Prof Gianluca Amatori",
-                "link": "https://www.orizzontescuola.it/sbagliato-dire-che-un-pedagogista-non-puo-parlare-di-scuola-se-non-e-stato-a-sua-volta-un-insegnante-e-vi-spiego-perche-intervista-al-prof-gianluca-amatorissor/",
-                "date": "18 Lug 2026",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/gervasio_amatori-1.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "Progetto made in Italy, candidature delle scuole entro il 20 luglio",
-                "link": "https://www.orizzontescuola.it/progetto-made-in-italy-candidature-delle-scuole-entro-il-20-luglio/",
-                "date": "18 Lug 2026",
-                "time": "7:47",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/shutterstock_2308451975.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Immissioni in ruolo docenti 2026/27: Fase 1 Scelta provincia [Aggiornato con Abruzzo]",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2026-27-gia-partita-la-fase-1-scelta-della-provincia/",
-                "date": "18 Lug 2026",
-                "time": "7:04",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1349362136.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Immissioni in ruolo docenti 2026/27, 46.642 posti. Suddivisione per regione e classe di concorso [parziale rettifica Lombardia]",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2026-27-ecco-il-contingente-46-642-posti-e-la-suddivisione-per-regione/",
-                "date": "17 Lug 2026",
-                "time": "23:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2003113223.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Genitori",
+                "title": "Inclusione e calo demografico, Novara: “Deriva narcisistica del nostro tempo”. La proposta: asili nido gratis e una figura di consulenza da affiancare al pediatra",
+                "link": "https://www.orizzontescuola.it/inclusione-e-calo-demografico-novara-deriva-narcisistica-del-nostro-tempo-la-proposta-asili-nido-gratis-e-una-figura-di-consulenza-da-affiancare-al-pediatra/",
+                "date": "19 Lug 2026",
+                "time": "18:15",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Studenti",
+                "title": "Semestre filtro Medicina 2026/27, esami il 10 dicembre e l’11 gennaio: 31 domande per materia",
+                "link": "https://www.orizzontescuola.it/semestre-filtro-medicina-2026-27-esami-il-10-dicembre-e-l11-gennaio-31-domande-per-materia/",
+                "date": "19 Lug 2026",
+                "time": "17:02",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Docenti",
+                "title": "Scuola estiva di Filosofia a Potenza, 100 posti per docenti: iscrizioni entro il 20 luglio",
+                "link": "https://www.orizzontescuola.it/scuola-estiva-di-filosofia-a-potenza-100-posti-per-docenti-iscrizioni-entro-il-20-luglio/",
+                "date": "19 Lug 2026",
+                "time": "15:54",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Giffoni Film Festival, quando il cinema diventa strumento didattico nelle scuole: oltre 600mila studenti, la più grande aula di cinema d’Italia",
+                "link": "https://www.orizzontescuola.it/giffoni-film-festival-quando-il-cinema-diventa-strumento-didattico-nelle-scuole-oltre-600mila-studenti-la-piu-grande-aula-di-cinema-ditalia/",
+                "date": "19 Lug 2026",
+                "time": "15:51",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Meloni: “Fragilità alle elementari, le nuove Indicazioni rafforzeranno lettura e matematica. Docente tutor e Agenda Sud hanno funzionato”",
+                "link": "https://www.orizzontescuola.it/meloni-fragilita-alle-elementari-le-nuove-indicazioni-rafforzeranno-lettura-e-matematica-tutor-e-agenda-sud-hanno-funzionato/",
+                "date": "19 Lug 2026",
+                "time": "14:33",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Docenti",
+                "title": "Pluriclassi, autonomia e inclusione: online il nuovo Quaderno INDIRE con pratiche e strumenti per i docenti",
+                "link": "https://www.orizzontescuola.it/pluriclassi-autonomia-e-inclusione-online-il-nuovo-quaderno-indire-con-pratiche-e-strumenti-per-i-docenti/",
+                "date": "19 Lug 2026",
+                "time": "12:37",
+                "image_link": "N/A"
+            },
             {
                 "category": "Docenti",
                 "title": "Istituti professionali, in Europa immagine positiva al 67%. Italia promossa per inclusione, ma frenata dai pregiudizi. L’indagine",
@@ -317,7 +365,7 @@
             },
             {
                 "category": "Cronaca",
-                "title": "Meloni e Valditara: “Il coraggio di Borsellino sia bussola per i giovani”",
+                "title": "Meloni, Valditara e Frassinetti: “Il coraggio di Borsellino sia bussola per i giovani”",
                 "link": "https://www.orizzontescuola.it/meloni-e-valditara-il-coraggio-di-borsellino-sia-bussola-per-i-giovani/",
                 "date": "19 Lug 2026",
                 "time": "9:09",
@@ -378,47 +426,6 @@
                 "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2026-27-ecco-quanti-candidati-ancora-in-graduatoria-utile-per-gli-elenchi-regionali/",
                 "date": "18 Lug 2026",
                 "time": "8:23",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Pedibus, mense sane e life skills: il Veneto mobilita 683 scuole per formare cittadini (più) sani",
-                "link": "https://www.orizzontescuola.it/pedibus-mense-sane-e-life-skills-il-veneto-mobilita-683-scuole-per-formare-cittadini-piu-sani/",
-                "date": "17 Lug 2026",
-                "time": "21:22",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Dispersione scolastica ai minimi storici, ma l’allarme dell’AID: “L’inclusione è la vera cartina al tornasole. Senza diagnosi, lo studente resta indietro”",
-                "link": "https://www.orizzontescuola.it/dispersione-scolastica-ai-minimi-storici-ma-lallarme-dellaid-linclusione-e-la-vera-cartina-al-tornasole-senza-diagnosi-lo-studente-resta-indietro/",
-                "date": "17 Lug 2026",
-                "time": "20:05",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Genitori",
-                "title": "Giovani e smartphone, Luca Zingaretti: “Il divieto è una cura d’urgenza, poi serve la terapia”. L’allarme su IA e ansia",
-                "link": "https://www.orizzontescuola.it/giovani-e-smartphone-luca-zingaretti-il-divieto-e-una-cura-durgenza-poi-serve-la-terapia-lallarme-su-ia-e-ansia/",
-                "date": "17 Lug 2026",
-                "time": "17:56",
-                "image_link": "N/A"
-            },
-            null,
-            {
-                "category": "Cronaca",
-                "title": "Dispersione scolastica, Suor Alfieri: “Raggiunto e superato l’obiettivo UE. Il futuro della nostra Italia risiede negli investimenti a favore della scuola”",
-                "link": "https://www.orizzontescuola.it/dispersione-scolastica-suor-alfieri-raggiunto-e-superato-lobiettivo-ue-il-futuro-della-nostra-italia-risiede-negli-investimenti-a-favore-della-scuola/",
-                "date": "17 Lug 2026",
-                "time": "16:57",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Genitori",
-                "title": "Convitti INPS di proprietà 2026/27, domande entro il 31 luglio: destinatari e requisiti",
-                "link": "https://www.orizzontescuola.it/convitti-inps-di-proprieta-2026-27-domande-entro-il-31-luglio-destinatari-e-requisiti/",
-                "date": "17 Lug 2026",
-                "time": "16:42",
                 "image_link": "N/A"
             }
         ]
@@ -545,6 +552,30 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Immissioni in ruolo docenti 2026/27: Fase 1 Scelta provincia [Aggiornato con Abruzzo]",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2026-27-gia-partita-la-fase-1-scelta-della-provincia/",
+                "date": "18 Lug 2026",
+                "time": "7:04",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1349362136.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Immissioni in ruolo docenti 2026/27, 46.642 posti. Suddivisione per regione e classe di concorso [parziale rettifica Lombardia]",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2026-27-ecco-il-contingente-46-642-posti-e-la-suddivisione-per-regione/",
+                "date": "17 Lug 2026",
+                "time": "23:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2003113223.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Stipendio luglio 2026 docenti e ATA, online il cedolino. In attesa di aumenti e arretrati",
+                "link": "https://www.orizzontescuola.it/stipendio-luglio-2026-docenti-e-ata-online-il-cedolino-in-attesa-di-aumenti-e-arretrati/",
+                "date": "17 Lug 2026",
+                "time": "22:45",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/09/shutterstock_394337845.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Perché si dice “l’assegnazione provvisoria fa perdere punti per i futuri trasferimenti?” Ce lo spiega Paolo Pizzo (UIL Scuola)",
                 "link": "https://www.orizzontescuola.it/perche-si-dice-lassegnazione-provvisoria-fa-perdere-punti-per-i-futuri-trasferimenti-ce-lo-spiega-paolo-pizzo-uil-scuola/",
                 "date": "17 Lug 2026",
@@ -566,30 +597,6 @@
                 "date": "17 Lug 2026",
                 "time": "14:18",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2471109123-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Come leggere le GPS 2026. Si potranno avere supplenze sostegno senza titolo? Ne parliamo nella newsletter Diventare Insegnanti di venerdì 17 luglio",
-                "link": "https://www.orizzontescuola.it/come-leggere-le-gps-2026-si-potranno-avere-supplenze-sostegno-senza-titolo-ne-parliamo-nella-newsletter-diventare-insegnanti-di-venerdi-17-luglio/",
-                "date": "17 Lug 2026",
-                "time": "12:24",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/La-newsletter-per-Diventare-insegnante-2.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "TFA sostegno XI ciclo, a luglio anche la prova scritta. Ecco le date",
-                "link": "https://www.orizzontescuola.it/tfa-sostegno-xi-ciclo-a-luglio-anche-la-prova-scritta/",
-                "date": "17 Lug 2026",
-                "time": "12:06",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2361952943-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2026/27: posti orario, ripescaggio, cancellazione dalle GPS, vincoli docenti di ruolo nella pagina del Ministero con tutte le info",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-2026-27-posti-orario-ripescaggio-cancellazione-dalle-gps-vincoli-docenti-di-ruolo-nella-pagina-del-ministero-con-tutte-le-info/",
-                "date": "17 Lug 2026",
-                "time": "12:01",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2471109121.jpg"
             }
         ]
     },
