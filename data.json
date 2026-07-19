@@ -2,6 +2,7 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
+            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze, domanda 150 preferenze fino al 29 luglio ore 14 su Istanze online. Guida alla compilazione, risposte ai quesiti, esempi",
@@ -9,20 +10,61 @@
                 "date": "18 Lug 2026",
                 "time": "16:18",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/Supplenze-domanda-150-preferenze-1.png"
-            },
-            {
-                "category": "Docenti",
-                "title": "“Sbagliato dire che un pedagogista non può parlare di scuola se non è stato a sua volta un insegnante”, e vi spiego perché. INTERVISTA al Prof Gianluca Amatori",
-                "link": "https://www.orizzontescuola.it/sbagliato-dire-che-un-pedagogista-non-puo-parlare-di-scuola-se-non-e-stato-a-sua-volta-un-insegnante-e-vi-spiego-perche-intervista-al-prof-gianluca-amatorissor/",
-                "date": "18 Lug 2026",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/gervasio_amatori-1.png"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Scelta 150 preferenze, “lavorare sul sostegno non deve essere visto come una scorciatoia”: l’appello alla responsabilità per scelte consapevoli",
+                "link": "https://www.orizzontescuola.it/scelta-150-preferenze-lavorare-sul-sostegno-non-deve-essere-visto-come-una-scorciatoia-lappello-alla-responsabilita-per-scelte-consapevoli/",
+                "date": "19 Lug 2026",
+                "time": "10:36",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2033269823.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Conferma docente di sostegno 2026/27: la scelta nella domanda 150 preferenze diventa vincolante",
+                "link": "https://www.orizzontescuola.it/conferma-docente-di-sostegno-2026-27-la-scelta-nella-domanda-150-preferenze-diventa-vincolante/",
+                "date": "19 Lug 2026",
+                "time": "9:28",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2609787039.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "“In pensione a 62 anni e riconoscere il burnout come malattia”, il 78% dei prof è esaurito. La ricetta ANIEF: “Un atto di giustizia verso chi ha speso una vita in cattedra”. INTERVISTA",
+                "link": "https://www.orizzontescuola.it/in-pensione-a-62-anni-e-riconoscere-il-burnout-come-malattia-il-78-dei-prof-e-esaurito-la-ricetta-anief-un-atto-di-giustizia-verso-chi-ha-speso-una-vita-in-cattedra-intervista/",
+                "date": "19 Lug 2026",
+                "time": "8:58",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/Screenshot-2026-07-18-alle-11.57.47.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Consulenze per la compilazione delle 150 preferenze: posti limitati, prenota",
+                "link": "https://www.orizzontescuola.it/consulenze-per-la-compilazione-delle-150-preferenze-posti-limitati-prenota/",
+                "date": "19 Lug 2026",
+                "time": "8:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/150_prefe.png"
+            },
+            {
+                "category": "Docenti",
+                "title": "Utilizzazioni e assegnazioni provvisorie docenti 2026/27. Domande dal 10 al 23 luglio [LO SPECIALE]",
+                "link": "https://www.orizzontescuola.it/utilizzazioni-e-assegnazioni-provvisorie-2026-27-ecco-la-pagina-del-ministero/",
+                "date": "19 Lug 2026",
+                "time": "8:21",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/Utilizzazioni-e-assegnazioni-provvisorie-1.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze e 150 preferenze: differenza tra posto orario e spezzone di posto orario. Fate attenzione alla scelta. Il Punto di Attilio Varengo",
+                "link": "https://www.orizzontescuola.it/supplenze-e-150-preferenze-differenza-tra-posto-orario-e-spezzone-di-posto-orario-fate-attenzione-alla-scelta-il-punto-di-attilio-varengo/",
+                "date": "19 Lug 2026",
+                "time": "8:18",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Attilio_varengo.png"
+            },
+            null,
             {
                 "category": "Cronaca",
                 "title": "Docente assente allo scrutinio, il giudice le dà ragione: la colpa è della convocazione fantasma. Ecco che cosa hanno detto i giudici",
@@ -81,14 +123,6 @@
             },
             {
                 "category": "Diventare Insegnanti",
-                "title": "Consulenze per la compilazione delle 150 preferenze: posti limitati, prenota",
-                "link": "https://www.orizzontescuola.it/consulenze-per-la-compilazione-delle-150-preferenze-posti-limitati-prenota/",
-                "date": "18 Lug 2026",
-                "time": "15:51",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/150_prefe.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
                 "title": "Ferie non godute dei precari, quando spetta l’indennità sostitutiva: le indicazioni dell’avvocato Walter Miceli",
                 "link": "https://www.orizzontescuola.it/ferie-non-godute-dei-precari-quando-spetta-lindennita-sostitutiva-le-indicazioni-dellavvocato-walter-miceli/",
                 "date": "18 Lug 2026",
@@ -102,7 +136,12 @@
                 "date": "18 Lug 2026",
                 "time": "15:04",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_127647092-scaled.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Domanda 150 preferenze entro il 29 luglio, supplenze anche per i docenti di ruolo. Indicazioni",
@@ -150,12 +189,7 @@
                 "date": "18 Lug 2026",
                 "time": "10:31",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2492219935-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Quanto guadagna un insegnante oggi rispetto al 2014? Meno, molto meno. Ecco i numeri che nessuno racconta. Rosano (ANIEF): “I più penalizzati della PA”. INTERVISTA",
@@ -220,7 +254,14 @@
                 "time": "8:22",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1785502850-scaled.jpg"
             },
-            null,
+            {
+                "category": "Docenti",
+                "title": "“Sbagliato dire che un pedagogista non può parlare di scuola se non è stato a sua volta un insegnante”, e vi spiego perché. INTERVISTA al Prof Gianluca Amatori",
+                "link": "https://www.orizzontescuola.it/sbagliato-dire-che-un-pedagogista-non-puo-parlare-di-scuola-se-non-e-stato-a-sua-volta-un-insegnante-e-vi-spiego-perche-intervista-al-prof-gianluca-amatorissor/",
+                "date": "18 Lug 2026",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/gervasio_amatori-1.png"
+            },
             {
                 "category": "Scuole",
                 "title": "Progetto made in Italy, candidature delle scuole entro il 20 luglio",
@@ -244,60 +285,52 @@
                 "date": "17 Lug 2026",
                 "time": "23:15",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/05/shutterstock_2003113223.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Stipendio luglio 2026 docenti e ATA, online il cedolino. In attesa di aumenti e arretrati",
-                "link": "https://www.orizzontescuola.it/stipendio-luglio-2026-docenti-e-ata-online-il-cedolino-in-attesa-di-aumenti-e-arretrati/",
-                "date": "17 Lug 2026",
-                "time": "22:45",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/09/shutterstock_394337845.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Bimba muore per asfissia, la Cassazione condanna Comune e scuola: “La vigilanza non era adeguata”",
-                "link": "https://www.orizzontescuola.it/bimba-muore-per-asfissia-la-cassazione-condanna-comune-e-scuola-la-vigilanza-non-era-adeguata/",
-                "date": "17 Lug 2026",
-                "time": "20:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/12/shutterstock_1905525472-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Perché si dice “l’assegnazione provvisoria fa perdere punti per i futuri trasferimenti?” Ce lo spiega Paolo Pizzo (UIL Scuola)",
-                "link": "https://www.orizzontescuola.it/perche-si-dice-lassegnazione-provvisoria-fa-perdere-punti-per-i-futuri-trasferimenti-ce-lo-spiega-paolo-pizzo-uil-scuola/",
-                "date": "17 Lug 2026",
-                "time": "20:24",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_1157763859.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Assegnazioni provvisorie 2026/27, si può scegliere la precedenza tra posto comune e sostegno? Come funziona l’ordine dei movimenti",
-                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-2026-27-si-puo-scegliere-la-precedenza-tra-posto-comune-e-sostegno-come-funziona-lordine-dei-movimenti/",
-                "date": "17 Lug 2026",
-                "time": "18:32",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/Teacher_write.png"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Carta del docente ridotta a 383 euro. Pacifico (Anief): “Servono 200 milioni subito per ripristinarla a 500 euro o il contenzioso esploderà”",
-                "link": "https://www.orizzontescuola.it/carta-del-docente-ridotta-a-380-euro-pacifico-anief-servono-200-milioni-subito-per-ripristinarla-a-500-euro-o-il-contenzioso-esplodera/",
-                "date": "17 Lug 2026",
-                "time": "17:48",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/Carta-del-docente-2.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Formazione scuola-lavoro, il Ministero proroga la scadenza dei questionari di monitoraggio all’11 settembre. Istruzioni per segreterie, tutor e coordinatori",
-                "link": "https://www.orizzontescuola.it/formazione-scuola-lavoro-il-ministero-proroga-la-scadenza-dei-questionari-di-monitoraggio-all11-settembre-istruzioni-per-segreterie-tutor-e-coordinatori/",
-                "date": "17 Lug 2026",
-                "time": "17:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2502117529.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Docenti",
+                "title": "Istituti professionali, in Europa immagine positiva al 67%. Italia promossa per inclusione, ma frenata dai pregiudizi. L’indagine",
+                "link": "https://www.orizzontescuola.it/istituti-professionali-in-europa-immagine-positiva-al-67-italia-promossa-per-inclusione-ma-frenata-dai-pregiudizi-lindagine/",
+                "date": "19 Lug 2026",
+                "time": "11:42",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "A scuola di legalità con Pietro Grasso: “Stare dalla parte delle regole è la scelta più importante”",
+                "link": "https://www.orizzontescuola.it/a-scuola-di-legalita-con-pietro-grasso-stare-dalla-parte-delle-regole-e-la-scelta-piu-importante/",
+                "date": "19 Lug 2026",
+                "time": "10:44",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Multitasking, uomini ignorano le conversazioni oltre 2 volte più delle donne: lo studio rileva capacità simili tra i sessi",
+                "link": "https://www.orizzontescuola.it/multitasking-uomini-ignorano-le-conversazioni-oltre-2-volte-piu-delle-donne-lo-studio-rileva-capacita-simili-tra-i-sessi/",
+                "date": "19 Lug 2026",
+                "time": "9:43",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Meloni e Valditara: “Il coraggio di Borsellino sia bussola per i giovani”",
+                "link": "https://www.orizzontescuola.it/meloni-e-valditara-il-coraggio-di-borsellino-sia-bussola-per-i-giovani/",
+                "date": "19 Lug 2026",
+                "time": "9:09",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“Eroe per un giorno, analfabeta di diritto per sempre”, scuola contro politica: gli educatori insegnano legalità, i ministri insegnano giustizia privata. E i ragazzi imparano da chi?",
+                "link": "https://www.orizzontescuola.it/eroe-per-un-giorno-analfabeta-di-diritto-per-sempre-scuola-contro-politica-gli-educatori-insegnano-legalita-i-ministri-insegnano-giustizia-privata-e-i-ragazzi-imparano-da-chi/",
+                "date": "19 Lug 2026",
+                "time": "8:59",
+                "image_link": "N/A"
+            },
             null,
             {
                 "category": "Cronaca",
@@ -386,46 +419,6 @@
                 "link": "https://www.orizzontescuola.it/convitti-inps-di-proprieta-2026-27-domande-entro-il-31-luglio-destinatari-e-requisiti/",
                 "date": "17 Lug 2026",
                 "time": "16:42",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Precari, Pittoni (Lega): “Convertire le GPS in graduatorie per il ruolo”. Il piano per gli idonei e lo scorrimento degli elenchi",
-                "link": "https://www.orizzontescuola.it/precari-pittoni-lega-convertire-le-gps-in-graduatorie-per-il-ruolo-il-piano-per-gli-idonei-e-lo-scorrimento-degli-elenchi/",
-                "date": "17 Lug 2026",
-                "time": "16:09",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Scuole di Roma, il piano di Gualtieri: “Arriveremo a 1500 istituti riqualificati”. In arrivo l’aria condizionata nei nidi e nelle aule d’esame con stanziamento di 6 milioni",
-                "link": "https://www.orizzontescuola.it/scuole-di-roma-il-piano-di-gualtieri-arriveremo-a-1500-istituti-riqualificati-in-arrivo-laria-condizionata-nei-nidi-e-nelle-aule-desame-con-stanziamento-di-6-milioni/",
-                "date": "17 Lug 2026",
-                "time": "15:29",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "Esami di Stato, USR Piemonte pubblica la ricerca sulle commissioni: il giudizio cambia con l’orale, e conta molto l’argomentazione",
-                "link": "https://www.orizzontescuola.it/esami-di-stato-usr-piemonte-pubblica-la-ricerca-sulle-commissioni-il-giudizio-cambia-con-lorale-e-conta-molto-largomentazione/",
-                "date": "17 Lug 2026",
-                "time": "15:03",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Cambio di sesso e nome, il Ministero “cancella” il prof: niente carta docente per 3 anni. Ora il tribunale lo riabilita",
-                "link": "https://www.orizzontescuola.it/cambio-di-sesso-e-nome-il-ministero-cancella-il-prof-niente-carta-docente-per-3-anni-ora-il-tribunale-lo-riabilita/",
-                "date": "17 Lug 2026",
-                "time": "14:45",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Genitori",
-                "title": "Daniele Novara: “Tutto diventa una corsa a fare le cose il prima possibile”. Il rischio dell’adultizzazione precoce con la complicità dei genitori",
-                "link": "https://www.orizzontescuola.it/daniele-novara-tutto-diventa-una-corsa-a-fare-le-cose-il-prima-possibile-il-rischio-delladultizzazione-precoce-con-la-complicita-dei-genitori/",
-                "date": "17 Lug 2026",
-                "time": "14:36",
                 "image_link": "N/A"
             }
         ]
@@ -552,6 +545,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Perché si dice “l’assegnazione provvisoria fa perdere punti per i futuri trasferimenti?” Ce lo spiega Paolo Pizzo (UIL Scuola)",
+                "link": "https://www.orizzontescuola.it/perche-si-dice-lassegnazione-provvisoria-fa-perdere-punti-per-i-futuri-trasferimenti-ce-lo-spiega-paolo-pizzo-uil-scuola/",
+                "date": "17 Lug 2026",
+                "time": "20:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_1157763859.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Carta del docente ai precari, chi può ottenere il beneficio e gli arretrati: le indicazioni dell’avvocato Walter Miceli",
                 "link": "https://www.orizzontescuola.it/carta-del-docente-ai-precari-chi-puo-ottenere-il-beneficio-e-gli-arretrati-le-indicazioni-dellavvocato-walter-miceli/",
                 "date": "17 Lug 2026",
@@ -589,14 +590,6 @@
                 "date": "17 Lug 2026",
                 "time": "12:01",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2471109121.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Assegnazioni provvisorie docenti 2026, quali allegati servono per la deroga al vincolo triennale e quali errori bisogna evitare?",
-                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-docenti-2026-quali-allegati-servono-per-la-deroga-al-vincolo-triennale-e-quali-errori-bisogna-evitare/",
-                "date": "17 Lug 2026",
-                "time": "10:14",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_1158978574.jpg"
             }
         ]
     },
