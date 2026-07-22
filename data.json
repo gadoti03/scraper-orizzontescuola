@@ -24,12 +24,60 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
-                "category": "Nessuna categoria",
+                "category": "Diventare Insegnanti",
+                "title": "Consulenze per la compilazione delle 150 preferenze: posti limitati, prenota",
+                "link": "https://www.orizzontescuola.it/consulenze-per-la-compilazione-delle-150-preferenze-posti-limitati-prenota/",
+                "date": "21 Lug 2026",
+                "time": "21:09",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/150_prefe.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Anno di prova e supplenze GPS: cosa succede se arriva una proposta di nomina. Pillole di Question time",
+                "link": "https://www.orizzontescuola.it/anno-di-prova-e-supplenze-gps-cosa-succede-se-arriva-una-proposta-di-nomina-pillole-di-question-time/",
+                "date": "21 Lug 2026",
+                "time": "20:56",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2352497975.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Trasparenza, ANAC chiede correttivi sulle nuove modalità di pubblicazione tramite link alle banche dati",
+                "link": "https://www.orizzontescuola.it/trasparenza-anac-chiede-correttivi-sulle-nuove-modalita-di-pubblicazione-tramite-link-alle-banche-dati/",
+                "date": "21 Lug 2026",
+                "time": "20:05",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1863569833-scaled.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Scuola, Elly Schlein lancia l’alternativa al governo Meloni: “Stipendi docenti tra i più bassi d’Europa. Basta eroismo, servono diritti e investimenti strutturali”",
+                "link": "https://www.orizzontescuola.it/scuola-elly-schlein-lancia-lalternativa-al-governo-meloni-stipendi-docenti-tra-i-piu-bassi-deuropa-basta-eroismo-servono-diritti-e-investimenti-strutturali/",
+                "date": "21 Lug 2026",
+                "time": "19:43",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/Screenshot-2026-07-21-alle-19.06.40.png"
+            },
+            {
+                "category": "Didattica",
+                "title": "La storia siamo noi: responsabilità, memoria e partecipazione nella canzone di Francesco De Gregori. Insegnare con le canzoni",
+                "link": "https://www.orizzontescuola.it/la-storia-siamo-noi-responsabilita-memoria-e-partecipazione-nella-canzone-di-francesco-de-gregori-insegnare-con-le-canzoni/",
+                "date": "21 Lug 2026",
+                "time": "19:42",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/shutterstock_1525593416-scaled.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Ecco la legge sull’educazione non formale, 3,5 milioni nel 2026 per i comuni. Bonetti: “Centri estivi e oratori finalmente riconosciuti nella crescita di bambini e ragazzi”",
+                "link": "https://www.orizzontescuola.it/ecco-la-legge-sulleducazione-non-formale-35-milioni-nel-2026-per-i-comuni-bonetti-centri-estivi-e-oratori-finalmente-riconosciuti-nella-crescita-di-bambini-e-ragazzi/",
+                "date": "21 Lug 2026",
+                "time": "19:35",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2492219935-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Supplenze GPS (150 preferenze), come funziona il ripescaggio: “perché non serve più inserire tutte le scuole”. Di cosa parliamo? Il Punto di Giuseppe Semeraro",
                 "link": "https://www.orizzontescuola.it/supplenze-gps-150-preferenze-come-funziona-il-ripescaggio-perche-non-serve-piu-inserire-tutte-le-scuole-di-cosa-parliamo-il-punto-di-giuseppe-semeraro/",
                 "date": "21 Lug 2026",
                 "time": "19:02",
-                "image_link": "N/A"
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/giuseppe_semeraro_2.png"
             },
             {
                 "category": "Docenti",
@@ -95,7 +143,12 @@
                 "time": "15:14",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/Marcello-Pacifico-1.png"
             },
-            null,
+            null
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "GPS docenti 2026/28: a rilento la pubblicazione delle graduatorie [AGGIORNATO]",
@@ -103,14 +156,6 @@
                 "date": "21 Lug 2026",
                 "time": "14:51",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1785502850-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Consulenze per la compilazione delle 150 preferenze: posti limitati, prenota",
-                "link": "https://www.orizzontescuola.it/consulenze-per-la-compilazione-delle-150-preferenze-posti-limitati-prenota/",
-                "date": "21 Lug 2026",
-                "time": "14:47",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/150_prefe.png"
             },
             {
                 "category": "Diventare Insegnanti",
@@ -143,12 +188,7 @@
                 "date": "21 Lug 2026",
                 "time": "14:34",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2609787039.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenza 2026/27, o 18 ore o niente. Non inserisco gli spezzoni?",
@@ -252,38 +292,20 @@
                 "date": "21 Lug 2026",
                 "time": "9:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2103022342.jpg"
-            },
-            null,
-            {
-                "category": "Dirigenti scolastici",
-                "title": "Atti unilaterali oggetto di contrattazione con i sindacati, ritardi o mancata comunicazione delle assemblee sindacali. Condotta antisindacale di un Dirigente",
-                "link": "https://www.orizzontescuola.it/atti-unilaterali-oggetto-di-contrattazione-con-i-sindacati-ritardi-o-mancata-comunicazione-delle-assemblee-sindacali-condotta-antisindacale-di-un-dirigente/",
-                "date": "21 Lug 2026",
-                "time": "8:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1687192501-1.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Matematica e scienze, competenze in peggioramento. Europa: “Entro il 2030 almeno il 15% in più di studenti con risultati eccellenti”. Il piano e tutti gli obiettivi",
-                "link": "https://www.orizzontescuola.it/matematica-e-scienze-competenze-in-peggioramento-europa-entro-il-2030-almeno-il-15-di-studenti-con-risultati-eccellenti-il-piano-e-tutti-gli-obiettivi/",
-                "date": "21 Lug 2026",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/shutterstock_2575883415.jpg"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "Erasmus+ scuole: come costruire e gestire il riparto finanziario senza errori. Con 16 documenti da scaricare",
-                "link": "https://www.orizzontescuola.it/erasmus-scuole-come-costruire-e-gestire-il-riparto-finanziario-senza-errori-con-16-documenti-da-scaricare/",
-                "date": "21 Lug 2026",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/shutterstock_1460811209.jpg"
-            },
-            null
+            }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Intelligenza artificiale, la Toscana approva la prima legge regionale. Nasce la Carta dei diritti digitali: tutela dei minori e diritto alla disconnessione",
+                "link": "https://www.orizzontescuola.it/intelligenza-artificiale-la-toscana-approva-la-prima-legge-regionale-nasce-la-carta-dei-diritti-digitali-tutela-dei-minori-e-diritto-alla-disconnessione/",
+                "date": "21 Lug 2026",
+                "time": "19:27",
+                "image_link": "N/A"
+            },
             {
                 "category": "Politica scolastica",
                 "title": "“La scuola che vorrei”, Simona Malpezzi prende in prestito Luigi Berlinguer e immagina un istituto senza campanella e senza confini",
@@ -411,14 +433,6 @@
                 "link": "https://www.orizzontescuola.it/150-preferenze-gps-tutorial-tra-spezzoni-coe-coi-e-posto-orario-a-cosa-fare-attenzione-question-time-con-cozzetto-anief-live-martedi-21-luglio-alle-1500/",
                 "date": "21 Lug 2026",
                 "time": "12:10",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Buoni pasto per insegnanti e ATA, la proposta del CNDDU: “Fondo da 230 milioni per chi supera le 6 ore di lavoro”",
-                "link": "https://www.orizzontescuola.it/buoni-pasto-per-insegnanti-e-ata-la-proposta-del-cnddu-fondo-da-230-milioni-per-chi-supera-le-6-ore-di-lavoro/",
-                "date": "21 Lug 2026",
-                "time": "12:04",
                 "image_link": "N/A"
             }
         ]
@@ -650,6 +664,14 @@
         "title": "Didattica",
         "articles": [
             {
+                "category": "Cronaca",
+                "title": "Collegi docenti online, c’è il sì del Ministero. Gilda: “Bene l’accordo, ma il voto sia sicuro e segreto”. INTERVISTA CASTELLANA",
+                "link": "https://www.orizzontescuola.it/collegi-docenti-online-ce-il-si-del-ministero-gilda-bene-laccordo-ma-il-voto-sia-sicuro-e-segreto-intervista-castellana/",
+                "date": "26 Giu 2026",
+                "time": "7:59",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/TABELLACOPERTINA-1-5-scaled.png"
+            },
+            {
                 "category": "Didattica",
                 "title": "“Che sia benedetta”: un invito a “tenerci stretta” la vita e a rialzarci nonostante il dolore. Insegnare con le canzoni",
                 "link": "https://www.orizzontescuola.it/che-sia-benedetta-un-invito-a-tenerci-stretta-la-vita-e-a-rialzarci-nonostante-il-dolore-insegnare-con-le-canzoni/",
@@ -688,14 +710,6 @@
                 "date": "28 Mag 2026",
                 "time": "11:52",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/TABELLACOPERTINA-1-5-scaled.png"
-            },
-            {
-                "category": "Didattica",
-                "title": "“Clandestino” di Manu Chao: la voce di chi vive ai margini della società. Insegnare con le canzoni",
-                "link": "https://www.orizzontescuola.it/clandestino-di-manu-chao-la-voce-di-chi-vive-ai-margini-della-societa-insegnare-con-le-canzoni/",
-                "date": "22 Mag 2026",
-                "time": "18:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/shutterstock_299749361-scaled.jpg"
             }
         ]
     },
