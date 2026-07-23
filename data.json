@@ -2,6 +2,7 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
+            null,
             {
                 "category": "Scuole",
                 "title": "Oltre 150 documenti operativi per l’inizio dell’anno scolastico 2026/2027: la raccolta completa per dirigenti, DSGA, segreterie e docenti",
@@ -9,20 +10,153 @@
                 "date": "23 Lug 2026",
                 "time": "8:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/modulistica2627.png"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "L’intelligenza artificiale entra nel contratto scuola: nessuna bocciatura sarà decisa “al computer”, la “libertà di insegnamento” resta blindata. Tre gli articoli dedicati al tema",
-                "link": "https://www.orizzontescuola.it/lintelligenza-artificiale-entra-nel-contratto-scuola-la-liberta-di-insegnamento-resta-blindata-e-nessuna-bocciatura-sara-decisa-al-computer-tre-gli-articoli-dedicati-al-tema/",
-                "date": "22 Lug 2026",
-                "time": "17:56",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2729472577.jpg"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Nessuna categoria",
+                "title": "Mobilità annuale ATA: modelli, scadenze e istruzioni. Tutte le info utili. QUESTION TIME con Cozzolino. LIVE Venerdì 24 luglio alle 15:30",
+                "link": "https://www.orizzontescuola.it/mobilita-annuale-ata-modelli-scadenze-e-istruzioni-tutte-le-info-utili-question-time-con-cozzolino-live-venerdi-24-luglio-alle-1530/",
+                "date": "23 Lug 2026",
+                "time": "19:19",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/Template_questiontime_1920x1080-26.png"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "150 preferenze GPS: guida alla compilazione, ecco gli errori da non commettere. QUESTION TIME con Semeraro. LIVE Venerdì 24 luglio alle 14:30",
+                "link": "https://www.orizzontescuola.it/150-preferenze-gps-guida-alla-compilazione-ecco-gli-errori-da-non-commettere-question-time-con-semeraro-live-venerdi-24-luglio-alle-1430/",
+                "date": "23 Lug 2026",
+                "time": "19:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/Template_questiontime_1920x1080-25.png"
+            },
+            {
+                "category": "Dirigenti scolastici",
+                "title": "Contratto dirigenti scolastici, ok definitivo: +230 euro al mese e arretrati fino a 5.800 euro. Valditara: “Tuteliamo i salari di chi lavora nella scuola”",
+                "link": "https://www.orizzontescuola.it/contratto-dirigenti-scolastici-ok-definitivo-230-euro-al-mese-e-arretrati-fino-a-5-800-euro-valditara-tuteliamo-i-salari-di-chi-lavora-nella-scuola/",
+                "date": "23 Lug 2026",
+                "time": "18:48",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/Screenshot-2026-07-01-alle-19.25.30.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Se ritiro la domanda delle 150 preferenze rinuncio anche alla procedura finalizzata al ruolo?",
+                "link": "https://www.orizzontescuola.it/se-ritiro-la-domanda-delle-150-preferenze-rinuncio-anche-alla-procedura-finalizzata-al-ruolo/",
+                "date": "23 Lug 2026",
+                "time": "18:45",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2491902319.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“Vietare smartphone e tablet sotto i 3 anni”, arriva in Parlamento il DDL che introduce divieto assoluto: prevista anche formazione obbligatoria per i genitori. TESTO",
+                "link": "https://www.orizzontescuola.it/vietare-smartphone-e-tablet-sotto-i-3-anni-arriva-in-parlamento-il-ddl-che-introduce-divieto-assoluto-prevista-anche-formazione-obbligatoria-per-i-genitori/",
+                "date": "23 Lug 2026",
+                "time": "17:43",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2487905135.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2026, l’algoritmo si ferma quando è disponibile la prima preferenza espressa. Cosa significa",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-2026-lalgoritmo-si-ferma-quando-e-disponibile-la-prima-preferenza-espressa-cosa-significa/",
+                "date": "23 Lug 2026",
+                "time": "17:16",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Se non ottengo la continuità sul sostegno subisco penalizzazioni?",
+                "link": "https://www.orizzontescuola.it/se-non-ottengo-la-continuita-sul-sostegno-subisco-penalizzazioni/",
+                "date": "23 Lug 2026",
+                "time": "17:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_1158978574.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Al primo inserimento in GPS è obbligatorio indicare tutte le scuole?",
+                "link": "https://www.orizzontescuola.it/al-primo-inserimento-in-gps-e-obbligatorio-indicare-tutte-le-scuole/",
+                "date": "23 Lug 2026",
+                "time": "16:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_2112392237.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Con tutti i concorsi ancora in corso ci saranno comunque supplenze da GPS?",
+                "link": "https://www.orizzontescuola.it/con-tutti-i-concorsi-ancora-in-corso-ci-saranno-comunque-supplenze-da-gps/",
+                "date": "23 Lug 2026",
+                "time": "16:46",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2120807768.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Scuola, alla Camera approvata la risoluzione “anti-islamizzazione”. La maggioranza esulta: “Fermiamo la propaganda”. Sindacati e opposizione: “È caccia alle streghe”",
+                "link": "https://www.orizzontescuola.it/scuola-la-camera-dice-si-alla-stretta-su-burqa-e-indottrinamento-la-maggioranza-esulta-fermiamo-la-propaganda-sindacati-e-opposizione-e-caccia-alle-streghe-si-fermi-il-populismo/",
+                "date": "23 Lug 2026",
+                "time": "16:34",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2052290018.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Quali conseguenze ci sono se si rifiuta una nomina finalizzata al ruolo dalla prima fascia GPS sostegno?",
+                "link": "https://www.orizzontescuola.it/quali-conseguenze-ci-sono-se-si-rifiuta-una-nomina-finalizzata-al-ruolo-dalla-prima-fascia-gps-sostegno/",
+                "date": "23 Lug 2026",
+                "time": "16:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2484258749.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Personale ATA in comando presso gli USR 2026/27, al via le selezioni: disponibili 963 posti",
+                "link": "https://www.orizzontescuola.it/personale-ata-in-comando-presso-gli-usr-2026-27-al-via-le-selezioni-disponibili-963-posti/",
+                "date": "23 Lug 2026",
+                "time": "15:14",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_1070096513.jpg"
+            },
+            {
+                "category": "Scuole",
+                "title": "Posta elettronica delle scuole statali, dal 1° settembre allineamento di indirizzi PEO e PEC. Circolare",
+                "link": "https://www.orizzontescuola.it/posta-elettronica-delle-scuole-statali-dal-1-settembre-allineamento-di-indirizzi-peo-e-pec-circolare/",
+                "date": "23 Lug 2026",
+                "time": "14:39",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/11/shutterstock_1842626092.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "ATA 24 mesi 2026, ecco le graduatorie provvisorie e definitive [AGGIORNATO con Cuneo, Como, Brindisi e Viterbo]",
+                "link": "https://www.orizzontescuola.it/ata-24-mesi-ecco-le-prime-graduatorie-provvisorie-reclamo-entro-10-giorni-in-aggiornamento/",
+                "date": "23 Lug 2026",
+                "time": "14:29",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2492219935-scaled.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Social vietati agli under 15, Lavenia (Di.Te.) al Governo: “Serve un Patentino Digitale per accedere alle piattaforme”",
+                "link": "https://www.orizzontescuola.it/social-vietati-agli-under-15-lavenia-di-te-al-governo-serve-un-patentino-digitale-per-accedere-alle-piattaforme/",
+                "date": "23 Lug 2026",
+                "time": "14:04",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/Immagine-WhatsApp-2024-09-02-ore-17.10.21_b26199bd.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "A che punto sono le assunzioni del personale docente per il 2026/27? Ne parliamo nella newsletter Diventare Insegnanti di venerdì 24 luglio",
+                "link": "https://www.orizzontescuola.it/a-che-punto-sono-le-assunzioni-del-personale-docente-per-il-2026-27-ne-parliamo-nella-newsletter-diventare-insegnanti-di-venerdi-24-luglio/",
+                "date": "23 Lug 2026",
+                "time": "13:06",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/La-newsletter-per-Diventare-insegnante-2.png"
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Scienze della formazione primaria 2026/27, ecco i BANDI e le scadenze",
+                "link": "https://www.orizzontescuola.it/scienze-della-formazione-primaria-2026-27-ecco-i-bandi-e-le-scadenze/",
+                "date": "23 Lug 2026",
+                "time": "13:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2352497975.jpg"
+            },
             {
                 "category": "ATA",
                 "title": "Utilizzazioni e assegnazioni provvisorie ATA 2026/27, al via le domande: chi può richiederle e quali sono le differenze",
@@ -129,26 +263,13 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/Screenshot-2026-07-14-alle-18.11.26.png"
             },
             {
-                "category": "ATA",
-                "title": "ATA 24 mesi 2026, ecco le graduatorie provvisorie e definitive [AGGIORNATO con Viterbo]",
-                "link": "https://www.orizzontescuola.it/ata-24-mesi-ecco-le-prime-graduatorie-provvisorie-reclamo-entro-10-giorni-in-aggiornamento/",
-                "date": "23 Lug 2026",
-                "time": "9:14",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2492219935-scaled.jpg"
-            },
-            {
                 "category": "Diventare Insegnanti",
                 "title": "Nomine da GaE e GPS 2026/27, se accetto uno spezzone non posso lasciarlo per una cattedra intera che si libera nel turno successivo",
                 "link": "https://www.orizzontescuola.it/nomine-da-gae-e-gps-2026-27-se-accetto-uno-spezzone-non-posso-lasciarlo-per-una-cattedra-intera-che-si-libera-nel-turno-successivo/",
                 "date": "23 Lug 2026",
                 "time": "9:11",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2583566281.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Spaggiari celebra i 100 anni: “L’intelligenza artificiale deve ridurre i carichi ripetitivi e lasciare più tempo alla didattica”",
@@ -158,125 +279,138 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/Nicola-de-Cesare_CEO-Gruppo-Spaggiari-Parma_1000x500.jpg"
             },
             {
-                "category": "ATA",
-                "title": "Assegnazioni provvisorie ATA, si parte! Ecco a cosa fare attenzione nella compilazione della domanda. QUESTION TIME con Sorrentino (Anief) LIVE Giovedì 23 luglio alle 15:30",
-                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-ata-si-parte-ecco-a-cosa-fare-attenzione-nella-compilazione-della-domanda-question-time-con-sorrentino-anief-live-giovedi-23-luglio-alle-1530/",
-                "date": "23 Lug 2026",
-                "time": "8:52",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/Template_questiontime_1920x1080-23.png"
-            },
-            {
                 "category": "Politica scolastica",
                 "title": "Rinnovo contratto scuola 2025-27, per UIL l’IA non deve essere “subita” ma “governata”, Snals rilancia lavoro agile, Gilda dice no all’anarchia scolastica, Anief resta in attesa. INTERVISTE",
                 "link": "https://www.orizzontescuola.it/rinnovo-contratto-scuola-2025-27-per-uil-lia-non-deve-essere-subita-ma-governata-snals-rilancia-lavoro-agile-gilda-dice-no-allanarchia-scolastica-anief-resta-in-attesa-interviste/",
                 "date": "23 Lug 2026",
                 "time": "8:49",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Aran.jpeg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Supplenze GPS docenti, continuità, posto orario e ripescaggio: tutte le info utili. QUESTION TIME con Craparo (Gilda) LIVE Giovedì 23 luglio alle 14:30",
-                "link": "https://www.orizzontescuola.it/supplenze-gps-docenti-continuita-posto-orario-e-ripescaggio-tutte-le-info-utili-question-time-con-craparo-gilda-live-giovedi-23-luglio-alle-1430/",
-                "date": "23 Lug 2026",
-                "time": "8:48",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/Template_questiontime_1920x1080-22.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "Incompatibilità, libera professione e incarichi extraistituzionali: disponibili i modelli e la circolare operativa per l’anno scolastico 2026/2027",
-                "link": "https://www.orizzontescuola.it/incompatibilita-libera-professione-e-incarichi-extraistituzionali-disponibili-i-modelli-e-la-circolare-operativa-per-lanno-scolastico-2026-2027/",
-                "date": "23 Lug 2026",
-                "time": "8:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/shutterstock_397574674.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "La LUMSA si conferma al vertice della classifica Censis tra gli Atenei non statali di medie dimensioni. Palermo protagonista di un percorso di crescita e di eccellenza",
-                "link": "https://www.orizzontescuola.it/la-lumsa-si-conferma-al-vertice-della-classifica-censis-tra-gli-atenei-non-statali-di-medie-dimensioni-palermo-protagonista-di-un-percorso-di-crescita-e-di-eccellenza/",
-                "date": "23 Lug 2026",
-                "time": "8:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/IMG-20260221-WA0017-e1784729521678.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze, domanda 150 preferenze fino al 29 luglio ore 14 su Istanze online. Guida alla compilazione, risposte ai quesiti, esempi",
-                "link": "https://www.orizzontescuola.it/supplenze-domanda-150-preferenze-al-via-dal-16-luglio-alle-14-su-istanze-online-guida-alla-compilazione-risposte-ai-quesiti-esempi/",
-                "date": "23 Lug 2026",
-                "time": "7:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/Supplenze-domanda-150-preferenze-1.png"
-            },
-            null,
-            null,
-            null,
-            {
-                "category": "Docenti",
-                "title": "Assegnazione provvisoria docenti 2026/27, chiarimenti su allegati e indicazione prima preferenza",
-                "link": "https://www.orizzontescuola.it/assegnazione-provvisoria-docenti-2026-27-chiarimenti-su-allegati-e-indicazione-prima-preferenza/",
-                "date": "23 Lug 2026",
-                "time": "7:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2626799523.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Assegnazione provvisoria e domanda supplenze 150 preferenze non sono collegate ma possono essere utilizzate entrambe dai docenti di ruolo",
-                "link": "https://www.orizzontescuola.it/assegnazione-provvisoria-e-domanda-supplenze-150-preferenze-non-sono-collegate-ma-possono-essere-utilizzate-entrambe-dai-docenti-di-ruolo/",
-                "date": "22 Lug 2026",
-                "time": "21:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_1335538793.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2026/27, l’algoritmo considera nei turni successivi anche chi ha già ottenuto uno spezzone",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-2026-27-lalgoritmo-considera-nei-turni-successivi-anche-chi-ha-gia-ottenuto-uno-spezzone/",
-                "date": "22 Lug 2026",
-                "time": "19:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1916116798.jpg"
-            },
-            {
-                "category": "Stipendio",
-                "title": "Stipendi italiani tra i peggiori d’Europa, il 2026 certifica il crollo del potere d’acquisto. ANIEF all’attacco: “Docenti e ATA pagati come nel 1970”",
-                "link": "https://www.orizzontescuola.it/stipendi-italiani-tra-i-peggiori-deuropa-il-2026-certifica-il-crollo-del-potere-dacquisto-anief-allattacco-pagati-come-nel-1970/",
-                "date": "22 Lug 2026",
-                "time": "19:21",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/06/shutterstock_1897472932.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Immissioni in ruolo religione 2026/27: 991 posti alla primaria e infanzia, 1.637 alle superiori. Le compensazioni slittano al prossimo anno se il contingente non basta. DECRETO e ALLEGATI",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-religione-2026-27-991-posti-alla-primaria-e-infanzia-1-637-alle-superiori-le-compensazioni-slittano-al-prossimo-anno-se-il-contingente-non-basta-decreto/",
-                "date": "22 Lug 2026",
-                "time": "19:13",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2263814763-1.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Esami integrativi scuola secondaria: le novità su colloquio orientativo, autonomia delle scuole e i chiarimenti richiesti dal CSPI per Linguistico e IeFP",
-                "link": "https://www.orizzontescuola.it/esami-integrativi-scuola-secondaria-colloquio-orientativo-non-piu-solo-valutativo-ok-allunanimita-del-cspi-allo-schema-di-ordinanza/",
-                "date": "22 Lug 2026",
-                "time": "19:08",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/Esame_orale.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "GPS docenti 2026/28: a rilento la pubblicazione delle graduatorie [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/gps-docenti-2026-27-ecco-le-prime-graduatorie-in-aggiornamento/",
-                "date": "22 Lug 2026",
-                "time": "18:34",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1785502850-scaled.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Burnout e stress lavoro-correlato entrano nelle relazioni sindacali: lo prevede il contratto Scuola 2025-27",
-                "link": "https://www.orizzontescuola.it/burnout-e-stress-lavoro-correlato-entrano-nelle-relazioni-sindacali-lo-prevede-il-contratto-scuola-2025-27/",
-                "date": "22 Lug 2026",
-                "time": "18:29",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_529709986.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Docenti",
+                "title": "“È giusto o sbagliato vietare l’uso dei social ai minori di 15 anni?”, il parere di Vincenzo Schettini",
+                "link": "https://www.orizzontescuola.it/e-giusto-o-sbagliato-vietare-luso-dei-social-ai-minori-di-15-anni-il-parere-di-vincenzo-schettini/",
+                "date": "23 Lug 2026",
+                "time": "18:48",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Lavoro e disabilità, il Ministro Locatelli sblocca 25 milioni per under 35: via alle assunzioni nel Terzo settore",
+                "link": "https://www.orizzontescuola.it/lavoro-e-disabilita-il-ministro-locatelli-sblocca-25-milioni-per-under-35-via-alle-assunzioni-nel-terzo-settore/",
+                "date": "23 Lug 2026",
+                "time": "18:25",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Nuove banconote euro, la BCE svela i bozzetti in gara. Lagarde: “Espressioni tangibili dell’Europa”. I cittadini scelgono i disegni fino al 21 settembre",
+                "link": "https://www.orizzontescuola.it/nuove-banconote-euro-la-bce-svela-i-bozzetti-in-gara-lagarde-espressioni-tangibili-delleuropa-i-cittadini-scelgono-i-disegni-fino-al-21-settembre/",
+                "date": "23 Lug 2026",
+                "time": "17:57",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Giornali a scuola, via libera ai fondi per oltre mille istituti. Barachini: “Contributo determinante per il senso civico”. Rimborsi fino al 90% per gli abbonamenti",
+                "link": "https://www.orizzontescuola.it/giornali-a-scuola-via-libera-ai-fondi-per-oltre-mille-istituti-barachini-contributo-determinante-per-il-senso-civico-rimborsi-fino-al-90-per-gli-abbonamenti/",
+                "date": "23 Lug 2026",
+                "time": "17:44",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Corsi Indire sul sostegno, Pittoni (Lega): “Trattative in corso per un terzo ciclo. Non andate dietro alle voci”",
+                "link": "https://www.orizzontescuola.it/corsi-indire-sul-sostegno-pittoni-lega-trattative-in-corso-per-un-terzo-ciclo-non-andate-dietro-alle-voci/",
+                "date": "23 Lug 2026",
+                "time": "16:54",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Rinnovo CCNL 2025-27, Anief rilancia: parità per i precari, mobilità, figure di sistema, burnout e buoni pasto",
+                "link": "https://www.orizzontescuola.it/rinnovo-ccnl-2025-27-anief-rilancia-parita-per-i-precari-mobilita-figure-di-sistema-burnout-e-buoni-pasto/",
+                "date": "23 Lug 2026",
+                "time": "16:34",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Violenza di genere, Valditara: “A scuola parità e rispetto sono obiettivi obbligatori”",
+                "link": "https://www.orizzontescuola.it/violenza-di-genere-valditara-a-scuola-parita-e-rispetto-sono-obiettivi-obbligatori/",
+                "date": "23 Lug 2026",
+                "time": "15:41",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "Sportelli psico-pedagogici in Lombardia, 3,7 milioni per il triennio 2026-29. Domande dal 27 luglio al 2 ottobre",
+                "link": "https://www.orizzontescuola.it/sportelli-psico-pedagogici-in-lombardia-37-milioni-per-il-triennio-2026-29-domande-dal-27-luglio-al-2-ottobre/",
+                "date": "23 Lug 2026",
+                "time": "15:17",
+                "image_link": "N/A"
+            },
+            {
+                "category": "ATA",
+                "title": "Assegnazioni provvisorie ATA, si parte! Ecco a cosa fare attenzione nella compilazione della domanda. QUESTION TIME con Sorrentino (Anief)",
+                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-ata-si-parte-ecco-a-cosa-fare-attenzione-nella-compilazione-della-domanda-question-time-con-sorrentino-anief-live-giovedi-23-luglio-alle-1530/",
+                "date": "23 Lug 2026",
+                "time": "15:14",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Docenti",
+                "title": "Welfare scuola, il CNDDU: “Le agevolazioni non sostituiscano aumenti salariali e valorizzazione professionale”",
+                "link": "https://www.orizzontescuola.it/welfare-scuola-il-cnddu-le-agevolazioni-non-sostituiscano-aumenti-salariali-e-valorizzazione-professionale/",
+                "date": "23 Lug 2026",
+                "time": "15:06",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "Esami di abilitazione per Geometri 2026, ricognizione delle aule informatiche: risposte entro il 30 luglio",
+                "link": "https://www.orizzontescuola.it/esami-di-abilitazione-per-geometri-2026-ricognizione-delle-aule-informatiche-risposte-entro-il-30-luglio/",
+                "date": "23 Lug 2026",
+                "time": "14:45",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Bimbo di un anno e mezzo morto, aperta un’inchiesta: ricoverati altri quattro bambini dello stesso asilo",
+                "link": "https://www.orizzontescuola.it/bimbo-di-un-anno-e-mezzo-morto-aperta-uninchiesta-ricoverati-altri-quattro-bambini-dello-stesso-asilo/",
+                "date": "23 Lug 2026",
+                "time": "14:26",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Contratti pubblici, Meloni rivendica i 48 rinnovi: “Dietro il pubblico impiego ci sono l’infermiere, la maestra, l’impiegato. Per anni hanno lavorato con accordi scaduti”",
+                "link": "https://www.orizzontescuola.it/contratti-pubblici-meloni-rivendica-i-48-rinnovi-dietro-il-pubblico-impiego-ci-sono-linfermiere-la-maestra-limpiegato-per-anni-hanno-lavorato-con-accordi-scaduti/",
+                "date": "23 Lug 2026",
+                "time": "13:11",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Pubblicato il decreto assunzioni insegnanti di religione cattolica: per Anief ancora “insufficienti le immissioni in ruolo”",
+                "link": "https://www.orizzontescuola.it/pubblicato-il-decreto-assunzioni-insegnanti-di-religione-cattolica-per-anief-ancora-insufficienti-le-immissioni-in-ruolo/",
+                "date": "23 Lug 2026",
+                "time": "12:54",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Supplenze GPS docenti, continuità, posto orario e ripescaggio: tutte le info utili. QUESTION TIME con Craparo (Gilda)",
+                "link": "https://www.orizzontescuola.it/supplenze-gps-docenti-continuita-posto-orario-e-ripescaggio-tutte-le-info-utili-question-time-con-craparo-gilda-live-giovedi-23-luglio-alle-1430/",
+                "date": "23 Lug 2026",
+                "time": "12:48",
+                "image_link": "N/A"
+            },
             null,
             {
                 "category": "Politica scolastica",
@@ -292,126 +426,6 @@
                 "link": "https://www.orizzontescuola.it/eccellenza-italiana-al-collegio-deuropa-consegnati-1-000-euro-e-un-attestato-di-merito-ai-cinque-migliori-studenti-la-premiazione-con-il-ministro-foti/",
                 "date": "23 Lug 2026",
                 "time": "12:03",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Caldo record nei nidi e nelle materne di Milano, la UilFp indice lo sciopero per il 29 luglio. L’accusa: “Strutture invivibili e temperature oltre i 35 gradi”",
-                "link": "https://www.orizzontescuola.it/caldo-record-nei-nidi-e-nelle-materne-di-milano-la-uilfp-indice-lo-sciopero-per-il-29-luglio-laccusa-strutture-invivibili-e-temperature-oltre-i-35-gradi/",
-                "date": "23 Lug 2026",
-                "time": "11:41",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Studenti",
-                "title": "Visti studenti negli USA, addio al soggiorno a tempo indeterminato. Nuove regole dal 2026: limite di quattro anni e controlli severi",
-                "link": "https://www.orizzontescuola.it/visti-studenti-negli-usa-addio-al-soggiorno-a-tempo-indeterminato-nuove-regole-dal-2026-limite-di-quattro-anni-e-controlli-severi/",
-                "date": "23 Lug 2026",
-                "time": "10:56",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "“Islamizzazione nelle scuole”, approvata risoluzione di Futuro Nazionale. Sasso: “Basta propaganda ideologica in classe”",
-                "link": "https://www.orizzontescuola.it/islamizzazione-nelle-scuole-approvata-risoluzione-di-futuro-nazionale-sasso-basta-propaganda-ideologica-in-classe/",
-                "date": "23 Lug 2026",
-                "time": "8:56",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "“Hai fatto solo il tuo dovere”, Galiano spiega i tre motivi per non dirlo più agli studenti: “Così alimentiamo il perfezionismo tossico”",
-                "link": "https://www.orizzontescuola.it/hai-fatto-solo-il-tuo-dovere-galiano-spiega-i-tre-motivi-per-non-dirlo-piu-agli-studenti-cosi-alimentiamo-il-perfezionismo-tossico/",
-                "date": "23 Lug 2026",
-                "time": "8:55",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Trasporti gratis in Campania per 400mila studenti: via libera agli abbonamenti annuali 2026-2027",
-                "link": "https://www.orizzontescuola.it/trasporti-gratis-in-campania-per-400mila-studenti-via-libera-agli-abbonamenti-annuali-2026-2027/",
-                "date": "22 Lug 2026",
-                "time": "21:53",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Rinnovo contratto scuola 2025-27, primo sì ma è già scontro su IA e cambiamenti climatici: la FLC CGIL spinge per modifiche sostanziali",
-                "link": "https://www.orizzontescuola.it/rinnovo-contratto-scuola-2025-27-primo-si-ma-e-gia-scontro-su-ia-e-cambiamenti-climatici-la-flc-cgil-spinge-per-modifiche-sostanziali/",
-                "date": "22 Lug 2026",
-                "time": "21:20",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Roma dice addio ai cibi ultra-processati nelle mense scolastiche. Gualtieri: “Scelta epocale”. Coldiretti: “Cambierà il paradigma alimentare”",
-                "link": "https://www.orizzontescuola.it/roma-dice-addio-ai-cibi-ultra-processati-nelle-mense-scolastiche-gualtieri-scelta-epocale-coldiretti-cambiera-il-paradigma-alimentare/",
-                "date": "22 Lug 2026",
-                "time": "21:08",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Reclutamento docenti, scoppia il caso trasparenza. Il CNDDU attacca gli Uffici Scolastici. “Nomine chiare o sarà caos”",
-                "link": "https://www.orizzontescuola.it/reclutamento-docenti-scoppia-il-caso-trasparenza-il-cnddu-attacca-gli-uffici-scolastici-nomine-chiare-o-sara-caos/",
-                "date": "22 Lug 2026",
-                "time": "20:55",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Andrea, Marta, Emanuele e Jacopo, i quattro studenti che ripuliscono la scuola dopo i festeggiamenti per la maturità. Valditara elogia la preside: “Applicato bene le norme”",
-                "link": "https://www.orizzontescuola.it/andrea-marta-emanuele-e-jacopo-i-quattro-studenti-che-ripuliscono-la-scuola-dopo-i-festeggiamenti-per-la-maturita-valditara-elogia-la-preside-applicato-bene-le-norme/",
-                "date": "22 Lug 2026",
-                "time": "19:43",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Contratto scuola, si rinvia a settembre. Aperti i tavoli tecnici su estero e relazioni sindacali. CISL Scuola: “Più contrattazione e trasparenza”",
-                "link": "https://www.orizzontescuola.it/contratto-scuola-si-rinvia-a-settembre-aperti-i-tavoli-tecnici-su-estero-e-relazioni-sindacali-cisl-scuola-piu-contrattazione-e-trasparenza/",
-                "date": "22 Lug 2026",
-                "time": "19:39",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Castellana (Gilda): “Non è accettabile che i docenti vengano sommersi da messaggi e richieste oltre l’orario di servizio. Servono regole certe”",
-                "link": "https://www.orizzontescuola.it/castellana-gilda-non-e-accettabile-che-i-docenti-vengano-sommersi-da-messaggi-e-richieste-oltre-lorario-di-servizio-servono-regole-certe/",
-                "date": "22 Lug 2026",
-                "time": "19:32",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Sanità integrativa e posizioni economiche ATA, la Cisl Scuola chiede un’informativa urgente al Ministero",
-                "link": "https://www.orizzontescuola.it/sanita-integrativa-e-posizioni-economiche-ata-la-cisl-scuola-chiede-uninformativa-urgente-al-ministero/",
-                "date": "22 Lug 2026",
-                "time": "18:49",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Rinnovo Contratto scuola, SNALS all’ARAN: più contrattazione, limiti all’IA e trasparenza su fondi e progressioni",
-                "link": "https://www.orizzontescuola.it/rinnovo-contratto-scuola-snals-allaran-piu-contrattazione-limiti-allia-e-trasparenza-su-fondi-e-progressioni/",
-                "date": "22 Lug 2026",
-                "time": "17:57",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Scuola, Schlein (Pd): “Ddl Valditara pessimo, ha un approccio repressivo. Noi sogniamo una scuola che è in grado di valorizzare le specificità”",
-                "link": "https://www.orizzontescuola.it/scuola-schlein-pd-ddl-valditara-pessimo-ha-un-approccio-repressivo-noi-sogniamo-una-scuola-che-e-in-grado-di-valorizzare-le-specificita/",
-                "date": "22 Lug 2026",
-                "time": "17:30",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Rinnovo contratto scuola 2025-27, IA entra nella normativa, ma “divieto di decisioni esclusivamente automatizzate”. D’Aprile (Uil Scuola): “Non può sostituirsi ai docenti”",
-                "link": "https://www.orizzontescuola.it/rinnovo-contratto-scuola-2025-27-lia-entra-nella-normativa-ma-divieto-di-decisioni-esclusivamente-automatizzate-daprile-uil-scuola-non-puo-sostituirsi-allautonomia-professionale-dei/",
-                "date": "22 Lug 2026",
-                "time": "17:25",
                 "image_link": "N/A"
             }
         ]
@@ -538,51 +552,51 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Supplenze, domanda 150 preferenze fino al 29 luglio ore 14 su Istanze online. Guida alla compilazione, risposte ai quesiti, esempi",
+                "link": "https://www.orizzontescuola.it/supplenze-domanda-150-preferenze-al-via-dal-16-luglio-alle-14-su-istanze-online-guida-alla-compilazione-risposte-ai-quesiti-esempi/",
+                "date": "23 Lug 2026",
+                "time": "7:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/Supplenze-domanda-150-preferenze-1.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Assegnazione provvisoria e domanda supplenze 150 preferenze non sono collegate ma possono essere utilizzate entrambe dai docenti di ruolo",
+                "link": "https://www.orizzontescuola.it/assegnazione-provvisoria-e-domanda-supplenze-150-preferenze-non-sono-collegate-ma-possono-essere-utilizzate-entrambe-dai-docenti-di-ruolo/",
+                "date": "22 Lug 2026",
+                "time": "21:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_1335538793.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2026/27, l’algoritmo considera nei turni successivi anche chi ha già ottenuto uno spezzone",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-2026-27-lalgoritmo-considera-nei-turni-successivi-anche-chi-ha-gia-ottenuto-uno-spezzone/",
+                "date": "22 Lug 2026",
+                "time": "19:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1916116798.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Immissioni in ruolo religione 2026/27: 991 posti alla primaria e infanzia, 1.637 alle superiori. Le compensazioni slittano al prossimo anno se il contingente non basta. DECRETO e ALLEGATI",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-religione-2026-27-991-posti-alla-primaria-e-infanzia-1-637-alle-superiori-le-compensazioni-slittano-al-prossimo-anno-se-il-contingente-non-basta-decreto/",
+                "date": "22 Lug 2026",
+                "time": "19:13",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2263814763-1.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "GPS docenti 2026/28: a rilento la pubblicazione delle graduatorie [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/gps-docenti-2026-27-ecco-le-prime-graduatorie-in-aggiornamento/",
+                "date": "22 Lug 2026",
+                "time": "18:34",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1785502850-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Mini call veloce? Meglio indicare tutte le sedi della provincia nella domanda per lo scorrimento della GPS. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/mini-call-veloce-perche-bisogna-indicare-tutte-le-sedi-della-provincia-nella-domanda-pillole-di-question-time/",
                 "date": "22 Lug 2026",
                 "time": "15:15",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_774201340.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "A che punto sono le assunzioni del personale docente per il 2026/27? Ne parliamo nella newsletter Diventare Insegnanti di venerdì 24 luglio",
-                "link": "https://www.orizzontescuola.it/a-che-punto-sono-le-assunzioni-del-personale-docente-per-il-2026-27-ne-parliamo-nella-newsletter-diventare-insegnanti-di-venerdi-24-luglio/",
-                "date": "22 Lug 2026",
-                "time": "14:41",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/La-newsletter-per-Diventare-insegnante-2.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2026: posto orario è possibilità aggiuntiva, può essere intero o spezzone.  Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-2026-posto-orario-e-possibilita-aggiuntiva-puo-essere-intero-o-spezzone-pillole-di-question-time/",
-                "date": "22 Lug 2026",
-                "time": "12:28",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/shutterstock_2312009173.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Docente che richiede continuità didattica da GPS deve compilare anche la sezione delle supplenze. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/docente-che-richiede-continuita-didattica-da-gps-deve-compilare-anche-la-sezione-delle-supplenze-pillole-di-question-time/",
-                "date": "22 Lug 2026",
-                "time": "10:35",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2487699197.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti, alcune ore alla scuola statale e alcune alla paritaria: si può, ma con dei vincoli. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-alcune-ore-alla-scuola-statale-e-alcune-alla-paritaria-si-puo-ma-con-dei-vincoli-pillole-di-question-time/",
-                "date": "22 Lug 2026",
-                "time": "10:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/shutterstock_1497950867.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze GPS, chi desidera lavorare poche ore può chiedere spezzone o la cattedra e poi il part time. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/supplenze-gps-chi-desidera-lavorare-poche-ore-puo-chiedere-spezzone-o-la-cattedra-e-poi-il-part-time-pillole-di-question-time/",
-                "date": "22 Lug 2026",
-                "time": "9:17",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/shutterstock_2226530989.jpg"
             }
         ]
     },
@@ -697,6 +711,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Educare all’empatia nell’era degli algoritmi. Lettera",
+                "link": "https://www.orizzontescuola.it/educare-allempatia-nellera-degli-algoritmi-lettera/",
+                "date": "23 Lug 2026",
+                "time": "15:48",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/09/Design-senza-titolo-3.jpg"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "IA e uso consapevole come metodologia per lo sviluppo del sapere e della metacognizione. Lettera",
                 "link": "https://www.orizzontescuola.it/ia-e-uso-consapevole-come-metodologia-per-lo-sviluppo-del-sapere-e-della-metacognizione-lettera/",
                 "date": "16 Lug 2026",
@@ -734,14 +756,6 @@
                 "date": "12 Lug 2026",
                 "time": "8:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1785502850-scaled.jpg"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "Smartphone a scuola: vietare non basta, serve educare. È il docente a fare la differenza, non il dispositivo. Lettera",
-                "link": "https://www.orizzontescuola.it/smartphone-a-scuola-vietare-non-basta-serve-educare-e-il-docente-a-fare-la-differenza-non-il-dispositivo-lettera/",
-                "date": "9 Lug 2026",
-                "time": "12:33",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/09/Design-senza-titolo-5.jpg"
             }
         ]
     }
