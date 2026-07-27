@@ -24,6 +24,30 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Politica scolastica",
+                "title": "Doppio canale, il 29 luglio al Senato riprende la discussione sulla riforma del reclutamento. Ma i precari protestano: “Così resteremo in coda per anni”",
+                "link": "https://www.orizzontescuola.it/doppio-canale-il-29-luglio-al-senato-riprende-la-discussione-sulla-riforma-del-reclutamento-ma-i-precari-protestano-cosi-resteremo-in-coda-per-anni/",
+                "date": "26 Lug 2026",
+                "time": "19:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_1922963906.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "150 preferenze GPS tutorial: gli errori più comuni da evitare. La guida passo dopo passo. QUESTION TIME con Cannas. LIVE Lunedì 27 luglio alle 14:30",
+                "link": "https://www.orizzontescuola.it/150-preferenze-gps-tutorial-gli-errori-piu-comuni-da-evitare-la-guida-passo-dopo-passo-question-time-con-cannas-live-lunedi-27-luglio-alle-1430/",
+                "date": "26 Lug 2026",
+                "time": "19:08",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/Template_questiontime_1920x1080-27.png"
+            },
+            {
+                "category": "ATA",
+                "title": "Mobilità annuale ATA, punteggi e moduli: ecco la guida per non sbagliare. QUESTION TIME con Dal Pino. LIVE Lunedì 27 luglio alle 15:30",
+                "link": "https://www.orizzontescuola.it/mobilita-annuale-ata-punteggi-e-moduli-ecco-la-guida-per-non-sbagliare-question-time-con-dal-pino-live-lunedi-27-luglio-alle-1530/",
+                "date": "26 Lug 2026",
+                "time": "18:16",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/Template_questiontime_1920x1080-28.png"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze docenti 2026, differenza tra “posto orario” intero e non intero e spezzone. Chiarimenti",
                 "link": "https://www.orizzontescuola.it/supplenze-docenti-2026-differenza-tra-posto-orario-intero-e-non-intero-e-spezzone-chiarimenti/",
@@ -112,22 +136,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_130754711.jpg"
             },
             {
-                "category": "ATA",
-                "title": "Mobilità annuale ATA, punteggi e moduli: ecco la guida per non sbagliare. QUESTION TIME con Dal Pino. LIVE Lunedì 27 luglio alle 15:30",
-                "link": "https://www.orizzontescuola.it/mobilita-annuale-ata-punteggi-e-moduli-ecco-la-guida-per-non-sbagliare-question-time-con-dal-pino-live-lunedi-27-luglio-alle-1530/",
-                "date": "26 Lug 2026",
-                "time": "9:16",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/Template_questiontime_1920x1080-28.png"
-            },
-            {
-                "category": "ATA",
-                "title": "150 preferenze GPS tutorial: gli errori più comuni da evitare. La guida passo dopo passo. QUESTION TIME con Cannas. LIVE Lunedì 27 luglio alle 14:30",
-                "link": "https://www.orizzontescuola.it/150-preferenze-gps-tutorial-gli-errori-piu-comuni-da-evitare-la-guida-passo-dopo-passo-question-time-con-cannas-live-lunedi-27-luglio-alle-1430/",
-                "date": "26 Lug 2026",
-                "time": "9:08",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/Template_questiontime_1920x1080-27.png"
-            },
-            {
                 "category": "Gestire la scuola",
                 "title": "Cinema e immagini per la scuola: cosa devono fare le scuole che aderiscono ai progetti nazionali. Modelli di atti per DS e DSGA. Con 7 allegati",
                 "link": "https://www.orizzontescuola.it/cinema-e-immagini-per-la-scuola-cosa-devono-fare-le-scuole-che-aderiscono-ai-progetti-nazionali-modelli-di-atti-per-ds-e-dsga-con-7-allegati/",
@@ -135,7 +143,12 @@
                 "time": "7:55",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/shutterstock_2476858211-1.jpg"
             },
-            null,
+            null
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "E’ possibile prevedere il numero di supplenze al 30 giugno 2027? Obiettivo ridurre numero spezzoni",
@@ -143,12 +156,7 @@
                 "date": "25 Lug 2026",
                 "time": "20:42",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2501727439-1.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Assunzioni 2026: l’idoneo diventa vincitore e l’elenco del 30% si ricostituisce. Come cambiano, in questi giorni, le graduatorie dei concorsi PNRR",
@@ -277,14 +285,6 @@
                 "date": "25 Lug 2026",
                 "time": "9:28",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2367889703-scaled.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Troppe assenze, non ammesso alla maturità. Ma lavorava di notte, il Tar gli permette di sostenere l’esame",
-                "link": "https://www.orizzontescuola.it/troppe-assenze-non-ammesso-alla-maturita-ma-lavorava-di-notte-il-tar-gli-permette-di-sostenere-lesame/",
-                "date": "25 Lug 2026",
-                "time": "9:08",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/06/shutterstock_1046565655.jpg"
             }
         ]
     },
@@ -559,6 +559,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Immissioni in ruolo docenti 2026/27: ultimo weekend di luglio con turni aperti per Scelta Provincia [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2026-27-gia-partita-la-fase-1-scelta-della-provincia/",
+                "date": "25 Lug 2026",
+                "time": "7:39",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/07/shutterstock_1349362136.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Immissioni in ruolo docenti 2026/27, in alcune regioni cambia la suddivisione dei posti dopo rinunce ed esaurimento graduatorie [ridistribuzione Lombardia]",
                 "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2026-27-ecco-il-contingente-46-642-posti-e-la-suddivisione-per-regione/",
                 "date": "24 Lug 2026",
@@ -596,14 +604,6 @@
                 "date": "24 Lug 2026",
                 "time": "15:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_1158978574.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze sostegno 2026/27, sì anche per chi non è specializzato ed è inserito in GPS solo posto comune",
-                "link": "https://www.orizzontescuola.it/supplenze-sostegno-2026-27-si-anche-per-chi-non-e-specializzato-ed-e-inserito-in-gps-solo-posto-comune/",
-                "date": "24 Lug 2026",
-                "time": "13:34",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_48466297.jpg"
             }
         ]
     },
