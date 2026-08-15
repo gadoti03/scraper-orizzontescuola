@@ -25,6 +25,31 @@
         "articles": [
             {
                 "category": "Cronaca",
+                "title": "Da 500 a 10.000 lire: l’abisso salariale tra maestri e professori nell’Italia di inizio Novecento. Quanto valeva davvero lo stipendio di un docente nell’Italia liberale?",
+                "link": "https://www.orizzontescuola.it/da-500-a-10-000-lire-labisso-salariale-tra-maestri-e-professori-nellitalia-di-inizio-novecento-quanto-valeva-davvero-lo-stipendio-di-un-docente-nellitalia-liberale/",
+                "date": "15 Ago 2026",
+                "time": "9:32",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/07/shutterstock_1029138001.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Posizioni economiche ATA: chi avrà gli arretrati dal 1° settembre 2024, cosa cambia per chi entra per scorrimento",
+                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-chi-avra-gli-arretrati-dal-1-settembre-2024/",
+                "date": "15 Ago 2026",
+                "time": "8:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_1645535227.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Mini call veloce sostegno 2026/27, domanda inoltrata correttamente? I tre controlli da effettuare",
+                "link": "https://www.orizzontescuola.it/mini-call-veloce-sostegno-2026-27-domanda-inoltrata-correttamente-i-tre-controlli-da-effettuare/",
+                "date": "15 Ago 2026",
+                "time": "8:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1129962923-scaled.jpg"
+            },
+            null,
+            {
+                "category": "Cronaca",
                 "title": "Dichiarò una laurea inesistente e vinse il concorso. La Corte dei Conti: non si può processare due volte, anche per il danno erariale. La Procura perde l’appello sui 261mila euro",
                 "link": "https://www.orizzontescuola.it/dichiaro-una-laurea-inesistente-e-vinse-il-concorso-la-corte-dei-conti-non-si-puo-processare-due-volte-anche-per-il-danno-erariale-la-procura-perde-lappello-sui-261mila-euro/",
                 "date": "14 Ago 2026",
@@ -118,7 +143,12 @@
                 "date": "14 Ago 2026",
                 "time": "13:06",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_59277838.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Genitori",
                 "title": "Assegno Unico agosto 2026, pagamento previsto dopo Ferragosto",
@@ -150,12 +180,7 @@
                 "date": "14 Ago 2026",
                 "time": "10:44",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/shutterstock_633750290.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Assunzioni ATA, il contingente viene ripartito in base ai posti vacanti nelle province. Pillole di Question Time",
@@ -253,37 +278,20 @@
                 "time": "16:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/shutterstock_2700478525.jpg"
             },
-            null,
-            null,
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Nomine in ruolo da GPS sostegno prima fascia 2026/27, scorrimenti per le (poche) rinunce. I bollettini",
-                "link": "https://www.orizzontescuola.it/assunzioni-docenti-da-gps-sostegno-prima-fascia-i-bollettini-del-2026-27/",
-                "date": "13 Ago 2026",
-                "time": "15:14",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/shutterstock_2312009173.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti ed ATA, ecco come funzionano: tutti i diritti aggiornati alla normativa 2026",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-ed-ata-ecco-come-funzionano-tutti-i-diritti-aggiornati-alla-normativa-2026/",
-                "date": "13 Ago 2026",
-                "time": "14:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/ChatGPT-Image-24-feb-2026-10_51_31.png"
-            },
-            {
-                "category": "Dirigenti scolastici",
-                "title": "Dirigenti scolastici, procedura riservata DM 107/2023: oggi 13 agosto scade la scelta delle regioni. Domanda entro le ore 18",
-                "link": "https://www.orizzontescuola.it/dirigenti-scolastici-procedura-riservata-dm-107-2023-oggi-13-agosto-scade-la-scelta-delle-regioni-domanda-entro-le-ore-18/",
-                "date": "13 Ago 2026",
-                "time": "12:49",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_392166814.jpg"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "ATA",
+                "title": "NASpI e dimissioni per violenza di genere: quando l’indennità può essere riconosciuta",
+                "link": "https://www.orizzontescuola.it/naspi-e-dimissioni-per-violenza-di-genere-quando-lindennita-puo-essere-riconosciuta/",
+                "date": "15 Ago 2026",
+                "time": "10:02",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Pacifico (ANIEF): “Sì a congedo mestruale di 3 giorni per studentesse e lavoratrici per dismenorrea”",
@@ -419,14 +427,6 @@
                 "date": "13 Ago 2026",
                 "time": "11:39",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "ANIEF Liguria: “Organico di fatto insufficiente, sostegno ancora in emergenza. Serve la stabilizzazione dei posti in deroga”. Oggi informativa in USR sulle immissioni in ruolo del personale ATA",
-                "link": "https://www.orizzontescuola.it/anief-liguria-organico-di-fatto-insufficiente-sostegno-ancora-in-emergenza-serve-la-stabilizzazione-dei-posti-in-deroga-oggi-informativa-in-usr-sulle-immissioni-in-ruolo-del-pers/",
-                "date": "13 Ago 2026",
-                "time": "10:59",
-                "image_link": "N/A"
             }
         ]
     },
@@ -552,6 +552,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Immissioni in ruolo, dopo i vincitori PNRR3 si scorre tra idonei e vecchie graduatorie. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-dopo-i-vincitori-pnrr3-si-scorre-tra-idonei-e-vecchie-graduatorie-pillole-di-question-time/",
+                "date": "13 Ago 2026",
+                "time": "12:47",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2619930297.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Rinuncia al ruolo dagli elenchi regionali: nessuna sanzione su concorsi o GPS. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/rinuncia-al-ruolo-dagli-elenchi-regionali-nessuna-sanzione-su-concorsi-o-gps-pillole-di-question-time/",
                 "date": "13 Ago 2026",
@@ -589,14 +597,6 @@
                 "date": "12 Ago 2026",
                 "time": "16:23",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2492437907.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "GPS docenti, le graduatorie per il 2026/28 [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/gps-docenti-2026-27-ecco-le-prime-graduatorie-in-aggiornamento/",
-                "date": "12 Ago 2026",
-                "time": "16:17",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1785502850-scaled.jpg"
             }
         ]
     },
