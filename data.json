@@ -4,10 +4,10 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
-                "title": "Mini call veloce, 3.931 posti disponibili. Disponibilità regione per regione e GUIDA alla compilazione (con TUTORIAL)",
+                "title": "Mini call veloce, c’è tempo fino alle 12 del 19 agosto. 3.931 posti disponibili. Disponibilità regione per regione e GUIDA alla compilazione (con TUTORIAL)",
                 "link": "https://www.orizzontescuola.it/mini-call-veloce-si-parte-alle-1400-quali-posti-disponibili-e-dove-non-ce-disponibilita-tutte-le-info-utili/",
-                "date": "14 Ago 2026",
-                "time": "14:00",
+                "date": "16 Ago 2026",
+                "time": "9:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/Grafiche-sito-3.png"
             },
             {
@@ -24,13 +24,38 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
-                "category": "Nessuna categoria",
-                "title": "Minori e social network: Giorgino: “Serve educazione all’uso, non solo divieti” dopo la multa a Meta",
-                "link": "https://www.orizzontescuola.it/minori-e-social-network-giorgino-serve-educazione-alluso-non-solo-divieti-dopo-la-multa-a-meta/",
-                "date": "15 Ago 2026",
-                "time": "19:33",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/shutterstock_2351858445-scaled.jpg"
+                "category": "Docenti",
+                "title": "Scuola dell’infanzia all’estero, pochi posti e graduatorie più corte. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/scuola-dellinfanzia-allestero-pochi-posti-e-graduatorie-piu-corte-pillole-di-question-time/",
+                "date": "16 Ago 2026",
+                "time": "10:07",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_2112982490.jpg"
             },
+            {
+                "category": "Cronaca",
+                "title": "Divieto dei social sotto i 16 anni? Crepet: “Togliere non basta, serve un’alternativa”. E poi: “Formare il pensiero critico già alle elementari”",
+                "link": "https://www.orizzontescuola.it/divieto-dei-social-sotto-i-16-anni-crepet-togliere-non-basta-serve-unalternativa-e-poi-formare-il-pensiero-critico-gia-alle-elementari/",
+                "date": "16 Ago 2026",
+                "time": "9:19",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/Crepet_2-e1781592063614.png"
+            },
+            {
+                "category": "Scuole",
+                "title": "Privacy a scuola, attenzione anche al nome dei file: il cognome di uno studente può rendere illecita la pubblicazione",
+                "link": "https://www.orizzontescuola.it/privacy-a-scuola-attenzione-anche-al-nome-dei-file-il-cognome-di-uno-studente-puo-rendere-illecita-la-pubblicazione/",
+                "date": "16 Ago 2026",
+                "time": "9:04",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2703345905.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Immissioni in ruolo ATA 2026/27, rinuncia o mancata domanda? Cosa cambia",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-ata-2026-27-rinuncia-o-mancata-domanda-cosa-cambia/",
+                "date": "16 Ago 2026",
+                "time": "8:14",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_1562815639.jpg"
+            },
+            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "Anno di prova docenti neoassunti, si conta dal 1° settembre ma la circolare è attesa tra novembre e dicembre. Pillole di Question Time",
@@ -118,7 +143,12 @@
                 "date": "15 Ago 2026",
                 "time": "12:29",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_529709986.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "“Il voto? Uccide la passione. Così la scuola è solo un parcheggio”. Barbasophia: “Studenti siano cittadini dal pensiero critico, non scimmie ammaestrate”",
@@ -150,12 +180,7 @@
                 "date": "15 Ago 2026",
                 "time": "9:32",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/07/shutterstock_1029138001.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "ATA",
                 "title": "Posizioni economiche ATA: chi avrà gli arretrati dal 1° settembre 2024, cosa cambia per chi entra per scorrimento",
@@ -260,44 +285,20 @@
                 "date": "14 Ago 2026",
                 "time": "13:28",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/shutterstock_2677276019.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Scuole italiane all’estero, le assenze si coprono con ore eccedenti del personale già in servizio. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/scuole-italiane-allestero-le-assenze-si-coprono-con-ore-eccedenti-del-personale-gia-in-servizio-pillole-di-question-time/",
-                "date": "14 Ago 2026",
-                "time": "13:06",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_59277838.jpg"
-            },
-            {
-                "category": "Genitori",
-                "title": "Assegno Unico agosto 2026, pagamento previsto dopo Ferragosto",
-                "link": "https://www.orizzontescuola.it/assegno-unico-agosto-2026-pagamento-previsto-dopo-ferragosto/",
-                "date": "14 Ago 2026",
-                "time": "12:55",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_1897255669-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "TFA sostegno, formazione e specializzazione resta importante anche senza ruolo. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/tfa-sostegno-formazione-e-specializzazione-resta-importante-anche-senza-ruolo-pillole-di-question-time/",
-                "date": "14 Ago 2026",
-                "time": "11:31",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_503425987.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "Bollo sugli atti digitali della PA, attenzione a come si calcola l’imposta. La risposta dell’Agenzia delle Entrate",
-                "link": "https://www.orizzontescuola.it/bollo-sugli-atti-digitali-della-pa-attenzione-a-come-si-calcola-limposta-la-risposta-dellagenzia-delle-entrate/",
-                "date": "14 Ago 2026",
-                "time": "11:31",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/09/shutterstock_1931309774.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Minori e social network: Giorgino: “Serve educazione all’uso, non solo divieti” dopo la multa a Meta",
+                "link": "https://www.orizzontescuola.it/minori-e-social-network-giorgino-serve-educazione-alluso-non-solo-divieti-dopo-la-multa-a-meta/",
+                "date": "15 Ago 2026",
+                "time": "19:33",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Valle d’Aosta, via libera a nuove classi nelle scuole secondarie: attivati indirizzi musicali e professionali",
@@ -433,14 +434,6 @@
                 "date": "13 Ago 2026",
                 "time": "16:47",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Fondi MOF, ANIEF e Ancodis: “Ora le trattative per il riconoscimento delle figure di sistema”",
-                "link": "https://www.orizzontescuola.it/fondi-mof-anief-e-ancodis-ora-le-trattative-per-il-riconoscimento-delle-figure-di-sistema/",
-                "date": "13 Ago 2026",
-                "time": "15:30",
-                "image_link": "N/A"
             }
         ]
     },
@@ -566,6 +559,22 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "TFA sostegno, formazione e specializzazione resta importante anche senza ruolo. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/tfa-sostegno-formazione-e-specializzazione-resta-importante-anche-senza-ruolo-pillole-di-question-time/",
+                "date": "14 Ago 2026",
+                "time": "11:31",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/06/shutterstock_503425987.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Assunzioni ATA, il contingente viene ripartito in base ai posti vacanti nelle province. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/assunzioni-ata-il-contingente-viene-ripartito-in-base-ai-posti-vacanti-nelle-province-pillole-di-question-time/",
+                "date": "14 Ago 2026",
+                "time": "9:58",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_1690108918.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Assunzioni sostegno a.s. 2026/27: si chiude scorrimento GPS sostegno, si apre la mini mini call veloce",
                 "link": "https://www.orizzontescuola.it/assunzioni-sostegno-a-s-2026-27-si-chiude-scorrimento-gps-sostegno-si-apre-la-mini-mini-call-veloce/",
                 "date": "13 Ago 2026",
@@ -595,22 +604,6 @@
                 "date": "13 Ago 2026",
                 "time": "12:47",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2619930297.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Rinuncia al ruolo dagli elenchi regionali: nessuna sanzione su concorsi o GPS. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/rinuncia-al-ruolo-dagli-elenchi-regionali-nessuna-sanzione-su-concorsi-o-gps-pillole-di-question-time/",
-                "date": "13 Ago 2026",
-                "time": "9:26",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2491902319.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Mini call veloce sul sostegno: senza posti residui in provincia non ci sono disponibilità. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/mini-call-veloce-sul-sostegno-senza-posti-residui-in-provincia-non-ci-sono-disponibilita-pillole-di-question-time/",
-                "date": "13 Ago 2026",
-                "time": "9:12",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/Modello-immagine-sito-11.png"
             }
         ]
     },
