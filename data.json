@@ -24,6 +24,63 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Politica scolastica",
+                "title": "Assicurazione sanitaria docenti e ATA, adesione volontaria ma non c’è ancora la scadenza. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/assicurazione-sanitaria-docenti-e-ata-adesione-volontaria-ma-non-ce-ancora-la-scadenza-pillole-di-question-time/",
+                "date": "16 Ago 2026",
+                "time": "18:18",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_714174241.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Schettini: “Cari docenti, godetevi il mestiere, non fissatevi sul precariato. Scuola sempre più burocratica, non va bene”",
+                "link": "https://www.orizzontescuola.it/schettini-cari-docenti-godetevi-il-mestiere-non-fissatevi-sul-precariato-scuola-sempre-piu-burocratica-non-va-bene/",
+                "date": "16 Ago 2026",
+                "time": "17:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2666058701.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "“L’Intelligenza Artificiale non sostituirà mai un insegnante. Ma la scuola deve riscoprire il valore di chi insegna”, Pacifico (ANIEF): “Oltre 100mila docenti non si limitano a fare lezione”",
+                "link": "https://www.orizzontescuola.it/lintelligenza-artificiale-non-sostituira-mai-un-insegnante-ma-la-scuola-deve-riscoprire-il-valore-di-chi-insegna-pacifico-anief-oltre-100mila-docenti-non-si-limitano-a-fare-lezione/",
+                "date": "16 Ago 2026",
+                "time": "17:36",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/Marcello-Pacifico-6.png"
+            },
+            {
+                "category": "ATA",
+                "title": "Barbacci (Cisl Scuola): “Nomine ATA avvengono solo per turnover, serve piano straordinario di assunzioni”",
+                "link": "https://www.orizzontescuola.it/barbacci-cisl-scuola-nomine-ata-avvengono-solo-per-turnover-serve-piano-straordinario-di-assunzioni/",
+                "date": "16 Ago 2026",
+                "time": "15:56",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/Screenshot-2026-04-01-alle-14.27.19.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Bruzzone: “Il conflitto non si vive più, si registra e si rilancia. È la trappola dei social. I ragazzi non percepiscono la gravità, sono catturati dall’immagine vincente”",
+                "link": "https://www.orizzontescuola.it/bruzzone-il-conflitto-non-si-vive-piu-si-registra-e-si-rilancia-e-la-trappola-dei-social-i-ragazzi-non-percepiscono-la-gravita-sono-catturati-dallimmagine-vincente/",
+                "date": "16 Ago 2026",
+                "time": "15:27",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_1042544104.jpg"
+            },
+            null,
+            {
+                "category": "Cronaca",
+                "title": "La biblioteca resiste: stabile al 15% la frequentazione, ma cresce l’utente ibrido tra scaffali e web",
+                "link": "https://www.orizzontescuola.it/la-biblioteca-resiste-stabile-al-15-la-frequentazione-ma-cresce-lutente-ibrido-tra-scaffali-e-web/",
+                "date": "16 Ago 2026",
+                "time": "10:56",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_330332900.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Pellai: “Gli insegnanti sono la chiave per evitare che l’IA sostituisca il pensiero”",
+                "link": "https://www.orizzontescuola.it/pellai-gli-insegnanti-sono-la-chiave-per-evitare-che-lia-sostituisca-il-pensiero/",
+                "date": "16 Ago 2026",
+                "time": "10:32",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/06/Pellai.png"
+            },
+            {
                 "category": "Docenti",
                 "title": "Scuola dell’infanzia all’estero, pochi posti e graduatorie più corte. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/scuola-dellinfanzia-allestero-pochi-posti-e-graduatorie-piu-corte-pillole-di-question-time/",
@@ -79,7 +136,12 @@
                 "date": "15 Ago 2026",
                 "time": "15:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/09/shutterstock_567718675.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Politica scolastica",
                 "title": "I docenti come eroi quotidiani, ma Schlein avverte: “Non si può lasciare tutto all’eroismo”. Stipendi tra i più bassi d’Europa e scuole in degrado, ecco la ricetta del PD per svoltare",
@@ -143,12 +205,7 @@
                 "date": "15 Ago 2026",
                 "time": "12:29",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_529709986.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "“Il voto? Uccide la passione. Così la scuola è solo un parcheggio”. Barbasophia: “Studenti siano cittadini dal pensiero critico, non scimmie ammaestrate”",
@@ -221,76 +278,44 @@
                 "date": "14 Ago 2026",
                 "time": "18:16",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/download-7.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Mini call veloce, qual è il punteggio minimo per avere qualche speranza di avere un incarico? Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/mini-call-veloce-qual-e-il-punteggio-minimo-per-avere-qualche-speranza-di-avere-un-incarico-pillole-di-question-time/",
-                "date": "14 Ago 2026",
-                "time": "18:06",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/download-1-4.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Mini call veloce, 2660 posti in Lombardia: elenco delle sedi disponibili provincia per provincia. SCARICA",
-                "link": "https://www.orizzontescuola.it/mini-call-veloce-2660-posti-in-lombardia-elenco-delle-sedi-disponibili-provincia-per-provincia-scarica/",
-                "date": "14 Ago 2026",
-                "time": "17:31",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/download-5.jpeg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Posizioni economiche ATA, attribuzioni e arretrati attesi in autunno. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/posizioni-economiche-ata-attribuzioni-e-arretrati-attesi-in-autunno-pillole-di-question-time/",
-                "date": "14 Ago 2026",
-                "time": "16:38",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/06/shutterstock_2299560207.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Maraini: “Non è possibile che gli insegnanti siano pagati meno di uno spazzino”",
-                "link": "https://www.orizzontescuola.it/maraini-non-e-possibile-che-gli-insegnanti-siano-pagati-meno-di-uno-spazzino/",
-                "date": "14 Ago 2026",
-                "time": "16:05",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/Screenshot-2026-05-28-alle-10.24.26.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Mini call veloce, una procedura “perversa” con conseguenze pesanti per i docenti: “Scelta di vita in pochi giorni”. Il punto di Cozzetto (ANIEF)",
-                "link": "https://www.orizzontescuola.it/mini-call-veloce-una-procedura-perversa-con-conseguenze-pesanti-per-i-docenti-scelta-di-vita-in-pochi-giorni-il-punto-di-cozzetto-anief/",
-                "date": "14 Ago 2026",
-                "time": "15:56",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/Chiara_Cozzetto.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "VIDEO TUTORIAL | Mini call veloce, come fare la domanda passo dopo passo: tutti i passaggi spiegati",
-                "link": "https://www.orizzontescuola.it/video-tutorial-mini-call-veloce-come-fare-la-domanda-passo-dopo-passo-tutti-i-passaggi-spiegati/",
-                "date": "14 Ago 2026",
-                "time": "15:43",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/Template_videoguide_1920x1080.png"
-            },
-            {
-                "category": "ATA",
-                "title": "Immissioni in ruolo ATA 2026/27, al via le domande per la scelta delle sedi. Attenzione ad avvisi e scadenze [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-ata-2026-27-al-via-le-domande-per-la-scelta-delle-sedi-attenzione-ad-avvisi-e-scadenze/",
-                "date": "14 Ago 2026",
-                "time": "15:41",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_448000054-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Mini call veloce dal 14 agosto ore 14.00: ecco l’elenco dei posti disponibili, solo infanzia e primaria [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/mini-call-veloce-dal-14-agosto-ore-14-00-ecco-lelenco-dei-posti-disponibili-aggiornato/",
-                "date": "14 Ago 2026",
-                "time": "13:28",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/shutterstock_2677276019.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "L’Accademia della Crusca si schiera: per intelligenza artificiale meglio la sigla “IA” che l’inglese “AI”",
+                "link": "https://www.orizzontescuola.it/laccademia-della-crusca-si-schiera-per-intelligenza-artificiale-meglio-la-sigla-ia-che-linglese-ai/",
+                "date": "16 Ago 2026",
+                "time": "17:01",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Genitori",
+                "title": "Convitti nazionali INPS 2026/27, dal 4 settembre il rinnovo per i beneficiari degli anni precedenti",
+                "link": "https://www.orizzontescuola.it/convitti-nazionali-inps-2026-27-dal-4-settembre-il-rinnovo-per-i-beneficiari-degli-anni-precedenti/",
+                "date": "16 Ago 2026",
+                "time": "14:56",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Genitori",
+                "title": "Sardegna, trasporto pubblico gratis fino a 14 anni: agevolazione estesa per gli spostamenti di scuola e quotidiani",
+                "link": "https://www.orizzontescuola.it/sardegna-trasporto-pubblico-gratis-fino-a-14-anni-agevolazione-estesa-per-gli-spostamenti-di-scuola-e-quotidiani/",
+                "date": "16 Ago 2026",
+                "time": "14:00",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Genitori",
+                "title": "Nidi comunali, 1,5 milioni dalla Regione Piemonte per ampliare gli orari: aperture anche il sabato e durante le vacanze",
+                "link": "https://www.orizzontescuola.it/nidi-comunali-15-milioni-dalla-regione-piemonte-per-ampliare-gli-orari-aperture-anche-il-sabato-e-durante-le-vacanze/",
+                "date": "16 Ago 2026",
+                "time": "12:47",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Minori e social network: Giorgino: “Serve educazione all’uso, non solo divieti” dopo la multa a Meta",
@@ -401,38 +426,6 @@
                 "link": "https://www.orizzontescuola.it/mini-call-veloce-dove-si-svolge-e-come-si-compila-la-domanda-question-time-con-cozzetto-anief-live-venerdi-14-agosto-alle-1430/",
                 "date": "14 Ago 2026",
                 "time": "6:52",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Sostegno, ANIEF: il 50% dei posti affidato ai supplenti lede il diritto allo studio degli alunni con disabilità",
-                "link": "https://www.orizzontescuola.it/sostegno-anief-il-50-dei-posti-affidato-ai-supplenti-lede-il-diritto-allo-studio-degli-alunni-con-disabilita/",
-                "date": "13 Ago 2026",
-                "time": "19:10",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Immissioni in ruolo ATA 2026/27: in Sicilia ancora insufficienti i posti autorizzati rispetto alle reali disponibilità. Confronto con i sindacati all’USR Sicilia",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-ata-2026-27-in-sicilia-ancora-insufficienti-i-posti-autorizzati-rispetto-alle-reali-disponibilita-confronto-con-i-sindacati-allusr-sicilia/",
-                "date": "13 Ago 2026",
-                "time": "17:51",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Rimosso a Milano il cartellone Apple con neonato e iPhone. Cangini: “Scelta di buon senso”",
-                "link": "https://www.orizzontescuola.it/rimosso-a-milano-il-cartellone-apple-con-neonato-e-iphone-cangini-scelta-di-buon-senso/",
-                "date": "13 Ago 2026",
-                "time": "16:58",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Piemonte, 7,7 milioni di euro per le scuole dell’infanzia paritarie",
-                "link": "https://www.orizzontescuola.it/piemonte-77-milioni-di-euro-per-le-scuole-dellinfanzia-paritarie/",
-                "date": "13 Ago 2026",
-                "time": "16:47",
                 "image_link": "N/A"
             }
         ]
@@ -559,6 +552,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Mini call veloce dal 14 agosto ore 14.00: ecco l’elenco dei posti disponibili, solo infanzia e primaria [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/mini-call-veloce-dal-14-agosto-ore-14-00-ecco-lelenco-dei-posti-disponibili-aggiornato/",
+                "date": "14 Ago 2026",
+                "time": "13:28",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/shutterstock_2677276019.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "TFA sostegno, formazione e specializzazione resta importante anche senza ruolo. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/tfa-sostegno-formazione-e-specializzazione-resta-importante-anche-senza-ruolo-pillole-di-question-time/",
                 "date": "14 Ago 2026",
@@ -596,14 +597,6 @@
                 "date": "13 Ago 2026",
                 "time": "15:14",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/shutterstock_2312009173.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Immissioni in ruolo, dopo i vincitori PNRR3 si scorre tra idonei e vecchie graduatorie. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-dopo-i-vincitori-pnrr3-si-scorre-tra-idonei-e-vecchie-graduatorie-pillole-di-question-time/",
-                "date": "13 Ago 2026",
-                "time": "12:47",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2619930297.jpg"
             }
         ]
     },
@@ -628,6 +621,14 @@
             },
             {
                 "category": "ATA",
+                "title": "Incarichi specifici ATA, il compenso resta dovuto anche con la posizione economica. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/incarichi-specifici-ata-il-compenso-resta-dovuto-anche-con-la-posizione-economica-pillole-di-question-time/",
+                "date": "11 Ago 2026",
+                "time": "16:29",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/12/money-1632055_1280-1200x797.jpg"
+            },
+            {
+                "category": "ATA",
                 "title": "Immissioni in ruolo ATA 2026/27: quando fare domanda, come scegliere la sede e cosa succede se non si presenta. Tutto quello che c’è da sapere",
                 "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-ata-2026-27-quando-fare-domanda-come-scegliere-la-sede-e-cosa-succede-se-non-si-presenta-tutto-quello-che-ce-da-sapere/",
                 "date": "11 Ago 2026",
@@ -649,14 +650,6 @@
                 "date": "11 Ago 2026",
                 "time": "12:43",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_608600555.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Graduatorie ATA terza fascia 2026/27, in pubblicazione gli elenchi aggiornati: come vedere posizione e punteggio",
-                "link": "https://www.orizzontescuola.it/graduatorie-ata-terza-fascia-2026-27-in-pubblicazione-gli-elenchi-aggiornati-come-vedere-posizione-e-punteggio/",
-                "date": "11 Ago 2026",
-                "time": "12:28",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
             }
         ]
     },
