@@ -24,6 +24,22 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Nessuna categoria",
+                "title": "Minori e social network: Giorgino: “Serve educazione all’uso, non solo divieti” dopo la multa a Meta",
+                "link": "https://www.orizzontescuola.it/minori-e-social-network-giorgino-serve-educazione-alluso-non-solo-divieti-dopo-la-multa-a-meta/",
+                "date": "15 Ago 2026",
+                "time": "19:33",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/shutterstock_2351858445-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Anno di prova docenti neoassunti, si conta dal 1° settembre ma la circolare è attesa tra novembre e dicembre. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/anno-di-prova-docenti-neoassunti-si-conta-dal-1-settembre-ma-la-circolare-e-attesa-tra-novembre-e-dicembre-pillole-di-question-time/",
+                "date": "15 Ago 2026",
+                "time": "18:59",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2142727347.jpg"
+            },
+            {
                 "category": "Politica scolastica",
                 "title": "Aumenti e arretrati contratto scuola, Pacifico (ANIEF): “Cedolino sbagliato? Verificare e chiedere subito la rettifica”",
                 "link": "https://www.orizzontescuola.it/aumenti-e-arretrati-contratto-scuola-pacifico-anief-cedolino-sbagliato-verificare-e-chiedere-subito-la-rettifica/",
@@ -134,7 +150,12 @@
                 "date": "15 Ago 2026",
                 "time": "9:32",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/07/shutterstock_1029138001.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "ATA",
                 "title": "Posizioni economiche ATA: chi avrà gli arretrati dal 1° settembre 2024, cosa cambia per chi entra per scorrimento",
@@ -150,12 +171,7 @@
                 "date": "15 Ago 2026",
                 "time": "8:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1129962923-scaled.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             null,
             {
                 "category": "Cronaca",
@@ -276,28 +292,20 @@
                 "date": "14 Ago 2026",
                 "time": "11:31",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/09/shutterstock_1931309774.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "La PA può assumere “consulenti gratis”? La Corte dei Conti dice sì, ma con regole ferree",
-                "link": "https://www.orizzontescuola.it/la-pa-puo-assumere-consulenti-gratis-la-corte-dei-conti-dice-si-ma-con-regole-ferree/",
-                "date": "14 Ago 2026",
-                "time": "10:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/shutterstock_633750290.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Assunzioni ATA, il contingente viene ripartito in base ai posti vacanti nelle province. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/assunzioni-ata-il-contingente-viene-ripartito-in-base-ai-posti-vacanti-nelle-province-pillole-di-question-time/",
-                "date": "14 Ago 2026",
-                "time": "9:58",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_1690108918.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Valle d’Aosta, via libera a nuove classi nelle scuole secondarie: attivati indirizzi musicali e professionali",
+                "link": "https://www.orizzontescuola.it/valle-daosta-via-libera-a-nuove-classi-nelle-scuole-secondarie-attivati-indirizzi-musicali-e-professionali/",
+                "date": "15 Ago 2026",
+                "time": "18:56",
+                "image_link": "N/A"
+            },
             {
                 "category": "Genitori",
                 "title": "Separati con figli, arriva il contributo affitto fino a 500 euro: 15mila i potenziali beneficiari. Il governo lavora al decreto attuativo",
@@ -432,14 +440,6 @@
                 "link": "https://www.orizzontescuola.it/fondi-mof-anief-e-ancodis-ora-le-trattative-per-il-riconoscimento-delle-figure-di-sistema/",
                 "date": "13 Ago 2026",
                 "time": "15:30",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Caro benzina, il CNDDU chiede misure strutturali per la mobilità territoriale",
-                "link": "https://www.orizzontescuola.it/caro-benzina-il-cnddu-chiede-misure-strutturali-per-la-mobilita-territoriale/",
-                "date": "13 Ago 2026",
-                "time": "15:24",
                 "image_link": "N/A"
             }
         ]
