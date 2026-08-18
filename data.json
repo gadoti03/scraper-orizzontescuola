@@ -25,6 +25,38 @@
         "articles": [
             {
                 "category": "Docenti",
+                "title": "La “stabilità” dei docenti? “Al mio decimo anno ancora una cattedra su tre scuole, fino a 45 km da casa”",
+                "link": "https://www.orizzontescuola.it/la-stabilita-dei-docenti-al-mio-decimo-anno-ancora-una-cattedra-su-tre-scuole-fino-a-45-km-da-casa/",
+                "date": "17 Ago 2026",
+                "time": "21:59",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_1562815639.jpg"
+            },
+            {
+                "category": "DSGA",
+                "title": "DSGA, immissioni in ruolo 2026/27 al via: come avvengono. Prima la procedura valutativa, poi il concorso ordinario. Gli avvisi USR",
+                "link": "https://www.orizzontescuola.it/dsga-immissioni-in-ruolo-2026-27-al-via-come-avvengono-prima-la-procedura-valutativa-poi-il-concorso-ordinario-gli-avvisi-usr/",
+                "date": "17 Ago 2026",
+                "time": "20:25",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_1070096513.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Aumenti e arretrati contratto scuola, in arrivo sui conti correnti: cifre e info utili. QUESTION TIME con Cavallini (ANIEF) LIVE Mercoledì 19 agosto alle 14:30",
+                "link": "https://www.orizzontescuola.it/aumenti-e-arretrati-contratto-scuola-in-arrivo-sui-conti-correnti-cifre-e-info-utili-question-time-con-cavallini-anief-live-mercoledi-19-agosto-alle-1430/",
+                "date": "17 Ago 2026",
+                "time": "19:02",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/1-1.png"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Mini call veloce, ultime ore per la presentazione della domanda: le info utili. QUESTION TIME con Semeraro. LIVE Martedì 18 agosto alle 14:30.",
+                "link": "https://www.orizzontescuola.it/mini-call-veloce-ultime-ore-per-la-presentazione-della-domanda-le-info-utili-question-time-con-semeraro-live-martedi-18-agosto-alle-1430/",
+                "date": "17 Ago 2026",
+                "time": "18:39",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/Template_questiontime_1920x1080-9.png"
+            },
+            {
+                "category": "Docenti",
                 "title": "Insegnare italiano all’estero: non servono sei anni di ruolo, ma almeno il quinto anno di servizio. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/insegnare-italiano-allestero-non-servono-sei-anni-di-ruolo-ma-almeno-il-quinto-anno-di-servizio-pillole-di-question-time/",
                 "date": "17 Ago 2026",
@@ -118,7 +150,12 @@
                 "date": "17 Ago 2026",
                 "time": "13:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/shutterstock_2760215327.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Studenti",
                 "title": "Studente con BES viene bocciato, famiglia fa ricorso al TAR e lo vince. I giudici: “Scuola non aveva aggiornato PDP nonostante il peggioramento della salute del ragazzo”",
@@ -150,12 +187,7 @@
                 "date": "17 Ago 2026",
                 "time": "11:07",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/shutterstock_1674590203.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             null,
             {
                 "category": "Cronaca",
@@ -260,44 +292,36 @@
                 "date": "16 Ago 2026",
                 "time": "19:52",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/shutterstock_2144682361.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Inps, bando per corsi di lingua 2026: 6.100 contributi per studenti di primarie, medie e superiori. C’è tempo fino al 2 settembre",
-                "link": "https://www.orizzontescuola.it/inps-bando-per-corsi-di-lingua-2026-6-100-contributi-per-studenti-di-primarie-medie-e-superiori-ce-tempo-fino-al-2-settembre/",
-                "date": "16 Ago 2026",
-                "time": "19:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/shutterstock_2504253851-scaled.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Assicurazione sanitaria docenti e ATA, adesione volontaria ma non c’è ancora la scadenza. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/assicurazione-sanitaria-docenti-e-ata-adesione-volontaria-ma-non-ce-ancora-la-scadenza-pillole-di-question-time/",
-                "date": "16 Ago 2026",
-                "time": "18:18",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/05/shutterstock_714174241.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Schettini: “Cari docenti, godetevi il mestiere, non fissatevi sul precariato. Scuola sempre più burocratica, non va bene”",
-                "link": "https://www.orizzontescuola.it/schettini-cari-docenti-godetevi-il-mestiere-non-fissatevi-sul-precariato-scuola-sempre-piu-burocratica-non-va-bene/",
-                "date": "16 Ago 2026",
-                "time": "17:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2666058701.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "“L’Intelligenza Artificiale non sostituirà mai un insegnante. Ma la scuola deve riscoprire il valore di chi insegna”, Pacifico (ANIEF): “Oltre 100mila docenti non si limitano a fare lezione”",
-                "link": "https://www.orizzontescuola.it/lintelligenza-artificiale-non-sostituira-mai-un-insegnante-ma-la-scuola-deve-riscoprire-il-valore-di-chi-insegna-pacifico-anief-oltre-100mila-docenti-non-si-limitano-a-fare-lezione/",
-                "date": "16 Ago 2026",
-                "time": "17:36",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/Marcello-Pacifico-6.png"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Studenti",
+                "title": "Istruzione oltre il 2030, questionario UNESCO per studenti e giovani: partecipazione entro il 30 agosto",
+                "link": "https://www.orizzontescuola.it/istruzione-oltre-il-2030-questionario-unesco-per-studenti-e-giovani-partecipazione-entro-il-30-agosto/",
+                "date": "17 Ago 2026",
+                "time": "20:47",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Genitori",
+                "title": "Sport di bambini e ragazzi, detrazione Irpef del 19%: spesa massima di 210 euro. Requisiti e documenti",
+                "link": "https://www.orizzontescuola.it/sport-di-bambini-e-ragazzi-detrazione-irpef-del-19-spesa-massima-di-210-euro-requisiti-e-documenti/",
+                "date": "17 Ago 2026",
+                "time": "20:31",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Studente 18enne scopre un tesoro da 9 milioni in Belgio durante un lavoretto estivo di ristrutturazione: “Pensavo fossero monete da un euro”",
+                "link": "https://www.orizzontescuola.it/studente-18enne-scopre-un-tesoro-da-9-milioni-in-belgio-durante-un-lavoretto-estivo-di-ristrutturazione-pensavo-fossero-monete-da-un-euro/",
+                "date": "17 Ago 2026",
+                "time": "18:43",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Settembre di fuoco per i trasporti: treni, aerei e bus, tutte le date da segnare in agenda",
@@ -416,30 +440,6 @@
                 "link": "https://www.orizzontescuola.it/sicilia-pubblicato-lavviso-its-15-milioni-di-euro-per-lofferta-formativa-2026-2027-domande-entro-il-10-settembre/",
                 "date": "17 Ago 2026",
                 "time": "10:52",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Meta rimuove 756.000 account di under16 in Australia, ma la battaglia sui dati prosegue",
-                "link": "https://www.orizzontescuola.it/meta-rimuove-756-000-account-di-under16-in-australia-ma-la-battaglia-sui-dati-prosegue/",
-                "date": "17 Ago 2026",
-                "time": "10:01",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Carta docente, l’appello del CNDDU: definire subito le condizioni riguardo nuovo anno scolastico per garantire treni e aerei",
-                "link": "https://www.orizzontescuola.it/carta-docente-lappello-del-cnddu-definire-subito-le-condizioni-riguardo-nuovo-anno-scolastico-per-garantire-treni-e-aerei/",
-                "date": "17 Ago 2026",
-                "time": "8:24",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "L’Accademia della Crusca si schiera: per intelligenza artificiale meglio la sigla “IA” che l’inglese “AI”",
-                "link": "https://www.orizzontescuola.it/laccademia-della-crusca-si-schiera-per-intelligenza-artificiale-meglio-la-sigla-ia-che-linglese-ai/",
-                "date": "16 Ago 2026",
-                "time": "17:01",
                 "image_link": "N/A"
             }
         ]
@@ -635,6 +635,14 @@
             },
             {
                 "category": "ATA",
+                "title": "Immissioni in ruolo ATA 2026/27, compensazioni tra regioni, province e profili sulla base dei posti vacanti. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-ata-2026-27-compensazioni-tra-regioni-province-e-profili-sulla-base-dei-posti-vacanti-pillole-di-question-time/",
+                "date": "12 Ago 2026",
+                "time": "9:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_574879378-scaled.jpg"
+            },
+            {
+                "category": "ATA",
                 "title": "Incarichi specifici ATA, il compenso resta dovuto anche con la posizione economica. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/incarichi-specifici-ata-il-compenso-resta-dovuto-anche-con-la-posizione-economica-pillole-di-question-time/",
                 "date": "11 Ago 2026",
@@ -656,14 +664,6 @@
                 "date": "11 Ago 2026",
                 "time": "12:43",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/assicurazione_sanitaria.png"
-            },
-            {
-                "category": "ATA",
-                "title": "Supplenze ATA 2026/27, iniziano le convocazioni da prima e seconda fascia",
-                "link": "https://www.orizzontescuola.it/supplenze-ata-2026-27-iniziano-le-convocazioni-da-prima-e-seconda-fascia/",
-                "date": "11 Ago 2026",
-                "time": "12:43",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_608600555.jpg"
             }
         ]
     },
