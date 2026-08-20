@@ -24,6 +24,47 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Docenti",
+                "title": "Selezioni all’estero, il servizio di ruolo oltre il minimo richiesto vale come punteggio. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/selezioni-allestero-il-servizio-di-ruolo-oltre-il-minimo-richiesto-vale-come-punteggio-pillole-di-question-time/",
+                "date": "20 Ago 2026",
+                "time": "10:18",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2626799523.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Calendario scolastico 2026/27: tutte le date Regione per Regione. PDF e mappa interattiva",
+                "link": "https://www.orizzontescuola.it/calendario-scolastico-2026-27-tutte-le-date-regione-per-regione-pdf-e-mappa-interattiva/",
+                "date": "20 Ago 2026",
+                "time": "9:57",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/Calendario-scolastico-202627-Tutte-le-date-Regione-per-Regione.png"
+            },
+            {
+                "category": "ATA",
+                "title": "Immissioni in ruolo ATA 2026/27, aperte le domande per scelta sedi. Attenzione ad avvisi e scadenze [AGGIORNATO con Milano e altre province Lombardia]",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-ata-2026-27-al-via-le-domande-per-la-scelta-delle-sedi-attenzione-ad-avvisi-e-scadenze/",
+                "date": "20 Ago 2026",
+                "time": "9:19",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_2167465293.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Concorsi pubblici, riserva per chi ha una famiglia numerosa? L’idea di Futuro Nazionale fa discutere: un premio alla natalità o un ritorno al passato?",
+                "link": "https://www.orizzontescuola.it/concorsi-pubblici-posti-riservati-per-chi-ha-una-famiglia-numerosa-lidea-di-futuro-nazionale-fa-discutere-un-premio-alla-natalita-o-un-ritorno-al-passato/",
+                "date": "20 Ago 2026",
+                "time": "8:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2744383765.jpg"
+            },
+            {
+                "category": "Gestire la scuola",
+                "title": "Concessione di locali scolastici a terzi: scarica guida, modello richiesta, delibera del Consiglio Istituto, contratto convenzione, regolamento istituto",
+                "link": "https://www.orizzontescuola.it/concessione-di-locali-scolastici-a-terzi-scarica-guida-modello-richiesta-delibera-del-consiglio-istituto-contratto-convenzione-regolamento-istituto/",
+                "date": "20 Ago 2026",
+                "time": "7:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2585524683.jpg"
+            },
+            null,
+            {
                 "category": "Cronaca",
                 "title": "Alunno con disabilità grave privato del sostegno pieno, la famiglia ricorre al TAR, i giudici condannano la scuola: danno esistenziale risarcibile con 2500 euro",
                 "link": "https://www.orizzontescuola.it/alunno-con-disabilita-grave-privato-del-sostegno-pieno-la-famiglia-ricorre-al-tar-i-giudici-condannano-la-scuola-danno-esistenziale-risarcibile-con-2500-euro/",
@@ -102,7 +143,12 @@
                 "date": "19 Ago 2026",
                 "time": "14:14",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_571767823.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Gestire la scuola",
                 "title": "Erasmus+ scuole: come costruire e gestire il riparto finanziario senza errori. Con 16 documenti da scaricare",
@@ -150,12 +196,7 @@
                 "date": "19 Ago 2026",
                 "time": "11:17",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/shutterstock_2800372613.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "GPS, chi conseguirà l’abilitazione nel 2026/27 potrà iscriversi negli elenchi aggiuntivi alla prima fascia. Pillole di Question Time",
@@ -187,14 +228,6 @@
                 "date": "19 Ago 2026",
                 "time": "9:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_608600555.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Immissioni in ruolo ATA 2026/27, aperte le domande per scelta sedi. Attenzione ad avvisi e scadenze [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-ata-2026-27-al-via-le-domande-per-la-scelta-delle-sedi-attenzione-ad-avvisi-e-scadenze/",
-                "date": "19 Ago 2026",
-                "time": "9:17",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_448000054-scaled.jpg"
             },
             {
                 "category": "ATA",
@@ -245,52 +278,36 @@
                 "date": "18 Ago 2026",
                 "time": "19:23",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/shutterstock_2385677473-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Posti di sostegno in deroga: prime autorizzazioni prima del 31 agosto, altre anche durante l’anno. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/posti-di-sostegno-in-deroga-prime-autorizzazioni-prima-del-31-agosto-altre-anche-durante-lanno-pillole-di-question-time/",
-                "date": "18 Ago 2026",
-                "time": "18:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_92401018.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Piano Casa, a settembre al via il recupero delle case popolari: docenti e ATA tra i possibili beneficiari?",
-                "link": "https://www.orizzontescuola.it/piano-casa-a-settembre-al-via-il-recupero-delle-case-popolari-docenti-e-ata-tra-i-possibili-beneficiari/",
-                "date": "18 Ago 2026",
-                "time": "17:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2509111243.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Mini call veloce, “ultima spiaggia” per il ruolo? Attenzione al vincolo triennale e non solo: “Occorre fare scelte di vita oculate”. Il punto di Semeraro",
-                "link": "https://www.orizzontescuola.it/mini-call-veloce-ultima-spiaggia-per-il-ruolo-attenzione-al-vincolo-triennale-e-non-solo-occorre-fare-scelte-di-vita-oculate-il-punto-di-semeraro/",
-                "date": "18 Ago 2026",
-                "time": "15:48",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/giuseppe_semeraro_2.png"
-            },
-            {
-                "category": "Stipendio",
-                "title": "Aumenti e arretrati stipendio docenti e ATA, Pacifico (ANIEF): “Attenzione ai cedolini ‘taroccati’. Ecco le indicazioni per verificare”",
-                "link": "https://www.orizzontescuola.it/aumenti-e-arretrati-stipendio-docenti-e-ata-pacifico-anief-attenzione-ai-cedolini-taroccati-ecco-le-indicazioni-per-verificare/",
-                "date": "18 Ago 2026",
-                "time": "15:32",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Marcello-Pacifico-Anief.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Anno 1, n. 28 – Mondo ATA. Verso settembre: l’orario ATA tra organizzazione del servizio e turni. Iscriviti gratuitamente",
-                "link": "https://www.orizzontescuola.it/anno-1-n-28-mondo-ata-verso-settembre-lorario-ata-tra-organizzazione-del-servizio-e-turni-iscriviti-gratuitamente/",
-                "date": "18 Ago 2026",
-                "time": "15:31",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/Sottotitolo-2-1.png"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Gen Z e acquisti: il 28% usa già l’AI generativa per fare shopping",
+                "link": "https://www.orizzontescuola.it/gen-z-e-acquisti-il-28-usa-gia-lai-generativa-per-fare-shopping/",
+                "date": "20 Ago 2026",
+                "time": "9:50",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Pozzuoli dopo il terremoto: quasi 3.500 sfollati, rientrano le prime famiglie. Scuole aperte il 15 settembre",
+                "link": "https://www.orizzontescuola.it/pozzuoli-dopo-il-terremoto-quasi-3-500-sfollati-rientrano-le-prime-famiglie-scuole-aperte-il-15-settembre/",
+                "date": "20 Ago 2026",
+                "time": "8:48",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Sicurezza stradale e scuole: il CNDDU chiede un monitoraggio nazionale degli attraversamenti pedonali dopo la tragedia di Bologna",
+                "link": "https://www.orizzontescuola.it/sicurezza-stradale-e-scuole-il-cnddu-chiede-un-monitoraggio-nazionale-degli-attraversamenti-pedonali-dopo-la-tragedia-di-bologna/",
+                "date": "20 Ago 2026",
+                "time": "8:29",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Maturità e sostegno: lo studente scrive a Mattarella e Valditara e salva la sua prof grazie al principio dell’accomodamento ragionevole",
@@ -409,23 +426,6 @@
                 "link": "https://www.orizzontescuola.it/incendio-in-una-scuola-negli-usa-un-pitone-di-25-metri-al-centro-delle-indagini-ecco-cosa-sarebbe-successo/",
                 "date": "18 Ago 2026",
                 "time": "18:58",
-                "image_link": "N/A"
-            },
-            null,
-            {
-                "category": "Docenti",
-                "title": "Aule roventi e diritto allo studio, “Il caldo a scuola non va in vacanza”: una petizione per un piano d’adattamento climatico nelle scuole",
-                "link": "https://www.orizzontescuola.it/aule-roventi-e-diritto-allo-studio-il-caldo-a-scuola-non-va-in-vacanza-una-petizione-per-un-piano-dadattamento-climatico-nelle-scuole/",
-                "date": "18 Ago 2026",
-                "time": "15:48",
-                "image_link": "N/A"
-            },
-            {
-                "category": "ATA",
-                "title": "Personale ATA, Flc Cgil Palermo: “In Sicilia 207 posti in meno, 25 a Palermo. A rischio funzionamento e sicurezza delle scuole”",
-                "link": "https://www.orizzontescuola.it/personale-ata-flc-cgil-palermo-in-sicilia-207-posti-in-meno-25-a-palermo-a-rischio-funzionamento-e-sicurezza-delle-scuole/",
-                "date": "18 Ago 2026",
-                "time": "15:46",
                 "image_link": "N/A"
             }
         ]
@@ -552,6 +552,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Mini call veloce, “ultima spiaggia” per il ruolo? Attenzione al vincolo triennale e non solo: “Occorre fare scelte di vita oculate”. Il punto di Semeraro",
+                "link": "https://www.orizzontescuola.it/mini-call-veloce-ultima-spiaggia-per-il-ruolo-attenzione-al-vincolo-triennale-e-non-solo-occorre-fare-scelte-di-vita-oculate-il-punto-di-semeraro/",
+                "date": "18 Ago 2026",
+                "time": "15:48",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/giuseppe_semeraro_2.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Mini call veloce entro le 12 del 19 agosto: ecco l’elenco dei posti disponibili, solo infanzia e primaria [AGGIORNATO]",
                 "link": "https://www.orizzontescuola.it/mini-call-veloce-dal-14-agosto-ore-14-00-ecco-lelenco-dei-posti-disponibili-aggiornato/",
                 "date": "18 Ago 2026",
@@ -589,14 +597,6 @@
                 "date": "17 Ago 2026",
                 "time": "17:46",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1197053242.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Mini call veloce, ecco i consigli per non sbagliare la domanda: ordinate le province e occhio al vincolo triennale. Il punto di Sonia Cannas",
-                "link": "https://www.orizzontescuola.it/mini-call-veloce-ecco-i-consigli-per-non-sbagliare-la-domanda-ordinate-le-province-e-occhio-al-vincolo-triennale-il-punto-di-sonia-cannas/",
-                "date": "17 Ago 2026",
-                "time": "15:35",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Sonia_Cannas.png"
             }
         ]
     },
