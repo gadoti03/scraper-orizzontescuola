@@ -24,6 +24,22 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Politica scolastica",
+                "title": "Stress e burnout nella scuola, ANIEF chiede test obbligatori e un monitoraggio nazionale per tutelare la salute mentale di docenti e Ata",
+                "link": "https://www.orizzontescuola.it/stress-e-burnout-nella-scuola-anief-chiede-test-obbligatori-e-un-monitoraggio-nazionale-per-tutelare-la-salute-mentale-di-docenti-e-ata/",
+                "date": "20 Ago 2026",
+                "time": "20:32",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Marcello-Pacifico-Anief.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Lollobrigida: “Chi fa l’istituto agrario o alberghiero non è un figlio ‘scemo’, ma fa una scelta di passione”",
+                "link": "https://www.orizzontescuola.it/lollobrigida-chi-fa-listituto-agrario-o-alberghiero-non-e-un-figlio-scemo-ma-fa-una-scelta-di-passione/",
+                "date": "20 Ago 2026",
+                "time": "19:43",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_2217247217-scaled.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Docenti neoassunti, presa di servizio il 1° settembre: documenti necessari e chiarezza sulla Carta d’Identità cartacea",
                 "link": "https://www.orizzontescuola.it/docenti-neoassunti-presa-di-servizio-il-1-settembre-documenti-necessari-e-chiarezza-sulla-carta-didentita-cartacea/",
@@ -134,7 +150,12 @@
                 "date": "20 Ago 2026",
                 "time": "8:44",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2744383765.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Gestire la scuola",
                 "title": "Concessione di locali scolastici a terzi: scarica guida, modello richiesta, delibera del Consiglio Istituto, contratto convenzione, regolamento istituto",
@@ -143,12 +164,7 @@
                 "time": "7:55",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2585524683.jpg"
             },
-            null
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            null,
             {
                 "category": "Cronaca",
                 "title": "Alunno con disabilità grave privato del sostegno pieno, la famiglia ricorre al TAR, i giudici condannano la scuola: danno esistenziale risarcibile con 2500 euro",
@@ -276,28 +292,28 @@
                 "date": "19 Ago 2026",
                 "time": "11:03",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/Teacher_write-e1784721115269.png"
-            },
-            {
-                "category": "Docenti",
-                "title": "Scuole italiane all’estero, ferie da 31 a 41 giorni in base alla sede. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/scuole-italiane-allestero-ferie-da-31-a-41-giorni-in-base-alla-sede-pillole-di-question-time/",
-                "date": "19 Ago 2026",
-                "time": "10:17",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_2459630859-scaled-e1786950644273.jpg"
-            },
-            {
-                "category": "Plus",
-                "title": "“OrizzonteScuola7”, la newsletter settimanale di OrizzonteScuola. Iscriviti gratuitamente",
-                "link": "https://www.orizzontescuola.it/orizzontescuola7-la-newsletter-settimanale-di-orizzontescuola-iscriviti-gratuitamente/",
-                "date": "19 Ago 2026",
-                "time": "9:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/La-newsletter-per-Diventare-insegnante.png"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Conte: “Benzina oltre 2 euro, caro-scuola e bollette, serve un Consiglio dei Ministri straordinario”",
+                "link": "https://www.orizzontescuola.it/conte-benzina-oltre-2-euro-caro-scuola-e-bollette-serve-un-consiglio-dei-ministri-straordinario/",
+                "date": "20 Ago 2026",
+                "time": "20:45",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Caro affitti e stipendi bloccati: la corsa ad ostacoli dei docenti tra inflazione e assegnazioni provvisorie",
+                "link": "https://www.orizzontescuola.it/caro-affitti-e-stipendi-bloccati-la-corsa-ad-ostacoli-dei-docenti-tra-inflazione-e-assegnazioni-provvisorie/",
+                "date": "20 Ago 2026",
+                "time": "19:57",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Emergenza femminicidi, Boldrini: “Imperativo formare i giovani fin dai primi anni di scuola al rispetto e alla parità”",
@@ -417,22 +433,6 @@
                 "link": "https://www.orizzontescuola.it/servizio-su-sostegno-nella-scuola-media-per-docenti-a046-non-riconosciuto-ai-fini-della-specializzazione-il-cnddu-sollecita-il-ministro/",
                 "date": "19 Ago 2026",
                 "time": "12:26",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Aumenti e arretrati contratto scuola, in arrivo sui conti correnti: cifre e info utili. QUESTION TIME con Cavallini (ANIEF)",
-                "link": "https://www.orizzontescuola.it/aumenti-e-arretrati-contratto-scuola-in-arrivo-sui-conti-correnti-cifre-e-info-utili-question-time-con-cavallini-anief-live-mercoledi-19-agosto-alle-1430/",
-                "date": "19 Ago 2026",
-                "time": "12:01",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Studenti",
-                "title": "Trasporto pubblico locale, MIT al lavoro per tagliare i costi dei biglietti e degli abbonamenti per gli studenti",
-                "link": "https://www.orizzontescuola.it/trasporto-pubblico-locale-mit-al-lavoro-per-tagliare-i-costi-dei-biglietti-e-degli-abbonamenti-per-gli-studenti/",
-                "date": "19 Ago 2026",
-                "time": "11:37",
                 "image_link": "N/A"
             }
         ]
@@ -559,6 +559,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Assegnazione provvisoria, mini call veloce e anno di prova: i vincoli per i docenti neoassunti. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/assegnazione-provvisoria-mini-call-veloce-e-anno-di-prova-i-vincoli-per-i-docenti-neoassunti-pillole-di-question-time/",
+                "date": "19 Ago 2026",
+                "time": "8:58",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/download-5.jpeg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Carta docente spetta anche ai supplenti con orario inferiore al 50%? Deciderà Corte di Giustizia Ue",
                 "link": "https://www.orizzontescuola.it/carta-docente-spetta-anche-ai-supplenti-con-orario-inferiore-al-50-decidera-corte-di-giustizia-ue/",
                 "date": "19 Ago 2026",
@@ -596,14 +604,6 @@
                 "date": "18 Ago 2026",
                 "time": "12:45",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/shutterstock_2677276019.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "TFA sostegno alla primaria, semestre aggiuntivo nella laurea quinquennale in SFP per uscire già specializzati? La proposta. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/tfa-sostegno-alla-primaria-semestre-aggiuntivo-nella-laurea-quinquennale-in-sfp-per-uscire-gia-specializzati-la-proposta-pillole-di-question-time/",
-                "date": "18 Ago 2026",
-                "time": "12:07",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/download-3.jpg"
             }
         ]
     },
