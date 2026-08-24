@@ -25,6 +25,22 @@
         "articles": [
             {
                 "category": "Docenti",
+                "title": "Il diario scolastico pieno di errori (dalle fasi lunari alla tavola periodica), era stato realizzato con Intelligenza Artificiale",
+                "link": "https://www.orizzontescuola.it/il-diario-scolastico-pieno-di-errori-dalle-fasi-lunari-alla-tavola-periodica-era-stato-realizzato-con-intelligenza-artificiale/",
+                "date": "23 Ago 2026",
+                "time": "20:13",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/shutterstock_2752113233.jpg"
+            },
+            {
+                "category": "Genitori",
+                "title": "Ritorno a scuola, libri e corredo possono costare fino a 1.300 euro a studente. Penne che oltrepassano i 500 euro per i “marchi di lusso”",
+                "link": "https://www.orizzontescuola.it/ritorno-a-scuola-libri-e-corredo-possono-costare-fino-a-1-300-euro-a-studente-penne-che-oltrepassano-i-500-euro-per-i-marchi-di-lusso/",
+                "date": "23 Ago 2026",
+                "time": "20:06",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2768938881.jpg"
+            },
+            {
+                "category": "Docenti",
                 "title": "Selezioni per insegnare all’estero, la destinazione non riguarda solo le scuole statali o paritarie. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/selezioni-per-insegnare-allestero-la-destinazione-non-riguarda-solo-le-scuole-statali-o-paritarie-pillole-di-question-time/",
                 "date": "23 Ago 2026",
@@ -127,7 +143,12 @@
                 "date": "22 Ago 2026",
                 "time": "15:49",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2665797789.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "Calendario scolastico 2026/27, ponti e festività: ecco le date regione per regione",
@@ -143,12 +164,7 @@
                 "date": "22 Ago 2026",
                 "time": "12:33",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_760359742.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "ATA",
                 "title": "DSGA, fino a 10mila euro in meno dei funzionari dei Ministeri. Sorrentino (Anief-Condir): “Disparità inaccettabile”",
@@ -269,15 +285,6 @@
                 "date": "21 Ago 2026",
                 "time": "16:02",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/shutterstock_558136654.jpg"
-            },
-            null,
-            {
-                "category": "Gestire la scuola",
-                "title": "Organi collegiali a distanza, modelli: regolamento d’Istituto, delibere, nota informativa ai docenti + documenti per DSGA e segreterie",
-                "link": "https://www.orizzontescuola.it/organi-collegiali-a-distanza-modelli-di-al-regolamento-distituto-delibere-nota-informativa-ai-docenti-documenti-per-dsga-e-segreterie/",
-                "date": "21 Ago 2026",
-                "time": "11:19",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/Organi-collegiali-a-distanza-1.png"
             }
         ]
     },
