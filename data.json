@@ -3,25 +3,137 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
-                "category": "Gestire la scuola",
-                "title": "Privacy e cybersecurity, come rafforzare la sicurezza digitale della scuola. Guida e 10 documenti da scaricare",
-                "link": "https://www.orizzontescuola.it/privacy-e-cybersecurity-come-rafforzare-la-sicurezza-digitale-della-scuola-guida-e-10-documenti-da-scaricare/",
-                "date": "29 Ago 2026",
-                "time": "8:18",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/privacy.png"
-            },
-            {
-                "category": "Docenti",
-                "title": "Un cane in classe e … migliora lo stress scolastico, migliora la lettura ad alta voce, l’empatia e non solo. Ecco come e perché",
-                "link": "https://www.orizzontescuola.it/un-cane-in-classe-e-migliora-lo-stress-scolastico-migliora-la-lettura-ad-alta-voce-lempatia-e-non-solo-ecco-come-e-perche/",
-                "date": "29 Ago 2026",
+                "category": "Cronaca",
+                "title": "Convitto, una scuola che non finisce con il suono dell’ultima campanella. INTERVISTA a Luciana Cino",
+                "link": "https://www.orizzontescuola.it/convitto-una-scuola-che-non-finisce-con-il-suono-dellultima-campanella-intervista-a-luciana-cino/",
+                "date": "30 Ago 2026",
                 "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/shutterstock_1451028338.jpg"
-            }
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/LUciana_cino1.png"
+            },
+            null
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
+        "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Docenti neo-immessi in ruolo e adesione al Fondo ESPERO: come funziona il meccanismo del silenzio-assenso",
+                "link": "https://www.orizzontescuola.it/docenti-neo-immessi-in-ruolo-e-adesione-al-fondo-espero-come-funziona-il-meccanismo-del-silenzio-assenso/",
+                "date": "30 Ago 2026",
+                "time": "14:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/shutterstock_2678962067.jpg"
+            },
+            {
+                "category": "Pensioni",
+                "title": "Pensioni, il governo studia il fondo che parte dalla culla: 10 euro al mese per 18 anni diventano 21mila euro",
+                "link": "https://www.orizzontescuola.it/pensioni-il-governo-studia-il-fondo-che-parte-dalla-culla-10-euro-al-mese-per-18-anni-diventano-21mila-euro/",
+                "date": "30 Ago 2026",
+                "time": "12:48",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_1897255669-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Riconferma sul sostegno, perché non ho avuto la nomina nonostante richiesta della famiglia e disponibilità nella domanda 150 preferenze? Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/riconferma-sul-sostegno-perche-non-ho-avuto-la-nomina-nonostante-richiesta-della-famiglia-e-disponibilita-nella-domanda-150-preferenze-pillole-di-question-time/",
+                "date": "30 Ago 2026",
+                "time": "12:39",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/03/shutterstock_735971875.jpg"
+            },
+            {
+                "category": "Gestire la scuola",
+                "title": "Conflitti tra il personale scolastico: con modello protocollo per la gestione tra il personale scolastico e rilevazione conflitti tra ATA",
+                "link": "https://www.orizzontescuola.it/conflitti-tra-il-personale-scolastico-con-modello-protocollo-per-la-gestione-tra-il-personale-scolastico-e-rilevazione-conflitti-tra-ata/",
+                "date": "30 Ago 2026",
+                "time": "11:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/Chiediamo-troppo-e-troppo-presto-ai-bambini-1.png"
+            },
+            {
+                "category": "Scuole",
+                "title": "Dispositivi digitali, acquisto e concessione in comodato d’uso al personale: guida operativa per DS e DSGA + 25 documenti da scaricare per la gestione amministrativa",
+                "link": "https://www.orizzontescuola.it/dispositivi-digitali-acquisto-e-concessione-in-comodato-duso-al-personale-guida-operativa-per-ds-e-dsga-25-documenti-da-scaricare-per-la-gestione-amministrativa/",
+                "date": "30 Ago 2026",
+                "time": "11:34",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/11/shutterstock_2475089121.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Docenti di ruolo e supplenze da GPS: come funziona l’articolo 47",
+                "link": "https://www.orizzontescuola.it/docenti-di-ruolo-e-supplenze-da-gps-come-funziona-larticolo-47-per-il-personale-a-tempo-indeterminato/",
+                "date": "30 Ago 2026",
+                "time": "10:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_1158978574.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Bollettino zero, la riconferma sul sostegno non significa che tutti i candidati precedenti avrebbero ottenuto una nomina. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/bollettino-zero-la-riconferma-sul-sostegno-non-significa-che-tutti-i-candidati-precedenti-avrebbero-ottenuto-una-nomina-pillole-di-question-time/",
+                "date": "30 Ago 2026",
+                "time": "10:39",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_302086268.jpg"
+            },
+            {
+                "category": "Gestire la scuola",
+                "title": "Albo fornitori: modalità di costituzione, con regolamento + avviso pubblico da scaricare",
+                "link": "https://www.orizzontescuola.it/albo-fornitori-modalita-di-costituzione-con-regolamento-avviso-pubblico-da-scaricare/",
+                "date": "30 Ago 2026",
+                "time": "9:50",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/Albo_fornitori.png"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Ritorno a scuola, il 50% dei docenti segnala stress da rientro: “Ansia, insonnia e pressione psicologica. Il sacrificio continua a essere percepito come un valore, ma non è così”",
+                "link": "https://www.orizzontescuola.it/ritorno-a-scuola-il-50-dei-docenti-segnala-stress-da-rientro-ansia-insonnia-e-pressione-psicologica-il-sacrificio-continua-a-essere-percepito-come-un-valore-ma-non-e-cosi/",
+                "date": "30 Ago 2026",
+                "time": "9:01",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/shutterstock_683169130.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze 2026 di conferma sostegno e primo bollettino: l’accettazione si fa con la presa di servizio, il link è solo per la rinuncia",
+                "link": "https://www.orizzontescuola.it/supplenze-2026-di-conferma-sostegno-e-primo-bollettino-laccettazione-si-fa-con-la-presa-di-servizio-il-link-e-solo-per-la-rinuncia/",
+                "date": "30 Ago 2026",
+                "time": "9:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2493334753-scaled.jpg"
+            },
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Supplenze docenti 2026, bollettini e algoritmo e non solo: tutte le news dai territori. SPECIALE QUESTION TIME con i sindacati. LIVE Martedì 1 settembre alle 15:00",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-2026-bollettini-e-algoritmo-e-non-solo-tutte-le-news-dai-territori-speciale-question-time-con-i-sindacati-live-martedi-1-settembre-alle-1500/",
+                "date": "30 Ago 2026",
+                "time": "8:42",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/Template_questiontime_1920x1080-13.png"
+            },
+            {
+                "category": "ATA",
+                "title": "Carta del docente, ritorno a 500 euro ed estensione ad ATA e supplenti brevi. Le richieste dell’Anief",
+                "link": "https://www.orizzontescuola.it/carta-del-docente-ritorno-a-500-euro-ed-estensione-ad-ata-e-supplenti-brevi-le-richieste-dellanief/",
+                "date": "30 Ago 2026",
+                "time": "8:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/Marcello-Pacifico-7.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti ed ATA, ecco come funzionano: tutti i diritti aggiornati alla normativa 2026",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-ed-ata-ecco-come-funzionano-tutti-i-diritti-aggiornati-alla-normativa-2026/",
+                "date": "30 Ago 2026",
+                "time": "8:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/ChatGPT-Image-24-feb-2026-10_51_31.png"
+            },
+            null,
+            null,
+            {
+                "category": "Politica scolastica",
+                "title": "Caro carburanti, 200 euro per i docenti pendolari e fuori sede. Il CNDDU chiede un’indennità",
+                "link": "https://www.orizzontescuola.it/caro-carburanti-il-cnddu-chiede-unindennita-fino-a-200-euro-per-i-docenti-pendolari-e-fuori-sede/",
+                "date": "30 Ago 2026",
+                "time": "7:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2530339755.jpg"
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
         "articles": [
             {
                 "category": "Diventare Insegnanti",
@@ -120,14 +232,6 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/download-3-2.jpg"
             },
             {
-                "category": "Politica scolastica",
-                "title": "Caro carburanti, il CNDDU chiede un’indennità fino a 200 euro per i docenti pendolari e fuori sede",
-                "link": "https://www.orizzontescuola.it/caro-carburanti-il-cnddu-chiede-unindennita-fino-a-200-euro-per-i-docenti-pendolari-e-fuori-sede/",
-                "date": "29 Ago 2026",
-                "time": "12:34",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2530339755.jpg"
-            },
-            {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze da GPS, la graduatoria non viene ripubblicata dopo ogni bollettino per aggiornare le posizioni. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/supplenze-da-gps-la-graduatoria-non-viene-ripubblicata-dopo-ogni-bollettino-per-aggiornare-le-posizioni-pillole-di-question-time/",
@@ -150,12 +254,7 @@
                 "date": "29 Ago 2026",
                 "time": "9:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/Screenshot-2026-01-22-102351.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Immissione in ruolo e orario ridotto: come funziona l’anno di prova per docenti in part time",
@@ -165,118 +264,50 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2274347381.jpg"
             },
             {
+                "category": "Gestire la scuola",
+                "title": "Privacy e cybersecurity, come rafforzare la sicurezza digitale della scuola. Guida e 10 documenti da scaricare",
+                "link": "https://www.orizzontescuola.it/privacy-e-cybersecurity-come-rafforzare-la-sicurezza-digitale-della-scuola-guida-e-10-documenti-da-scaricare/",
+                "date": "29 Ago 2026",
+                "time": "8:18",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/privacy.png"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze GPS, pubblicati i primi bollettini: conferme sul sostegno e nomine al via. Cozzetto: controllare i siti degli Uffici. Il Punto",
                 "link": "https://www.orizzontescuola.it/supplenze-gps-pubblicati-i-primi-bollettini-conferme-sul-sostegno-e-nomine-al-via-cozzetto-controllare-i-siti-degli-uffici-il-punto/",
                 "date": "29 Ago 2026",
                 "time": "8:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/shutterstock_2522526921.jpg"
-            },
-            {
-                "category": "Stipendio",
-                "title": "Stipendio settembre 2026, importo già visibile per docenti e ATA di ruolo",
-                "link": "https://www.orizzontescuola.it/stipendio-settembre-2026-importo-gia-visibile-per-docenti-e-ata-di-ruolo/",
-                "date": "29 Ago 2026",
-                "time": "7:46",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2018/11/money-3115984_1280-1200x800.jpg"
-            },
-            null,
-            null,
-            null,
-            null,
-            {
-                "category": "Politica scolastica",
-                "title": "“Questa scuola che chiamano nuova”. Una lettera aperta",
-                "link": "https://www.orizzontescuola.it/questa-scuola-che-chiamano-nuova-una-lettera-aperta/",
-                "date": "28 Ago 2026",
-                "time": "16:54",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/shutterstock_2702757755.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Supplenze docenti 2026, bollettini e algoritmo e non solo: tutte le news dai territori. SPECIALE QUESTION TIME con i sindacati. LIVE Martedì 1 settembre alle 15:00",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-2026-bollettini-e-algoritmo-e-non-solo-tutte-le-news-dai-territori-speciale-question-time-con-i-sindacati-live-martedi-1-settembre-alle-1500/",
-                "date": "28 Ago 2026",
-                "time": "16:42",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/Template_questiontime_1920x1080-13.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze, nuovo algoritmo GPS, chi resta senza nomina viene riesaminato nei bollettini successivi. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/supplenze-nuovo-algoritmo-gps-chi-resta-senza-nomina-viene-riesaminato-nei-bollettini-successivi-pillole-di-question-time/",
-                "date": "28 Ago 2026",
-                "time": "16:29",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_145510552.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Organi collegiali online, “così si rischia caos e ricorsi”. Il punto di vista di USB scuola",
-                "link": "https://www.orizzontescuola.it/organi-collegiali-online-cosi-si-rischia-caos-e-ricorsi-il-punto-di-vista-di-usb-scuola/",
-                "date": "28 Ago 2026",
-                "time": "16:24",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_1816579838-scaled.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Percorsi abilitanti: titolo da conseguire entro il 31 agosto 2026",
-                "link": "https://www.orizzontescuola.it/percorsi-abilitanti-titolo-da-conseguire-entro-il-31-agosto-2026/",
-                "date": "28 Ago 2026",
-                "time": "15:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2626799523.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Caldo killer in classe: 9 scuole su 10 senza aria condizionata. Pacifico (ANIEF): “Rischio malori per 7 milioni di studenti”",
-                "link": "https://www.orizzontescuola.it/caldo-killer-in-classe-9-scuole-su-10-senza-aria-condizionata-pacifico-anief-rischio-malori-per-7-milioni-di-studenti/",
-                "date": "28 Ago 2026",
-                "time": "14:37",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/12/Marcello-Pacifico-3.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti GPS, dal “bollettino zero” alle prime nomine: come funziona l’algoritmo. Non ci si ferma al 31 agosto",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-gps-dal-bollettino-zero-alle-prime-nomine-come-funziona-lalgoritmo-non-ci-si-ferma-al-31-agosto/",
-                "date": "28 Ago 2026",
-                "time": "13:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Sonia_Cannas.png"
-            },
-            {
-                "category": "ATA",
-                "title": "Procedimenti disciplinari a docenti e ATA, monitoraggio 2025/26: cosa devono comunicare le scuole",
-                "link": "https://www.orizzontescuola.it/procedimenti-disciplinari-a-docenti-e-ata-monitoraggio-2025-26-cosa-devono-comunicare-le-scuole/",
-                "date": "28 Ago 2026",
-                "time": "12:46",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/shutterstock_1801995781.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Spezzoni fino a 6 ore: in questa fase non possono essere assegnati a docenti di ruolo che non hanno presentato domanda entro il 15 luglio",
-                "link": "https://www.orizzontescuola.it/spezzoni-fino-a-6-ore-in-questa-fase-non-possono-essere-assegnati-a-docenti-di-ruolo-che-non-hanno-presentato-domanda-entro-il-15-luglio/",
-                "date": "28 Ago 2026",
-                "time": "12:28",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2274347381.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Anno 1, n. 29 – Mondo ATA. Perché chi ha meno punti passa avanti + speciale inizio anno. Iscriviti gratuitamente",
-                "link": "https://www.orizzontescuola.it/anno-1-n-29-mondo-ata-immissioni-in-ruolo-perche-chi-ha-meno-punti-passa-avanti-iscriviti-gratuitamente/",
-                "date": "28 Ago 2026",
-                "time": "11:16",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/Sottotitolo-2-1.png"
-            },
-            {
-                "category": "Docenti",
-                "title": "Latino alle medie dal 2026/2027 con le Nuove Indicazioni Nazionali:  “Chi paga il lavoro extracurricolare dei docenti?”",
-                "link": "https://www.orizzontescuola.it/latino-alle-medie-dal-2026-2027-con-le-nuove-indicazioni-nazionali-chi-paga-il-lavoro-extracurricolare-dei-docenti/",
-                "date": "28 Ago 2026",
-                "time": "11:08",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2492219935-scaled.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Precariato, Galiano: “Quello degli insegnanti rende precaria anche la scuola dei ragazzi”",
+                "link": "https://www.orizzontescuola.it/precariato-galiano-quello-degli-insegnanti-rende-precaria-anche-la-scuola-dei-ragazzi/",
+                "date": "30 Ago 2026",
+                "time": "13:27",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Di Maggio (FdI): “Rendere strutturale il buono scuola nazionale”",
+                "link": "https://www.orizzontescuola.it/di-maggio-fdi-rendere-strutturale-il-buono-scuola-nazionale/",
+                "date": "30 Ago 2026",
+                "time": "13:11",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Maltempo a Cremona, scuole sotto attenta verifica. Valditara: “Siamo al fianco della comunità colpita”",
+                "link": "https://www.orizzontescuola.it/maltempo-a-cremona-scuole-sotto-attenta-verifica-valditara-siamo-al-fianco-della-comunita-colpita/",
+                "date": "30 Ago 2026",
+                "time": "8:48",
+                "image_link": "N/A"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "“Con l’anima in riserva e il cuore che non parte”: l’agonia estiva dei docenti precari",
@@ -389,36 +420,20 @@
                 "date": "28 Ago 2026",
                 "time": "13:40",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "D’Aprile (Uil Scuola): “Precariato strutturale, servono 80mila assunzioni stabili per il sostegno”",
-                "link": "https://www.orizzontescuola.it/daprile-uil-scuola-precariato-strutturale-servono-80mila-assunzioni-stabili-per-il-sostegno/",
-                "date": "28 Ago 2026",
-                "time": "13:28",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Inizio anno scolastico, Gilda: “Precariato, aule roventi e carenze ATA. I problemi di sempre si aggravano”",
-                "link": "https://www.orizzontescuola.it/inizio-anno-scolastico-gilda-precariato-aule-roventi-e-carenze-ata-i-problemi-di-sempre-si-aggravano/",
-                "date": "28 Ago 2026",
-                "time": "12:35",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Caro scuola, Codacons chiede detrazione al 19% per libri e cancelleria: “Non sono un lusso, ma strumenti indispensabili”",
-                "link": "https://www.orizzontescuola.it/caro-scuola-codacons-chiede-detrazione-al-19-per-libri-e-cancelleria-non-sono-un-lusso-ma-strumenti-indispensabili/",
-                "date": "28 Ago 2026",
-                "time": "11:06",
-                "image_link": "N/A"
             }
         ]
     },
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Spezzoni fino a 6 ore: in questa fase non possono essere assegnati a docenti di ruolo che non hanno presentato domanda entro il 15 luglio",
+                "link": "https://www.orizzontescuola.it/spezzoni-fino-a-6-ore-in-questa-fase-non-possono-essere-assegnati-a-docenti-di-ruolo-che-non-hanno-presentato-domanda-entro-il-15-luglio/",
+                "date": "28 Ago 2026",
+                "time": "12:28",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Conferma sostegno 2026, chi rinuncia non partecipa alle supplenze da GPS",
@@ -522,20 +537,44 @@
                 "date": "25 Lug 2026",
                 "time": "12:11",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "150 preferenze GPS: guida alla compilazione, ecco gli errori da non commettere. QUESTION TIME con Semeraro",
-                "link": "https://www.orizzontescuola.it/150-preferenze-gps-guida-alla-compilazione-ecco-gli-errori-da-non-commettere-question-time-con-semeraro-live-venerdi-24-luglio-alle-1430/",
-                "date": "24 Lug 2026",
-                "time": "8:24",
-                "image_link": "N/A"
             }
         ]
     },
     "group_6": {
         "title": "Diventare Insegnanti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze, nuovo algoritmo GPS, chi resta senza nomina viene riesaminato nei bollettini successivi. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/supplenze-nuovo-algoritmo-gps-chi-resta-senza-nomina-viene-riesaminato-nei-bollettini-successivi-pillole-di-question-time/",
+                "date": "28 Ago 2026",
+                "time": "16:29",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_145510552.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti GPS, dal “bollettino zero” alle prime nomine: come funziona l’algoritmo. Non ci si ferma al 31 agosto",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-gps-dal-bollettino-zero-alle-prime-nomine-come-funziona-lalgoritmo-non-ci-si-ferma-al-31-agosto/",
+                "date": "28 Ago 2026",
+                "time": "13:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Sonia_Cannas.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2025/26: tutto su presa di servizio, documenti, controllo titoli. Ne parliamo nella newsletter Diventare Insegnanti di venerdì 28",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-2025-26-continuita-sostegno-e-primo-turno-da-gps-tutto-su-presa-di-servizio-documenti-controllo-titoli-ne-parliamo-nella-newsletter-diventare-insegnanti-di-venerdi-28/",
+                "date": "28 Ago 2026",
+                "time": "10:51",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/La-newsletter-per-Diventare-insegnante-2.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Continuità sul sostegno: conferma solo se il docente avrebbe comunque una supplenza e il posto è libero. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/continuita-sul-sostegno-conferma-solo-se-il-docente-avrebbe-comunque-una-supplenza-e-il-posto-e-libero-pillole-di-question-time/",
+                "date": "28 Ago 2026",
+                "time": "10:22",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2352497975.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Guida alla presa di servizio del 1° settembre 2026: chi deve presentarsi e in quale sede",
@@ -551,44 +590,20 @@
                 "date": "28 Ago 2026",
                 "time": "9:32",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_561287053.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Docenti neo-assunti e vincolo triennale: calcolo del triennio, deroghe e mobilità annuale",
-                "link": "https://www.orizzontescuola.it/docenti-neo-assunti-e-vincolo-triennale-calcolo-del-triennio-deroghe-e-mobilita-annuale/",
-                "date": "27 Ago 2026",
-                "time": "18:56",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2583891963.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "ITP, passaggio dalla Tabella B alla Tabella A: l’anno di prova va rifatto",
-                "link": "https://www.orizzontescuola.it/itp-passaggio-dalla-tabella-b-alla-tabella-a-lanno-di-prova-va-rifatto/",
-                "date": "27 Ago 2026",
-                "time": "17:45",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_2010529337.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Posti sostegno in deroga, migliaia anche nel 2026/27 [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/anche-per-il-2026-27-migliaia-di-posti-sostegno-in-deroga-saranno-utilizzati-per-assegnazioni-provvisorie-e-supplenze-al-30-giugno-2027/",
-                "date": "27 Ago 2026",
-                "time": "17:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_107800838.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "“Il precariato è una brutta cosa”, Schettini e il messaggio inequivocabile a sostegno dei docenti precari",
-                "link": "https://www.orizzontescuola.it/il-precariato-e-una-brutta-cosa-schettini-e-il-messaggio-inequivocabile-a-sostegno-dei-docenti-precari/",
-                "date": "27 Ago 2026",
-                "time": "16:19",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/Senza-nome.png"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
+            {
+                "category": "ATA",
+                "title": "Procedimenti disciplinari a docenti e ATA, monitoraggio 2025/26: cosa devono comunicare le scuole",
+                "link": "https://www.orizzontescuola.it/procedimenti-disciplinari-a-docenti-e-ata-monitoraggio-2025-26-cosa-devono-comunicare-le-scuole/",
+                "date": "28 Ago 2026",
+                "time": "12:46",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/shutterstock_1801995781.jpg"
+            },
             {
                 "category": "ATA",
                 "title": "Incarichi specifici ATA e FMOF, pagamenti bloccati. UIL Scuola: “Il Ministero intervenga subito”",
@@ -628,14 +643,6 @@
                 "date": "24 Ago 2026",
                 "time": "19:32",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_2167465293.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Primo stipendio docenti e ATA: cosa controllare per evitare ritardi con NoiPA",
-                "link": "https://www.orizzontescuola.it/primo-stipendio-docenti-e-ata-cosa-controllare-per-evitare-ritardi-con-noipa/",
-                "date": "24 Ago 2026",
-                "time": "17:59",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_106178696.jpg"
             }
         ]
     },
