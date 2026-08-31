@@ -23,6 +23,38 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti 2026/27, i BOLLETTINI nomine [AGGIORNATO]",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-ecco-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/",
+                "date": "31 Ago 2026",
+                "time": "23:07",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1937300755.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Anno scolastico 2026/27 inizia con migliaia di docenti riconfermati su posto sostegno a partire dalla richiesta della famiglia [COMPLETO]",
+                "link": "https://www.orizzontescuola.it/supplenze-2026-27-ecco-il-bollettino-dei-docenti-riconfermati-su-posto-sostegno-in-aggiornamento/",
+                "date": "31 Ago 2026",
+                "time": "22:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/07/original_1011923098-1200x829.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Quasi 1000 iscritti e oltre 600 persone collegate contemporaneamente per il 7° Convegno CPP",
+                "link": "https://www.orizzontescuola.it/quasi-1000-iscritti-e-oltre-600-persone-collegate-contemporaneamente-per-il-7-convegno-cpp/",
+                "date": "31 Ago 2026",
+                "time": "18:09",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/a4.png"
+            },
+            {
+                "category": "Docenti",
+                "title": "Assegnazioni provvisorie 2026/27, cattedre intere e spezzoni sul sostegno: perché il part-time rischia di essere penalizzato",
+                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-2026-27-cattedre-intere-e-spezzoni-sul-sostegno-perche-il-part-time-rischia-di-essere-penalizzato/",
+                "date": "31 Ago 2026",
+                "time": "17:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2583891963.jpg"
+            },
             null,
             null,
             {
@@ -65,14 +97,6 @@
                 "time": "14:54",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/10/shutterstock_142220581.jpg"
             },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze 2026/27, ecco il bollettino dei docenti riconfermati su posto sostegno [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/supplenze-2026-27-ecco-il-bollettino-dei-docenti-riconfermati-su-posto-sostegno-in-aggiornamento/",
-                "date": "31 Ago 2026",
-                "time": "14:48",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/07/original_1011923098-1200x829.jpg"
-            },
             null,
             {
                 "category": "Docenti",
@@ -105,7 +129,12 @@
                 "date": "31 Ago 2026",
                 "time": "12:36",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/shutterstock_2338392875.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Stipendio",
                 "title": "Stipendio settembre 2026 già visibile su NoiPa. ANIEF: “Confrontate con luglio e agosto, segnalate anomalie”",
@@ -129,12 +158,7 @@
                 "date": "31 Ago 2026",
                 "time": "11:38",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/shutterstock_2499384425.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Plus",
                 "title": "“OrizzonteScuola7”, la newsletter settimanale di OrizzonteScuola. Iscriviti gratuitamente",
@@ -175,14 +199,6 @@
                 "date": "31 Ago 2026",
                 "time": "10:14",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/TABELLACOPERTINA-1-3.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti, i BOLLETTINI nomine [AGGIORNATO al 31 agosto, con indicazioni per presa di servizio]",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-ecco-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/",
-                "date": "31 Ago 2026",
-                "time": "10:05",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1937300755.jpg"
             },
             {
                 "category": "Plus",
@@ -248,21 +264,30 @@
                 "date": "31 Ago 2026",
                 "time": "7:27",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/Completo.png"
-            },
-            null,
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenza sostegno: si può tornare nella stessa scuola anche senza continuità, ma solo tramite algoritmo. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/supplenza-sostegno-si-puo-tornare-nella-stessa-scuola-anche-senza-continuita-ma-solo-tramite-algoritmo-pillole-di-question-time/",
-                "date": "30 Ago 2026",
-                "time": "20:54",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_1135342076.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Studenti",
+                "title": "Medicina 2026/2027, domani al via il semestre filtro: la guida con tutte le date e le regole",
+                "link": "https://www.orizzontescuola.it/medicina-2026-2027-domani-al-via-il-semestre-filtro-la-guida-con-tutte-le-date-e-le-regole/",
+                "date": "31 Ago 2026",
+                "time": "21:55",
+                "image_link": "N/A"
+            },
+            null,
+            null,
+            {
+                "category": "Docenti",
+                "title": "Compiti a casa, 10 attività che l’ia ha reso ‘preistoriche’. Galiano: “Separare allenamento da valutazione”",
+                "link": "https://www.orizzontescuola.it/compiti-a-casa-10-attivita-che-lia-ha-reso-preistoriche-galiano-separare-allenamento-da-valutazione/",
+                "date": "31 Ago 2026",
+                "time": "18:10",
+                "image_link": "N/A"
+            },
             {
                 "category": "ATA",
                 "title": "Acquisti in rete PA, a settembre webinar gratuiti anche per le scuole: RDO, offerte e appalti ICT",
@@ -373,38 +398,6 @@
                 "link": "https://www.orizzontescuola.it/preside-salva-900-studenti-dallalluvione-in-nepal-se-avessi-deciso-10-minuti-dopo-nessuno-di-noi-sarebbe-qui/",
                 "date": "31 Ago 2026",
                 "time": "10:46",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Smartphone vietati, lezioni di finanza e un questionario contro gli abusi: le novità della riapertura delle scuole in Francia",
-                "link": "https://www.orizzontescuola.it/smartphone-vietati-lezioni-di-finanza-e-un-questionario-contro-gli-abusi-le-novita-della-riapertura-delle-scuole-in-francia/",
-                "date": "31 Ago 2026",
-                "time": "10:03",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "UGL Istruzione: “Patto tra scuola e imprese” per rilanciare gli alberghieri e offrire ai giovani esperienza sul campo",
-                "link": "https://www.orizzontescuola.it/ugl-istruzione-patto-tra-scuola-e-imprese-per-rilanciare-gli-alberghieri-e-offrire-ai-giovani-esperienza-sul-campo/",
-                "date": "31 Ago 2026",
-                "time": "9:57",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Genitori",
-                "title": "Scuole accorpate in Toscana, A.Ge.: “I Consigli d’istituto non decadono e il commissario non è automatico”",
-                "link": "https://www.orizzontescuola.it/scuole-accorpate-in-toscana-a-ge-i-consigli-distituto-non-decadono-e-il-commissario-non-e-automatico/",
-                "date": "31 Ago 2026",
-                "time": "9:22",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Aprea (FI): “Più autonomia alle scuole, allo Stato indirizzo e controllo”",
-                "link": "https://www.orizzontescuola.it/aprea-fi-piu-autonomia-alle-scuole-allo-stato-indirizzo-e-controllo/",
-                "date": "30 Ago 2026",
-                "time": "19:08",
                 "image_link": "N/A"
             }
         ]
@@ -690,6 +683,14 @@
         "articles": [
             {
                 "category": "Lettere in redazione",
+                "title": "Preferenze al buio, “È corretto il sistema che abbiamo costruito?”. Lettera",
+                "link": "https://www.orizzontescuola.it/preferenze-al-buio-e-corretto-il-sistema-che-abbiamo-costruito-lettera/",
+                "date": "31 Ago 2026",
+                "time": "21:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/09/Design-senza-titolo-2.jpg"
+            },
+            {
+                "category": "Lettere in redazione",
                 "title": "Settembre, il tempo di ricominciare. Lettera",
                 "link": "https://www.orizzontescuola.it/settembre-il-tempo-di-ricominciare-lettera/",
                 "date": "31 Ago 2026",
@@ -727,14 +728,6 @@
                 "date": "26 Ago 2026",
                 "time": "19:36",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/09/Design-senza-titolo-1.jpg"
-            },
-            {
-                "category": "Lettere in redazione",
-                "title": "La formazione delle cattedre nelle aree interne non può essere pensata per singolo anno scolastico. Lettera",
-                "link": "https://www.orizzontescuola.it/la-formazione-delle-cattedre-nelle-aree-interne-non-puo-essere-pensata-per-singolo-anno-scolastico-lettera/",
-                "date": "26 Ago 2026",
-                "time": "11:16",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/09/Design-senza-titolo.jpg"
             }
         ]
     }
