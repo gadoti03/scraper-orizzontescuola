@@ -24,6 +24,14 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Scuole",
+                "title": "Scadenze di settembre: inizio delle lezioni, esami di Maturità, test universitari",
+                "link": "https://www.orizzontescuola.it/scadenze-di-settembre-inizio-delle-lezioni-esami-di-maturita-test-universitari/",
+                "date": "1 Set 2026",
+                "time": "5:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/09/image.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze docenti 2026/27, i BOLLETTINI nomine [AGGIORNATO]",
                 "link": "https://www.orizzontescuola.it/supplenze-docenti-ecco-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/",
@@ -121,7 +129,12 @@
                 "date": "31 Ago 2026",
                 "time": "12:55",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/07/shutterstock_2384798953.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Cronaca",
                 "title": "Caldo a settembre, docente lancia petizione: “Scuole chiuse fino al 1° ottobre. Aule senza climatizzatori”",
@@ -129,12 +142,7 @@
                 "date": "31 Ago 2026",
                 "time": "12:36",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/shutterstock_2338392875.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Stipendio",
                 "title": "Stipendio settembre 2026 già visibile su NoiPa. ANIEF: “Confrontate con luglio e agosto, segnalate anomalie”",
@@ -256,15 +264,7 @@
                 "time": "7:55",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/Caldo_check_list.png"
             },
-            null,
-            {
-                "category": "Gestire la scuola",
-                "title": "Oltre 150 documenti operativi per l’inizio dell’anno scolastico 2026/2027: la raccolta completa per dirigenti, DSGA, segreterie e docenti",
-                "link": "https://www.orizzontescuola.it/oltre-150-documenti-operativi-per-linizio-dellanno-scolastico-2026-2027-la-raccolta-completa-per-dirigenti-dsga-segreterie-e-docenti-completo/",
-                "date": "31 Ago 2026",
-                "time": "7:27",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/Completo.png"
-            }
+            null
         ]
     },
     "group_4": {
