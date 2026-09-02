@@ -25,6 +25,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Anno scolastico 2026/27, bollettini riconferma sostegno [COMPLETO, con rettifiche]",
+                "link": "https://www.orizzontescuola.it/supplenze-2026-27-ecco-il-bollettino-dei-docenti-riconfermati-su-posto-sostegno-in-aggiornamento/",
+                "date": "1 Set 2026",
+                "time": "21:57",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/07/original_1011923098-1200x829.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Supplenze docenti 2026/27: tanti i reclami, ma algoritmo è nuovo. Nomina ancora possibile per alcuni aspiranti",
                 "link": "https://www.orizzontescuola.it/supplenze-docenti-2026-27-tanti-i-reclami-ma-algoritmo-e-nuovo-nomina-ancora-possibile-per-alcuni-aspiranti/",
                 "date": "1 Set 2026",
@@ -135,6 +143,19 @@
                 "date": "1 Set 2026",
                 "time": "13:15",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/shutterstock_1143563786.jpg"
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Libri scolastici 2026: prezzi in aumento ma spesa delle famiglie in calo dell’1,4%",
+                "link": "https://www.orizzontescuola.it/libri-scolastici-2026-prezzi-in-aumento-ma-spesa-delle-famiglie-in-calo-dell14/",
+                "date": "1 Set 2026",
+                "time": "12:43",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/shutterstock_1674590203.jpg"
             },
             {
                 "category": "Cronaca",
@@ -143,12 +164,7 @@
                 "date": "1 Set 2026",
                 "time": "12:38",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/07/shutterstock_1029430792.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Continuità sul sostegno, il bollettino zero è solo uno. Se la nomina non è arrivata, si partecipa all’algoritmo in base al proprio punteggio",
@@ -262,21 +278,20 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/sicurezza_caldo.png"
             },
             null,
-            null,
-            null,
-            {
-                "category": "Scuole",
-                "title": "Scadenze di settembre: inizio delle lezioni, esami di Maturità, test universitari",
-                "link": "https://www.orizzontescuola.it/scadenze-di-settembre-inizio-delle-lezioni-esami-di-maturita-test-universitari/",
-                "date": "1 Set 2026",
-                "time": "5:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/09/image.jpg"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Back to School 2026: lo zaino è sempre più hi-tech, ma il portafoglio resta il vero banco di prova",
+                "link": "https://www.orizzontescuola.it/back-to-school-2026-lo-zaino-e-sempre-piu-hi-tech-ma-il-portafoglio-resta-il-vero-banco-di-prova/",
+                "date": "1 Set 2026",
+                "time": "22:05",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Disabilità, componenti dell’Osservatorio nazionale in carica per altri tre anni. Decreto in Gazzetta Ufficiale",
@@ -287,7 +302,7 @@
             },
             {
                 "category": "Cronaca",
-                "title": "Studenti delle superiori pagati per andare a scuola, fino a 100 dollari a settimana. Alle medie 50 dollari",
+                "title": "Contro la dispersione, studenti delle superiori pagati per andare a scuola: fino a 100 dollari a settimana. Alle medie 50 dollari",
                 "link": "https://www.orizzontescuola.it/studenti-delle-superiori-pagati-per-andare-a-scuola-fino-a-100-dollari-a-settimana-alle-medie-50-dollari/",
                 "date": "1 Set 2026",
                 "time": "20:25",
@@ -372,14 +387,6 @@
                 "link": "https://www.orizzontescuola.it/rientro-a-scuola-le-10-regole-che-i-pediatri-danno-alle-famiglie-per-partire-con-il-piede-giusto/",
                 "date": "1 Set 2026",
                 "time": "13:35",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Libri scolastici 2026: prezzi in aumento ma spesa delle famiglie in calo dell’1,4%",
-                "link": "https://www.orizzontescuola.it/libri-scolastici-2026-prezzi-in-aumento-ma-spesa-delle-famiglie-in-calo-dell14/",
-                "date": "1 Set 2026",
-                "time": "12:43",
                 "image_link": "N/A"
             },
             {
