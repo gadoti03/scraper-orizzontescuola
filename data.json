@@ -3,12 +3,12 @@
         "title": "Notizie in Evidenza",
         "articles": [
             {
-                "category": "Docenti",
-                "title": "Smartphone solo dopo i 14 anni, il “tempo schermo” toglie lo spazio per la noia e l’immaginazione. INTERVISTA a Simone Lanza, tra i fondatori di “Patti digitali”",
-                "link": "https://www.orizzontescuola.it/smartphone-solo-dopo-i-14-anni-il-tempo-schermo-toglie-lo-spazio-per-la-noia-e-limmaginazione-intervista-a-simone-lanza-tra-i-fondatori-di-patti-digitali/",
+                "category": "Scuole",
+                "title": "Riforma 2026 Istruzione Tecnica: Ministero invia alle scuole i primi Orientamenti per la progettazione. Centrali Unità di Apprendimento e compiti di realtà",
+                "link": "https://www.orizzontescuola.it/riforma-2026-istruzione-tecnica-ministero-invia-alle-scuole-i-primi-orientamenti-per-la-progettazione-centrali-unita-di-apprendimento-e-compiti-di-realta/",
                 "date": "3 Set 2026",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/09/simone_lanza.jpeg"
+                "time": "22:34",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/download-1.jpg"
             },
             null
         ]
@@ -16,6 +16,14 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "“La fame si vede prima in classe che nei numeri”, gli insegnanti lo dicono chiaro: “A lezione a stomaco vuoto, il pasto a scuola non è solo cibo”. Uno studio internaziomale",
+                "link": "https://www.orizzontescuola.it/la-fame-si-vede-prima-in-classe-che-nei-numeri-gli-insegnanti-lo-dicono-chiaro-a-lezione-a-stomaco-vuoto-il-pasto-a-scuola-non-e-solo-cibo-uno-studio-internaziomale/",
+                "date": "3 Set 2026",
+                "time": "21:18",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/01/shutterstock_1488262670.jpg"
+            },
             {
                 "category": "Cronaca",
                 "title": "Scuola e caldo: 20 milioni per i climatizzatori. Ma basteranno? E chi deciderà? Tra annunci e cantieri, restano aperti nodi tecnici, economici e organizzativi",
@@ -128,7 +136,12 @@
                 "date": "3 Set 2026",
                 "time": "16:19",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/simone_capraro_2.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "PNRR Scuola 4.0, campus didattici e formativi: nuova scadenza al 31 ottobre per collaudi e rendicontazione",
@@ -136,12 +149,7 @@
                 "date": "3 Set 2026",
                 "time": "15:47",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_521791969.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Docenti",
                 "title": "Attività funzionali all’insegnamento: come si calcolano e ripartiscono le 40+40 ore",
@@ -270,27 +278,28 @@
                 "time": "9:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/Screenshot-2026-04-16-alle-11.45.03.png"
             },
-            {
-                "category": "Docenti",
-                "title": "Progettare con senso: i quattro criteri per liberare la scuola dalla “progettificio-mania”",
-                "link": "https://www.orizzontescuola.it/progettare-con-senso-i-quattro-criteri-per-liberare-la-scuola-dalla-progettificio-mania/",
-                "date": "3 Set 2026",
-                "time": "8:28",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2492219935-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze sostegno, nel Lazio circa 5mila incarichi nel primo bollettino. A Roma 3.500 conferme per continuità. Il Punto di Chiara Cozzetto",
-                "link": "https://www.orizzontescuola.it/supplenze-sostegno-nel-lazio-circa-5mila-incarichi-nel-primo-bollettino-a-roma-3-500-conferme-per-continuita-il-punto-di-chiara-cozzetto/",
-                "date": "3 Set 2026",
-                "time": "8:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/Chiara_Cozzetto.png"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Riforma Istituti Tecnici: impegno UIL per tutelare il personale e rafforzare discipline di indirizzo",
+                "link": "https://www.orizzontescuola.it/riforma-istituti-tecnici-impegno-uil-per-tutelare-il-personale-e-rafforzare-discipline-di-indirizzo/",
+                "date": "3 Set 2026",
+                "time": "22:42",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Liceo italiano di Istanbul, dal Maeci rassicurazioni generiche. Anief: “Ora servono fatti, trasparenza e regole chiare. I docenti licenziati tornano a scioperare: si profila un nuovo autunno caldo”",
+                "link": "https://www.orizzontescuola.it/liceo-italiano-di-istanbul-dal-maeci-rassicurazioni-generiche-anief-ora-servono-fatti-trasparenza-e-regole-chiare-i-docenti-licenziati-tornano-a-scioperare-si-profila-un-nuovo-autunno-caldo/",
+                "date": "3 Set 2026",
+                "time": "21:06",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "“Crescente terapizzazione degli studenti”, l’esperta: “Necessaria fare una profonda riflessione”. I numeri del fenomeno",
@@ -410,22 +419,6 @@
                 "link": "https://www.orizzontescuola.it/erasmus-pcto-e-formazione-allestero-il-network-delle-camere-di-commercio-supporta-scuole-studenti-e-docenti-in-europa/",
                 "date": "3 Set 2026",
                 "time": "13:12",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "Mad for Science 2026/27, 200mila euro per i laboratori delle scuole. Candidature entro il 26 novembre",
-                "link": "https://www.orizzontescuola.it/mad-for-science-2026-27-200mila-euro-per-i-laboratori-delle-scuole-candidature-entro-il-26-novembre/",
-                "date": "3 Set 2026",
-                "time": "12:10",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Precariato, reclutamento e pensioni, per la Gilda degli Insegnanti “stanno soffocando la scuola italiana”",
-                "link": "https://www.orizzontescuola.it/precariato-reclutamento-e-pensioni-per-la-gilda-degli-insegnanti-stanno-soffocando-la-scuola-italiana/",
-                "date": "3 Set 2026",
-                "time": "11:51",
                 "image_link": "N/A"
             }
         ]
