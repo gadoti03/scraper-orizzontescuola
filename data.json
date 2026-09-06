@@ -2,27 +2,69 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
+            null,
             {
-                "category": "Gestire la scuola",
-                "title": "Privacy e cybersecurity, come rafforzare la sicurezza digitale della scuola. Guida e 10 documenti da scaricare",
-                "link": "https://www.orizzontescuola.it/privacy-e-cybersecurity-come-rafforzare-la-sicurezza-digitale-della-scuola-guida-e-10-documenti-da-scaricare/",
-                "date": "5 Set 2026",
-                "time": "15:18",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/privacy.png"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Precariato scuola, D’Aprile (Uil): “Serve un piano straordinario di assunzioni per docenti ed ATA, la legge di Bilancio superi i vincoli”",
-                "link": "https://www.orizzontescuola.it/precariato-scuola-daprile-uil-serve-un-piano-straordinario-di-assunzioni-per-docenti-ed-ata-la-legge-di-bilancio-superi-i-vincoli/",
-                "date": "5 Set 2026",
-                "time": "8:14",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/09/esempio_aprile.png"
+                "category": "Plus",
+                "title": "Inizio anno scolastico 26/27: la guida operativa per DS, DSGA, segreterie, staff. Con + di 150 circolari e documenti e 7 tutorial su IA e operazioni di segreterie",
+                "link": "https://www.orizzontescuola.it/inizio-anno-scolastico-26-27-la-guida-operativa-per-ds-dsga-segreterie-staff-con-di-150-circolari-e-documenti-e-7-tutorial-su-ia-e-operazioni-di-segreterie/",
+                "date": "6 Set 2026",
+                "time": "7:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/08/150.png"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenza docente 2026/27 tramite Interpelli, dove vengono pubblicati e come trovarli",
+                "link": "https://www.orizzontescuola.it/supplenza-docente-2026-27-tramite-interpelli-dove-vengono-pubblicati-e-come-trovarli/",
+                "date": "6 Set 2026",
+                "time": "13:45",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2467525223.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Scuole, uffici fino a 40 gradi d’estate: “Il personale ATA lavora, ma viene dimenticato”",
+                "link": "https://www.orizzontescuola.it/scuole-uffici-fino-a-40-gradi-destate-il-personale-ata-lavora-ma-viene-dimenticato/",
+                "date": "6 Set 2026",
+                "time": "13:26",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2492219935-scaled.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Primi giorni di scuola con orario ridotto: vale anche per i docenti con part time?",
+                "link": "https://www.orizzontescuola.it/primi-giorni-di-scuola-con-orario-ridotto-vale-anche-per-i-docenti-con-part-time/",
+                "date": "6 Set 2026",
+                "time": "12:43",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/Teacher_write-e1784721115269.png"
+            },
+            {
+                "category": "Plus",
+                "title": "Gemini per Dirigenti, DSGA e segreterie. Guida 2 di 7 con prompt pronti all’uso da scaricare",
+                "link": "https://www.orizzontescuola.it/gemini-per-dirigenti-dsga-e-segreterie-guida-2-di-7-con-prompt-pronti-alluso-da-scaricare/",
+                "date": "6 Set 2026",
+                "time": "11:37",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/Gemini_per_la_scuola.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze, Craparo (Gilda Unams): Il docente precario dovrebbe conoscere l’incarico almeno dieci giorni prima",
+                "link": "https://www.orizzontescuola.it/supplenze-118mila-posti-coperti-entro-il-31-agosto-craparo-gilda-unams-una-quota-cosi-elevata-di-precari-non-e-un-dato-di-cui-vantarsi/",
+                "date": "6 Set 2026",
+                "time": "11:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/simone_capraro_2.png"
+            },
+            null,
+            {
+                "category": "Docenti",
+                "title": "Padre Ennio Pintacuda, 21 anni dopo: educare alla legalità significa formare coscienze. Una lezione ancora attuale per la scuola italiana",
+                "link": "https://www.orizzontescuola.it/padre-ennio-pintacuda-21-anni-dopo-educare-alla-legalita-significa-formare-coscienze-una-lezione-ancora-attuale-per-la-scuola-italiana/",
+                "date": "6 Set 2026",
+                "time": "7:25",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/09/shutterstock_2704837469.jpg"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "Docenti neoassunti anno di prova: requisiti, dichiarazione dei servizi e non solo. La guida. QUESTION TIME con Cannas. LIVE Lunedì 7 settembre alle 14:30",
@@ -89,6 +131,19 @@
             },
             {
                 "category": "Gestire la scuola",
+                "title": "Privacy e cybersecurity, come rafforzare la sicurezza digitale della scuola. Guida e 10 documenti da scaricare",
+                "link": "https://www.orizzontescuola.it/privacy-e-cybersecurity-come-rafforzare-la-sicurezza-digitale-della-scuola-guida-e-10-documenti-da-scaricare/",
+                "date": "5 Set 2026",
+                "time": "15:18",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/privacy.png"
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
+            {
+                "category": "Gestire la scuola",
                 "title": "Smartphone a scuola, regole, autorizzazioni e gestione dei dispositivi: modelli e circolari per gli istituti",
                 "link": "https://www.orizzontescuola.it/smartphone-a-scuola-regole-autorizzazioni-e-gestione-dei-dispositivi-modelli-e-circolari-per-gli-istituti/",
                 "date": "5 Set 2026",
@@ -150,12 +205,7 @@
                 "date": "5 Set 2026",
                 "time": "10:07",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_2706987597.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "“La filiera 4+2 promette equità, ma rischia di diventare una fabbrica di disuguaglianze”. L’allarme di Save The Children",
@@ -235,55 +285,52 @@
                 "date": "5 Set 2026",
                 "time": "9:06",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/Screenshot-2026-05-06-alle-08.04.06.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Senza nomina al primo bollettino, cosa conviene fare in attesa dei successivi: accettare da GI o interpello? Il Punto di Craparo (Gilda Unams)",
-                "link": "https://www.orizzontescuola.it/senza-nomina-al-primo-bollettino-cosa-conviene-fare-in-attesa-dei-successivi-accettare-da-gi-o-interpello-il-punto-di-craparo-gilda-unams/",
-                "date": "5 Set 2026",
-                "time": "8:35",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_37679005-scaled.jpg"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "Educazione sessuale a scuola e consenso informato: circolari, modelli e schede operative per le istituzioni scolastiche",
-                "link": "https://www.orizzontescuola.it/educazione-sessuale-a-scuola-e-consenso-informato-circolari-modelli-e-schede-operative-per-le-istituzioni-scolastiche/",
-                "date": "5 Set 2026",
-                "time": "7:45",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/ed_sessuale.png"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "Caldo nelle scuole a settembre: cosa deve fare il dirigente scolastico prima della ripresa delle lezioni. Con Checklist e scheda di verifica DVR",
-                "link": "https://www.orizzontescuola.it/caldo-nelle-scuole-a-settembre-cosa-deve-fare-il-dirigente-scolastico-prima-della-ripresa-delle-lezioni-con-checklist-e-scheda-di-verifica-dvr/",
-                "date": "5 Set 2026",
-                "time": "7:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/sicurezza_caldo.png"
-            },
-            null,
-            null,
-            {
-                "category": "Gestire la scuola",
-                "title": "Gestione documentale e Intelligenza Artificiale a scuola: manuale e atti di nomina per responsabile e vicario. Scarica i documenti",
-                "link": "https://www.orizzontescuola.it/gestione-documentale-e-intelligenza-artificiale-a-scuola-manuale-e-atti-di-nomina-per-responsabile-e-vicario-scarica-i-documenti/",
-                "date": "5 Set 2026",
-                "time": "7:33",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/09/IA3.png"
-            },
-            null,
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Graduatorie di istituto docenti 2026/27: liberatoria per pubblicazione e supplenze",
-                "link": "https://www.orizzontescuola.it/graduatorie-di-istituto-docenti-2026-27-liberatoria-per-pubblicazione-e-supplenze/",
-                "date": "4 Set 2026",
-                "time": "21:48",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/05/shutterstock_734963527.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Genitori",
+                "title": "Rientro a scuola, le rassicurazioni per i genitori. Lucattini: “L’ansia è una reazione normale e transitoria. Ascolto attivo e dialogo aiutano i figli”",
+                "link": "https://www.orizzontescuola.it/rientro-a-scuola-le-rassicurazioni-per-i-genitori-lucattini-lansia-e-una-reazione-normale-e-transitoria-ascolto-attivo-e-dialogo-aiutano-i-figli/",
+                "date": "6 Set 2026",
+                "time": "13:30",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Fucecchio, Giani visita la nuova scuola “La Casetta nel Bosco”: “Investire nella scuola significa investire nel futuro”",
+                "link": "https://www.orizzontescuola.it/fucecchio-giani-visita-la-nuova-scuola-la-casetta-nel-bosco-investire-nella-scuola-significa-investire-nel-futuro/",
+                "date": "6 Set 2026",
+                "time": "13:21",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Docenti",
+                "title": "Erasmus+, studenti, docenti e dirigenti a “Corri la vita” di Firenze: iscrizioni aperte per la squadra 2026",
+                "link": "https://www.orizzontescuola.it/erasmus-studenti-docenti-e-dirigenti-a-corri-la-vita-di-firenze-iscrizioni-aperte-per-la-squadra-2026/",
+                "date": "6 Set 2026",
+                "time": "12:03",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Videogiochi violenti, Crepet: “Se non avessero un effetto, non si venderebbero”",
+                "link": "https://www.orizzontescuola.it/videogiochi-violenti-crepet-se-non-avessero-un-effetto-non-si-venderebbero/",
+                "date": "6 Set 2026",
+                "time": "11:15",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Docenti",
+                "title": "Progetto Scuole San Siro, visite formative per docenti di primaria e secondaria: iscrizioni entro il 15 settembre",
+                "link": "https://www.orizzontescuola.it/progetto-scuole-san-siro-visite-formative-per-docenti-di-primaria-e-secondaria-iscrizioni-entro-il-15-settembre/",
+                "date": "6 Set 2026",
+                "time": "10:42",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Friuli Venezia-Giulia, via libera al protocollo scuola 2026-27: 4,5 milioni per organici, sostegno, motoria e sperimentazione bilingue in Carnia",
@@ -386,46 +433,6 @@
                 "link": "https://www.orizzontescuola.it/governo-meloni-frassinetti-un-grande-traguardo-che-testimonia-stabilita-e-autorevolezza/",
                 "date": "4 Set 2026",
                 "time": "16:06",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Caldo a scuola in Sicilia, Turano: “Nessun rinvio lezioni. Lavoriamo per gli impianti di condizionamento negli edifici scolastici”",
-                "link": "https://www.orizzontescuola.it/caldo-a-scuola-in-sicilia-turano-nessun-rinvio-lezioni-lavoriamo-per-gli-impianti-di-condizionamento-negli-edifici-scolastici/",
-                "date": "4 Set 2026",
-                "time": "15:55",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "Call for Paper INVALSI: contributi entro il 6 settembre",
-                "link": "https://www.orizzontescuola.it/call-for-paper-invalsi-contributi-entro-il-6-settembre/",
-                "date": "4 Set 2026",
-                "time": "15:29",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Caro-libri, la stangata del 2026. La Uil Scuola: “Serve il comodato gratuito come in Trentino”",
-                "link": "https://www.orizzontescuola.it/caro-libri-la-stangata-del-2026-la-uil-scuola-serve-il-comodato-gratuito-come-in-trentino/",
-                "date": "4 Set 2026",
-                "time": "13:17",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Barbacci (Cisl Scuola): “Assunzioni scuola, solo 8 posti su 10 coperti con ruolo. Sostegno al collasso: 275mila supplenti”",
-                "link": "https://www.orizzontescuola.it/barbacci-cisl-scuola-assunzioni-scuola-solo-8-posti-su-10-coperti-con-ruolino-sostegno-al-collasso-275mila-supplenti/",
-                "date": "4 Set 2026",
-                "time": "12:28",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Caro scuola, Federcartolai smentisce l’allarme: “Numeri gonfiati. Le famiglie meritano fatti, non titoli riciclati”",
-                "link": "https://www.orizzontescuola.it/caro-scuola-federcartolai-smentisce-lallarme-numeri-gonfiati-le-famiglie-meritano-fatti-non-titoli-riciclati/",
-                "date": "4 Set 2026",
-                "time": "10:43",
                 "image_link": "N/A"
             }
         ]
@@ -552,6 +559,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Graduatorie di istituto docenti 2026/27: liberatoria per pubblicazione e supplenze",
+                "link": "https://www.orizzontescuola.it/graduatorie-di-istituto-docenti-2026-27-liberatoria-per-pubblicazione-e-supplenze/",
+                "date": "4 Set 2026",
+                "time": "21:48",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/05/shutterstock_734963527.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Supplenze docenti 2026: già assegnati 118mila posti. Atteso il secondo turno [LO SPECIALE]",
                 "link": "https://www.orizzontescuola.it/supplenze-docenti-2026-ecco-come-funzionera-lalgoritmo-da-gps-e-la-nomina-dalle-graduatorie-di-istituto-lo-speciale/",
                 "date": "4 Set 2026",
@@ -589,7 +604,12 @@
                 "date": "3 Set 2026",
                 "time": "18:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/teacher_science.png"
-            },
+            }
+        ]
+    },
+    "group_7": {
+        "title": "Notizie ATA",
+        "articles": [
             {
                 "category": "ATA",
                 "title": "Supplenze ATA 2026/27, si può lasciare l’incarico per una nomina da GPS docente? Cosa dice la normativa",
@@ -597,12 +617,7 @@
                 "date": "3 Set 2026",
                 "time": "16:34",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/shutterstock_2144682361.jpg"
-            }
-        ]
-    },
-    "group_7": {
-        "title": "Notizie ATA",
-        "articles": [
+            },
             {
                 "category": "ATA",
                 "title": "Supplenze ATA, cambio per altro profilo solo prima dell’inizio delle lezioni: tutte le date per regione",
@@ -642,14 +657,6 @@
                 "date": "30 Ago 2026",
                 "time": "8:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/Marcello-Pacifico-7.png"
-            },
-            {
-                "category": "ATA",
-                "title": "Procedimenti disciplinari a docenti e ATA, monitoraggio 2025/26: cosa devono comunicare le scuole",
-                "link": "https://www.orizzontescuola.it/procedimenti-disciplinari-a-docenti-e-ata-monitoraggio-2025-26-cosa-devono-comunicare-le-scuole/",
-                "date": "28 Ago 2026",
-                "time": "12:46",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/11/shutterstock_1801995781.jpg"
             }
         ]
     },
