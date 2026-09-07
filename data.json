@@ -2,6 +2,7 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
+            null,
             {
                 "category": "Cronaca",
                 "title": "“Il cielo di Antonio”, una favola per bambini che parla di natura, amicizia e forza interiore. Monterosso: “Sono diventata bambina a 39 anni, quando è nata mia figlia. Vi racconto la forza del libro cartaceo”. INTERVISTA",
@@ -9,20 +10,76 @@
                 "date": "7 Set 2026",
                 "time": "8:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/09/Il_cielo_di_antonio3-1.png"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "Caldo nelle scuole a settembre: cosa deve fare il dirigente scolastico prima della ripresa delle lezioni. Con Checklist e scheda di verifica DVR",
-                "link": "https://www.orizzontescuola.it/caldo-nelle-scuole-a-settembre-cosa-deve-fare-il-dirigente-scolastico-prima-della-ripresa-delle-lezioni-con-checklist-e-scheda-di-verifica-dvr/",
-                "date": "7 Set 2026",
-                "time": "7:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/09/sicurezza_caldo_scuole.png"
             }
         ]
     },
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "Genitori",
+                "title": "Più di mille varianti genetiche plasmano la personalità: lo studio che riscrive il rapporto tra DNA e carattere",
+                "link": "https://www.orizzontescuola.it/piu-di-mille-varianti-genetiche-plasmano-la-personalita-lo-studio-che-riscrive-il-rapporto-tra-dna-e-carattere/",
+                "date": "7 Set 2026",
+                "time": "20:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/shutterstock_1935610528-scaled.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Precari scuola, FLC CGIL: “I precari non sono 200 mila. Sono 302 mila”. La risposta del Ministero: “Non è così, sono 155mila, ecco i numeri aggiornati”",
+                "link": "https://www.orizzontescuola.it/precari-scuola-flc-cgil-i-precari-non-sono-200-mila-sono-302-mila-e-tra-i-docenti-quasi-due-su-tre-sono-sul-sostegno/",
+                "date": "7 Set 2026",
+                "time": "20:39",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2608356733.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "GPS, nei turni successivi l’algoritmo riesamina anche chi era rimasto senza nomina. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/gps-nei-turni-successivi-lalgoritmo-riesamina-anche-chi-era-rimasto-senza-nomina-pillole-di-question-time/",
+                "date": "7 Set 2026",
+                "time": "19:32",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/teacher_brucocracy.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Anno di formazione e prova, si può chiedere aspettativa non retribuita? Un chiarimento per i docenti neoassunti",
+                "link": "https://www.orizzontescuola.it/anno-di-formazione-e-prova-si-puo-chiedere-aspettativa-non-retribuita-un-chiarimento-per-i-docenti-neoassunti/",
+                "date": "7 Set 2026",
+                "time": "18:31",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/04/shutterstock_158162756.jpg"
+            },
+            {
+                "category": "Pensioni",
+                "title": "In pensione anticipata anche a 64 anni, la proposta di riforma. Ma la Flc Cgil avverte: “Assegni fino a meno 10,6%”. A chi potrebbe convenire e a chi no",
+                "link": "https://www.orizzontescuola.it/in-pensione-anticipata-anche-a-64-anni-la-proposta-di-riforma-ma-la-flcgil-avverte-assegni-fino-a-meno-106/",
+                "date": "7 Set 2026",
+                "time": "18:17",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2499290035.jpg"
+            },
+            {
+                "category": "Consulenza fiscale",
+                "title": "Detrazione asilo nido nel 730/2026: istruzioni e limiti",
+                "link": "https://www.orizzontescuola.it/detrazione-asilo-nido-nel-730-2026-istruzioni-e-limiti/",
+                "date": "7 Set 2026",
+                "time": "17:55",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_570751849-scaled-e1784048555237.jpg"
+            },
+            {
+                "category": "Dirigenti scolastici",
+                "title": "Valutazione dirigenti scolastici, prorogato al 15 settembre il termine per caricare le evidenze in piattaforma",
+                "link": "https://www.orizzontescuola.it/valutazione-dirigenti-scolastici-prorogato-al-15-settembre-il-termine-per-caricare-le-evidenze-in-piattaforma/",
+                "date": "7 Set 2026",
+                "time": "17:24",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1891258573.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Valditara risponde a Maggi su parità e rispetto: “Tutto questo doveva essere insegnato già da settembre 2024”",
+                "link": "https://www.orizzontescuola.it/valditara-risponde-a-maggi-su-parita-e-rispetto-tutto-questo-doveva-essere-insegnato-gia-da-settembre-2024/",
+                "date": "7 Set 2026",
+                "time": "16:33",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/Screenshot-2026-06-10-alle-13.58.50.png"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenza da graduatoria di istituto, si può rifiutare la successiva nomina GPS senza sanzioni. Pillole di Question Time",
@@ -72,7 +129,12 @@
                 "time": "12:50",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/Teacher_write-e1784721115269.png"
             },
-            null,
+            null
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Gestire la scuola",
                 "title": "La procedimentalizzazione dell’affidamento diretto attraverso un’indagine informale e la fissazione dei criteri valutativi delle offerte costituisce procedura di gara?",
@@ -136,12 +198,7 @@
                 "date": "7 Set 2026",
                 "time": "10:29",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Carta_docente_383_OrizzonteScuola.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Docenti",
                 "title": "Docenti in part time, chiarimenti sulla formazione e sulle attività obbligatorie da svolgere",
@@ -221,55 +278,86 @@
                 "date": "7 Set 2026",
                 "time": "8:53",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/shutterstock_2226530989.jpg"
-            },
-            {
-                "category": "Scuole",
-                "title": "8 settembre, scadenza per la comunicazione degli esiti dei debiti formativi",
-                "link": "https://www.orizzontescuola.it/8-settembre-scadenza-per-la-comunicazione-degli-esiti-dei-debiti-formativi/",
-                "date": "7 Set 2026",
-                "time": "8:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2317217923.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Congedo retribuito per assistere disabile: il requisito della convivenza va inteso elasticamente. I giudici ci spiegano come",
-                "link": "https://www.orizzontescuola.it/congedo-retribuito-per-assistere-disabile-il-requisito-della-convivenza-va-inteso-elasticamente-i-giudici-di-spiegano-come/",
-                "date": "7 Set 2026",
-                "time": "8:33",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2734750933.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "ATA, immissioni in ruolo e supplenze: a che punto siamo? QUESTION TIME con Dal Pino (ANIEF) LIVE Lunedì 7 settembre alle 16:00",
-                "link": "https://www.orizzontescuola.it/ata-immissioni-in-ruolo-e-supplenze-a-che-punto-siamo-question-time-con-dal-pino-anief-live-lunedi-7-settembre-alle-1600/",
-                "date": "7 Set 2026",
-                "time": "8:31",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/09/Template_questiontime_1920x1080-2.png"
-            },
-            {
-                "category": "Docenti",
-                "title": "Oggi ricomincia la scuola a Bolzano, tutte le date e i ponti (che quest’anno sono pochi). Maturità dal 16 giugno",
-                "link": "https://www.orizzontescuola.it/oggi-ricomincia-la-scuola-bolzano-tutte-le-date-e-i-ponti-che-questanno-sono-pochi-maturita-dal-16-giugno/",
-                "date": "7 Set 2026",
-                "time": "8:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2625787435.jpg"
-            },
-            null,
-            null,
-            null,
-            {
-                "category": "Cronaca",
-                "title": "Libri scolastici, caro prezzi alle stelle: fino a 1.200 euro per le superiori. L’Antitrust: “Mercato senza concorrenza”",
-                "link": "https://www.orizzontescuola.it/libri-scolastici-caro-prezzi-alle-stelle-fino-a-1-200-euro-per-le-superiori-lantitrust-mercato-senza-concorrenza/",
-                "date": "6 Set 2026",
-                "time": "16:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/shutterstock_1674590203.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Social ai minori, Macron scrive a Von der Leyen: “Servono regole Ue, stop sotto i 15 anni”",
+                "link": "https://www.orizzontescuola.it/social-ai-minori-macron-scrive-a-von-der-leyen-servono-regole-ue-stop-sotto-i-15-anni/",
+                "date": "7 Set 2026",
+                "time": "20:47",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Ripetizioni private, un diritto o un lusso? Il 46% degli studenti rinuncia per colpa dei costi",
+                "link": "https://www.orizzontescuola.it/ripetizioni-private-un-diritto-o-un-lusso-il-46-degli-studenti-rinuncia-per-colpa-dei-costi/",
+                "date": "7 Set 2026",
+                "time": "20:41",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Disabilità a scuola, il Friuli Venezia-Giulia cambia marcia: via alla legge che unisce sanità e istruzione",
+                "link": "https://www.orizzontescuola.it/disabilita-a-scuola-il-friuli-venezia-giulia-cambia-marcia-via-alla-legge-che-unisce-sanita-e-istruzione/",
+                "date": "7 Set 2026",
+                "time": "20:20",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Milano, l’allarme del ritiro scolastico: il progetto “Adolescente-Mente” riporta in classe 36 ragazzi su 36. Ecco come è andata",
+                "link": "https://www.orizzontescuola.it/milano-lallarme-del-ritiro-scolastico-il-progetto-adolescente-mente-riporta-in-classe-36-ragazzi-su-36/",
+                "date": "7 Set 2026",
+                "time": "19:31",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Argentina-Italia, firmato l’accordo scuola-lavoro: Valditara e Pettovello lanciano la sfida della formazione tecnica",
+                "link": "https://www.orizzontescuola.it/argentina-italia-firmato-laccordo-scuola-lavoro-valditara-e-pettovello-lanciano-la-sfida-della-formazione-tecnica/",
+                "date": "7 Set 2026",
+                "time": "19:02",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Docenti",
+                "title": "Scuole dell’infanzia, FISM: “Calo delle nascite e carenza di insegnanti pesano sul nuovo anno scolastico”",
+                "link": "https://www.orizzontescuola.it/scuole-dellinfanzia-fism-calo-delle-nascite-e-carenza-di-insegnanti-pesano-sul-nuovo-anno-scolastico/",
+                "date": "7 Set 2026",
+                "time": "18:51",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Incarichi di supplenza da disponibilità residue, al via le nomine con la novità dell’algoritmo che tornerà indietro: le spiegazioni dell’Anief",
+                "link": "https://www.orizzontescuola.it/incarichi-di-supplenza-da-disponibilita-residue-al-via-le-nomine-con-la-novita-dellalgoritmo-che-tornera-indietro-le-spiegazioni-dellanief/",
+                "date": "7 Set 2026",
+                "time": "17:25",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Raffrescamento nelle scuole, Corrado (Pd): “20 milioni? Appena 55-57 euro per aula, nemmeno il costo di un ventilatore”",
+                "link": "https://www.orizzontescuola.it/raffrescamento-nelle-scuole-corrado-pd-20-milioni-appena-55-57-euro-per-aula-nemmeno-il-costo-di-un-ventilatore/",
+                "date": "7 Set 2026",
+                "time": "17:13",
+                "image_link": "N/A"
+            },
+            null,
+            null,
+            {
+                "category": "Cronaca",
+                "title": "Austria, via il velo a scuola per le under 14: per i genitori previste multe fino a 800 euro",
+                "link": "https://www.orizzontescuola.it/austria-via-il-velo-a-scuola-per-le-under-14-per-i-genitori-previste-multe-fino-a-800-euro/",
+                "date": "7 Set 2026",
+                "time": "16:13",
+                "image_link": "N/A"
+            },
             {
                 "category": "Studenti",
                 "title": "Inizio anno scolastico in Veneto, Stefani agli studenti: “Vi invito ad essere curiosi, appassionati e attenti, ogni attimo ben speso è un mattone per la società”",
@@ -324,94 +412,6 @@
                 "link": "https://www.orizzontescuola.it/olimpiadi-di-primo-soccorso-2027-scuole-superiori-adesioni-entro-il-5-ottobre-formazione-gratuita-e-gare-regionali/",
                 "date": "7 Set 2026",
                 "time": "13:02",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Genitori",
-                "title": "Calcolatrice a scuola, scientifica o grafica? Cosa valutare dalla primaria alla Maturità",
-                "link": "https://www.orizzontescuola.it/calcolatrice-a-scuola-scientifica-o-grafica-cosa-valutare-dalla-primaria-alla-maturita/",
-                "date": "7 Set 2026",
-                "time": "12:58",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "400 km al giorno per insegnare, quanto costa la vocazione? Il pendolarismo ‘estremo’ dei docenti e un sistema che dà tutto per scontato",
-                "link": "https://www.orizzontescuola.it/400-km-al-giorno-per-insegnare-quanto-costa-la-vocazione-il-pendolarismo-estremo-dei-docenti-e-un-sistema-che-da-tutto-per-scontato/",
-                "date": "7 Set 2026",
-                "time": "12:56",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Genitori",
-                "title": "Convitti INPS 2026/27, pubblicati i posti ancora disponibili",
-                "link": "https://www.orizzontescuola.it/convitti-inps-2026-27-pubblicati-i-posti-ancora-disponibili/",
-                "date": "7 Set 2026",
-                "time": "12:50",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Studenti",
-                "title": "Caro affitti, Unifi stanzia un milione: rimborsi fino a 3.000 euro per studenti fuori sede. Scadenza 7 ottobre",
-                "link": "https://www.orizzontescuola.it/caro-affitti-unifi-stanzia-un-milione-rimborsi-fino-a-3-000-euro-per-studenti-fuori-sede-scadenza-7-ottobre/",
-                "date": "7 Set 2026",
-                "time": "12:32",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Sfera Ebbasta a San Siro con 10 ragazze, Pellai: “Di lui sappiamo tutto, di loro nemmeno il nome”. Galiano: “Cosa ci stiamo a fare?”",
-                "link": "https://www.orizzontescuola.it/sfera-ebbasta-a-san-siro-con-10-ragazze-pellai-di-lui-sappiamo-tutto-di-loro-nemmeno-il-nome-galiano-cosa-ci-stiamo-a-fare/",
-                "date": "7 Set 2026",
-                "time": "12:09",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "IT.A.CÀ, il festival del turismo responsabile sbarca a Palermo: tre giorni con i giovani palermitani che “leggono” la città",
-                "link": "https://www.orizzontescuola.it/it-a-ca-il-festival-del-turismo-responsabile-sbarca-a-palermo-tre-giorni-tra-kalsa-trappeto-e-confini-da-riscrivere/",
-                "date": "7 Set 2026",
-                "time": "10:39",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Femminicidi e violenza di genere, Maggi: “Insegnerò parità e rispetto senza aspettare il consenso dei genitori”",
-                "link": "https://www.orizzontescuola.it/femminicidi-e-violenza-di-genere-maggi-insegnero-parita-e-rispetto-senza-aspettare-il-consenso-dei-genitori/",
-                "date": "7 Set 2026",
-                "time": "10:34",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Docenti neoassunti anno di prova: requisiti, dichiarazione dei servizi e non solo. La guida. QUESTION TIME con Cannas",
-                "link": "https://www.orizzontescuola.it/docenti-neoassunti-anno-di-prova-requisiti-dichiarazione-dei-servizi-e-non-solo-la-guida-question-time-con-cannas-live-lunedi-7-settembre-alle-1430/",
-                "date": "7 Set 2026",
-                "time": "10:06",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Ucraina, la guerra distrugge 12 milioni di libri: “Un tentativo di cancellare la nostra nazione”",
-                "link": "https://www.orizzontescuola.it/ucraina-la-guerra-distrugge-12-milioni-di-libri-un-tentativo-di-cancellare-la-nostra-nazione/",
-                "date": "7 Set 2026",
-                "time": "10:05",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Colpire la natura è offendere Dio: la rivoluzione della Chiesa sul “peccato contro il creato”",
-                "link": "https://www.orizzontescuola.it/colpire-la-natura-e-offendere-dio-la-rivoluzione-della-chiesa-sul-peccato-contro-il-creato/",
-                "date": "7 Set 2026",
-                "time": "9:16",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "Concorso “L’adozione tra i banchi di scuola”, iscrizioni aperte: elaborati entro il 31 marzo",
-                "link": "https://www.orizzontescuola.it/concorso-ladozione-tra-i-banchi-di-scuola-iscrizioni-aperte-elaborati-entro-il-31-marzo/",
-                "date": "7 Set 2026",
-                "time": "9:10",
                 "image_link": "N/A"
             }
         ]
@@ -538,6 +538,22 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Graduatorie incrociate sul sostegno, i candidati vengono ordinati in base al punteggio. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/graduatorie-incrociate-sul-sostegno-i-candidati-vengono-ordinati-in-base-al-punteggio-pillole-di-question-time/",
+                "date": "6 Set 2026",
+                "time": "15:18",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_1200155323.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenza docente 2026/27 tramite Interpelli, dove vengono pubblicati e come trovarli",
+                "link": "https://www.orizzontescuola.it/supplenza-docente-2026-27-tramite-interpelli-dove-vengono-pubblicati-e-come-trovarli/",
+                "date": "6 Set 2026",
+                "time": "13:45",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2467525223.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Supplenze, Craparo (Gilda Unams): Il docente precario dovrebbe conoscere l’incarico almeno dieci giorni prima",
                 "link": "https://www.orizzontescuola.it/supplenze-118mila-posti-coperti-entro-il-31-agosto-craparo-gilda-unams-una-quota-cosi-elevata-di-precari-non-e-un-dato-di-cui-vantarsi/",
                 "date": "6 Set 2026",
@@ -567,22 +583,6 @@
                 "date": "5 Set 2026",
                 "time": "10:07",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_2706987597.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2026/27, i BOLLETTINI nomine [AGGIORNATO]",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-ecco-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/",
-                "date": "5 Set 2026",
-                "time": "9:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1937300755.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2026/27, interpello preventivo per nomine da 1 a 10 giorni infanzia e primaria. Come si presenta domanda",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-2026-27-interpello-preventivo-per-nomine-da-1-a-10-giorni-infanzia-e-primaria-come-si-presenta-domanda/",
-                "date": "5 Set 2026",
-                "time": "9:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2492851339.jpg"
             }
         ]
     },
