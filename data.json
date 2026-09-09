@@ -25,6 +25,14 @@
         "articles": [
             {
                 "category": "Studenti",
+                "title": "Borse di studio per specializzazioni non mediche, 1.520 posti per il 2025/2026: decreto in Gazzetta",
+                "link": "https://www.orizzontescuola.it/borse-di-studio-per-specializzazioni-non-mediche-1-520-posti-per-il-2025-2026-decreto-in-gazzetta/",
+                "date": "8 Set 2026",
+                "time": "21:31",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/09/shutterstock_2759163339.jpg"
+            },
+            {
+                "category": "Studenti",
                 "title": "La lettura è in crisi, gli studenti non sanno più concentrarsi. La colpa? Distrazioni digitali, calo di curiosità e un’attenzione sempre più frammentata. I dati OCSE",
                 "link": "https://www.orizzontescuola.it/la-lettura-e-in-crisi-gli-studenti-non-sanno-piu-concentrarsi-la-colpa-distrazioni-digitali-calo-di-curiosita-e-unattenzione-sempre-piu-frammentata-i-dati-ocse/",
                 "date": "8 Set 2026",
@@ -135,7 +143,12 @@
                 "date": "8 Set 2026",
                 "time": "13:42",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_1158978574.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "ATA",
                 "title": "Posizioni economiche ATA e FMOF, UIL Scuola: pagamenti bloccati, il Ministero intervenga",
@@ -143,12 +156,7 @@
                 "date": "8 Set 2026",
                 "time": "13:04",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/Screenshot-2026-06-24-alle-17.34.03.png"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze docenti 2026/27, i BOLLETTINI nomine [AGGIORNATO]",
@@ -277,7 +285,6 @@
                 "time": "8:20",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/09/shutterstock_2785989853.jpg"
             },
-            null,
             null
         ]
     },
