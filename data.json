@@ -25,6 +25,62 @@
         "articles": [
             {
                 "category": "ATA",
+                "title": "Assicurazione sanitaria scuola, niente occhiali, fisioterapia e cure psicologiche. Rosano (ANIEF): ecco cosa non è coperto",
+                "link": "https://www.orizzontescuola.it/assicurazione-sanitaria-scuola-niente-occhiali-fisioterapia-e-cure-psicologiche-rosano-anief-ecco-cosa-non-e-coperto/",
+                "date": "12 Set 2026",
+                "time": "19:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2154471629.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Personale ATA, nuovi posti possono liberarsi con gli incarichi da docente. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/personale-ata-nuovi-posti-possono-liberarsi-con-gli-incarichi-da-docente-pillole-di-question-time/",
+                "date": "12 Set 2026",
+                "time": "18:47",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/07/shutterstock_1863569833-scaled.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Valditara: “Il tetto del 30% di alunni stranieri diventerà legge”",
+                "link": "https://www.orizzontescuola.it/valditara-il-tetto-del-30-di-alunni-stranieri-diventera-legge/",
+                "date": "12 Set 2026",
+                "time": "17:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2502187265.jpg"
+            },
+            {
+                "category": "Plus",
+                "title": "Parti aggiornato, i tuoi diritti di docente e ATA di ruolo e precario spiegati bene: aspettative, congedi, permessi, 104, ferie e malattie",
+                "link": "https://www.orizzontescuola.it/i-diritti-di-docenti-e-ata-di-ruolo-e-precari-spiegati-bene-cosa-fare-in-caso-di-aspettative-congedi-permessi-104-ferie-e-malattie/",
+                "date": "12 Set 2026",
+                "time": "15:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/Screenshot-2026-01-22-102351.png"
+            },
+            {
+                "category": "Docenti",
+                "title": "Inclusione degli studenti rom a scuola, la guida europea per abbattere i pregiudizi tra i banchi",
+                "link": "https://www.orizzontescuola.it/inclusione-degli-studenti-rom-a-scuola-la-guida-europea-per-abbattere-i-pregiudizi-tra-i-banchi/",
+                "date": "12 Set 2026",
+                "time": "15:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/09/shutterstock_2763289421.jpg"
+            },
+            {
+                "category": "Studenti",
+                "title": "Attacchi all’istruzione: nel biennio 2024-2025 aumento di oltre il 40%. Save the Children: “Proteggere le scuole significa proteggere il futuro”",
+                "link": "https://www.orizzontescuola.it/attacchi-allistruzione-nel-biennio-2024-2025-aumento-di-oltre-il-40-save-the-children-proteggere-le-scuole-significa-proteggere-il-futuro/",
+                "date": "12 Set 2026",
+                "time": "15:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/shutterstock_728871790.jpg"
+            },
+            {
+                "category": "Studenti",
+                "title": "L’Unione degli Studenti annuncia lo sciopero del 20 novembre",
+                "link": "https://www.orizzontescuola.it/lunione-degli-studenti-annuncia-lo-sciopero-del-20-novembre/",
+                "date": "12 Set 2026",
+                "time": "14:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2533744507.jpg"
+            },
+            {
+                "category": "ATA",
                 "title": "Assicurazione sanitaria scuola, copertura dal 30 settembre 2026 al 29 settembre 2030: limite di età a 71 anni",
                 "link": "https://www.orizzontescuola.it/assicurazione-sanitaria-scuola-copertura-dal-30-settembre-2026-al-29-settembre-2030-limite-di-eta-a-71-anni/",
                 "date": "12 Set 2026",
@@ -94,7 +150,12 @@
                 "date": "12 Set 2026",
                 "time": "9:47",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_521791969.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze da GPS o da graduatorie di istituto? Le regole per l’assegnazione di nuove eventuali disponibilità",
@@ -143,12 +204,7 @@
                 "time": "8:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2337331431.jpg"
             },
-            null
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            null,
             null,
             {
                 "category": "Diventare Insegnanti",
@@ -222,68 +278,76 @@
                 "time": "14:53",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2231722735.jpg"
             },
-            null,
-            {
-                "category": "Pensioni",
-                "title": "Pensioni scuola 2026, l’Inps paga in tempo 31.870 assegni a settembre: liquidato il 95% delle pratiche",
-                "link": "https://www.orizzontescuola.it/pensioni-scuola-2026-linps-paga-in-tempo-31-870-assegni-a-settembre-liquidato-il-95-delle-pratiche/",
-                "date": "11 Set 2026",
-                "time": "13:27",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2760848565.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Dichiarazione servizi, consigliata anche a docenti neoassunti senza servizi precedenti. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/dichiarazione-servizi-consigliata-anche-a-docenti-neoassunti-senza-servizi-precedenti-pillole-di-question-time/",
-                "date": "11 Set 2026",
-                "time": "12:52",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/shutterstock_2677276019.jpg"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "Il DSGA e le direttive del Dirigente Scolastico: quali ordini deve eseguire e quali no. Con direttiva da scaricare",
-                "link": "https://www.orizzontescuola.it/il-dsga-e-le-direttive-del-dirigente-scolastico-quali-ordini-deve-eseguire-e-quali-no-con-direttiva-da-scaricare/",
-                "date": "11 Set 2026",
-                "time": "11:53",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/09/Direttive_dirigenti.png"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Anno di prova neoassunti, le 50 ore di formazione sono obbligatorie anche per i docenti in part time. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/anno-di-prova-neoassunti-le-50-ore-di-formazione-sono-obbligatorie-anche-per-i-docenti-in-part-time-pillole-di-question-time/",
-                "date": "11 Set 2026",
-                "time": "11:31",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1904033662.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Assicurazione sanitaria docenti e ATA, come aderire e cosa copre. QUESTION TIME con Rosano (ANIEF). IN DIRETTA oggi alle 18:00",
-                "link": "https://www.orizzontescuola.it/assicurazione-sanitaria-docenti-e-ata-come-aderire-e-cosa-copre-question-time-con-rosano-anief-in-diretta-oggi-alle-1800/",
-                "date": "11 Set 2026",
-                "time": "11:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/09/COPERTINA-ARTICOLO-scaled.png"
-            },
-            {
-                "category": "Scuole",
-                "title": "Assicurazione sanitaria Dirigenti, docenti e ATA: chi può aderire. Inclusi i supplenti con contratto al 31 agosto e 30 giugno, no supplenze brevi",
-                "link": "https://www.orizzontescuola.it/assicurazione-sanitaria-dirigenti-docenti-e-ata-chi-puo-aderire-inclusi-i-supplenti-con-contratto-al-31-agosto-e-30-giugno-no-supplenze-brevi/",
-                "date": "11 Set 2026",
-                "time": "11:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/assicurazione_sanitaria.png"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Cattedre vuote, la Preside cerca docenti su Facebook: la sfida tra 3mila cattedre scoperte e le polemiche sulle nomine",
-                "link": "https://www.orizzontescuola.it/scuola-la-caccia-ai-prof-sbarca-su-facebook-la-sfida-della-preside-tra-3mila-cattedre-scoperte-e-le-polemiche-sulle-nomine/",
-                "date": "11 Set 2026",
-                "time": "10:58",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2669903793.jpg"
-            }
+            null
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Inizio anno scolastico nelle Marche, l’augurio di D’Amico agli studenti: “Non si tratta di riempire un vaso, ma di accendere un fuoco”",
+                "link": "https://www.orizzontescuola.it/inizio-anno-scolastico-nelle-marche-laugurio-di-damico-agli-studenti-non-si-tratta-di-riempire-un-vaso-ma-di-accendere-un-fuoco/",
+                "date": "12 Set 2026",
+                "time": "18:58",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Incendio nella scuola dell’infanzia e nel nido: edificio vuoto, si cerca sistemazione alternativa per 84 bambini senza aula da lunedì. Succede a Ganaceto",
+                "link": "https://www.orizzontescuola.it/incendio-nella-scuola-dellinfanzia-e-nel-nido-edificio-vuoto-si-cerca-sistemazione-alternativa-per-84-bambini-senza-aula-da-lunedi-succede-a-ganaceto/",
+                "date": "12 Set 2026",
+                "time": "17:29",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Precariato scolastico, lo sfogo del docente: “Trattati come palline all’interno di un flipper”",
+                "link": "https://www.orizzontescuola.it/precariato-scolastico-lo-sfogo-del-docente-trattati-come-palline-allinterno-di-un-flipper/",
+                "date": "12 Set 2026",
+                "time": "17:15",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Tecnici e professionali diventeranno licei, la posizione di Anief sull’annuncio di Valditara: “Solo se manterranno la durata di 5 anni e si estenderà l’obbligo scolastico fino al diploma”",
+                "link": "https://www.orizzontescuola.it/tecnici-e-professionali-diventeranno-licei-la-posizione-di-anief-sullannuncio-di-valditara-solo-se-manterranno-la-durata-di-5-anni-e-si-estendera-lobbligo-scolastico-fino-al-diploma/",
+                "date": "12 Set 2026",
+                "time": "16:23",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Cisgiordania, oltre 830.000 bambini tornano a scuola tra violenze e ostacoli: l’allarme dell’Unicef",
+                "link": "https://www.orizzontescuola.it/cisgiordania-oltre-830-000-bambini-tornano-a-scuola-tra-violenze-e-ostacoli-lallarme-dellunicef/",
+                "date": "12 Set 2026",
+                "time": "16:20",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Balivo sul calendario scolastico: “Che senso ha tenere a casa i ragazzi per tre mesi?” e sullo smartphone rivela “mia figlia non lo avrà almeno fino ai 13 anni”",
+                "link": "https://www.orizzontescuola.it/balivo-sul-calendario-scolastico-che-senso-ha-tenere-a-casa-i-ragazzi-per-tre-mesi-e-sullo-smartphone-rivela-mia-figlia-non-lo-avra-almeno-fino-ai-13-anni/",
+                "date": "12 Set 2026",
+                "time": "16:01",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Precario con due sedi distanti 40 chilometri per 12 ore a settimana. “Spenderò gran parte dello stipendio per la benzina”",
+                "link": "https://www.orizzontescuola.it/precario-con-due-sedi-distanti-40-chilometri-per-12-ore-a-settimana-spendero-gran-parte-dello-stipendio-per-la-benzina/",
+                "date": "12 Set 2026",
+                "time": "15:51",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Violenza sulle donne, Frassinetti alla Mostra del Cinema di Venezia: “I ragazzi sono diventati protagonisti di un cambiamento culturale”",
+                "link": "https://www.orizzontescuola.it/violenza-sulle-donne-frassinetti-alla-mostra-del-cinema-di-venezia-i-ragazzi-sono-diventati-protagonisti-di-un-cambiamento-culturale/",
+                "date": "12 Set 2026",
+                "time": "15:27",
+                "image_link": "N/A"
+            },
             {
                 "category": "Cronaca",
                 "title": "Studente di 15 anni progettava con l’IA un attacco alla scuola",
@@ -362,63 +426,6 @@
                 "link": "https://www.orizzontescuola.it/educazione-civica-e-intelligenza-artificiale-la-proposta-del-cnddu-al-ministero-verifica-delle-fonti-e-giudizio-critico-nelle-scuole/",
                 "date": "11 Set 2026",
                 "time": "20:03",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Istituti tecnici, FLC CGIL contro l’ipotesi “licei”: “Cambiare nome non basta, restituisca le ore tagliate”",
-                "link": "https://www.orizzontescuola.it/istituti-tecnici-flc-cgil-contro-lipotesi-licei-cambiare-nome-non-basta-restituisca-le-ore-tagliate/",
-                "date": "11 Set 2026",
-                "time": "17:57",
-                "image_link": "N/A"
-            },
-            null,
-            {
-                "category": "Cronaca",
-                "title": "Vasco Rossi, Dottorato Honoris Causa all’Università di Salerno: cerimonia il 7 ottobre con Lectio magistralis",
-                "link": "https://www.orizzontescuola.it/vasco-rossi-dottorato-honoris-causa-alluniversita-di-salerno-cerimonia-il-7-ottobre-con-lectio-magistralis/",
-                "date": "11 Set 2026",
-                "time": "16:06",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Assemblee sindacali Anief 2026. Riparte l’attività di formazione e informazioni dedicata ai lavoratori della scuola",
-                "link": "https://www.orizzontescuola.it/assemblee-sindacali-anief-2026-riparte-lattivita-di-formazione-e-informazioni-dedicata-ai-lavoratori-della-scuola/",
-                "date": "11 Set 2026",
-                "time": "15:08",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "Supplenze, UIL Scuola denuncia ritardi nelle assegnazioni a Rimini, Forlì e Cesena",
-                "link": "https://www.orizzontescuola.it/supplenze-uil-scuola-denuncia-ritardi-nelle-assegnazioni-a-rimini-forli-e-cesena/",
-                "date": "11 Set 2026",
-                "time": "14:21",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Zagabria, quattordicenne accoltella un compagno e una collaboratrice scolastica: fermato dalla polizia",
-                "link": "https://www.orizzontescuola.it/zagabria-quattordicenne-accoltella-un-compagno-e-una-collaboratrice-scolastica-fermato-dalla-polizia/",
-                "date": "11 Set 2026",
-                "time": "14:07",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Studenti",
-                "title": "Borse di studio BPER, 300 assegni da 500 euro: domande aperte fino al 30 novembre",
-                "link": "https://www.orizzontescuola.it/borse-di-studio-bper-300-assegni-da-500-euro-domande-aperte-fino-al-30-novembre/",
-                "date": "11 Set 2026",
-                "time": "13:33",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Addio a Emma Bonino: il cordoglio unanime della politica italiana",
-                "link": "https://www.orizzontescuola.it/addio-a-emma-bonino-il-cordoglio-unanime-della-politica-italiana/",
-                "date": "11 Set 2026",
-                "time": "13:08",
                 "image_link": "N/A"
             }
         ]
@@ -545,6 +552,22 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Anno di prova neoassunti, le 50 ore di formazione sono obbligatorie anche per i docenti in part time. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/anno-di-prova-neoassunti-le-50-ore-di-formazione-sono-obbligatorie-anche-per-i-docenti-in-part-time-pillole-di-question-time/",
+                "date": "11 Set 2026",
+                "time": "11:31",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1904033662.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Diventare insegnanti: ecco le supplenze da graduatorie di istituto e interpelli. Anche “fino ad avente diritto”. Tutte le info nella newsletter di venerdì 11 settembre",
+                "link": "https://www.orizzontescuola.it/diventare-insegnanti-ecco-le-supplenze-da-graduatorie-di-istituto-e-interpelli-anche-fino-ad-avente-diritto-tutte-le-info-nella-newsletter-di-venerdi-11-settembre/",
+                "date": "11 Set 2026",
+                "time": "10:42",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/La-newsletter-per-Diventare-insegnante-2.png"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "“Documenti di rito” dopo l’assunzione, cosa può chiedere la scuola. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/documenti-di-rito-dopo-lassunzione-cosa-puo-chiedere-la-scuola-pillole-di-question-time/",
                 "date": "11 Set 2026",
@@ -574,22 +597,6 @@
                 "date": "10 Set 2026",
                 "time": "18:10",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/12/shutterstock_2377314343-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze, esclusa dall’algoritmo trova lavoro al supermercato: risarcimento da oltre 24mila euro. La Cassazione ha chiarito il nodo dei turni successivi",
-                "link": "https://www.orizzontescuola.it/supplenze-esclusa-dallalgoritmo-trova-lavoro-al-supermercato-risarcimento-da-oltre-24mila-euro-la-cassazione-ha-chiarito-il-nodo-dei-turni-successivi/",
-                "date": "10 Set 2026",
-                "time": "17:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_1903057546.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Graduatorie concorsi straordinari e GAE, il Ministero dispone le cancellazioni entro il 30 ottobre: esclusi GPS e concorsi ordinari. Ecco chi riguarda. Scarica la NOTA",
-                "link": "https://www.orizzontescuola.it/graduatorie-concorsi-straordinari-e-gae-il-ministero-dispone-le-cancellazioni-entro-il-30-ottobre-esclusi-gps-e-concorsi-ordinari-ecco-chi-riguarda-scarica-la-nota/",
-                "date": "10 Set 2026",
-                "time": "15:28",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/09/shutterstock_210164686.jpg"
             }
         ]
     },
