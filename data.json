@@ -32,20 +32,68 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Docenti",
+                "title": "Polizza sanitaria scuola, possibile utilizzare anche uno studio dentistico non convenzionato. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/polizza-sanitaria-scuola-possibile-utilizzare-anche-uno-studio-dentistico-non-convenzionato-pillole-di-question-time/",
+                "date": "14 Set 2026",
+                "time": "22:01",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_255769936-scaled-e1767890825885.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Culpa in vigilando sui minori: il Tribunale di Padova condanna il gruppo scout per il lancio di una palla di neve: 160mila euro di risarcimento",
+                "link": "https://www.orizzontescuola.it/culpa-in-vigilando-sui-minori-il-tribunale-di-padova-condanna-il-gruppo-scout-per-il-lancio-di-una-palla-di-neve-160mila-euro-di-risarcimento/",
+                "date": "14 Set 2026",
+                "time": "20:19",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/09/shutterstock_2652629499-scaled.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "UNCEM: “La montagna è maestra di futuro, difendere le scuole di quota significa custodire il Piemonte”",
+                "link": "https://www.orizzontescuola.it/uncem-la-montagna-e-maestra-di-futuro-difendere-le-scuole-di-quota-significa-custodire-il-piemonte/",
+                "date": "14 Set 2026",
+                "time": "19:17",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/03/shutterstock_165749363-scaled.jpg"
+            },
+            {
+                "category": "Consulenza fiscale",
+                "title": "Detrazioni scuola 730/2026: dal nido all’Università ecco tutti gli sconti fiscali",
+                "link": "https://www.orizzontescuola.it/detrazioni-scuola-730-2026-dal-nido-alluniversita-ecco-tutti-gli-sconti-fiscali/",
+                "date": "14 Set 2026",
+                "time": "18:31",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2019/06/SPESE-ISTRUZIONE-DETRAZIONE-SCOLASTICHE-1200x754.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Polizza sanitaria scuola, previsti pacchetti annuali per esami del sangue e prevenzione. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/polizza-sanitaria-scuola-previsti-pacchetti-annuali-per-esami-del-sangue-e-prevenzione-pillole-di-question-time/",
+                "date": "14 Set 2026",
+                "time": "17:07",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/10/blood-collection-2722940_960_720-e1510731950596.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Polizza sanitaria scuola, nessun vincolo alla regione di residenza: si può scegliere una struttura in tutta Italia. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/polizza-sanitaria-scuola-nessun-vincolo-alla-regione-di-residenza-si-puo-scegliere-una-struttura-in-tutta-italia-pillole-di-question-time/",
+                "date": "14 Set 2026",
+                "time": "17:01",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_344044361.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Maturità, alunna contesta il voto nel compito di matematica. Il TAR chiama un docente universitario per capire se il voto è giusto",
+                "link": "https://www.orizzontescuola.it/maturita-alunna-contesta-il-voto-nel-compito-di-matematica-il-tar-chiama-un-docente-universitario-per-capire-se-il-voto-e-giusto/",
+                "date": "14 Set 2026",
+                "time": "16:53",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/06/shutterstock_1890232807.jpg"
+            },
+            {
                 "category": "Genitori",
                 "title": "Educazione sessuale e consenso informato: quando serve e quando no. Richiesta almeno 7 giorni prima, previste attività alternative. Nota MIM",
                 "link": "https://www.orizzontescuola.it/consenso-informato-a-scuola-quando-serve-e-quando-no-richiesta-almeno-7-giorni-prima-previste-attivita-alternative-nota-mim/",
                 "date": "14 Set 2026",
                 "time": "16:30",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/09/shutterstock_2764351975.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Quattro anni di scuola media invece di tre, uno in meno alle elementari e superiori fino a 18 anni (4+4+4): la proposta di riforma dei cicli scolastici in Trentino",
-                "link": "https://www.orizzontescuola.it/quattro-anni-di-scuola-media-invece-di-tre-uno-in-meno-alle-elementari-e-superiori-fino-a-18-anni-la-proposta-di-riforma-dei-cicli-scolastici-in-trentino/",
-                "date": "14 Set 2026",
-                "time": "15:14",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2487414217.jpg"
             },
             {
                 "category": "Gestire la scuola",
@@ -103,7 +151,12 @@
                 "date": "14 Set 2026",
                 "time": "13:02",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/Valditara.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze 2026/27: ecco i BOLLETTINI del secondo turno. Lezioni iniziano con docenti in classe [AGGIORNATO]",
@@ -151,12 +204,7 @@
                 "date": "14 Set 2026",
                 "time": "11:52",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/08/shutterstock_1070096513.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Docenti",
                 "title": "Carta docente, piattaforma riapre il 15 settembre. Chi potrà accedere e chi no",
@@ -252,54 +300,6 @@
                 "date": "14 Set 2026",
                 "time": "9:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2274347381.jpg"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "Interpelli per docenti e ATA: scarica modello avviso e regolamento per la gestione delle supplenze",
-                "link": "https://www.orizzontescuola.it/interpelli-per-docenti-e-ata-scarica-modello-avviso-e-regolamento-per-la-gestione-delle-supplenze/",
-                "date": "14 Set 2026",
-                "time": "9:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/09/shutterstock_210164686.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Supplenze docenti, tra bollettini e interpelli: a che punto siamo? QUESTION TIME con Cannas. LIVE Lunedì 14 settembre alle 14:30",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-tra-bollettini-e-interpelli-a-che-punto-siamo-question-time-con-cannas-live-lunedi-14-settembre-alle-1430/",
-                "date": "14 Set 2026",
-                "time": "8:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/09/Template_questiontime_1920x1080-3.png"
-            },
-            {
-                "category": "Docenti",
-                "title": "Ritorno tra i banchi, Pigozzi: “Non aiutateli a tornare a scuola, ci si va e basta”",
-                "link": "https://www.orizzontescuola.it/ritorno-tra-i-banchi-pigozzi-non-aiutateli-a-tornare-a-scuola-ci-si-va-e-basta/",
-                "date": "14 Set 2026",
-                "time": "8:18",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2394500087.jpg"
-            },
-            {
-                "category": "Genitori",
-                "title": "Rientro a scuola il 15 settembre, ricominciano le lezioni in Calabria, Campania, Emilia Romagna, Lazio, Sicilia, Toscana",
-                "link": "https://www.orizzontescuola.it/rientro-a-scuola-il-15-settembre-ricominciano-le-lezioni-in-calabria-campania-emilia-romagna-lazio-sicilia-toscana/",
-                "date": "14 Set 2026",
-                "time": "8:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_367299155-scaled-e1789366387282.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "15 settembre 2026, scadenza iscrizioni ai percorsi di formazione incentivata",
-                "link": "https://www.orizzontescuola.it/15-settembre-2026-scadenza-iscrizioni-ai-percorsi-di-formazione-incentivata/",
-                "date": "14 Set 2026",
-                "time": "8:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2649192627.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Assicurazione sanitaria docenti e ATA, requisiti, scadenze e limiti: rispondiamo ai vostri quesiti. QUESTION TIME con Craparo (Gilda) LIVE Lunedì 15 settembre alle 15:30",
-                "link": "https://www.orizzontescuola.it/assicurazione-sanitaria-docenti-e-ata-requisiti-scadenze-e-limiti-rispondiamo-ai-vostri-quesiti-question-time-con-craparo-gilda-live-lunedi-15-settembre-alle-1530/",
-                "date": "14 Set 2026",
-                "time": "8:12",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/09/1.png"
             }
         ]
     },
@@ -307,147 +307,140 @@
         "title": "In Breve",
         "articles": [
             {
-                "category": "Comunicati stampa",
-                "title": "Assicurazione sanitaria integrativa, Pacifico (Anief): “Dal 1993 abbiamo privatizzato il rapporto di lavoro nel pubblico impiego, adesso otteniamo gli stessi diritti”",
-                "link": "https://www.orizzontescuola.it/assicurazione-sanitaria-integrativa-pacifico-anief-dal-1993-abbiamo-privatizzato-il-rapporto-di-lavoro-nel-pubblico-impiego-adesso-otteniamo-gli-stessi-diritti/",
+                "category": "Cronaca",
+                "title": "Caro scuola e rincari 2026/2027: la proposta del CNDDU per passare dai bonus temporanei alla gestione strutturale dei costi",
+                "link": "https://www.orizzontescuola.it/caro-scuola-e-rincari-2026-2027-la-proposta-del-cnddu-per-passare-dai-bonus-temporanei-alla-gestione-strutturale-dei-costi/",
                 "date": "14 Set 2026",
-                "time": "16:15",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "“I Viaggi della Bellezza”, percorsi gratuiti a Venezia per le scuole superiori del Veneto. Bussetti: “Educare lo sguardo dei ragazzi”",
-                "link": "https://www.orizzontescuola.it/i-viaggi-della-bellezza-percorsi-gratuiti-a-venezia-per-le-scuole-superiori-del-veneto-bussetti-educare-lo-sguardo-dei-ragazzi/",
-                "date": "14 Set 2026",
-                "time": "16:07",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Assicurazione sanitaria gratuita estesa ai precari, Valditara: “Novità importante per 1.200.000 lavoratori” e sui compiti “no a quelli dati sul registro elettronico alle otto di sera per l’indomani”",
-                "link": "https://www.orizzontescuola.it/assicurazione-sanitaria-gratuita-estesa-ai-precari-valditara-novita-importante-per-1-200-000-lavoratori-e-sui-dati-ocse-non-ci-accontentiamo-vogliamo-migliorarli/",
-                "date": "14 Set 2026",
-                "time": "12:30",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "Premio “Storie di alternanza e competenze” 2026, candidature entro il 9 ottobre: 20mila euro per scuole e ITS Academy",
-                "link": "https://www.orizzontescuola.it/premio-storie-di-alternanza-e-competenze-2026-candidature-entro-il-9-ottobre-20mila-euro-per-scuole-e-its-academy/",
-                "date": "14 Set 2026",
-                "time": "12:17",
+                "time": "21:56",
                 "image_link": "N/A"
             },
             {
                 "category": "Cronaca",
-                "title": "Educazione all’affettività e al rispetto, l’appello di Pelicot e Cecchettin: “Bisogna partire dall’infanzia. L’idea è combattere il machismo, non gli uomini in generale”",
-                "link": "https://www.orizzontescuola.it/educazione-allaffettivita-e-al-rispetto-lappello-di-pelicot-e-cecchettin-bisogna-partire-dallinfanzia-lidea-e-combattere-il-machismo-non-gli-uomini-in/",
+                "title": "Tre bandiere in ogni classe: in un comune del Piemonte il primo giorno di scuola è una lettura di cittadinanza",
+                "link": "https://www.orizzontescuola.it/tre-bandiere-in-ogni-classe-in-un-comune-del-piemonte-il-primo-giorno-di-scuola-e-una-lettura-di-cittadinanza/",
                 "date": "14 Set 2026",
-                "time": "12:08",
+                "time": "21:50",
+                "image_link": "N/A"
+            },
+            null,
+            {
+                "category": "Cronaca",
+                "title": "Matteo Bassetti: “La salute si educa a scuola, allarme per il calo delle coperture vaccinali”",
+                "link": "https://www.orizzontescuola.it/matteo-bassetti-la-salute-si-educa-a-scuola-allarme-per-il-calo-delle-coperture-vaccinali/",
+                "date": "14 Set 2026",
+                "time": "20:22",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Comunicati stampa",
+                "title": "Docenti precari, Anief: chi è inserito nelle GPS può rispondere comunque agli interpelli, ma non vale per tutti i tipi di supplenze",
+                "link": "https://www.orizzontescuola.it/docenti-precari-anief-chi-e-inserito-nelle-gps-puo-rispondere-comunque-agli-interpelli-ma-non-vale-per-tutti-i-tipi-di-supplenze/",
+                "date": "14 Set 2026",
+                "time": "19:55",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "Scuola, abbonamenti a giornali e riviste: rimborso fino al 90% con un bando da 2 milioni. Domande dal 10 dicembre 2026 al 15 marzo 2027",
+                "link": "https://www.orizzontescuola.it/scuola-abbonamenti-a-giornali-e-riviste-rimborso-fino-al-90-con-un-bando-da-2-milioni-domande-dal-10-dicembre-2026-al-15-marzo-2027/",
+                "date": "14 Set 2026",
+                "time": "19:49",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Torino, la circolare di un liceo scritta in rima dall’intelligenza artificiale: “Alla segreteria devi scrivere e allegare”",
+                "link": "https://www.orizzontescuola.it/torino-la-circolare-di-un-liceo-scritta-in-rima-dallintelligenza-artificiale-alla-segreteria-devi-scrivere-e-allegare/",
+                "date": "14 Set 2026",
+                "time": "19:15",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Studenti",
+                "title": "Bolzano, nuova Carta degli studenti dal 2026/27: regole più chiare su compiti a casa, sanzioni e rapporti con le famiglie",
+                "link": "https://www.orizzontescuola.it/bolzano-nuova-carta-degli-studenti-dal-2026-27-regole-piu-chiare-su-compiti-a-casa-sanzioni-e-rapporti-con-le-famiglie/",
+                "date": "14 Set 2026",
+                "time": "19:04",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Più sicurezza al rientro in classe: a Napoli tornano i metal detector anche dopo le lezioni “per tutelare i minori nei contesti di aggregazione con controlli interforze nei fine settimana”",
+                "link": "https://www.orizzontescuola.it/piu-sicurezza-al-rientro-in-classe-a-napoli-tornano-i-metal-detector-anche-dopo-le-lezioni-per-tutelare-i-minori-nei-contesti-di-aggregazione-con-controlli-interforze-nei-fine-settimana/",
+                "date": "14 Set 2026",
+                "time": "19:00",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Docenti",
+                "title": "Trentino, 1,55 milioni di euro per l’educazione motoria a scuola: attività dall’infanzia e più ore alla primaria",
+                "link": "https://www.orizzontescuola.it/trentino-155-milioni-di-euro-per-leducazione-motoria-a-scuola-attivita-dallinfanzia-e-piu-ore-alla-primaria/",
+                "date": "14 Set 2026",
+                "time": "18:59",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Studenti",
+                "title": "“Il Greco è il miglior codice per programmare il futuro”: la sfida di un 19enne nell’era dell’IA",
+                "link": "https://www.orizzontescuola.it/il-greco-e-il-miglior-codice-per-programmare-il-futuro-la-sfida-di-un-19enne-nellera-dellia/",
+                "date": "14 Set 2026",
+                "time": "18:48",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Abbandono scolastico, 2,3 milioni di euro per otto scuole: cortili, laboratori e impianti fotovoltaici",
+                "link": "https://www.orizzontescuola.it/abbandono-scolastico-23-milioni-di-euro-per-otto-scuole-cortili-laboratori-e-impianti-fotovoltaici/",
+                "date": "14 Set 2026",
+                "time": "18:32",
                 "image_link": "N/A"
             },
             {
                 "category": "Dirigenti scolastici",
-                "title": "La Sicilia fa Scuola, Stati Generali dell’Istruzione il 14 e 15 ottobre a Palermo: iscrizioni aperte per dirigenti e scuole",
-                "link": "https://www.orizzontescuola.it/la-sicilia-fa-scuola-stati-generali-dellistruzione-il-14-e-15-ottobre-a-palermo-iscrizioni-aperte-per-dirigenti-e-scuole/",
+                "title": "Sciopero dirigenti scolastici, il 15 settembre confronto ARAN-sindacati per una disciplina specifica",
+                "link": "https://www.orizzontescuola.it/sciopero-dirigenti-scolastici-il-15-settembre-confronto-aran-sindacati-per-una-disciplina-specifica/",
                 "date": "14 Set 2026",
-                "time": "12:04",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Sasso (FnV): “Tetto del 30% di stranieri disatteso, serve una norma non una circolare”",
-                "link": "https://www.orizzontescuola.it/sasso-fnv-tetto-del-30-di-stranieri-disatteso-serve-una-norma-non-una-circolare/",
-                "date": "14 Set 2026",
-                "time": "11:54",
+                "time": "18:27",
                 "image_link": "N/A"
             },
             {
                 "category": "Cronaca",
-                "title": "Undici studenti insufficienti, un solo escluso dall’esame. Studente fa ricorso al TAR, ma perde il giudizio: ecco perché",
-                "link": "https://www.orizzontescuola.it/undici-studenti-insufficienti-un-solo-escluso-dallesame-studente-fa-ricorso-al-tar-ma-perde-il-giudizio-ecco-perche/",
+                "title": "Studente di 18 anni investito da un autobus all’uscita da scuola: è in condizioni gravi",
+                "link": "https://www.orizzontescuola.it/studente-di-18-anni-investito-da-un-autobus-alluscita-da-scuola-e-in-condizioni-gravi/",
                 "date": "14 Set 2026",
-                "time": "11:51",
+                "time": "18:10",
                 "image_link": "N/A"
             },
             {
-                "category": "Politica scolastica",
-                "title": "Il PD attacca Valditara: “In cinque anni persi 434mila alunni, il ministro guarda altrove”",
-                "link": "https://www.orizzontescuola.it/il-pd-attacca-valditara-in-cinque-anni-persi-434mila-alunni-il-ministro-guarda-altrove/",
+                "category": "Scuole",
+                "title": "Scioperi scuola ottobre 2026, tre giornate già annunciate: 2, 16 e 30 ottobre",
+                "link": "https://www.orizzontescuola.it/scioperi-scuola-ottobre-2026-tre-giornate-gia-annunciate-2-16-e-30-ottobre/",
                 "date": "14 Set 2026",
-                "time": "10:55",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Rientro in aula tra caldo e edifici fatiscenti: la denuncia di Rete Studenti, Flc Cgil e Fillea Cgil",
-                "link": "https://www.orizzontescuola.it/rientro-in-aula-tra-caldo-e-edifici-fatiscenti-la-denuncia-di-rete-studenti-flc-cgil-e-fillea-cgil/",
-                "date": "14 Set 2026",
-                "time": "10:52",
+                "time": "18:03",
                 "image_link": "N/A"
             },
             {
                 "category": "Cronaca",
-                "title": "Incendio Crans-Montana, Leonardo, Sofia, Francesca e Kean tornano a scuola: “Era uno dei nostri obiettivi da quando eravamo in ospedale. Scenderà qualche lacrima”",
-                "link": "https://www.orizzontescuola.it/incendio-crans-montana-leonardo-sofia-francesca-e-kean-tornano-a-scuola-era-uno-dei-nostri-obiettivi-da-quando-eravamo-in-ospedale-scendera-qualche-lacrima/",
+                "title": "Inizio anno scolastico, l’augurio di Zuppi: “Rendiamo la scuola piena di significato facendone un luogo di ascolto. L’altro non è un nemico, è un fratello che non mi riconosce”",
+                "link": "https://www.orizzontescuola.it/inizio-anno-scolastico-laugurio-di-zuppi-rendiamo-la-scuola-piena-di-significato-facendone-un-luogo-di-ascolto-laltro-non-e-un-nemico-e-un-fratello-che-non-mi-riconosce/",
                 "date": "14 Set 2026",
-                "time": "10:19",
+                "time": "18:01",
                 "image_link": "N/A"
             },
             {
-                "category": "Docenti",
-                "title": "Stop all’educazione sessuo-affettiva alle elementari, Pellai: “Fuori dal tempo. Presume che chi ha meno di 10 anni sia un essere angelicato che vive nel mondo di fiori, campanelle e palloncini”",
-                "link": "https://www.orizzontescuola.it/stop-alleducazione-sessuo-affettiva-alle-elementari-pellai-fuori-dal-tempo-presume-che-chi-ha-meno-di-10-anni-sia-un-essere-angelicato-che-vive-nel-mondo-di-fiori-campanelle-e-pa/",
+                "category": "Cronaca",
+                "title": "Crans-Montana, il padre di Francesca dopo il ritorno a scuola: “Accolti molto bene da docenti e compagni, senza far pesare troppo la cosa”",
+                "link": "https://www.orizzontescuola.it/crans-montana-il-padre-di-francesca-dopo-il-ritorno-a-scuola-accolti-molto-bene-da-docenti-e-compagni-senza-far-pesare-troppo-la-cosa/",
                 "date": "14 Set 2026",
-                "time": "9:47",
+                "time": "17:29",
                 "image_link": "N/A"
             },
             {
                 "category": "Genitori",
-                "title": "IA e algoritmi anche a scuola, il Garante Privacy: rischi, trasparenza e diritti nel nuovo podcast",
-                "link": "https://www.orizzontescuola.it/ia-e-algoritmi-anche-a-scuola-il-garante-privacy-rischi-trasparenza-e-diritti-nel-nuovo-podcast/",
-                "date": "13 Set 2026",
-                "time": "17:53",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Caro carburante, Anief: “Detassare le spese in Irpef e ridurre il prelievo su aumenti e tredicesima”",
-                "link": "https://www.orizzontescuola.it/caro-carburante-anief-detassare-le-spese-in-irpef-e-ridurre-il-prelievo-su-aumenti-e-tredicesima/",
-                "date": "13 Set 2026",
-                "time": "17:36",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Genitori",
-                "title": "Bonus nido, arriva la banca dati nazionale delle strutture: sarà disponibile anche una mappa geolocalizzata",
-                "link": "https://www.orizzontescuola.it/bonus-nido-arriva-la-banca-dati-nazionale-delle-strutture-sara-disponibile-anche-una-mappa-geolocalizzata/",
-                "date": "13 Set 2026",
-                "time": "16:44",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Inizio anno scolastico in Lombardia, Volta agli studenti: “Vi auguro una domanda in più, una paura in meno, una possibilità nuova”",
-                "link": "https://www.orizzontescuola.it/inizio-anno-scolastico-in-lombardia-volta-agli-studenti-vi-auguro-una-domanda-in-piu-una-paura-in-meno-una-possibilita-nuova/",
-                "date": "13 Set 2026",
-                "time": "12:34",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Genitori",
-                "title": "Disturbi alimentari, un giovane su 20 coinvolto. Lucattini: “Il cibo può diventare il linguaggio di un disagio che non riesce a trovare parole”",
-                "link": "https://www.orizzontescuola.it/disturbi-alimentari-un-giovane-su-20-coinvolto-lucattini-il-cibo-puo-diventare-il-linguaggio-di-un-disagio-che-non-riesce-a-trovare-parole/",
-                "date": "13 Set 2026",
-                "time": "11:33",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Intelligenza artificiale, Schettini: “Le regole che abbiamo sono veramente sufficienti ed efficaci?”",
-                "link": "https://www.orizzontescuola.it/intelligenza-artificiale-schettini-le-regole-che-abbiamo-sono-veramente-sufficienti-ed-efficaci/",
-                "date": "13 Set 2026",
-                "time": "10:15",
+                "title": "Rientro a scuola, lo psicologo: “No alla corsa al 100%”. Routine graduale, ascolto e meno pressione sui voti",
+                "link": "https://www.orizzontescuola.it/rientro-a-scuola-lo-psicologo-no-alla-corsa-al-100-routine-graduale-ascolto-e-meno-pressione-sui-voti/",
+                "date": "14 Set 2026",
+                "time": "17:26",
                 "image_link": "N/A"
             }
         ]
