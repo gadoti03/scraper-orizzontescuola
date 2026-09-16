@@ -25,19 +25,35 @@
         "articles": [
             {
                 "category": "ATA",
-                "title": "Supplenze ATA 2026-27, 700 incarichi aggiuntivi da assistente amministrativo. Valditara firma decreto: 19 milioni di euro alle Regioni",
-                "link": "https://www.orizzontescuola.it/supplenze-ata-2026-27-700-incarichi-aggiuntivi-da-assistente-amministrativo-valditara-firma-decreto-che-stanzia-19-milioni/",
+                "title": "Assicurazione sanitaria docenti e ATA, adesioni senza costi entro il 20 settembre. Aggiornate FAQ su contratti a tempo determinato",
+                "link": "https://www.orizzontescuola.it/polizza-sanitaria-docenti-e-ata-via-alle-adesioni-chi-puo-averla-come-fare-domanda-e-quando-parte-la-copertura-faq-e-guida/",
                 "date": "15 Set 2026",
-                "time": "19:02",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1618026661-scaled.jpg"
+                "time": "22:14",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1785502850-scaled.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Polizza sanitaria scuola, adesione gratuita ma alcune prestazioni prevedono franchigie o scoperti. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/polizza-sanitaria-scuola-adesione-gratuita-ma-alcune-prestazioni-prevedono-franchigie-o-scoperti-pillole-di-question-time/",
+                "date": "15 Set 2026",
+                "time": "22:03",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/assicurazione_sanitaria.png"
             },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze 2026/27: ecco i BOLLETTINI del 15 settembre [AGGIORNATO]",
                 "link": "https://www.orizzontescuola.it/supplenze-docenti-ecco-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/",
                 "date": "15 Set 2026",
-                "time": "18:05",
+                "time": "21:54",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1937300755.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Supplenze ATA 2026-27, 700 incarichi aggiuntivi da assistente amministrativo. Valditara firma decreto: 19 milioni di euro alle Regioni",
+                "link": "https://www.orizzontescuola.it/supplenze-ata-2026-27-700-incarichi-aggiuntivi-da-assistente-amministrativo-valditara-firma-decreto-che-stanzia-19-milioni/",
+                "date": "15 Set 2026",
+                "time": "19:02",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1618026661-scaled.jpg"
             },
             {
                 "category": "Docenti",
@@ -127,7 +143,12 @@
                 "time": "15:01",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/09/shutterstock_2498444481-scaled.jpg"
             },
-            null,
+            null
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Scuole",
                 "title": "IeFP quadriennali, prove INVALSI per la validazione: accesso agli ITS Academy e dal 2027/28 maturità senza esame preliminare. DECRETO",
@@ -143,12 +164,7 @@
                 "date": "15 Set 2026",
                 "time": "14:36",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_633750290.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Docenti",
                 "title": "Perché i ragazzi leggono sempre meno e perché l’Italia fa eccezione: la diagnosi dell’OCSE",
@@ -269,22 +285,6 @@
                 "date": "15 Set 2026",
                 "time": "8:54",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/04/shutterstock_409299112-scaled.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Polizza sanitaria scuola, il MIM chiarisce: 320 milioni in quattro anni, 250 milioni da nuove risorse",
-                "link": "https://www.orizzontescuola.it/polizza-sanitaria-scuola-il-mim-chiarisce-320-milioni-in-quattro-anni-250-milioni-da-nuove-risorse/",
-                "date": "15 Set 2026",
-                "time": "8:38",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1618026661-scaled.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Assicurazione sanitaria personale della scuola: “Attenzione alcune prestazioni prevedono franchigie”. Il Punto di Simone Craparo GILDA",
-                "link": "https://www.orizzontescuola.it/assicurazione-sanitaria-personale-della-scuola-attenzione-alcune-prestazioni-prevedono-franchigie-il-punto-di-simone-craparo-gilda/",
-                "date": "15 Set 2026",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/simone_capraro_2.png"
             }
         ]
     },
@@ -612,6 +612,14 @@
         "articles": [
             {
                 "category": "ATA",
+                "title": "Assicurazione sanitaria personale della scuola: “Attenzione alcune prestazioni prevedono franchigie”. Il Punto di Simone Craparo GILDA",
+                "link": "https://www.orizzontescuola.it/assicurazione-sanitaria-personale-della-scuola-attenzione-alcune-prestazioni-prevedono-franchigie-il-punto-di-simone-craparo-gilda/",
+                "date": "15 Set 2026",
+                "time": "8:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/simone_capraro_2.png"
+            },
+            {
+                "category": "ATA",
                 "title": "VIDEO GUIDA | Assicurazione sanitaria docenti e ATA, come aderire: i passaggi spiegati passo dopo passo",
                 "link": "https://www.orizzontescuola.it/video-guida-assicurazione-sanitaria-docenti-e-ata-come-aderire-i-passaggi-spiegati-passo-dopo-passo/",
                 "date": "14 Set 2026",
@@ -649,14 +657,6 @@
                 "date": "12 Set 2026",
                 "time": "12:02",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_341870168-scaled.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Assicurazione sanitaria gratuita per il personale scolastico: “Durerà 4 anni”. Riguarda anche i precari? E le paritarie? Il Punto di Daniela Rosano ANIEF",
-                "link": "https://www.orizzontescuola.it/assicurazione-sanitaria-gratuita-per-il-personale-scolastico-durera-4-anni-riguarda-anche-i-precari-e-le-paritarie-il-punto-di-daniela-rosano-anief/",
-                "date": "12 Set 2026",
-                "time": "8:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/Daniela_Rosano.png"
             }
         ]
     },
