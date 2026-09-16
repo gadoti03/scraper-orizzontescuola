@@ -2,7 +2,14 @@
     "group_1": {
         "title": "Notizie in Evidenza",
         "articles": [
-            null,
+            {
+                "category": "Docenti",
+                "title": "Assicurazione sanitaria docenti, ATA e Dirigenti: prima adesione entro il 20 settembre. Attiva per quattro anni [LO SPECIALE]",
+                "link": "https://www.orizzontescuola.it/assicurazione-sanitaria-docenti-ata-e-dirigenti-prima-adesione-entro-il-20-settembre-attiva-per-quattro-anni-lo-speciale/",
+                "date": "16 Set 2026",
+                "time": "17:28",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2017/06/medical-563427__340.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Nuovi concorsi scuola: ecco come cambia tabella titoli. Stesso punteggio TFA sostegno e Indire, superamento di un precedente concorso, punteggio per abilitazione. BOZZA",
@@ -16,6 +23,163 @@
     "group_2": {
         "title": "Ultimi Aggiornamenti",
         "articles": [
+            {
+                "category": "ATA",
+                "title": "Supplenze ATA, incarichi aggiuntivi e non solo: facciamo il punto. QUESTION TIME con Cozzolino. LIVE Giovedì 17 settembre alle 15:00",
+                "link": "https://www.orizzontescuola.it/supplenze-ata-incarichi-aggiuntivi-e-non-solo-facciamo-il-punto-question-time-con-cozzolino-live-giovedi-17-settembre-alle-1500/",
+                "date": "16 Set 2026",
+                "time": "20:52",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/09/Template_questiontime_1920x1080-6.png"
+            },
+            {
+                "category": "Nessuna categoria",
+                "title": "28 studenti, 2 tavoli da ping pong e 50 metri quadrati di palestra, i giudici non hanno dubbi: “in quella stanza l’infortunio era prevedibile, non sfortuna”. Scuola condannata",
+                "link": "https://www.orizzontescuola.it/28-studenti-2-tavoli-da-ping-pong-e-50-metri-quadrati-di-palestra-i-giudici-non-hanno-dubbi-in-quella-stanza-linfortunio-era-prevedibile-non-sfortuna-scuola-condannata/",
+                "date": "16 Set 2026",
+                "time": "20:32",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/12/shutterstock_1905525472-scaled.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "2 milioni di bambini miopi in Italia, gli esperti: “È un’emergenza di sanità pubblica”. Il rischio che esplode dopo i 40 anni: retina, glaucoma, maculopatia",
+                "link": "https://www.orizzontescuola.it/2-milioni-di-bambini-miopi-in-italia-gli-esperti-e-unemergenza-di-sanita-pubblica-il-rischio-che-esplode-dopo-i-40-anni-retina-glaucoma-maculopatia/",
+                "date": "16 Set 2026",
+                "time": "20:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/04/shutterstock_1216445323-1.jpg"
+            },
+            {
+                "category": "Guide",
+                "title": "Pausa pranzo dei docenti, 10, 30 o 60 minuti? Lezioni e riunioni nella stessa giornata, il benessere non deve essere optional",
+                "link": "https://www.orizzontescuola.it/pausa-pranzo-dei-docenti-10-30-o-60-minuti-lezioni-e-riunioni-nella-stessa-giornata-il-benessere-non-deve-essere-optional/",
+                "date": "16 Set 2026",
+                "time": "20:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/09/shutterstock_1082891984.jpg"
+            },
+            {
+                "category": "Pensioni",
+                "title": "Riscatto della laurea, dal 2027 il conto sale: fino a 900 euro in più per chi riscatta cinque anni",
+                "link": "https://www.orizzontescuola.it/riscatto-della-laurea-dal-2027-il-conto-sale-fino-a-900-euro-in-piu-per-chi-riscatta-cinque-anni/",
+                "date": "16 Set 2026",
+                "time": "19:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_2499290035.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Polizza sanitaria scuola, la copertura termina con il pensionamento ma restano le prestazioni già avviate. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/polizza-sanitaria-scuola-la-copertura-termina-con-il-pensionamento-ma-restano-le-prestazioni-gia-avviate-pillole-di-question-time/",
+                "date": "16 Set 2026",
+                "time": "19:18",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/shutterstock_2311909343-scaled-e1788858326973.jpg"
+            },
+            {
+                "category": "Studenti",
+                "title": "Borse di studio, il Governo stanzia 288 milioni in più: l’importo per i fuori sede sale a 7.171 euro. Bernini: “Investire sui giovani significa investire sul futuro dell’Italia”",
+                "link": "https://www.orizzontescuola.it/borse-di-studio-il-governo-stanzia-288-milioni-in-piu-limporto-per-i-fuori-sede-sale-a-7-171-euro-bernini-investire-sui-giovani-significa-investire-sul-futuro-dellitalia/",
+                "date": "16 Set 2026",
+                "time": "18:29",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_1912187848.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Polizza sanitaria scuola, l’adesione personale serve per autorizzare il trattamento dei dati. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/polizza-sanitaria-scuola-ladesione-personale-serve-per-autorizzare-il-trattamento-dei-dati-pillole-di-question-time/",
+                "date": "16 Set 2026",
+                "time": "18:04",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/shutterstock_2631298221.jpg"
+            },
+            {
+                "category": "Docenti",
+                "title": "Il docente di sostegno nella scuola secondaria: continuità, competenze e flessibilità per una nuova qualità dell’inclusione",
+                "link": "https://www.orizzontescuola.it/il-docente-di-sostegno-nella-scuola-secondaria-continuita-competenze-e-flessibilita-per-una-nuova-qualita-dellinclusione/",
+                "date": "16 Set 2026",
+                "time": "18:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_566981095.jpg"
+            },
+            {
+                "category": "Studenti",
+                "title": "Specializzazioni mediche, 15.221 posti a bando: scelte su Universitaly entro il 22 settembre. Decreto",
+                "link": "https://www.orizzontescuola.it/specializzazioni-mediche-15-221-posti-a-bando-scelte-su-universitaly-entro-il-22-settembre-decreto/",
+                "date": "16 Set 2026",
+                "time": "17:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/07/shutterstock_2370937305.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Sostegno, i docenti formati da Indire superano il concorso con il 10% in più rispetto al TFA. Valditara: “30.000 specializzati in 2 anni subito in prima fascia”",
+                "link": "https://www.orizzontescuola.it/sostegno-i-docenti-formati-da-indire-superano-il-concorso-con-il-10-in-piu-rispetto-al-tfa-valditara-30-000-specializzati-in-2-anni-subito-in-prima-fascia/",
+                "date": "16 Set 2026",
+                "time": "17:04",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2340432661.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Docenti neoassunti 2026/27, chi deve svolgere anno di prova e formazione chi no",
+                "link": "https://www.orizzontescuola.it/docenti-neoassunti-2026-27-chi-deve-svolgere-anno-di-prova-e-formazione-chi-no/",
+                "date": "16 Set 2026",
+                "time": "17:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2274347381-1.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Scuole chiuse giovedì 17 settembre in Liguria per allerta meteo: l’elenco dei comuni [IN AGGIORNAMENTO]",
+                "link": "https://www.orizzontescuola.it/scuole-chiuse-mercoledi-17-settembre-in-liguria-per-allerta-meteo-lelenco-dei-comuni-in-aggiornamento/",
+                "date": "16 Set 2026",
+                "time": "16:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/Allerta_Meteo.png"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Polizza sanitaria per la scuola, Valditara: “Investiti 320 milioni di euro in quattro anni, di cui 250 milioni sono risorse del tutto nuove”",
+                "link": "https://www.orizzontescuola.it/polizza-sanitaria-per-la-scuola-valditara-investiti-320-milioni-di-euro-in-quattro-anni-di-cui-250-milioni-sono-risorse-del-tutto-nuove/",
+                "date": "16 Set 2026",
+                "time": "16:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/Screenshot-2026-06-10-alle-13.58.50.png"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Emergenza caldo a scuola, 20 milioni per i condizionatori: 3.200 euro a istituto. Valditara: “Altro che 57 euro, abbiamo investito 12 miliardi”",
+                "link": "https://www.orizzontescuola.it/emergenza-caldo-a-scuola-20-milioni-per-i-condizionatori-3-200-euro-a-istituto-valditara-altro-che-57-euro-abbiamo-investito-12-miliardi/",
+                "date": "16 Set 2026",
+                "time": "15:51",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/shutterstock_2338392875.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Docenti di sostegno, 30mila specializzati in due anni. Valditara: “Superiamo la logica dell’emergenza”",
+                "link": "https://www.orizzontescuola.it/docenti-di-sostegno-30mila-specializzati-in-due-anni-valditara-superiamo-la-logica-dellemergenza/",
+                "date": "16 Set 2026",
+                "time": "15:44",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_1029430381.jpg"
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
+            {
+                "category": "Politica scolastica",
+                "title": "Tetto studenti stranieri, Valditara: “Basta classi ghetto, occorre far rispettare le regole”",
+                "link": "https://www.orizzontescuola.it/tetto-studenti-stranieri-valditara-basta-classi-ghetto-occorre-far-rispettare-le-regole/",
+                "date": "16 Set 2026",
+                "time": "15:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_367299155-scaled-e1789366387282.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Conferma docente di sostegno, Valditara: “55.814 i confermati, oltre 9mila in più rispetto allo scorso anno”",
+                "link": "https://www.orizzontescuola.it/conferma-docente-di-sostegno-valditara-55-814-i-confermati-oltre-9mila-in-piu-rispetto-allo-scorso-anno/",
+                "date": "16 Set 2026",
+                "time": "15:32",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/Screenshot-2026-04-16-alle-11.56.04.png"
+            },
+            {
+                "category": "Plus",
+                "title": "La Newsletter di “Gestire la scuola”: ore 8 e 30 del mattino nella tua e-mail le notizie utili a Dirigenti, collaboratori del DS, DSGA e segreterie",
+                "link": "https://www.orizzontescuola.it/la-newsletter-plus-ore-8-del-mattino-nella-tua-e-mail-lo-strumento-di-lavoro-per-chi-gestisce-la-scuola/",
+                "date": "16 Set 2026",
+                "time": "15:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/Newsletter-.png"
+            },
             {
                 "category": "Docenti",
                 "title": "Polizza sanitaria scuola, il personale di ruolo non deve rinnovare l’adesione ogni anno. Pillole di Question Time",
@@ -40,14 +204,7 @@
                 "time": "14:59",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_341870168-scaled.jpg"
             },
-            {
-                "category": "Cronaca",
-                "title": "Scuole chiuse giovedì 17 settembre in Liguria per allerta meteo: l’elenco dei comuni [IN AGGIORNAMENTO]",
-                "link": "https://www.orizzontescuola.it/scuole-chiuse-mercoledi-17-settembre-in-liguria-per-allerta-meteo-lelenco-dei-comuni-in-aggiornamento/",
-                "date": "16 Set 2026",
-                "time": "14:50",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/02/Allerta_Meteo.png"
-            },
+            null,
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze 2026, su sostegno alla primaria è (ancora) emergenza. Si cercano anche 11 -12 insegnanti con un unico Interpello",
@@ -63,14 +220,6 @@
                 "date": "16 Set 2026",
                 "time": "14:14",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1937300755.jpg"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Concorso docenti, modifica tabella titoli: ecco cosa è previsto nella bozza di decreto. SPECIALE con Cozzetto (ANIEF) LIVE Mercoledì 16 settembre alle 17:00",
-                "link": "https://www.orizzontescuola.it/concorso-docenti-modifica-tabella-titoli-ecco-cosa-e-previsto-nella-bozza-di-decreto-speciale-con-cozzetto-anief-live-mercoledi-16-settembre-alle-1700/",
-                "date": "16 Set 2026",
-                "time": "13:38",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/09/Template_dentroilpalazzo_1920x1080-1.png"
             },
             {
                 "category": "ATA",
@@ -146,130 +295,66 @@
             }
         ]
     },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti da Interpello, priorità agli abilitati e specializzati. Può contare anche il servizio già svolto: bisogna indicarlo nella domanda. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-da-interpello-priorita-agli-abilitati-e-specializzati-puo-contare-anche-il-servizio-gia-svolto-bisogna-indicarlo-nella-domanda-pillole-di-question-time/",
-                "date": "16 Set 2026",
-                "time": "10:29",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/03/shutterstock_1218221881.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Se la supplenza da Interpello è al 30 giugno, non si può lasciare per una successiva nomina GPS. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/se-la-supplenza-da-interpello-e-al-30-giugno-non-si-puo-lasciare-per-una-successiva-nomina-gps-pillole-di-question-time/",
-                "date": "16 Set 2026",
-                "time": "10:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/05/shutterstock_255890362.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "“No al TFA sostegno, non lo userò come scorciatoia”. Le reazioni del mondo scuola",
-                "link": "https://www.orizzontescuola.it/no-al-tfa-sostegno-non-lo-usero-come-scorciatoia-le-reazioni-del-mondo-scuola/",
-                "date": "16 Set 2026",
-                "time": "9:03",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2487342921-scaled.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Polizza sanitaria scuola, per i familiari previste agevolazioni ma non la stessa copertura. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/polizza-sanitaria-scuola-per-i-familiari-previste-agevolazioni-ma-non-la-stessa-copertura-pillole-di-question-time/",
-                "date": "16 Set 2026",
-                "time": "9:03",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/10/shutterstock_2120452949.jpg"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "Interpelli per docenti e ATA: scarica modello avviso e regolamento per la gestione delle supplenze",
-                "link": "https://www.orizzontescuola.it/interpelli-per-docenti-e-ata-scarica-modello-avviso-e-regolamento-per-la-gestione-delle-supplenze/",
-                "date": "16 Set 2026",
-                "time": "9:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/09/Interpelli_plus.png"
-            },
-            {
-                "category": "Guide",
-                "title": "Quali attività del docente sono obbligatorie e quali facoltative? La scheda",
-                "link": "https://www.orizzontescuola.it/quali-attivita-del-docente-sono-obbligatorie-e-quali-alternative-la-scheda/",
-                "date": "16 Set 2026",
-                "time": "8:32",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/01/shutterstock_388659994.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Polizza sanitaria scuola, si può aderire anche se si possiede già un’altra assicurazione privata. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/polizza-sanitaria-scuola-si-puo-aderire-anche-se-si-possiede-gia-unaltra-assicurazione-privata-pillole-di-question-time/",
-                "date": "16 Set 2026",
-                "time": "8:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_1551816320.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Assunto in ruolo per la seconda volta: l’anno di prova già superato, va ripetuto? Il Punto dell’avvocato De Martino",
-                "link": "https://www.orizzontescuola.it/assunto-in-ruolo-per-la-seconda-volta-lanno-di-prova-gia-superato-va-ripetuto-il-punto-dellavvocato-de-martino/",
-                "date": "16 Set 2026",
-                "time": "8:20",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2583566281.jpg"
-            },
-            {
-                "category": "Gestire la scuola",
-                "title": "L’affidamento diretto nel Codice dei Contratti Pubblici, D. Lgs. 36 del 31 marzo 2023",
-                "link": "https://www.orizzontescuola.it/laffidamento-diretto-nel-codice-dei-contratti-pubblici-d-lgs-36-del-31-marzo-2023/",
-                "date": "16 Set 2026",
-                "time": "8:07",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/11/shutterstock_1602677635.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "EU KIDS Act, ecco come cambia internet per i minori: stop agli account sotto i 15 anni. Obblighi, scadenze e poteri di Bruxelles. BOZZA",
-                "link": "https://www.orizzontescuola.it/eu-kids-act-ecco-come-cambia-internet-per-i-minori-stop-agli-account-sotto-i-15-anni-obblighi-scadenze-e-poteri-di-bruxelles-bozza/",
-                "date": "16 Set 2026",
-                "time": "7:58",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2626862511.jpg"
-            },
-            null,
-            null,
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Come compilare il PEI senza errori, tutti i passaggi spiegati. QUESTION TIME con Miceli e Chiocca. LIVE Mercoledì 16 settembre alle 15:45",
-                "link": "https://www.orizzontescuola.it/come-compilare-il-pei-senza-errori-tutti-i-passaggi-spiegati-question-time-con-miceli-e-chiocca-live-mercoledi-16-settembre-alle-1630/",
-                "date": "16 Set 2026",
-                "time": "7:39",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/09/Template_questiontime_1920x1080-5.png"
-            },
-            null,
-            null,
-            {
-                "category": "ATA",
-                "title": "Assicurazione sanitaria docenti e ATA, adesioni senza costi entro il 20 settembre. Aggiornate FAQ su contratti a tempo determinato",
-                "link": "https://www.orizzontescuola.it/polizza-sanitaria-docenti-e-ata-via-alle-adesioni-chi-puo-averla-come-fare-domanda-e-quando-parte-la-copertura-faq-e-guida/",
-                "date": "15 Set 2026",
-                "time": "22:14",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1785502850-scaled.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Polizza sanitaria scuola, adesione gratuita ma alcune prestazioni prevedono franchigie o scoperti. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/polizza-sanitaria-scuola-adesione-gratuita-ma-alcune-prestazioni-prevedono-franchigie-o-scoperti-pillole-di-question-time/",
-                "date": "15 Set 2026",
-                "time": "22:03",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/assicurazione_sanitaria.png"
-            },
-            {
-                "category": "ATA",
-                "title": "Supplenze ATA 2026-27, 700 incarichi aggiuntivi da assistente amministrativo. Valditara firma decreto: 19 milioni di euro alle Regioni",
-                "link": "https://www.orizzontescuola.it/supplenze-ata-2026-27-700-incarichi-aggiuntivi-da-assistente-amministrativo-valditara-firma-decreto-che-stanzia-19-milioni/",
-                "date": "15 Set 2026",
-                "time": "19:02",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1618026661-scaled.jpg"
-            }
-        ]
-    },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            {
+                "category": "Cronaca",
+                "title": "Cittadinanza, il M5S sfida la Lega: “Riproponiamo lo Ius Scholae, la scuola è il vero motore dell’integrazione”",
+                "link": "https://www.orizzontescuola.it/cittadinanza-il-m5s-sfida-la-lega-riproponiamo-lo-ius-scholae-la-scuola-e-il-vero-motore-dellintegrazione/",
+                "date": "16 Set 2026",
+                "time": "20:33",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Intossicazione nelle scuole, 89 casi e 14 bimbi ricoverati: nei pazienti spunta la salmonella",
+                "link": "https://www.orizzontescuola.it/intossicazione-nelle-scuole-89-casi-e-14-bimbi-ricoverati-nei-pazienti-spunta-la-salmonella/",
+                "date": "16 Set 2026",
+                "time": "19:30",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Sasso (FnV): “Subito un tetto agli stranieri in classe, stop all’islamizzazione delle scuole”",
+                "link": "https://www.orizzontescuola.it/sasso-fnv-subito-un-tetto-agli-stranieri-in-classe-stop-allislamizzazione-delle-scuole/",
+                "date": "16 Set 2026",
+                "time": "18:13",
+                "image_link": "N/A"
+            },
+            null,
+            {
+                "category": "Cronaca",
+                "title": "Bollo auto e moto addio nel 2027: esenzione fino a 80 kW, ecco chi non pagherà e quali modelli rientrano",
+                "link": "https://www.orizzontescuola.it/bollo-auto-e-moto-addio-nel-2027-esenzione-fino-a-80-kw-ecco-chi-non-paghera/",
+                "date": "16 Set 2026",
+                "time": "17:57",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Concorsi docenti, Pittoni: “Non ci saranno. In arrivo mini-concorsi per le graduatorie vuote”",
+                "link": "https://www.orizzontescuola.it/concorsi-docenti-pittoni-non-ci-saranno-in-arrivo-mini-concorsi-per-le-graduatorie-vuote/",
+                "date": "16 Set 2026",
+                "time": "17:20",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Supplenze ATA post dimensionamento, escluse Emilia-Romagna, Umbria, Sardegna e Toscana. FLC CGIL: “Bullismo di Stato”",
+                "link": "https://www.orizzontescuola.it/supplenze-ata-post-dimensionamento-escluse-emilia-romagna-umbria-sardegna-e-toscana-flc-cgil-bullismo-di-stato/",
+                "date": "16 Set 2026",
+                "time": "15:38",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Scuola in Lombardia, la denuncia della Flc Cgil: “Ci si basa su numeri e propaganda, non sui reali fabbisogni”",
+                "link": "https://www.orizzontescuola.it/scuola-in-lombardia-la-denuncia-della-flc-cgil-ci-si-basa-su-numeri-e-propaganda-non-sui-reali-fabbisogni/",
+                "date": "16 Set 2026",
+                "time": "15:27",
+                "image_link": "N/A"
+            },
             {
                 "category": "ATA",
                 "title": "Supplenza ATA Operatore Addetto ai Servizi Agrari, 2 posti fino al 30 giugno. Come candidarsi",
@@ -327,6 +412,14 @@
                 "image_link": "N/A"
             },
             {
+                "category": "Chiedilo a Lalla",
+                "title": "Concorso docenti, modifica tabella titoli: ecco cosa è previsto nella bozza di decreto. SPECIALE con Cozzetto (ANIEF)",
+                "link": "https://www.orizzontescuola.it/concorso-docenti-modifica-tabella-titoli-ecco-cosa-e-previsto-nella-bozza-di-decreto-speciale-con-cozzetto-anief-live-mercoledi-16-settembre-alle-1700/",
+                "date": "16 Set 2026",
+                "time": "13:38",
+                "image_link": "N/A"
+            },
+            {
                 "category": "Studenti",
                 "title": "Università italiane, la Federico II di Napoli al sesto posto mondiale in Farmacia. La classifica Shanghai Ranking",
                 "link": "https://www.orizzontescuola.it/universita-italiane-la-federico-ii-di-napoli-al-sesto-posto-mondiale-in-farmacia-la-classifica-shanghai-ranking/",
@@ -336,82 +429,10 @@
             },
             {
                 "category": "Cronaca",
-                "title": "Violenza a scuola, aggredito da compagno in classe, 12enne perde i sensi e va in ospedale",
+                "title": "Afferra il compagno da dietro mentre è chino a terra e lo fa cadere: uno scherzo finito male, non un’aggressione. La precisazione della scuola",
                 "link": "https://www.orizzontescuola.it/violenza-a-scuola-aggredito-da-compagno-in-classe-12enne-perde-i-sensi-e-va-in-ospedale/",
                 "date": "16 Set 2026",
                 "time": "13:09",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Genitori",
-                "title": "Borse di studio INPS Supermedia 2026, 14.787 contributi fino a 1.300 euro: domande dal 22 settembre al 13 ottobre. Il bando",
-                "link": "https://www.orizzontescuola.it/borse-di-studio-inps-supermedia-2026-14-787-contributi-fino-a-1-300-euro-domande-dal-22-settembre-al-13-ottobre-il-bando/",
-                "date": "16 Set 2026",
-                "time": "12:58",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "Juvenes Translatores 2026/27, concorso europeo di traduzione per le scuole: iscrizioni entro il 14 ottobre, prova il 26 novembre",
-                "link": "https://www.orizzontescuola.it/juvenes-translatores-2026-27-concorso-europeo-di-traduzione-per-le-scuole-iscrizioni-entro-il-14-ottobre-prova-il-26-novembre/",
-                "date": "16 Set 2026",
-                "time": "12:48",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Violenza sulle donne, Istat: una su sette l’ha subita da bambina. Tre milioni le italiane vittime prima dei 16 anni",
-                "link": "https://www.orizzontescuola.it/violenza-sulle-donne-istat-una-su-sette-lha-subita-da-bambina-tre-milioni-le-italiane-vittime-prima-dei-16-anni/",
-                "date": "16 Set 2026",
-                "time": "12:39",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Von der Leyen: “Basta dipendenza, i bambini sotto i 13 anni fuori da social, videogiochi e chatbot”",
-                "link": "https://www.orizzontescuola.it/von-der-leyen-basta-dipendenza-i-bambini-sotto-i-13-anni-fuori-da-social-videogiochi-e-chatbot/",
-                "date": "16 Set 2026",
-                "time": "12:21",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Reggio Calabria, genitori bloccati a scuola per l’abbigliamento: il garante difende l’istituto e annuncia un vademecum",
-                "link": "https://www.orizzontescuola.it/reggio-calabria-genitori-bloccati-a-scuola-per-labbigliamento-il-garante-difende-listituto-e-annuncia-un-vademecum/",
-                "date": "16 Set 2026",
-                "time": "11:55",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Esami di recupero, scoppia il caso in una scuola dopo un falso comunicato: “troppi bocciati”, ma l’istituto smentisce",
-                "link": "https://www.orizzontescuola.it/esami-di-recupero-scoppia-il-caso-in-una-scuola-dopo-un-falso-comunicato-troppi-bocciati-ma-listituto-smentisce/",
-                "date": "16 Set 2026",
-                "time": "11:52",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Violenza di genere, Cecchettin: “Gli esperti spiegano che il principale deterrente è la formazione dei giovani anche nei primissimi anni di età”",
-                "link": "https://www.orizzontescuola.it/violenza-di-genere-cecchettin-gli-esperti-spiegano-che-il-principale-deterrente-e-la-formazione-dei-giovani-anche-nei-primissimi-anni-di-eta/",
-                "date": "16 Set 2026",
-                "time": "11:41",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "Docenti fuorisede da 15-20 anni, il CNDDU a Valditara: “Serve un piano di rientro”",
-                "link": "https://www.orizzontescuola.it/docenti-fuorisede-da-15-20-anni-il-cnddu-a-valditara-serve-un-piano-di-rientro/",
-                "date": "16 Set 2026",
-                "time": "10:33",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Scuole in Sicilia e denatalità, CNDDU: “Utilizzare la prevedibilità demografica per redistribuire con maggiore efficienza le risorse”",
-                "link": "https://www.orizzontescuola.it/scuole-in-sicilia-e-denatalita-cnddu-utilizzare-la-prevedibilita-demografica-per-redistribuire-con-maggiore-efficienza-le-risorse/",
-                "date": "16 Set 2026",
-                "time": "10:06",
                 "image_link": "N/A"
             }
         ]
@@ -419,6 +440,14 @@
     "group_5": {
         "title": "Chiedilo a Lalla",
         "articles": [
+            {
+                "category": "Chiedilo a Lalla",
+                "title": "Come compilare il PEI senza errori, tutti i passaggi spiegati. QUESTION TIME con Miceli e Chiocca. LIVE Mercoledì 16 settembre alle 15:45",
+                "link": "https://www.orizzontescuola.it/come-compilare-il-pei-senza-errori-tutti-i-passaggi-spiegati-question-time-con-miceli-e-chiocca-live-mercoledi-16-settembre-alle-1630/",
+                "date": "16 Set 2026",
+                "time": "7:39",
+                "image_link": "N/A"
+            },
             {
                 "category": "Chiedilo a Lalla",
                 "title": "La scuola dei precari: tre storie vere, mille difficoltà. Venerdì 18 settembre diretta con Bucalo, Pacifico e Barbacci",
@@ -522,20 +551,36 @@
                 "date": "14 Ago 2026",
                 "time": "17:31",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Chiedilo a Lalla",
-                "title": "Assegnazioni provvisorie docenti 2026/27: come funziona la precedenza del grado di titolarità rispetto ad altri gradi",
-                "link": "https://www.orizzontescuola.it/assegnazioni-provvisorie-docenti-2026-27-come-funziona-la-precedenza-del-grado-di-titolarita-rispetto-ad-altri-gradi/",
-                "date": "4 Ago 2026",
-                "time": "17:32",
-                "image_link": "N/A"
             }
         ]
     },
     "group_6": {
         "title": "Diventare Insegnanti",
         "articles": [
+            {
+                "category": "Diventare Insegnanti",
+                "title": "“No al TFA sostegno, non lo userò come scorciatoia”. Le reazioni del mondo scuola",
+                "link": "https://www.orizzontescuola.it/no-al-tfa-sostegno-non-lo-usero-come-scorciatoia-le-reazioni-del-mondo-scuola/",
+                "date": "16 Set 2026",
+                "time": "9:03",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2487342921-scaled.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Assunto in ruolo per la seconda volta: l’anno di prova già superato, va ripetuto? Il Punto dell’avvocato De Martino",
+                "link": "https://www.orizzontescuola.it/assunto-in-ruolo-per-la-seconda-volta-lanno-di-prova-gia-superato-va-ripetuto-il-punto-dellavvocato-de-martino/",
+                "date": "16 Set 2026",
+                "time": "8:20",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2583566281.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Assicurazione sanitaria docenti e ATA, adesioni senza costi entro il 20 settembre. Aggiornate FAQ su contratti a tempo determinato",
+                "link": "https://www.orizzontescuola.it/polizza-sanitaria-docenti-e-ata-via-alle-adesioni-chi-puo-averla-come-fare-domanda-e-quando-parte-la-copertura-faq-e-guida/",
+                "date": "15 Set 2026",
+                "time": "22:14",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1785502850-scaled.jpg"
+            },
             {
                 "category": "Diventare Insegnanti",
                 "title": "Bollettini supplenze, data nuovo turno GPS non si conosce in anticipo ma chi accetta da GI o interpello non sempre può lasciare. Pillole di Question Time",
@@ -559,36 +604,28 @@
                 "date": "15 Set 2026",
                 "time": "10:17",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/Pittoni.jpeg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2026/27: in corso il secondo turno, indicazioni per i posti orario e le nomine da graduatorie di istituto e gli interpelli",
-                "link": "https://www.orizzontescuola.it/supplenze-docenti-2026-ecco-come-funzionera-lalgoritmo-da-gps-e-la-nomina-dalle-graduatorie-di-istituto-lo-speciale/",
-                "date": "14 Set 2026",
-                "time": "9:28",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/06/mad-online-laureati-graduatorie-1.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze, scavalcato da colleghi con punteggi uguali. Si devono rispettare le preferenze espresse dall’aspirante. Sentenza",
-                "link": "https://www.orizzontescuola.it/supplenze-scavalcato-da-colleghi-con-punteggi-uguali-si-devono-rispettare-le-preferenze-espresse-dallaspirante-sentenza/",
-                "date": "14 Set 2026",
-                "time": "9:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2274347381.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze docenti 2026/27, tutto su: Graduatorie d’Istituto, interpelli e GPS. A cura di Giuseppe Semeraro",
-                "link": "https://www.orizzontescuola.it/supplenze-tutto-su-graduatorie-distituto-interpelli-e-gps-a-cura-di-giuseppe-semeraro/",
-                "date": "14 Set 2026",
-                "time": "8:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/09/Guida_supplenze.png"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
+            {
+                "category": "ATA",
+                "title": "Polizza sanitaria scuola, si può aderire anche se si possiede già un’altra assicurazione privata. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/polizza-sanitaria-scuola-si-puo-aderire-anche-se-si-possiede-gia-unaltra-assicurazione-privata-pillole-di-question-time/",
+                "date": "16 Set 2026",
+                "time": "8:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_1551816320.jpg"
+            },
+            {
+                "category": "ATA",
+                "title": "Polizza sanitaria gratuita per la scuola, al via le adesioni: come funziona, chi ne ha diritto e cosa copre. GUIDA",
+                "link": "https://www.orizzontescuola.it/polizza-sanitaria-gratuita-per-la-scuola-al-via-le-adesioni-come-funziona-chi-ne-ha-diritto-e-cosa-copre-guida/",
+                "date": "15 Set 2026",
+                "time": "18:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2557673781.jpg"
+            },
             {
                 "category": "ATA",
                 "title": "Malattia, certificato valido anche dal giorno precedente. INPS: esclusi sabato, domenica e festivi",
@@ -620,22 +657,6 @@
                 "date": "13 Set 2026",
                 "time": "16:59",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2006359358.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Assicurazione sanitaria scuola, prevista la prevenzione oncologica femminile. Rosano (ANIEF): “C’è un pacchetto dedicato alle donne”",
-                "link": "https://www.orizzontescuola.it/assicurazione-sanitaria-scuola-prevista-la-prevenzione-oncologica-femminile-rosano-anief-ce-un-pacchetto-dedicato-alle-donne/",
-                "date": "13 Set 2026",
-                "time": "8:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_1936000051.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Assicurazione sanitaria scuola, niente occhiali, fisioterapia e cure psicologiche. Rosano (ANIEF): ecco cosa non è coperto",
-                "link": "https://www.orizzontescuola.it/assicurazione-sanitaria-scuola-niente-occhiali-fisioterapia-e-cure-psicologiche-rosano-anief-ecco-cosa-non-e-coperto/",
-                "date": "12 Set 2026",
-                "time": "19:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/02/shutterstock_2154471629.jpg"
             }
         ]
     },
