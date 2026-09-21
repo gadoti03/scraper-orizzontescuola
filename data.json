@@ -24,6 +24,55 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "Politica scolastica",
+                "title": "Insegnanti di sostegno, 56mila confermati su richiesta delle famiglie. Valditara: “Stabilità per i nostri ragazzi”",
+                "link": "https://www.orizzontescuola.it/insegnanti-di-sostegno-56mila-confermati-su-richiesta-delle-famiglie-valditara-stabilita-per-i-nostri-ragazzi/",
+                "date": "21 Set 2026",
+                "time": "19:15",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/01/shutterstock_1029430381.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Mattarella: “Basta violenze contro gli insegnanti, non siano lasciati soli”. E attacca: “Troppi genitori si sottraggono al loro compito”",
+                "link": "https://www.orizzontescuola.it/mattarella-basta-violenze-contro-gli-insegnanti-e-attacca-troppi-genitori-si-sottraggono-al-loro-compito/",
+                "date": "21 Set 2026",
+                "time": "19:04",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2249049743.jpg"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Valditara: “Quest’anno sarà dedicato al rispetto, architrave della conoscenza”. E sugli alunni stranieri: “Senza lo studio della nostra lingua non c’è vera integrazione e successo scolastico”",
+                "link": "https://www.orizzontescuola.it/valditara-questanno-sara-dedicato-al-rispetto-architrave-della-conoscenza-la-scuola-insegna-a-rialzarsi-dopo-ogni-caduta/",
+                "date": "21 Set 2026",
+                "time": "18:40",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/10/Screenshot-2025-10-08-alle-17.21.22.png"
+            },
+            {
+                "category": "Guide",
+                "title": "Orario docenti: può essere previsto un esonero dalla prima ora per chi deve accompagnare i figli a scuola?",
+                "link": "https://www.orizzontescuola.it/orario-docenti-puo-essere-previsto-un-esonero-dalla-prima-ora-per-chi-deve-accompagnare-i-figli-a-scuola/",
+                "date": "21 Set 2026",
+                "time": "18:30",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/05/shutterstock_2339228197.jpg"
+            },
+            null,
+            {
+                "category": "Gestire la scuola",
+                "title": "La nomina dei referenti per educazione alla salute, INVALSI, dispersione e dipartimento matematica-scienze-tecnologia: i modelli da scaricare",
+                "link": "https://www.orizzontescuola.it/la-nomina-dei-referenti-per-educazione-alla-salute-invalsi-dispersione-e-dipartimento-matematica-scienze-tecnologia-i-modelli-da-scaricare-2/",
+                "date": "21 Set 2026",
+                "time": "17:10",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/09/referenti.png"
+            },
+            {
+                "category": "Scuole",
+                "title": "22 settembre: scade il termine per avviare i progetti di formazione per docenti e ATA",
+                "link": "https://www.orizzontescuola.it/22-settembre-scade-il-termine-per-avviare-i-progetti-di-formazione-per-docenti-e-ata/",
+                "date": "21 Set 2026",
+                "time": "17:03",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2695371901.jpg"
+            },
+            {
                 "category": "Genitori",
                 "title": "Giovani, in Italia si lascia la casa dei genitori a 30,2 anni: quasi quattro anni dopo la media Ue",
                 "link": "https://www.orizzontescuola.it/giovani-in-italia-si-lascia-la-casa-dei-genitori-a-302-anni-quasi-quattro-anni-dopo-la-media-ue/",
@@ -87,7 +136,12 @@
                 "date": "21 Set 2026",
                 "time": "13:39",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/Sottotitolo-2-1.png"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "ATA",
                 "title": "Docenti e ATA con partita IVA agricola, è compatibile con il lavoro a scuola? Funzione Pubblica: nessun divieto automatico, decide l’amministrazione caso per caso",
@@ -143,12 +197,7 @@
                 "date": "21 Set 2026",
                 "time": "11:14",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/09/shutterstock_1673822599.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Politica scolastica",
                 "title": "Disabilità grave a scuola, Sasso: “Nessuno ha parlato di classi differenziate, ma di ambienti di apprendimento alternativi. L’esempio di un istituto comprensivo di Genova”",
@@ -236,62 +285,6 @@
                 "date": "21 Set 2026",
                 "time": "7:54",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/09/Accesso_documentale.png"
-            },
-            {
-                "category": "Docenti",
-                "title": "Sostegno, il giudizio sanitario non determina automaticamente il numero di ore. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/sostegno-il-giudizio-sanitario-non-determina-automaticamente-il-numero-di-ore-pillole-di-question-time/",
-                "date": "20 Set 2026",
-                "time": "21:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_1006221601.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Insegnanti? “Spesso inascoltati, la mia solidarietà”. Così lo scrittore Fulvio Abbate a Orizzonte Scuola",
-                "link": "https://www.orizzontescuola.it/insegnanti-spesso-inascoltati-la-mia-solidarieta-lo-scrittore-fulvio-abbate-ad-orizzontescuola/",
-                "date": "20 Set 2026",
-                "time": "20:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/09/shutterstock_1955536717.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Prof accoltellata, i genitori del 13enne chiedono scusa: “Ci vergogniamo”. Indagini sul video social e su chi ha istigato il ragazzo",
-                "link": "https://www.orizzontescuola.it/prof-accoltellata-i-genitori-del-13enne-chiedono-scusa-ci-vergogniamo-indagini-sul-video-social-e-su-chi-ha-istigato-il-ragazzo/",
-                "date": "20 Set 2026",
-                "time": "19:59",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/shutterstock_1565791930.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Dopo l’annuncio di Meloni, cosa aspettarsi davvero: numero massimo di stranieri per classe, obbligo di italiano per i genitori e no al velo integrale. Scontro tra maggioranza e opposizioni",
-                "link": "https://www.orizzontescuola.it/tetto-agli-stranieri-in-classe-dopo-lannuncio-di-meloni-cosa-aspettarsi-davvero-le-misure-che-entreranno-in-vigore-e-quelle-che-resteranno-sulla-carta/",
-                "date": "20 Set 2026",
-                "time": "19:27",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/08/shutterstock_2322687871-scaled.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Pacifico (Anief): “Assunzioni su tutti i posti vacanti, doppio canale e parità retributiva per fermare il precariato”",
-                "link": "https://www.orizzontescuola.it/pacifico-anief-assunzioni-su-tutti-i-posti-vacanti-doppio-canale-e-parita-retributiva-per-fermare-il-precariato/",
-                "date": "20 Set 2026",
-                "time": "19:15",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/Marcello-Pacifico-7.png"
-            },
-            {
-                "category": "ATA",
-                "title": "Polizza sanitaria scuola, nessuna integrazione individuale prevista ma possibili tariffe agevolate. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/polizza-sanitaria-scuola-nessuna-integrazione-individuale-prevista-ma-possibili-tariffe-agevolate-pillole-di-question-time/",
-                "date": "20 Set 2026",
-                "time": "19:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2006359358.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Nuove tabelle titoli per i concorsi docenti, nessuna retroattività: il punto sulle nuove tabelle dei titoli",
-                "link": "https://www.orizzontescuola.it/nuove-tabelle-titoli-per-i-concorsi-docenti-nessuna-retroattivita-il-punto-sulle-nuove-tabelle-dei-titoli/",
-                "date": "20 Set 2026",
-                "time": "18:46",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/09/shutterstock_2339228251.jpg"
             }
         ]
     },
@@ -299,147 +292,147 @@
         "title": "In Breve",
         "articles": [
             {
+                "category": "Docenti",
+                "title": "Ambasciatori di Privacy e Sicurezza Informatica, al via il percorso gratuito per scuole, studenti, docenti e famiglie",
+                "link": "https://www.orizzontescuola.it/ambasciatori-di-privacy-e-sicurezza-informatica-al-via-il-percorso-gratuito-per-scuole-studenti-docenti-e-famiglie/",
+                "date": "21 Set 2026",
+                "time": "21:27",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Docenti",
+                "title": "La nascita della Repubblica raccontata a Montecitorio: mostra gratuita sul 1946 e sull’Assemblea Costituente",
+                "link": "https://www.orizzontescuola.it/la-nascita-della-repubblica-raccontata-a-montecitorio-mostra-gratuita-sul-1946-e-sullassemblea-costituente/",
+                "date": "21 Set 2026",
+                "time": "21:11",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Scuole",
+                "title": "Edilizia scolastica, 114,5 milioni dall’8 per mille statale: fino a 1 milione per intervento. Priorità a sisma, crolli, amianto e scuole inagibili",
+                "link": "https://www.orizzontescuola.it/edilizia-scolastica-1145-milioni-dall8-per-mille-statale-fino-a-1-milione-per-intervento-priorita-a-sisma-crolli-amianto-e-scuole-inagibili/",
+                "date": "21 Set 2026",
+                "time": "20:55",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Frassinetti: “Da Amatrice un messaggio di memoria e fiducia ai giovani. La scuola centrale nella rinascita”",
+                "link": "https://www.orizzontescuola.it/frassinetti-da-amatrice-un-messaggio-di-memoria-e-fiducia-ai-giovani-la-scuola-centrale-nella-rinascita/",
+                "date": "21 Set 2026",
+                "time": "19:57",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Politica scolastica",
+                "title": "Tajani: “Integrazione sì, ma non perdiamo l’identità nazionale”. Poi si scusa sulla frase riguardo alle donne: “Fraintese mie parole, mi spiace”",
+                "link": "https://www.orizzontescuola.it/tajani-integrazione-si-ma-non-perdiamo-lidentita-nazionale-poi-si-scusa-sulla-frase-riguardo-alle-donne-fraintese-mie-parole-mi-spiace/",
+                "date": "21 Set 2026",
+                "time": "19:20",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Mattarella: “La scuola non deve formare ghetti”. E sui cellulari: “Pensare, non rassegnarsi all’algoritmo. Macchine sempre più intelligenti hanno bisogno di persone ricche di valori”",
+                "link": "https://www.orizzontescuola.it/mattarella-la-scuola-non-deve-formare-ghetti-e-sui-cellulari-pensare-non-rassegnarsi-allalgoritmo-macchine-sempre-piu-intelligenti-hanno-bisogno-di-persone-ricche-di-valori/",
+                "date": "21 Set 2026",
+                "time": "19:17",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Claudio Ranieri: “Scuola e calcio sono un tutt’uno”. E lancia l’idea di scuole calcio più economiche: “Non siano un peso per le famiglie”",
+                "link": "https://www.orizzontescuola.it/claudio-ranieri-scuola-e-calcio-sono-un-tuttuno-e-lancia-lidea-di-scuole-calcio-piu-economiche-non-siano-un-peso-per-le-famiglie/",
+                "date": "21 Set 2026",
+                "time": "18:51",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "“L’intelligenza artificiale non sostituirà mai un insegnante”, le parole di Mattarella da Amatrice: “Faticoso ma utile imparare poesie a memoria, aiuta a pensare”",
+                "link": "https://www.orizzontescuola.it/lintelligenza-artificiale-non-sostituira-mai-un-insegnante-le-parole-di-mattarella-da-amatrice-faticoso-ma-utile-imparare-poesie-a-memoria-aiuta-a-pensare/",
+                "date": "21 Set 2026",
+                "time": "17:55",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Il maestro come allenatore dei talenti, la lezione di Alberto Angela da Amatrice: “I maestri capiscono per cosa sei fatto”",
+                "link": "https://www.orizzontescuola.it/il-maestro-come-allenatore-dei-talenti-la-lezione-di-alberto-angela-da-amatrice-i-maestri-capiscono-per-cosa-sei-fatto/",
+                "date": "21 Set 2026",
+                "time": "17:52",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Studenti",
+                "title": "Alloggi universitari, il Ministero lancia la mappa digitale: online il nuovo portale per studenti e famiglie",
+                "link": "https://www.orizzontescuola.it/alloggi-universitari-il-ministero-lancia-la-mappa-digitale-online-il-nuovo-portale-per-studenti-e-famiglie/",
+                "date": "21 Set 2026",
+                "time": "17:49",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Tutti a scuola, Mattarella: “La cultura è un vaccino contro le scelte sbagliate. Certe fatiche di scuola non vanno sprecate”",
+                "link": "https://www.orizzontescuola.it/tutti-a-scuola-mattarella-la-cultura-e-un-vaccino-contro-le-scelte-sbagliate-certe-fatiche-di-scuola-non-vanno-sprecate/",
+                "date": "21 Set 2026",
+                "time": "17:47",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Giovani e smartphone, Crepet: “Mi aspetterei un po’ più di coraggio, perché se una cosa abbiamo capito che fa male, non si fa”",
+                "link": "https://www.orizzontescuola.it/giovani-e-smartphone-crepet-mi-aspetterei-un-po-piu-di-coraggio-perche-se-una-cosa-abbiamo-capito-che-fa-male-non-si-fa/",
+                "date": "21 Set 2026",
+                "time": "17:40",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Immissioni in ruolo docenti 2026, scattano le nomine giuridiche in Piemonte",
+                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2026-scattano-le-nomine-giuridiche-in-piemonte/",
+                "date": "21 Set 2026",
+                "time": "17:31",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Tutti a scuola, Luisa Ranieri: “La scuola è il posto dove investire, non bastano gli eroi del quotidiano”",
+                "link": "https://www.orizzontescuola.it/inizio-scuola-luisa-ranieri-la-scuola-e-il-posto-dove-investire-non-bastano-gli-eroi-del-quotidiano/",
+                "date": "21 Set 2026",
+                "time": "17:25",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Burqa, niqab e chador: cosa sono e cosa ha intenzione di fare il governo a scuola",
+                "link": "https://www.orizzontescuola.it/burqa-niqab-e-chador-cosa-sono-e-cosa-ha-intenzione-di-fare-il-governo-a-scuola/",
+                "date": "21 Set 2026",
+                "time": "17:17",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Divieto di niqab e burqa a scuola, l’Imam di Roma fa chiarezza: “Non sono precetti coranici, la tradizione raccomanda il modello mariano”",
+                "link": "https://www.orizzontescuola.it/divieto-di-niqab-e-burqa-a-scuola-limam-di-roma-fa-chiarezza-non-sono-precetti-coranici-la-tradizione-raccomanda-il-modello-mariano/",
+                "date": "21 Set 2026",
+                "time": "17:16",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Lo studente congolese che ha salvato la docente dall’accoltellamento torna in classe. Chi è?",
+                "link": "https://www.orizzontescuola.it/lo-studente-congolese-che-ha-salvato-la-docente-dallaccoltellamento-torna-in-classe-chi-e/",
+                "date": "21 Set 2026",
+                "time": "17:10",
+                "image_link": "N/A"
+            },
+            {
                 "category": "Cronaca",
                 "title": "Inclusione a scuola, il richiamo del cardinale Zuppi: “Nessuno si senta escluso, è il più potente strumento di giustizia e pace”",
                 "link": "https://www.orizzontescuola.it/inclusione-a-scuola-il-richiamo-del-cardinale-zuppi-nessuno-si-senta-escluso-e-il-piu-potente-strumento-di-giustizia-e-pace/",
                 "date": "21 Set 2026",
                 "time": "16:47",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "La prof accoltellata rompe il silenzio: “Al ragazzo dico di cercarmi, troverà solo conforto”. A Centocelle ripartono le lezioni tra psicologi e l’applauso al compagno eroe",
-                "link": "https://www.orizzontescuola.it/la-prof-accoltellata-rompe-il-silenzio-al-ragazzo-dico-di-cercarmi-trovera-solo-conforto-a-centocelle-ripartono-le-lezioni-tra-psicologi-e-lapplauso-al-compagno-eroe/",
-                "date": "21 Set 2026",
-                "time": "16:30",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Scuola, il governo prepara la stretta: tetto agli stranieri in classe, italiano obbligatorio per i genitori e stop a burqa e niqab. Giovedì il via libera?",
-                "link": "https://www.orizzontescuola.it/scuola-il-governo-prepara-la-stretta-tetto-agli-stranieri-in-classe-italiano-obbligatorio-per-i-genitori-e-stop-a-burqa-e-niqab-giovedi-il-via-libera/",
-                "date": "21 Set 2026",
-                "time": "16:18",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Social network bloccati nelle scuole italiane, Facebook primo davanti a Instagram e TikTok",
-                "link": "https://www.orizzontescuola.it/social-network-bloccati-nelle-scuole-italiane-facebook-primo-davanti-a-instagram-e-tiktok/",
-                "date": "21 Set 2026",
-                "time": "16:08",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Numero massimo di alunni stranieri, la risposta di alcuni presidi: “Sono soltanto bambini che vogliamo crescano bene. Serve dare più risorse”",
-                "link": "https://www.orizzontescuola.it/numero-massimo-di-alunni-stranieri-la-risposta-di-alcuni-presidi-sono-soltanto-bambini-che-vogliamo-crescano-bene-serve-dare-piu-risorse/",
-                "date": "21 Set 2026",
-                "time": "16:03",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Immissioni in ruolo docenti 2026, nuova convocazione in Sicilia per surroga. Ecco i posti residui",
-                "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2026-nuova-convocazione-in-sicilia-per-surroga-ecco-i-posti-residui/",
-                "date": "21 Set 2026",
-                "time": "15:54",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "Accoltellato da un alunno? Prima la responsabilità, poi l’abbraccio. Il pedagogista: “Comprendere non significa giustificare”",
-                "link": "https://www.orizzontescuola.it/accoltellato-da-un-alunno-prima-la-responsabilita-poi-labbraccio-il-pedagogista-comprendere-non-significa-giustificare/",
-                "date": "21 Set 2026",
-                "time": "15:21",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Tetto agli alunni stranieri, la UIL Scuola frena: “Servono organici e risorse, la scuola non ha bisogno di nuovi muri”",
-                "link": "https://www.orizzontescuola.it/tetto-agli-alunni-stranieri-la-uil-scuola-frena-servono-organici-e-risorse-la-scuola-non-ha-bisogno-di-nuovi-muri/",
-                "date": "21 Set 2026",
-                "time": "15:07",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Il pedagogista è la bussola che serve alla scuola",
-                "link": "https://www.orizzontescuola.it/il-pedagogista-e-la-bussola-che-serve-alla-scuola/",
-                "date": "21 Set 2026",
-                "time": "14:14",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Nidi e scuole dell’infanzia climatizzati entro il 2028: a Bologna parte il piano per proteggere i bimbi dal caldo",
-                "link": "https://www.orizzontescuola.it/nidi-e-scuole-dellinfanzia-climatizzati-entro-il-2028-a-bologna-parte-il-piano-per-proteggere-i-bimbi-dal-caldo/",
-                "date": "21 Set 2026",
-                "time": "13:57",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "La Russa: “Troppi stranieri in classe rallentano chi impara”",
-                "link": "https://www.orizzontescuola.it/la-russa-troppi-stranieri-in-classe-rallentano-chi-impara/",
-                "date": "21 Set 2026",
-                "time": "13:34",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "Giornata della Pace oggi 21 settembre, al Ministero la mostra “Educare alla pace”: scuola luogo di dialogo e convivenza",
-                "link": "https://www.orizzontescuola.it/giornata-della-pace-oggi-21-settembre-al-ministero-la-mostra-educare-alla-pace-scuola-luogo-di-dialogo-e-convivenza/",
-                "date": "21 Set 2026",
-                "time": "13:03",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Comunicati stampa",
-                "title": "Pacifico (Anief): “Il 42% edifici scolastici italiani rimane ad alto-medio rischio sismico, servono tempi certi per attuare gli adeguamenti”",
-                "link": "https://www.orizzontescuola.it/pacifico-anief-il-42-edifici-scolastici-italiani-rimane-ad-alto-medio-rischio-sismico-servono-tempi-certi-per-attuare-gli-adeguamenti/",
-                "date": "21 Set 2026",
-                "time": "12:56",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Carta Dedicata a Te 2026, 1000 euro a 1,1 milioni di famiglie: domande e requisiti",
-                "link": "https://www.orizzontescuola.it/carta-dedicata-a-te-2026-1000-euro-a-11-milioni-di-famiglie-domande-e-requisiti/",
-                "date": "21 Set 2026",
-                "time": "12:42",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Cronaca",
-                "title": "Madre in India vince una corsa a piedi nudi per pagare i libri alla figlia: “Finché sarò in vita, devo fare tutto il possibile per garantire alle mie figlie una buona istruzione”",
-                "link": "https://www.orizzontescuola.it/madre-in-india-vince-una-corsa-a-piedi-nudi-per-pagare-i-libri-alla-figlia-finche-saro-in-vita-devo-fare-tutto-il-possibile-per-garantire-alle-mie-figlie-una-buona-istruzione/",
-                "date": "21 Set 2026",
-                "time": "12:04",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "Docenti e IA, per cosa la usano davvero? Il 29% prepara test e verifiche, lezioni al 24%. L’indagine",
-                "link": "https://www.orizzontescuola.it/docenti-e-ia-per-cosa-la-usano-davvero-il-29-prepara-test-e-verifiche-lezioni-al-24-lindagine/",
-                "date": "21 Set 2026",
-                "time": "11:38",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Alunni stranieri a scuola, la politica si spacca: cosa dicono La Russa, Boccia e Calenda",
-                "link": "https://www.orizzontescuola.it/alunni-stranieri-a-scuola-la-politica-si-spacca-cosa-dicono-la-russa-boccia-e-calenda/",
-                "date": "21 Set 2026",
-                "time": "11:27",
-                "image_link": "N/A"
-            },
-            {
-                "category": "Docenti",
-                "title": "Solitudine giovanile, Galiano: “Quando vogliamo aprire gli occhi? Dobbiamo guardare i ragazzi negli occhi un secondo in più”",
-                "link": "https://www.orizzontescuola.it/solitudine-giovanile-galiano-quando-vogliamo-aprire-gli-occhi-dobbiamo-guardare-i-ragazzi-negli-occhi-un-secondo-in-piu/",
-                "date": "21 Set 2026",
-                "time": "11:12",
                 "image_link": "N/A"
             }
         ]
@@ -566,6 +559,22 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Nuove tabelle titoli per i concorsi docenti, nessuna retroattività: il punto sulle nuove tabelle dei titoli",
+                "link": "https://www.orizzontescuola.it/nuove-tabelle-titoli-per-i-concorsi-docenti-nessuna-retroattivita-il-punto-sulle-nuove-tabelle-dei-titoli/",
+                "date": "20 Set 2026",
+                "time": "18:46",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/09/shutterstock_2339228251.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Doppio canale di reclutamento, al momento nessuna nuova misura definitiva: resta il confronto sulle GPS. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/doppio-canale-di-reclutamento-al-momento-nessuna-nuova-misura-definitiva-resta-il-confronto-sulle-gps-pillole-di-question-time/",
+                "date": "20 Set 2026",
+                "time": "17:13",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/04/shutterstock_2639435105.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Concorsi PNRR, l’inserimento di tutti gli idonei nelle graduatorie richiede una modifica legislativa. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/concorsi-pnrr-linserimento-di-tutti-gli-idonei-nelle-graduatorie-richiede-una-modifica-legislativa-pillole-di-question-time/",
                 "date": "20 Set 2026",
@@ -595,28 +604,20 @@
                 "date": "19 Set 2026",
                 "time": "15:07",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/05/shutterstock_2226530989.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "“No al sostegno come scorciatoia”, la voce dei futuri docenti contro la rincorsa ai titoli",
-                "link": "https://www.orizzontescuola.it/no-al-sostegno-come-scorciatoia-la-voce-dei-futuri-docenti-contro-la-rincorsa-ai-titoli/",
-                "date": "19 Set 2026",
-                "time": "13:34",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/03/shutterstock_2427629003.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze, un incarico temporaneo si può lasciare solo per un contratto al 30 giugno o 31 agosto. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/supplenze-un-incarico-temporaneo-si-puo-lasciare-solo-per-un-contratto-al-30-giugno-o-31-agosto-pillole-di-question-time/",
-                "date": "19 Set 2026",
-                "time": "12:36",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_1129962923-scaled.jpg"
             }
         ]
     },
     "group_7": {
         "title": "Notizie ATA",
         "articles": [
+            {
+                "category": "ATA",
+                "title": "Polizza sanitaria scuola, nessuna integrazione individuale prevista ma possibili tariffe agevolate. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/polizza-sanitaria-scuola-nessuna-integrazione-individuale-prevista-ma-possibili-tariffe-agevolate-pillole-di-question-time/",
+                "date": "20 Set 2026",
+                "time": "19:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/10/shutterstock_2006359358.jpg"
+            },
             {
                 "category": "ATA",
                 "title": "Polizza sanitaria gratuita per docenti e ATA, ultimo giorno per aderire: le info utili",
@@ -656,14 +657,6 @@
                 "date": "18 Set 2026",
                 "time": "13:18",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_2485976185.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Polizza sanitaria scuola, contratto non registrato su NoiPA: chiesta proroga ma consigliata una PEC alla scuola. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/polizza-sanitaria-scuola-contratto-non-registrato-su-noipa-possibile-proroga-e-consigliata-una-pec-alla-scuola-pillole-di-question-time/",
-                "date": "17 Set 2026",
-                "time": "18:18",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/10/shutterstock_592435025.jpg"
             }
         ]
     },
