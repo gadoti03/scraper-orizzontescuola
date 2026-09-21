@@ -25,11 +25,27 @@
         "articles": [
             {
                 "category": "Docenti",
+                "title": "Sostegno, il giudizio sanitario non determina automaticamente il numero di ore. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/sostegno-il-giudizio-sanitario-non-determina-automaticamente-il-numero-di-ore-pillole-di-question-time/",
+                "date": "20 Set 2026",
+                "time": "21:00",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_1006221601.jpg"
+            },
+            {
+                "category": "Docenti",
                 "title": "Insegnanti? “Spesso inascoltati, la mia solidarietà”. Lo Scrittore Fulvio Abbate ad OrizzonteScuola",
                 "link": "https://www.orizzontescuola.it/insegnanti-spesso-inascoltati-la-mia-solidarieta-lo-scrittore-fulvio-abbate-ad-orizzontescuola/",
                 "date": "20 Set 2026",
                 "time": "20:00",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/09/shutterstock_1955536717.jpg"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Prof accoltellata, i genitori del 13enne chiedono scusa: “Ci vergogniamo”. Indagini sul video social e su chi ha istigato il ragazzo",
+                "link": "https://www.orizzontescuola.it/prof-accoltellata-i-genitori-del-13enne-chiedono-scusa-ci-vergogniamo-indagini-sul-video-social-e-su-chi-ha-istigato-il-ragazzo/",
+                "date": "20 Set 2026",
+                "time": "19:59",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/shutterstock_1565791930.jpg"
             },
             {
                 "category": "Chiedilo a Lalla",
@@ -134,7 +150,12 @@
                 "date": "20 Set 2026",
                 "time": "9:51",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/07/shutterstock_1029430792.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Politica scolastica",
                 "title": "Valditara: “No alla cultura woke a scuola. Non posso accettare che si scriva “car* bambin*”, “car* student*”, esiste il genere maschile e femminile, non usiamo il neutro”",
@@ -150,12 +171,7 @@
                 "date": "20 Set 2026",
                 "time": "8:47",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2570080799.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Plus",
                 "title": "“L’Agenda delle scadenze” per Segreterie, DSGA e Dirigenti: dove la trovo? A cosa mi serve?",
@@ -276,36 +292,12 @@
                 "date": "19 Set 2026",
                 "time": "16:21",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_1897255669-scaled.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "Alunni stranieri, “Ieri noi negli USA, oggi loro in Italia”: la riflessione di Giacomo Visconti tra  la necessità di un patto educativo e risorse",
-                "link": "https://www.orizzontescuola.it/alunni-stranieri-ieri-noi-negli-usa-oggi-loro-in-italia-la-riflessione-di-giacomo-visconti-tra-la-necessita-di-un-patto-educativo-e-risorse/",
-                "date": "19 Set 2026",
-                "time": "15:44",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/shutterstock_2160229123.jpg"
-            },
-            {
-                "category": "Cronaca",
-                "title": "“Docenti sottopagati e scambiati per babysitter”, il j’accuse di Stefania Auci sulla scuola: “A chi affidiamo il futuro, neghiamo la dignità sociale”",
-                "link": "https://www.orizzontescuola.it/docenti-sottopagati-e-scambiati-per-babysitter-il-jaccuse-di-stefania-auci-sulla-scuola-a-chi-affidiamo-il-futuro-neghiamo-la-dignita-sociale/",
-                "date": "19 Set 2026",
-                "time": "15:10",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_2509711843.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
-            {
-                "category": "Cronaca",
-                "title": "Prof accoltellata, i genitori del 13enne chiedono scusa: “Ci vergogniamo”. Indagini sul video social e su chi ha istigato il ragazzo",
-                "link": "https://www.orizzontescuola.it/prof-accoltellata-i-genitori-del-13enne-chiedono-scusa-ci-vergogniamo-indagini-sul-video-social-e-su-chi-ha-istigato-il-ragazzo/",
-                "date": "20 Set 2026",
-                "time": "19:59",
-                "image_link": "N/A"
-            },
             {
                 "category": "Genitori",
                 "title": "Settimana della Dislessia 2026 dal 5 all’11 ottobre, AID lancia “DSA ad alta voce”: studenti, adulti e famiglie possono raccontarsi",
@@ -440,6 +432,14 @@
                 "link": "https://www.orizzontescuola.it/patto-generazionale-m5s-15mila-euro-ai-diciottenni-e-voto-a-16-anni-le-12-proposte/",
                 "date": "19 Set 2026",
                 "time": "14:21",
+                "image_link": "N/A"
+            },
+            {
+                "category": "Cronaca",
+                "title": "Prof accoltellata, Save the Children: “Investire sul benessere psicologico dei ragazzi”",
+                "link": "https://www.orizzontescuola.it/prof-accoltellata-save-the-children-investire-sul-benessere-psicologico-dei-ragazzi/",
+                "date": "19 Set 2026",
+                "time": "13:48",
                 "image_link": "N/A"
             }
         ]
