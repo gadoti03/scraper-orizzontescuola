@@ -24,6 +24,30 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "ATA",
+                "title": "Polizza sanitaria scuola, i ticket del Servizio sanitario nazionale non vengono rimborsati. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/polizza-sanitaria-scuola-i-ticket-del-servizio-sanitario-nazionale-non-vengono-rimborsati-pillole-di-question-time/",
+                "date": "23 Set 2026",
+                "time": "22:21",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/12/shutterstock_1725696412.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Supplenze 2026/27: sempre nuovi interpelli alla ricerca di insegnanti",
+                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
+                "date": "23 Set 2026",
+                "time": "21:38",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_2706987597.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
+                "title": "Percorsi di abilitazione all’insegnamento nella scuola secondaria IV ciclo a.a. 2026/27. Tutte le info nella newsletter di venerdì 25 settembre",
+                "link": "https://www.orizzontescuola.it/percorsi-di-abilitazione-allinsegnamento-nella-scuola-secondaria-iv-ciclo-a-a-2026-27-tutte-le-info-nella-newsletter-di-venerdi-25-settembre/",
+                "date": "23 Set 2026",
+                "time": "21:27",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/La-newsletter-per-Diventare-insegnante-2.png"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze da GPS, la pubblicazione dei bollettini dipende dalle nuove disponibilità. Turni “sempre più piccoli”?",
                 "link": "https://www.orizzontescuola.it/supplenze-da-gps-la-pubblicazione-dei-bollettini-dipende-dalle-nuove-disponibilita-turni-sempre-piu-piccoli/",
@@ -119,7 +143,12 @@
                 "date": "23 Set 2026",
                 "time": "13:40",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/02/shutterstock_773774497-1200x800.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze docenti 2026/27: i nuovi bollettini da GPS [AGGIORNATO]",
@@ -129,26 +158,13 @@
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1937300755.jpg"
             },
             {
-                "category": "Diventare Insegnanti",
-                "title": "Supplenze 2026/27: sempre nuovi interpelli alla ricerca di insegnanti",
-                "link": "https://www.orizzontescuola.it/scuole-alla-ricerca-di-docenti-tramite-interpello-ecco-gli-avvisi-in-aggiornamento/",
-                "date": "23 Set 2026",
-                "time": "13:00",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_2706987597.jpg"
-            },
-            {
                 "category": "ATA",
                 "title": "Permessi Legge 104, più familiari possono assistere la stessa persona ma restano 3 giorni complessivi: cosa succede se si supera il limite",
                 "link": "https://www.orizzontescuola.it/permessi-legge-104-piu-familiari-possono-assistere-la-stessa-persona-ma-restano-3-giorni-complessivi-cosa-succede-se-si-supera-il-limite/",
                 "date": "23 Set 2026",
                 "time": "12:34",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/01/shutterstock_2504568361.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "ATA",
                 "title": "Supplenza da Collaboratore scolastico, il plesso di servizio viene assegnato dalla scuola. Pillole di Question Time",
@@ -269,22 +285,6 @@
                 "date": "23 Set 2026",
                 "time": "9:42",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2021/08/shutterstock_633750290.jpg"
-            },
-            {
-                "category": "Docenti",
-                "title": "L’IA è già il nuovo compagno di banco, ne fa uso l’89% degli studenti italiani: staccata la media europea del 72%",
-                "link": "https://www.orizzontescuola.it/lia-e-gia-il-nuovo-compagno-di-banco-ne-fa-uso-l89-degli-studenti-italiani-staccata-la-media-europea-del-72/",
-                "date": "23 Set 2026",
-                "time": "9:30",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2025/09/shutterstock_1745268806.jpg"
-            },
-            {
-                "category": "ATA",
-                "title": "Polizza sanitaria scuola, il parto rientra tra le prestazioni coperte senza franchigia. Pillole di Question Time",
-                "link": "https://www.orizzontescuola.it/polizza-sanitaria-scuola-il-parto-rientra-tra-le-prestazioni-coperte-senza-franchigia-pillole-di-question-time/",
-                "date": "23 Set 2026",
-                "time": "9:21",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/03/shutterstock_1933843310.jpg"
             }
         ]
     },
@@ -559,6 +559,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Bucalo: “Il mio obiettivo è questo: c’è il concorso, c’è la tutela sacrosanta degli idonei e poi c’è chi ha portato avanti questa grande istituzione.”",
+                "link": "https://www.orizzontescuola.it/bucalo-il-mio-obiettivo-e-questo-ce-il-concorso-ce-la-tutela-sacrosanta-degli-idonei-e-poi-ce-chi-ha-portato-avanti-questa-grande-istituzione/",
+                "date": "23 Set 2026",
+                "time": "9:11",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2023/12/Bucalo.jpeg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "Immissioni in ruolo, l’assunzione da concorso durante l’anno non interrompe la supplenza al 30 giugno. Pillole di Question Time",
                 "link": "https://www.orizzontescuola.it/immissioni-in-ruolo-lassunzione-da-concorso-durante-lanno-non-interrompe-la-supplenza-al-30-giugno-pillole-di-question-time/",
                 "date": "22 Set 2026",
@@ -572,14 +580,6 @@
                 "date": "22 Set 2026",
                 "time": "18:16",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/09/shutterstock_210164686.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Percorsi di abilitazione all’insegnamento nella scuola secondaria IV ciclo a.a. 2026/27. Tutte le info nella newsletter di venerdì 25 settembre",
-                "link": "https://www.orizzontescuola.it/percorsi-di-abilitazione-allinsegnamento-nella-scuola-secondaria-iv-ciclo-a-a-2026-27-tutte-le-info-nella-newsletter-di-venerdi-25-settembre/",
-                "date": "22 Set 2026",
-                "time": "15:52",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/03/La-newsletter-per-Diventare-insegnante-2.png"
             },
             {
                 "category": "Diventare Insegnanti",
