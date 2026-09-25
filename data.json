@@ -24,6 +24,14 @@
         "title": "Ultimi Aggiornamenti",
         "articles": [
             {
+                "category": "ATA",
+                "title": "Polizza sanitaria scuola, non tutti gli interventi chirurgici sono coperti. Pillole di Question Time",
+                "link": "https://www.orizzontescuola.it/polizza-sanitaria-scuola-non-tutti-gli-interventi-chirurgici-sono-coperti-pillole-di-question-time/",
+                "date": "24 Set 2026",
+                "time": "22:21",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2024/02/shutterstock_1190997985-scaled.jpg"
+            },
+            {
                 "category": "Diventare Insegnanti",
                 "title": "Supplenze 2026: “Faccio parte della numerosa categoria di docenti insoddisfatti dalle nomine GPS”: ecco perché",
                 "link": "https://www.orizzontescuola.it/supplenze-2026-faccio-parte-della-numerosa-categoria-di-docenti-insoddisfatti-dalle-nomine-gps-ecco-perche/",
@@ -142,7 +150,12 @@
                 "date": "24 Set 2026",
                 "time": "16:41",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/08/shutterstock_1064007173.jpg"
-            },
+            }
+        ]
+    },
+    "group_3": {
+        "title": "Ultime Notizie",
+        "articles": [
             {
                 "category": "Politica scolastica",
                 "title": "Decreto Scuola, un’ora di latino facoltativo alla scuola media da settembre 2027 per 33 ore annue. BOZZA",
@@ -150,12 +163,7 @@
                 "date": "24 Set 2026",
                 "time": "16:38",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/02/shutterstock_2213520949.jpg"
-            }
-        ]
-    },
-    "group_3": {
-        "title": "Ultime Notizie",
-        "articles": [
+            },
             {
                 "category": "Cronaca",
                 "title": "Lamezia Terme, il piano contro la docente sventato su Telegram: parla la professoressa e chiede il massimo riserbo",
@@ -284,20 +292,13 @@
                 "date": "24 Set 2026",
                 "time": "11:09",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2020/12/shutterstock_1708897081.jpg"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "Tetto 30% alunni stranieri, il nodo dei docenti A023 (Italiano come seconda lingua). Sono 762: pochi, instabili e spesso utilizzati per altro",
-                "link": "https://www.orizzontescuola.it/tetto-30-alunni-stranieri-il-nodo-dei-docenti-a023-italiano-come-seconda-lingua-pochi-instabili-e-spesso-utilizzati-per-altro/",
-                "date": "24 Set 2026",
-                "time": "10:40",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/09/shutterstock_2668354355.jpg"
             }
         ]
     },
     "group_4": {
         "title": "In Breve",
         "articles": [
+            null,
             {
                 "category": "Comunicati stampa",
                 "title": "Pacifico (Anief): “Sì alla carta europea dei docenti che riconosca regole comuni su orari, stipendi, sicurezza e il riconoscimento del lavoro usurante”",
@@ -426,14 +427,6 @@
                 "date": "24 Set 2026",
                 "time": "12:52",
                 "image_link": "N/A"
-            },
-            {
-                "category": "Politica scolastica",
-                "title": "FMOF 2026/27, 847 milioni alle scuole. Gilda: “Bene l’apertura dell’Amministrazione alle nostre proposte”",
-                "link": "https://www.orizzontescuola.it/fmof-2026-27-847-milioni-alle-scuole-gilda-bene-lapertura-dellamministrazione-alle-nostre-proposte/",
-                "date": "24 Set 2026",
-                "time": "12:51",
-                "image_link": "N/A"
             }
         ]
     },
@@ -559,6 +552,14 @@
         "articles": [
             {
                 "category": "Diventare Insegnanti",
+                "title": "Supplenze docenti brevi e temporanee, quanto tempo c’è tra convocazione e presa di servizio?",
+                "link": "https://www.orizzontescuola.it/supplenze-docenti-brevi-e-temporanee-quanto-tempo-ce-tra-convocazione-e-presa-di-servizio/",
+                "date": "24 Set 2026",
+                "time": "10:25",
+                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/shutterstock_1551816320.jpg"
+            },
+            {
+                "category": "Diventare Insegnanti",
                 "title": "“GPS, idonei e concorsisti: spesso sono le stesse persone”",
                 "link": "https://www.orizzontescuola.it/gps-idonei-e-concorsisti-spesso-sono-le-stesse-persone/",
                 "date": "24 Set 2026",
@@ -596,14 +597,6 @@
                 "date": "23 Set 2026",
                 "time": "18:38",
                 "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2022/07/shutterstock_341870168-scaled.jpg"
-            },
-            {
-                "category": "Diventare Insegnanti",
-                "title": "Docenti neoassunti 2026/27: ambiente Indire ancora chiuso, seguiranno aggiornamenti",
-                "link": "https://www.orizzontescuola.it/docenti-neoassunti-2026-27-ambiente-indire-ancora-chiuso-seguiranno-aggiornamenti/",
-                "date": "23 Set 2026",
-                "time": "15:56",
-                "image_link": "https://www.orizzontescuola.it/wp-content/uploads/2026/06/Teacher_write-e1784721115269.png"
             }
         ]
     },
